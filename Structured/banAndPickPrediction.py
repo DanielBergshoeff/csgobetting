@@ -1,10 +1,22 @@
+import os
+script_dir = os.path.dirname(__file__)
+script_dirArray = script_dir.split("/")
+structuredPos = 0
+root = ''
+for i in range(len(script_dirArray)-1,0,-1):
+    if(script_dirArray[i] == 'Structured'):
+        structuredPos = i + 1
+for i in range(0,structuredPos):
+    root += script_dirArray[i]
+    root += '/'
+
 import numpy as np
 from datetime import date
 from operator import itemgetter
 import pdb
 
 # INSERT NEEDED INFORMATION HERE
-fileToImport = 'matchesTotal.txt'
+fileToImport = root+'matchFiles/matchesTotal.txt'
 timeWeightLoss = -0.14
 # -0.15 voor BO3 (0.29 correctness)
 # -0.3 voor BO1 (0.29 correctness)
@@ -23,15 +35,15 @@ import_map = import_data[:,][:,7]
 import_event = import_data[:,][:,8]
 
 # import team IDs
-with open('teamIDs.txt', "r") as text_file:
+with open(root+'idFiles/teamIDs.txt', "r") as text_file:
     teamIDs = text_file.readline().split()
     
 # import map IDs
-with open('mapIDs.txt', "r") as text_file:
+with open(root+'idFiles/mapIDs.txt', "r") as text_file:
     mapIDs = text_file.readline().split()
     
 # import event IDs
-with open('eventIDs.txt', "r") as text_file:
+with open(root+'idFiles/eventIDs.txt', "r") as text_file:
     eventIDs = text_file.readline().split()
 
 
@@ -194,7 +206,7 @@ def allProbableMapBans (resultTeam1, resultTeam2, numBans, numPicks):
                     break
     return [allBannedMaps,allPickedMaps]
 
-def getRatios (team1, team2, date, daysBackLimit, numBans, numPicks):
+def predictBansAndPicks (team1, team2, date, daysBackLimit, numBans, numPicks):
     resultsTotalT1 = list ()
     resultsTotalT2 = list ()
     for i in range(0,len(mapIDs)):
@@ -227,7 +239,7 @@ def getRatios (team1, team2, date, daysBackLimit, numBans, numPicks):
     return maps
     
     
-#getRatios('SK', 'Liquid',[2016,7,9], 100, 4,0)
+print(predictBansAndPicks('SK', 'Liquid',[2016,7,9], 100, 4,0))
 
-#getRatios('SK', 'Liquid',[2016,7,9], 100, 3,2)
+#predictBansAndPicks('SK', 'Liquid',[2016,7,9], 100, 3,2)
 

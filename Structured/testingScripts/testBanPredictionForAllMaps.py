@@ -1,22 +1,35 @@
-from teamPerformance import getRatios
+import os
+script_dir = os.path.dirname(__file__)
+script_dirArray = script_dir.split("/")
+structuredPos = 0
+root = ''
+for i in range(len(script_dirArray)-1,0,-1):
+    if(script_dirArray[i] == 'Structured'):
+        structuredPos = i + 1
+for i in range(0,structuredPos):
+    root += script_dirArray[i]
+    root += '/'
+
 import sys
+sys.path.insert(0,root)
+from banAndPickPrediction import predictBansAndPicks
 
-vetoFile = 'matches_vetoProces.txt'
+vetoFile = root + 'matchFiles/matches_vetoProces.txt'
 
-daysBack = 100
+daysBack = 50
 # 50 voor BO3
 # 100 voor BO1
 
 # import existing teamnames
-with open('idFiles/teamIDs.txt', "r") as text_file:
+with open(root + 'idFiles/teamIDs.txt', "r") as text_file:
     teamIDs = text_file.readline().split()
     
 # import map IDs
-with open('idFiles/mapIDs.txt', "r") as text_file:
+with open(root + 'idFiles/mapIDs.txt', "r") as text_file:
     mapIDs = text_file.readline().split()
     
 # import event IDs
-with open('idFiles/eventIDs.txt', "r") as text_file:
+with open(root + 'idFiles/eventIDs.txt', "r") as text_file:
     eventIDs = text_file.readline().split()
 
 vetoArray = list()
@@ -37,6 +50,8 @@ def BO3compare (originalChoices):
     team1 = originalChoices[4]
     team2 = originalChoices[5]
     maps = originalChoices[6].split(';')
+    banMaps = [maps[0],maps[1],maps[4], maps[5]]
+    pickMaps = [maps[2],maps[3]]
 #    print ('{0} VS {1} on {2}'.format(team1, team2, date))
     numBan = 0
     numPick = 0
@@ -50,7 +65,7 @@ def BO3compare (originalChoices):
                 numPick += 1
     
 #    print (numBan, numPick)
-    predictedMaps = getRatios(team1, team2, date, daysBack, numBan, numPick)
+    predictedMaps = predictBansAndPicks(team1, team2, date, daysBack, numBan, numPick)
 #    print (predictedMaps)
     numBan = 0
     numPick = 0
@@ -60,12 +75,12 @@ def BO3compare (originalChoices):
             break
         else:
             if (numBan <2 or numPick == 2):
-                if (predictedMaps[0][numBan] == maps[i]):
+                if (predictedMaps[0][numBan] in banMaps):
                     correctMaps += 1
 #                print('Ban {0}    {1} | {2}'.format(i,predictedMaps[0][numBan],maps[i]))
                 numBan += 1
             else:
-                if (predictedMaps[1][numPick] == maps[i]):
+                if (predictedMaps[1][numPick] in pickMaps):
                     correctMaps += 1
 #                print('Pic {0}    {1} | {2}'.format(i,predictedMaps[1][numPick],maps[i]))
                 numPick += 1
@@ -94,7 +109,7 @@ def BO1compare (originalChoices):
             numBan += 1
     
 #    print (numBan, numPick)
-    predictedMaps = getRatios(team1, team2, date, daysBack, numBan, numPick)
+    predictedMaps = predictBansAndPicks(team1, team2, date, daysBack, numBan, numPick)
 #    print (predictedMaps)
     numBan = 0
     numPick = 0
@@ -103,7 +118,7 @@ def BO1compare (originalChoices):
         if (maps[i] == 'none'):
             break
         else:
-            if (predictedMaps[0][numBan] == maps[i]):
+            if (predictedMaps[0][numBan] in maps):
                 correctMaps += 1
 #            print('Ban {0}    {1} | {2}'.format(i,predictedMaps[0][numBan],maps[i]))
             numBan += 1

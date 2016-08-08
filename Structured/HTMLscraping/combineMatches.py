@@ -1,10 +1,22 @@
+import os
+script_dir = os.path.dirname(__file__)
+script_dirArray = script_dir.split("/")
+structuredPos = 0
+root = ''
+for i in range(len(script_dirArray)-1,0,-1):
+    if(script_dirArray[i] == 'Structured'):
+        structuredPos = i + 1
+for i in range(0,structuredPos):
+    root += script_dirArray[i]
+    root += '/'
+    
 import numpy as np
 from datetime import date
 import sys
 
 # INSERT NEEDED INFORMATION HERE
 
-totalFile = 'matchFiles/matchesTotal.txt'
+totalFile = root + 'matchFiles/matchesTotal.txt'
 
 import_dates = list()
 import_homeTeamName = list()
@@ -166,7 +178,7 @@ def combineData ():
 
 def createNewTotalFile (teamName):
     global fileToImport
-    fileToImport = 'matchFiles/matches_'
+    fileToImport = root + 'matchFiles/matches_'
     fileToImport += teamName
     fileToImport += '.txt'
     

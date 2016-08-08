@@ -1,3 +1,15 @@
+import os
+script_dir = os.path.dirname(__file__)
+script_dirArray = script_dir.split("/")
+structuredPos = 0
+root = ''
+for i in range(len(script_dirArray)-1,0,-1):
+    if(script_dirArray[i] == 'Structured'):
+        structuredPos = i + 1
+for i in range(0,structuredPos):
+    root += script_dirArray[i]
+    root += '/'
+
 import sys
 sys.path.append('/usr/local/lib/python2.7/site-packages')
 
@@ -30,15 +42,15 @@ teamIDsOnHLTV = [
 #linkToMatchPage = 'http://www.hltv.org/?pageid=188&teamid='
 
 # import existing teamnames
-with open('../idFiles/teamIDs.txt', "r") as text_file:
+with open(root+ 'idFiles/teamIDs.txt', "r") as text_file:
     teamIDs = text_file.readline().split()
     
 # import map IDs
-with open('../idFiles/mapIDs.txt', "r") as text_file:
+with open(root+ 'idFiles/mapIDs.txt', "r") as text_file:
     mapIDs = text_file.readline().split()
     
 # import event IDs
-with open('../idFiles/eventIDs.txt', "r") as text_file:
+with open(root+ 'idFiles/eventIDs.txt', "r") as text_file:
     eventIDs = text_file.readline().split()
 
 
@@ -131,7 +143,7 @@ for i in range(0,len(teamIDsOnHLTV)):
     # write everything to file
     teamName = homeTeamName[0]
     teamName += '.txt'
-    filename = '../matchFiles/matches_'
+    filename = root+ 'matchFiles/matches_'
     filename += teamName
     with open(filename, "w+") as text_file:
         for i in range(0,len(dates)):
@@ -145,15 +157,15 @@ for i in range(0,len(teamIDsOnHLTV)):
                 str(playedEventIDs[i]).zfill(2)))
 
 # update ID files
-with open('../idFiles/eventIDs.txt', 'w+') as text_file:
+with open(root+ 'idFiles/eventIDs.txt', 'w+') as text_file:
     for i in range(0,len(eventIDs)):
         text_file.write("{0} ".format(eventIDs[i]))
         
-with open('../idFiles/mapIDs.txt', 'w+') as text_file:
+with open(root+ 'idFiles/mapIDs.txt', 'w+') as text_file:
     for i in range(0,len(mapIDs)):
         text_file.write("{0} ".format(mapIDs[i]))
         
-with open('../idFiles/teamIDs.txt', 'w+') as text_file:
+with open(root+ 'idFiles/teamIDs.txt', 'w+') as text_file:
     for i in range(0,len(teamIDs)):
         text_file.write("{0} ".format(teamIDs[i]))
 

@@ -3,7 +3,33 @@
                     
                     
 TO DO:
-    -
+    - automate top 20 team-list and players from http://www.hltv.org/ranking/teams/ [Ruben]
+           - export team and player id's to seperate files
+           
+    - HTMLscraping update to use generated team-list [Ruben]
+    - HTMLscrapingPlayers update to use generated player-list [Daniel]
+    
+    - automate player scraping [Daniel]
+           - complete match history
+           - event history; only event name and team name
+           - weapon stats
+           - clutch rounds; only average (raw stats)
+           - individual statistics; kill/round, opening stats
+    
+    - automate match-scraping for pick/ban choices [Ruben]
+           - filter matches with at least one team in the top 20
+           - only LAN (&statsfilter=2048)
+           - at every page refresh, check first match date; no earlier than 01-2015
+           
+    - script for filtering relevant information from player-scraping [Daniel]
+           - comparing teams in match-history with team in event-history
+    
+
     
 Ideas:
-    -
+    - score for win influenced by the team defeated
+           - big win against top 500 team means nothing for a top 20 team
+           
+    - script voor destilleren keuzes van teams bij pick/ban
+           - is de keuze zichzelf makkelijk maken of andere team moeilijk maken
+           - is het een map waar ze weinig op spelen of waar ze slecht op scoren

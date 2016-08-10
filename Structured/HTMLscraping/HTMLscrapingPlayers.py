@@ -1,15 +1,31 @@
 import os
-script_dir = os.path.dirname(__file__)
-script_dirArray = script_dir.split("/")
-structuredPos = 0
-root = ''
-for i in range(len(script_dirArray)-1,0,-1):
-    if(script_dirArray[i] == 'Structured'):
-        structuredPos = i + 1
-for i in range(0,structuredPos):
-    root += script_dirArray[i]
-    root += '/'
-    
+
+from sys import platform
+if platform == "darwin":
+    # OS X
+    script_dir = os.path.dirname(__file__)
+    script_dirArray = script_dir.split("/")
+    structuredPos = 0
+    root = ''
+    for i in range(len(script_dirArray)-1,0,-1):
+        if(script_dirArray[i] == 'Structured'):
+            structuredPos = i + 1
+    for i in range(0,structuredPos):
+        root += script_dirArray[i]
+        root += '/'
+elif platform == "win32" or platform == "cygwin":
+    # Windows...
+    script_dir = os.path.dirname(__file__)
+    script_dirArray = script_dir.split("\\")
+    structuredPos = 0
+    root = ''
+    for i in range(len(script_dirArray)-1,0,-1):
+        if(script_dirArray[i] == 'Structured'):
+            structuredPos = i + 1
+    for i in range(0,structuredPos):
+        root += script_dirArray[i]
+        root += '\\'
+
 import sys
 sys.path.append('/usr/local/lib/python2.7/site-packages')
 
@@ -24,15 +40,15 @@ playerIDsOnHLTV = [
 #linkToPlayerPage = 'http://www.hltv.org/?pageid=246&playerid='
 
 # import existing teamnames
-with open(root+ 'D:\Daniel\Github\CSGOBetting\Structured\idFiles\\teamIDs.txt', "r") as text_file:
+with open(root+ 'idFiles\teamIDs.txt', "r") as text_file:
     teamIDs = text_file.readline().split()
 
 # import existing playernames
-with open(root+ 'D:\Daniel\Github\CSGOBetting\Structured\idFiles\playerIDs.txt', "r") as text_file:
+with open(root+ 'idFiles\playerIDs.txt', "r") as text_file:
     playerIDs = text_file.readline().split()
 
 # import map IDs
-with open(root+ 'D:\Daniel\Github\CSGOBetting\Structured\idFiles\mapIDs.txt', "r") as text_file:
+with open(root+ 'idFiles\mapIDs.txt', "r") as text_file:
     mapIDs = text_file.readline().split()
     
 for l in range(0,len(playerIDsOnHLTV)):
@@ -101,7 +117,7 @@ for l in range(0,len(playerIDsOnHLTV)):
     # write everything to file
     playerName = playerIDsOnHLTV[l][1]
     playerName += '.txt'
-    filename = 'D:\Daniel\Github\CSGOBetting\Structured\playerMatchFiles\\matches_'
+    filename = root + 'playerMatchFiles\matches_'
     filename += playerName
     with open(filename, "w+") as text_file:
         for i in range(0,len(dates)):

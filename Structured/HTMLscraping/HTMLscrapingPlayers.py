@@ -13,6 +13,8 @@ if platform == "darwin":
     for i in range(0,structuredPos):
         root += script_dirArray[i]
         root += '/'
+    import sys
+    sys.path.append('/usr/local/lib/python2.7/site-packages')
 elif platform == "win32" or platform == "cygwin":
     # Windows...
     script_dir = os.path.dirname(__file__)
@@ -39,17 +41,23 @@ playerIDsOnHLTV = [
 ]
 #linkToPlayerPage = 'http://www.hltv.org/?pageid=246&playerid='
 
-# import existing teamnames
-with open(root+ 'idFiles\teamIDs.txt', "r") as text_file:
-    teamIDs = text_file.readline().split()
-
-# import existing playernames
-with open(root+ 'idFiles\playerIDs.txt', "r") as text_file:
-    playerIDs = text_file.readline().split()
-
-# import map IDs
-with open(root+ 'idFiles\mapIDs.txt', "r") as text_file:
-    mapIDs = text_file.readline().split()
+# import ID files
+if platform == "darwin":
+    # OS X
+    with open(root+ 'idFiles/teamIDs.txt', "r") as text_file:
+        teamIDs = text_file.readline().split()
+    with open(root+ 'idFiles/mapIDs.txt', "r") as text_file:
+        mapIDs = text_file.readline().split()
+    with open(root+ 'idFiles/eventIDs.txt', "r") as text_file:
+        eventIDs = text_file.readline().split()
+elif platform == "win32" or platform == "cygwin":
+    # Windows
+    with open(root+ 'idFiles\\teamIDs.txt', "r") as text_file:
+        teamIDs = text_file.readline().split()
+    with open(root+ 'idFiles\\mapIDs.txt', "r") as text_file:
+        mapIDs = text_file.readline().split()
+    with open(root+ 'idFiles\\eventIDs.txt', "r") as text_file:
+        eventIDs = text_file.readline().split()
     
 for l in range(0,len(playerIDsOnHLTV)):
     linkToPlayerPage = 'http://www.hltv.org/?pageid=246&playerid='
@@ -117,7 +125,14 @@ for l in range(0,len(playerIDsOnHLTV)):
     # write everything to file
     playerName = playerIDsOnHLTV[l][1]
     playerName += '.txt'
-    filename = root + 'playerMatchFiles\matches_'
+    
+    if platform == "darwin":
+        # OS X
+        filename = root + 'playerMatchFiles/matches_'
+    elif platform == "win32" or platform == "cygwin":
+        # Windows
+        filename = root + 'playerMatchFiles\\matches_'
+
     filename += playerName
     with open(filename, "w+") as text_file:
         for i in range(0,len(dates)):

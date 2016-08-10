@@ -13,6 +13,8 @@ if platform == "darwin":
     for i in range(0,structuredPos):
         root += script_dirArray[i]
         root += '/'
+    import sys
+    sys.path.append('/usr/local/lib/python2.7/site-packages')
 elif platform == "win32" or platform == "cygwin":
     # Windows...
     script_dir = os.path.dirname(__file__)
@@ -27,25 +29,35 @@ elif platform == "win32" or platform == "cygwin":
         root += '\\'
 
 
-import sys
-sys.path.append('/usr/local/lib/python2.7/site-packages')
+
 
 from lxml import html
 import requests
 
-vetoFile = root + 'matchFiles/matches_vetoProces.txt'
+if platform == "darwin":
+    # OS X
+    vetoFile = root+ 'matchFiles/matches_vetoProces.txt'
+elif platform == "win32" or platform == "cygwin":
+    # Windows
+    vetoFile = root+ 'matchFiles\\matches_vetoProces.txt'
 
-# import existing teamnames
-with open(root + 'idFiles/teamIDs.txt', "r") as text_file:
-    teamIDs = text_file.readline().split()
-    
-# import map IDs
-with open(root + 'idFiles/mapIDs.txt', "r") as text_file:
-    mapIDs = text_file.readline().split()
-    
-# import event IDs
-with open(root + 'idFiles/eventIDs.txt', "r") as text_file:
-    eventIDs = text_file.readline().split()
+# import ID files
+if platform == "darwin":
+    # OS X
+    with open(root+ 'idFiles/teamIDs.txt', "r") as text_file:
+        teamIDs = text_file.readline().split()
+    with open(root+ 'idFiles/mapIDs.txt', "r") as text_file:
+        mapIDs = text_file.readline().split()
+    with open(root+ 'idFiles/eventIDs.txt', "r") as text_file:
+        eventIDs = text_file.readline().split()
+elif platform == "win32" or platform == "cygwin":
+    # Windows
+    with open(root+ 'idFiles\\teamIDs.txt', "r") as text_file:
+        teamIDs = text_file.readline().split()
+    with open(root+ 'idFiles\\mapIDs.txt', "r") as text_file:
+        mapIDs = text_file.readline().split()
+    with open(root+ 'idFiles\\eventIDs.txt', "r") as text_file:
+        eventIDs = text_file.readline().split()
 
 while(True):
     print ('Please provide new match URL, or type \'quit\' to stop')

@@ -31,9 +31,12 @@ import numpy as np
 from datetime import date
 import sys
 
-# INSERT NEEDED INFORMATION HERE
-
-totalFile = root + 'matchFiles/matchesTotal.txt'
+if platform == "darwin":
+    # OS X
+    totalFile = root + 'matchFiles/matchesTotal.txt'
+elif platform == "win32" or platform == "cygwin":
+    # Windows
+    totalFile = root + 'matchFiles\\matchesTotal.txt'
 
 import_dates = list()
 import_homeTeamName = list()
@@ -195,9 +198,17 @@ def combineData ():
 
 def createNewTotalFile (teamName):
     global fileToImport
-    fileToImport = root + 'matchFiles/matches_'
-    fileToImport += teamName
-    fileToImport += '.txt'
+    
+    if platform == "darwin":
+        # OS X
+        fileToImport = root + 'matchFiles/matches_'
+        fileToImport += teamName
+        fileToImport += '.txt'
+    elif platform == "win32" or platform == "cygwin":
+        # Windows
+        fileToImport = root + 'matchFiles\\matches_'
+        fileToImport += teamName
+        fileToImport += '.txt'
     
     importData()
     

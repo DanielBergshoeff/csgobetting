@@ -1,7 +1,8 @@
 2016-08-08: Ruben,  - check for doubles gefixt in HTMLscrapingmatch + v2
                     - root-finder gevonden, voortaan toevoegen aan elk .py script bovenaan en gebruiken voor referenties
-2016-09-10: Ruben,  - automate top 20 team-list and players from http://www.hltv.org/ranking/teams/
+2016-08-10: Ruben,  - automate top 20 team-list and players from http://www.hltv.org/ranking/teams/
                     - root-finder cross-platform problem (hopefully) fixed, needs testing on windows
+2016-08-11: Ruben,  - newline aan einde van HLTV id-files automatisch toevoegen weggehaald
                     
 TO DO:
     - test if scripts are working on Windows with cross-platform compatible root-finder [Daniel]

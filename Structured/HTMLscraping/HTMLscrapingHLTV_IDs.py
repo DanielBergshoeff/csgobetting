@@ -75,25 +75,41 @@ if platform == "darwin":
     filename = root+ 'idFiles/HLTV_players.txt'
     with open(filename, "w+") as text_file:
         for i in range(0,len(playerIDs)):
-            text_file.write("{0}, {1}\n".format(
-                playerIDs[i][0], playerIDs[i][1]))
+            if (i == 0):
+                text_file.write("{0}, {1}".format(
+                    playerIDs[i][0], playerIDs[i][1]))
+            else:
+                text_file.write("\n{0}, {1}".format(
+                    playerIDs[i][0], playerIDs[i][1]))
     filename = root+ 'idFiles/HLTV_top20Teams.txt'
     with open(filename, "w+") as text_file:
         for i in range(0,len(teamIDs)):
-            text_file.write("{0}, {1}\n".format(
-                teamIDs[i][0], teamIDs[i][1]))
+            if (i == 0):
+                text_file.write("{0}, {1}".format(
+                    teamIDs[i][0], teamIDs[i][1]))
+            else:    
+                text_file.write("\n{0}, {1}".format(
+                    teamIDs[i][0], teamIDs[i][1]))
 elif platform == "win32" or platform == "cygwin":
     # Windows
     filename = root+ 'idFiles\\HLTV_players.txt'
     with open(filename, "w+") as text_file:
         for i in range(0,len(playerIDs)):
-            text_file.write("{0}, {1}\n".format(
-                playerIDs[i][0], playerIDs[i][1]))
+            if (i == 0):
+                text_file.write("{0}, {1}".format(
+                    playerIDs[i][0], playerIDs[i][1]))
+            else:
+                text_file.write("\n{0}, {1}".format(
+                    playerIDs[i][0], playerIDs[i][1]))
     filename = root+ 'idFiles\\HLTV_top20Teams.txt'
     with open(filename, "w+") as text_file:
         for i in range(0,len(teamIDs)):
-            text_file.write("{0}, {1}\n".format(
-                teamIDs[i][0], teamIDs[i][1]))
+            if (i == 0):
+                text_file.write("{0}, {1}".format(
+                    teamIDs[i][0], teamIDs[i][1]))
+            else:    
+                text_file.write("\n{0}, {1}".format(
+                    teamIDs[i][0], teamIDs[i][1]))
 
     
 print ("DONE")

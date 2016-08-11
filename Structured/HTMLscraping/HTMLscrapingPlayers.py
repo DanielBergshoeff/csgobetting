@@ -34,12 +34,15 @@ sys.path.append('/usr/local/lib/python2.7/site-packages')
 from lxml import html
 import requests
 
-# INSERT NEEDED INFORMATION HERE
-playerIDsOnHLTV = [
-    [695, 'allu'],
-    [9216, 'coldzera']
-]
-#linkToPlayerPage = 'http://www.hltv.org/?pageid=246&playerid='
+# import player ID's
+if platform == "darwin":
+    # OS X
+    with open(root+ 'idFiles/HLTV_players.txt', "r") as text_file:
+        allPlayersHLTV = text_file.read().split('\n')
+elif platform == "win32" or platform == "cygwin":
+    # Windows
+    with open(root+ 'idFiles\\HLTV_players.txt', "r") as text_file:
+        allPlayersHLTV = text_file.read().split('\n')
 
 # import ID files
 if platform == "darwin":
@@ -58,10 +61,12 @@ elif platform == "win32" or platform == "cygwin":
         mapIDs = text_file.readline().split()
     with open(root+ 'idFiles\\eventIDs.txt', "r") as text_file:
         eventIDs = text_file.readline().split()
+        
     
-for l in range(0,len(playerIDsOnHLTV)):
+for l in range(0,len(allPlayersHLTV)):
     linkToPlayerPage = 'http://www.hltv.org/?pageid=246&playerid='
-    linkToPlayerPage += str(playerIDsOnHLTV[l][0])
+    playerID = allPlayersHLTV[l].replace(" ", "").split(",")
+    linkToPlayerPage += str(playerID[1])
     
     # download page
     page = requests.get(linkToPlayerPage)
@@ -123,7 +128,7 @@ for l in range(0,len(playerIDsOnHLTV)):
         outTeamScore.append(outTeam[i].split("(")[1].replace(")",""))
             
     # write everything to file
-    playerName = playerIDsOnHLTV[l][1]
+    playerName = playerID[0]
     playerName += '.txt'
     
     if platform == "darwin":

@@ -73,7 +73,6 @@ for l in range(0,len(allPlayersHLTV)):
     tree = html.fromstring(page.content)
     
     # this will create a list of the extracted text
-    datesAndTeams = tree.xpath('//div[@class="covSmallHeadline"]/a/text()')
     rest = tree.xpath('//div[@class="covSmallHeadline"]//text()')
     
     # create lists
@@ -101,17 +100,17 @@ for l in range(0,len(allPlayersHLTV)):
         currentI = (i - 10) % 9
         if (currentI == 0):
             dates.append(rest[i].replace(" ","/20"))
-        if (currentI == 1):
+        elif (currentI == 1):
             homeTeam.append(rest[i].replace(" ",""))
-        if (currentI == 2):
+        elif (currentI == 2):
             outTeam.append(rest[i].replace(" ",""))
-        if (currentI == 3):
+        elif (currentI == 3):
             map.append(rest[i])
-        if (currentI == 4):
+        elif (currentI == 4):
             kills.append(rest[i])
-        if (currentI == 6):
+        elif (currentI == 6):
             deaths.append(rest[i])
-        if (currentI == 8):
+        elif (currentI == 8):
             rating.append(rest[i])
             
     # split date

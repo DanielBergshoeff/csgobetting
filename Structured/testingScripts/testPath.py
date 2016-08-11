@@ -66,12 +66,13 @@ for l in range(0,len(allPlayersHLTV)):
     tree = html.fromstring(page.content)
     
     # this will create a list of the extracted text
-    datesAndTeams = tree.xpath('//div[@class="covSmallHeadline"]/a/text()')
     rest = tree.xpath('//div[@class="covSmallHeadline"]//text()')
+
     
-    # create lists
-    
-    
+    # split and process collected list to individual lists
+    for x in range(0, 25):
+        x = 5
+        
     print(rest)
             
     

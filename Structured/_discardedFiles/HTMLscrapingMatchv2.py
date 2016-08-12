@@ -121,7 +121,14 @@ while(True):
     
     # this will create a list of the extracted text
     BOtext = tree.xpath('//div[@id="mapformatbox"]/text()')[:1][0].replace("\n","").strip()
-    allTextforVetos = tree.xpath('//div[@id="mapformatbox"]/text()[preceding-sibling::br]')[:15]
+    allTextforVetos = tree.xpath('//div[@id="mapformatbox"]/text()[preceding-sibling::br]')[:20]
+    vetoMatch = False
+    for i in range(0,len(allTextforVetos)):
+        if (allTextforVetos[i].replace('\n','').replace(':','') == 'Veto process'):
+            vetoMatch = True
+    print(vetoMatch)
+    print (allTextforVetos)
+    print (BOtext)
     allTextforDate = tree.xpath('//div/span[@style="font-size:14px;"]/text()')[:1][0].replace("\n","").replace("of","").replace("st","").replace("nd","").replace("th","").replace("rd","").strip()
     #  event = tree.xpath('//div[@class="covSmallHeadline"]/div/text()')
     allVetos = ['','','','','','']
@@ -145,6 +152,8 @@ while(True):
             exportList.append('BO_1')
         elif (BOtext[-1:] == '3'):
             exportList.append('BO_3')
+        elif (BOtext[-1:] == '5'):
+            exportList.append('BO_5')
         else:
             print ('mate this BO is wacky')
     

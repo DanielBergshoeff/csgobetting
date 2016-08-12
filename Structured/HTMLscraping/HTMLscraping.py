@@ -1,5 +1,7 @@
 import os
-
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 from sys import platform
 if platform == "darwin":
     # OS X
@@ -13,7 +15,6 @@ if platform == "darwin":
     for i in range(0,structuredPos):
         root += script_dirArray[i]
         root += '/'
-    import sys
     sys.path.append('/usr/local/lib/python2.7/site-packages')
 elif platform == "win32" or platform == "cygwin":
     # Windows...
@@ -56,6 +57,21 @@ teamIDsOnHLTV = [
 ]
 #linkToMatchPage = 'http://www.hltv.org/?pageid=188&teamid='
 
+teamIDsOnHLTV = list ()
+# import top-20 HLTV id's
+if platform == "darwin":
+    # OS X
+    with open(root+ 'idFiles/HLTV_top20Teams.txt', "r") as text_file:
+        for line in text_file:
+            teamIDsOnHLTV.append(line.split(',')[1].replace('\n',''))
+elif platform == "win32" or platform == "cygwin":
+    with open(root+ 'idFiles\\HLTV_top20Teams.txt', "r") as text_file:
+        for line in text_file:
+            teamIDsOnHLTV.append(line.split(',')[1].replace('\n',''))
+
+print (teamIDsOnHLTV)
+sys.stdout.flush()
+
 # import ID files
 if platform == "darwin":
     # OS X
@@ -75,9 +91,9 @@ elif platform == "win32" or platform == "cygwin":
         eventIDs = text_file.readline().split()
 
 
-for i in range(0,len(teamIDsOnHLTV)):
+for teamIndex in range(0,len(teamIDsOnHLTV)):
     linkToMatchPage = 'http://www.hltv.org/?pageid=188&teamid='
-    linkToMatchPage += str(teamIDsOnHLTV[i])
+    linkToMatchPage += str(teamIDsOnHLTV[teamIndex])
     
     # download page
     page = requests.get(linkToMatchPage)
@@ -164,6 +180,9 @@ for i in range(0,len(teamIDsOnHLTV)):
     # write everything to file
     teamName = homeTeamName[0]
     
+    print("writing file for {0}, teamname: {1}".format(teamIDsOnHLTV[teamIndex],teamName))
+    sys.stdout.flush()
+    
     if platform == "darwin":
         # OS X
         filename = root + 'matchFiles/matches_'
@@ -185,30 +204,31 @@ for i in range(0,len(teamIDsOnHLTV)):
                 str(outTeamScore[i]).zfill(2),
                 str(playedMapIDs[i]).zfill(2),
                 str(playedEventIDs[i]).zfill(2)))
+    
 
-# update ID files
-if platform == "darwin":
-    # OS X
-    with open(root+ 'idFiles/eventIDs.txt', 'w+') as text_file:
-        for i in range(0,len(eventIDs)):
-            text_file.write("{0} ".format(eventIDs[i]))
-    with open(root+ 'idFiles/mapIDs.txt', 'w+') as text_file:
-        for i in range(0,len(mapIDs)):
-            text_file.write("{0} ".format(mapIDs[i]))
-    with open(root+ 'idFiles/teamIDs.txt', 'w+') as text_file:
-        for i in range(0,len(teamIDs)):
-            text_file.write("{0} ".format(teamIDs[i]))
-elif platform == "win32" or platform == "cygwin":
-    # Windows
-    with open(root+ 'idFiles\\eventIDs.txt', 'w+') as text_file:
-        for i in range(0,len(eventIDs)):
-            text_file.write("{0} ".format(eventIDs[i]))
-    with open(root+ 'idFiles\\mapIDs.txt', 'w+') as text_file:
-        for i in range(0,len(mapIDs)):
-            text_file.write("{0} ".format(mapIDs[i]))
-    with open(root+ 'idFiles\\teamIDs.txt', 'w+') as text_file:
-        for i in range(0,len(teamIDs)):
-            text_file.write("{0} ".format(teamIDs[i]))
+    # update ID files
+    if platform == "darwin":
+        # OS X
+        with open(root+ 'idFiles/eventIDs.txt', 'w+') as text_file:
+            for i in range(0,len(eventIDs)):
+                text_file.write("{0} ".format(eventIDs[i]))
+        with open(root+ 'idFiles/mapIDs.txt', 'w+') as text_file:
+            for i in range(0,len(mapIDs)):
+                text_file.write("{0} ".format(mapIDs[i]))
+        with open(root+ 'idFiles/teamIDs.txt', 'w+') as text_file:
+            for i in range(0,len(teamIDs)):
+                text_file.write("{0} ".format(teamIDs[i]))
+    elif platform == "win32" or platform == "cygwin":
+        # Windows
+        with open(root+ 'idFiles\\eventIDs.txt', 'w+') as text_file:
+            for i in range(0,len(eventIDs)):
+                text_file.write("{0} ".format(eventIDs[i]))
+        with open(root+ 'idFiles\\mapIDs.txt', 'w+') as text_file:
+            for i in range(0,len(mapIDs)):
+                text_file.write("{0} ".format(mapIDs[i]))
+        with open(root+ 'idFiles\\teamIDs.txt', 'w+') as text_file:
+            for i in range(0,len(teamIDs)):
+                text_file.write("{0} ".format(teamIDs[i]))
 
 
 

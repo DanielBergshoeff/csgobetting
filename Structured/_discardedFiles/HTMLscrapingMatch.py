@@ -1,6 +1,7 @@
 import os
 
 from sys import platform
+
 if platform == "darwin":
     # OS X
     script_dir = os.path.dirname(__file__)
@@ -58,69 +59,73 @@ elif platform == "win32" or platform == "cygwin":
     with open(root+ 'idFiles\\eventIDs.txt', "r") as text_file:
         eventIDs = text_file.readline().split()
 
-while(True):
-    print ('Please provide new match URL, or type \'quit\' to stop')
-    sys.stdout.flush()
-    linkToMatchPage = str(raw_input())
-    #linkToMatchPage = 'http://www.hltv.org/match/2303362-flipsid3-optic-esl-one-cologne-2016'
-    if (linkToMatchPage == 'quit'):
-        break
-    
-    # import existing VetoFile
-    vetoFileArray = list()
-    with open(vetoFile,'r') as text_file:
-        for line in text_file:
-            vetoFileArray.append(line.replace(" ","").replace("\n","").split(','))
-    # download page
-    page = requests.get(linkToMatchPage)
-    tree = html.fromstring(page.content)
-    
-    exportList = list()
-    
-    def textDatetoNumDate (text):
-        if (text.lower() == 'january'):
-            return (1)
-        elif (text.lower() == 'february'):
-            return (2)
-        elif (text.lower() == 'march'):
-            return (3)
-        elif (text.lower() == 'april'):
-            return (4)
-        elif (text.lower() == 'may'):
-            return (5)
-        elif (text.lower() == 'june'):
-            return (6)
-        elif (text.lower() == 'july'):
-            return (7)
-        elif (text.lower() == 'august'):
-            return (8)
-        elif (text.lower() == 'september'):
-            return (9)
-        elif (text.lower() == 'october'):
-            return (10)
-        elif (text.lower() == 'november'):
-            return (11)
-        elif (text.lower() == 'december'):
-            return (12)
-        else:
-            print ('mate this date is so hipster its not on the calendar')
-            
-    def getTeamNameFromString (string):
-        arrayFromString = string.split()
-        if (len(arrayFromString) < 5):
-            return arrayFromString[1]
-        else:
-            return ''.join(arrayFromString[1:(len(arrayFromString)-2)])
-    
-    def getMapIDName (string):
-        newString = string.lower()
-        if (newString == 'cobblestone'):
-            newString = 'cbble'
-        return newString
-    
-    # this will create a list of the extracted text
+#while(True):
+   # print ('Please provide new match URL, or type \'quit\' to stop')
+   # sys.stdout.flush()
+   # linkToMatchPage = str(raw_input())
+linkToMatchPage = "http://www.hltv.org/match/2303494-secret-fe-reason-fe-starladder-female-stars-championship"
+#linkToMatchPage = 'http://www.hltv.org/match/2303362-flipsid3-optic-esl-one-cologne-2016'
+#    if (linkToMatchPage == 'quit'):
+#        break
+
+# import existing VetoFile
+vetoFileArray = list()
+with open(vetoFile,'r') as text_file:
+    for line in text_file:
+        vetoFileArray.append(line.replace(" ","").replace("\n","").split(','))
+# download page
+page = requests.get(linkToMatchPage)
+tree = html.fromstring(page.content)
+
+exportList = list()
+
+def textDatetoNumDate (text):
+    if (text.lower() == 'january'):
+        return (1)
+    elif (text.lower() == 'february'):
+        return (2)
+    elif (text.lower() == 'march'):
+        return (3)
+    elif (text.lower() == 'april'):
+        return (4)
+    elif (text.lower() == 'may'):
+        return (5)
+    elif (text.lower() == 'june'):
+        return (6)
+    elif (text.lower() == 'july'):
+        return (7)
+    elif (text.lower() == 'augu'):
+        return (8)
+    elif (text.lower() == 'september'):
+        return (9)
+    elif (text.lower() == 'october'):
+        return (10)
+    elif (text.lower() == 'november'):
+        return (11)
+    elif (text.lower() == 'december'):
+        return (12)
+    else:
+        print ('mate this date is so hipster its not on the calendar')
+        
+def getTeamNameFromString (string):
+    arrayFromString = string.split()
+    if (len(arrayFromString) < 5):
+        return arrayFromString[1]
+    else:
+        return ''.join(arrayFromString[1:(len(arrayFromString)-2)])
+
+def getMapIDName (string):
+    newString = string.lower()
+    if (newString == 'cobblestone'):
+        newString = 'cbble'
+    return newString
+
+# this will create a list of the extracted text
+allTextforVetos = tree.xpath('//div[@class="hotmatchbox"]/div/div/text()')[:20]
+print (allTextforVetos)
+if (allTextforVetos[0] == 'Veto process'):
+    print ('I can veto! :D')
     BOtext = tree.xpath('//div[@class="hotmatchbox"]/div/text()')[:1][0].replace("\n","").strip()
-    allTextforVetos = tree.xpath('//div[@class="hotmatchbox"]/div/div/text()')[:10]
     allTextforDate = tree.xpath('//div/span[@style="font-size:14px;"]/text()')[:1][0].replace("\n","").replace("of","").replace("st","").replace("nd","").replace("th","").replace("rd","").strip()
     #  event = tree.xpath('//div[@class="covSmallHeadline"]/div/text()')
     allVetos = ['','','','','','']
@@ -160,8 +165,8 @@ while(True):
             vetoMap = getMapIDName(vetoArray[(len(vetoArray) -1)])
             if (vetoMap in mapIDs):
                 exportList.append(vetoMap)
- #           else:
- #               print ('Youre not on the list (map)')
+    #           else:
+    #               print ('Youre not on the list (map)')
                 
     while (len(exportList) < 12):
         exportList.append('none')
@@ -190,4 +195,4 @@ while(True):
                     exportList[10],
                     exportList[11]
             ))
-    
+

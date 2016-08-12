@@ -1,4 +1,5 @@
 import os
+import sys
 
 from sys import platform
 if platform == "darwin":
@@ -13,7 +14,7 @@ if platform == "darwin":
     for i in range(0,structuredPos):
         root += script_dirArray[i]
         root += '/'
-    import sys
+    
     sys.path.append('/usr/local/lib/python2.7/site-packages')
 elif platform == "win32" or platform == "cygwin":
     # Windows...

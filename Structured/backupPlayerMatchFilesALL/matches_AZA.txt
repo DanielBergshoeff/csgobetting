@@ -1,0 +1,8 @@
+2015,12,18,06:30,Dictionary,GANK,dust2,SL i-League StarSeries XIV Chi..,4,16,4,11,0,5,Dictionary,18,18,1.12 
+2015,12,18,06:30,GANK,Dictionary,mirage,SL i-League StarSeries XIV Chi..,16,5,10,5,6,0,Dictionary,15,18,0.80 
+2015,12,17,06:45,CyberZen,Dictionary,inferno,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,Dictionary,8,18,0.40 
+2015,12,17,06:45,CyberZen,Dictionary,cobblestone,SL i-League StarSeries XIV Chi..,16,1,14,1,2,0,Dictionary,3,17,0.15 
+2015,12,03,12:30,TEAM.TDA,Dictionary,inferno,SL i-League StarSeries XIV,10,16,8,7,2,9,Dictionary,17,16,1.02 
+2015,12,03,12:30,Dictionary,TEAM.TDA,mirage,SL i-League StarSeries XIV,16,4,11,4,5,0,Dictionary,16,15,1.02 
+2015,12,01,12:30,Dictionary,PUZZLES,cache,SL i-League StarSeries XIV,4,16,2,13,2,3,Dictionary,14,17,0.91 
+2015,12,01,12:30,PUZZLES,Dictionary,cobblestone,SL i-League StarSeries XIV,16,9,8,7,8,2,Dictionary,15,20,0.73 

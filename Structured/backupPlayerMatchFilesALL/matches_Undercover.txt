@@ -1,0 +1,3 @@
+2016,06,04,14:00,PANDA,GameplayDNA,dust2,MSI Baltic Pro League Season 1,6,16,3,12,3,4,PANDA,8,18,0.53 
+2016,06,04,14:00,GameplayDNA,PANDA,overpass,MSI Baltic Pro League Season 1,16,12,8,7,8,5,PANDA,16,21,0.76 
+2016,06,04,14:00,GameplayDNA,PANDA,cache,MSI Baltic Pro League Season 1,8,16,2,13,6,3,PANDA,16,15,1.01 

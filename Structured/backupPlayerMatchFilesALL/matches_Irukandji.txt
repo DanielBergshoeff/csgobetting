@@ -1,0 +1,13 @@
+2016,04,27,03:00,Cloud9,KKona,dust2,ESL Pro League Season 3,16,4,14,1,2,3,Cloud9,10,6,1.11 
+2016,04,27,02:00,Cloud9,KKona,train,ESL Pro League Season 3,16,9,13,2,3,7,Cloud9,16,14,0.94 
+2016,04,25,01:15,Cloud9,Splyce,overpass,ESL Pro League Season 3,16,5,14,1,2,4,Cloud9,10,10,0.94 
+2016,04,25,00:00,Cloud9,Splyce,cobblestone,ESL Pro League Season 3,16,7,10,5,6,2,Cloud9,16,17,1.02 
+2016,04,21,04:00,Cloud9,EchoFox,cobblestone,ECS Season 1,16,11,7,8,9,3,Cloud9,17,19,0.96 
+2016,04,21,04:00,EchoFox,Cloud9,mirage,ECS Season 1,16,7,8,7,8,0,Cloud9,8,20,0.45 
+2016,04,21,04:00,Cloud9,EchoFox,train,ECS Season 1,16,8,10,5,6,3,Cloud9,12,18,0.65 
+2016,04,08,03:00,Cloud9,Liquid,cache,ESL Pro League Season 3,5,16,4,11,1,5,Cloud9,15,19,0.78 
+2016,04,08,02:00,Liquid,Cloud9,dust2,ESL Pro League Season 3,16,8,8,7,8,1,Cloud9,13,20,0.64 
+2014,06,28,22:00,NiP,Manajuma,cache,ESEA Invite Season 16 Global F..,16,8,13,2,3,6,Manajuma,10,20,0.58 
+2014,06,28,22:00,Manajuma,NiP,nuke,ESEA Invite Season 16 Global F..,8,16,6,9,2,7,Manajuma,15,20,0.78 
+2014,06,28,17:30,NatusVincere,Manajuma,dust2,ESEA Invite Season 16 Global F..,16,8,13,2,3,6,Manajuma,19,23,0.91 
+2014,06,28,17:30,NatusVincere,Manajuma,season,ESEA Invite Season 16 Global F..,16,12,8,7,8,5,Manajuma,13,20,0.63 

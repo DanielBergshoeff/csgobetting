@@ -1,0 +1,7 @@
+2014,12,20,17:00,mouseSpaz,Torqued,nuke,G2A.com December Cup Powered b..,16,9,12,3,4,6,Torqued,15,20,0.78 
+2014,12,20,17:00,mouseSpaz,Torqued,inferno,G2A.com December Cup Powered b..,16,11,10,5,6,6,Torqued,12,23,0.56 
+2014,12,20,17:00,mouseSpaz,Torqued,mirage,G2A.com December Cup Powered b..,21,18,11,4,4,11,Torqued,21,31,0.69 
+2014,06,28,22:00,NiP,Manajuma,cache,ESEA Invite Season 16 Global F..,16,8,13,2,3,6,Manajuma,12,19,0.68 
+2014,06,28,22:00,Manajuma,NiP,nuke,ESEA Invite Season 16 Global F..,8,16,6,9,2,7,Manajuma,11,19,0.58 
+2014,06,28,17:30,NatusVincere,Manajuma,dust2,ESEA Invite Season 16 Global F..,16,8,13,2,3,6,Manajuma,16,20,0.93 
+2014,06,28,17:30,NatusVincere,Manajuma,season,ESEA Invite Season 16 Global F..,16,12,8,7,8,5,Manajuma,28,18,1.33 

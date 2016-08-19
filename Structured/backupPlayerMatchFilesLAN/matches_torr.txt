@@ -1,0 +1,4 @@
+2015,10,08,16:30,Russia,Tunisia,overpass,World Championships 2015,16,4,11,4,5,0,Tunisia,9,18,0.60 
+2015,10,08,16:30,Russia,Tunisia,inferno,World Championships 2015,16,3,12,3,4,0,Tunisia,4,17,0.26 
+2015,10,08,13:30,Tunisia,Kyrgyzstan,dust2,World Championships 2015,10,16,3,12,7,4,Tunisia,11,20,0.59 
+2015,10,08,13:30,Tunisia,Kyrgyzstan,mirage,World Championships 2015,14,16,7,8,7,8,Tunisia,15,22,0.73 

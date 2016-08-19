@@ -1,0 +1,12 @@
+2016,08,14,15:15,ANOX,slisk,dust2,ECS Season 2 EU Open Qualifier..,7,16,5,10,2,6,ANOX,15,20,0.75 
+2016,08,08,15:15,ANOX,DenDD,mirage,xfunction Masters 2016,4,16,3,12,1,4,ANOX,8,17,0.49 
+2016,08,08,15:15,DenDD,ANOX,cobblestone,xfunction Masters 2016,16,11,6,9,10,2,ANOX,14,20,0.77 
+2016,07,28,19:10,LowLandLions,ANOX,overpass,Game Show Spring Invitational ..,14,16,6,9,8,7,ANOX,17,19,0.83 
+2016,07,28,19:10,LowLandLions,ANOX,cobblestone,Game Show Spring Invitational ..,7,16,4,11,3,5,ANOX,12,15,0.77 
+2016,07,26,22:00,ANOX,Delete,overpass,xfunction Masters 2016,16,5,13,2,3,3,ANOX,15,14,0.98 
+2016,07,24,21:15,ANOX,ALTERNATEaTTaX,nuke,xfunction Masters 2016,6,16,4,11,2,5,ANOX,12,18,0.66 
+2016,07,24,19:00,ANOX,eXtatus,mirage,Game Show Spring Invitational ..,16,7,12,3,4,4,ANOX,12,15,0.77 
+2016,07,21,16:00,Enso,ANOX,mirage,Game Show Spring Invitational ..,11,16,2,13,9,3,ANOX,16,21,0.72 
+2016,01,04,21:00,YP,eXplosive,inferno,D!ngIT $2000 Weekly Cup #32,16,9,10,5,6,4,eXplosive,13,19,0.68 
+2016,01,04,21:00,eXplosive,YP,dust2,D!ngIT $2000 Weekly Cup #32,6,16,6,9,0,7,eXplosive,4,20,0.23 
+2016,01,04,21:00,eXplosive,YP,mirage,D!ngIT $2000 Weekly Cup #32,16,6,10,5,6,1,eXplosive,12,13,0.84 

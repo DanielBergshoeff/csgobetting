@@ -1,0 +1,8 @@
+2016,03,23,03:35,BrokenAlliance,TNT,train,Razer Rising Stars NA League Q..,16,4,12,3,4,1,Broken Alliance,20,6,1.73 
+2016,01,16,01:30,EZG,Splyce,cache,MLG Americas Minor Championshi..,14,16,4,11,10,5,EZG,15,23,0.69 
+2016,01,15,23:00,Enemy,EZG,cache,MLG Americas Minor Championshi..,16,9,14,1,2,8,EZG,13,21,0.66 
+2015,12,16,04:30,ACE,UMass,cache,QuickShot Arena NA #2,13,16,4,11,9,5,UMass,22,20,1.05 
+2015,12,16,01:00,UMass,Incursion,cache,QuickShot Arena NA #2,16,5,11,4,5,1,UMass,19,10,1.38 
+2015,12,16,01:00,UMass,Incursion,mirage,QuickShot Arena NA #2,16,11,7,8,9,3,UMass,10,16,0.75 
+2015,12,15,01:00,SetToDestroyX,UMass,dust2,QuickShot Arena NA #2,13,16,8,7,5,9,UMass,14,19,0.76 
+2015,12,15,01:00,UMass,SetToDestroyX,cobblestone,QuickShot Arena NA #2,16,14,7,8,9,6,UMass,22,19,1.01 

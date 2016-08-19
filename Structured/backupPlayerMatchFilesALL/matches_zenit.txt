@@ -1,0 +1,4 @@
+2015,12,06,18:00,NPME,Arcade,mirage,Game Show Global eSports Cup 2..,6,16,4,11,2,5,NPME,15,19,0.79 
+2015,12,06,18:00,NPME,Arcade,inferno,Game Show Global eSports Cup 2..,8,16,6,9,2,7,NPME,10,17,0.61 
+2015,12,05,21:00,NPME,YP,mirage,Game Show Global eSports Cup 2..,9,16,7,8,2,8,NPME,9,19,0.54 
+2015,12,05,21:00,NPME,YP,dust2,Game Show Global eSports Cup 2..,13,16,5,10,8,6,NPME,15,18,0.88 

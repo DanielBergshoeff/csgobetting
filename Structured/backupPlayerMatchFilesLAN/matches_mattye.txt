@@ -1,0 +1,21 @@
+2016,03,26,14:30,LGBfe,Exertusfe,cache,Copenhagen Games 2016 female,16,19,9,6,6,9,LGB fe,27,28,1.02 
+2016,03,26,14:30,Exertusfe,LGBfe,inferno,Copenhagen Games 2016 female,16,7,12,3,4,4,LGB fe,12,20,0.67 
+2016,03,25,16:30,doyouevenfe,LGBfe,cache,Copenhagen Games 2016 female,7,16,3,12,4,4,LGB fe,19,13,1.20 
+2016,03,25,16:30,doyouevenfe,LGBfe,mirage,Copenhagen Games 2016 female,16,9,11,4,5,5,LGB fe,12,21,0.65 
+2016,03,25,16:30,doyouevenfe,LGBfe,cobblestone,Copenhagen Games 2016 female,5,16,5,10,0,6,LGB fe,20,10,1.64 
+2016,02,20,17:30,LGBfe,Games4u,cache,Nordic Masters Season 2 Finals,7,16,2,13,5,3,LGB fe,6,18,0.42 
+2016,02,20,17:30,LGBfe,Games4u,dust2,Nordic Masters Season 2 Finals,3,16,3,12,0,4,LGB fe,7,17,0.45 
+2016,02,20,13:00,LGBfe,Raepmashaekel,mirage,Nordic Masters Season 2 Finals,2,16,2,13,0,3,LGB fe,7,18,0.39 
+2015,07,12,00:45,LGBfe,Epsilonfe,dust2,ESWC 2015 Female,16,7,8,7,8,0,LGB fe,16,16,0.96 
+2015,07,11,23:30,LGBfe,CLGRed,cobblestone,ESWC 2015 Female,6,16,6,9,0,7,LGB fe,9,21,0.41 
+2015,07,11,22:30,Acerfe,LGBfe,dust2,ESWC 2015 Female,16,11,9,6,7,5,LGB fe,20,18,1.06 
+2015,04,04,10:00,ICYPhoenix,Karma,cobblestone,Copenhagen Games 2015 female,14,16,9,6,5,10,ICY Phoenix,19,23,0.85 
+2015,04,04,10:00,Karma,ICYPhoenix,dust2,Copenhagen Games 2015 female,11,16,4,11,7,5,ICY Phoenix,20,19,0.99 
+2015,04,04,10:00,Karma,ICYPhoenix,mirage,Copenhagen Games 2015 female,22,19,8,7,7,8,ICY Phoenix,36,28,1.20 
+2015,04,03,22:30,ex-meltyfe,ICYPhoenix,dust2,Copenhagen Games 2015 female,11,16,9,6,2,10,ICY Phoenix,17,19,0.98 
+2015,04,03,22:30,ex-meltyfe,ICYPhoenix,inferno,Copenhagen Games 2015 female,7,16,7,8,0,8,ICY Phoenix,11,12,0.92 
+2015,04,03,15:00,ICYPhoenix,CMStorm,cobblestone,Copenhagen Games 2015 female,10,16,4,11,6,5,ICY Phoenix,18,18,1.03 
+2015,04,03,15:00,ICYPhoenix,CMStorm,mirage,Copenhagen Games 2015 female,6,16,3,12,3,4,ICY Phoenix,8,16,0.58 
+2014,10,30,13:25,myXMGfe,Reasonfe,nuke,ESWC 2014 Female,14,16,11,4,3,12,myXMG fe,18,22,0.85 
+2014,10,30,12:15,Ubinited,myXMGfe,mirage,ESWC 2014 Female,14,16,7,8,7,8,myXMG fe,12,22,0.61 
+2014,10,30,10:30,BadMonkey,myXMGfe,inferno,ESWC 2014 Female,16,7,12,3,4,4,myXMG fe,17,19,0.99 

@@ -1,0 +1,5 @@
+2016,06,05,20:45,WarMonkeys,VECA,mirage,Tuddinn LAN 2 | 2016,16,14,7,8,9,6,WarMonkeys,21,19,0.96 
+2016,06,05,20:45,VECA,WarMonkeys,inferno,Tuddinn LAN 2 | 2016,16,10,7,8,9,2,WarMonkeys,12,17,0.74 
+2016,06,05,20:45,VECA,WarMonkeys,cache,Tuddinn LAN 2 | 2016,3,16,3,12,0,4,WarMonkeys,16,7,1.37 
+2016,03,24,15:30,WarMonkeys,EasternVikings,cobblestone,Copenhagen Games 2016 BYOC Qua..,12,16,7,8,5,8,WarMonkeys,17,18,0.99 
+2016,03,24,13:00,Isak,WarMonkeys,dust2,Copenhagen Games 2016 BYOC Qua..,19,17,8,7,7,8,WarMonkeys,14,25,0.62 

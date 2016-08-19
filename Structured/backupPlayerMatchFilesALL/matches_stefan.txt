@@ -1,0 +1,9 @@
+2014,11,07,20:30,Sweden,Netherlands,dust2,European Championship 2014,16,11,13,2,3,9,Netherlands,11,19,0.60 
+2014,11,07,20:30,Netherlands,Sweden,mirage,European Championship 2014,4,16,4,11,0,5,Netherlands,7,20,0.32 
+2014,11,05,16:30,Netherlands,Macedonia,dust2,European Championship 2014,16,10,10,5,6,5,Netherlands,11,16,0.69 
+2014,11,05,16:30,Netherlands,Macedonia,mirage,European Championship 2014,16,7,11,4,5,3,Netherlands,21,9,1.54 
+2014,10,15,22:00,Ukraine,Netherlands,dust2,European Championship 2014,11,16,6,9,5,7,Netherlands,20,16,1.20 
+2014,10,12,20:25,Netherlands,Bosnia&Herzegovina,mirage,European Championship 2014,16,2,13,2,3,0,Netherlands,15,8,1.31 
+2014,10,11,19:00,Netherlands,Kazakhstan,dust2,European Championship 2014,16,8,8,7,8,1,Netherlands,17,16,0.96 
+2014,09,28,17:10,Netherlands,CzechRepublic,dust2,European Championship 2014,16,8,11,4,5,4,Netherlands,20,11,1.36 
+2014,09,04,21:00,Hungary,Netherlands,mirage,European Championship 2014,13,16,7,8,6,8,Netherlands,19,19,0.97 

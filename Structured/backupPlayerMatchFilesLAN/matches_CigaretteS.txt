@@ -1,0 +1,5 @@
+2016,05,20,12:30,Signature,TheMongolz,dust2,WCA Season 1 APAC Finals,12,16,5,10,7,6,Signature,27,19,1.30 
+2016,05,20,12:30,Signature,TheMongolz,mirage,WCA Season 1 APAC Finals,7,16,4,11,3,5,Signature,10,18,0.57 
+2016,05,18,11:00,MVP.karnal,Signature,dust2,WCA Season 1 APAC Finals,16,10,10,5,6,5,Signature,20,20,1.01 
+2016,05,18,11:00,Signature,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,11,8,7,8,4,Signature,22,17,1.20 
+2016,05,18,11:00,MVP.karnal,Signature,cache,WCA Season 1 APAC Finals,19,16,11,4,4,11,Signature,41,25,1.61 

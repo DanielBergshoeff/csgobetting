@@ -1,0 +1,5 @@
+2016,07,28,14:00,Player5,m0nsterwhite,train,VSL Season 1,19,17,6,9,9,6,Player 5,33,25,1.31 
+2016,07,14,14:00,TamuluS,Player5,mirage,VSL Season 1,16,1,14,1,2,0,Player 5,7,17,0.38 
+2016,07,03,12:15,Player5,Nomad,cache,VSL Season 1,13,16,8,7,5,9,Player 5,24,21,1.20 
+2015,11,28,14:00,autocracy,Player5,mirage,D!ngIT & NCSC Korea S1 Qualifi..,16,3,12,3,4,0,Player 5,9,17,0.60 
+2015,11,20,13:45,ClockTime,Player5,cache,D!ngIT & NCSC Korea S1 Qualifi..,4,16,4,11,0,5,Player 5,14,7,1.20 

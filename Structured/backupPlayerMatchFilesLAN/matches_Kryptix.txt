@@ -1,0 +1,5 @@
+2016,03,28,00:30,PRIDE,Rasta,cobblestone,Insomnia 57,5,16,2,13,3,3,Rasta,20,9,1.59 
+2016,03,28,00:30,PRIDE,Rasta,mirage,Insomnia 57,12,16,8,7,4,9,Rasta,20,17,1.19 
+2016,03,28,00:30,PRIDE,Rasta,cache,Insomnia 57,16,14,11,4,5,10,Rasta,22,19,1.07 
+2016,02,21,13:00,Barrage,Infused,mirage,epic.SEVENTEEN,16,6,9,6,7,0,Infused,18,17,1.19 
+2016,02,21,13:00,Infused,Barrage,cache,epic.SEVENTEEN,6,16,3,12,3,4,Infused,18,17,1.05 

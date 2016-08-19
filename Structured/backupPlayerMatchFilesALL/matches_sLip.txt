@@ -1,0 +1,11 @@
+2015,05,08,03:00,Liquid,TempoStorm,inferno,ESL ESEA Pro League Season 1,16,7,9,6,7,1,Tempo Storm,6,20,0.37 
+2015,05,07,03:00,TempoStorm,eLevate,cache,ESL ESEA Pro League Season 1,5,16,4,11,1,5,Tempo Storm,13,18,0.80 
+2015,05,06,02:00,ACE,TempoStorm,dust2,ESL ESEA Pro League Season 1,6,16,1,14,5,2,Tempo Storm,14,15,0.92 
+2015,04,30,04:30,affNity,TempoStorm,cache,CEVO Professional Season 7,16,19,6,9,9,6,Tempo Storm,20,23,0.82 
+2015,04,30,04:30,TempoStorm,affNity,cobblestone,CEVO Professional Season 7,16,8,8,7,8,1,Tempo Storm,21,14,1.24 
+2014,10,02,03:00,Mobility,savage,inferno,FACEIT League NA Season 2,16,13,7,8,9,5,Mobility,21,21,1.07 
+2014,09,18,03:25,Cloud9,Mobility,mirage,FACEIT League NA Season 2,16,2,13,2,3,0,Mobility,7,18,0.32 
+2014,09,04,04:15,Mobility,iBUYPOWER,inferno,FACEIT League NA Season 2,10,16,9,6,1,10,Mobility,13,19,0.68 
+2014,08,27,02:30,Mobility,Exertus,cache,FACEIT League 2 NA Closed Qual..,16,11,10,5,6,6,Mobility,21,16,1.18 
+2014,08,27,02:30,Mobility,Exertus,mirage,FACEIT League 2 NA Closed Qual..,16,7,11,4,5,3,Mobility,22,13,1.43 
+2014,08,26,03:00,RELiABLE,Mobility,cache,FACEIT League 2 NA Closed Qual..,3,16,3,12,0,4,Mobility,22,8,1.87 

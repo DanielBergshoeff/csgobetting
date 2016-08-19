@@ -1,0 +1,7 @@
+2014,10,31,16:30,Reasonfe,BadMonkey,nuke,ESWC 2014 Female,9,16,6,9,3,7,Bad Monkey,14,13,1.09 
+2014,10,31,12:50,BadMonkey,3DMAXfe,inferno,ESWC 2014 Female,10,16,8,7,2,9,Bad Monkey,13,19,0.77 
+2014,10,31,12:50,3DMAXfe,BadMonkey,cobblestone,ESWC 2014 Female,16,13,12,3,4,10,Bad Monkey,19,20,0.94 
+2014,10,31,12:50,BadMonkey,3DMAXfe,cache,ESWC 2014 Female,16,14,11,4,5,10,Bad Monkey,20,22,0.97 
+2014,10,30,13:25,BadMonkey,Ubinited,inferno,ESWC 2014 Female,16,14,12,3,4,11,Bad Monkey,12,17,0.75 
+2014,10,30,12:15,BadMonkey,Reasonfe,mirage,ESWC 2014 Female,12,16,8,7,4,9,Bad Monkey,12,17,0.76 
+2014,10,30,10:30,BadMonkey,myXMGfe,inferno,ESWC 2014 Female,16,7,12,3,4,4,Bad Monkey,16,13,1.09 

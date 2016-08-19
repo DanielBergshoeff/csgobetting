@@ -1,0 +1,18 @@
+2016,07,24,23:15,ExoticIsland,Magistra,train,xfunction Masters 2016,5,16,4,11,1,5,Magistra,19,10,1.46 
+2016,04,23,17:30,CPHWolves,Magistra,dust2,DreamHack Regional Minor Champ..,16,8,7,8,9,0,Magistra,12,19,0.71 
+2016,02,19,21:00,Preparation,Optimum,cache,Nordic Masters Season 2 Finals,16,11,8,7,8,4,Optimum,13,19,0.67 
+2016,02,19,21:00,Optimum,Preparation,inferno,Nordic Masters Season 2 Finals,9,16,8,7,1,9,Optimum,16,18,0.95 
+2016,02,19,18:15,Optimum,Temporaryorgless,cache,Nordic Masters Season 2 Finals,16,2,13,2,3,0,Optimum,16,10,1.27 
+2016,02,19,18:15,Optimum,Temporaryorgless,mirage,Nordic Masters Season 2 Finals,16,3,13,2,3,1,Optimum,12,15,0.76 
+2016,02,19,12:35,Optimum,Publiclir.se,mirage,Nordic Masters Season 2 Finals,16,19,5,10,10,5,Optimum,19,28,0.68 
+2015,11,09,22:30,nerdRage,eSuba,mirage,D!ngIT $2000 Weekly Cup #25,12,16,9,6,3,10,nerdRage,26,21,1.23 
+2015,11,09,20:30,nerdRage,Enso,mirage,D!ngIT $2000 Weekly Cup #25,12,16,5,10,7,6,nerdRage,30,21,1.39 
+2015,11,09,20:30,nerdRage,Enso,dust2,D!ngIT $2000 Weekly Cup #25,7,16,5,10,2,6,nerdRage,15,17,0.88 
+2015,11,08,12:30,ESC,nerdRage,train,Swelder's Showmatch,16,0,15,0,1,0,nerdRage,7,16,0.37 
+2015,11,08,12:30,nerdRage,ESC,dust2,Swelder's Showmatch,16,13,9,6,7,7,nerdRage,29,17,1.51 
+2015,11,08,12:30,ESC,nerdRage,mirage,Swelder's Showmatch,16,8,13,2,3,6,nerdRage,19,18,1.18 
+2015,10,19,22:15,nerdRage,stfuNerd,inferno,D!ngIT $2000 Weekly Cup #22,12,16,7,8,5,8,nerdRage,15,21,0.73 
+2015,10,19,20:30,LondonC,nerdRage,inferno,D!ngIT $2000 Weekly Cup #22,16,3,12,3,4,0,nerdRage,9,17,0.60 
+2015,10,19,20:30,LondonC,nerdRage,cache,D!ngIT $2000 Weekly Cup #22,16,7,9,6,7,1,nerdRage,15,17,0.83 
+2014,10,16,19:00,Isak,NatusVincere,dust2,Fragbite Masters Season 3,4,16,3,12,1,4,Isak,9,16,0.54 
+2014,08,23,21:15,PENTA,Cursive,inferno,FACEIT League 2 EU pre-qualifi..,16,7,12,3,4,4,Cursive,11,20,0.58 

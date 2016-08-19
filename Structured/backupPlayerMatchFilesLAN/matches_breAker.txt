@@ -1,0 +1,7 @@
+2016,05,05,15:40,Renegades,Risky,mirage,PGL KeSPA Regional Minor Champ..,16,14,9,6,7,8,Risky,11,23,0.54 
+2016,05,05,15:40,Renegades,Risky,cobblestone,PGL KeSPA Regional Minor Champ..,16,7,9,6,7,1,Risky,11,18,0.60 
+2016,05,05,09:30,MVPproject,Risky,mirage,PGL KeSPA Regional Minor Champ..,12,16,8,7,4,9,Risky,15,19,0.77 
+2016,05,05,05:40,TyLoo,Risky,mirage,PGL KeSPA Regional Minor Champ..,16,6,12,3,4,3,Risky,12,19,0.70 
+2016,01,29,09:30,Risky,Chiefs,dust2,IEM Taipei 2016,9,16,7,8,2,8,Risky,9,21,0.45 
+2016,01,29,08:30,Risky,MVP.karnal,train,IEM Taipei 2016,16,8,10,5,6,3,Risky,18,18,0.98 
+2016,01,29,04:15,Risky,CyberZen,cobblestone,IEM Taipei 2016,10,16,3,12,7,4,Risky,18,23,0.81 

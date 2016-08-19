@@ -1,0 +1,8 @@
+2016,08,01,21:45,dignitas,X,mirage,SL i-League S2 Europe Qualifie..,14,16,11,4,3,12,dignitas,13,22,0.68 
+2016,08,01,21:45,X,dignitas,overpass,SL i-League S2 Europe Qualifie..,16,6,12,3,4,3,dignitas,12,21,0.57 
+2016,08,01,19:10,dignitas,AGG,nuke,SL i-League S2 Europe Qualifie..,16,1,14,1,2,0,dignitas,13,9,1.23 
+2016,08,01,19:10,dignitas,AGG,cobblestone,SL i-League S2 Europe Qualifie..,16,8,8,7,8,1,dignitas,10,16,0.69 
+2016,08,01,19:10,AGG,dignitas,mirage,SL i-League S2 Europe Qualifie..,16,14,6,9,10,5,dignitas,9,20,0.56 
+2016,08,01,16:00,NokSuKao,dignitas,overpass,SL i-League S2 Europe Qualifie..,6,16,4,11,2,5,dignitas,3,13,0.45 
+2016,08,01,16:00,dignitas,NokSuKao,nuke,SL i-League S2 Europe Qualifie..,16,14,8,7,8,7,dignitas,15,22,0.71 
+2016,08,01,16:00,NokSuKao,dignitas,mirage,SL i-League S2 Europe Qualifie..,16,12,8,7,8,5,dignitas,17,19,0.98 

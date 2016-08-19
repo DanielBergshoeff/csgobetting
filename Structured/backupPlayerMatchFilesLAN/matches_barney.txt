@@ -1,0 +1,6 @@
+2016,03,24,19:00,GamersLeague,Publiclir.se,dust2,Copenhagen Games 2016 BYOC Qua..,6,16,4,11,2,5,GamersLeague,8,16,0.55 
+2016,03,24,19:00,Publiclir.se,GamersLeague,cobblestone,Copenhagen Games 2016 BYOC Qua..,13,16,7,8,6,8,GamersLeague,13,21,0.64 
+2016,03,24,19:00,Publiclir.se,GamersLeague,mirage,Copenhagen Games 2016 BYOC Qua..,16,7,13,2,3,5,GamersLeague,17,19,1.06 
+2016,03,24,17:00,GamersLeague,SvQmmerICruzares,inferno,Copenhagen Games 2016 BYOC Qua..,16,6,10,5,6,1,GamersLeague,17,11,1.13 
+2016,03,24,15:30,GamersLeague,Iwku,cobblestone,Copenhagen Games 2016 BYOC Qua..,3,16,3,12,0,4,GamersLeague,6,17,0.38 
+2016,03,24,13:00,GamersLeague,AfterClap,dust2,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,GamersLeague,22,8,1.92 

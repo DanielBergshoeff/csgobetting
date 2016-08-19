@@ -1,0 +1,41 @@
+2016,01,05,23:00,nEophyte,YP,dust2,D!ngIT $2000 Weekly Cup #32,14,16,5,10,9,6,nEophyte,11,23,0.52 
+2016,01,05,22:00,ezkatka,nEophyte,cache,D!ngIT $2000 Weekly Cup #32,7,16,5,10,2,6,nEophyte,17,15,1.05 
+2016,01,05,18:30,nEophyte,eXplosive,cache,D!ngIT $2000 Weekly Cup #32,16,12,9,6,7,6,nEophyte,12,18,0.69 
+2015,12,20,19:00,MajesticLions,nEophyte,overpass,ASUS Finals 9,6,16,3,12,3,4,nEophyte,13,12,0.94 
+2015,12,20,19:00,MajesticLions,nEophyte,inferno,ASUS Finals 9,16,13,8,7,8,6,nEophyte,12,23,0.59 
+2015,12,20,19:00,nEophyte,MajesticLions,cache,ASUS Finals 9,16,7,11,4,5,3,nEophyte,24,14,1.75 
+2015,12,19,11:50,nEophyte,GUNRUNNERS,cache,ASUS Finals 9,16,7,9,6,7,1,nEophyte,16,15,1.12 
+2015,12,19,11:50,nEophyte,GUNRUNNERS,overpass,ASUS Finals 9,16,5,11,4,5,1,nEophyte,15,9,1.20 
+2015,12,16,22:00,ex-USSR,nEophyte,mirage,QuickShot Arena #19,16,9,7,8,9,1,nEophyte,12,19,0.67 
+2015,12,16,20:45,nEophyte,OnlineBOTS,cache,QuickShot Arena #19,12,16,4,11,8,5,nEophyte,8,24,0.40 
+2015,12,16,18:15,nEophyte,Enso,cache,QuickShot Arena #19,16,5,10,5,6,0,nEophyte,14,12,1.02 
+2015,12,14,23:00,EpiphanyBolt,nEophyte,cache,Operation: Kinguin,16,13,8,7,8,6,nEophyte,17,24,0.75 
+2015,12,14,19:30,nEophyte,SpaceSoldiers,train,Operation: Kinguin,9,16,6,9,3,7,nEophyte,9,24,0.38 
+2015,12,14,19:30,nEophyte,SpaceSoldiers,cache,Operation: Kinguin,7,16,6,9,1,7,nEophyte,11,19,0.67 
+2015,12,09,22:00,SpaceSoldiers,nEophyte,mirage,QuickShot Arena #18,16,13,7,8,9,5,nEophyte,9,23,0.45 
+2015,12,09,19:30,nEophyte,Orbitfe,inferno,QuickShot Arena #18,16,2,13,2,3,0,nEophyte,13,9,1.17 
+2015,12,09,17:00,SpaceSoldiers,nEophyte,cobblestone,QuickShot Arena #18,16,6,13,2,3,4,nEophyte,7,19,0.38 
+2015,12,02,18:00,nEophyte,SpaceSoldiers,overpass,Game Show Global eSports Cup 2..,14,16,8,7,6,9,nEophyte,12,26,0.48 
+2015,12,02,18:00,SpaceSoldiers,nEophyte,mirage,Game Show Global eSports Cup 2..,19,22,13,2,2,13,nEophyte,22,30,0.77 
+2015,12,02,18:00,SpaceSoldiers,nEophyte,dust2,Game Show Global eSports Cup 2..,16,6,13,2,3,4,nEophyte,6,20,0.38 
+2015,12,01,21:15,nEophyte,CSGL,train,Game Show Global eSports Cup 2..,5,16,4,11,1,5,nEophyte,12,20,0.63 
+2015,12,01,21:15,nEophyte,CSGL,cache,Game Show Global eSports Cup 2..,15,19,8,7,7,8,nEophyte,14,24,0.65 
+2015,11,07,15:30,nEophyte,eSuba,inferno,MČR 2015,16,9,8,7,8,2,nEophyte,18,16,1.06 
+2015,11,07,15:30,eSuba,nEophyte,cache,MČR 2015,11,16,10,5,1,11,nEophyte,20,18,1.04 
+2015,11,07,15:30,eSuba,nEophyte,mirage,MČR 2015,16,4,11,4,5,0,nEophyte,6,19,0.32 
+2015,10,13,21:30,SK,nEophyte,train,99Damage Masters #3,16,9,11,4,5,5,nEophyte,5,22,0.27 
+2015,10,13,21:30,nEophyte,SK,mirage,99Damage Masters #3,12,16,6,9,6,7,nEophyte,16,24,0.76 
+2015,09,18,20:30,Fraternitas,LDLCWhite,dust2,99Damage Masters #3,16,13,8,7,8,6,Fraternitas,13,22,0.65 
+2015,09,18,20:30,LDLCWhite,Fraternitas,overpass,99Damage Masters #3,13,16,10,5,3,11,Fraternitas,4,23,0.30 
+2015,09,18,20:30,LDLCWhite,Fraternitas,inferno,99Damage Masters #3,16,10,11,4,5,6,Fraternitas,8,22,0.40 
+2015,09,17,17:00,Slovakia,Germany,dust2,World Championships 2015 Europ..,9,16,3,12,6,4,Slovakia,10,20,0.52 
+2014,11,06,17:00,Slovakia,Finland,overpass,European Championship 2014,12,16,11,4,1,12,Slovakia,12,21,0.69 
+2014,11,06,17:00,Finland,Slovakia,dust2,European Championship 2014,16,4,11,4,5,0,Slovakia,8,19,0.46 
+2014,11,03,22:30,Bosnia&Herzegovina,Slovakia,dust2,European Championship 2014,13,16,7,8,6,8,Slovakia,14,18,0.79 
+2014,11,03,22:30,Slovakia,Bosnia&Herzegovina,mirage,European Championship 2014,16,7,10,5,6,2,Slovakia,20,10,1.47 
+2014,08,22,17:00,Bulgaria,Slovakia,dust2,European Championship 2014 Qua..,17,19,10,5,5,10,Slovakia,18,24,0.71 
+2014,08,22,17:00,Bulgaria,Slovakia,inferno,European Championship 2014 Qua..,16,13,10,5,6,8,Slovakia,17,20,0.90 
+2014,08,22,17:00,Bulgaria,Slovakia,mirage,European Championship 2014 Qua..,7,16,6,9,1,7,Slovakia,15,16,0.97 
+2014,04,18,17:00,NecroRaisers,ESC,dust2,Copenhagen Games 2014,7,16,5,10,2,6,NecroRaisers,6,19,0.39 
+2014,04,18,17:00,NecroRaisers,ESC,nuke,Copenhagen Games 2014,8,16,7,8,1,8,NecroRaisers,19,19,1.00 
+2014,04,18,17:00,ESC,NecroRaisers,train,Copenhagen Games 2014,20,22,7,8,8,7,NecroRaisers,33,35,0.97 

@@ -1,0 +1,16 @@
+2016,03,24,17:00,OBEY,eNergy,inferno,Copenhagen Games 2016 BYOC Qua..,16,7,10,5,6,2,eNergy,18,17,1.07 
+2016,03,24,15:30,eNergy,WDHA,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,7,12,3,4,4,eNergy,24,10,1.71 
+2016,03,24,13:00,OBEY,eNergy,dust2,Copenhagen Games 2016 BYOC Qua..,16,14,8,7,8,7,eNergy,28,20,1.28 
+2016,02,13,18:00,carboN,eNergy,inferno,GWZA Season 1 Finals,16,11,9,6,7,5,eNergy,13,21,0.67 
+2016,02,13,18:00,eNergy,carboN,cobblestone,GWZA Season 1 Finals,16,14,9,6,7,8,eNergy,27,18,1.27 
+2016,02,13,18:00,carboN,eNergy,mirage,GWZA Season 1 Finals,16,14,9,6,7,8,eNergy,28,19,1.31 
+2016,02,13,13:45,eNergy,Aperture,train,GWZA Season 1 Finals,12,16,9,6,3,10,eNergy,22,21,1.13 
+2016,02,13,13:45,Aperture,eNergy,inferno,GWZA Season 1 Finals,16,8,9,6,7,2,eNergy,15,21,0.74 
+2016,02,13,13:45,Aperture,eNergy,mirage,GWZA Season 1 Finals,6,16,5,10,1,6,eNergy,21,13,1.42 
+2015,12,12,13:30,PewPew-Armada,eNergy,inferno,BHG CS:GO Tournament,2,16,2,13,0,3,eNergy,13,8,1.19 
+2015,12,12,13:30,PewPew-Armada,eNergy,cache,BHG CS:GO Tournament,8,16,4,11,4,5,eNergy,25,13,1.75 
+2015,10,03,19:30,eNergy,Aperture,inferno,MWEB GameZone Masters Series,16,0,15,0,1,0,eNergy,22,8,2.10 
+2015,10,03,19:30,Aperture,eNergy,mirage,MWEB GameZone Masters Series,16,5,10,5,6,0,eNergy,21,21,1.25 
+2015,10,03,19:30,eNergy,Aperture,overpass,MWEB GameZone Masters Series,16,3,13,2,3,1,eNergy,17,9,1.48 
+2015,10,03,13:45,Bravado,eNergy,dust2,MWEB GameZone Masters Series,16,2,14,1,2,1,eNergy,8,18,0.47 
+2015,10,03,13:45,eNergy,Bravado,mirage,MWEB GameZone Masters Series,9,16,8,7,1,9,eNergy,17,17,0.99 

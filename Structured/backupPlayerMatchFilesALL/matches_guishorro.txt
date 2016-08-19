@@ -1,0 +1,34 @@
+2016,08,13,03:30,RemoBrave,Furious,inferno,ESEA Open Season 22 Brazil,16,12,10,5,6,7,Furious,26,18,1.48 
+2016,08,13,03:30,Furious,RemoBrave,cache,ESEA Open Season 22 Brazil,16,3,12,3,4,0,Furious,26,8,2.13 
+2016,08,13,03:30,RemoBrave,Furious,train,ESEA Open Season 22 Brazil,16,9,12,3,4,6,Furious,25,18,1.44 
+2016,08,11,03:45,Furious,Nocturns,mirage,GTL Tecnofields 2016,11,16,4,11,7,5,Furious,19,18,0.99 
+2016,08,11,03:45,Furious,Nocturns,cobblestone,GTL Tecnofields 2016,16,11,11,4,5,7,Furious,20,20,1.07 
+2016,08,11,03:45,Nocturns,Furious,overpass,GTL Tecnofields 2016,16,12,7,8,9,4,Furious,23,17,1.26 
+2016,08,10,03:10,Furious,semXorah,dust2,ESEA Open Season 22 Brazil,16,11,8,7,8,4,Furious,24,13,1.64 
+2016,08,10,03:10,Furious,semXorah,mirage,ESEA Open Season 22 Brazil,16,7,8,7,8,0,Furious,26,13,1.68 
+2016,07,24,23:30,Brazil,Argentina,dust2,World Championships 2016 South..,19,16,5,10,10,5,Argentina,16,27,0.63 
+2016,07,24,23:30,Brazil,Argentina,nuke,World Championships 2016 South..,14,16,9,6,5,10,Argentina,15,22,0.73 
+2016,06,09,01:00,INTZ,Furious,cobblestone,Razer Rising Stars South Ameri..,16,12,11,4,5,8,Furious,21,23,0.96 
+2016,06,09,01:00,Furious,INTZ,cache,Razer Rising Stars South Ameri..,7,16,4,11,3,5,Furious,10,20,0.52 
+2016,06,03,02:00,Furious,CNB,cache,Razer Rising Stars South Ameri..,3,16,3,12,0,4,Furious,8,17,0.50 
+2016,06,03,02:00,Furious,CNB,mirage,Razer Rising Stars South Ameri..,16,7,12,3,4,4,Furious,17,12,1.23 
+2016,06,02,02:00,Furious,2Kill,cobblestone,Razer Rising Stars South Ameri..,8,16,6,9,2,7,Furious,15,20,0.85 
+2016,06,02,02:00,2Kill,Furious,dust2,Razer Rising Stars South Ameri..,14,16,5,10,9,6,Furious,20,24,0.82 
+2016,05,26,03:15,Furious,Supernova,cache,Razer Rising Stars South Ameri..,16,12,9,6,7,6,Furious,29,13,1.78 
+2016,05,26,03:15,Furious,Supernova,mirage,Razer Rising Stars South Ameri..,14,16,8,7,6,9,Furious,27,22,1.20 
+2016,01,09,01:00,Gathers,NTN,dust2,MAX5 Invitational,13,16,10,5,3,11,NTN,19,21,0.89 
+2016,01,08,18:15,NTN,AlienTech,mirage,MAX5 Invitational,3,16,3,12,0,4,NTN,6,18,0.31 
+2016,01,07,23:30,GamesAcademy,NTN,train,MAX5 Invitational,16,0,15,0,1,0,NTN,11,15,0.77 
+2016,01,06,21:00,NTN,KeydStars,inferno,MAX5 Invitational,9,16,4,11,5,5,NTN,23,19,1.47 
+2015,12,13,23:15,GuerrerosdelMouse,NTN,cache,Gigabyte Top League Finals,5,16,5,10,0,6,NTN,20,12,1.73 
+2015,12,13,23:15,NTN,GuerrerosdelMouse,inferno,Gigabyte Top League Finals,16,3,14,1,2,2,NTN,16,7,1.37 
+2015,12,13,23:15,GuerrerosdelMouse,NTN,overpass,Gigabyte Top League Finals,16,13,10,5,6,8,NTN,19,24,0.83 
+2015,12,13,19:45,Brekan,NTN,dust2,Gigabyte Top League Finals,7,16,3,12,4,4,NTN,17,14,1.11 
+2015,12,13,19:45,NTN,Brekan,mirage,Gigabyte Top League Finals,22,19,12,3,3,12,NTN,39,31,1.30 
+2015,12,13,19:45,Brekan,NTN,cache,Gigabyte Top League Finals,16,12,8,7,8,5,NTN,19,20,0.99 
+2015,12,13,15:00,NTN,GuerrerosdelMouse,cobblestone,Gigabyte Top League Finals,13,16,6,9,7,7,NTN,22,21,0.96 
+2015,12,13,15:00,GuerrerosdelMouse,NTN,cache,Gigabyte Top League Finals,16,3,12,3,4,0,NTN,8,16,0.54 
+2015,09,04,02:50,JAYOB,TRS,cache,RGN Brazilian Open,16,10,11,4,5,6,TRS,10,23,0.46 
+2015,09,04,02:50,TRS,JAYOB,mirage,RGN Brazilian Open,5,16,5,10,0,6,TRS,21,17,1.38 
+2015,06,23,17:00,Brazil,Argentina,cobblestone,World Championships 2015 South..,16,5,11,4,5,1,Argentina,15,17,0.95 
+2015,06,23,17:00,Argentina,Brazil,cache,World Championships 2015 South..,13,16,6,9,7,7,Argentina,23,23,1.09 

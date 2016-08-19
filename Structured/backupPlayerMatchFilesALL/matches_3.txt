@@ -1,0 +1,18 @@
+2016,07,31,15:00,5POWER,HG,cache,SL i-League S2 China Qualifier,16,9,11,4,5,5,HG,16,22,0.77 
+2016,07,31,15:00,5POWER,HG,cobblestone,SL i-League S2 China Qualifier,16,5,11,4,5,1,HG,17,19,0.97 
+2016,07,19,16:25,HG,New4,overpass,SL i-League S2 China Qualifier,10,16,8,7,2,9,HG,13,22,0.70 
+2016,07,19,16:25,New4,HG,cache,SL i-League S2 China Qualifier,16,10,7,8,9,2,HG,11,22,0.50 
+2016,07,19,12:00,Replays.net,HG,train,SL i-League S2 China Qualifier,13,16,8,7,5,9,HG,25,17,1.36 
+2016,07,19,12:00,Replays.net,HG,dust2,SL i-League S2 China Qualifier,16,8,10,5,6,3,HG,18,21,0.95 
+2016,07,19,12:00,Replays.net,HG,cache,SL i-League S2 China Qualifier,19,22,4,11,11,4,HG,28,25,1.06 
+2016,04,21,10:10,HG,EDG,cobblestone,SL i-League Invitational China..,3,16,3,12,0,4,HG,11,17,0.69 
+2016,04,21,10:10,HG,EDG,dust2,SL i-League Invitational China..,17,19,1,14,14,1,HG,28,24,1.03 
+2016,04,17,13:00,HG,B.O.O.T,inferno,SL i-League Invitational China..,16,9,9,6,7,3,HG,22,13,1.50 
+2016,04,10,15:25,LGD,HG,mirage,SL i-League Invitational China..,16,7,12,3,4,4,HG,13,20,0.65 
+2016,04,10,15:25,HG,LGD,inferno,SL i-League Invitational China..,19,17,5,10,10,5,HG,29,18,1.23 
+2016,04,08,15:00,MVPproject,HG,cobblestone,SL i-League Invitational China..,16,6,11,4,5,2,HG,7,14,0.59 
+2016,04,08,15:00,HG,MVPproject,cache,SL i-League Invitational China..,8,16,6,9,2,7,HG,12,18,0.67 
+2016,03,22,12:00,VG.CyberZen,HG,cobblestone,WCA Season 1 Qualifier,16,14,8,7,8,7,HG,16,17,0.86 
+2016,03,22,12:00,VG.CyberZen,HG,cache,WCA Season 1 Qualifier,16,5,11,4,5,1,HG,12,16,0.87 
+2016,03,17,12:00,New4,HG,cache,WCA Season 1 Qualifier,16,5,11,4,5,1,HG,15,16,0.93 
+2016,03,17,12:00,New4,HG,train,WCA Season 1 Qualifier,16,5,11,4,5,1,HG,10,16,0.65 

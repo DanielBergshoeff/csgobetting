@@ -1,0 +1,13 @@
+2015,12,10,12:00,Legacy,Exile5,cobblestone,Counter Pit League Season 2,16,13,8,7,8,6,Legacy,26,17,1.29 
+2015,12,10,12:00,Legacy,Exile5,mirage,Counter Pit League Season 2,22,18,12,3,3,12,Legacy,20,14,1.50 
+2015,12,09,10:00,Legacy,Chiefs,mirage,Counter Pit League Season 2,16,12,9,6,7,6,Legacy,1,0,1.65 
+2015,09,22,14:00,AnimalSquad,AthleticoBH,inferno,FACEIT League 2015 Stage 3 OCE..,21,15,9,6,6,9,Animal Squad,14,8,1.28 
+2015,06,20,12:00,Streamline,DireWolves,inferno,FACEIT League 2015 Stage 2,13,16,8,7,5,9,Dire Wolves,14,18,0.77 
+2015,05,30,10:00,Steelseries,Exile5,dust2,FACEIT League 2015 Stage 2 Oce..,14,16,10,5,4,11,Steelseries,31,20,1.43 
+2015,05,30,10:00,Exile5,Steelseries,cobblestone,FACEIT League 2015 Stage 2 Oce..,16,6,11,4,5,2,Steelseries,10,19,0.57 
+2015,05,29,12:00,Steelseries,DireWolves,inferno,FACEIT League 2015 Stage 2 Oce..,14,16,8,7,6,9,Steelseries,19,20,0.98 
+2015,05,29,12:00,Steelseries,DireWolves,cache,FACEIT League 2015 Stage 2 Oce..,10,16,9,6,1,10,Steelseries,14,21,0.67 
+2015,05,27,11:00,Steelseries,Skyfire,dust2,FACEIT League 2015 Stage 2 Oce..,16,13,8,7,8,6,Steelseries,29,18,1.53 
+2015,05,27,11:00,Skyfire,Steelseries,overpass,FACEIT League 2015 Stage 2 Oce..,16,12,14,1,2,11,Steelseries,20,25,0.79 
+2015,05,27,11:00,Skyfire,Steelseries,cache,FACEIT League 2015 Stage 2 Oce..,14,16,5,10,9,6,Steelseries,21,23,0.97 
+2015,04,05,12:00,Streamline,TRIDENT,cache,FACEIT League 2015 Stage 1,12,16,8,7,4,9,TRIDENT,25,18,1.29 

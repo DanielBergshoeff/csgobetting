@@ -1,0 +1,28 @@
+2014,10,07,23:20,HellRaisers,Titan,cache,FACEIT League EU Season 2,16,1,14,1,2,0,HellRaisers,3,2,0.90 
+2014,08,09,21:00,UNNAMED,USSR,inferno,CIS Rising League Season 1,17,21,8,7,7,8,USSR,20,24,0.89 
+2014,08,09,21:00,USSR,UNNAMED,nuke,CIS Rising League Season 1,12,16,11,4,1,12,USSR,12,21,0.64 
+2014,08,09,21:00,UNNAMED,USSR,dust2,CIS Rising League Season 1,4,16,4,11,0,5,USSR,15,13,1.06 
+2014,08,01,20:00,OverGaming,USSR,inferno,SLTV StarSeries X,16,3,12,3,4,0,USSR,4,18,0.28 
+2014,07,26,20:30,USSR,k1ck,dust2,ESL One Cologne 2014 European ..,13,16,7,8,6,8,USSR,24,19,1.13 
+2014,07,26,20:30,k1ck,USSR,inferno,ESL One Cologne 2014 European ..,21,18,10,5,5,10,USSR,32,28,1.13 
+2014,07,26,13:00,NatusVincere,USSR,mirage,ESL One Cologne 2014 European ..,16,2,13,2,3,0,USSR,7,17,0.43 
+2014,07,26,13:00,USSR,NatusVincere,dust2,ESL One Cologne 2014 European ..,4,16,4,11,0,5,USSR,12,19,0.63 
+2014,07,25,20:00,Virtus.pro,USSR,mirage,SLTV StarSeries X,16,7,11,4,5,3,USSR,5,21,0.30 
+2014,07,25,19:00,Epsilon,USSR,mirage,SLTV StarSeries X,16,14,4,11,12,3,USSR,18,23,0.75 
+2014,07,21,21:00,Reason,USSR,inferno,SLTV StarSeries X,15,15,5,10,10,5,USSR,9,18,0.62 
+2014,07,21,19:00,ESG!,USSR,dust2,SLTV StarSeries X,16,7,9,6,7,1,USSR,13,18,0.75 
+2014,07,16,21:00,LDLC,USSR,inferno,SLTV StarSeries X,16,4,12,3,4,1,USSR,6,17,0.37 
+2014,07,16,20:10,USSR,Berzerk,dust2,SLTV StarSeries X,14,16,7,8,7,8,USSR,21,18,1.09 
+2014,07,16,19:00,OnlineBOTS,USSR,inferno,SLTV StarSeries X,14,16,11,4,3,12,USSR,19,20,0.88 
+2014,07,02,19:00,es4x,USSR,mirage,CIS Rising League Season 1,6,16,6,9,0,7,USSR,17,9,1.31 
+2014,07,02,19:00,es4x,USSR,inferno,CIS Rising League Season 1,8,16,6,9,2,7,USSR,20,13,1.26 
+2014,06,26,20:00,USSR,ESC,dust2,SLTV StarSeries X,14,16,7,8,7,8,USSR,18,18,0.98 
+2014,06,17,20:00,ACES,USSR,mirage,CIS Rising League Season 1,18,21,4,11,11,4,USSR,34,28,1.18 
+2014,06,17,20:00,USSR,ACES,dust2,CIS Rising League Season 1,16,7,9,6,7,1,USSR,18,12,1.22 
+2014,04,30,19:00,GGWP.pro,USSR,mirage,SLTV ProSeries IX,2,16,2,13,0,3,USSR,22,9,1.75 
+2014,04,30,19:00,GGWP.pro,USSR,inferno,SLTV ProSeries IX,8,16,6,9,2,7,USSR,16,12,1.06 
+2014,04,29,18:00,Nostalgie,USSR,mirage,SLTV ProSeries IX,15,19,10,5,5,10,USSR,34,19,1.58 
+2014,04,29,18:00,USSR,Nostalgie,dust2,SLTV ProSeries IX,16,3,12,3,4,0,USSR,15,7,1.36 
+2014,04,28,18:00,USSR,97club,train,SLTV ProSeries IX,16,6,12,3,4,3,USSR,16,12,1.14 
+2014,04,28,18:00,97club,USSR,mirage,SLTV ProSeries IX,16,13,5,10,11,3,USSR,24,21,1.06 
+2014,04,28,18:00,97club,USSR,inferno,SLTV ProSeries IX,14,16,8,7,6,9,USSR,29,21,1.38 

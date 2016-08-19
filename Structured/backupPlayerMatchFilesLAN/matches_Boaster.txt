@@ -1,0 +1,11 @@
+2016,07,03,19:30,Infused,UnitedEstonia,inferno,ESL UK Premiership Spring 2016..,4,16,3,12,1,4,United Estonia,19,9,1.39 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,mirage,ESL UK Premiership Spring 2016..,16,9,13,2,3,7,United Estonia,16,18,0.90 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,cache,ESL UK Premiership Spring 2016..,16,13,8,7,8,6,United Estonia,17,21,0.83 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,dust2,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,United Estonia,35,20,1.62 
+2016,03,24,23:00,Orbit,Publiclir.se,cache,Copenhagen Games 2016 BYOC Qua..,11,16,6,9,5,7,Orbit,14,15,0.88 
+2016,03,24,23:00,Orbit,Publiclir.se,mirage,Copenhagen Games 2016 BYOC Qua..,16,8,12,3,4,5,Orbit,19,14,1.17 
+2016,03,24,23:00,Publiclir.se,Orbit,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,8,7,8,2,Orbit,6,21,0.35 
+2016,03,24,19:00,Orbit,OBEY,inferno,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,Orbit,13,9,1.21 
+2016,03,24,19:00,Orbit,OBEY,mirage,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Orbit,20,6,2.02 
+2016,03,24,15:30,Orbit,!nsurgents,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,5,10,5,6,0,Orbit,22,6,1.82 
+2016,03,24,13:00,Orbit,Skaldubegraves?,dust2,Copenhagen Games 2016 BYOC Qua..,16,11,11,4,5,7,Orbit,24,14,1.35 

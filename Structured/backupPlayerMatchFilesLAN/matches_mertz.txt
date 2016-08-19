@@ -1,0 +1,12 @@
+2016,03,25,13:30,Alpha,Epsilon,cobblestone,Copenhagen Games 2016,6,16,6,9,0,7,Alpha,9,20,0.52 
+2016,03,25,11:50,Alpha,CPHWolves,overpass,Copenhagen Games 2016,10,16,6,9,4,7,Alpha,13,18,0.74 
+2016,03,24,22:35,Alpha,Bananaboys,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,13,5,10,11,3,Alpha,24,16,1.36 
+2016,03,24,22:35,Alpha,Bananaboys,dust2,Copenhagen Games 2016 BYOC Qua..,16,14,6,9,10,5,Alpha,23,20,1.05 
+2016,03,24,22:35,Bananaboys,Alpha,overpass,Copenhagen Games 2016 BYOC Qua..,16,12,6,9,10,3,Alpha,24,22,1.10 
+2016,03,24,15:30,Alpha,404OrgNotFound,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,4,11,4,5,0,Alpha,24,8,1.75 
+2016,03,24,13:00,Alpha,seven,dust2,Copenhagen Games 2016 BYOC Qua..,16,6,11,4,5,2,Alpha,23,11,1.55 
+2016,02,19,21:00,Preparation,Optimum,cache,Nordic Masters Season 2 Finals,16,11,8,7,8,4,Optimum,25,18,1.30 
+2016,02,19,21:00,Optimum,Preparation,inferno,Nordic Masters Season 2 Finals,9,16,8,7,1,9,Optimum,13,19,0.77 
+2016,02,19,18:15,Optimum,Temporaryorgless,cache,Nordic Masters Season 2 Finals,16,2,13,2,3,0,Optimum,20,8,1.77 
+2016,02,19,18:15,Optimum,Temporaryorgless,mirage,Nordic Masters Season 2 Finals,16,3,13,2,3,1,Optimum,21,8,1.70 
+2016,02,19,12:35,Optimum,Publiclir.se,mirage,Nordic Masters Season 2 Finals,16,19,5,10,10,5,Optimum,37,25,1.38 

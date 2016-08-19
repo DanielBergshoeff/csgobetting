@@ -1,0 +1,14 @@
+2016,03,24,17:00,Aquiver.RED,Tekweb,inferno,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Tekweb,4,16,0.28 
+2016,03,24,15:30,InfluxNordic,Tekweb,cobblestone,Copenhagen Games 2016 BYOC Qua..,2,16,2,13,0,3,Tekweb,15,8,1.28 
+2016,03,24,13:00,Tekweb,Plantronics,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,2,13,3,3,Tekweb,8,20,0.38 
+2015,12,06,18:00,NPME,Arcade,mirage,Game Show Global eSports Cup 2..,6,16,4,11,2,5,NPME,11,18,0.62 
+2015,12,06,18:00,NPME,Arcade,inferno,Game Show Global eSports Cup 2..,8,16,6,9,2,7,NPME,8,21,0.40 
+2015,12,05,21:00,NPME,YP,mirage,Game Show Global eSports Cup 2..,9,16,7,8,2,8,NPME,14,20,0.70 
+2015,12,05,21:00,NPME,YP,dust2,Game Show Global eSports Cup 2..,13,16,5,10,8,6,NPME,26,20,1.28 
+2015,05,14,21:30,7sway,USSR,cache,Uprise Champions Cup Season 2,14,16,6,9,8,7,7sway,21,23,0.96 
+2015,05,14,21:30,USSR,7sway,inferno,Uprise Champions Cup Season 2,16,10,9,6,7,4,7sway,12,21,0.63 
+2015,05,08,20:00,PiTER,7sway,mirage,Uprise Champions Cup Season 2,16,10,7,8,9,2,7sway,8,24,0.34 
+2015,05,08,20:00,7sway,PiTER,cache,Uprise Champions Cup Season 2,8,16,5,10,3,6,7sway,16,17,0.94 
+2014,04,26,22:15,Panthers,AlienTech,dust2,1Life Fraglider Invitational,7,16,4,11,3,5,Panthers,14,20,0.72 
+2014,04,26,21:00,Panthers,NorthernGrade,dust2,1Life Fraglider Invitational,5,16,3,12,2,4,Panthers,8,19,0.56 
+2014,04,26,19:00,Panthers,SteelShock,inferno,1Life Fraglider Invitational,16,3,12,3,4,0,Panthers,17,10,1.35 

@@ -1,0 +1,17 @@
+2016,06,05,13:00,RAGE,SpaceJam,mirage,Adrenaline Open Cyber Cup,8,16,7,8,1,8,Space Jam,19,17,1.04 
+2016,06,05,13:00,RAGE,SpaceJam,dust2,Adrenaline Open Cyber Cup,13,16,7,8,6,8,Space Jam,25,20,1.33 
+2015,09,29,17:00,Enervate,VegaSquadron,cache,Uprise Champions Cup Season 3 ..,16,2,13,2,3,0,Vega Squadron,3,18,0.14 
+2015,09,29,17:00,VegaSquadron,Enervate,mirage,Uprise Champions Cup Season 3 ..,16,19,5,10,10,5,Vega Squadron,23,25,1.00 
+2015,09,29,11:00,VegaSquadron,Nostalgie,dust2,Uprise Champions Cup Season 3 ..,16,14,4,11,12,3,Vega Squadron,22,19,1.05 
+2015,09,29,11:00,VegaSquadron,Nostalgie,mirage,Uprise Champions Cup Season 3 ..,16,7,13,2,3,5,Vega Squadron,19,15,1.25 
+2015,09,28,14:00,VegaSquadron,PiTER,mirage,Uprise Champions Cup Season 3 ..,11,16,5,10,6,6,Vega Squadron,16,23,0.81 
+2015,09,28,14:00,PiTER,VegaSquadron,cache,Uprise Champions Cup Season 3 ..,16,13,9,6,7,7,Vega Squadron,15,21,0.70 
+2015,09,28,10:20,RCTIC,VegaSquadron,dust2,Uprise Champions Cup Season 3 ..,16,19,6,9,9,6,Vega Squadron,27,26,1.07 
+2015,09,28,10:20,VegaSquadron,RCTIC,mirage,Uprise Champions Cup Season 3 ..,16,14,3,12,13,2,Vega Squadron,32,18,1.51 
+2015,04,19,09:00,ACES,USSR,dust2,CIS LAN Championship,16,12,7,8,9,4,USSR,22,22,1.06 
+2015,04,19,09:00,ACES,USSR,cache,CIS LAN Championship,16,9,10,5,6,4,USSR,17,19,1.02 
+2015,04,18,19:00,USSR,FlipSid3,inferno,CIS LAN Championship,7,16,5,10,2,6,USSR,12,18,0.74 
+2015,04,18,19:00,USSR,FlipSid3,nuke,CIS LAN Championship,8,16,8,7,0,9,USSR,17,19,0.93 
+2015,04,17,18:00,TEAMSWAGYOLO,USSR,cobblestone,CIS LAN Championship,9,16,6,9,3,7,USSR,20,19,1.05 
+2015,04,17,15:00,HellRaisers,USSR,cache,CIS LAN Championship,16,11,12,3,4,8,USSR,18,23,1.00 
+2015,04,17,12:05,PiTER,USSR,inferno,CIS LAN Championship,11,16,7,8,4,8,USSR,30,17,1.62 

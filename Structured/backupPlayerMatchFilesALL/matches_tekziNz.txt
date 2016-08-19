@@ -1,0 +1,10 @@
+2016,03,24,23:00,Isak,Epsilon,cobblestone,Copenhagen Games 2016 BYOC Qua..,1,16,1,14,0,2,Isak,2,17,0.10 
+2016,03,24,23:00,Epsilon,Isak,dust2,Copenhagen Games 2016 BYOC Qua..,16,4,11,4,5,0,Isak,6,18,0.42 
+2016,03,24,19:00,Isak,PlayingDucks,mirage,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,Isak,11,15,0.72 
+2016,03,24,19:00,Isak,PlayingDucks,cache,Copenhagen Games 2016 BYOC Qua..,16,11,11,4,5,7,Isak,11,19,0.65 
+2016,03,24,17:00,EasternVikings,Isak,inferno,Copenhagen Games 2016 BYOC Qua..,14,16,6,9,8,7,Isak,16,23,0.67 
+2016,03,24,15:30,Fragsters,Isak,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,Isak,10,18,0.76 
+2016,03,24,13:00,Isak,WarMonkeys,dust2,Copenhagen Games 2016 BYOC Qua..,19,17,8,7,7,8,Isak,14,23,0.64 
+2015,10,19,22:15,nerdRage,stfuNerd,inferno,D!ngIT $2000 Weekly Cup #22,12,16,7,8,5,8,nerdRage,15,23,0.70 
+2015,10,19,20:30,LondonC,nerdRage,inferno,D!ngIT $2000 Weekly Cup #22,16,3,12,3,4,0,nerdRage,5,16,0.38 
+2015,10,19,20:30,LondonC,nerdRage,cache,D!ngIT $2000 Weekly Cup #22,16,7,9,6,7,1,nerdRage,9,16,0.65 

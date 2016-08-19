@@ -1,1 +1,1 @@
-mirage dust2 train cbble overpass nuke inferno cache season dust2_se mirage_ce inferno_se train_se nuke_se 
+mirage dust2 train cbble overpass nuke inferno cache season dust2_se mirage_ce inferno_se train_se nuke_se cobblestone 

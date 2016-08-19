@@ -1,0 +1,26 @@
+2016,08,08,13:00,TheMongolz,Brutality,dust2,ESEA Open Season 22 Asia,9,16,8,7,1,9,TheMongolz,13,18,0.76 
+2016,08,08,13:00,TheMongolz,Brutality,mirage,ESEA Open Season 22 Asia,7,16,4,11,3,5,TheMongolz,15,18,0.87 
+2016,08,02,13:00,VG.CyberZen,TheMongolz,cobblestone,E-Sports Festival CS:GO Tourna..,16,4,13,2,3,2,TheMongolz,8,17,0.49 
+2016,08,02,13:00,VG.CyberZen,TheMongolz,dust2,E-Sports Festival CS:GO Tourna..,16,12,5,10,11,2,TheMongolz,22,20,0.99 
+2016,08,02,13:00,VG.CyberZen,TheMongolz,cache,E-Sports Festival CS:GO Tourna..,2,16,2,13,0,3,TheMongolz,10,10,0.89 
+2016,07,28,15:00,dream[S]cape,TheMongolz,cache,MixBOT Pro-League Golden,7,16,5,10,2,6,TheMongolz,16,13,1.06 
+2016,07,28,15:00,dream[S]cape,TheMongolz,cobblestone,MixBOT Pro-League Golden,9,16,5,10,4,6,TheMongolz,16,16,1.06 
+2016,07,28,15:00,TheMongolz,dream[S]cape,mirage,MixBOT Pro-League Golden,14,16,6,9,8,7,TheMongolz,14,23,0.70 
+2016,07,26,12:00,VG.CyberZen,TheMongolz,cache,MixBOT Pro-League Golden,16,6,12,3,4,3,TheMongolz,13,19,0.68 
+2016,07,26,12:00,VG.CyberZen,TheMongolz,train,MixBOT Pro-League Golden,10,16,9,6,1,10,TheMongolz,24,18,1.51 
+2016,07,26,12:00,VG.CyberZen,TheMongolz,cobblestone,MixBOT Pro-League Golden,16,11,6,9,10,2,TheMongolz,17,21,0.84 
+2016,07,24,12:00,TheMongolz,m0nster,cobblestone,MixBOT Pro-League Golden,19,17,6,9,9,6,TheMongolz,24,22,1.05 
+2016,07,24,12:00,TheMongolz,m0nster,dust2,MixBOT Pro-League Golden,13,16,8,7,5,9,TheMongolz,13,22,0.61 
+2016,07,24,12:00,TheMongolz,m0nster,mirage,MixBOT Pro-League Golden,16,7,9,6,7,1,TheMongolz,15,13,1.03 
+2016,07,14,11:00,China,Mongolia,cache,World Championships 2016 Asian..,16,9,10,5,6,4,Mongolia,13,18,0.76 
+2016,07,14,11:00,China,Mongolia,dust2,World Championships 2016 Asian..,2,16,1,14,1,2,Mongolia,16,13,1.10 
+2016,07,14,11:00,China,Mongolia,cobblestone,World Championships 2016 Asian..,16,10,9,6,7,4,Mongolia,14,20,0.71 
+2016,06,28,11:00,Mongolia,Lebanon,mirage,World Championships 2016 Asian..,16,14,10,5,6,9,Mongolia,24,17,1.27 
+2016,06,28,11:00,Mongolia,Lebanon,cache,World Championships 2016 Asian..,16,11,11,4,5,7,Mongolia,21,17,1.21 
+2016,06,15,12:00,EDG,TheMongolz,dust2,MixBOT Pro-League Golden,10,16,8,7,2,9,TheMongolz,19,16,1.13 
+2016,06,15,12:00,TheMongolz,EDG,cache,MixBOT Pro-League Golden,6,16,4,11,2,5,TheMongolz,12,14,0.83 
+2016,06,15,12:00,EDG,TheMongolz,mirage,MixBOT Pro-League Golden,8,16,7,8,1,8,TheMongolz,19,15,1.21 
+2016,06,08,12:00,MVPproject,TheMongolz,mirage,MixBOT Pro-League Golden,16,3,14,1,2,2,TheMongolz,8,17,0.56 
+2016,06,08,12:00,MVPproject,TheMongolz,cobblestone,MixBOT Pro-League Golden,14,16,8,7,6,9,TheMongolz,28,21,1.31 
+2016,06,08,12:00,MVPproject,TheMongolz,cache,MixBOT Pro-League Golden,16,10,8,7,8,3,TheMongolz,14,17,0.82 
+2015,09,05,11:30,CORE,TyLoo,overpass,DreamHack Open Cluj-Napoca 201..,2,16,2,13,0,3,CORE,15,17,0.90 

@@ -1,0 +1,56 @@
+2016,04,25,21:15,CETCTM,DMIT,cache,Yoggi Yalla Cup,16,13,7,8,9,5,CETCTM,28,13,1.54 
+2016,04,25,21:15,CETCTM,DMIT,cobblestone,Yoggi Yalla Cup,16,14,10,5,6,9,CETCTM,19,18,1.01 
+2016,01,18,21:30,Gambit,Temp.no,inferno,Operation: Kinguin #2,16,4,13,2,3,2,Temp.no,2,20,0.08 
+2016,01,18,21:30,Temp.no,Gambit,mirage,Operation: Kinguin #2,5,16,5,10,0,6,Temp.no,6,18,0.36 
+2015,10,06,19:30,BX3,Torpedo,inferno,Fragbite Masters Season 5 Main..,9,16,6,9,3,7,BX3,12,17,0.75 
+2015,10,06,19:30,BX3,Torpedo,train,Fragbite Masters Season 5 Main..,8,16,7,8,1,8,BX3,8,17,0.54 
+2015,10,01,22:00,BX3,ESC,cache,QuickShot Arena #9,12,16,5,10,7,6,BX3,14,22,0.70 
+2015,10,01,21:00,EpiphanyBolt,BX3,cache,QuickShot Arena #9,16,6,11,4,5,2,BX3,20,17,1.16 
+2015,10,01,17:00,ESC,BX3,cache,QuickShot Arena #9,13,16,7,8,6,8,BX3,19,15,1.12 
+2015,08,14,21:15,Sweden,Norway,mirage,King of Nordic Season 1,16,8,8,7,8,1,Norway,15,18,0.87 
+2015,07,26,21:30,LGB,Titan,dust2,ESL One Cologne 2015 European ..,2,16,2,13,0,3,LGB,9,16,0.57 
+2015,07,26,21:13,HellRaisers,LGB,inferno,ESL One Cologne 2015 European ..,7,16,2,13,5,3,LGB,16,13,1.06 
+2015,07,26,18:00,LGB,k1ck,overpass,ESL One Cologne 2015 European ..,16,9,10,5,6,4,LGB,20,16,1.15 
+2015,07,26,17:00,EpiphanyBolt,LGB,mirage,ESL One Cologne 2015 European ..,11,16,10,5,1,11,LGB,18,20,0.92 
+2015,07,26,13:00,LGB,HellRaisers,overpass,ESL One Cologne 2015 European ..,17,19,13,2,2,13,LGB,22,26,0.90 
+2015,06,28,16:30,1337,LGB,mirage,ESL One Cologne 2015 EU pre-qu..,16,10,9,6,7,4,LGB,20,20,1.05 
+2015,06,28,16:30,1337,LGB,inferno,ESL One Cologne 2015 EU pre-qu..,16,11,8,7,8,4,LGB,20,22,0.92 
+2015,06,28,16:30,LGB,1337,cache,ESL One Cologne 2015 EU pre-qu..,16,13,9,6,7,7,LGB,12,20,0.62 
+2015,06,25,18:00,GPlay,LGB,dust2,Acer Predator Masters powered ..,16,8,10,5,6,3,LGB,14,17,0.79 
+2015,06,25,18:00,GPlay,LGB,mirage,Acer Predator Masters powered ..,3,16,3,12,0,4,LGB,9,12,0.76 
+2015,06,25,18:00,GPlay,LGB,cache,Acer Predator Masters powered ..,16,9,11,4,5,5,LGB,21,23,0.93 
+2015,06,23,20:00,NiP,LGB,dust2,CEVO Professional Season 7,16,10,8,7,8,3,LGB,16,15,1.04 
+2015,06,23,20:00,LGB,NiP,inferno,CEVO Professional Season 7,7,16,6,9,1,7,LGB,15,15,0.94 
+2015,06,18,19:00,SK,LGB,train,Acer Predator Masters powered ..,19,21,7,8,8,7,LGB,34,22,1.26 
+2015,06,18,19:00,LGB,SK,dust2,Acer Predator Masters powered ..,16,7,10,5,6,2,LGB,9,12,0.74 
+2015,06,17,22:30,Titan,LGB,dust2,CEVO Professional Season 7,16,12,10,5,6,7,LGB,19,21,0.85 
+2015,06,17,22:30,LGB,Titan,overpass,CEVO Professional Season 7,11,16,8,7,3,9,LGB,17,20,0.87 
+2015,06,13,20:30,LGB,FlipSid3,cache,DreamHack Open Summer 2015,5,16,5,10,0,6,LGB,9,19,0.44 
+2015,06,13,17:15,LGB,fnatic,cache,DreamHack Open Summer 2015,13,16,5,10,8,6,LGB,13,22,0.73 
+2015,06,03,19:00,LGB,GPlay,mirage,SLTV StarSeries XIII,11,16,6,9,5,7,LGB,19,21,0.76 
+2015,06,03,19:00,LGB,GPlay,dust2,SLTV StarSeries XIII,16,4,13,2,3,2,LGB,21,9,1.65 
+2015,06,03,19:00,GPlay,LGB,cache,SLTV StarSeries XIII,19,17,8,7,7,8,LGB,25,24,0.97 
+2015,06,01,23:00,PENTA,LGB,cache,CEVO Professional Season 7,16,13,12,3,4,10,LGB,13,20,0.77 
+2015,06,01,23:00,LGB,PENTA,overpass,CEVO Professional Season 7,19,17,7,8,8,7,LGB,23,21,0.99 
+2015,05,31,15:00,HellRaisers,LGB,inferno,DreamHack Open Summer 2015 Clo..,7,16,6,9,1,7,LGB,20,13,1.43 
+2015,05,31,15:00,HellRaisers,LGB,mirage,DreamHack Open Summer 2015 Clo..,12,16,9,6,3,10,LGB,26,16,1.35 
+2015,05,31,15:00,HellRaisers,LGB,dust2,DreamHack Open Summer 2015 Clo..,21,17,10,5,5,10,LGB,15,29,0.57 
+2015,05,31,15:00,LGB,HellRaisers,cache,DreamHack Open Summer 2015 Clo..,16,12,5,10,11,2,LGB,16,20,0.79 
+2015,05,31,15:00,LGB,HellRaisers,overpass,DreamHack Open Summer 2015 Clo..,13,16,9,6,4,10,LGB,11,21,0.56 
+2015,05,31,11:00,ISKOLD,LGB,dust2,DreamHack Open Summer 2015 Clo..,6,16,5,10,1,6,LGB,21,15,1.37 
+2015,05,31,11:00,ISKOLD,LGB,cache,DreamHack Open Summer 2015 Clo..,5,16,5,10,0,6,LGB,17,12,1.39 
+2015,05,31,11:00,LGB,ISKOLD,mirage,DreamHack Open Summer 2015 Clo..,12,16,9,6,3,10,LGB,18,21,0.82 
+2015,05,30,22:00,fnatic,EnVyUs,train,ESL ESEA Pro League Season 1,5,16,4,11,1,5,fnatic,6,18,0.36 
+2015,05,23,22:10,ISKOLD,AliGon,inferno,DreamHack Open Summer 2015 Qua..,26,23,9,6,6,9,AliGon,38,35,1.03 
+2015,01,13,20:30,Orbit,PENTA,inferno,99Damage Arena #4,13,16,8,7,5,9,Orbit,26,15,1.38 
+2015,01,13,20:30,PENTA,Orbit,dust2,99Damage Arena #4,16,8,10,5,6,3,Orbit,18,22,0.94 
+2014,10,12,20:15,Belgium,Norway,dust2,European Championship 2014,10,16,7,8,3,8,Norway,17,16,0.95 
+2014,09,04,22:20,Norway,Poland,mirage,European Championship 2014,5,16,2,13,3,3,Norway,12,17,0.74 
+2014,08,28,22:11,Norway,Iceland,mirage,European Championship 2014 Qua..,16,3,12,3,4,0,Norway,19,11,1.45 
+2014,08,28,22:00,Iceland,Norway,dust2,European Championship 2014 Qua..,8,16,6,9,2,7,Norway,29,11,1.74 
+2014,08,10,20:15,FlipSid3,dAT,mirage,FACEIT League 2 EU pre-qualifi..,12,16,10,5,2,11,FlipSid3,25,18,1.27 
+2014,04,18,21:00,ESC,Virtus.pro,dust2,Copenhagen Games 2014,3,16,3,12,0,4,ESC,7,16,0.44 
+2014,04,18,21:00,Virtus.pro,ESC,train,Copenhagen Games 2014,16,8,10,5,6,3,ESC,13,18,0.75 
+2014,04,18,17:00,NecroRaisers,ESC,dust2,Copenhagen Games 2014,7,16,5,10,2,6,ESC,16,10,1.29 
+2014,04,18,17:00,NecroRaisers,ESC,nuke,Copenhagen Games 2014,8,16,7,8,1,8,ESC,19,15,1.11 
+2014,04,18,17:00,ESC,NecroRaisers,train,Copenhagen Games 2014,20,22,7,8,8,7,ESC,31,32,0.94 

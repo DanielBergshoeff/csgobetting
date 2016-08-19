@@ -1,0 +1,45 @@
+2016,07,15,14:30,Genus,AlienTech,cobblestone,DreamHack Valencia 2016,7,16,4,11,3,5,Genus,13,18,0.70 
+2016,07,15,14:30,AlienTech,Genus,mirage,DreamHack Valencia 2016,16,9,9,6,7,3,Genus,12,22,0.59 
+2016,07,07,20:15,EURONICS,Genus,cache,xfunction Masters 2016,16,5,12,3,4,2,Genus,7,17,0.49 
+2016,07,03,11:00,Phantoms,LosMariachis,cache,AlienTech CS:GO TiTans II Fina..,16,11,6,9,10,2,Los Mariachis,14,22,0.67 
+2016,07,02,11:25,LosMariachis,jA'Vi,cobblestone,AlienTech CS:GO TiTans II Fina..,3,16,3,12,0,4,Los Mariachis,10,17,0.56 
+2016,07,02,11:25,jA'Vi,LosMariachis,dust2,AlienTech CS:GO TiTans II Fina..,16,5,11,4,5,1,Los Mariachis,11,18,0.66 
+2016,06,27,19:30,LosMariachis,AGG,nuke,xfunction Masters 2016,9,16,8,7,1,9,Los Mariachis,18,21,0.85 
+2016,03,18,23:45,3R2L,AlienTech,inferno,AlienTech CS:GO Invitational I,8,16,6,9,2,7,3R2L,8,14,0.67 
+2016,03,18,21:35,RedLine,3R2L,mirage,AlienTech CS:GO Invitational I,16,19,14,1,1,14,3R2L,21,25,0.78 
+2016,03,18,19:50,3R2L,FTW.PRO,mirage,AlienTech CS:GO Invitational I,11,16,4,11,7,5,3R2L,16,18,0.87 
+2015,11,15,17:15,E-frag.net,AlienTech,cache,Game On Invitational,16,6,11,4,5,2,AlienTech,7,19,0.38 
+2015,10,24,18:30,BulletsRage.Pro,k1ck,inferno,AlienTech CS:GO TiTans I Final..,16,11,8,7,8,4,k1ck,23,20,1.07 
+2015,10,24,11:30,KeydStars,k1ck,mirage,AlienTech CS:GO TiTans I Final..,16,5,12,3,4,2,k1ck,5,17,0.35 
+2015,10,24,11:30,k1ck,KeydStars,cobblestone,AlienTech CS:GO TiTans I Final..,7,16,3,12,4,4,k1ck,8,18,0.62 
+2015,10,19,23:00,k1ck,BulletsRage.Pro,inferno,AlienTech CS:GO TiTans I,16,12,6,9,10,3,k1ck,20,18,1.01 
+2015,10,13,23:00,k1ck,3v,inferno,AlienTech CS:GO TiTans I,16,5,13,2,3,3,k1ck,14,9,1.13 
+2015,09,28,23:15,k1ck,GRS.GP,dust2,D!ngIT $2000 Weekly Cup #19,9,16,5,10,4,6,k1ck,15,20,0.80 
+2015,09,28,18:15,NoProblem!,k1ck,mirage,D!ngIT $2000 Weekly Cup #19,16,8,8,7,8,1,k1ck,8,20,0.44 
+2015,09,28,18:15,k1ck,NoProblem!,cache,D!ngIT $2000 Weekly Cup #19,9,16,5,10,4,6,k1ck,14,19,0.80 
+2015,09,28,18:15,k1ck,NoProblem!,cobblestone,D!ngIT $2000 Weekly Cup #19,16,11,11,4,5,7,k1ck,11,15,0.72 
+2015,08,17,21:00,PlayingDucks,k1ck,mirage,xfunction Masters Season III,14,16,8,7,6,9,k1ck,23,21,1.02 
+2015,08,17,21:00,PlayingDucks,k1ck,inferno,xfunction Masters Season III,17,19,7,8,8,7,k1ck,20,20,0.97 
+2015,08,08,23:15,Phenomenon,k1ck,cache,Multifrags Invitational 2015,16,2,13,2,3,0,k1ck,6,17,0.32 
+2015,08,08,23:15,k1ck,Phenomenon,cobblestone,Multifrags Invitational 2015,9,16,6,9,3,7,k1ck,13,18,0.80 
+2015,08,08,20:00,CAZ,k1ck,dust2,Multifrags Invitational 2015,16,14,8,7,8,7,k1ck,21,23,0.91 
+2015,08,08,20:00,CAZ,k1ck,inferno,Multifrags Invitational 2015,10,16,3,12,7,4,k1ck,8,22,0.40 
+2015,08,08,20:00,CAZ,k1ck,cache,Multifrags Invitational 2015,16,13,6,9,10,4,k1ck,21,19,0.97 
+2015,08,08,13:00,PiTER,k1ck,cobblestone,Multifrags Invitational 2015,11,16,3,12,8,4,k1ck,25,14,1.40 
+2015,08,08,13:00,k1ck,PiTER,cache,Multifrags Invitational 2015,6,16,3,12,3,4,k1ck,11,18,0.59 
+2015,08,08,13:00,k1ck,PiTER,inferno,Multifrags Invitational 2015,16,6,14,1,2,5,k1ck,16,9,1.20 
+2015,08,06,19:00,E-frag.net,k1ck,cache,xfunction Masters Season III,16,6,12,3,4,3,k1ck,11,18,0.59 
+2015,08,06,19:00,E-frag.net,k1ck,inferno,xfunction Masters Season III,16,9,10,5,6,4,k1ck,8,20,0.50 
+2015,07,29,22:30,k1ck,k1ck,cobblestone,xfunction Masters Season III,35,37,9,6,6,9,k1ck,52,54,0.95 
+2015,07,29,22:30,k1ck,k1ck,inferno,xfunction Masters Season III,16,19,8,7,7,8,k1ck,23,22,0.94 
+2015,06,04,22:30,k1ck,myKPV,dust2,CEVO Main Season 7,16,19,10,5,5,10,k1ck,21,26,0.81 
+2015,06,03,23:00,k1ck,Awsomniac,overpass,CEVO Main Season 7,13,16,7,8,6,8,k1ck,10,25,0.44 
+2015,06,03,21:00,k1ck,uX,overpass,CEVO Main Season 7,8,16,8,7,0,9,k1ck,15,17,0.88 
+2015,05,27,21:15,Vination,k1ck,mirage,CEVO Main Season 7,19,15,9,6,6,9,k1ck,14,26,0.57 
+2015,05,19,21:00,k1ck,Epsilon,cobblestone,CEVO Main Season 7,16,7,11,4,5,3,k1ck,10,14,0.73 
+2015,05,14,23:00,CPLAY,k1ck,train,CEVO Main Season 7,16,14,8,7,8,7,k1ck,21,19,0.98 
+2015,05,12,21:00,Acer,Panthers,cobblestone,Fragbite Masters Season 4 Last..,16,9,8,7,8,2,Panthers,15,19,0.81 
+2015,05,12,21:00,Panthers,Acer,dust2,Fragbite Masters Season 4 Last..,13,16,7,8,6,8,Panthers,18,19,0.96 
+2015,04,22,21:15,Panthers,dignitas,inferno,Fragbite Masters Season 4 Qual..,4,16,2,13,2,3,Panthers,5,16,0.40 
+2015,04,22,21:15,dignitas,Panthers,cobblestone,Fragbite Masters Season 4 Qual..,16,13,8,7,8,6,Panthers,14,22,0.68 
+2015,04,21,20:45,Panthers,Publiclir.se,cache,Fragbite Masters Season 4 Qual..,16,4,12,3,4,1,Panthers,14,11,1.04 

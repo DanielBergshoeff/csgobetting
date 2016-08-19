@@ -1,0 +1,16 @@
+2016,08,07,15:05,TBD-PL,Entropy,cache,ECS Season 2 EU Open Qualifier..,12,16,7,8,5,8,TBD-PL,17,19,0.83 
+2015,09,09,21:45,KappaKappa,ESC,mirage,QuickShot Arena #6,11,16,6,9,5,7,ESC,15,18,0.87 
+2015,09,09,19:30,ESC,eBettle,dust2,QuickShot Arena #6,8,16,8,7,0,9,ESC,16,17,0.89 
+2015,09,09,19:30,eBettle,ESC,mirage,QuickShot Arena #6,16,3,12,3,4,0,ESC,13,19,0.66 
+2015,09,06,09:00,iSg.vA,QeeYou,cobblestone,DreamHack Open Cluj-Napoca 201..,13,16,5,10,8,6,iSg.vA,29,22,1.37 
+2015,09,06,09:00,QeeYou,iSg.vA,cache,DreamHack Open Cluj-Napoca 201..,16,5,10,5,6,0,iSg.vA,12,18,0.87 
+2015,09,05,12:45,iSg.vA,1hp,cache,DreamHack Open Cluj-Napoca 201..,16,6,11,4,5,2,iSg.vA,23,16,1.44 
+2015,06,02,21:00,NatusVincere,G2,mirage,CEVO Professional Season 7,16,2,14,1,2,1,G2,9,16,0.57 
+2015,06,02,21:00,G2,NatusVincere,dust2,CEVO Professional Season 7,16,10,8,7,8,3,G2,23,17,1.22 
+2014,10,15,20:00,AMNESIA,HAXCON,cobblestone,ESL Pro Series Poland Season 9,12,16,6,9,6,7,AMNESIA,22,18,1.20 
+2014,10,12,19:00,ePlay,AMNESIA,dust2,ESL Pro Series Poland Season 9,5,16,2,13,3,3,AMNESIA,16,12,1.18 
+2014,10,12,18:00,ALSEN,AMNESIA,nuke,ESL Pro Series Poland Season 9,10,16,8,7,2,9,AMNESIA,20,16,1.14 
+2014,10,12,17:00,AMNESIA,eliminacja,cobblestone,ESL Pro Series Poland Season 9,16,8,11,4,5,4,AMNESIA,27,11,1.70 
+2014,10,06,20:00,AMNESIA,ESC,overpass,ESL Pro Series Poland Season 9,10,16,8,7,2,9,AMNESIA,22,20,1.12 
+2014,09,22,18:30,AMNESIA,noMERCY,inferno,ESL Pro Series Poland Season 9,5,16,4,11,1,5,AMNESIA,1,10,0.47 
+2014,06,02,22:10,Dobry&Gaming,KNR,mirage,ESL Pro Series Poland Season 8,16,6,9,6,7,0,KNR,10,18,0.61 

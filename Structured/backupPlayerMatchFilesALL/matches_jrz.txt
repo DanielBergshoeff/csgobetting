@@ -1,0 +1,8 @@
+2016,03,11,22:50,Recursive,DEEZNUTS,mirage,Razer Rising Stars European Le..,16,12,8,7,8,5,DEEZ NUTS,14,20,0.71 
+2016,03,11,19:00,eXplosive,DEEZNUTS,cache,Razer Rising Stars European Le..,10,16,7,8,3,8,DEEZ NUTS,22,16,1.22 
+2015,12,16,21:00,AlienTech,DEEZNUTS,train,Game On European Invitational,16,10,12,3,4,7,DEEZ NUTS,12,23,0.66 
+2015,12,16,21:00,DEEZNUTS,AlienTech,cache,Game On European Invitational,11,16,4,11,7,5,DEEZ NUTS,13,20,0.70 
+2015,12,15,20:30,DEEZNUTS,YP,cobblestone,Game On European Invitational,16,9,8,7,8,2,DEEZ NUTS,14,16,0.92 
+2015,12,15,20:30,DEEZNUTS,YP,mirage,Game On European Invitational,14,16,11,4,3,12,DEEZ NUTS,18,18,0.91 
+2015,12,15,20:30,YP,DEEZNUTS,cache,Game On European Invitational,14,16,7,8,7,8,DEEZ NUTS,20,23,0.96 
+2014,10,15,20:00,AMNESIA,HAXCON,cobblestone,ESL Pro Series Poland Season 9,12,16,6,9,6,7,AMNESIA,14,22,0.72 

@@ -1,0 +1,17 @@
+2016,07,02,17:00,LGR,BX3,mirage,King of Nordic's Challenger Cu..,16,14,9,6,7,8,BX3,28,23,1.38 
+2016,07,02,17:00,BX3,LGR,train,King of Nordic's Challenger Cu..,4,16,3,12,1,4,BX3,13,17,0.87 
+2016,07,01,17:50,BX3,Kalashnikov47,mirage,King of Nordic's Challenger Cu..,16,14,9,6,7,8,BX3,27,15,1.39 
+2016,07,01,17:50,BX3,Kalashnikov47,overpass,King of Nordic's Challenger Cu..,1,16,1,14,0,2,BX3,5,15,0.34 
+2016,07,01,17:50,BX3,Kalashnikov47,cache,King of Nordic's Challenger Cu..,16,5,10,5,6,0,BX3,26,9,1.97 
+2015,11,20,19:30,eSuba,Refuse,mirage,QuickShot Arena #15,16,5,13,2,3,3,Refuse,15,16,0.93 
+2015,11,20,17:00,eXplosive,Refuse,cache,QuickShot Arena #15,16,3,12,3,4,0,Refuse,12,17,0.71 
+2015,11,05,22:00,OnlineBOTS,Refuse,dust2,QuickShot Arena #13,16,12,6,9,10,3,Refuse,22,14,1.17 
+2015,11,05,20:45,NoProblem!,Refuse,cache,QuickShot Arena #13,19,17,7,8,8,7,Refuse,21,24,0.89 
+2015,11,05,17:00,Refuse,OnlineBOTS,cache,QuickShot Arena #13,19,15,7,8,8,7,Refuse,29,20,1.24 
+2015,11,01,17:00,Refuse,VegaSquadron,overpass,QuickShot Showmatches,5,16,4,11,1,5,Refuse,14,16,0.94 
+2015,11,01,17:00,Refuse,VegaSquadron,cache,QuickShot Showmatches,13,16,3,12,10,4,Refuse,23,18,1.15 
+2015,11,01,17:00,Refuse,VegaSquadron,mirage,QuickShot Showmatches,16,8,8,7,8,1,Refuse,32,14,1.96 
+2015,09,03,20:30,SpaceSoldiers,Aposis,mirage,QuickShot Arena #5,16,6,12,3,4,3,Aposis,15,17,0.91 
+2015,09,02,21:30,Aposis,PlayingDucks,inferno,QuickShot Arena #5,16,8,9,6,7,2,Aposis,11,14,0.84 
+2015,09,02,21:30,PlayingDucks,Aposis,mirage,QuickShot Arena #5,12,16,6,9,6,7,Aposis,25,17,1.27 
+2015,08,17,18:00,dignitas,Aposis,mirage,Hitbox Arena Showdown Invitati..,16,5,11,4,5,1,Aposis,12,18,0.68 

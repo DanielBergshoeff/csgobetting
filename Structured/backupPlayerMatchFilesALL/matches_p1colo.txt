@@ -1,0 +1,4 @@
+2016,05,15,13:45,EasyFix,TES,overpass,HyperX Cup Finals,4,16,3,12,1,4,EasyFix,12,17,0.77 
+2016,05,15,13:45,TES,EasyFix,cache,HyperX Cup Finals,16,14,7,8,9,6,EasyFix,19,21,0.95 
+2016,03,15,23:00,ExAequo,EasyFix,cache,Personal Gamer,16,8,10,5,6,3,EasyFix,16,19,0.87 
+2016,03,15,23:00,ExAequo,EasyFix,train,Personal Gamer,16,12,6,9,10,3,EasyFix,20,23,0.93 

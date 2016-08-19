@@ -1,0 +1,16 @@
+2016,07,15,11:30,KIYF,Wololos,mirage,DreamHack Valencia 2016,3,16,2,13,1,3,KIYF,7,18,0.38 
+2016,07,15,11:30,KIYF,Wololos,train,DreamHack Valencia 2016,6,16,3,12,3,4,KIYF,4,21,0.19 
+2015,12,05,14:00,KIYF,Atlantis,inferno,LVP Season 9 Division de Honor..,2,16,1,14,1,2,KIYF,9,16,0.54 
+2015,12,04,19:30,KIYF,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,19,7,8,8,7,KIYF,28,24,1.09 
+2015,11,12,21:45,gBots,KIYF,cobblestone,LVP Season 9 Division de Honor..,16,11,8,7,8,4,KIYF,14,22,0.65 
+2015,11,12,21:45,gBots,KIYF,train,LVP Season 9 Division de Honor..,16,8,8,7,8,1,KIYF,17,19,0.98 
+2015,11,11,21:10,KIYF,NewSkillInfinity,mirage,LVP Season 9 Division de Honor..,16,5,10,5,6,0,KIYF,5,10,0.65 
+2015,11,11,21:10,NewSkillInfinity,KIYF,dust2,LVP Season 9 Division de Honor..,16,12,9,6,7,6,KIYF,9,22,0.46 
+2015,11,11,21:10,KIYF,NewSkillInfinity,cobblestone,LVP Season 9 Division de Honor..,16,14,8,7,8,7,KIYF,24,23,1.05 
+2015,10,07,21:00,KIYF,gBots,mirage,LVP Season 9 División de Honor..,13,16,9,6,4,10,KIYF,15,22,0.73 
+2015,10,07,21:00,KIYF,gBots,dust2,LVP Season 9 División de Honor..,7,16,3,12,4,4,KIYF,7,18,0.43 
+2015,10,01,21:00,KIYF,Play2Win,dust2,LVP Season 9 División de Honor..,19,16,6,9,9,6,KIYF,27,22,1.15 
+2015,10,01,21:00,KIYF,Play2Win,cache,LVP Season 9 División de Honor..,6,16,4,11,2,5,KIYF,9,19,0.51 
+2015,10,01,21:00,KIYF,Play2Win,mirage,LVP Season 9 División de Honor..,16,12,7,8,9,4,KIYF,19,22,0.91 
+2015,08,29,18:00,KIYF,PlayingDucks,dust2,99Damage Arena #13,4,16,4,11,0,5,KIYF,7,17,0.47 
+2015,08,29,18:00,PlayingDucks,KIYF,mirage,99Damage Arena #13,19,17,11,4,4,11,KIYF,21,29,0.73 

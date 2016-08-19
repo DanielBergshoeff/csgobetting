@@ -1,0 +1,14 @@
+2016,05,19,05:40,Immunity,MVP.karnal,overpass,WCA Season 1 APAC Finals,16,3,13,2,3,1,MVP.karnal,7,18,0.41 
+2016,05,19,05:40,Immunity,MVP.karnal,dust2,WCA Season 1 APAC Finals,16,13,8,7,8,6,MVP.karnal,21,20,1.06 
+2016,05,19,05:40,Immunity,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,10,13,2,3,8,MVP.karnal,10,21,0.52 
+2016,05,19,05:40,MVP.karnal,Immunity,cobblestone,WCA Season 1 APAC Finals,16,9,9,6,7,3,MVP.karnal,25,15,1.37 
+2016,05,18,11:00,MVP.karnal,Signature,dust2,WCA Season 1 APAC Finals,16,10,10,5,6,5,MVP.karnal,22,16,1.33 
+2016,05,18,11:00,Signature,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,11,8,7,8,4,MVP.karnal,16,19,0.82 
+2016,05,18,11:00,MVP.karnal,Signature,cache,WCA Season 1 APAC Finals,19,16,11,4,4,11,MVP.karnal,15,27,0.59 
+2016,01,29,08:30,Risky,MVP.karnal,train,IEM Taipei 2016,16,8,10,5,6,3,MVP.karnal,10,20,0.53 
+2016,01,29,05:45,MVP.karnal,Chiefs,inferno,IEM Taipei 2016,14,16,9,6,5,10,MVP.karnal,15,19,0.93 
+2015,07,19,11:30,Immunity,MVP.karnal,cobblestone,ESL One Cologne 2015 Asian Qua..,16,7,10,5,6,2,MVP.karnal,8,19,0.46 
+2015,07,19,11:30,MVP.karnal,Immunity,mirage,ESL One Cologne 2015 Asian Qua..,13,16,7,8,6,8,MVP.karnal,11,22,0.55 
+2015,07,19,06:45,MVP.karnal,QeeYou,overpass,ESL One Cologne 2015 Asian Qua..,16,5,10,5,6,0,MVP.karnal,18,11,1.33 
+2015,07,18,16:45,MVP.karnal,NeckBreak,inferno,ESL One Cologne 2015 Asian Qua..,16,7,13,2,3,5,MVP.karnal,23,12,1.50 
+2015,07,18,13:30,MVP.karnal,QeeYou,inferno,ESL One Cologne 2015 Asian Qua..,11,16,9,6,2,10,MVP.karnal,23,20,1.20 

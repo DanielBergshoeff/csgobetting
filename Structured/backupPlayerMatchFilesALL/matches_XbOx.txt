@@ -1,0 +1,4 @@
+2016,06,22,14:00,Bahrain,Taiwan,mirage,World Championships 2016 Asian..,2,16,2,13,0,3,Taiwan,16,10,1.27 
+2016,06,22,14:00,Taiwan,Bahrain,cache,World Championships 2016 Asian..,16,7,12,3,4,4,Taiwan,15,15,1.01 
+2016,01,30,06:20,Renegades,EatYouAlive,cache,IEM Taipei 2016,16,7,9,6,7,1,Eat You Alive,4,20,0.28 
+2016,01,30,04:00,EatYouAlive,Renegades,cobblestone,IEM Taipei 2016,2,16,2,13,0,3,Eat You Alive,6,15,0.45 

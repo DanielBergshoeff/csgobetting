@@ -1,0 +1,5 @@
+2016,08,12,19:00,Israel,Estonia,cobblestone,World Championships 2016 Europ..,9,16,4,11,5,5,Israel,20,20,1.09 
+2016,08,12,19:00,Estonia,Israel,mirage,World Championships 2016 Europ..,16,14,8,7,8,7,Israel,20,24,0.82 
+2016,08,12,19:00,Estonia,Israel,cache,World Championships 2016 Europ..,16,19,7,8,8,7,Israel,20,29,0.68 
+2015,08,13,17:30,Israel,Lithuania,mirage,World Championships 2015 Europ..,11,16,11,4,0,12,Israel,17,20,0.84 
+2015,08,13,17:30,Lithuania,Israel,inferno,World Championships 2015 Europ..,19,16,8,7,7,8,Israel,22,26,0.83 

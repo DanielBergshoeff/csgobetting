@@ -1,0 +1,4 @@
+2015,04,02,23:30,FONA,Badger,dust2,Copenhagen Games 2015,5,16,5,10,0,6,FONA,11,17,0.81 
+2015,04,02,21:30,SpaceSoldiers,FONA,dust2,Copenhagen Games 2015,16,8,9,6,7,2,FONA,13,18,0.85 
+2015,04,02,19:00,FONA,Sapiens,mirage,Copenhagen Games 2015,16,8,12,3,4,5,FONA,20,16,1.10 
+2015,04,02,15:30,FONA,DENiED,dust2,Copenhagen Games 2015,22,19,10,5,5,10,FONA,28,27,0.93 

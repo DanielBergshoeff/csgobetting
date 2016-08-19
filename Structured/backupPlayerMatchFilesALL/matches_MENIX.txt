@@ -1,0 +1,8 @@
+2016,06,25,14:30,übern00bz,Magistra,mirage,Dust2.dk eOddset Kinguin #1,6,16,3,12,3,4,über n00bz,18,17,1.11 
+2016,06,25,13:30,Seven11,übern00bz,cache,Dust2.dk eOddset Kinguin #1,16,4,12,3,4,1,über n00bz,9,19,0.56 
+2016,06,25,12:00,übern00bz,Singularity,dust2,Dust2.dk eOddset Kinguin #1,6,16,2,13,4,3,über n00bz,16,19,0.85 
+2016,06,03,19:15,KoNFinland,KoNDenmark,cache,King of Nordic Season 4,16,14,10,5,6,9,KoN Denmark,10,25,0.47 
+2015,10,27,21:30,ggrabb,übern00bz,cache,RGN European Open,19,17,5,10,10,5,über n00bz,27,24,1.09 
+2015,08,21,21:30,Sweden,Denmark,inferno,King of Nordic Season 1,16,12,11,4,5,8,Denmark,17,23,0.78 
+2015,08,21,20:20,Norway,Denmark,mirage,King of Nordic Season 1,8,16,7,8,1,8,Denmark,23,11,1.51 
+2015,08,21,19:20,Finland,Denmark,mirage,King of Nordic Season 1,14,16,10,5,4,11,Denmark,20,21,0.98 

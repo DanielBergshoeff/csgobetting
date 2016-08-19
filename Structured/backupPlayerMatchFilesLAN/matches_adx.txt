@@ -1,0 +1,5 @@
+2016,02,20,20:30,BX3,Recursive,mirage,Nordic Masters Season 2 Finals,16,12,10,5,6,7,Recursive,13,24,0.57 
+2016,02,20,20:30,Recursive,BX3,dust2,Nordic Masters Season 2 Finals,14,16,10,5,4,11,Recursive,17,24,0.73 
+2016,02,20,17:30,Recursive,Propertyfe,dust2,Nordic Masters Season 2 Finals,16,8,8,7,8,1,Recursive,20,11,1.31 
+2016,02,20,17:30,Propertyfe,Recursive,cache,Nordic Masters Season 2 Finals,3,16,3,12,0,4,Recursive,25,7,2.01 
+2016,02,20,11:00,BX3,Recursive,mirage,Nordic Masters Season 2 Finals,19,15,6,9,9,6,Recursive,27,27,1.00 

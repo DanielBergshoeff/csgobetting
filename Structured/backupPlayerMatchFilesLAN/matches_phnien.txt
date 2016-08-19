@@ -1,0 +1,12 @@
+2016,02,21,22:45,BX3,RCTIC,dust2,Nordic Masters Season 2 Finals,5,16,4,11,1,5,BX3,7,17,0.43 
+2016,02,21,22:45,BX3,RCTIC,mirage,Nordic Masters Season 2 Finals,6,16,6,9,0,7,BX3,14,17,0.80 
+2016,02,21,19:30,BX3,Torpedo,mirage,Nordic Masters Season 2 Finals,16,12,7,8,9,4,BX3,14,16,0.85 
+2016,02,21,19:30,BX3,Torpedo,overpass,Nordic Masters Season 2 Finals,16,4,11,4,5,0,BX3,11,9,1.02 
+2016,02,21,11:00,BX3,Publiclir.se,inferno,Nordic Masters Season 2 Finals,22,18,9,6,6,9,BX3,25,25,0.97 
+2016,02,21,11:00,BX3,Publiclir.se,dust2,Nordic Masters Season 2 Finals,16,10,7,8,9,2,BX3,17,15,1.05 
+2016,02,21,11:00,Publiclir.se,BX3,mirage,Nordic Masters Season 2 Finals,25,21,8,7,7,8,BX3,24,34,0.76 
+2016,02,20,20:30,BX3,Recursive,mirage,Nordic Masters Season 2 Finals,16,12,10,5,6,7,BX3,18,18,0.95 
+2016,02,20,20:30,Recursive,BX3,dust2,Nordic Masters Season 2 Finals,14,16,10,5,4,11,BX3,12,18,0.76 
+2016,02,20,14:30,BX3,DenDD,overpass,Nordic Masters Season 2 Finals,7,16,5,10,2,6,BX3,6,18,0.42 
+2016,02,20,14:30,BX3,DenDD,mirage,Nordic Masters Season 2 Finals,14,16,9,6,5,10,BX3,21,19,1.04 
+2016,02,20,11:00,BX3,Recursive,mirage,Nordic Masters Season 2 Finals,19,15,6,9,9,6,BX3,14,23,0.61 

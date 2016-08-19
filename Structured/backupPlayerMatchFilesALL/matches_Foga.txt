@@ -1,0 +1,19 @@
+2016,08,10,17:00,Vesuvius,Comanche,dust2,Adrenaline Cyber League,16,10,6,9,10,1,Vesuvius,21,15,1.31 
+2016,08,10,17:00,Comanche,Vesuvius,mirage,Adrenaline Cyber League,13,16,7,8,6,8,Vesuvius,26,18,1.32 
+2016,08,05,20:00,Spirit,Vesuvius,cobblestone,Adrenaline Cyber League,16,10,10,5,6,5,Vesuvius,17,21,0.90 
+2016,08,05,20:00,Spirit,Vesuvius,mirage,Adrenaline Cyber League,16,9,10,5,6,4,Vesuvius,16,19,0.82 
+2016,07,10,17:00,Quest,Vesuvius,mirage,Game Show Open Season 4 Playof..,16,5,11,4,5,1,Vesuvius,9,18,0.50 
+2016,07,10,17:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,0,16,0,15,0,1,Vesuvius,6,16,0.35 
+2016,07,10,14:00,GameplayDNA,Vesuvius,dust2,Game Show Open Season 4 Playof..,12,16,8,7,4,9,Vesuvius,21,16,1.22 
+2016,07,10,14:00,Vesuvius,GameplayDNA,overpass,Game Show Open Season 4 Playof..,16,5,11,4,5,1,Vesuvius,11,12,0.84 
+2016,07,10,11:00,Vesuvius,BinaryDragons,mirage,Game Show Open Season 4 Playof..,16,6,12,3,4,3,Vesuvius,19,9,1.41 
+2016,07,10,11:00,Vesuvius,BinaryDragons,cache,Game Show Open Season 4 Playof..,16,4,11,4,5,0,Vesuvius,18,9,1.43 
+2016,07,09,15:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,14,16,7,8,7,8,Vesuvius,18,21,0.92 
+2016,07,09,15:00,Vesuvius,Quest,cache,Game Show Open Season 4 Playof..,11,16,6,9,5,7,Vesuvius,22,18,1.15 
+2016,04,29,14:30,Empire,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,6,10,5,6,1,Digital Wave,5,18,0.34 
+2016,04,29,14:30,DigitalWave,Empire,cobblestone,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Digital Wave,23,18,1.21 
+2016,04,28,15:30,FluffyGangsters,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,9,12,3,4,6,Digital Wave,18,21,0.85 
+2016,04,28,15:30,DigitalWave,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,10,16,3,12,7,4,Digital Wave,22,19,1.15 
+2016,04,28,10:00,DigitalWave,Empire,mirage,StarLadder Minor CIS - Cologne..,16,6,10,5,6,1,Digital Wave,15,16,0.92 
+2016,04,20,17:00,DigitalWave,MustBeStronger,cache,StarLadder Regional Minor Cham..,16,11,8,7,8,4,Digital Wave,22,18,1.10 
+2016,04,20,17:00,DigitalWave,MustBeStronger,mirage,StarLadder Regional Minor Cham..,16,14,10,5,6,9,Digital Wave,16,22,0.74 

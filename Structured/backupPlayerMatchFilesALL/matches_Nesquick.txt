@@ -1,0 +1,6 @@
+2016,03,24,17:00,EasternVikings,Isak,inferno,Copenhagen Games 2016 BYOC Qua..,14,16,6,9,8,7,Eastern Vikings,16,20,0.79 
+2016,03,24,15:30,WarMonkeys,EasternVikings,cobblestone,Copenhagen Games 2016 BYOC Qua..,12,16,7,8,5,8,Eastern Vikings,28,15,1.48 
+2016,03,24,13:00,EasternVikings,Fragsters,dust2,Copenhagen Games 2016 BYOC Qua..,13,16,5,10,8,6,Eastern Vikings,12,18,0.72 
+2016,02,05,22:30,KoNSweden,KoNDenmark,mirage,King of Nordic Season 3,16,14,9,6,7,8,KoN Denmark,15,25,0.57 
+2016,02,05,21:30,KoNNorway,KoNDenmark,inferno,King of Nordic Season 3,11,16,3,12,8,4,KoN Denmark,16,15,0.97 
+2015,10,30,20:30,KoNSweden,KoNDenmark,inferno,King of Nordic Season 2,16,11,7,8,9,3,KoN Denmark,16,17,0.99 

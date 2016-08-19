@@ -1,0 +1,4 @@
+2016,08,15,19:40,KotK,AimersAlive,cache,WESG 2016 Middle East,3,16,3,12,0,4,KotK,9,16,0.56 
+2016,08,15,19:40,AimersAlive,KotK,train,WESG 2016 Middle East,16,10,8,7,8,3,KotK,14,20,0.71 
+2016,08,14,22:30,Swift,KotK,mirage,WESG 2016 Middle East,16,6,12,3,4,3,KotK,20,18,1.20 
+2016,08,14,22:30,KotK,Swift,dust2,WESG 2016 Middle East,4,16,4,11,0,5,KotK,10,17,0.57 

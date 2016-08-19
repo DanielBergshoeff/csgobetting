@@ -1,0 +1,73 @@
+2015,12,18,04:00,Dogmen,Conquest,inferno,ELEAGUE Road to Vegas Closed N..,7,16,6,9,1,7,Dogmen,13,18,0.80 
+2015,12,18,04:00,Conquest,Dogmen,cache,ELEAGUE Road to Vegas Closed N..,16,13,6,9,10,4,Dogmen,14,23,0.63 
+2015,12,17,01:00,Liquid,Dogmen,cache,ELEAGUE Road to Vegas Closed N..,5,16,4,11,1,5,Dogmen,17,11,1.23 
+2015,12,17,01:00,Liquid,Dogmen,dust2,ELEAGUE Road to Vegas Closed N..,8,16,7,8,1,8,Dogmen,13,13,0.97 
+2015,12,06,00:00,3sUP,ACE,cobblestone,Northern Arena 2015,8,16,5,10,3,6,3sUP,13,20,0.76 
+2015,12,05,22:00,3sUP,Nexus,dust2,Northern Arena 2015,14,16,4,11,10,5,3sUP,22,19,1.09 
+2015,12,05,20:00,CLG,3sUP,train,Northern Arena 2015,16,1,14,1,2,0,3sUP,6,17,0.29 
+2015,11,20,04:15,Luminosity,3sUP,train,SL i-League StarSeries XIV,16,13,8,7,8,6,3sUP,24,22,1.11 
+2015,11,20,04:15,Luminosity,3sUP,cobblestone,SL i-League StarSeries XIV,16,3,12,3,4,0,3sUP,9,18,0.50 
+2015,11,20,03:00,Winterfox,3sUP,dust2,ESL ESEA Pro League Season 2,7,16,6,9,1,7,3sUP,13,11,1.02 
+2015,11,20,02:00,3sUP,Conquest,mirage,ESL ESEA Pro League Season 2,11,16,4,11,7,5,3sUP,24,18,1.23 
+2015,11,12,05:10,Enemy,3sUP,cache,ESL ESEA Pro League Season 2,22,18,7,8,8,7,3sUP,16,30,0.61 
+2015,11,12,02:00,ACE,3sUP,cobblestone,SL i-League StarSeries XIV,16,8,11,4,5,4,3sUP,16,17,0.94 
+2015,11,12,02:00,3sUP,ACE,train,SL i-League StarSeries XIV,5,16,1,14,4,2,3sUP,17,18,1.07 
+2015,11,12,02:00,ACE,3sUP,dust2,SL i-League StarSeries XIV,7,16,5,10,2,6,3sUP,21,10,1.40 
+2015,11,11,04:30,3sUP,Method,inferno,SL i-League StarSeries XIV,12,16,10,5,2,11,3sUP,12,22,0.57 
+2015,11,11,04:30,Method,3sUP,cache,SL i-League StarSeries XIV,19,17,5,10,10,5,3sUP,16,27,0.64 
+2015,11,11,03:15,Liquid,3sUP,cobblestone,ESL ESEA Pro League Season 2,16,14,5,10,11,4,3sUP,13,22,0.66 
+2015,11,11,02:30,CLG,3sUP,cobblestone,ESL ESEA Pro League Season 2,13,16,10,5,3,11,3sUP,23,18,1.15 
+2015,11,05,04:15,Luminosity,3sUP,inferno,ESL ESEA Pro League Season 2,16,4,12,3,4,1,3sUP,10,17,0.57 
+2015,11,04,03:00,3sUP,Cloud9,train,ESL ESEA Pro League Season 2,16,12,8,7,8,5,3sUP,31,14,1.77 
+2015,10,28,03:00,compLexity,SKDC,overpass,SL i-League StarSeries XIV,16,4,12,3,4,1,SKDC,13,18,0.71 
+2015,10,28,03:00,SKDC,compLexity,cobblestone,SL i-League StarSeries XIV,9,16,7,8,2,8,SKDC,14,19,0.83 
+2015,10,28,03:00,compLexity,SKDC,train,SL i-League StarSeries XIV,8,16,7,8,1,8,SKDC,16,13,1.15 
+2015,10,23,02:00,Luminosity,Splyce,mirage,ESL ESEA Pro League Season 2,16,10,9,6,7,4,Splyce,13,20,0.70 
+2015,10,21,04:30,ex-eLevate,Splyce,dust2,RGN Freedom Cup,16,5,11,4,5,1,Splyce,9,19,0.46 
+2015,10,21,04:30,ex-eLevate,Splyce,train,RGN Freedom Cup,16,8,9,6,7,2,Splyce,15,20,0.88 
+2015,10,21,04:30,ex-eLevate,Splyce,cobblestone,RGN Freedom Cup,7,16,7,8,0,8,Splyce,17,15,0.98 
+2015,10,21,02:00,Splyce,Cloud9,cobblestone,ESL ESEA Pro League Season 2,8,16,4,11,4,5,Splyce,16,19,0.80 
+2015,10,20,03:00,CLG,Splyce,mirage,ESL ESEA Pro League Season 2,16,14,14,1,2,13,Splyce,32,19,1.44 
+2015,10,19,02:15,3sUP,Splyce,dust2,ESL ESEA Pro League Season 2,1,16,0,15,1,1,Splyce,9,5,1.09 
+2015,10,19,00:15,compLexity,Splyce,dust2,ESL ESEA Pro League Season 2,13,16,9,6,4,10,Splyce,24,17,1.29 
+2015,10,18,05:10,compLexity,Splyce,cache,ESL ESEA Pro League Season 2,25,21,7,8,8,7,Splyce,39,30,1.26 
+2015,10,18,03:00,3sUP,Splyce,train,ESL ESEA Pro League Season 2,16,10,7,8,9,2,Splyce,18,18,0.90 
+2015,10,15,03:00,Splyce,CLG,train,CEVO Professional Season 8,3,16,3,12,0,4,Splyce,7,17,0.45 
+2015,10,15,03:00,CLG,Splyce,cobblestone,CEVO Professional Season 8,16,1,14,1,2,0,Splyce,8,17,0.50 
+2015,10,09,02:00,Splyce,Liquid,dust2,CEVO Professional Season 8,1,16,1,14,0,2,Splyce,12,15,0.86 
+2015,10,09,02:00,Liquid,Splyce,cobblestone,CEVO Professional Season 8,16,4,11,4,5,0,Splyce,8,18,0.44 
+2015,10,08,05:00,Enemy,Splyce,cobblestone,ESL ESEA Pro League Season 2,16,11,11,4,5,7,Splyce,25,20,1.24 
+2015,10,08,03:00,Liquid,Splyce,overpass,ESL ESEA Pro League Season 2,16,2,13,2,3,0,Splyce,6,17,0.42 
+2015,10,07,05:00,Enemy,Splyce,train,ESL ESEA Pro League Season 2,16,5,14,1,2,4,Splyce,12,19,0.64 
+2015,10,07,02:30,3sUP,Splyce,cobblestone,CEVO Professional Season 8,16,8,8,7,8,1,Splyce,20,18,1.19 
+2015,10,07,02:30,Splyce,3sUP,train,CEVO Professional Season 8,19,15,8,7,7,8,Splyce,28,22,1.20 
+2015,10,06,06:15,Splyce,Luminosity,dust2,RGN Freedom Cup,4,16,4,11,0,5,Splyce,6,17,0.40 
+2015,10,06,06:15,Luminosity,Splyce,cobblestone,RGN Freedom Cup,16,9,7,8,9,1,Splyce,16,19,0.87 
+2015,10,05,04:30,Winterfox,Splyce,mirage,CEVO Professional Season 8,16,11,9,6,7,5,Splyce,22,20,1.19 
+2015,10,05,04:30,Splyce,Winterfox,dust2,CEVO Professional Season 8,16,11,10,5,6,6,Splyce,23,18,1.28 
+2015,10,02,04:15,Splyce,Trifecta,dust2,CEVO Professional Season 8,8,16,5,10,3,6,Splyce,11,15,0.76 
+2015,10,02,04:15,Splyce,Trifecta,cobblestone,CEVO Professional Season 8,16,8,7,8,9,0,Splyce,18,15,1.08 
+2015,10,01,05:00,Splyce,Winterfox,cobblestone,ESL ESEA Pro League Season 2,16,9,9,6,7,3,Splyce,29,14,1.75 
+2015,10,01,04:00,Cloud9,Splyce,mirage,ESL ESEA Pro League Season 2,16,19,9,6,6,9,Splyce,33,22,1.27 
+2015,09,30,02:00,Splyce,Winterfox,train,ESL ESEA Pro League Season 2,16,6,10,5,6,1,Splyce,19,11,1.31 
+2015,09,29,03:00,Splyce,GamesAcademy,mirage,RGN Freedom Cup,11,16,7,8,4,8,Splyce,21,21,1.05 
+2015,09,28,04:15,Splyce,Enemy,inferno,CEVO Professional Season 8,14,16,5,10,9,6,Splyce,14,21,0.71 
+2015,09,28,04:15,Splyce,Enemy,cobblestone,CEVO Professional Season 8,16,12,7,8,9,4,Splyce,17,17,0.93 
+2015,09,24,03:00,GamesAcademy,Splyce,mirage,RGN Freedom Cup,15,19,4,11,11,4,Splyce,27,17,1.34 
+2015,09,23,04:15,Method,Splyce,mirage,CEVO Professional Season 8,22,20,7,8,8,7,Splyce,38,29,1.24 
+2015,09,23,04:15,Splyce,Method,dust2,CEVO Professional Season 8,19,15,8,7,7,8,Splyce,23,22,0.99 
+2015,09,23,03:00,Coast,Splyce,inferno,ESL ESEA Pro League Season 2,16,3,13,2,3,1,Splyce,9,17,0.70 
+2015,09,22,05:00,Splyce,Method,cache,RGN Freedom Cup,4,16,4,11,0,5,Splyce,11,18,0.57 
+2015,09,22,04:00,Splyce,vVv,dust2,RGN Freedom Cup,16,3,12,3,4,0,Splyce,18,9,1.47 
+2015,09,20,00:00,CLG,Splyce,train,FACEIT League 2015 Stage 3 NA ..,16,9,13,2,3,7,Splyce,15,19,0.81 
+2015,09,20,00:00,CLG,Splyce,mirage,FACEIT League 2015 Stage 3 NA ..,16,2,13,2,3,0,Splyce,11,17,0.68 
+2015,09,17,02:00,Liquid,Splyce,inferno,ESL ESEA Pro League Season 2,16,4,11,4,5,0,Splyce,14,18,0.78 
+2015,09,08,02:00,Splyce,Conquest,dust2,CEVO Professional Season 8,5,16,0,15,5,1,Splyce,14,18,0.81 
+2015,09,08,02:00,Splyce,Conquest,cache,CEVO Professional Season 8,9,16,5,10,4,6,Splyce,17,19,0.86 
+2015,09,03,04:45,Luminosity,Splyce,inferno,CEVO Professional Season 8,16,6,10,5,6,1,Splyce,1,2,0.42 
+2015,08,24,04:15,LunatiK,Splyce,inferno,CEVO Professional Season 8,16,2,13,2,3,0,Splyce,10,17,0.57 
+2015,08,24,04:15,Splyce,LunatiK,cache,CEVO Professional Season 8,16,10,10,5,6,5,Splyce,16,18,0.90 
+2015,05,04,02:00,SKDC,affNity,cache,CEVO Professional Season 7,16,14,10,5,6,9,SKDC,25,19,1.15 
+2015,05,04,02:00,SKDC,affNity,dust2,CEVO Professional Season 7,7,16,5,10,2,6,SKDC,12,19,0.65 
+2015,04,01,05:00,CLG,SKDC,dust2,FACEIT League 2015 Stage 1,16,5,13,2,3,3,SKDC,5,4,1.06 
+2014,08,26,03:00,Armata,SKDC,inferno,FACEIT League 2 NA Closed Qual..,16,9,14,1,2,8,SKDC,17,16,1.02 

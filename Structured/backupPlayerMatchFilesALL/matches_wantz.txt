@@ -1,0 +1,6 @@
+2014,12,10,19:00,dignitas,myKPV,mirage,ESL Pro League Winter 2014/15,16,12,13,2,3,10,dignitas,21,18,1.13 
+2014,12,10,19:00,myKPV,dignitas,nuke,ESL Pro League Winter 2014/15,11,16,9,6,2,10,dignitas,14,18,0.75 
+2014,10,08,22:00,dignitas,fnatic,inferno,FACEIT League EU Season 2,6,16,5,10,1,6,dignitas,8,19,0.47 
+2014,10,06,21:00,dignitas,NiP,overpass,FACEIT League EU Season 2,16,9,11,4,5,5,dignitas,1,2,0.78 
+2014,09,15,21:15,OverGaming,dignitas,nuke,Hitbox Arena Championship 3,18,22,1,14,14,1,dignitas,20,27,0.76 
+2014,09,10,23:00,dignitas,HellRaisers,nuke,FACEIT League EU Season 2,31,28,10,5,5,10,dignitas,27,46,0.62 

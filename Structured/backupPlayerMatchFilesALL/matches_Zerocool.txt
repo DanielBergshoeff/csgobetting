@@ -1,0 +1,15 @@
+2016,08,15,19:00,c5,Swift,overpass,WESG 2016 Middle East,23,25,11,4,4,11,c5,29,40,0.75 
+2016,08,15,19:00,c5,Swift,dust2,WESG 2016 Middle East,12,16,9,6,3,10,c5,20,22,0.85 
+2016,08,14,22:45,c5,AimersAlive,cache,WESG 2016 Middle East,16,1,14,1,2,0,c5,16,3,1.70 
+2016,08,14,22:45,c5,AimersAlive,overpass,WESG 2016 Middle East,16,10,7,8,9,2,c5,21,18,1.15 
+2016,07,01,14:00,Philippines,Jordan,dust2,World Championships 2016 Asian..,16,7,13,2,3,5,Jordan,9,18,0.63 
+2016,07,01,14:00,Jordan,Philippines,cache,World Championships 2016 Asian..,16,2,14,1,2,1,Jordan,14,7,1.31 
+2016,07,01,14:00,Philippines,Jordan,mirage,World Championships 2016 Asian..,16,3,13,2,3,1,Jordan,7,17,0.42 
+2016,06,28,14:00,Jordan,Palestine,cache,World Championships 2016 Asian..,16,3,12,3,4,0,Jordan,21,3,1.98 
+2016,06,28,14:00,Jordan,Palestine,train,World Championships 2016 Asian..,16,9,10,5,6,4,Jordan,18,20,0.97 
+2016,06,24,14:00,SouthKorea,Jordan,mirage,World Championships 2016 Asian..,12,16,8,7,4,9,Jordan,16,25,0.63 
+2016,06,24,14:00,Jordan,SouthKorea,cache,World Championships 2016 Asian..,16,11,7,8,9,3,Jordan,14,16,0.83 
+2016,06,24,14:00,Jordan,SouthKorea,cobblestone,World Championships 2016 Asian..,4,16,3,12,1,4,Jordan,16,19,1.03 
+2015,12,19,15:30,Octupus1,PlayItCoolAll-Stars,overpass,Play It Cool CS:GO Community C..,17,19,7,8,8,7,Octupus1,24,27,0.86 
+2015,12,18,23:10,VivaAlgeria,Octupus1,cobblestone,AFKG MENA Championship,16,10,9,6,7,4,Octupus1,21,17,1.16 
+2015,12,18,23:10,Octupus1,VivaAlgeria,cache,AFKG MENA Championship,11,16,10,5,1,11,Octupus1,14,19,0.78 

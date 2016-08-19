@@ -1,0 +1,8 @@
+2014,10,15,22:00,31337,noMERCY,cobblestone,ESL Pro Series Poland Season 9,15,15,13,2,2,13,31337,17,23,0.80 
+2014,10,08,21:00,31337,ESC,cobblestone,ESL Pro Series Poland Season 9,11,16,7,8,4,8,31337,19,22,0.91 
+2014,10,06,19:15,31337,eliminacja,overpass,ESL Pro Series Poland Season 9,16,10,10,5,6,5,31337,15,17,0.90 
+2014,10,01,20:00,31337,AMNESIA,mirage,ESL Pro Series Poland Season 9,16,1,14,1,2,0,31337,18,6,1.65 
+2014,09,30,21:30,ePlay,31337,nuke,ESL Pro Series Poland Season 9,16,5,10,5,6,0,31337,5,19,0.30 
+2014,09,21,18:30,31337,HAXCON,inferno,ESL Pro Series Poland Season 9,16,9,9,6,7,3,31337,16,19,0.80 
+2014,06,11,19:00,WYBOROWA,Dobry&Gaming,nuke,ESL Pro Series Poland Season 8,7,16,4,11,3,5,WYBOROWA,13,21,0.62 
+2014,06,10,20:00,Virtus.pro,WYBOROWA,inferno,ESL Pro Series Poland Season 8,16,9,9,6,7,3,WYBOROWA,12,19,0.67 

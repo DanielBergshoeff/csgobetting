@@ -1,0 +1,20 @@
+2016,07,22,09:15,FIVE,EP,cache,Pro Gamer League 2016 Summer F..,15,15,7,8,8,7,FIVE,24,22,1.08 
+2016,07,22,05:45,FIVE,VG.CyberZen,cache,Pro Gamer League 2016 Summer F..,6,16,5,10,1,6,FIVE,8,17,0.49 
+2016,07,22,04:00,X,FIVE,overpass,Pro Gamer League 2016 Summer F..,16,9,10,5,6,4,FIVE,17,20,0.89 
+2016,06,19,11:00,FIVE,AllGamers,mirage,WCA Season 2 China Qualifier,22,18,9,6,6,9,FIVE,29,27,1.04 
+2016,06,19,11:00,AllGamers,FIVE,cache,WCA Season 2 China Qualifier,16,7,10,5,6,2,FIVE,7,21,0.35 
+2016,06,18,08:00,LGD,FIVE,overpass,WCA Season 2 China Qualifier,19,17,8,7,7,8,FIVE,18,27,0.73 
+2016,06,18,08:00,FIVE,LGD,mirage,WCA Season 2 China Qualifier,12,16,10,5,2,11,FIVE,27,19,1.36 
+2016,06,15,12:00,FIVE,EHOME,train,WCA Season 2 China Qualifier,9,16,8,7,1,9,FIVE,12,22,0.68 
+2016,06,15,12:00,FIVE,EHOME,dust2,WCA Season 2 China Qualifier,16,9,13,2,3,7,FIVE,15,17,0.83 
+2016,05,27,13:15,FIVE,VG.CyberZen,mirage,H-Cup Season 1,6,16,4,11,2,5,FIVE,12,18,0.68 
+2016,05,27,13:15,VG.CyberZen,FIVE,overpass,H-Cup Season 1,16,7,13,2,3,5,FIVE,13,20,0.65 
+2016,05,26,12:15,AllGamers,FIVE,cache,H-Cup Season 1,4,16,3,12,1,4,FIVE,21,12,1.44 
+2016,05,26,12:15,FIVE,AllGamers,mirage,H-Cup Season 1,16,8,11,4,5,4,FIVE,24,16,1.47 
+2016,04,24,15:30,FIVE,AllGamers,mirage,Pro Gamers League 2016 Spring,16,7,13,2,3,5,FIVE,16,16,0.88 
+2016,04,24,15:30,FIVE,AllGamers,inferno,Pro Gamers League 2016 Spring,16,8,8,7,8,1,FIVE,21,14,1.31 
+2016,04,24,15:30,AllGamers,FIVE,cache,Pro Gamers League 2016 Spring,16,11,8,7,8,4,FIVE,19,20,0.91 
+2016,04,24,09:00,TyLoo,FIVE,cache,Pro Gamers League 2016 Spring,16,11,6,9,10,2,FIVE,9,23,0.46 
+2016,04,24,09:00,FIVE,TyLoo,inferno,Pro Gamers League 2016 Spring,5,16,4,11,1,5,FIVE,13,19,0.62 
+2016,04,23,16:00,EDF,FIVE,inferno,Pro Gamers League 2016 Spring,3,16,3,12,0,4,FIVE,24,5,2.11 
+2016,04,23,16:00,FIVE,EDF,cache,Pro Gamers League 2016 Spring,16,1,14,1,2,0,FIVE,13,8,1.17 

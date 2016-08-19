@@ -1,0 +1,25 @@
+2014,10,30,18:00,Virtus.pro,Planetkey,nuke,ESWC 2014,16,5,14,1,2,4,Planetkey,11,17,0.68 
+2014,10,30,16:30,Planetkey,AlienTech,nuke,ESWC 2014,16,3,12,3,4,0,Planetkey,25,4,2.14 
+2014,10,30,13:00,Planetkey,VirtualImpact,mirage,ESWC 2014,16,6,11,4,5,2,Planetkey,18,12,1.24 
+2014,10,30,11:50,Planetkey,LDLC,overpass,ESWC 2014,9,16,6,9,3,7,Planetkey,11,18,0.67 
+2014,10,30,09:55,Planetkey,Cloud9,inferno,ESWC 2014,10,16,5,10,5,6,Planetkey,19,20,0.95 
+2014,10,19,21:00,Planetkey,MTW,inferno,DreamHack Winter 2014 EU pre-q..,16,9,7,8,9,1,Planetkey,22,13,1.20 
+2014,09,28,20:40,Planetkey,Orbit,inferno,Fragbite Masters Season 3 Qual..,16,7,10,5,6,2,Planetkey,21,12,1.41 
+2014,09,28,20:40,Planetkey,Orbit,mirage,Fragbite Masters Season 3 Qual..,16,7,9,6,7,1,Planetkey,20,13,1.38 
+2014,09,28,18:00,Outbreak,Planetkey,inferno,Fragbite Masters Season 3 Qual..,12,16,9,6,3,10,Planetkey,19,19,0.97 
+2014,09,17,21:20,3DMAX,Planetkey,nuke,Game Show CS:GO League,16,14,8,7,8,7,Planetkey,17,22,0.85 
+2014,09,17,20:00,Planetkey,dAT,nuke,Game Show CS:GO League,14,16,10,5,4,11,Planetkey,28,19,1.35 
+2014,09,16,21:15,HellRaisers,Planetkey,mirage,Game Show CS:GO League,22,19,9,6,6,9,Planetkey,34,32,0.99 
+2014,09,06,18:00,mousesports,Planetkey,mirage,ESL Pro Series Germany Summer ..,12,16,10,5,2,11,Planetkey,23,16,1.26 
+2014,09,06,18:00,Planetkey,mousesports,inferno,ESL Pro Series Germany Summer ..,14,16,10,5,4,11,Planetkey,25,20,1.10 
+2014,09,06,18:00,mousesports,Planetkey,dust2,ESL Pro Series Germany Summer ..,13,16,7,8,6,8,Planetkey,19,17,1.01 
+2014,09,06,13:00,Planetkey,MTW,nuke,ESL Pro Series Germany Summer ..,16,5,11,4,5,1,Planetkey,9,7,0.93 
+2014,09,06,13:00,Planetkey,MTW,dust2,ESL Pro Series Germany Summer ..,16,12,12,3,4,9,Planetkey,20,17,1.08 
+2014,08,04,20:40,Planetkey,ALTERNATEaTTaX,dust2,ESL Pro Series Germany Summer ..,16,8,10,5,6,3,Planetkey,22,14,1.42 
+2014,08,04,19:00,team,Planetkey,inferno,ESL Pro Series Germany Summer ..,12,16,6,9,6,7,Planetkey,30,15,1.61 
+2014,07,19,11:50,LDLC,Planetkey,inferno,DreamHack Valencia 2014,16,10,11,4,5,6,Planetkey,12,18,0.73 
+2014,07,19,11:50,LDLC,Planetkey,dust2,DreamHack Valencia 2014,16,12,10,5,6,7,Planetkey,14,18,0.83 
+2014,07,19,11:50,LDLC,Planetkey,nuke,DreamHack Valencia 2014,14,16,12,3,2,13,Planetkey,16,21,0.79 
+2014,07,18,16:15,Planetkey,Hybrid,mirage,DreamHack Valencia 2014,16,13,6,9,10,4,Planetkey,23,15,1.22 
+2014,07,18,14:00,Planetkey,HellRaisers,nuke,DreamHack Valencia 2014,14,16,9,6,5,10,Planetkey,19,21,0.83 
+2014,07,18,12:25,Planetkey,Hybrid,nuke,DreamHack Valencia 2014,16,2,13,2,3,0,Planetkey,21,7,2.02 

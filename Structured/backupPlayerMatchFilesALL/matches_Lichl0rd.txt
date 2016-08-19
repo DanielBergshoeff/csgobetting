@@ -1,0 +1,6 @@
+2015,12,12,19:00,PixelHunters,Imagination,cache,BHG CS:GO Tournament,2,16,2,13,0,3,Imagination,20,10,1.61 
+2015,12,12,11:45,Imagination,Ventus,mirage,BHG CS:GO Tournament,16,13,13,2,3,11,Imagination,20,19,1.02 
+2015,12,12,11:45,Imagination,Ventus,cobblestone,BHG CS:GO Tournament,13,16,7,8,6,8,Imagination,19,21,0.87 
+2015,12,12,11:45,Ventus,Imagination,cache,BHG CS:GO Tournament,5,16,3,12,2,4,Imagination,16,13,1.11 
+2015,12,12,09:00,UbS,Imagination,cache,BHG CS:GO Tournament,4,16,2,13,2,3,Imagination,24,9,1.83 
+2015,12,12,09:00,Imagination,UbS,mirage,BHG CS:GO Tournament,16,10,9,6,7,4,Imagination,21,16,1.21 

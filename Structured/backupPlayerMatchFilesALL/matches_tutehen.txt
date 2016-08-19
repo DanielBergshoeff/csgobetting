@@ -1,0 +1,17 @@
+2016,08,14,21:30,2Kill,Nocturns,dust2,GTL Tecnofields 2016,19,17,8,7,7,8,Nocturns,23,25,0.88 
+2016,08,14,21:30,Nocturns,2Kill,cache,GTL Tecnofields 2016,13,16,6,9,7,7,Nocturns,22,20,1.09 
+2016,08,11,03:45,Furious,Nocturns,mirage,GTL Tecnofields 2016,11,16,4,11,7,5,Nocturns,18,17,0.92 
+2016,08,11,03:45,Furious,Nocturns,cobblestone,GTL Tecnofields 2016,16,11,11,4,5,7,Nocturns,18,19,1.01 
+2016,08,11,03:45,Nocturns,Furious,overpass,GTL Tecnofields 2016,16,12,7,8,9,4,Nocturns,24,16,1.31 
+2016,07,24,23:30,Argentina,Brazil,cobblestone,World Championships 2016 South..,16,7,11,4,5,3,Argentina,11,11,0.90 
+2016,07,24,23:30,Brazil,Argentina,cache,World Championships 2016 South..,8,16,3,12,5,4,Argentina,18,14,1.14 
+2016,07,24,23:30,Brazil,Argentina,dust2,World Championships 2016 South..,19,16,5,10,10,5,Argentina,30,21,1.29 
+2016,07,24,23:30,Brazil,Argentina,nuke,World Championships 2016 South..,14,16,9,6,5,10,Argentina,16,18,0.83 
+2016,07,23,02:15,Argentina,Peru,cache,World Championships 2016 South..,16,7,13,2,3,5,Argentina,17,14,1.16 
+2016,07,23,02:15,Argentina,Peru,mirage,World Championships 2016 South..,9,16,3,12,6,4,Argentina,18,20,0.88 
+2016,07,23,02:15,Argentina,Peru,nuke,World Championships 2016 South..,16,10,10,5,6,5,Argentina,16,14,1.02 
+2015,12,13,19:45,Brekan,NTN,dust2,Gigabyte Top League Finals,7,16,3,12,4,4,Brekan,13,19,0.64 
+2015,12,13,19:45,NTN,Brekan,mirage,Gigabyte Top League Finals,22,19,12,3,3,12,Brekan,26,29,0.90 
+2015,12,13,19:45,Brekan,NTN,cache,Gigabyte Top League Finals,16,12,8,7,8,5,Brekan,21,16,1.16 
+2015,12,13,17:30,newNature,Brekan,overpass,Gigabyte Top League Finals,9,16,9,6,0,10,Brekan,21,15,1.21 
+2015,12,13,17:30,Brekan,newNature,cache,Gigabyte Top League Finals,16,3,12,3,4,0,Brekan,20,10,1.48 

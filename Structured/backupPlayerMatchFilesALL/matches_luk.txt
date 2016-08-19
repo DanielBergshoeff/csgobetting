@@ -1,0 +1,8 @@
+2016,08,12,04:35,BlackDragons,ProGaming,cache,Liga PRO GamersClub - JUL/16,16,10,11,4,5,6,ProGaming,8,21,0.46 
+2016,08,12,04:35,BlackDragons,ProGaming,dust2,Liga PRO GamersClub - JUL/16,19,17,5,10,10,5,ProGaming,29,25,1.07 
+2016,08,12,04:35,ProGaming,BlackDragons,mirage,Liga PRO GamersClub - JUL/16,16,5,12,3,4,2,ProGaming,13,11,0.99 
+2016,08,11,04:15,ProGaming,Innova,cache,Liga PRO GamersClub - JUL/16,16,9,7,8,9,1,ProGaming,11,16,0.73 
+2016,08,11,04:15,ProGaming,Innova,dust2,Liga PRO GamersClub - JUL/16,16,11,8,7,8,4,ProGaming,20,15,1.13 
+2016,08,11,04:15,Innova,ProGaming,train,Liga PRO GamersClub - JUL/16,19,17,4,11,11,4,ProGaming,12,30,0.51 
+2016,08,10,04:15,ProGaming,ExoticIsland,mirage,Liga PRO GamersClub - JUL/16,16,11,5,10,11,1,ProGaming,13,13,0.85 
+2016,08,10,04:15,ExoticIsland,ProGaming,train,Liga PRO GamersClub - JUL/16,6,16,6,9,0,7,ProGaming,15,13,1.04 

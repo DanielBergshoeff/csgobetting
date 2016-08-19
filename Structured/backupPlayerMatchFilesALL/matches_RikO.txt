@@ -1,0 +1,2 @@
+2015,12,03,10:00,PUZZLES,BET,cache,SoStronk Challenger Asia #1,16,2,13,2,3,0,BET,10,18,0.59 
+2015,12,03,10:00,BET,PUZZLES,dust2,SoStronk Challenger Asia #1,4,16,4,11,0,5,BET,12,19,0.60 

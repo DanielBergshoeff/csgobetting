@@ -1,0 +1,16 @@
+2015,04,04,10:00,puta,INSHOCK,nuke,Copenhagen Games 2015,8,16,7,8,1,8,puta,23,18,1.34 
+2015,04,03,22:30,puta,Temp.no,mirage,Copenhagen Games 2015,16,11,7,8,9,3,puta,19,19,1.00 
+2015,04,03,19:00,puta,Atlantis,inferno,Copenhagen Games 2015,1,16,1,14,0,2,puta,12,14,0.87 
+2015,04,03,19:00,Atlantis,puta,mirage,Copenhagen Games 2015,16,5,13,2,3,3,puta,10,17,0.58 
+2015,04,03,15:30,puta,LGB,dust2,Copenhagen Games 2015,9,16,6,9,3,7,puta,17,17,0.97 
+2015,04,03,15:30,LGB,puta,mirage,Copenhagen Games 2015,16,0,15,0,1,0,puta,11,16,0.68 
+2015,04,03,12:00,Atlantis,puta,nuke,Copenhagen Games 2015,13,16,9,6,4,10,puta,25,18,1.15 
+2015,04,03,12:00,puta,Atlantis,mirage,Copenhagen Games 2015,22,20,4,11,11,4,puta,36,26,1.25 
+2015,04,03,12:00,puta,Atlantis,cache,Copenhagen Games 2015,6,16,5,10,1,6,puta,16,17,0.98 
+2015,04,02,20:15,jQntefabrikkeN,puta,dust2,Copenhagen Games 2015,9,16,6,9,3,7,puta,21,16,1.18 
+2015,04,02,19:00,puta,TJ'SHELTE,mirage,Copenhagen Games 2015,16,5,12,3,4,2,puta,14,10,1.12 
+2015,04,02,15:30,FreeTransfer,puta,dust2,Copenhagen Games 2015,11,16,7,8,4,8,puta,25,18,1.26 
+2015,02,15,17:50,3DMAX,ESC,mirage,ESL One Katowice 2015 Main Qua..,16,8,9,6,7,2,ESC,12,19,0.71 
+2015,02,15,16:20,ESC,dignitas,mirage,ESL One Katowice 2015 Main Qua..,11,16,6,9,5,7,ESC,15,19,0.81 
+2014,09,06,15:30,PlayingDucks,mousesports,cache,ESL Pro Series Germany Summer ..,8,16,3,12,5,4,Playing Ducks,23,17,1.40 
+2014,09,06,15:30,mousesports,PlayingDucks,mirage,ESL Pro Series Germany Summer ..,16,6,10,5,6,1,Playing Ducks,14,17,0.85 

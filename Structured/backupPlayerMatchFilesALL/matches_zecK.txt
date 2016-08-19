@@ -1,0 +1,62 @@
+2016,08,13,01:00,Luminosity,Tectonic,train,SL i-League S2 Americas Qualif..,16,1,14,1,2,0,Tectonic,2,17,0.13 
+2016,08,13,01:00,Luminosity,Tectonic,mirage,SL i-League S2 Americas Qualif..,16,2,14,1,2,1,Tectonic,2,16,0.18 
+2016,08,11,03:00,Tectonic,Rush,mirage,SL i-League S2 Americas Qualif..,16,7,11,4,5,3,Tectonic,13,13,0.90 
+2016,08,11,03:00,Tectonic,Rush,train,SL i-League S2 Americas Qualif..,16,5,14,1,2,4,Tectonic,29,11,2.07 
+2016,08,08,02:15,Tectonic,Prospects,train,ESEA Premier Season 22 North A..,12,16,2,13,10,3,Tectonic,18,22,0.82 
+2016,08,08,02:15,Prospects,Tectonic,overpass,ESEA Premier Season 22 North A..,19,16,6,9,9,6,Tectonic,19,26,0.81 
+2016,07,20,04:50,Kingdom,Tectonic,dust2,RGN Pro Series II NA Closed Qu..,6,16,2,13,4,3,Tectonic,17,10,1.25 
+2016,07,20,04:50,Kingdom,Tectonic,cache,RGN Pro Series II NA Closed Qu..,22,25,7,8,8,7,Tectonic,33,31,1.00 
+2016,04,14,04:25,Cloud9,Tectonic,cobblestone,CEVO Gfinity Professional Seas..,16,11,6,9,10,2,Tectonic,15,21,0.80 
+2016,04,14,04:25,Tectonic,Cloud9,cache,CEVO Gfinity Professional Seas..,4,16,1,14,3,2,Tectonic,13,16,0.88 
+2016,02,21,20:45,CLG,JustMakeitFast,cache,DreamHack Masters Malmö 2016 N..,16,6,11,4,5,2,Just Make it Fast,10,18,0.69 
+2016,02,21,20:45,CLG,JustMakeitFast,cobblestone,DreamHack Masters Malmö 2016 N..,16,5,11,4,5,1,Just Make it Fast,7,20,0.32 
+2015,12,16,01:00,UMass,Incursion,cache,QuickShot Arena NA #2,16,5,11,4,5,1,Incursion,12,18,0.68 
+2015,12,16,01:00,UMass,Incursion,mirage,QuickShot Arena NA #2,16,11,7,8,9,3,Incursion,15,21,0.71 
+2015,12,11,03:00,Tectonic,Splyce,mirage,RGN Showseries,16,19,11,4,4,11,Tectonic,23,28,0.91 
+2015,12,11,03:00,Tectonic,Splyce,cobblestone,RGN Showseries,8,16,5,10,3,6,Tectonic,11,21,0.53 
+2015,10,19,04:00,Tectonic,Enemy,train,Fragadelphia 6,5,16,1,14,4,2,Tectonic,9,16,0.55 
+2015,10,19,03:00,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,8,16,7,8,1,8,Tectonic,15,10,1.12 
+2015,10,19,02:00,Tectonic,SuckBrickKids,cache,Fragadelphia 6,16,6,14,1,2,5,Tectonic,16,12,1.22 
+2015,10,18,22:00,Tectonic,Enemy,inferno,Fragadelphia 6,7,16,7,8,0,8,Tectonic,14,17,0.77 
+2015,10,18,22:00,Enemy,Tectonic,cache,Fragadelphia 6,16,13,8,7,8,6,Tectonic,20,21,0.88 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,10,16,4,11,6,5,Tectonic,20,17,1.06 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,cobblestone,Fragadelphia 6,16,14,7,8,9,6,Tectonic,14,23,0.62 
+2015,10,18,16:25,Tectonic,Roca'scompLexity,cache,Fragadelphia 6,16,6,11,4,5,2,Tectonic,23,11,1.57 
+2015,10,18,01:20,SuckBrickKids,Tectonic,cobblestone,Fragadelphia 6,6,16,4,11,2,5,Tectonic,12,14,0.81 
+2015,10,18,01:20,Tectonic,SuckBrickKids,overpass,Fragadelphia 6,25,21,8,7,7,8,Tectonic,40,28,1.27 
+2015,08,26,02:00,mouseSpaz,WOOSAH,cache,CS Select #26,22,20,9,6,6,9,mouseSpaz,28,28,0.97 
+2015,08,26,02:00,mouseSpaz,WOOSAH,cobblestone,CS Select #26,8,16,7,8,1,8,mouseSpaz,5,21,0.28 
+2015,08,26,02:00,WOOSAH,mouseSpaz,inferno,CS Select #26,13,16,11,4,2,12,mouseSpaz,20,17,1.03 
+2015,08,26,02:00,mouseSpaz,WOOSAH,overpass,CS Select #26,16,13,8,7,8,6,mouseSpaz,12,21,0.59 
+2015,08,26,02:00,WOOSAH,mouseSpaz,mirage,CS Select #26,16,12,4,11,12,1,mouseSpaz,17,18,0.88 
+2015,06,25,02:00,CLG,mouseSpaz,mirage,RGN Pro Series NA,16,2,13,2,3,0,mouseSpaz,8,16,0.49 
+2015,06,24,06:02,WinOut.net,mouseSpaz,cobblestone,RGN Pro Series NA,5,16,2,13,3,3,mouseSpaz,17,13,1.26 
+2015,06,23,02:00,Method,mouseSpaz,mirage,ESL ESEA Pro League Season 1,16,2,13,2,3,0,mouseSpaz,5,17,0.31 
+2015,06,19,02:00,mouseSpaz,TempoStorm,inferno,ESL ESEA Pro League Season 1,9,16,6,9,3,7,mouseSpaz,14,22,0.61 
+2015,06,18,05:00,Luminosity,mouseSpaz,dust2,ESL ESEA Pro League Season 1,16,3,14,1,2,2,mouseSpaz,7,18,0.38 
+2015,06,17,05:00,mouseSpaz,eLevate,overpass,ESL ESEA Pro League Season 1,11,16,6,9,5,7,mouseSpaz,16,21,0.81 
+2015,06,17,04:00,Cloud9,mouseSpaz,cobblestone,ESL ESEA Pro League Season 1,16,4,12,3,4,1,mouseSpaz,5,18,0.32 
+2015,06,12,03:00,mouseSpaz,KeydStars,train,ESL ESEA Pro League Season 1,8,16,6,9,2,7,mouseSpaz,17,16,1.06 
+2015,06,11,05:15,CLG,mouseSpaz,cache,ESL ESEA Pro League Season 1,16,4,12,3,4,1,mouseSpaz,12,16,0.87 
+2015,06,09,05:00,mouseSpaz,Liquid,mirage,ESL ESEA Pro League Season 1,9,16,3,12,6,4,mouseSpaz,13,19,0.72 
+2015,06,02,05:00,mouseSpaz,ACE,train,ESL ESEA Pro League Season 1,16,5,10,5,6,0,mouseSpaz,22,9,1.67 
+2015,06,02,03:00,Nihilum,mouseSpaz,dust2,ESL ESEA Pro League Season 1,16,13,8,7,8,6,mouseSpaz,24,19,1.23 
+2015,05,29,03:00,KeydStars,mouseSpaz,overpass,ESL ESEA Pro League Season 1,16,5,10,5,6,0,mouseSpaz,6,18,0.36 
+2015,05,28,03:00,TempoStorm,mouseSpaz,inferno,ESL ESEA Pro League Season 1,16,12,11,4,5,8,mouseSpaz,14,23,0.63 
+2015,05,27,05:00,Nihilum,mouseSpaz,cache,ESL ESEA Pro League Season 1,16,13,8,7,8,6,mouseSpaz,23,24,0.92 
+2015,05,24,04:00,mouseSpaz,affNity,mirage,ESL ESEA Pro League Season 1,6,16,3,12,3,4,mouseSpaz,22,16,1.32 
+2015,05,24,03:00,affNity,mouseSpaz,cobblestone,ESL ESEA Pro League Season 1,16,0,15,0,1,0,mouseSpaz,13,16,0.79 
+2015,05,19,03:00,mouseSpaz,Luminosity,cobblestone,ESL ESEA Pro League Season 1,19,17,5,10,10,5,mouseSpaz,20,26,0.79 
+2015,05,19,02:00,ACE,mouseSpaz,inferno,ESL ESEA Pro League Season 1,16,3,12,3,4,0,mouseSpaz,7,18,0.53 
+2015,05,12,02:00,mouseSpaz,CLG,train,ESL ESEA Pro League Season 1,9,16,6,9,3,7,mouseSpaz,20,18,1.24 
+2015,05,08,05:00,mouseSpaz,eLevate,overpass,ESL ESEA Pro League Season 1,13,16,8,7,5,9,mouseSpaz,24,20,1.12 
+2015,05,06,03:00,mouseSpaz,Liquid,dust2,ESL ESEA Pro League Season 1,12,16,11,4,1,12,mouseSpaz,21,22,1.13 
+2015,05,05,05:00,mouseSpaz,Paradox,cache,ESL ESEA Pro League Season 1,8,16,7,8,1,8,mouseSpaz,14,20,0.72 
+2015,05,05,04:00,mouseSpaz,Cloud9,inferno,ESL ESEA Pro League Season 1,7,16,5,10,2,6,mouseSpaz,17,17,0.98 
+2014,10,02,03:00,Mobility,savage,inferno,FACEIT League NA Season 2,16,13,7,8,9,5,Mobility,12,20,0.68 
+2014,09,18,03:25,Cloud9,Mobility,mirage,FACEIT League NA Season 2,16,2,13,2,3,0,Mobility,8,17,0.51 
+2014,09,17,04:30,Mobility,LunatiK,inferno,FACEIT League NA Season 2,12,16,4,11,8,5,Mobility,15,22,0.68 
+2014,09,04,04:15,Mobility,iBUYPOWER,inferno,FACEIT League NA Season 2,10,16,9,6,1,10,Mobility,15,22,0.72 
+2014,08,27,02:30,Mobility,Exertus,cache,FACEIT League 2 NA Closed Qual..,16,11,10,5,6,6,Mobility,25,15,1.37 
+2014,08,27,02:30,Mobility,Exertus,mirage,FACEIT League 2 NA Closed Qual..,16,7,11,4,5,3,Mobility,20,12,1.27 
+2014,08,26,03:00,RELiABLE,Mobility,cache,FACEIT League 2 NA Closed Qual..,3,16,3,12,0,4,Mobility,15,12,1.08 

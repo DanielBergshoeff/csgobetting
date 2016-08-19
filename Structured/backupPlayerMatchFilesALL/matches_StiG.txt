@@ -1,0 +1,31 @@
+2016,05,08,11:00,BX3,Lions,overpass,Telenor League Spring 2016,16,14,5,10,11,4,Lions,19,21,0.89 
+2016,05,08,11:00,Lions,BX3,train,Telenor League Spring 2016,14,16,6,9,8,7,Lions,14,21,0.67 
+2016,05,06,21:25,GameAgents,Lions,cache,xfunction Challenge,16,13,9,6,7,7,Lions,18,22,0.80 
+2016,05,05,19:15,Lions,AlienTech,cache,xfunction Challenge,16,8,9,6,7,2,Lions,19,12,1.19 
+2016,04,08,21:30,KoNNorway,KoNFinland,mirage,King of Nordic Season 3,7,16,6,9,1,7,KoN Norway,9,20,0.46 
+2016,04,08,19:15,KoNNorway,KoNDenmark,inferno,King of Nordic Season 3,16,11,7,8,9,3,KoN Norway,18,19,0.91 
+2016,01,28,19:00,fm-eSports,Lions,cache,Uprise Champions Cup Season 4 ..,16,14,9,6,7,8,Lions,21,21,0.96 
+2015,11,05,19:30,Lions,Epsilon,cache,Uprise Champions Cup: Europe E..,8,16,8,7,0,9,Lions,17,22,0.76 
+2015,11,04,22:00,BX3,Lions,train,Uprise Champions Cup: Europe E..,7,16,5,10,2,6,Lions,25,16,1.46 
+2015,11,04,20:00,Lions,Epsilon,overpass,Uprise Champions Cup: Europe E..,7,16,3,12,4,4,Lions,16,18,0.88 
+2015,11,04,20:00,Lions,Epsilon,train,Uprise Champions Cup: Europe E..,12,16,7,8,5,8,Lions,10,21,0.52 
+2015,11,03,20:30,Lions,DenDD,overpass,Fragbite Masters Season 5,14,16,6,9,8,7,Lions,16,24,0.67 
+2015,11,03,20:30,DenDD,Lions,cache,Fragbite Masters Season 5,16,11,8,7,8,4,Lions,14,21,0.76 
+2015,09,15,23:30,Lions,ESC,overpass,D!ngIT $2000 Weekly Cup #17,16,11,13,2,3,9,Lions,14,15,0.90 
+2015,04,03,22:20,Games4u,Lions,inferno,Copenhagen Games 2015,16,11,11,4,5,7,Lions,17,22,0.81 
+2015,04,03,15:30,Lions,myKPV,mirage,Copenhagen Games 2015,8,16,8,7,0,9,Lions,14,17,0.87 
+2015,04,03,15:30,myKPV,Lions,inferno,Copenhagen Games 2015,16,14,5,10,11,4,Lions,28,16,1.51 
+2015,04,03,12:00,Virtus.pro,Lions,nuke,Copenhagen Games 2015,16,2,14,1,2,1,Lions,5,18,0.26 
+2015,04,03,12:00,Lions,Virtus.pro,inferno,Copenhagen Games 2015,11,16,4,11,7,5,Lions,17,21,0.86 
+2015,04,02,23:15,no_rhythm,Lions,mirage,Copenhagen Games 2015,16,19,12,3,3,12,Lions,32,22,1.35 
+2015,04,02,20:30,myKPV,Lions,cache,Copenhagen Games 2015,16,6,10,5,6,1,Lions,9,18,0.52 
+2015,04,02,19:00,Lions,no_rhythm,nuke,Copenhagen Games 2015,16,2,14,1,2,1,Lions,15,8,1.34 
+2015,04,02,14:00,Menace,Lions,dust2,Copenhagen Games 2015,16,5,13,2,3,3,Lions,7,19,0.38 
+2015,04,02,14:00,Menace,Lions,inferno,Copenhagen Games 2015,16,5,13,2,3,3,Lions,10,18,0.57 
+2014,08,02,09:40,Expert,ENCORE,inferno,ASUS ROG Summer 2014,10,16,7,8,3,8,Expert,16,21,0.83 
+2014,08,02,09:40,ENCORE,Expert,nuke,ASUS ROG Summer 2014,16,9,11,4,5,5,Expert,22,21,1.10 
+2014,08,01,18:20,Expert,RCTIC,inferno,ASUS ROG Summer 2014,16,2,13,2,3,0,Expert,18,7,1.82 
+2014,08,01,17:25,Games4u,Expert,mirage,ASUS ROG Summer 2014,16,2,13,2,3,0,Expert,14,17,0.92 
+2014,08,01,16:00,Expert,RCTIC,nuke,ASUS ROG Summer 2014,16,11,14,1,2,10,Expert,25,15,1.35 
+2014,06,15,21:20,NatusVincere,Expert,mirage,DreamHack Summer 2014,16,11,12,3,4,8,Expert,16,20,0.90 
+2014,06,15,21:20,Lemondogs,Expert,mirage,DreamHack Summer 2014,19,17,11,4,4,11,Expert,29,23,1.13 

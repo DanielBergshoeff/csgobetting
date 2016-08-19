@@ -1,0 +1,7 @@
+2016,08,13,03:30,RemoBrave,Furious,inferno,ESEA Open Season 22 Brazil,16,12,10,5,6,7,Furious,12,21,0.62 
+2016,08,13,03:30,Furious,RemoBrave,cache,ESEA Open Season 22 Brazil,16,3,12,3,4,0,Furious,18,10,1.39 
+2016,08,11,03:45,Furious,Nocturns,mirage,GTL Tecnofields 2016,11,16,4,11,7,5,Furious,20,20,1.00 
+2016,08,11,03:45,Furious,Nocturns,cobblestone,GTL Tecnofields 2016,16,11,11,4,5,7,Furious,20,16,1.12 
+2016,08,11,03:45,Nocturns,Furious,overpass,GTL Tecnofields 2016,16,12,7,8,9,4,Furious,23,20,1.19 
+2016,08,10,03:10,Furious,semXorah,dust2,ESEA Open Season 22 Brazil,16,11,8,7,8,4,Furious,24,14,1.31 
+2016,08,10,03:10,Furious,semXorah,mirage,ESEA Open Season 22 Brazil,16,7,8,7,8,0,Furious,18,9,1.35 

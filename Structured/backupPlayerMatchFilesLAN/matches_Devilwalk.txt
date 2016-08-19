@@ -1,0 +1,26 @@
+2015,10,11,10:45,Poland,Sweden,dust2,World Championships 2015,16,10,6,9,10,1,Sweden,14,21,0.67 
+2015,10,11,10:45,Sweden,Poland,train,World Championships 2015,7,16,6,9,1,7,Sweden,10,21,0.46 
+2015,10,11,10:45,Poland,Sweden,cobblestone,World Championships 2015,14,16,6,9,8,7,Sweden,12,20,0.70 
+2015,10,10,13:25,Sweden,Canada,cobblestone,World Championships 2015,16,11,7,8,9,3,Sweden,15,17,0.79 
+2015,10,10,13:25,Canada,Sweden,inferno,World Championships 2015,17,19,7,8,8,7,Sweden,21,26,0.83 
+2015,10,08,20:45,Indonesia,Sweden,dust2,World Championships 2015,4,16,2,13,2,3,Sweden,20,11,1.43 
+2015,10,08,20:45,Sweden,Indonesia,mirage,World Championships 2015,16,2,13,2,3,0,Sweden,15,9,1.30 
+2015,10,08,17:50,Germany,Sweden,cache,World Championships 2015,16,13,13,2,3,11,Sweden,16,22,0.74 
+2015,10,08,13:30,Sweden,Serbia,inferno,World Championships 2015,16,7,11,4,5,3,Sweden,18,12,1.15 
+2015,09,24,22:00,Winterfox,Renegades,cache,DreamHack Open Cluj-Napoca 201..,10,16,6,9,4,7,Winterfox,18,21,0.98 
+2015,09,24,22:00,Winterfox,Renegades,train,DreamHack Open Cluj-Napoca 201..,13,16,8,7,5,9,Winterfox,14,20,0.74 
+2015,09,24,12:30,Winterfox,mousesports,cobblestone,DreamHack Open Cluj-Napoca 201..,11,16,7,8,4,8,Winterfox,18,21,0.91 
+2015,09,24,12:30,Winterfox,mousesports,dust2,DreamHack Open Cluj-Napoca 201..,17,19,8,7,7,8,Winterfox,20,24,0.90 
+2015,08,02,20:15,eLevate,Mythic,mirage,ESL One Cologne 2015 NA Qualif..,16,13,7,8,9,5,Mythic,19,25,0.76 
+2015,08,02,01:00,Mythic,CLG,dust2,ESL One Cologne 2015 NA Qualif..,14,16,4,11,10,5,Mythic,12,23,0.60 
+2015,08,02,01:00,Mythic,MaximumEffort,cache,ESL One Cologne 2015 NA Qualif..,16,13,7,8,9,5,Mythic,13,19,0.74 
+2015,07,25,16:00,TempoStorm,Luminosity,cobblestone,CEVO Professional Season 7 Fin..,16,6,11,4,5,2,Luminosity,12,20,0.64 
+2015,07,25,16:00,TempoStorm,Luminosity,dust2,CEVO Professional Season 7 Fin..,16,13,5,10,11,3,Luminosity,18,24,0.77 
+2015,07,25,16:00,Luminosity,TempoStorm,cache,CEVO Professional Season 7 Fin..,19,15,4,11,11,4,Luminosity,19,25,0.82 
+2015,07,24,23:00,NatusVincere,Luminosity,dust2,CEVO Professional Season 7 Fin..,16,8,10,5,6,3,Luminosity,10,19,0.54 
+2015,07,24,23:00,NatusVincere,Luminosity,overpass,CEVO Professional Season 7 Fin..,16,3,13,2,3,1,Luminosity,6,17,0.38 
+2015,07,11,02:00,NatusVincere,Luminosity,inferno,ESWC 2015,16,7,9,6,7,1,Luminosity,8,22,0.33 
+2015,07,11,01:00,SK,Luminosity,cobblestone,ESWC 2015,16,11,9,6,7,5,Luminosity,13,20,0.70 
+2015,07,10,21:45,Luminosity,Titan,dust2,ESWC 2015,7,16,4,11,3,5,Luminosity,7,18,0.46 
+2015,06,13,19:45,Acer,NiP,dust2,ESPORTSM 2015,5,16,3,12,2,4,Acer,7,20,0.34 
+2015,06,13,19:45,NiP,Acer,train,ESPORTSM 2015,16,5,12,3,4,2,Acer,11,19,0.57 

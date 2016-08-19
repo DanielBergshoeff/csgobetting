@@ -1,0 +1,9 @@
+2014,08,12,18:00,Berzerk,OnlineBOTS,inferno,SLTV StarSeries X,16,10,15,0,1,10,OnlineBOTS,13,20,0.72 
+2014,08,11,20:00,fnatic,OnlineBOTS,dust2,SLTV StarSeries X,16,1,14,1,2,0,OnlineBOTS,2,17,0.10 
+2014,08,10,19:15,ESC,OnlineBOTS,mirage,SLTV StarSeries X,16,3,12,3,4,0,OnlineBOTS,10,19,0.53 
+2014,08,08,20:00,Epsilon,OnlineBOTS,inferno,SLTV StarSeries X,16,0,15,0,1,0,OnlineBOTS,3,16,0.16 
+2014,08,06,21:00,OnlineBOTS,LDLC,dust2,SLTV StarSeries X,7,16,5,10,2,6,OnlineBOTS,9,20,0.46 
+2014,08,05,20:15,OverGaming,OnlineBOTS,mirage,SLTV StarSeries X,16,6,13,2,3,4,OnlineBOTS,15,19,0.92 
+2014,08,05,19:00,Titan,OnlineBOTS,inferno,SLTV StarSeries X,16,4,12,3,4,1,OnlineBOTS,11,19,0.56 
+2014,07,21,21:00,OnlineBOTS,ESG!,mirage,SLTV StarSeries X,13,16,6,9,7,7,OnlineBOTS,19,22,0.88 
+2014,07,08,21:00,Virtus.pro,OnlineBOTS,mirage,SLTV StarSeries X,16,8,9,6,7,2,OnlineBOTS,8,21,0.40 

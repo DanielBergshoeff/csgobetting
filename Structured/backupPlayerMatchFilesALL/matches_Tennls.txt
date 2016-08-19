@@ -1,0 +1,9 @@
+2016,05,30,02:30,TSM,RivaL,overpass,CyberPowerPC Summer 2016 Quali..,16,11,11,4,5,7,RivaL,17,18,0.93 
+2016,05,30,02:30,RivaL,TSM,dust2,CyberPowerPC Summer 2016 Quali..,8,16,2,13,6,3,RivaL,15,16,0.99 
+2016,05,09,05:45,RivaL,WithoutaRoof,mirage,MLG Regional Minor North Ameri..,10,16,3,12,7,4,RivaL,20,15,1.19 
+2016,05,09,03:00,RivaL,Detonate,mirage,MLG Regional Minor North Ameri..,16,11,8,7,8,4,RivaL,25,17,1.46 
+2016,05,09,01:35,RivaL,MostlyHomeless,train,MLG Regional Minor North Ameri..,16,6,10,5,6,1,RivaL,21,15,1.32 
+2016,05,09,00:45,RivaL,Kingdom,mirage,MLG Regional Minor North Ameri..,16,9,12,3,4,6,RivaL,14,14,0.90 
+2016,05,08,20:40,Winterfox,RivaL,nuke,MLG Regional Minor North Ameri..,16,5,11,4,5,1,RivaL,9,19,0.46 
+2016,05,08,20:40,Winterfox,RivaL,cache,MLG Regional Minor North Ameri..,16,11,8,7,8,4,RivaL,18,20,0.90 
+2016,05,08,20:40,RivaL,Winterfox,overpass,MLG Regional Minor North Ameri..,25,23,6,9,9,6,RivaL,41,28,1.38 

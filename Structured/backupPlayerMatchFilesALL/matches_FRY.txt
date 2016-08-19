@@ -1,0 +1,4 @@
+2015,12,12,15:00,onlineBots,xTc,overpass,BHG CS:GO Tournament,5,16,5,10,0,6,online Bots,12,15,0.79 
+2015,12,12,15:00,xTc,onlineBots,cache,BHG CS:GO Tournament,16,0,15,0,1,0,online Bots,3,16,0.16 
+2015,12,12,09:00,onlineBots,Aperture,cache,BHG CS:GO Tournament,1,16,1,14,0,2,online Bots,5,17,0.25 
+2015,12,12,09:00,onlineBots,Aperture,mirage,BHG CS:GO Tournament,0,16,0,15,0,1,online Bots,8,16,0.45 

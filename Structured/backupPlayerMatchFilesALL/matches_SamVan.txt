@@ -1,0 +1,5 @@
+2016,08,12,19:00,Israel,Estonia,cobblestone,World Championships 2016 Europ..,9,16,4,11,5,5,Estonia,20,13,1.18 
+2016,08,12,19:00,Estonia,Israel,mirage,World Championships 2016 Europ..,16,14,8,7,8,7,Estonia,18,15,1.04 
+2016,08,12,19:00,Estonia,Israel,cache,World Championships 2016 Europ..,16,19,7,8,8,7,Estonia,22,26,0.80 
+2015,12,03,22:30,BX3,OnlineBOTS,cache,QuickShot Arena #17,7,16,6,9,1,7,OnlineBOTS,17,11,1.19 
+2015,12,03,20:00,LDLCBlue,OnlineBOTS,mirage,QuickShot Arena #17,7,16,7,8,0,8,OnlineBOTS,16,16,0.93 

@@ -1,0 +1,17 @@
+2015,12,22,23:15,ex-USSR,enable,dust2,D!ngIT $2000 Weekly Cup #31,16,7,9,6,7,1,ex-USSR,16,13,1.19 
+2015,12,22,23:15,enable,ex-USSR,cache,D!ngIT $2000 Weekly Cup #31,16,12,6,9,10,3,ex-USSR,13,21,0.65 
+2015,11,22,13:30,USSR,Vexed,mirage,Color League by EIZO & QPAD,8,16,6,9,2,7,USSR,18,20,0.96 
+2015,11,22,13:30,Vexed,USSR,cache,Color League by EIZO & QPAD,16,9,12,3,4,6,USSR,19,20,1.05 
+2015,11,22,13:30,Vexed,USSR,overpass,Color League by EIZO & QPAD,16,7,11,4,5,3,USSR,8,18,0.54 
+2015,11,21,20:30,Vexed,USSR,inferno,Color League by EIZO & QPAD,14,16,5,10,9,6,USSR,20,19,0.97 
+2015,11,21,20:30,USSR,Vexed,dust2,Color League by EIZO & QPAD,16,8,10,5,6,3,USSR,17,11,1.18 
+2015,11,21,20:30,Vexed,USSR,overpass,Color League by EIZO & QPAD,25,22,9,6,6,9,USSR,31,34,0.89 
+2015,11,21,10:40,USSR,ALSEN,mirage,Color League by EIZO & QPAD,16,5,11,4,5,1,USSR,26,8,1.82 
+2015,11,21,10:40,USSR,ALSEN,cache,Color League by EIZO & QPAD,16,13,6,9,10,4,USSR,15,22,0.73 
+2015,11,21,10:40,ALSEN,USSR,dust2,Color League by EIZO & QPAD,16,14,6,9,10,5,USSR,17,23,0.80 
+2015,11,06,19:15,VegaSquadron,USSR,cache,SLTV ProSeries XIV,16,12,12,3,4,9,USSR,20,20,1.08 
+2015,11,06,19:15,VegaSquadron,USSR,mirage,SLTV ProSeries XIV,16,12,9,6,7,6,USSR,20,21,0.97 
+2015,09,16,20:00,Distinct5,31337,mirage,ESL Polish Championship Season..,3,16,3,12,0,4,Distinct5,11,16,0.67 
+2015,09,16,20:00,31337,Distinct5,cache,ESL Polish Championship Season..,19,17,4,11,11,4,Distinct5,24,23,1.03 
+2015,09,02,21:00,Distinct5,eBettle,mirage,ESL Polish Championship Season..,10,16,8,7,2,9,Distinct5,23,22,1.07 
+2015,09,02,21:00,Distinct5,eBettle,overpass,ESL Polish Championship Season..,9,16,7,8,2,8,Distinct5,13,19,0.77 

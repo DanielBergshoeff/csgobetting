@@ -1,0 +1,7 @@
+2015,11,20,19:30,eSuba,Refuse,mirage,QuickShot Arena #15,16,5,13,2,3,3,Refuse,4,19,0.24 
+2015,11,20,17:00,eXplosive,Refuse,cache,QuickShot Arena #15,16,3,12,3,4,0,Refuse,16,17,1.06 
+2015,11,05,22:00,OnlineBOTS,Refuse,dust2,QuickShot Arena #13,16,12,6,9,10,3,Refuse,9,22,0.46 
+2015,11,05,20:45,NoProblem!,Refuse,cache,QuickShot Arena #13,19,17,7,8,8,7,Refuse,28,28,1.04 
+2015,11,05,17:00,Refuse,OnlineBOTS,cache,QuickShot Arena #13,19,15,7,8,8,7,Refuse,26,25,1.03 
+2014,06,15,10:00,hiGhrollers,SK,train,ESPORTSM 2013/2014 Finals,8,16,8,7,0,9,hiGhrollers ,10,20,0.48 
+2014,06,15,10:00,hiGhrollers,SK,mirage,ESPORTSM 2013/2014 Finals,12,16,8,7,4,9,hiGhrollers ,14,21,0.66 

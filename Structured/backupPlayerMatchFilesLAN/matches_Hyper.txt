@@ -1,0 +1,49 @@
+2016,06,12,16:30,AGG,PRIDE,overpass,X-Kom Clash,16,10,11,4,5,6,AGG,19,13,1.20 
+2016,06,12,16:30,PRIDE,AGG,train,X-Kom Clash,4,16,3,12,1,4,AGG,17,9,1.39 
+2016,06,12,16:30,PRIDE,AGG,cobblestone,X-Kom Clash,16,9,11,4,5,5,AGG,17,17,0.97 
+2016,06,12,10:30,ex-noMERCY,AGG,train,X-Kom Clash,8,16,6,9,2,7,AGG,14,14,0.95 
+2016,06,12,10:30,ex-noMERCY,AGG,mirage,X-Kom Clash,11,16,9,6,2,10,AGG,16,16,0.94 
+2016,02,20,18:00,dignitas,Vexed,cobblestone,ESL Barcelona CS:GO Invitation..,16,5,12,3,4,2,Vexed,6,19,0.40 
+2016,02,20,13:30,G2,Vexed,overpass,ESL Barcelona CS:GO Invitation..,16,9,10,5,6,4,Vexed,16,18,0.93 
+2016,02,19,21:40,x6tence,Vexed,cobblestone,ESL Barcelona CS:GO Invitation..,2,16,2,13,0,3,Vexed,10,9,0.94 
+2016,02,19,19:05,dignitas,Vexed,mirage,ESL Barcelona CS:GO Invitation..,16,7,9,6,7,1,Vexed,15,19,0.74 
+2016,02,12,13:00,Vexed,CSGL,cobblestone,Acer Predator Masters powered ..,18,21,4,11,11,4,Vexed,30,29,0.99 
+2016,02,12,13:00,CSGL,Vexed,train,Acer Predator Masters powered ..,6,16,3,12,3,4,Vexed,20,12,1.53 
+2016,02,12,13:00,CSGL,Vexed,mirage,Acer Predator Masters powered ..,16,10,12,3,4,7,Vexed,16,19,0.80 
+2016,02,11,23:30,Vexed,HellRaisers,cobblestone,Acer Predator Masters powered ..,14,16,7,8,7,8,Vexed,23,23,0.93 
+2016,02,11,23:30,HellRaisers,Vexed,inferno,Acer Predator Masters powered ..,16,14,8,7,8,7,Vexed,14,20,0.70 
+2015,12,12,19:00,PixelHunters,Imagination,cache,BHG CS:GO Tournament,2,16,2,13,0,3,Pixel Hunters,21,15,1.43 
+2015,12,12,15:00,PixelHunters,Bravado,inferno,BHG CS:GO Tournament,4,16,2,13,2,3,Pixel Hunters,8,17,0.49 
+2015,12,12,15:00,Bravado,PixelHunters,overpass,BHG CS:GO Tournament,16,0,15,0,1,0,Pixel Hunters,7,16,0.40 
+2015,12,12,10:15,PixelHunters,Orbis,dust2,BHG CS:GO Tournament,16,6,9,6,7,0,Pixel Hunters,18,11,1.30 
+2015,12,12,10:15,Orbis,PixelHunters,inferno,BHG CS:GO Tournament,7,16,5,10,2,6,Pixel Hunters,13,10,1.03 
+2015,10,29,10:00,Vexed,Cloud9,cobblestone,DreamHack Open Cluj-Napoca 201..,13,16,7,8,6,8,Vexed,21,18,1.07 
+2015,10,28,10:45,Vexed,fnatic,cobblestone,DreamHack Open Cluj-Napoca 201..,10,16,10,5,0,11,Vexed,16,19,0.80 
+2015,10,03,15:30,CSGL,Vexed,overpass,ESL Polish Championship Season..,16,10,12,3,4,7,Vexed,19,19,0.99 
+2015,10,03,15:30,CSGL,Vexed,cobblestone,ESL Polish Championship Season..,7,16,6,9,1,7,Vexed,19,11,1.27 
+2015,10,03,15:30,Vexed,CSGL,mirage,ESL Polish Championship Season..,9,16,7,8,2,8,Vexed,15,20,0.71 
+2015,10,03,10:30,ATB,Vexed,cobblestone,ESL Polish Championship Season..,3,16,3,12,0,4,Vexed,17,10,1.26 
+2015,10,03,10:30,Vexed,ATB,mirage,ESL Polish Championship Season..,16,3,12,3,4,0,Vexed,16,8,1.36 
+2015,09,26,21:30,HellRaisers,Vexed,overpass,DreamHack Open Cluj-Napoca 201..,13,16,11,4,2,12,Vexed,18,15,1.05 
+2015,09,26,21:30,HellRaisers,Vexed,dust2,DreamHack Open Cluj-Napoca 201..,16,7,11,4,5,3,Vexed,11,19,0.62 
+2015,09,26,21:30,Vexed,HellRaisers,cobblestone,DreamHack Open Cluj-Napoca 201..,16,11,5,10,11,1,Vexed,11,22,0.53 
+2015,09,25,21:30,Skyred,Vexed,overpass,DreamHack Open Cluj-Napoca 201..,12,16,10,5,2,11,Vexed,21,17,1.11 
+2015,09,25,21:30,Vexed,Skyred,cache,DreamHack Open Cluj-Napoca 201..,16,14,6,9,10,5,Vexed,25,20,1.14 
+2015,09,25,15:10,Vexed,HellRaisers,dust2,DreamHack Open Cluj-Napoca 201..,7,16,1,14,6,2,Vexed,15,19,0.84 
+2015,09,25,15:10,Vexed,HellRaisers,cobblestone,DreamHack Open Cluj-Napoca 201..,11,16,7,8,4,8,Vexed,16,23,0.70 
+2015,08,21,16:41,CLG,eBettle,mirage,ESL One Cologne 2015,16,14,10,5,6,9,eBettle,21,20,1.11 
+2015,08,20,18:15,fnatic,eBettle,mirage,ESL One Cologne 2015,16,2,14,1,2,1,eBettle,12,16,0.74 
+2015,08,01,20:15,ROCCAT,eBettle,mirage,Assembly Summer 2015 AMD CS:GO..,12,16,9,6,3,10,eBettle,21,13,1.25 
+2015,08,01,20:15,eBettle,ROCCAT,dust2,Assembly Summer 2015 AMD CS:GO..,7,16,7,8,0,8,eBettle,18,16,1.08 
+2015,08,01,20:15,ROCCAT,eBettle,cobblestone,Assembly Summer 2015 AMD CS:GO..,18,22,10,5,5,10,eBettle,24,26,0.99 
+2015,08,01,16:00,EpiphanyBolt,eBettle,overpass,Assembly Summer 2015 AMD CS:GO..,11,16,9,6,2,10,eBettle,14,17,0.84 
+2015,08,01,16:00,EpiphanyBolt,eBettle,dust2,Assembly Summer 2015 AMD CS:GO..,5,16,4,11,1,5,eBettle,17,10,1.34 
+2015,07,30,18:00,ROCCAT,eBettle,dust2,Assembly Summer 2015 AMD CS:GO..,13,16,4,11,9,5,eBettle,18,20,0.85 
+2015,07,30,16:00,SkitLite,eBettle,cobblestone,Assembly Summer 2015 AMD CS:GO..,8,16,4,11,4,5,eBettle,31,15,1.69 
+2015,07,26,18:45,eBettle,Titan,train,ESL One Cologne 2015 European ..,25,23,10,5,5,10,eBettle,53,30,1.64 
+2015,07,26,15:20,eBettle,HellRaisers,overpass,ESL One Cologne 2015 European ..,16,14,5,10,11,4,eBettle,19,23,0.85 
+2015,07,26,13:00,EpiphanyBolt,eBettle,train,ESL One Cologne 2015 European ..,19,22,10,5,5,10,eBettle,29,24,1.06 
+2015,02,15,13:45,INSHOCK,KaBuM.TD,nuke,ESL One Katowice 2015 Main Qua..,11,16,9,6,2,10,INSHOCK,13,23,0.59 
+2015,02,15,11:01,Cloud9,INSHOCK,inferno,ESL One Katowice 2015 Main Qua..,16,2,14,1,2,1,INSHOCK,11,17,0.68 
+2014,07,18,20:40,INSHOCK,OverGaming,nuke,DreamHack Valencia 2014,13,16,10,5,3,11,INSHOCK,23,20,1.14 
+2014,07,18,18:45,Legacy,INSHOCK,train,DreamHack Valencia 2014,11,16,6,9,5,7,INSHOCK,26,15,1.48 

@@ -1,0 +1,10 @@
+2016,07,10,17:00,Quest,Vesuvius,mirage,Game Show Open Season 4 Playof..,16,5,11,4,5,1,Quest,8,14,0.62 
+2016,07,10,17:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,0,16,0,15,0,1,Quest,17,8,1.40 
+2016,07,09,17:30,Quest,GameplayDNA,mirage,Game Show Open Season 4 Playof..,16,8,10,5,6,3,Quest,15,14,0.98 
+2016,07,09,17:30,GameplayDNA,Quest,cobblestone,Game Show Open Season 4 Playof..,7,16,7,8,0,8,Quest,19,16,1.14 
+2016,07,09,15:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,14,16,7,8,7,8,Quest,27,21,1.27 
+2016,07,09,15:00,Vesuvius,Quest,cache,Game Show Open Season 4 Playof..,11,16,6,9,5,7,Quest,20,18,1.13 
+2016,01,23,16:45,Method,Quest,dust2,StarLadder Regional Minor Cham..,16,14,5,10,11,4,Quest,15,23,0.69 
+2016,01,23,16:45,Method,Quest,train,StarLadder Regional Minor Cham..,16,11,12,3,4,8,Quest,25,21,1.28 
+2016,01,23,15:30,FluffyGangsters,Quest,mirage,StarLadder Regional Minor Cham..,14,16,6,9,8,7,Quest,14,22,0.67 
+2016,01,22,13:15,Quest,Arcade,cache,StarLadder Regional Minor Cham..,13,16,7,8,6,8,Quest,16,19,0.86 

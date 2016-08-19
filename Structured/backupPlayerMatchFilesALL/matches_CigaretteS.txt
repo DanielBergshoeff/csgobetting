@@ -1,0 +1,47 @@
+2016,08,14,14:30,Orange,Signature,nuke,ESEA Open Season 22 Asia,6,16,5,10,1,6,Signature,23,13,1.39 
+2016,08,14,14:30,Orange,Signature,overpass,ESEA Open Season 22 Asia,10,16,8,7,2,9,Signature,16,20,0.88 
+2016,08,12,16:00,Signature,autocracy,cache,ESEA Open Season 22 Asia,16,14,7,8,9,6,Signature,24,19,1.14 
+2016,08,12,16:00,autocracy,Signature,train,ESEA Open Season 22 Asia,10,16,7,8,3,8,Signature,16,16,0.89 
+2016,08,08,15:00,Signature,MiTH,overpass,ESEA Open Season 22 Asia,16,12,13,2,3,10,Signature,19,17,1.01 
+2016,08,08,15:00,Signature,MiTH,dust2,ESEA Open Season 22 Asia,14,16,5,10,9,6,Signature,27,21,1.25 
+2016,08,08,15:00,MiTH,Signature,mirage,ESEA Open Season 22 Asia,14,16,5,10,9,6,Signature,15,24,0.66 
+2016,08,03,13:00,Signature,EDG,cobblestone,E-Sports Festival CS:GO Tourna..,16,19,7,8,8,7,Signature,24,23,1.02 
+2016,08,03,13:00,EDG,Signature,cache,E-Sports Festival CS:GO Tourna..,16,5,11,4,5,1,Signature,11,19,0.57 
+2016,08,03,13:00,Signature,EDG,mirage,E-Sports Festival CS:GO Tourna..,19,15,5,10,10,5,Signature,35,21,1.46 
+2016,08,02,13:30,Taiwanz,Signature,cache,E-Sports Festival CS:GO Tourna..,3,16,3,12,0,4,Signature,22,7,1.76 
+2016,08,02,13:30,Signature,Taiwanz,mirage,E-Sports Festival CS:GO Tourna..,16,9,11,4,5,5,Signature,20,15,1.20 
+2016,07,25,15:00,dream[S]cape,Signature,mirage,MixBOT Pro-League Golden,16,5,13,2,3,3,Signature,9,16,0.58 
+2016,07,25,15:00,dream[S]cape,Signature,dust2,MixBOT Pro-League Golden,16,1,14,1,2,0,Signature,9,16,0.56 
+2016,07,22,12:00,nxl,Signature,cache,MixBOT Pro-League Golden,11,16,5,10,6,6,Signature,15,18,0.80 
+2016,07,22,12:00,Signature,nxl,mirage,MixBOT Pro-League Golden,16,13,9,6,7,7,Signature,15,18,0.88 
+2016,07,13,14:30,Thailand,Mongolia,cache,World Championships 2016 Asian..,15,19,5,10,10,5,Thailand,34,20,1.44 
+2016,07,13,14:30,Thailand,Mongolia,dust2,World Championships 2016 Asian..,9,16,4,11,5,5,Thailand,16,18,0.88 
+2016,07,13,14:30,Mongolia,Thailand,mirage,World Championships 2016 Asian..,8,16,5,10,3,6,Thailand,17,16,0.98 
+2016,07,13,13:30,Thailand,HongKong,cache,World Championships 2016 Asian..,16,7,11,4,5,3,Thailand,13,14,0.92 
+2016,07,13,11:00,Thailand,Mongolia,dust2,World Championships 2016 Asian..,12,16,6,9,6,7,Thailand,19,17,1.03 
+2016,06,18,12:00,Signature,MiTH,cobblestone,MixBOT Pro-League Golden,16,14,8,7,8,7,Signature,32,17,1.57 
+2016,06,18,12:00,MiTH,Signature,mirage,MixBOT Pro-League Golden,19,16,13,2,2,13,Signature,20,28,0.71 
+2016,06,09,12:15,Expendables,Signature,cache,MixBOT Pro-League Golden,10,16,4,11,6,5,Signature,21,15,1.24 
+2016,06,09,12:15,Expendables,Signature,dust2,MixBOT Pro-League Golden,14,16,7,8,7,8,Signature,17,18,0.90 
+2016,05,20,12:30,Signature,TheMongolz,dust2,WCA Season 1 APAC Finals,12,16,5,10,7,6,Signature,27,19,1.30 
+2016,05,20,12:30,Signature,TheMongolz,mirage,WCA Season 1 APAC Finals,7,16,4,11,3,5,Signature,10,18,0.57 
+2016,05,18,11:00,MVP.karnal,Signature,dust2,WCA Season 1 APAC Finals,16,10,10,5,6,5,Signature,20,20,1.01 
+2016,05,18,11:00,Signature,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,11,8,7,8,4,Signature,22,17,1.20 
+2016,05,18,11:00,MVP.karnal,Signature,cache,WCA Season 1 APAC Finals,19,16,11,4,4,11,Signature,41,25,1.61 
+2016,04,22,14:15,TheMongolz,Signature,mirage,Rising Stars SEA Promotional C..,16,11,6,9,10,2,Signature,19,20,0.93 
+2016,04,22,14:15,Signature,TheMongolz,cache,Rising Stars SEA Promotional C..,10,16,7,8,3,8,Signature,31,18,1.60 
+2016,04,21,16:10,MVP.karnal,Signature,mirage,Rising Stars SEA Promotional C..,13,16,4,11,9,5,Signature,21,17,1.08 
+2016,04,21,13:30,nxl,Signature,dust2,Rising Stars SEA Promotional C..,16,10,8,7,8,3,Signature,22,19,1.17 
+2016,04,21,12:30,MVP.karnal,Signature,inferno,Rising Stars SEA Promotional C..,8,16,6,9,2,7,Signature,19,13,1.30 
+2016,04,19,15:55,MVPproject,Signature,train,WCA 2016 APAC Qualifier,14,16,7,8,7,8,Signature,19,21,0.93 
+2016,04,19,15:55,MVPproject,Signature,mirage,WCA 2016 APAC Qualifier,17,19,12,3,3,12,Signature,26,20,1.11 
+2016,04,16,13:00,Signature,MineSki,mirage,WCA 2016 APAC Qualifier,16,6,11,4,5,2,Signature,31,7,2.29 
+2016,04,16,13:00,MineSki,Signature,inferno,WCA 2016 APAC Qualifier,7,16,4,11,3,5,Signature,19,10,1.56 
+2016,03,13,12:00,Signature,VG.CyberZen,dust2,DreamHack Masters Malmö 2016 A..,14,16,9,6,5,10,Signature,27,21,1.31 
+2016,03,13,12:00,VG.CyberZen,Signature,inferno,DreamHack Masters Malmö 2016 A..,19,16,7,8,8,7,Signature,26,23,1.07 
+2016,03,13,09:00,Signature,TheMongolz,dust2,DreamHack Masters Malmö 2016 A..,16,12,9,6,7,6,Signature,20,17,1.06 
+2016,03,13,09:00,Signature,TheMongolz,cobblestone,DreamHack Masters Malmö 2016 A..,5,16,4,11,1,5,Signature,14,19,0.77 
+2016,03,13,09:00,Signature,TheMongolz,mirage,DreamHack Masters Malmö 2016 A..,16,8,8,7,8,1,Signature,14,13,1.03 
+2016,03,13,06:30,Signature,nxl,train,DreamHack Masters Malmö 2016 A..,16,10,8,7,8,3,Signature,19,18,0.93 
+2016,03,13,06:30,Signature,nxl,mirage,DreamHack Masters Malmö 2016 A..,16,6,10,5,6,1,Signature,20,12,1.39 
+2016,03,12,13:30,MiTH,Signature,overpass,DreamHack Masters Malmö 2016 A..,12,16,10,5,2,11,Signature,27,17,1.64 

@@ -1,0 +1,16 @@
+2016,05,30,02:30,TSM,RivaL,overpass,CyberPowerPC Summer 2016 Quali..,16,11,11,4,5,7,RivaL,29,20,1.41 
+2016,05,30,02:30,RivaL,TSM,dust2,CyberPowerPC Summer 2016 Quali..,8,16,2,13,6,3,RivaL,12,20,0.60 
+2016,05,09,05:45,RivaL,WithoutaRoof,mirage,MLG Regional Minor North Ameri..,10,16,3,12,7,4,RivaL,17,18,0.93 
+2016,05,09,03:00,RivaL,Detonate,mirage,MLG Regional Minor North Ameri..,16,11,8,7,8,4,RivaL,25,16,1.41 
+2016,05,09,01:35,RivaL,MostlyHomeless,train,MLG Regional Minor North Ameri..,16,6,10,5,6,1,RivaL,21,10,1.45 
+2016,05,09,00:45,RivaL,Kingdom,mirage,MLG Regional Minor North Ameri..,16,9,12,3,4,6,RivaL,31,18,1.71 
+2016,05,08,20:40,Winterfox,RivaL,nuke,MLG Regional Minor North Ameri..,16,5,11,4,5,1,RivaL,15,18,0.88 
+2016,05,08,20:40,Winterfox,RivaL,cache,MLG Regional Minor North Ameri..,16,11,8,7,8,4,RivaL,12,21,0.60 
+2016,05,08,20:40,RivaL,Winterfox,overpass,MLG Regional Minor North Ameri..,25,23,6,9,9,6,RivaL,40,33,1.24 
+2016,01,16,01:30,EZG,Splyce,cache,MLG Americas Minor Championshi..,14,16,4,11,10,5,EZG,20,26,0.74 
+2016,01,15,23:00,Enemy,EZG,cache,MLG Americas Minor Championshi..,16,9,14,1,2,8,EZG,13,20,0.69 
+2015,12,16,04:30,ACE,UMass,cache,QuickShot Arena NA #2,13,16,4,11,9,5,UMass,21,21,0.93 
+2015,12,16,01:00,UMass,Incursion,cache,QuickShot Arena NA #2,16,5,11,4,5,1,UMass,16,9,1.27 
+2015,12,16,01:00,UMass,Incursion,mirage,QuickShot Arena NA #2,16,11,7,8,9,3,UMass,22,15,1.19 
+2015,12,15,01:00,SetToDestroyX,UMass,dust2,QuickShot Arena NA #2,13,16,8,7,5,9,UMass,13,18,0.74 
+2015,12,15,01:00,UMass,SetToDestroyX,cobblestone,QuickShot Arena NA #2,16,14,7,8,9,6,UMass,23,20,1.05 

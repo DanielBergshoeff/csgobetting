@@ -1,0 +1,17 @@
+2016,08,14,19:15,Entropy,X,train,ECS Season 2 EU Open Qualifier..,10,16,6,9,4,7,Entropy,14,19,0.74 
+2016,08,14,18:10,Entropy,LGR,cache,ECS Season 2 EU Open Qualifier..,16,6,10,5,6,1,Entropy,18,14,1.16 
+2016,08,14,16:50,Entropy,ALTERNATEaTTaX,cobblestone,ECS Season 2 EU Open Qualifier..,16,12,7,8,9,4,Entropy,23,18,1.29 
+2016,08,14,15:30,Entropy,finshhh,cobblestone,ECS Season 2 EU Open Qualifier..,16,11,6,9,10,2,Entropy,20,17,1.11 
+2016,08,07,16:10,Entropy,mixbanan,cache,ECS Season 2 EU Open Qualifier..,13,16,9,6,4,10,Entropy,29,22,1.29 
+2016,08,07,15:05,TBD-PL,Entropy,cache,ECS Season 2 EU Open Qualifier..,12,16,7,8,5,8,Entropy,22,18,1.16 
+2016,04,24,15:00,AGG,n0_0rg,dust2,DreamHack Regional Minor Champ..,16,6,11,4,5,2,n0_0rg,17,18,1.22 
+2016,04,24,15:00,AGG,n0_0rg,inferno,DreamHack Regional Minor Champ..,9,16,5,10,4,6,n0_0rg,20,18,1.06 
+2016,04,24,15:00,n0_0rg,AGG,train,DreamHack Regional Minor Champ..,10,16,8,7,2,9,n0_0rg,13,22,0.57 
+2016,04,23,20:20,n0_0rg,ENCE,cache,DreamHack Regional Minor Champ..,19,21,10,5,5,10,n0_0rg,37,31,1.16 
+2016,04,23,19:10,n0_0rg,RedInstinct,cache,DreamHack Regional Minor Champ..,16,11,8,7,8,4,n0_0rg,29,19,1.38 
+2016,04,23,17:55,un-named,n0_0rg,cache,DreamHack Regional Minor Champ..,8,16,8,7,0,9,n0_0rg,24,17,1.24 
+2016,03,24,20:00,Plantronics,n0_0rg,cache,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,n0_0rg,5,17,0.35 
+2016,03,24,20:00,n0_0rg,Plantronics,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,4,11,1,5,n0_0rg,13,16,0.85 
+2016,03,24,17:00,n0_0rg,Barrøvogsandaler,inferno,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,n0_0rg,31,5,3.16 
+2016,03,24,15:30,EpiphanyBolt,n0_0rg,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,n0_0rg,19,20,0.89 
+2016,03,24,13:00,n0_0rg,Barrøvogsandaler,dust2,Copenhagen Games 2016 BYOC Qua..,16,8,10,5,6,3,n0_0rg,25,15,1.44 

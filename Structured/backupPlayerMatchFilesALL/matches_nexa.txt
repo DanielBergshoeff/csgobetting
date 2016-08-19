@@ -1,0 +1,25 @@
+2016,08,10,16:00,Serbia,Malta,train,World Championships 2016 Europ..,16,4,13,2,3,2,Serbia,18,9,1.64 
+2016,08,10,16:00,Malta,Serbia,cache,World Championships 2016 Europ..,4,16,1,14,3,2,Serbia,21,8,1.54 
+2016,07,16,09:35,GamePub,faithIN,cache,GamePub 2016,11,16,6,9,5,7,GamePub,18,19,0.93 
+2016,07,16,09:35,GamePub,faithIN,mirage,GamePub 2016,16,1,14,1,2,0,GamePub,16,7,1.47 
+2016,07,16,09:35,GamePub,faithIN,dust2,GamePub 2016,5,16,4,11,1,5,GamePub,14,19,0.75 
+2016,04,26,21:00,GameAgents,iNation,mirage,Balkan Championship Season 3,16,3,13,2,3,1,iNation,7,17,0.42 
+2016,02,24,19:00,Deathtrap,iNation,train,Balkan Challenge #1,16,10,11,4,5,6,iNation,16,23,0.76 
+2016,02,23,23:00,aZ,iNation,mirage,Balkan Challenge #1,2,16,2,13,0,3,iNation,13,8,1.12 
+2016,02,23,22:00,XPC,iNation,mirage,Balkan Challenge #1,16,7,11,4,5,3,iNation,11,19,0.64 
+2016,02,23,19:00,iNation,aZ,cache,Balkan Challenge #1,16,14,10,5,6,9,iNation,35,19,1.66 
+2015,12,20,22:30,E-frag.net,iNation,dust2,Rising Stars Balkan #2,16,4,14,1,2,3,iNation,15,17,0.95 
+2015,12,20,19:30,iNation,neXtPlease!,inferno,Rising Stars Balkan #2,16,10,10,5,6,5,iNation,13,17,0.83 
+2015,12,20,19:30,iNation,neXtPlease!,cobblestone,Rising Stars Balkan #2,9,16,9,6,0,10,iNation,14,20,0.75 
+2015,12,20,19:30,neXtPlease!,iNation,mirage,Rising Stars Balkan #2,13,16,11,4,2,12,iNation,23,15,1.28 
+2015,12,20,17:00,iNation,E-frag.net,mirage,Rising Stars Balkan #2,9,16,8,7,1,9,iNation,12,17,0.78 
+2015,12,20,17:00,E-frag.net,iNation,dust2,Rising Stars Balkan #2,16,5,12,3,4,2,iNation,10,18,0.62 
+2015,12,19,17:00,iNation,PhysX,dust2,Rising Stars Balkan #2,16,4,13,2,3,2,iNation,14,8,1.19 
+2015,12,19,17:00,PhysX,iNation,mirage,Rising Stars Balkan #2,7,16,7,8,0,8,iNation,19,11,1.49 
+2015,12,18,20:00,iNation,XPC,dust2,Rising Stars Balkan #2,16,10,11,4,5,6,iNation,16,13,1.03 
+2015,12,18,20:00,XPC,iNation,mirage,Rising Stars Balkan #2,7,16,6,9,1,7,iNation,16,16,0.93 
+2015,09,13,13:45,ARMADA,CSGO-Saloon,cache,Balkan SuperCup #2 LAN Finals,3,16,2,13,1,3,ARMADA,9,18,0.47 
+2015,09,13,13:45,ARMADA,CSGO-Saloon,inferno,Balkan SuperCup #2 LAN Finals,14,16,7,8,7,8,ARMADA,24,19,1.20 
+2015,09,13,13:45,CSGO-Saloon,ARMADA,cobblestone,Balkan SuperCup #2 LAN Finals,12,16,8,7,4,9,ARMADA,17,21,0.88 
+2015,09,13,10:30,FLUGGENKK,ARMADA,cache,Balkan SuperCup #2 LAN Finals,5,16,4,11,1,5,ARMADA,21,10,1.51 
+2015,09,13,10:30,ARMADA,FLUGGENKK,inferno,Balkan SuperCup #2 LAN Finals,16,13,6,9,10,4,ARMADA,20,15,1.19 

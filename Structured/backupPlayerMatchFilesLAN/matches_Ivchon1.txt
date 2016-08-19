@@ -1,0 +1,4 @@
+2016,07,17,02:35,TEAM1231,CS-GO.rs,overpass,GamePub 2016,16,6,12,3,4,3,CS-GO.rs,12,19,0.62 
+2016,07,17,02:35,TEAM1231,CS-GO.rs,cobblestone,GamePub 2016,16,1,14,1,2,0,CS-GO.rs,8,15,0.63 
+2016,07,16,18:50,CS-GO.rs,Executors,cobblestone,GamePub 2016,16,9,8,7,8,2,CS-GO.rs,18,17,0.98 
+2016,07,16,18:50,CS-GO.rs,Executors,dust2,GamePub 2016,22,20,9,6,6,9,CS-GO.rs,22,31,0.78 

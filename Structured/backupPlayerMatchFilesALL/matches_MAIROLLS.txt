@@ -1,0 +1,28 @@
+2016,08,08,15:00,Signature,MiTH,overpass,ESEA Open Season 22 Asia,16,12,13,2,3,10,MiTH,22,21,1.11 
+2016,08,08,15:00,Signature,MiTH,dust2,ESEA Open Season 22 Asia,14,16,5,10,9,6,MiTH,24,20,1.17 
+2016,08,08,15:00,MiTH,Signature,mirage,ESEA Open Season 22 Asia,14,16,5,10,9,6,MiTH,29,19,1.36 
+2016,08,02,13:00,EDG,MiTH,cobblestone,E-Sports Festival CS:GO Tourna..,16,13,6,9,10,4,MiTH,14,21,0.73 
+2016,08,02,13:00,EDG,MiTH,mirage,E-Sports Festival CS:GO Tourna..,16,7,13,2,3,5,MiTH,10,18,0.64 
+2016,07,27,15:00,dream[S]cape,MiTH,mirage,MixBOT Pro-League Golden,16,10,8,7,8,3,MiTH,23,21,1.21 
+2016,07,27,15:00,dream[S]cape,MiTH,train,MixBOT Pro-League Golden,19,17,11,4,4,11,MiTH,21,25,0.87 
+2016,07,24,15:00,B.O.O.T,MiTH,mirage,MixBOT Pro-League Golden,16,11,10,5,6,6,MiTH,9,19,0.61 
+2016,07,24,15:00,B.O.O.T,MiTH,cobblestone,MixBOT Pro-League Golden,16,14,3,12,13,2,MiTH,18,20,0.91 
+2016,07,13,14:30,Thailand,Mongolia,cache,World Championships 2016 Asian..,15,19,5,10,10,5,Thailand,14,28,0.52 
+2016,07,13,14:30,Thailand,Mongolia,dust2,World Championships 2016 Asian..,9,16,4,11,5,5,Thailand,11,20,0.55 
+2016,07,13,14:30,Mongolia,Thailand,mirage,World Championships 2016 Asian..,8,16,5,10,3,6,Thailand,21,14,1.24 
+2016,07,13,13:30,Thailand,HongKong,cache,World Championships 2016 Asian..,16,7,11,4,5,3,Thailand,17,13,1.12 
+2016,07,13,11:00,Thailand,Mongolia,dust2,World Championships 2016 Asian..,12,16,6,9,6,7,Thailand,9,19,0.59 
+2016,06,18,12:00,Signature,MiTH,nuke,MixBOT Pro-League Golden,16,11,10,5,6,6,MiTH,18,21,1.02 
+2016,06,18,12:00,Signature,MiTH,cobblestone,MixBOT Pro-League Golden,16,14,8,7,8,7,MiTH,16,23,0.79 
+2016,06,18,12:00,MiTH,Signature,mirage,MixBOT Pro-League Golden,19,16,13,2,2,13,MiTH,22,25,0.87 
+2016,06,16,15:20,MiTH,MVP.karnal,cobblestone,MixBOT Pro-League Golden,8,16,7,8,1,8,MiTH,11,19,0.63 
+2016,06,16,15:20,MVP.karnal,MiTH,dust2,MixBOT Pro-League Golden,16,12,6,9,10,3,MiTH,20,20,0.93 
+2016,03,12,13:30,MiTH,Signature,overpass,DreamHack Masters Malmö 2016 A..,12,16,10,5,2,11,MiTH,17,23,0.76 
+2016,02,27,13:00,MiTH,dream[S]cape,cobblestone,Born To Win Invitational Leagu..,14,16,3,12,11,4,MiTH,22,21,1.01 
+2016,02,27,13:00,MiTH,dream[S]cape,dust2,Born To Win Invitational Leagu..,14,16,10,5,4,11,MiTH,16,22,0.80 
+2016,02,27,13:00,dream[S]cape,MiTH,cache,Born To Win Invitational Leagu..,5,16,5,10,0,6,MiTH,22,12,1.56 
+2016,02,26,14:00,J2G,MiTH,cobblestone,Born To Win Invitational Leagu..,16,3,12,3,4,0,MiTH,11,17,0.69 
+2016,02,26,14:00,MiTH,J2G,mirage,Born To Win Invitational Leagu..,12,16,7,8,5,8,MiTH,18,22,0.86 
+2016,02,26,14:00,J2G,MiTH,overpass,Born To Win Invitational Leagu..,10,16,4,11,6,5,MiTH,24,16,1.40 
+2016,02,20,15:00,MiTH,dream[S]cape,mirage,Born To Win Invitational Leagu..,16,8,13,2,3,6,MiTH,15,16,0.99 
+2016,02,20,13:30,Risky,MiTH,mirage,Born To Win Invitational Leagu..,13,16,6,9,7,7,MiTH,22,20,1.11 

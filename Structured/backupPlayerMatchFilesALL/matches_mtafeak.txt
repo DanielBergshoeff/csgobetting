@@ -1,0 +1,11 @@
+2016,01,10,12:00,Deathtrap,FlipSid3,cache,DreamHack Open Leipzig 2016 Cl..,4,16,4,11,0,5,Deathtrap,10,18,0.53 
+2016,01,10,12:00,Deathtrap,FlipSid3,train,DreamHack Open Leipzig 2016 Cl..,17,21,5,10,10,5,Deathtrap,23,30,0.77 
+2015,08,29,15:00,Turkey,Georgia,mirage,World Championships 2015 Europ..,16,10,10,5,6,5,Turkey,22,15,1.28 
+2015,08,29,15:00,Georgia,Turkey,dust2,World Championships 2015 Europ..,16,11,8,7,8,4,Turkey,19,20,0.99 
+2015,08,29,15:00,Georgia,Turkey,cache,World Championships 2015 Europ..,10,16,7,8,3,8,Turkey,16,19,0.85 
+2015,04,20,18:00,TRICKED,WMTF,cobblestone,ESL South East Europe Champion..,8,16,3,12,5,4,WMTF,16,17,0.95 
+2015,04,20,18:00,TRICKED,WMTF,inferno,ESL South East Europe Champion..,16,5,12,3,4,2,WMTF,6,18,0.36 
+2015,04,20,18:00,TRICKED,WMTF,mirage,ESL South East Europe Champion..,10,16,7,8,3,8,WMTF,19,19,0.96 
+2015,04,16,18:00,Wrecking,WMTF,cache,ESL South East Europe Champion..,5,16,4,11,1,5,WMTF,15,11,1.12 
+2015,04,16,18:00,Wrecking,WMTF,mirage,ESL South East Europe Champion..,11,16,10,5,1,11,WMTF,24,14,1.33 
+2015,04,16,18:00,WMTF,Wrecking,inferno,ESL South East Europe Champion..,14,16,12,3,2,13,WMTF,16,23,0.87 

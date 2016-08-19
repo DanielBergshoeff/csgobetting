@@ -1,0 +1,45 @@
+2016,07,02,16:45,LDLC,Millenium,cobblestone,ESL National Championship Fran..,16,9,9,6,7,3,LDLC,22,14,1.40 
+2016,07,02,16:45,LDLC,Millenium,cache,ESL National Championship Fran..,16,14,4,11,12,3,LDLC,19,22,0.88 
+2016,07,02,11:15,WEGOTGAME,LDLC,dust2,ESL National Championship Fran..,10,16,4,11,6,5,LDLC,15,13,1.00 
+2016,07,02,11:15,LDLC,WEGOTGAME,cache,ESL National Championship Fran..,16,12,4,11,12,1,LDLC,18,17,0.90 
+2016,02,12,18:00,ALTERNATEaTTaX,LDLCWhite,mirage,Acer Predator Masters powered ..,16,10,11,4,5,6,LDLC White,13,20,0.67 
+2016,02,12,18:00,ALTERNATEaTTaX,LDLCWhite,cobblestone,Acer Predator Masters powered ..,7,16,6,9,1,7,LDLC White,20,13,1.21 
+2016,02,12,18:00,LDLCWhite,ALTERNATEaTTaX,cache,Acer Predator Masters powered ..,16,21,6,9,9,6,LDLC White,16,31,0.56 
+2016,02,11,19:00,mousesports,LDLCWhite,cobblestone,Acer Predator Masters powered ..,16,13,8,7,8,6,LDLC White,31,18,1.50 
+2016,02,11,19:00,mousesports,LDLCWhite,dust2,Acer Predator Masters powered ..,21,18,5,10,10,5,LDLC White,19,27,0.72 
+2016,02,06,21:30,LDLCWhite,ENCE,cache,Assembly Winter 2016,16,7,11,4,5,3,LDLC White,19,11,1.32 
+2016,02,06,21:30,LDLCWhite,ENCE,dust2,Assembly Winter 2016,16,10,7,8,9,2,LDLC White,20,12,1.24 
+2016,02,06,13:00,LDLCWhite,LDLCBlue,mirage,Assembly Winter 2016,16,9,9,6,7,3,LDLC White,25,16,1.36 
+2016,02,06,13:00,LDLCBlue,LDLCWhite,cobblestone,Assembly Winter 2016,2,16,2,13,0,3,LDLC White,13,8,1.12 
+2016,02,05,21:45,EpiphanyBolt,LDLCWhite,inferno,Assembly Winter 2016,13,16,9,6,4,10,LDLC White,21,19,0.97 
+2016,02,05,21:45,EpiphanyBolt,LDLCWhite,dust2,Assembly Winter 2016,1,16,1,14,0,2,LDLC White,13,5,1.39 
+2016,02,05,17:00,ENCE,LDLCWhite,cobblestone,Assembly Winter 2016,16,14,6,9,10,5,LDLC White,18,18,0.94 
+2016,02,05,15:00,EpiphanyBolt,LDLCWhite,cobblestone,Assembly Winter 2016,14,16,6,9,8,7,LDLC White,22,18,1.04 
+2016,01,29,15:15,CG,LDLCWhite,cache,PGL Regional Minor Championshi..,16,13,10,5,6,8,LDLC White,13,19,0.66 
+2016,01,29,13:30,LDLCWhite,PENTA,cache,PGL Regional Minor Championshi..,13,16,9,6,4,10,LDLC White,11,20,0.63 
+2015,10,09,20:30,Belgium,Norway,dust2,World Championships 2015,12,16,5,10,7,6,Belgium,17,22,0.81 
+2015,10,09,20:30,Norway,Belgium,inferno,World Championships 2015,16,19,9,6,6,9,Belgium,25,23,1.09 
+2015,10,09,20:30,Belgium,Norway,mirage,World Championships 2015,16,19,8,7,7,8,Belgium,16,28,0.63 
+2015,10,09,15:15,Belgium,Singapore,dust2,World Championships 2015,16,6,9,6,7,0,Belgium,21,13,1.29 
+2015,10,09,13:45,Belgium,Canada,train,World Championships 2015,9,16,9,6,0,10,Belgium,20,19,1.05 
+2015,07,10,19:00,NiP,LDLCWhite,cache,ESWC 2015,16,8,11,4,5,4,LDLC White,14,21,0.71 
+2015,07,10,17:30,LDLCWhite,QeeYou,inferno,ESWC 2015,13,16,8,7,5,9,LDLC White,16,20,0.91 
+2015,07,10,16:00,LDLCWhite,Liquid,train,ESWC 2015,13,16,4,11,9,5,LDLC White,26,21,1.15 
+2015,05,09,22:30,HellRaisers,LDLCWhite,cache,DreamHack Open Tours 2015,16,14,8,7,8,7,LDLC White,14,20,0.74 
+2015,05,09,20:30,LDLCWhite,EnVyUs,inferno,DreamHack Open Tours 2015,22,25,5,10,10,5,LDLC White,42,30,1.33 
+2015,05,09,10:00,LDLCWhite,Awsomniac,cobblestone,DreamHack Open Tours 2015 BYOC..,16,14,10,5,6,9,LDLC White,26,22,1.27 
+2015,05,08,20:30,LDLCBlue,LDLCWhite,cobblestone,DreamHack Open Tours 2015 BYOC..,8,16,7,8,1,8,LDLC White,21,14,1.29 
+2015,05,08,19:35,LDLCWhite,beGenius,cache,DreamHack Open Tours 2015 BYOC..,16,9,7,8,9,1,LDLC White,10,16,0.67 
+2014,10,31,16:30,CPHWolves,Platinium,inferno,ESWC 2014,16,6,10,5,6,1,Platinium,16,18,1.02 
+2014,10,31,14:30,KaBuM.TD,Platinium,dust2,ESWC 2014,16,12,10,5,6,7,Platinium,26,21,1.25 
+2014,10,31,12:50,Platinium,NiP,cobblestone,ESWC 2014,16,10,8,7,8,3,Platinium,16,14,1.07 
+2014,10,31,11:30,Platinium,Titan,mirage,ESWC 2014,8,16,8,7,0,9,Platinium,17,21,0.86 
+2014,10,31,09:45,HellRaisers,Platinium,dust2,ESWC 2014,16,12,6,9,10,3,Platinium,11,19,0.67 
+2014,10,29,13:55,LDLC,Platinium,dust2,ESWC 2014 France,16,2,14,1,2,1,Platinium,12,17,0.76 
+2014,10,29,11:35,Platinium,iGamerz,mirage,ESWC 2014 France,16,9,13,2,3,7,Platinium,21,15,1.33 
+2014,10,29,09:30,Platinium,LDLC,inferno,ESWC 2014 France,13,16,9,6,4,10,Platinium,16,22,0.80 
+2014,07,19,11:15,Platinium,k1ck,nuke,DreamHack Valencia 2014,20,22,10,5,5,10,Platinium,20,28,0.73 
+2014,07,19,11:15,Platinium,k1ck,dust2,DreamHack Valencia 2014,14,16,8,7,6,9,Platinium,21,17,1.02 
+2014,07,19,11:15,Platinium,k1ck,inferno,DreamHack Valencia 2014,16,6,10,5,6,1,Platinium,15,7,1.18 
+2014,07,18,22:30,gBots,Platinium,dust2,DreamHack Valencia 2014,6,16,4,11,2,5,Platinium,18,10,1.34 
+2014,07,18,20:25,Epsilon,Platinium,inferno,DreamHack Valencia 2014,16,13,10,5,6,8,Platinium,19,24,0.83 

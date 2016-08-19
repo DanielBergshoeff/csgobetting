@@ -1,0 +1,41 @@
+2016,08,10,16:00,Serbia,Malta,train,World Championships 2016 Europ..,16,4,13,2,3,2,Serbia,22,7,2.03 
+2016,08,10,16:00,Malta,Serbia,cache,World Championships 2016 Europ..,4,16,1,14,3,2,Serbia,10,10,1.00 
+2016,07,17,04:45,TEAM1231,iNation,cache,GamePub 2016,12,16,4,11,8,5,iNation,19,18,0.96 
+2016,07,17,04:45,TEAM1231,iNation,mirage,GamePub 2016,11,16,6,9,5,7,iNation,22,18,1.19 
+2016,07,16,22:30,iNation,faithIN,dust2,GamePub 2016,16,10,8,7,8,3,iNation,26,18,1.35 
+2016,07,16,22:30,faithIN,iNation,cache,GamePub 2016,16,7,8,7,8,0,iNation,16,17,0.87 
+2016,07,16,22:30,iNation,faithIN,train,GamePub 2016,16,6,9,6,7,0,iNation,28,12,1.88 
+2016,07,16,13:00,EZPZ_LS,iNation,cache,GamePub 2016,11,16,6,9,5,7,iNation,17,17,0.98 
+2016,07,16,13:00,iNation,EZPZ_LS,dust2,GamePub 2016,16,4,12,3,4,1,iNation,19,8,1.63 
+2016,05,09,19:00,Deathtrap,iNation,cache,Balkan Championship Season 3,16,5,10,5,6,0,iNation,13,18,0.74 
+2016,03,27,19:00,aimclub,iNation,cache,Balkan Championship Season 3,16,7,11,4,5,3,iNation,9,18,0.68 
+2016,03,22,21:15,iNation,SuperMassive,mirage,Balkan Championship Season 3,16,7,13,2,3,5,iNation,22,16,1.35 
+2016,02,24,19:00,Deathtrap,iNation,train,Balkan Challenge #1,16,10,11,4,5,6,iNation,14,19,0.83 
+2016,02,23,23:00,aZ,iNation,mirage,Balkan Challenge #1,2,16,2,13,0,3,iNation,18,5,1.71 
+2016,02,23,22:00,XPC,iNation,mirage,Balkan Challenge #1,16,7,11,4,5,3,iNation,12,17,0.77 
+2016,02,23,19:00,iNation,aZ,cache,Balkan Challenge #1,16,14,10,5,6,9,iNation,25,19,1.25 
+2015,12,20,22:30,E-frag.net,iNation,dust2,Rising Stars Balkan #2,16,4,14,1,2,3,iNation,11,18,0.66 
+2015,12,20,19:30,iNation,neXtPlease!,inferno,Rising Stars Balkan #2,16,10,10,5,6,5,iNation,19,10,1.25 
+2015,12,20,19:30,iNation,neXtPlease!,cobblestone,Rising Stars Balkan #2,9,16,9,6,0,10,iNation,18,17,1.07 
+2015,12,20,19:30,neXtPlease!,iNation,mirage,Rising Stars Balkan #2,13,16,11,4,2,12,iNation,17,19,0.83 
+2015,12,20,17:00,iNation,E-frag.net,mirage,Rising Stars Balkan #2,9,16,8,7,1,9,iNation,15,19,0.84 
+2015,12,20,17:00,E-frag.net,iNation,dust2,Rising Stars Balkan #2,16,5,12,3,4,2,iNation,12,17,0.66 
+2015,12,19,17:00,iNation,PhysX,dust2,Rising Stars Balkan #2,16,4,13,2,3,2,iNation,26,7,2.23 
+2015,12,19,17:00,PhysX,iNation,mirage,Rising Stars Balkan #2,7,16,7,8,0,8,iNation,20,13,1.26 
+2015,12,18,20:00,iNation,XPC,dust2,Rising Stars Balkan #2,16,10,11,4,5,6,iNation,25,15,1.46 
+2015,12,18,20:00,XPC,iNation,mirage,Rising Stars Balkan #2,7,16,6,9,1,7,iNation,19,16,1.19 
+2015,11,17,22:00,DICKHOUSE,CSGO-Saloon,cache,D!ngIT $2000 Weekly Cup #26,16,9,9,6,7,3,CSGO-Saloon,18,19,0.94 
+2015,11,17,21:00,CSGO-Saloon,CeX,mirage,D!ngIT $2000 Weekly Cup #26,16,6,9,6,7,0,CSGO-Saloon,22,12,1.44 
+2015,11,17,17:30,CSGO-Saloon,malefiQ,inferno,D!ngIT $2000 Weekly Cup #26,16,9,10,5,6,4,CSGO-Saloon,17,14,1.11 
+2015,11,16,20:00,CeX,CSGO-Saloon,mirage,D!ngIT $2000 Weekly Cup #26,16,12,10,5,6,7,CSGO-Saloon,26,21,1.25 
+2015,11,16,20:00,CeX,CSGO-Saloon,dust2,D!ngIT $2000 Weekly Cup #26,16,9,10,5,6,4,CSGO-Saloon,17,20,0.80 
+2015,04,19,18:00,Wrecking,iNation,mirage,ESL South East Europe Champion..,16,9,8,7,8,2,iNation,9,17,0.60 
+2015,04,19,18:00,iNation,Wrecking,inferno,ESL South East Europe Champion..,16,12,7,8,9,4,iNation,29,19,1.46 
+2015,04,19,18:00,Wrecking,iNation,cache,ESL South East Europe Champion..,16,1,14,1,2,0,iNation,3,16,0.23 
+2014,05,25,21:00,iNation,E-Frag,inferno,Gaming Challenge 2014,16,5,11,4,5,1,E-Frag,14,18,0.73 
+2014,05,25,21:00,E-Frag,iNation,mirage,Gaming Challenge 2014,10,16,8,7,2,9,E-Frag,21,18,1.13 
+2014,05,25,15:00,e-Sports.rs,E-Frag,dust2,Gaming Challenge 2014,8,16,7,8,1,8,E-Frag,20,12,1.20 
+2014,05,25,15:00,e-Sports.rs,E-Frag,mirage,Gaming Challenge 2014,14,16,9,6,5,10,E-Frag,32,17,1.52 
+2014,05,25,15:00,E-Frag,e-Sports.rs,inferno,Gaming Challenge 2014,17,19,10,5,5,10,E-Frag,24,25,0.97 
+2014,05,25,11:00,5starz,E-Frag,dust2,Gaming Challenge 2014,4,16,1,14,3,2,E-Frag,14,9,1.21 
+2014,05,25,10:00,volgare,E-Frag,inferno,Gaming Challenge 2014,16,6,13,2,3,4,E-Frag,11,20,0.60 

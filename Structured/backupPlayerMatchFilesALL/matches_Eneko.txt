@@ -1,0 +1,4 @@
+2016,08,10,16:00,Serbia,Malta,train,World Championships 2016 Europ..,16,4,13,2,3,2,Malta,8,16,0.56 
+2016,08,10,16:00,Malta,Serbia,cache,World Championships 2016 Europ..,4,16,1,14,3,2,Malta,13,16,0.82 
+2015,08,13,16:00,Slovenia,Malta,dust2,World Championships 2015 Europ..,16,9,10,5,6,4,Malta,22,22,1.09 
+2015,08,13,16:00,Malta,Slovenia,inferno,World Championships 2015 Europ..,11,16,8,7,3,9,Malta,21,19,1.08 

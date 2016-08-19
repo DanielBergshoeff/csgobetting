@@ -1,0 +1,8 @@
+2016,08,10,02:15,SteamAnalyst,Rush,mirage,ESEA Premier Season 22 North A..,15,19,6,9,9,6,SteamAnalyst,24,25,0.98 
+2016,08,10,02:15,SteamAnalyst,Rush,cobblestone,ESEA Premier Season 22 North A..,7,16,1,14,6,2,SteamAnalyst,11,18,0.63 
+2016,08,05,02:15,SteamAnalyst,Kaliber,cobblestone,ESEA Premier Season 22 North A..,16,13,6,9,10,4,SteamAnalyst,19,21,0.91 
+2016,08,05,02:15,Kaliber,SteamAnalyst,dust2,ESEA Premier Season 22 North A..,3,16,3,12,0,4,SteamAnalyst,14,14,1.04 
+2016,08,05,02:15,SteamAnalyst,Kaliber,cache,ESEA Premier Season 22 North A..,9,16,6,9,3,7,SteamAnalyst,17,18,1.03 
+2015,12,15,03:00,NexusStorm,SteamAnalyst,train,RGN Showseries,9,16,6,9,3,7,SteamAnalyst,13,16,0.77 
+2015,12,15,03:00,NexusStorm,SteamAnalyst,mirage,RGN Showseries,12,16,11,4,1,12,SteamAnalyst,16,21,0.87 
+2015,12,15,03:00,SteamAnalyst,NexusStorm,overpass,RGN Showseries,4,16,4,11,0,5,SteamAnalyst,5,17,0.33 

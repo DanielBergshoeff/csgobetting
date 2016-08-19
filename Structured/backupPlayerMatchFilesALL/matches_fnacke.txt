@@ -1,0 +1,7 @@
+2016,03,24,17:00,naptoR.Factory,FoxStratos,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Fox Stratos,10,17,0.64 
+2016,03,24,15:30,Preparation,FoxStratos,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,13,6,9,10,4,Fox Stratos,18,18,0.91 
+2016,03,24,13:00,naptoR.Factory,FoxStratos,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,4,11,1,5,Fox Stratos,23,12,1.71 
+2014,12,18,19:50,Titan,Orbit,cache,ESL Pro League Winter 2014/15,16,11,7,8,9,3,Orbit,15,21,0.71 
+2014,12,18,19:50,Orbit,Titan,mirage,ESL Pro League Winter 2014/15,9,16,7,8,2,8,Orbit,6,20,0.36 
+2014,09,28,18:00,PENTA,AliGon,dust2,Fragbite Masters Season 3 Qual..,16,8,12,3,4,5,AliGon,10,21,0.50 
+2014,09,15,00:10,FiMAGi,ALTERNATEaTTaX,cache,DreamHack Stockholm 2014 FACEI..,7,16,7,8,0,8,FiMAGi,16,19,0.82 

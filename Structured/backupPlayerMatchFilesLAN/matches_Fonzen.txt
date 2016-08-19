@@ -1,0 +1,9 @@
+2016,03,24,17:00,EasternVikings,Isak,inferno,Copenhagen Games 2016 BYOC Qua..,14,16,6,9,8,7,Eastern Vikings,22,22,0.98 
+2016,03,24,15:30,WarMonkeys,EasternVikings,cobblestone,Copenhagen Games 2016 BYOC Qua..,12,16,7,8,5,8,Eastern Vikings,22,18,1.16 
+2016,03,24,13:00,EasternVikings,Fragsters,dust2,Copenhagen Games 2016 BYOC Qua..,13,16,5,10,8,6,Eastern Vikings,23,19,1.10 
+2015,04,02,23:10,Frederiksberg,schlaegeros,mirage,Copenhagen Games 2015,7,16,5,10,2,6,Frederiksberg,14,20,0.74 
+2015,04,02,21:40,Frederiksberg,Sespåmermaid,overpass,Copenhagen Games 2015,16,11,9,6,7,5,Frederiksberg,18,15,1.11 
+2015,04,02,19:00,Games4u,Frederiksberg,mirage,Copenhagen Games 2015,16,8,11,4,5,4,Frederiksberg,14,20,0.77 
+2015,04,02,17:00,1.Holdet,Frederiksberg,nuke,Copenhagen Games 2015,9,16,8,7,1,9,Frederiksberg,20,17,1.02 
+2015,04,02,16:00,Frederiksberg,schlaegeros,dust2,Copenhagen Games 2015,12,16,9,6,3,10,Frederiksberg,12,22,0.55 
+2015,04,02,14:00,Frederiksberg,1.Holdet,inferno,Copenhagen Games 2015,25,23,6,9,9,6,Frederiksberg,36,31,1.04 

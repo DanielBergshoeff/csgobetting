@@ -1,0 +1,5 @@
+2014,10,31,17:30,Cipangu.GO,mousesports,cache,ESWC 2014,4,16,3,12,1,4,Cipangu.GO,10,18,0.59 
+2014,10,31,15:30,GPlay,Cipangu.GO,nuke,ESWC 2014,16,2,15,0,1,2,Cipangu.GO,12,16,0.78 
+2014,10,31,12:40,Cipangu.GO,dignitas,nuke,ESWC 2014,9,16,9,6,0,10,Cipangu.GO,9,18,0.55 
+2014,10,31,11:30,3DMAX,Cipangu.GO,cache,ESWC 2014,16,2,13,2,3,0,Cipangu.GO,4,17,0.23 
+2014,10,31,10:30,Cipangu.GO,iBUYPOWER,inferno,ESWC 2014,1,16,1,14,0,2,Cipangu.GO,4,16,0.24 

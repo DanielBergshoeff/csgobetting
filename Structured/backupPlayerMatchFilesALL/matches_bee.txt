@@ -1,0 +1,22 @@
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,dust2,Fragadelphia 8,16,10,10,5,6,5,Bee's Money Crew,10,17,0.63 
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,train,Fragadelphia 8,16,14,7,8,9,6,Bee's Money Crew,19,22,0.84 
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,cobblestone,Fragadelphia 8,12,16,6,9,6,7,Bee's Money Crew,20,22,0.83 
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,inferno,Fragadelphia 8,16,8,10,5,6,3,Bee's Money Crew,24,14,1.56 
+2016,04,14,02:00,Bee'sMoneyCrew,compLexity,mirage,CEVO Gfinity Professional Seas..,10,16,4,11,6,5,Bee's Money Crew,14,19,0.71 
+2016,04,14,02:00,Bee'sMoneyCrew,compLexity,cobblestone,CEVO Gfinity Professional Seas..,16,10,10,5,6,5,Bee's Money Crew,15,17,0.81 
+2016,04,14,02:00,Bee'sMoneyCrew,compLexity,cache,CEVO Gfinity Professional Seas..,7,16,7,8,0,8,Bee's Money Crew,9,21,0.50 
+2016,03,11,03:15,TempoStorm,8Minded,cobblestone,CEVO Gfinity Professional Seas..,16,9,11,4,5,5,8 Minded,9,21,0.45 
+2016,03,11,03:15,TempoStorm,8Minded,dust2,CEVO Gfinity Professional Seas..,16,11,11,4,5,7,8 Minded,17,21,0.88 
+2016,03,10,06:00,AGG,8Minded,mirage,Stream.me Gauntlet ,16,3,14,1,2,2,8 Minded,7,17,0.49 
+2016,02,25,04:00,Bee'sMoneyCrew,myRevenge,dust2,Stream.me Gauntlet ,16,10,7,8,9,2,Bee's Money Crew,17,16,0.95 
+2016,02,25,04:00,myRevenge,Bee'sMoneyCrew,cache,Stream.me Gauntlet ,9,16,6,9,3,7,Bee's Money Crew,14,13,1.00 
+2016,02,19,03:54,Bee'sMoneyCrew,Enemy,cache,CEVO Gfinity Professional Seas..,10,16,3,12,7,4,Bee's Money Crew,11,23,0.49 
+2016,02,19,03:54,Enemy,Bee'sMoneyCrew,mirage,CEVO Gfinity Professional Seas..,16,5,10,5,6,0,Bee's Money Crew,14,18,0.76 
+2016,02,15,02:00,Bee'sMoneyCrew,Vault,dust2,CEVO Gfinity Professional Seas..,5,16,2,13,3,3,Bee's Money Crew,12,15,0.77 
+2016,02,15,02:00,Bee'sMoneyCrew,Vault,mirage,CEVO Gfinity Professional Seas..,16,12,9,6,7,6,Bee's Money Crew,17,20,0.89 
+2016,02,15,02:00,Bee'sMoneyCrew,Vault,cobblestone,CEVO Gfinity Professional Seas..,11,16,9,6,2,10,Bee's Money Crew,19,22,0.91 
+2015,11,17,08:00,NexusStorm,Cloud9,cache,RGN Pro Series Championship,2,16,2,13,0,3,Nexus Storm,10,17,0.64 
+2015,11,17,06:45,compLexity,NexusStorm,dust2,RGN Pro Series Championship,15,15,3,12,12,3,Nexus Storm,24,22,1.18 
+2015,11,17,05:00,Method,NexusStorm,mirage,RGN Pro Series Championship,16,10,9,6,7,4,Nexus Storm,9,19,0.53 
+2015,09,30,04:00,Swarm,Enemy,mirage,RGN Freedom Cup,16,13,10,5,6,8,Swarm,26,20,1.38 
+2015,09,24,03:00,compLexity,Misery,train,RGN Freedom Cup,16,3,12,3,4,0,Misery,10,18,0.60 

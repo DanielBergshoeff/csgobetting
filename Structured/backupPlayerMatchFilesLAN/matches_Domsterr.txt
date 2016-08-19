@@ -1,0 +1,30 @@
+2016,07,31,11:45,Aperture,Bravado,cobblestone,ESWC 2016 South African Qualif..,12,16,7,8,5,8,Aperture,22,20,1.10 
+2016,07,31,11:45,Bravado,Aperture,train,ESWC 2016 South African Qualif..,16,10,10,5,6,5,Aperture,16,19,0.82 
+2016,07,30,16:45,FlipSid3,Aperture,train,ESWC 2016 South African Qualif..,1,16,1,14,0,2,Aperture,17,9,1.53 
+2016,07,30,16:45,FlipSid3,Aperture,cache,ESWC 2016 South African Qualif..,7,16,7,8,0,8,Aperture,13,13,0.90 
+2016,07,29,18:30,eNergy,Aperture,cache,ESWC 2016 South African Qualif..,14,16,8,7,6,9,Aperture,35,17,1.71 
+2016,07,29,18:30,eNergy,Aperture,train,ESWC 2016 South African Qualif..,13,16,7,8,6,8,Aperture,22,15,1.25 
+2016,07,29,11:30,Veneration,Aperture,mirage,ESWC 2016 South African Qualif..,2,16,1,14,1,2,Aperture,17,9,1.36 
+2016,07,29,11:30,Aperture,Veneration,cobblestone,ESWC 2016 South African Qualif..,16,1,15,0,1,1,Aperture,23,9,1.92 
+2016,03,20,13:00,Bravado,Aperture,mirage,Telkom DGL Masters 2016 Cape T..,16,2,15,0,1,2,Aperture,13,16,0.89 
+2016,03,20,13:00,Aperture,Bravado,overpass,Telkom DGL Masters 2016 Cape T..,17,19,6,9,9,6,Aperture,38,27,1.47 
+2016,02,14,12:50,Aperture,Bravado,dust2,GWZA Season 1 Finals,9,16,5,10,4,6,Aperture,17,19,0.90 
+2016,02,14,12:50,Bravado,Aperture,inferno,GWZA Season 1 Finals,16,12,7,8,9,4,Aperture,23,15,1.19 
+2016,02,14,09:30,carboN,Aperture,cache,GWZA Season 1 Finals,13,16,5,10,8,6,Aperture,28,18,1.52 
+2016,02,14,09:30,carboN,Aperture,mirage,GWZA Season 1 Finals,14,16,11,4,3,12,Aperture,24,20,1.17 
+2016,02,13,22:25,Aperture,Bravado,cache,GWZA Season 1 Finals,7,16,4,11,3,5,Aperture,12,18,0.69 
+2016,02,13,22:25,Bravado,Aperture,inferno,GWZA Season 1 Finals,16,12,9,6,7,6,Aperture,16,18,0.93 
+2016,02,13,13:45,eNergy,Aperture,train,GWZA Season 1 Finals,12,16,9,6,3,10,Aperture,22,17,1.10 
+2016,02,13,13:45,Aperture,eNergy,inferno,GWZA Season 1 Finals,16,8,9,6,7,2,Aperture,18,16,1.09 
+2016,02,13,13:45,Aperture,eNergy,mirage,GWZA Season 1 Finals,6,16,5,10,1,6,Aperture,17,18,0.95 
+2015,12,12,19:30,MDK,Aperture,mirage,BHG CS:GO Tournament,5,16,4,11,1,5,Aperture,20,9,1.59 
+2015,12,12,19:30,MDK,Aperture,inferno,BHG CS:GO Tournament,4,16,1,14,3,2,Aperture,15,13,1.12 
+2015,12,12,13:30,Aperture,xTc,cobblestone,BHG CS:GO Tournament,16,9,8,7,8,2,Aperture,22,14,1.26 
+2015,12,12,13:30,xTc,Aperture,inferno,BHG CS:GO Tournament,4,16,4,11,0,5,Aperture,15,10,1.12 
+2015,12,12,09:00,onlineBots,Aperture,cache,BHG CS:GO Tournament,1,16,1,14,0,2,Aperture,14,5,1.43 
+2015,12,12,09:00,onlineBots,Aperture,mirage,BHG CS:GO Tournament,0,16,0,15,0,1,Aperture,19,7,1.74 
+2015,10,03,19:30,eNergy,Aperture,inferno,MWEB GameZone Masters Series,16,0,15,0,1,0,Aperture,5,16,0.26 
+2015,10,03,19:30,Aperture,eNergy,mirage,MWEB GameZone Masters Series,16,5,10,5,6,0,Aperture,22,13,1.43 
+2015,10,03,19:30,eNergy,Aperture,overpass,MWEB GameZone Masters Series,16,3,13,2,3,1,Aperture,7,18,0.35 
+2015,10,03,16:15,Aperture,carboN,inferno,MWEB GameZone Masters Series,10,16,7,8,3,8,Aperture,20,16,1.34 
+2015,10,03,16:15,Aperture,carboN,cache,MWEB GameZone Masters Series,9,16,8,7,1,9,Aperture,14,18,0.86 

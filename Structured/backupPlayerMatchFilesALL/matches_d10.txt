@@ -1,0 +1,4 @@
+2016,08,15,19:10,HWA,Millennium,dust2,WESG 2016 Turkey,14,16,9,6,5,10,Millennium,24,19,1.12 
+2016,08,15,19:10,HWA,Millennium,cobblestone,WESG 2016 Turkey,10,16,6,9,4,7,Millennium,22,16,1.13 
+2016,08,14,22:30,Millennium,DarkPassage,mirage,WESG 2016 Turkey,6,16,6,9,0,7,Millennium,21,19,1.17 
+2016,08,14,22:30,DarkPassage,Millennium,cobblestone,WESG 2016 Turkey,25,23,8,7,7,8,Millennium,38,33,1.19 

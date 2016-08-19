@@ -1,0 +1,13 @@
+2016,06,13,17:00,RCTIC,Lioncast,cache,RGN Pro Series II EU Closed Qu..,16,2,14,1,2,1,Lioncast,6,17,0.36 
+2016,06,13,17:00,Lioncast,RCTIC,cobblestone,RGN Pro Series II EU Closed Qu..,8,16,4,11,4,5,Lioncast,11,18,0.64 
+2016,05,25,21:15,FiVe,Deathtrap,cache,RGN Pro Series II EU Closed Qu..,7,16,7,8,0,8,FiVe,9,20,0.46 
+2016,05,25,21:15,Deathtrap,FiVe,cobblestone,RGN Pro Series II EU Closed Qu..,16,11,7,8,9,3,FiVe,12,23,0.60 
+2016,05,17,22:15,RCTIC,LeiSuRe,inferno,RGN Pro Series II EU Closed Qu..,8,16,4,11,4,5,LeiSuRe,18,17,1.11 
+2016,05,17,22:15,RCTIC,LeiSuRe,dust2,RGN Pro Series II EU Closed Qu..,16,13,7,8,9,5,LeiSuRe,10,24,0.49 
+2016,05,17,22:15,LeiSuRe,RCTIC,cache,RGN Pro Series II EU Closed Qu..,16,4,11,4,5,0,LeiSuRe,19,9,1.45 
+2016,03,11,23:50,eSuba,LeiSuRe,mirage,Razer Rising Stars European Le..,16,4,13,2,3,2,LeiSuRe,10,19,0.66 
+2016,03,11,20:00,LeiSuRe,FluffyGangsters,dust2,Razer Rising Stars European Le..,16,14,5,10,11,4,LeiSuRe,22,22,0.98 
+2015,06,28,16:20,INSHOCK,uX,mirage,ESL One Cologne 2015 EU pre-qu..,25,23,10,5,5,10,uX,19,37,0.53 
+2015,06,28,16:20,uX,INSHOCK,dust2,ESL One Cologne 2015 EU pre-qu..,16,11,7,8,9,3,uX,11,17,0.73 
+2015,06,28,16:20,uX,INSHOCK,cobblestone,ESL One Cologne 2015 EU pre-qu..,4,16,4,11,0,5,uX,10,17,0.63 
+2015,06,03,21:00,k1ck,uX,overpass,CEVO Main Season 7,8,16,8,7,0,9,uX,21,18,1.18 

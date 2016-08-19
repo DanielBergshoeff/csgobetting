@@ -1,0 +1,4 @@
+2016,03,28,22:50,visomvet,RAIDERS,cache,Yoggi Yalla Cup,16,10,7,8,9,2,RAIDERS,17,23,0.82 
+2016,03,28,22:50,visomvet,RAIDERS,mirage,Yoggi Yalla Cup,16,11,14,1,2,10,RAIDERS,14,22,0.63 
+2016,03,11,22:30,KoNSweden,KoNFinland,dust2,King of Nordic Season 3,16,11,8,7,8,4,KoN Finland,13,23,0.57 
+2016,03,11,21:30,KoNFinland,KoNDenmark,cache,King of Nordic Season 3,16,12,7,8,9,4,KoN Finland,23,19,1.24 

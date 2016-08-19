@@ -1,0 +1,32 @@
+2016,07,30,14:00,eNergy,Bravado,train,ESWC 2016 South African Qualif..,2,16,2,13,0,3,eNergy,5,18,0.26 
+2016,07,30,14:00,Bravado,eNergy,overpass,ESWC 2016 South African Qualif..,16,12,8,7,8,5,eNergy,15,22,0.75 
+2016,07,30,11:40,eNergy,WhiteRabbit,overpass,ESWC 2016 South African Qualif..,16,14,6,9,10,5,eNergy,7,22,0.45 
+2016,07,29,18:30,eNergy,Aperture,cache,ESWC 2016 South African Qualif..,14,16,8,7,6,9,eNergy,17,21,0.78 
+2016,07,29,18:30,eNergy,Aperture,train,ESWC 2016 South African Qualif..,13,16,7,8,6,8,eNergy,21,21,1.11 
+2016,03,24,17:00,OBEY,eNergy,inferno,Copenhagen Games 2016 BYOC Qua..,16,7,10,5,6,2,eNergy,16,20,0.84 
+2016,03,24,15:30,eNergy,WDHA,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,7,12,3,4,4,eNergy,17,11,1.27 
+2016,03,24,13:00,OBEY,eNergy,dust2,Copenhagen Games 2016 BYOC Qua..,16,14,8,7,8,7,eNergy,10,20,0.57 
+2016,02,13,18:00,carboN,eNergy,inferno,GWZA Season 1 Finals,16,11,9,6,7,5,eNergy,19,18,0.99 
+2016,02,13,18:00,eNergy,carboN,cobblestone,GWZA Season 1 Finals,16,14,9,6,7,8,eNergy,18,20,0.83 
+2016,02,13,18:00,carboN,eNergy,mirage,GWZA Season 1 Finals,16,14,9,6,7,8,eNergy,23,22,0.99 
+2016,02,13,13:45,eNergy,Aperture,train,GWZA Season 1 Finals,12,16,9,6,3,10,eNergy,13,18,0.87 
+2016,02,13,13:45,Aperture,eNergy,inferno,GWZA Season 1 Finals,16,8,9,6,7,2,eNergy,11,19,0.58 
+2016,02,13,13:45,Aperture,eNergy,mirage,GWZA Season 1 Finals,6,16,5,10,1,6,eNergy,13,15,0.86 
+2015,12,12,13:30,PewPew-Armada,eNergy,inferno,BHG CS:GO Tournament,2,16,2,13,0,3,eNergy,16,8,1.49 
+2015,12,12,13:30,PewPew-Armada,eNergy,cache,BHG CS:GO Tournament,8,16,4,11,4,5,eNergy,23,11,1.51 
+2015,10,03,19:30,eNergy,Aperture,inferno,MWEB GameZone Masters Series,16,0,15,0,1,0,eNergy,12,3,1.58 
+2015,10,03,19:30,Aperture,eNergy,mirage,MWEB GameZone Masters Series,16,5,10,5,6,0,eNergy,7,19,0.41 
+2015,10,03,19:30,eNergy,Aperture,overpass,MWEB GameZone Masters Series,16,3,13,2,3,1,eNergy,12,13,0.94 
+2015,10,03,13:45,Bravado,eNergy,dust2,MWEB GameZone Masters Series,16,2,14,1,2,1,eNergy,11,17,0.59 
+2015,10,03,13:45,eNergy,Bravado,mirage,MWEB GameZone Masters Series,9,16,8,7,1,9,eNergy,14,19,0.78 
+2014,10,30,17:00,eNergy,LondonC,cache,ESWC 2014,7,16,4,11,3,5,eNergy,10,21,0.46 
+2014,10,30,15:00,NatusVincere,eNergy,nuke,ESWC 2014,16,10,14,1,2,9,eNergy,14,17,0.77 
+2014,10,30,13:25,k1ck,eNergy,cache,ESWC 2014,16,8,12,3,4,5,eNergy,12,18,0.72 
+2014,10,30,12:00,fnatic,eNergy,mirage,ESWC 2014,16,1,14,1,2,0,eNergy,3,17,0.18 
+2014,10,30,10:30,eNergy,pow,inferno,ESWC 2014,5,16,2,13,3,3,eNergy,12,16,0.78 
+2014,10,11,20:45,eNergy,DamageControl,mirage,Telkom Gaming CS:GO Championsh..,19,22,10,5,5,10,eNergy,22,27,0.84 
+2014,10,11,20:45,DamageControl,eNergy,dust2,Telkom Gaming CS:GO Championsh..,16,7,12,3,4,4,eNergy,11,20,0.53 
+2014,10,11,20:45,eNergy,DamageControl,cache,Telkom Gaming CS:GO Championsh..,16,3,12,3,4,0,eNergy,13,12,1.09 
+2014,10,11,17:00,eNergy,Bravado,nuke,Telkom Gaming CS:GO Championsh..,17,19,13,2,2,13,eNergy,27,23,1.13 
+2014,10,11,17:00,Bravado,eNergy,cache,Telkom Gaming CS:GO Championsh..,12,16,12,3,0,13,eNergy,21,22,0.93 
+2014,10,11,17:00,eNergy,Bravado,dust2,Telkom Gaming CS:GO Championsh..,14,16,5,10,9,6,eNergy,13,24,0.56 

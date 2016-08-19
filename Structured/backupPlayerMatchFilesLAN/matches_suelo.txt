@@ -1,0 +1,13 @@
+2015,04,04,10:00,myKPV,SpaceSoldiers,nuke,Copenhagen Games 2015,13,16,12,3,1,13,myKPV,16,22,0.82 
+2015,04,03,22:30,myKPV,FUGL?,nuke,Copenhagen Games 2015,16,3,12,3,4,0,myKPV,17,7,1.51 
+2015,04,03,19:00,Publiclir.se,myKPV,inferno,Copenhagen Games 2015,16,14,9,6,7,8,myKPV,17,19,1.02 
+2015,04,03,19:00,Publiclir.se,myKPV,cache,Copenhagen Games 2015,16,14,9,6,7,8,myKPV,20,24,1.01 
+2015,04,03,15:30,Lions,myKPV,mirage,Copenhagen Games 2015,8,16,8,7,0,9,myKPV,14,16,0.90 
+2015,04,03,15:30,myKPV,Lions,inferno,Copenhagen Games 2015,16,14,5,10,11,4,myKPV,19,22,0.84 
+2015,04,03,12:00,Publiclir.se,myKPV,mirage,Copenhagen Games 2015,16,12,9,6,7,6,myKPV,17,22,0.79 
+2015,04,03,12:00,myKPV,Publiclir.se,cache,Copenhagen Games 2015,10,16,7,8,3,8,myKPV,18,21,0.82 
+2015,04,03,12:00,myKPV,Publiclir.se,inferno,Copenhagen Games 2015,16,11,11,4,5,7,myKPV,13,19,0.75 
+2015,04,02,20:30,myKPV,Lions,cache,Copenhagen Games 2015,16,6,10,5,6,1,myKPV,20,15,1.18 
+2015,04,02,19:00,myKPV,partyastronauts,inferno,Copenhagen Games 2015,16,4,12,3,4,1,myKPV,11,11,1.09 
+2015,04,02,14:00,myKPV,re:take,dust2,Copenhagen Games 2015,16,10,12,3,4,7,myKPV,14,18,0.88 
+2015,04,02,14:00,myKPV,re:take,inferno,Copenhagen Games 2015,16,9,11,4,5,5,myKPV,21,15,1.21 

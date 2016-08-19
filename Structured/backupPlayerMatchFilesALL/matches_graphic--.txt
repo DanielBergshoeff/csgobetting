@@ -1,0 +1,15 @@
+2015,05,25,18:00,Wrecking,neXtPlease!,cache,Balkan Championship Season 2,5,16,4,11,1,5,Wrecking,7,17,0.49 
+2015,05,25,18:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,15,19,9,6,6,9,Wrecking,24,24,1.02 
+2015,05,14,17:00,GPlay,Wrecking,mirage,Balkan Championship Season 2,16,3,12,3,4,0,Wrecking,15,18,0.89 
+2015,05,14,17:00,GPlay,Wrecking,inferno,Balkan Championship Season 2,16,1,14,1,2,0,Wrecking,2,17,0.10 
+2015,05,11,22:00,neXtPlease!,Wrecking,cache,Balkan Championship Season 2,8,16,8,7,0,9,Wrecking,14,15,0.84 
+2015,05,11,22:00,neXtPlease!,Wrecking,mirage,Balkan Championship Season 2,16,8,9,6,7,2,Wrecking,11,18,0.64 
+2015,05,11,22:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,16,8,13,2,3,6,Wrecking,17,12,1.17 
+2015,04,19,21:45,Wrecking,TRICKED,inferno,ESL South East Europe Champion..,9,16,8,7,1,9,Wrecking,14,19,0.78 
+2015,04,19,21:45,Wrecking,TRICKED,mirage,ESL South East Europe Champion..,10,16,6,9,4,7,Wrecking,9,20,0.50 
+2015,04,19,18:00,Wrecking,iNation,mirage,ESL South East Europe Champion..,16,9,8,7,8,2,Wrecking,19,15,1.08 
+2015,04,19,18:00,iNation,Wrecking,inferno,ESL South East Europe Champion..,16,12,7,8,9,4,Wrecking,24,22,1.02 
+2015,04,19,18:00,Wrecking,iNation,cache,ESL South East Europe Champion..,16,1,14,1,2,0,Wrecking,20,5,1.76 
+2015,04,16,18:00,Wrecking,WMTF,cache,ESL South East Europe Champion..,5,16,4,11,1,5,Wrecking,7,17,0.43 
+2015,04,16,18:00,Wrecking,WMTF,mirage,ESL South East Europe Champion..,11,16,10,5,1,11,Wrecking,13,20,0.81 
+2015,04,16,18:00,WMTF,Wrecking,inferno,ESL South East Europe Champion..,14,16,12,3,2,13,Wrecking,20,17,1.03 

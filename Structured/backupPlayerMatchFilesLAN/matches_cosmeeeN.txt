@@ -1,0 +1,13 @@
+2016,05,29,15:55,aimclub,XPC,cache,ESL South East Europe Champion..,8,16,5,10,3,6,XPC,16,20,0.79 
+2016,05,29,15:55,XPC,aimclub,cobblestone,ESL South East Europe Champion..,12,16,9,6,3,10,XPC,21,23,0.96 
+2016,05,29,15:55,XPC,aimclub,mirage,ESL South East Europe Champion..,16,7,11,4,5,3,XPC,18,15,1.09 
+2016,05,29,13:15,XPC,Bpro,dust2,ESL South East Europe Champion..,19,17,6,9,9,6,XPC,23,22,1.00 
+2016,05,29,13:15,Bpro,XPC,overpass,ESL South East Europe Champion..,6,16,5,10,1,6,XPC,17,10,1.22 
+2016,05,29,11:15,XPC,neXtPlease!,overpass,ESL South East Europe Champion..,16,10,7,8,9,2,XPC,27,21,1.27 
+2016,05,29,09:30,XPC,Bpro,cache,ESL South East Europe Champion..,14,16,7,8,7,8,XPC,16,24,0.69 
+2016,05,14,17:30,XPC,neXtPlease!,cobblestone,PC Garage Clutch Masters by St..,16,11,5,10,11,1,XPC,29,20,1.45 
+2016,05,14,17:30,XPC,neXtPlease!,cache,PC Garage Clutch Masters by St..,16,5,11,4,5,1,XPC,23,8,1.67 
+2016,05,14,15:00,cooL,XPC,cache,PC Garage Clutch Masters by St..,9,16,4,11,5,5,XPC,29,11,1.91 
+2016,05,14,12:30,neXtPlease!,XPC,cobblestone,PC Garage Clutch Masters by St..,9,16,6,9,3,7,XPC,27,14,1.68 
+2016,04,16,17:00,GG1337,XPC,mirage,PGL National Division Season 1..,6,16,6,9,0,7,XPC,32,11,2.15 
+2016,04,16,17:00,XPC,GG1337,inferno,PGL National Division Season 1..,16,10,10,5,6,5,XPC,35,17,1.83 

@@ -1,0 +1,117 @@
+2016,06,14,20:00,visomvet,mixbanan,overpass,Yoggi Yalla Cup,14,16,8,7,6,9,visomvet,22,19,1.09 
+2016,06,14,20:00,visomvet,mixbanan,mirage,Yoggi Yalla Cup,16,14,5,10,11,4,visomvet,23,16,1.16 
+2016,06,14,20:00,mixbanan,visomvet,cache,Yoggi Yalla Cup,16,11,7,8,9,3,visomvet,12,19,0.66 
+2016,06,14,18:00,visomvet,demonlaget,mirage,Yoggi Yalla Cup,16,9,9,6,7,3,visomvet,22,13,1.31 
+2016,06,14,18:00,demonlaget,visomvet,cache,Yoggi Yalla Cup,6,16,6,9,0,7,visomvet,17,17,0.99 
+2016,06,05,12:00,Gambit,visomvet,cache,DreamHack ZOWIE Open Summer 20..,16,8,11,4,5,4,visomvet,10,22,0.46 
+2016,06,05,12:00,visomvet,Gambit,cobblestone,DreamHack ZOWIE Open Summer 20..,8,16,5,10,3,6,visomvet,10,20,0.51 
+2016,06,04,18:25,visomvet,MeMyself&I,cache,DreamHack ZOWIE Open Summer 20..,16,7,9,6,7,1,visomvet,19,13,1.35 
+2016,05,01,15:00,visomvet,AGG,inferno,DreamHack Regional Minor Champ..,9,16,6,9,3,7,visomvet,15,19,0.77 
+2016,05,01,15:00,visomvet,AGG,cobblestone,DreamHack Regional Minor Champ..,5,16,5,10,0,6,visomvet,16,17,1.15 
+2016,04,30,17:50,visomvet,RedInstinctRS,overpass,DreamHack Regional Minor Champ..,16,11,10,5,6,6,visomvet,18,16,1.10 
+2016,03,28,22:50,visomvet,RAIDERS,cache,Yoggi Yalla Cup,16,10,7,8,9,2,visomvet,21,14,1.30 
+2016,03,28,22:50,visomvet,RAIDERS,mirage,Yoggi Yalla Cup,16,11,14,1,2,10,visomvet,22,14,1.27 
+2016,03,09,23:40,miMo,Revival,overpass,Razer Rising Stars European Le..,16,12,10,5,6,7,miMo,19,17,1.05 
+2016,03,09,20:15,miMo,WEGOTGAME,train,Razer Rising Stars European Le..,16,13,12,3,4,10,miMo,20,18,1.01 
+2016,02,28,23:00,Publiclir.se,Galatics,inferno,AlienTech CS:GO League,17,19,8,7,7,8,Publiclir.se,13,27,0.62 
+2016,02,28,23:00,Publiclir.se,Galatics,cache,AlienTech CS:GO League,19,17,6,9,9,6,Publiclir.se,24,23,0.95 
+2016,02,28,19:15,Publiclir.se,k1ck,dust2,AlienTech CS:GO League,8,16,5,10,3,6,Publiclir.se,14,19,0.78 
+2016,02,28,19:15,k1ck,Publiclir.se,cache,AlienTech CS:GO League,7,16,4,11,3,5,Publiclir.se,13,15,0.91 
+2016,02,21,11:00,BX3,Publiclir.se,inferno,Nordic Masters Season 2 Finals,22,18,9,6,6,9,Publiclir.se,19,35,0.61 
+2016,02,21,11:00,BX3,Publiclir.se,dust2,Nordic Masters Season 2 Finals,16,10,7,8,9,2,Publiclir.se,14,23,0.61 
+2016,02,21,11:00,Publiclir.se,BX3,mirage,Nordic Masters Season 2 Finals,25,21,8,7,7,8,Publiclir.se,28,36,0.80 
+2016,02,19,15:15,Publiclir.se,Preparation,mirage,Nordic Masters Season 2 Finals,16,13,8,7,8,6,Publiclir.se,23,21,1.11 
+2016,02,19,15:15,Publiclir.se,Preparation,cache,Nordic Masters Season 2 Finals,16,6,13,2,3,4,Publiclir.se,15,12,1.07 
+2016,02,19,12:35,Optimum,Publiclir.se,mirage,Nordic Masters Season 2 Finals,16,19,5,10,10,5,Publiclir.se,30,24,1.17 
+2016,02,16,23:00,k1ck,Publiclir.se,cache,AlienTech CS:GO League,3,16,3,12,0,4,Publiclir.se,17,9,1.45 
+2016,02,16,23:00,Publiclir.se,k1ck,mirage,AlienTech CS:GO League,16,9,6,9,10,0,Publiclir.se,19,18,0.96 
+2016,02,14,21:30,DenDD,Publiclir.se,cache,CEVO Gfinity Professional Seas..,16,8,11,4,5,4,Publiclir.se,10,19,0.54 
+2016,02,14,20:00,Torpedo,Publiclir.se,cache,CEVO Gfinity Professional Seas..,14,16,11,4,3,12,Publiclir.se,21,19,1.06 
+2015,12,20,20:45,Torpedo,NoProblem!,cache,ESL Nordic Nationals Winter 20..,16,5,11,4,5,1,Torpedo,16,13,1.20 
+2015,12,20,20:45,Torpedo,NoProblem!,mirage,ESL Nordic Nationals Winter 20..,16,14,8,7,8,7,Torpedo,19,22,0.86 
+2015,12,20,20:45,NoProblem!,Torpedo,cobblestone,ESL Nordic Nationals Winter 20..,16,13,8,7,8,6,Torpedo,18,19,0.92 
+2015,12,20,18:00,ROCCAT,Torpedo,cache,ESL Nordic Nationals Winter 20..,9,16,6,9,3,7,Torpedo,15,12,1.04 
+2015,12,20,18:00,Torpedo,ROCCAT,mirage,ESL Nordic Nationals Winter 20..,16,14,3,12,13,2,Torpedo,17,20,0.84 
+2015,12,20,13:00,SkitLite,Torpedo,mirage,ESL Nordic Nationals Winter 20..,11,16,5,10,6,6,Torpedo,19,15,1.08 
+2015,12,20,13:00,SkitLite,Torpedo,cache,ESL Nordic Nationals Winter 20..,14,16,3,12,11,4,Torpedo,29,16,1.44 
+2015,12,19,18:20,NoProblem!,Torpedo,mirage,ESL Nordic Nationals Winter 20..,16,6,9,6,7,0,Torpedo,18,18,1.02 
+2015,12,19,16:00,demise,Torpedo,mirage,ESL Nordic Nationals Winter 20..,4,16,1,14,3,2,Torpedo,18,11,1.44 
+2015,11,30,20:00,Publiclir.se,Torpedo,overpass,RGN European Open,14,16,6,9,8,7,Torpedo,19,24,0.85 
+2015,11,30,20:00,Torpedo,Publiclir.se,mirage,RGN European Open,16,13,12,3,4,10,Torpedo,22,19,1.10 
+2015,11,30,20:00,Publiclir.se,Torpedo,cache,RGN European Open,16,13,8,7,8,6,Torpedo,18,20,1.03 
+2015,11,27,22:00,Torpedo,EpiphanyBolt,cache,QuickShot Arena #16,13,16,4,11,9,5,Torpedo,13,19,0.74 
+2015,11,27,22:00,Torpedo,EpiphanyBolt,mirage,QuickShot Arena #16,9,16,4,11,5,5,Torpedo,18,20,0.93 
+2015,11,27,19:45,Torpedo,YP,dust2,QuickShot Arena #16,16,7,11,4,5,3,Torpedo,12,17,0.77 
+2015,11,27,19:45,Torpedo,YP,cache,QuickShot Arena #16,16,14,4,11,12,3,Torpedo,22,20,1.17 
+2015,11,25,22:00,Torpedo,ALSEN,mirage,QuickShot Arena #16,19,17,5,10,10,5,Torpedo,31,25,1.19 
+2015,11,25,20:45,Torpedo,SpaceSoldiers,train,QuickShot Arena #16,3,16,3,12,0,4,Torpedo,9,16,0.56 
+2015,11,25,18:15,Torpedo,ALSEN,mirage,QuickShot Arena #16,16,13,7,8,9,5,Torpedo,17,17,0.89 
+2015,10,31,14:00,MIXCAT,Torpedo,mirage,ASUS ROG Nordic Challenge,16,11,8,7,8,4,Torpedo,18,19,0.93 
+2015,10,31,14:00,Torpedo,MIXCAT,cache,ASUS ROG Nordic Challenge,10,16,6,9,4,7,Torpedo,11,21,0.53 
+2015,10,30,17:15,ajuri,Torpedo,cobblestone,ASUS ROG Nordic Challenge,3,16,3,12,0,4,Torpedo,13,9,1.18 
+2015,10,30,17:15,ajuri,Torpedo,cache,ASUS ROG Nordic Challenge,8,16,3,12,5,4,Torpedo,23,15,1.32 
+2015,10,21,18:30,Torpedo,ttc,overpass,RGN European Open,14,16,10,5,4,11,Torpedo,18,21,0.88 
+2015,10,21,18:30,Torpedo,ttc,dust2,RGN European Open,16,13,5,10,11,3,Torpedo,24,19,1.15 
+2015,10,21,18:30,ttc,Torpedo,train,RGN European Open,16,12,9,6,7,6,Torpedo,22,21,1.07 
+2015,10,13,18:00,Torpedo,TSM,overpass,Fragbite Masters Season 5,4,16,3,12,1,4,Torpedo,6,19,0.35 
+2015,10,13,18:00,TSM,Torpedo,cache,Fragbite Masters Season 5,19,15,11,4,4,11,Torpedo,16,23,0.73 
+2015,10,09,22:45,Torpedo,ESC,cobblestone,QuickShot Arena #10,16,2,14,1,2,1,Torpedo,14,12,1.05 
+2015,10,09,22:45,Torpedo,ESC,train,QuickShot Arena #10,13,16,11,4,2,12,Torpedo,17,21,0.77 
+2015,10,09,22:45,Torpedo,ESC,cache,QuickShot Arena #10,16,12,9,6,7,6,Torpedo,24,17,1.33 
+2015,10,09,17:00,Torpedo,EpiphanyBolt,dust2,QuickShot Arena #10,16,3,12,3,4,0,Torpedo,22,10,1.75 
+2015,10,09,17:00,EpiphanyBolt,Torpedo,cobblestone,QuickShot Arena #10,9,16,4,11,5,5,Torpedo,22,13,1.36 
+2015,10,09,17:00,Torpedo,EpiphanyBolt,train,QuickShot Arena #10,8,16,6,9,2,7,Torpedo,13,18,0.73 
+2015,10,08,21:30,WorstPlayers,Torpedo,mirage,QuickShot Arena #10,12,16,5,10,7,6,Torpedo,20,16,1.05 
+2015,10,08,19:30,Torpedo,EuropeanMisfits,cache,QuickShot Arena #10,16,3,12,3,4,0,Torpedo,14,9,1.14 
+2015,10,08,18:15,Reason,Torpedo,cobblestone,QuickShot Arena #10,16,10,10,5,6,5,Torpedo,8,21,0.44 
+2015,10,06,19:30,BX3,Torpedo,inferno,Fragbite Masters Season 5 Main..,9,16,6,9,3,7,Torpedo,16,16,1.01 
+2015,10,06,19:30,BX3,Torpedo,train,Fragbite Masters Season 5 Main..,8,16,7,8,1,8,Torpedo,13,14,0.91 
+2015,10,04,17:00,FlipSid3,Torpedo,inferno,Fragbite Masters Season 5 Main..,16,5,13,2,3,3,Torpedo,5,19,0.28 
+2015,10,04,17:00,Torpedo,FlipSid3,dust2,Fragbite Masters Season 5 Main..,10,16,6,9,4,7,Torpedo,20,16,1.22 
+2015,10,04,17:00,Torpedo,FlipSid3,train,Fragbite Masters Season 5 Main..,16,13,7,8,9,5,Torpedo,29,17,1.43 
+2015,09,24,20:45,Torpedo,ESC,train,QuickShot Arena #8,10,16,10,5,0,11,Torpedo,16,21,0.74 
+2015,09,24,20:45,Torpedo,ESC,cache,QuickShot Arena #8,12,16,7,8,5,8,Torpedo,25,19,1.26 
+2015,09,24,20:45,Torpedo,ESC,mirage,QuickShot Arena #8,16,4,11,4,5,0,Torpedo,13,10,1.18 
+2015,09,24,17:00,EpiphanyBolt,Torpedo,cobblestone,QuickShot Arena #8,13,16,7,8,6,8,Torpedo,29,13,1.71 
+2015,09,24,17:00,EpiphanyBolt,Torpedo,cache,QuickShot Arena #8,14,16,6,9,8,7,Torpedo,17,20,0.80 
+2015,09,23,20:00,Torpedo,XPC,cache,QuickShot Arena #8,16,5,11,4,5,1,Torpedo,12,16,0.75 
+2015,09,23,20:00,XPC,Torpedo,cobblestone,QuickShot Arena #8,1,16,1,14,0,2,Torpedo,19,9,1.59 
+2015,09,13,12:00,Torpedo,MIXCAT,inferno,DreamHack Open Cluj-Napoca 201..,12,16,9,6,3,10,Torpedo,13,20,0.75 
+2015,09,13,12:00,MIXCAT,Torpedo,mirage,DreamHack Open Cluj-Napoca 201..,14,16,5,10,9,6,Torpedo,23,17,1.13 
+2015,09,13,12:00,Torpedo,MIXCAT,cache,DreamHack Open Cluj-Napoca 201..,14,16,12,3,2,13,Torpedo,20,20,0.96 
+2015,09,06,16:40,SpaceSoldiers,Torpedo,cache,DreamHack Open Cluj-Napoca 201..,19,21,10,5,5,10,Torpedo,25,29,0.83 
+2015,09,06,15:15,INFINITY,Torpedo,train,DreamHack Open Cluj-Napoca 201..,10,16,5,10,5,6,Torpedo,24,12,1.46 
+2015,09,06,12:00,Torpedo,PENTA,inferno,DreamHack Open Cluj-Napoca 201..,14,16,11,4,3,12,Torpedo,25,20,1.26 
+2015,09,06,12:00,Torpedo,PENTA,cache,DreamHack Open Cluj-Napoca 201..,16,12,8,7,8,5,Torpedo,21,17,1.07 
+2015,09,06,12:00,PENTA,Torpedo,cobblestone,DreamHack Open Cluj-Napoca 201..,16,10,11,4,5,6,Torpedo,12,20,0.80 
+2015,09,05,19:00,Torpedo,Fraternitas,cache,DreamHack Open Cluj-Napoca 201..,16,14,12,3,4,11,Torpedo,20,21,0.98 
+2015,08,18,20:30,Torpedo,k1ck,overpass,D!ngIT $2000 Weekly Cup #13,15,21,10,5,5,10,Torpedo,25,26,0.92 
+2015,08,18,20:30,k1ck,Torpedo,mirage,D!ngIT $2000 Weekly Cup #13,16,4,11,4,5,0,Torpedo,6,18,0.36 
+2015,08,17,22:30,Games4ufe,Torpedo,cache,D!ngIT $2000 Weekly Cup #13,6,16,2,13,4,3,Torpedo,15,11,1.11 
+2015,08,17,22:30,Games4ufe,Torpedo,mirage,D!ngIT $2000 Weekly Cup #13,5,16,2,13,3,3,Torpedo,15,9,1.17 
+2015,08,17,20:15,Torpedo,k1ck,mirage,D!ngIT $2000 Weekly Cup #13,16,11,12,3,4,8,Torpedo,17,15,0.97 
+2015,08,17,20:15,Torpedo,k1ck,cobblestone,D!ngIT $2000 Weekly Cup #13,7,16,6,9,1,7,Torpedo,7,18,0.46 
+2015,08,17,20:15,k1ck,Torpedo,cache,D!ngIT $2000 Weekly Cup #13,5,16,5,10,0,6,Torpedo,18,8,1.33 
+2015,08,11,18:00,mousesports,Torpedo,cache,PGL Season 1 EU Qualifiers,16,4,14,1,2,3,Torpedo,6,17,0.37 
+2015,08,11,18:00,mousesports,Torpedo,dust2,PGL Season 1 EU Qualifiers,16,6,11,4,5,2,Torpedo,17,18,0.93 
+2015,07,31,20:00,EpiphanyBolt,UNLEASHED,mirage,Assembly Summer 2015 AMD CS:GO..,16,14,8,7,8,7,UNLEASHED,23,22,1.01 
+2015,07,31,18:00,Lions,UNLEASHED,mirage,Assembly Summer 2015 AMD CS:GO..,11,16,7,8,4,8,UNLEASHED,14,16,0.94 
+2015,07,31,16:00,Jynttä,UNLEASHED,dust2,Assembly Summer 2015 AMD CS:GO..,16,11,8,7,8,4,UNLEASHED,14,20,0.80 
+2015,05,30,11:00,FlipSid3,embrace,mirage,DreamHack Open Summer 2015 Clo..,16,11,8,7,8,4,embrace,21,20,1.03 
+2015,05,30,11:00,FlipSid3,embrace,cobblestone,DreamHack Open Summer 2015 Clo..,16,9,7,8,9,1,embrace,19,19,1.16 
+2015,05,30,11:00,embrace,FlipSid3,cache,DreamHack Open Summer 2015 Clo..,16,7,9,6,7,1,embrace,18,11,1.36 
+2015,05,24,23:30,embrace,Kinguin,cache,DreamHack Open Summer 2015 Qua..,16,1,14,1,2,0,embrace,13,3,1.58 
+2015,05,24,22:35,INFINITY,embrace,cobblestone,DreamHack Open Summer 2015 Qua..,19,21,11,4,4,11,embrace,29,29,1.03 
+2015,05,05,21:00,Acer,UNLEASHED,cache,RGN Pro Series EU Closed Quali..,16,14,8,7,8,7,UNLEASHED,16,25,0.66 
+2015,05,05,21:00,UNLEASHED,Acer,mirage,RGN Pro Series EU Closed Quali..,5,16,2,13,3,3,UNLEASHED,8,18,0.55 
+2015,04,04,10:00,3DMAX,Lemondogs,cache,Copenhagen Games 2015,16,6,11,4,5,2,Lemondogs,17,20,0.88 
+2015,04,03,22:30,Sharkgaming,Lemondogs,cobblestone,Copenhagen Games 2015,11,16,6,9,5,7,Lemondogs,27,14,1.53 
+2015,04,03,15:30,Lemondogs,SpaceSoldiers,cobblestone,Copenhagen Games 2015,8,16,7,8,1,8,Lemondogs,15,19,0.76 
+2015,04,03,15:30,SpaceSoldiers,Lemondogs,nuke,Copenhagen Games 2015,16,9,11,4,5,5,Lemondogs,15,22,0.69 
+2015,04,03,12:00,Property,Lemondogs,cache,Copenhagen Games 2015,16,3,12,3,4,0,Lemondogs,11,15,0.66 
+2015,04,03,12:00,Property,Lemondogs,inferno,Copenhagen Games 2015,16,0,15,0,1,0,Lemondogs,6,16,0.35 
+2015,04,02,23:25,MnM,Lemondogs,cache,Copenhagen Games 2015,13,16,11,4,2,12,Lemondogs,28,18,1.40 
+2015,04,02,20:30,Menace,Lemondogs,cache,Copenhagen Games 2015,16,13,8,7,8,6,Lemondogs,21,22,1.08 
+2015,04,02,19:00,Lemondogs,re:take,cache,Copenhagen Games 2015,16,4,12,3,4,1,Lemondogs,22,12,1.56 
+2015,04,02,15:30,eSpuma,Lemondogs,dust2,Copenhagen Games 2015,1,16,1,14,0,2,Lemondogs,24,7,2.17 
+2014,08,25,20:10,Games4u,dAT,mirage,FACEIT League 2 EU Closed Qual..,6,16,3,12,3,4,Games4u,16,16,0.92 

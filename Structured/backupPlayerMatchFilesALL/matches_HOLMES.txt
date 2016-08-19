@@ -1,0 +1,30 @@
+2016,07,17,04:45,TEAM1231,iNation,cache,GamePub 2016,12,16,4,11,8,5,TEAM1231,11,25,0.46 
+2016,07,17,04:45,TEAM1231,iNation,mirage,GamePub 2016,11,16,6,9,5,7,TEAM1231,21,23,0.94 
+2016,07,17,02:35,TEAM1231,CS-GO.rs,overpass,GamePub 2016,16,6,12,3,4,3,TEAM1231,17,13,1.19 
+2016,07,17,02:35,TEAM1231,CS-GO.rs,cobblestone,GamePub 2016,16,1,14,1,2,0,TEAM1231,19,9,1.69 
+2016,07,16,15:40,TEAM1231,Creation,cobblestone,GamePub 2016,16,13,9,6,7,7,TEAM1231,29,17,1.49 
+2016,07,16,15:40,Creation,TEAM1231,mirage,GamePub 2016,11,16,8,7,3,9,TEAM1231,22,18,1.25 
+2016,06,04,18:30,KILLERFISH,TEAM1231,cobblestone,DreamHack ZOWIE Open Summer 20..,16,7,11,4,5,3,TEAM1231,11,20,0.61 
+2016,05,18,19:00,XPC,RB,cache,Balkan Championship Season 3,16,12,5,10,11,2,RB,21,20,1.00 
+2016,04,27,19:00,RB,Pixel,dust2,Balkan Championship Season 3,19,16,7,8,8,7,RB,29,23,1.19 
+2016,04,25,22:00,RB,aimclub,mirage,Balkan Championship Season 3,3,16,3,12,0,4,RB,4,19,0.18 
+2016,04,20,20:00,RB,SuperMassive,mirage,Balkan Championship Season 3,19,16,7,8,8,7,RB,38,22,1.79 
+2016,04,16,19:00,neXtPlease!,RB,cache,Balkan Championship Season 3,7,16,2,13,5,3,RB,24,12,1.67 
+2016,04,13,21:00,RB,iNation,cache,Balkan Championship Season 3,16,6,10,5,6,1,RB,19,12,1.28 
+2016,04,05,20:00,RB,GameAgents,cache,Balkan Championship Season 3,8,16,6,9,2,7,RB,19,20,0.97 
+2016,03,27,20:00,RB,TogetherAsOne,cache,Balkan Championship Season 3,11,16,7,8,4,8,RB,36,19,1.76 
+2016,03,22,22:00,RB,Deathtrap,dust2,Balkan Championship Season 3,9,16,8,7,1,9,RB,18,18,1.09 
+2015,09,13,10:30,FLUGGENKK,ARMADA,cache,Balkan SuperCup #2 LAN Finals,5,16,4,11,1,5,FLUGGENKK,12,19,0.75 
+2015,09,13,10:30,ARMADA,FLUGGENKK,inferno,Balkan SuperCup #2 LAN Finals,16,13,6,9,10,4,FLUGGENKK,16,20,0.79 
+2015,05,24,22:20,CPLAY,RB,inferno,DreamHack Open Summer 2015 Qua..,16,9,10,5,6,4,RB,24,19,1.21 
+2015,05,08,21:15,GIANT5,RB,dust2,Balkan Superleague,15,15,6,9,9,6,RB,17,20,0.82 
+2015,05,08,20:15,TRICKED,RB,mirage,Balkan Superleague,11,16,10,5,1,11,RB,19,17,1.00 
+2015,05,04,21:10,HEADSHOTBG,RB,inferno,Balkan Superleague,11,16,3,12,8,4,RB,19,17,0.88 
+2015,04,27,21:00,Rock,RB,cache,Balkan Superleague,16,3,12,3,4,0,RB,12,16,0.81 
+2015,04,27,20:00,GPlay,RB,train,Balkan Superleague,16,6,12,3,4,3,RB,13,19,0.82 
+2015,04,23,18:00,SpaceSoldiers,RB,dust2,ESL South East Europe Champion..,16,8,10,5,6,3,RB,18,19,0.92 
+2015,04,23,18:00,SpaceSoldiers,RB,mirage,ESL South East Europe Champion..,16,5,11,4,5,1,RB,6,20,0.28 
+2015,04,21,21:30,KnockOutStars,RB,overpass,ESL South East Europe Champion..,16,13,12,3,4,10,RB,24,22,1.17 
+2015,04,21,21:30,KnockOutStars,RB,dust2,ESL South East Europe Champion..,9,16,6,9,3,7,RB,19,14,1.11 
+2015,04,21,21:30,KnockOutStars,RB,cache,ESL South East Europe Champion..,16,10,9,6,7,4,RB,16,20,0.84 
+2015,04,16,19:00,neXtPlease!,RB,cache,Balkan Superleague,15,15,13,2,2,13,RB,24,22,1.00 

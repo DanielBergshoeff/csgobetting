@@ -1,0 +1,12 @@
+2016,08,15,19:00,Slovenia,Azerbaijan,cache,World Championships 2016 Europ..,16,12,6,9,10,3,Slovenia,18,19,0.92 
+2016,08,15,19:00,Azerbaijan,Slovenia,train,World Championships 2016 Europ..,16,3,12,3,4,0,Slovenia,5,19,0.25 
+2016,08,15,19:00,Slovenia,Azerbaijan,mirage,World Championships 2016 Europ..,16,6,11,4,5,2,Slovenia,18,11,1.33 
+2016,07,22,19:00,Overpowered,Executors,dust2,King of Adria,21,16,10,5,5,10,Overpowered,25,28,0.95 
+2016,07,22,19:00,Overpowered,Executors,cache,King of Adria,12,16,5,10,7,6,Overpowered,21,20,1.03 
+2016,07,22,19:00,Overpowered,Executors,train,King of Adria,16,8,8,7,8,1,Overpowered,24,11,1.57 
+2015,04,23,21:45,HEADSHOTBG,MASSACRE-ZONE,cache,ESL South East Europe Champion..,16,5,13,2,3,3,MASSACRE-ZONE,11,19,0.57 
+2015,04,23,21:45,MASSACRE-ZONE,HEADSHOTBG,cobblestone,ESL South East Europe Champion..,4,16,4,11,0,5,MASSACRE-ZONE,13,17,0.90 
+2015,04,23,21:45,Rock,MASSACRE-ZONE,cache,ESL South East Europe Champion..,16,13,6,9,10,4,MASSACRE-ZONE,19,17,0.94 
+2015,04,23,19:55,Rock,MASSACRE-ZONE,dust2,ESL South East Europe Champion..,16,6,10,5,6,1,MASSACRE-ZONE,11,18,0.65 
+2015,04,21,20:00,MASSACRE-ZONE,neXtPlease!,dust2,ESL South East Europe Champion..,12,16,10,5,2,11,MASSACRE-ZONE,22,22,1.04 
+2015,04,21,20:00,MASSACRE-ZONE,neXtPlease!,cache,ESL South East Europe Champion..,7,16,4,11,3,5,MASSACRE-ZONE,13,20,0.63 

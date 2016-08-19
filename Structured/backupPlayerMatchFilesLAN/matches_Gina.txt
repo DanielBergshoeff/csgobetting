@@ -1,0 +1,10 @@
+2016,03,24,17:00,naptoR.Factory,FoxStratos,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Fox Stratos,3,18,0.17 
+2016,03,24,15:30,Preparation,FoxStratos,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,13,6,9,10,4,Fox Stratos,16,20,0.77 
+2016,03,24,13:00,naptoR.Factory,FoxStratos,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,4,11,1,5,Fox Stratos,15,13,1.02 
+2015,04,04,10:00,Epsilonfe,3DMAXfe,nuke,Copenhagen Games 2015 female,11,16,10,5,1,11,Epsilon fe,17,17,1.00 
+2015,04,04,10:00,Epsilonfe,3DMAXfe,inferno,Copenhagen Games 2015 female,10,16,5,10,5,6,Epsilon fe,15,17,0.81 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,cobblestone,Copenhagen Games 2015 female,16,8,11,4,5,4,Epsilon fe,22,10,1.34 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,nuke,Copenhagen Games 2015 female,16,11,12,3,4,8,Epsilon fe,12,19,0.66 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,cache,Copenhagen Games 2015 female,12,16,6,9,6,7,Epsilon fe,22,24,0.94 
+2015,04,03,18:30,Karma,Epsilonfe,mirage,Copenhagen Games 2015 female,16,12,9,6,7,6,Epsilon fe,18,22,0.84 
+2015,04,03,18:30,Epsilonfe,Karma,cache,Copenhagen Games 2015 female,11,16,8,7,3,9,Epsilon fe,14,23,0.64 

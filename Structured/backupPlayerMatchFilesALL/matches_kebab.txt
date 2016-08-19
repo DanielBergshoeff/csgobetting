@@ -1,0 +1,2 @@
+2014,05,25,14:00,GamePub.ENTiTY,core.team,mirage,Gaming Challenge 2014,16,5,13,2,3,3,core.team,10,19,0.59 
+2014,05,25,12:00,e-Sports.rs,core.team,inferno,Gaming Challenge 2014,16,11,7,8,9,3,core.team,12,21,0.64 

@@ -1,0 +1,4 @@
+2016,04,16,19:00,neXtPlease!,RB,cache,Balkan Championship Season 3,7,16,2,13,5,3,neXtPlease!,17,12,1.21 
+2015,12,19,20:00,XPC,Revolte,cache,Rising Stars Balkan #2,16,19,9,6,6,9,XPC,29,26,1.17 
+2015,12,18,20:00,iNation,XPC,dust2,Rising Stars Balkan #2,16,10,11,4,5,6,XPC,13,22,0.61 
+2015,12,18,20:00,XPC,iNation,mirage,Rising Stars Balkan #2,7,16,6,9,1,7,XPC,23,20,1.42 

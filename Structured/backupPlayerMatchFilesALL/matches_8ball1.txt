@@ -1,0 +1,9 @@
+2016,07,31,09:00,EP,Nface,mirage,SL i-League S2 China Qualifier,16,14,5,10,11,4,Nface,24,19,1.16 
+2016,07,31,09:00,EP,Nface,train,SL i-League S2 China Qualifier,16,14,11,4,5,10,Nface,27,20,1.39 
+2016,07,28,15:25,Nface,AllGamers,mirage,SL i-League S2 China Qualifier,8,16,5,10,3,6,Nface,20,19,1.23 
+2016,07,28,15:25,AllGamers,Nface,cache,SL i-League S2 China Qualifier,16,9,8,7,8,2,Nface,27,19,1.47 
+2016,07,27,09:00,B.O.O.T,Nface,overpass,SL i-League S2 China Qualifier,7,16,6,9,1,7,Nface,24,14,1.47 
+2016,07,27,09:00,B.O.O.T,Nface,train,SL i-League S2 China Qualifier,13,16,11,4,2,12,Nface,34,21,1.68 
+2016,07,27,09:00,B.O.O.T,Nface,cache,SL i-League S2 China Qualifier,16,7,10,5,6,2,Nface,14,18,0.76 
+2016,07,23,15:00,Nface,B.O.O.T,cache,MixBOT Pro-League Golden,8,16,7,8,1,8,Nface,16,20,0.79 
+2016,07,23,15:00,B.O.O.T,Nface,cobblestone,MixBOT Pro-League Golden,16,2,13,2,3,0,Nface,10,18,0.50 

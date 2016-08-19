@@ -1,0 +1,16 @@
+2015,10,19,00:35,WinOut.net,Roca'scompLexity,mirage,Fragadelphia 6,7,16,5,10,2,6,WinOut.net,11,22,0.49 
+2015,10,18,22:00,WinOut.net,Torqued,cache,Fragadelphia 6,13,16,4,11,9,5,WinOut.net,11,22,0.55 
+2015,10,18,22:00,WinOut.net,Torqued,mirage,Fragadelphia 6,4,16,4,11,0,5,WinOut.net,11,18,0.63 
+2015,10,18,18:40,SetToDestroyX,WinOut.net,overpass,Fragadelphia 6,13,16,6,9,7,7,WinOut.net,24,19,1.21 
+2015,10,18,18:40,SetToDestroyX,WinOut.net,cobblestone,Fragadelphia 6,25,22,7,8,8,7,WinOut.net,31,36,0.85 
+2015,10,18,18:40,WinOut.net,SetToDestroyX,mirage,Fragadelphia 6,16,3,14,1,2,2,WinOut.net,19,12,1.50 
+2015,10,18,04:00,PugsnotDrugs,WinOut.net,mirage,Fragadelphia 6,7,16,6,9,1,7,WinOut.net,24,12,1.46 
+2015,10,18,04:00,WinOut.net,PugsnotDrugs,train,Fragadelphia 6,16,10,8,7,8,3,WinOut.net,23,18,1.19 
+2015,09,06,16:00,Nexus,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,14,16,7,8,7,8,Nexus,16,25,0.64 
+2015,09,06,16:00,Nexus,ACE,cache,WinOut $20,000 CS:GO Champions..,16,13,10,5,6,8,Nexus,26,21,1.25 
+2015,09,06,16:00,ACE,Nexus,overpass,WinOut $20,000 CS:GO Champions..,16,13,12,3,4,10,Nexus,22,22,0.99 
+2015,09,06,01:30,Nexus,Luminosity,cache,WinOut $20,000 CS:GO Champions..,8,16,6,9,2,7,Nexus,14,21,0.73 
+2015,09,06,01:30,Luminosity,Nexus,overpass,WinOut $20,000 CS:GO Champions..,16,5,10,5,6,0,Nexus,10,19,0.53 
+2015,09,05,18:15,Nexus,WinOut.net,overpass,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,Nexus,19,10,1.50 
+2015,09,05,17:30,Nexus,Method,cache,WinOut $20,000 CS:GO Champions..,8,16,6,9,2,7,Nexus,17,20,0.80 
+2015,09,05,16:15,WinOut.net,Nexus,inferno,WinOut $20,000 CS:GO Champions..,13,16,9,6,4,10,Nexus,19,22,0.88 

@@ -1,0 +1,103 @@
+2016,05,26,22:30,PRIDE,PLAYZONE,nuke,Razer Rising Stars European Le..,16,8,10,5,6,3,PLAYZONE,12,22,0.63 
+2016,05,26,22:30,PLAYZONE,PRIDE,mirage,Razer Rising Stars European Le..,16,9,8,7,8,2,PLAYZONE,8,17,0.55 
+2016,05,23,20:00,eSuba,PLAYZONE,cache,Razer Rising Stars European Le..,9,16,6,9,3,7,PLAYZONE,17,15,1.03 
+2016,05,23,20:00,eSuba,PLAYZONE,mirage,Razer Rising Stars European Le..,22,20,7,8,8,7,PLAYZONE,24,30,0.82 
+2016,05,01,15:00,Orbit,MK,dust2,DreamHack Regional Minor Champ..,1,16,1,14,0,2,Orbit,9,16,0.49 
+2016,05,01,15:00,Orbit,MK,mirage,DreamHack Regional Minor Champ..,16,12,9,6,7,6,Orbit,11,20,0.60 
+2016,05,01,15:00,Orbit,MK,cache,DreamHack Regional Minor Champ..,17,19,8,7,7,8,Orbit,17,27,0.66 
+2016,04,30,17:45,Reason,Orbit,inferno,DreamHack Regional Minor Champ..,13,16,7,8,6,8,Orbit,17,22,0.83 
+2016,03,24,23:00,Orbit,Publiclir.se,cache,Copenhagen Games 2016 BYOC Qua..,11,16,6,9,5,7,Orbit,15,19,0.79 
+2016,03,24,23:00,Orbit,Publiclir.se,mirage,Copenhagen Games 2016 BYOC Qua..,16,8,12,3,4,5,Orbit,14,12,0.94 
+2016,03,24,23:00,Publiclir.se,Orbit,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,8,7,8,2,Orbit,22,18,1.20 
+2016,03,24,19:00,Orbit,OBEY,inferno,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,Orbit,15,7,1.36 
+2016,03,24,19:00,Orbit,OBEY,mirage,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Orbit,24,5,2.51 
+2016,03,24,15:30,Orbit,!nsurgents,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,5,10,5,6,0,Orbit,20,10,1.61 
+2016,03,24,13:00,Orbit,Skaldubegraves?,dust2,Copenhagen Games 2016 BYOC Qua..,16,11,11,4,5,7,Orbit,12,18,0.64 
+2016,03,12,18:15,Orbit,Ancient,mirage,DreamHack Masters Malmö 2016 E..,11,16,7,8,4,8,Orbit,12,20,0.65 
+2016,03,08,23:50,ex-Epiphany,Deathtrap,cobblestone,Razer Rising Stars European Le..,16,6,11,4,5,2,ex-Epiphany,15,16,0.90 
+2016,03,08,22:50,ex-Epiphany,eXplosive,mirage,Razer Rising Stars European Le..,16,0,15,0,1,0,ex-Epiphany,13,4,1.51 
+2016,02,29,19:00,EpiphanyBolt,LDLCBlue,dust2,Operation: Kinguin #2,3,16,3,12,0,4,Epiphany Bolt,6,17,0.35 
+2016,02,29,19:00,EpiphanyBolt,LDLCBlue,inferno,Operation: Kinguin #2,11,16,6,9,5,7,Epiphany Bolt,15,20,0.80 
+2016,02,29,19:00,EpiphanyBolt,LDLCBlue,cobblestone,Operation: Kinguin #2,16,6,9,6,7,0,Epiphany Bolt,15,13,1.04 
+2016,02,22,22:00,SK,EpiphanyBolt,cobblestone,Operation: Kinguin #2,16,10,7,8,9,2,Epiphany Bolt,10,21,0.55 
+2016,02,22,22:00,EpiphanyBolt,SK,train,Operation: Kinguin #2,4,16,4,11,0,5,Epiphany Bolt,17,16,1.05 
+2016,02,05,21:45,EpiphanyBolt,LDLCWhite,inferno,Assembly Winter 2016,13,16,9,6,4,10,Epiphany Bolt,17,21,0.89 
+2016,02,05,21:45,EpiphanyBolt,LDLCWhite,dust2,Assembly Winter 2016,1,16,1,14,0,2,Epiphany Bolt,4,15,0.39 
+2016,02,05,17:00,EpiphanyBolt,Millenium,dust2,Assembly Winter 2016,16,12,9,6,7,6,Epiphany Bolt,17,14,1.02 
+2016,02,05,15:00,EpiphanyBolt,LDLCWhite,cobblestone,Assembly Winter 2016,14,16,6,9,8,7,Epiphany Bolt,13,22,0.66 
+2016,01,28,17:00,EU4IA,EpiphanyBolt,cache,Uprise Champions Cup Season 4 ..,16,10,10,5,6,5,Epiphany Bolt,17,19,0.97 
+2015,12,18,19:30,ex-USSR,EpiphanyBolt,cache,QuickShot Arena #19,16,5,10,5,6,0,Epiphany Bolt,12,17,0.77 
+2015,12,18,19:30,EpiphanyBolt,ex-USSR,mirage,QuickShot Arena #19,1,16,1,14,0,2,Epiphany Bolt,7,17,0.41 
+2015,12,17,20:45,EpiphanyBolt,AliGon,cache,QuickShot Arena #19,19,17,10,5,5,10,Epiphany Bolt,27,25,1.00 
+2015,12,17,18:15,EpiphanyBolt,AlienTech,cache,Game On European Invitational,16,11,10,5,6,6,Epiphany Bolt,16,16,0.91 
+2015,12,17,18:15,EpiphanyBolt,AlienTech,cobblestone,Game On European Invitational,16,10,9,6,7,4,Epiphany Bolt,17,17,0.94 
+2015,12,17,17:00,EpiphanyBolt,PiTER,cobblestone,QuickShot Arena #19,19,16,6,9,9,6,Epiphany Bolt,26,23,1.05 
+2015,12,16,22:00,EpiphanyBolt,RCTIC,cache,AlienTech CS:GO European Cup I..,12,16,4,11,8,5,Epiphany Bolt,21,19,1.08 
+2015,12,16,18:00,EpiphanyBolt,NoProblem!,cache,Game On European Invitational,16,9,7,8,9,1,Epiphany Bolt,13,16,0.84 
+2015,12,16,18:00,EpiphanyBolt,NoProblem!,mirage,Game On European Invitational,6,16,4,11,2,5,Epiphany Bolt,17,16,1.08 
+2015,12,16,18:00,NoProblem!,EpiphanyBolt,train,Game On European Invitational,14,16,5,10,9,6,Epiphany Bolt,21,17,1.11 
+2015,12,15,23:00,EpiphanyBolt,AlienTech,cobblestone,AlienTech CS:GO European Cup I..,16,4,11,4,5,0,Epiphany Bolt,7,12,0.68 
+2015,12,15,20:00,EpiphanyBolt,Vexed,inferno,Operation: Kinguin,4,16,4,11,0,5,Epiphany Bolt,9,15,0.78 
+2015,12,14,23:00,EpiphanyBolt,nEophyte,cache,Operation: Kinguin,16,13,8,7,8,6,Epiphany Bolt,27,18,1.35 
+2015,12,14,20:30,EpiphanyBolt,ImperialDragons,dust2,Game On European Invitational,16,13,6,9,10,4,Epiphany Bolt,24,18,1.34 
+2015,12,14,20:30,EpiphanyBolt,ImperialDragons,mirage,Game On European Invitational,16,3,12,3,4,0,Epiphany Bolt,11,9,1.07 
+2015,12,14,20:30,ImperialDragons,EpiphanyBolt,inferno,Game On European Invitational,16,14,8,7,8,7,Epiphany Bolt,27,24,1.07 
+2015,12,14,17:00,Vexed,EpiphanyBolt,cobblestone,Operation: Kinguin,16,9,10,5,6,4,Epiphany Bolt,13,22,0.63 
+2015,12,14,17:00,EpiphanyBolt,Vexed,mirage,Operation: Kinguin,9,16,6,9,3,7,Epiphany Bolt,13,18,0.80 
+2015,11,27,22:00,Torpedo,EpiphanyBolt,cache,QuickShot Arena #16,13,16,4,11,9,5,Epiphany Bolt,26,18,1.28 
+2015,11,27,22:00,Torpedo,EpiphanyBolt,mirage,QuickShot Arena #16,9,16,4,11,5,5,Epiphany Bolt,13,16,0.82 
+2015,11,27,17:15,EpiphanyBolt,SpaceSoldiers,mirage,QuickShot Arena #16,16,7,14,1,2,6,Epiphany Bolt,10,12,0.83 
+2015,11,27,17:15,EpiphanyBolt,SpaceSoldiers,train,QuickShot Arena #16,11,16,5,10,6,6,Epiphany Bolt,12,21,0.64 
+2015,11,27,17:15,EpiphanyBolt,SpaceSoldiers,cobblestone,QuickShot Arena #16,16,10,7,8,9,2,Epiphany Bolt,25,16,1.36 
+2015,11,26,22:00,LowLandLions,EpiphanyBolt,mirage,QuickShot Arena #16,6,16,6,9,0,7,Epiphany Bolt,13,13,0.91 
+2015,11,26,20:45,EpiphanyBolt,YP,cache,QuickShot Arena #16,10,16,6,9,4,7,Epiphany Bolt,8,20,0.49 
+2015,11,26,18:15,EpiphanyBolt,LowLandLions,cobblestone,QuickShot Arena #16,16,14,6,9,10,5,Epiphany Bolt,22,22,1.00 
+2015,11,12,22:00,EpiphanyBolt,Publiclir.se,mirage,RGN European Open,8,16,3,12,5,4,Epiphany Bolt,18,20,0.93 
+2015,11,08,20:00,EpiphanyBolt,RCTIC,cobblestone,RGN European Open,16,4,11,4,5,0,Epiphany Bolt,15,9,1.39 
+2015,11,04,21:45,Reason,EpiphanyBolt,inferno,QuickShot Arena #13,16,6,10,5,6,1,Epiphany Bolt,9,18,0.54 
+2015,11,04,20:45,uX,EpiphanyBolt,cobblestone,QuickShot Arena #13,16,9,12,3,4,6,Epiphany Bolt,9,22,0.45 
+2015,11,04,17:00,EpiphanyBolt,ESC,mirage,QuickShot Arena #13,16,5,14,1,2,4,Epiphany Bolt,11,6,1.16 
+2015,10,25,17:00,EpiphanyBolt,Enervate,cache,QuickShot Showmatches,3,16,3,12,0,4,Epiphany Bolt,6,18,0.34 
+2015,10,25,17:00,Enervate,EpiphanyBolt,mirage,QuickShot Showmatches,22,20,7,8,8,7,Epiphany Bolt,29,29,0.95 
+2015,10,23,17:00,PiTER,EpiphanyBolt,cobblestone,QuickShot Showmatches,16,11,12,3,4,8,Epiphany Bolt,14,24,0.59 
+2015,10,23,17:00,PiTER,EpiphanyBolt,train,QuickShot Showmatches,16,11,9,6,7,5,Epiphany Bolt,15,21,0.73 
+2015,10,22,21:15,EpiphanyBolt,PiTER,cache,QuickShot Arena #11,16,14,8,7,8,7,Epiphany Bolt,20,21,0.96 
+2015,10,22,17:00,EpiphanyBolt,stfuNerd,cobblestone,QuickShot Arena #11,16,13,5,10,11,3,Epiphany Bolt,17,21,0.81 
+2015,10,22,17:00,EpiphanyBolt,stfuNerd,dust2,QuickShot Arena #11,16,9,7,8,9,1,Epiphany Bolt,15,20,0.83 
+2015,10,21,17:00,EpiphanyBolt,PiTER,mirage,QuickShot Arena #11,16,5,12,3,4,2,Epiphany Bolt,10,13,0.76 
+2015,10,21,17:00,PiTER,EpiphanyBolt,train,QuickShot Arena #11,9,16,7,8,2,8,Epiphany Bolt,13,14,0.84 
+2015,10,21,17:00,PiTER,EpiphanyBolt,cobblestone,QuickShot Arena #11,22,19,8,7,7,8,Epiphany Bolt,30,28,1.03 
+2015,10,20,20:00,Reason,EpiphanyBolt,cache,CSHUB Series Season 1,16,12,9,6,7,6,Epiphany Bolt,15,17,0.98 
+2015,10,20,20:00,Reason,EpiphanyBolt,inferno,CSHUB Series Season 1,12,16,2,13,10,3,Epiphany Bolt,24,17,1.26 
+2015,10,20,20:00,EpiphanyBolt,Reason,cobblestone,CSHUB Series Season 1,7,16,3,12,4,4,Epiphany Bolt,8,19,0.53 
+2015,10,16,17:00,EpiphanyBolt,ESC,overpass,QuickShot Showmatches,6,16,6,9,0,7,Epiphany Bolt,10,19,0.54 
+2015,10,16,17:00,ESC,EpiphanyBolt,train,QuickShot Showmatches,16,7,12,3,4,4,Epiphany Bolt,14,19,0.75 
+2015,10,16,17:00,EpiphanyBolt,ESC,cache,QuickShot Showmatches,16,14,4,11,12,3,Epiphany Bolt,12,15,0.82 
+2015,10,11,19:00,Enervate,EpiphanyBolt,cache,CSHUB Series Season 1,17,19,12,3,3,12,Epiphany Bolt,13,28,0.58 
+2015,10,11,19:00,Enervate,EpiphanyBolt,cobblestone,CSHUB Series Season 1,12,16,4,11,8,5,Epiphany Bolt,15,15,0.95 
+2015,10,09,17:00,Torpedo,EpiphanyBolt,dust2,QuickShot Arena #10,16,3,12,3,4,0,Epiphany Bolt,3,18,0.17 
+2015,10,09,17:00,EpiphanyBolt,Torpedo,cobblestone,QuickShot Arena #10,9,16,4,11,5,5,Epiphany Bolt,9,22,0.40 
+2015,10,09,17:00,Torpedo,EpiphanyBolt,train,QuickShot Arena #10,8,16,6,9,2,7,Epiphany Bolt,15,15,1.00 
+2015,10,07,20:45,BX3,EpiphanyBolt,inferno,QuickShot Arena #10,10,16,7,8,3,8,Epiphany Bolt,20,15,1.12 
+2015,10,07,18:15,EpiphanyBolt,Choke,train,QuickShot Arena #10,16,2,15,0,1,2,Epiphany Bolt,6,7,0.78 
+2015,10,02,19:45,EpiphanyBolt,NoProblem!,cache,QuickShot Arena #9,10,16,4,11,6,5,Epiphany Bolt,16,20,0.84 
+2015,10,02,19:45,EpiphanyBolt,NoProblem!,cobblestone,QuickShot Arena #9,6,16,6,9,0,7,Epiphany Bolt,14,20,0.74 
+2015,10,02,19:45,NoProblem!,EpiphanyBolt,mirage,QuickShot Arena #9,14,16,9,6,5,10,Epiphany Bolt,19,17,1.04 
+2015,10,01,22:15,EpiphanyBolt,NoProblem!,cache,CSHUB Series Season 1,6,16,4,11,2,5,Epiphany Bolt,9,18,0.57 
+2015,10,01,22:15,EpiphanyBolt,NoProblem!,mirage,CSHUB Series Season 1,7,16,3,12,4,4,Epiphany Bolt,11,19,0.64 
+2015,10,01,22:15,NoProblem!,EpiphanyBolt,cobblestone,CSHUB Series Season 1,9,16,3,12,6,4,Epiphany Bolt,19,16,1.14 
+2015,10,01,21:00,EpiphanyBolt,BX3,cache,QuickShot Arena #9,16,6,11,4,5,2,Epiphany Bolt,12,13,0.87 
+2015,10,01,18:15,EpiphanyBolt,PlayingDucks,mirage,QuickShot Arena #9,16,14,11,4,5,10,Epiphany Bolt,29,17,1.43 
+2015,09,24,19:30,ESC,EpiphanyBolt,cache,QuickShot Arena #8,16,10,9,6,7,4,Epiphany Bolt,18,22,0.77 
+2015,09,24,17:00,EpiphanyBolt,Torpedo,cobblestone,QuickShot Arena #8,13,16,7,8,6,8,Epiphany Bolt,11,22,0.53 
+2015,09,24,17:00,EpiphanyBolt,Torpedo,cache,QuickShot Arena #8,14,16,6,9,8,7,Epiphany Bolt,10,22,0.52 
+2015,09,23,17:00,EpiphanyBolt,ESC,mirage,QuickShot Arena #8,16,2,13,2,3,0,Epiphany Bolt,10,8,0.95 
+2015,09,23,17:00,EpiphanyBolt,ESC,cobblestone,QuickShot Arena #8,16,13,9,6,7,7,Epiphany Bolt,21,20,1.08 
+2015,09,12,19:45,KappaKappa,NightRaid,inferno,DreamHack Open Cluj-Napoca 201..,13,16,4,) (,:,),KappaKappa,18,19,0.86 
+2015,09,09,21:45,KappaKappa,ESC,mirage,QuickShot Arena #6,11,16,6,9,5,7,KappaKappa,12,18,0.66 
+2015,09,09,17:00,SK,KappaKappa,train,QuickShot Arena #6,16,9,9,6,7,3,KappaKappa,15,16,0.91 
+2015,09,09,17:00,KappaKappa,SK,cobblestone,QuickShot Arena #6,12,16,5,10,7,6,KappaKappa,23,21,1.18 
+2015,08,30,22:45,VegaSquadron,KappaKappa,cache,FACEIT League 2015 Stage 3 EU ..,16,7,13,2,3,5,KappaKappa,8,20,0.42 
+2015,08,30,21:40,LosJefes,KappaKappa,cache,FACEIT League 2015 Stage 3 EU ..,14,16,7,8,7,8,KappaKappa,14,25,0.56 
+2015,07,30,18:00,KappaKappa,SkitLite,cache,Assembly Summer 2015 AMD CS:GO..,11,16,8,7,3,9,KappaKappa,8,21,0.49 
+2015,07,30,16:00,ROCCAT,KappaKappa,mirage,Assembly Summer 2015 AMD CS:GO..,16,4,14,1,2,3,KappaKappa,5,18,0.29 

@@ -1,0 +1,5 @@
+2015,10,17,18:30,Recursive,JDWI,overpass,Jimm's CS:GO Challenge,16,10,9,6,7,4,Recursive,31,17,1.70 
+2015,10,17,18:30,JDWI,Recursive,cache,Jimm's CS:GO Challenge,16,13,8,7,8,6,Recursive,12,19,0.65 
+2015,10,17,18:30,JDWI,Recursive,mirage,Jimm's CS:GO Challenge,1,16,1,14,0,2,Recursive,12,9,1.14 
+2015,10,17,13:40,RCTIC,Recursive,overpass,Jimm's CS:GO Challenge,16,12,6,9,10,3,Recursive,14,24,0.64 
+2015,10,17,13:40,RCTIC,Recursive,train,Jimm's CS:GO Challenge,16,10,9,6,7,4,Recursive,25,20,1.42 

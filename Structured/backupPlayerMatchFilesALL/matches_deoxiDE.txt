@@ -1,0 +1,9 @@
+2015,10,17,12:00,Exile5,Renegades,cache,FACEIT League 2015 Stage 3,8,16,7,8,1,8,Renegades,12,9,1.05 
+2015,06,21,14:00,Streamline,Immunity,inferno,FACEIT League 2015 Stage 2,7,16,7,8,0,8,Streamline,21,20,1.30 
+2015,06,20,12:00,Streamline,DireWolves,inferno,FACEIT League 2015 Stage 2,13,16,8,7,5,9,Streamline,22,17,1.13 
+2015,05,31,12:00,VoxEminor,Streamline,cache,FACEIT League 2015 Stage 2,16,9,12,3,4,6,Streamline,15,20,0.69 
+2015,05,28,12:00,Exile5,Streamline,cache,FACEIT League 2015 Stage 2 Oce..,13,16,12,3,1,13,Streamline,30,18,1.33 
+2015,05,28,12:00,Streamline,Exile5,inferno,FACEIT League 2015 Stage 2 Oce..,16,8,10,5,6,3,Streamline,27,9,1.91 
+2015,05,28,12:00,Streamline,Exile5,mirage,FACEIT League 2015 Stage 2 Oce..,9,16,8,7,1,9,Streamline,11,19,0.66 
+2015,05,27,12:00,Streamline,Subzero,mirage,FACEIT League 2015 Stage 2 Oce..,22,20,10,5,5,10,Streamline,31,29,1.06 
+2015,05,27,12:00,Streamline,Subzero,dust2,FACEIT League 2015 Stage 2 Oce..,16,3,12,3,4,0,Streamline,23,2,2.08 

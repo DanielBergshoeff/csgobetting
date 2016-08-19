@@ -1,0 +1,13 @@
+2015,10,18,17:25,TheMooninites,SuckBrickKids,cache,Fragadelphia 6,20,22,12,3,3,12,The Mooninites,37,28,1.23 
+2015,10,18,02:00,Roca'scompLexity,TheMooninites,cache,Fragadelphia 6,16,9,9,6,7,3,The Mooninites,13,16,0.82 
+2015,10,18,02:00,TheMooninites,Roca'scompLexity,inferno,Fragadelphia 6,7,16,6,9,1,7,The Mooninites,11,19,0.59 
+2015,09,06,16:00,Nexus,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,14,16,7,8,7,8,Nexus,22,19,1.07 
+2015,09,06,16:00,Nexus,ACE,cache,WinOut $20,000 CS:GO Champions..,16,13,10,5,6,8,Nexus,20,18,1.07 
+2015,09,06,16:00,ACE,Nexus,overpass,WinOut $20,000 CS:GO Champions..,16,13,12,3,4,10,Nexus,27,21,1.28 
+2015,09,06,01:30,Nexus,Luminosity,cache,WinOut $20,000 CS:GO Champions..,8,16,6,9,2,7,Nexus,12,20,0.65 
+2015,09,06,01:30,Luminosity,Nexus,overpass,WinOut $20,000 CS:GO Champions..,16,5,10,5,6,0,Nexus,7,17,0.46 
+2015,09,05,18:15,Nexus,WinOut.net,overpass,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,Nexus,15,10,1.41 
+2015,09,05,17:30,Nexus,Method,cache,WinOut $20,000 CS:GO Champions..,8,16,6,9,2,7,Nexus,13,21,0.65 
+2015,09,05,16:15,WinOut.net,Nexus,inferno,WinOut $20,000 CS:GO Champions..,13,16,9,6,4,10,Nexus,20,20,0.97 
+2015,08,01,22:15,TempoStorm,Noble,cache,ESL One Cologne 2015 NA Qualif..,16,10,10,5,6,5,Noble,13,20,0.70 
+2015,08,01,19:00,Noble,Cloud9,cobblestone,ESL One Cologne 2015 NA Qualif..,2,16,2,13,0,3,Noble,11,16,0.73 

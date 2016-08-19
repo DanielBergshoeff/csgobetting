@@ -1,0 +1,14 @@
+2016,08,11,03:00,Tectonic,Rush,mirage,SL i-League S2 Americas Qualif..,16,7,11,4,5,3,Rush,19,16,1.29 
+2016,08,11,03:00,Tectonic,Rush,train,SL i-League S2 Americas Qualif..,16,5,14,1,2,4,Rush,10,19,0.59 
+2016,05,08,23:50,MostlyHomeless,EchoFox,mirage,MLG Regional Minor North Ameri..,16,9,9,6,7,3,Echo Fox,18,20,0.88 
+2016,05,08,20:40,EchoFox,Detonate,cache,MLG Regional Minor North Ameri..,8,16,4,11,4,5,Echo Fox,13,20,0.71 
+2016,05,08,20:40,EchoFox,Detonate,overpass,MLG Regional Minor North Ameri..,16,11,5,10,11,1,Echo Fox,31,12,1.86 
+2016,05,08,20:40,Detonate,EchoFox,mirage,MLG Regional Minor North Ameri..,16,11,10,5,6,6,Echo Fox,22,19,1.16 
+2016,05,08,18:00,Noble,EchoFox,dust2,MLG Regional Minor North Ameri..,9,16,7,8,2,8,Echo Fox,17,15,1.03 
+2016,05,08,18:00,Noble,EchoFox,mirage,MLG Regional Minor North Ameri..,9,16,8,7,1,9,Echo Fox,19,16,1.07 
+2016,05,06,04:00,EchoFox,WithoutaRoof,dust2,ECS Season 1,16,10,10,5,6,5,Echo Fox,22,13,1.36 
+2016,05,06,04:00,WithoutaRoof,EchoFox,cobblestone,ECS Season 1,15,19,5,10,10,5,Echo Fox,18,25,0.71 
+2016,04,30,22:00,NRG,EchoFox,overpass,ECS Season 1,16,10,6,9,10,1,Echo Fox,16,22,0.77 
+2016,04,30,22:00,NRG,EchoFox,dust2,ECS Season 1,16,10,8,7,8,3,Echo Fox,11,23,0.47 
+2016,04,29,01:00,EchoFox,Luminosity,train,ECS Season 1,14,16,3,12,11,4,Echo Fox,22,24,0.87 
+2016,04,29,01:00,Luminosity,EchoFox,dust2,ECS Season 1,16,12,9,6,7,6,Echo Fox,12,20,0.69 

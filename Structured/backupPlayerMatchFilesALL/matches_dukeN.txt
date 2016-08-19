@@ -1,0 +1,20 @@
+2016,06,15,22:15,Alpha,AlienTech,dust2,Game On CS:GO June Invitationa..,16,11,10,5,6,6,AlienTech,19,21,0.94 
+2016,06,15,22:15,Alpha,AlienTech,train,Game On CS:GO June Invitationa..,16,6,9,6,7,0,AlienTech,13,16,0.82 
+2016,06,13,19:00,GamersLeague,AlienTech,dust2,Game On CS:GO June Invitationa..,7,16,7,8,0,8,AlienTech,23,15,1.40 
+2016,06,13,19:00,AlienTech,GamersLeague,mirage,Game On CS:GO June Invitationa..,16,11,10,5,6,6,AlienTech,15,16,0.86 
+2016,05,31,21:25,AlienTech,Alpha,mirage,xfunction Challenge,10,16,6,9,4,7,AlienTech,12,19,0.65 
+2016,05,31,21:25,Alpha,AlienTech,cobblestone,xfunction Challenge,16,5,12,3,4,2,AlienTech,8,17,0.50 
+2016,05,29,16:40,AlienTech,AlienTech,mirage,AlienTech CS:GO Invitational I..,5,16,5,10,0,6,AlienTech,22,12,1.61 
+2016,05,29,16:40,AlienTech,AlienTech,cobblestone,AlienTech CS:GO Invitational I..,3,16,3,12,0,4,AlienTech,15,12,1.02 
+2016,05,29,16:40,AlienTech,AlienTech,overpass,AlienTech CS:GO Invitational I..,16,7,10,5,6,2,AlienTech,21,12,1.38 
+2016,05,29,13:00,AlienTech,Eyeshield,cobblestone,AlienTech CS:GO Invitational I..,16,9,9,6,7,3,AlienTech,24,14,1.35 
+2016,05,29,13:00,AlienTech,Eyeshield,dust2,AlienTech CS:GO Invitational I..,16,11,7,8,9,3,AlienTech,30,17,1.53 
+2016,05,24,22:00,AlienTech,Rasta,train,xfunction Challenge,16,2,13,2,3,0,AlienTech,18,6,1.64 
+2016,05,24,22:00,AlienTech,Rasta,mirage,xfunction Challenge,16,5,11,4,5,1,AlienTech,25,9,1.93 
+2016,05,23,19:00,Epsilon,AlienTech,train,xfunction Challenge,16,11,9,6,7,5,AlienTech,22,20,1.11 
+2016,05,06,20:00,AlienTech,RedLine,mirage,xfunction Challenge,16,14,12,3,4,11,AlienTech,17,19,0.93 
+2016,03,12,23:45,DEMONIO,ApokaAcademics,cobblestone,Razer Rising Stars South Ameri..,21,17,6,9,9,6,Apoka Academics,20,34,0.62 
+2016,01,08,23:15,Santos.DeX,Luminosity,cobblestone,MAX5 Invitational,5,16,5,10,0,6,Santos.DeX,7,16,0.50 
+2016,01,08,00:45,CNB,Santos.DeX,cobblestone,MAX5 Invitational,9,16,5,10,4,6,Santos.DeX,27,17,1.46 
+2016,01,07,17:30,INTZ,Santos.DeX,cobblestone,MAX5 Invitational,7,16,5,10,2,6,Santos.DeX,23,14,1.53 
+2016,01,06,14:30,g3x,Santos.DeX,mirage,MAX5 Invitational,16,14,11,4,5,10,Santos.DeX,20,26,0.84 

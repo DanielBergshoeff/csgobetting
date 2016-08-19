@@ -1,0 +1,22 @@
+2016,08,15,19:00,Bravado,carboN,cobblestone,WESG 2016 South & East Africa,16,10,8,7,8,3,carboN,18,19,1.11 
+2016,08,15,19:00,Bravado,carboN,mirage,WESG 2016 South & East Africa,16,11,8,7,8,4,carboN,15,23,0.69 
+2016,08,14,21:30,DamageControl,carboN,dust2,WESG 2016 South & East Africa,2,16,2,13,0,3,carboN,23,11,1.84 
+2016,08,14,21:30,carboN,DamageControl,cobblestone,WESG 2016 South & East Africa,16,14,8,7,8,7,carboN,25,19,1.25 
+2016,08,13,18:00,carboN,DamageControl,inferno,ESEA Open Season 22 South Afri..,16,4,11,4,5,0,carboN,22,11,1.58 
+2016,08,13,18:00,carboN,DamageControl,cache,ESEA Open Season 22 South Afri..,17,19,7,8,8,7,carboN,15,10,1.12 
+2016,08,13,18:00,DamageControl,carboN,train,ESEA Open Season 22 South Afri..,5,16,5,10,0,6,carboN,27,10,1.92 
+2016,08,09,20:00,xTc,carboN,dust2,ESEA Open Season 22 South Afri..,2,16,2,13,0,3,carboN,20,5,1.74 
+2016,08,09,20:00,xTc,carboN,mirage,ESEA Open Season 22 South Afri..,12,16,6,9,6,7,carboN,26,16,1.48 
+2016,08,05,18:00,Tunisia,SouthAfrica,cobblestone,World Championships 2016 Afric..,19,16,9,6,6,9,South Africa,27,26,0.99 
+2016,08,05,18:00,Tunisia,SouthAfrica,cache,World Championships 2016 Afric..,16,11,10,5,6,6,South Africa,19,17,1.04 
+2016,08,05,18:00,Tunisia,SouthAfrica,mirage,World Championships 2016 Afric..,17,19,6,9,9,6,South Africa,27,25,1.09 
+2016,08,04,21:20,Libya,SouthAfrica,overpass,World Championships 2016 Afric..,2,16,2,13,0,3,South Africa,14,9,1.19 
+2016,08,04,19:00,Egypt,SouthAfrica,mirage,World Championships 2016 Afric..,1,16,1,14,0,2,South Africa,14,6,1.39 
+2016,07,31,18:45,Bravado,carboN,train,ESWC 2016 South African Qualif..,16,4,12,3,4,1,carboN,11,17,0.70 
+2016,07,31,18:45,carboN,Bravado,cache,ESWC 2016 South African Qualif..,19,16,4,11,11,4,carboN,31,25,1.30 
+2016,07,31,18:45,carboN,Bravado,mirage,ESWC 2016 South African Qualif..,12,16,6,9,6,7,carboN,11,23,0.66 
+2016,07,31,14:45,carboN,DamageControl,cache,ESWC 2016 South African Qualif..,16,9,9,6,7,3,carboN,20,15,1.23 
+2016,07,31,14:45,DamageControl,carboN,dust2,ESWC 2016 South African Qualif..,16,14,5,10,11,4,carboN,23,20,1.07 
+2016,07,31,14:45,DamageControl,carboN,train,ESWC 2016 South African Qualif..,3,16,3,12,0,4,carboN,17,7,1.57 
+2016,07,30,19:30,Curiosity,carboN,train,ESWC 2016 South African Qualif..,5,16,4,11,1,5,carboN,11,10,1.00 
+2016,07,30,19:30,Curiosity,carboN,cobblestone,ESWC 2016 South African Qualif..,6,16,6,9,0,7,carboN,20,13,1.38 

@@ -1,0 +1,3 @@
+2016,07,19,03:15,TheFoundation,exceL,cache,RGN Pro Series II NA Closed Qu..,14,16,7,8,7,8,The Foundation,19,24,0.77 
+2016,07,19,03:15,TheFoundation,exceL,train,RGN Pro Series II NA Closed Qu..,16,3,12,3,4,0,The Foundation,17,11,1.30 
+2016,07,19,03:15,exceL,TheFoundation,dust2,RGN Pro Series II NA Closed Qu..,16,7,11,4,5,3,The Foundation,15,18,0.90 

@@ -1,0 +1,2 @@
+2015,11,07,11:00,Cybersport.plStaff,myXMGStaff,cache,Virtus.pro Staff Cup #3,10,16,6,9,4,7,myXMG Staff,13,21,0.64 
+2015,11,07,11:00,myXMGStaff,Cybersport.plStaff,inferno,Virtus.pro Staff Cup #3,19,16,8,7,7,8,myXMG Staff,10,24,0.53 

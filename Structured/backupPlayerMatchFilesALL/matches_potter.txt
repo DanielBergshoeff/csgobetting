@@ -1,0 +1,55 @@
+2016,03,26,20:30,CLGRed,Secretfe,cobblestone,Copenhagen Games 2016 female,5,16,4,11,1,5,CLG Red,12,20,0.60 
+2016,03,26,20:30,Secretfe,CLGRed,mirage,Copenhagen Games 2016 female,16,1,14,1,2,0,CLG Red,3,17,0.15 
+2016,03,26,17:00,CLGRed,Milleniumfe,inferno,Copenhagen Games 2016 female,16,10,10,5,6,5,CLG Red,22,14,1.33 
+2016,03,26,17:00,CLGRed,Milleniumfe,mirage,Copenhagen Games 2016 female,16,8,11,4,5,4,CLG Red,18,15,1.15 
+2016,03,26,17:00,CLGRed,Milleniumfe,overpass,Copenhagen Games 2016 female,13,16,9,6,4,10,CLG Red,25,20,1.21 
+2016,03,26,14:30,CLGRed,LDLCfe,inferno,Copenhagen Games 2016 female,16,1,14,1,2,0,CLG Red,23,6,2.00 
+2016,03,26,14:30,LDLCfe,CLGRed,cobblestone,Copenhagen Games 2016 female,8,16,3,12,5,4,CLG Red,20,16,1.23 
+2016,03,25,19:20,CLGRed,YPLadies,cobblestone,Copenhagen Games 2016 female,16,4,11,4,5,0,CLG Red,23,13,1.86 
+2016,03,25,19:20,YPLadies,CLGRed,dust2,Copenhagen Games 2016 female,13,16,6,9,7,7,CLG Red,27,21,1.30 
+2016,03,25,12:00,CLGRed,mConfe,inferno,Copenhagen Games 2016 female,16,9,13,2,3,7,CLG Red,28,15,1.80 
+2016,03,25,12:00,mConfe,CLGRed,cache,Copenhagen Games 2016 female,10,16,4,11,6,5,CLG Red,33,18,1.76 
+2016,03,06,22:30,CLGRed,WRTP,cache,Intel Challenge Katowice 2016,8,16,3,12,5,4,CLG Red,15,17,0.93 
+2016,03,06,22:30,WRTP,CLGRed,mirage,Intel Challenge Katowice 2016,16,10,12,3,4,7,CLG Red,15,18,0.91 
+2016,03,06,13:20,Karma,CLGRed,cache,Intel Challenge Katowice 2016,17,19,8,7,7,8,CLG Red,31,27,1.15 
+2016,03,06,13:20,Karma,CLGRed,mirage,Intel Challenge Katowice 2016,11,16,9,6,2,10,CLG Red,17,14,0.98 
+2016,03,06,13:20,Karma,CLGRed,inferno,Intel Challenge Katowice 2016,25,23,10,5,5,10,CLG Red,36,32,0.98 
+2016,03,05,20:30,CLGRed,Exertusfe,overpass,Intel Challenge Katowice 2016,16,5,11,4,5,1,CLG Red,24,9,2.00 
+2016,03,05,18:40,CLGRed,Elysium,dust2,Intel Challenge Katowice 2016,16,8,10,5,6,3,CLG Red,21,10,1.40 
+2015,12,06,04:00,CLGRed,compLexity,mirage,Northern Arena 2015,7,16,4,11,3,5,CLG Red,15,19,0.86 
+2015,12,06,02:45,CLGRed,Method,cache,Northern Arena 2015,11,16,2,13,9,3,CLG Red,11,22,0.53 
+2015,12,06,01:45,Splyce,CLGRed,dust2,Northern Arena 2015,16,5,10,5,6,0,CLG Red,12,19,0.75 
+2015,11,17,23:45,CLGRed,Luminosity,inferno,RGN Pro Series Championship,3,16,2,13,1,3,CLG Red,11,18,0.62 
+2015,11,17,22:30,CLGRed,Torqued,dust2,RGN Pro Series Championship,5,16,3,12,2,4,CLG Red,17,18,0.96 
+2015,11,17,19:00,CLGRed,Winterfox,mirage,RGN Pro Series Championship,13,16,5,10,8,6,CLG Red,19,21,0.89 
+2015,10,18,20:45,CLGRed,SuckBrickKids,cobblestone,Fragadelphia 6,8,16,6,9,2,7,CLG Red,23,18,1.20 
+2015,10,18,19:10,CLGRed,Torqued,cobblestone,Fragadelphia 6,3,16,3,12,0,4,CLG Red,4,18,0.28 
+2015,10,18,19:10,Torqued,CLGRed,dust2,Fragadelphia 6,16,9,7,8,9,1,CLG Red,11,21,0.54 
+2015,10,18,04:00,Eanix,CLGRed,train,Fragadelphia 6,9,16,7,8,2,8,CLG Red,22,15,1.22 
+2015,10,18,04:00,CLGRed,Eanix,mirage,Fragadelphia 6,16,14,11,4,5,10,CLG Red,20,21,0.98 
+2015,09,05,06:00,Swarm,CLGRed,cobblestone,WinOut $20,000 CS:GO Champions..,16,13,8,7,8,6,CLG Red,22,22,1.09 
+2015,09,05,05:30,CLGRed,3sUP,dust2,WinOut $20,000 CS:GO Champions..,9,16,9,6,0,10,CLG Red,19,19,1.09 
+2015,07,12,20:30,Games4ufe,CLGRed,inferno,ESWC 2015 Female,10,16,4,11,6,5,CLG Red,15,15,0.94 
+2015,07,12,20:30,CLGRed,Games4ufe,cache,ESWC 2015 Female,16,7,11,4,5,3,CLG Red,17,13,1.22 
+2015,07,12,16:00,CLGRed,Karma,cobblestone,ESWC 2015 Female,16,10,10,5,6,5,CLG Red,24,16,1.29 
+2015,07,12,16:00,CLGRed,Karma,dust2,ESWC 2015 Female,16,11,8,7,8,4,CLG Red,18,15,0.97 
+2015,07,12,00:45,CLGRed,Acerfe,dust2,ESWC 2015 Female,16,7,11,4,5,3,CLG Red,31,13,2.09 
+2015,07,11,23:30,LGBfe,CLGRed,cobblestone,ESWC 2015 Female,6,16,6,9,0,7,CLG Red,16,16,0.95 
+2015,07,11,22:30,Epsilonfe,CLGRed,inferno,ESWC 2015 Female,11,16,8,7,3,9,CLG Red,22,13,1.28 
+2015,05,28,01:15,Luminosity,Ubinited,inferno,FACEIT League 2015 Stage 2 NA ..,16,2,14,1,2,1,Ubinited,9,18,0.51 
+2015,05,28,01:15,Ubinited,Luminosity,cache,FACEIT League 2015 Stage 2 NA ..,11,16,4,11,7,5,Ubinited,20,21,0.96 
+2015,05,26,04:00,pMd,Ubinited,inferno,FACEIT League 2015 Stage 2 NA ..,9,16,4,11,5,5,Ubinited,21,14,1.32 
+2015,05,26,04:00,pMd,Ubinited,overpass,FACEIT League 2015 Stage 2 NA ..,13,16,7,8,6,8,Ubinited,24,21,1.05 
+2015,04,04,20:00,Ubinited,Karma,overpass,Copenhagen Games 2015 female,11,16,8,7,3,9,Ubinited,19,19,1.04 
+2015,04,04,20:00,Karma,Ubinited,cache,Copenhagen Games 2015 female,14,16,6,9,8,7,Ubinited,26,16,1.24 
+2015,04,04,20:00,Ubinited,Karma,mirage,Copenhagen Games 2015 female,12,16,7,8,5,8,Ubinited,21,21,1.08 
+2015,04,04,13:00,Ubinited,3DMAXfe,cache,Copenhagen Games 2015 female,16,9,13,2,3,7,Ubinited,19,16,1.11 
+2015,04,04,13:00,Ubinited,3DMAXfe,dust2,Copenhagen Games 2015 female,16,7,9,6,7,1,Ubinited,35,10,2.51 
+2015,04,04,10:00,Ubinited,CMStorm,mirage,Copenhagen Games 2015 female,16,7,10,5,6,2,Ubinited,24,11,1.47 
+2015,04,04,10:00,CMStorm,Ubinited,inferno,Copenhagen Games 2015 female,9,16,3,12,6,4,Ubinited,20,18,1.12 
+2015,04,03,18:30,Ubinited,eSportEngine,dust2,Copenhagen Games 2015 female,16,5,10,5,6,0,Ubinited,18,9,1.49 
+2015,04,03,18:30,eSportEngine,Ubinited,cache,Copenhagen Games 2015 female,16,12,5,10,11,2,Ubinited,22,21,1.06 
+2015,04,03,18:30,Ubinited,eSportEngine,inferno,Copenhagen Games 2015 female,19,15,11,4,4,11,Ubinited,37,21,1.70 
+2014,10,30,13:25,BadMonkey,Ubinited,inferno,ESWC 2014 Female,16,14,12,3,4,11,Ubinited,20,22,0.97 
+2014,10,30,12:15,Ubinited,myXMGfe,mirage,ESWC 2014 Female,14,16,7,8,7,8,Ubinited,19,18,0.95 
+2014,10,30,10:50,Ubinited,Reasonfe,cache,ESWC 2014 Female,16,4,11,4,5,0,Ubinited,14,10,1.14 

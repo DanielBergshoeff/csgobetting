@@ -1,0 +1,88 @@
+2016,08,15,13:00,TyLoo,VG.CyberZen,overpass,2016 D-Fire Lan Final,16,14,10,5,6,9,TyLoo,27,22,1.24 
+2016,08,15,13:00,TyLoo,VG.CyberZen,mirage,2016 D-Fire Lan Final,16,12,11,4,5,8,TyLoo,10,18,0.63 
+2016,08,07,06:00,AthleticoBH,TyLoo,train,SL i-League S2 China Finals,2,16,2,13,0,3,TyLoo,21,9,1.77 
+2016,08,07,06:00,TyLoo,AthleticoBH,dust2,SL i-League S2 China Finals,16,5,11,4,5,1,TyLoo,16,8,1.28 
+2016,08,07,06:00,AthleticoBH,TyLoo,mirage,SL i-League S2 China Finals,16,13,6,9,10,4,TyLoo,14,24,0.60 
+2016,08,06,09:45,TyLoo,AllGamers,train,SL i-League S2 China Finals,16,7,10,5,6,2,TyLoo,18,15,1.11 
+2016,08,06,09:45,AllGamers,TyLoo,cache,SL i-League S2 China Finals,5,16,5,10,0,6,TyLoo,19,14,1.22 
+2016,07,31,05:30,VG.CyberZen,TyLoo,cache,2016 D-Fire Lan Final,14,16,11,4,3,12,TyLoo,14,22,0.67 
+2016,07,31,05:30,TyLoo,VG.CyberZen,dust2,2016 D-Fire Lan Final,16,19,8,7,7,8,TyLoo,23,27,0.82 
+2016,07,24,07:45,TyLoo,VG.CyberZen,dust2,Pro Gamer League 2016 Summer F..,16,9,8,7,8,2,TyLoo,31,15,1.76 
+2016,07,24,07:45,TyLoo,VG.CyberZen,cache,Pro Gamer League 2016 Summer F..,16,14,7,8,9,6,TyLoo,27,22,1.20 
+2016,07,22,11:00,X,TyLoo,train,Pro Gamer League 2016 Summer F..,16,9,8,7,8,2,TyLoo,18,19,1.12 
+2016,07,22,11:00,TyLoo,X,mirage,Pro Gamer League 2016 Summer F..,10,16,8,7,2,9,TyLoo,26,22,1.21 
+2016,07,22,09:15,TyLoo,BornOfFire,cobblestone,Pro Gamer League 2016 Summer F..,16,8,9,6,7,2,TyLoo,23,16,1.44 
+2016,07,22,07:30,eFuture,TyLoo,mirage,Pro Gamer League 2016 Summer F..,15,15,13,2,2,13,TyLoo,33,22,1.50 
+2016,07,22,04:00,Epsilon,TyLoo,mirage,Pro Gamer League 2016 Summer F..,16,11,12,3,4,8,TyLoo,18,23,0.98 
+2016,07,09,09:45,VG.CyberZen,TyLoo,train,IGL Lan Final,8,16,6,9,2,7,TyLoo,25,18,1.39 
+2016,07,09,09:45,VG.CyberZen,TyLoo,cache,IGL Lan Final,13,16,6,9,7,7,TyLoo,25,14,1.38 
+2016,07,09,09:45,VG.CyberZen,TyLoo,dust2,IGL Lan Final,8,16,6,9,2,7,TyLoo,22,15,1.36 
+2016,07,08,05:30,TyLoo,VG.CyberZen,train,G-League Lan Final,16,13,10,5,6,8,TyLoo,24,17,1.31 
+2016,07,08,05:30,TyLoo,VG.CyberZen,cache,G-League Lan Final,14,16,11,4,3,12,TyLoo,15,24,0.68 
+2016,07,08,05:30,TyLoo,VG.CyberZen,dust2,G-League Lan Final,16,6,12,3,4,3,TyLoo,12,14,0.81 
+2016,07,08,05:30,TyLoo,VG.CyberZen,cobblestone,G-League Lan Final,16,11,7,8,9,3,TyLoo,17,16,0.94 
+2016,07,03,07:00,TyLoo,BornOfFire,cobblestone,NEA 2016 Finals ,16,11,8,7,8,4,TyLoo,25,18,1.30 
+2016,07,03,07:00,BornOfFire,TyLoo,cache,NEA 2016 Finals ,1,16,1,14,0,2,TyLoo,17,6,1.53 
+2016,07,01,05:00,VG.CyberZen,TyLoo,train,NEA 2016 Finals ,9,16,8,7,1,9,TyLoo,15,15,0.97 
+2016,07,01,05:00,TyLoo,VG.CyberZen,cobblestone,NEA 2016 Finals ,16,12,8,7,8,5,TyLoo,11,19,0.63 
+2016,06,12,21:00,TyLoo,dignitas,cobblestone,ESL One Cologne 2016 Main Qual..,3,16,3,12,0,4,TyLoo,10,19,0.56 
+2016,06,12,13:00,TyLoo,Splyce,mirage,ESL One Cologne 2016 Main Qual..,16,14,12,3,4,11,TyLoo,18,22,0.82 
+2016,06,11,17:45,TyLoo,Cloud9,cache,ESL One Cologne 2016 Main Qual..,13,16,10,5,3,11,TyLoo,21,21,1.07 
+2016,06,10,15:45,Immortals,TyLoo,cache,ESL One Cologne 2016 Main Qual..,11,16,5,10,6,6,TyLoo,17,18,0.93 
+2016,06,09,22:15,TyLoo,G2,cache,ESL One Cologne 2016 Main Qual..,9,16,8,7,1,9,TyLoo,13,22,0.65 
+2016,05,18,14:30,TyLoo,VG.CyberZen,cache,WCA Season 1 China Finals,16,2,13,2,3,0,TyLoo,18,8,1.71 
+2016,05,18,14:30,VG.CyberZen,TyLoo,dust2,WCA Season 1 China Finals,4,16,3,12,1,4,TyLoo,11,11,0.86 
+2016,05,18,14:30,TyLoo,VG.CyberZen,mirage,WCA Season 1 China Finals,16,8,10,5,6,3,TyLoo,21,16,1.17 
+2016,05,08,11:15,TyLoo,Renegades,cache,PGL KeSPA Regional Minor Champ..,16,13,4,11,12,2,TyLoo,19,20,0.84 
+2016,05,08,11:15,Renegades,TyLoo,mirage,PGL KeSPA Regional Minor Champ..,5,16,3,12,2,4,TyLoo,22,14,1.45 
+2016,05,08,11:15,TyLoo,Renegades,cobblestone,PGL KeSPA Regional Minor Champ..,5,16,2,13,3,3,TyLoo,7,18,0.48 
+2016,05,07,13:10,TyLoo,VG.CyberZen,overpass,PGL KeSPA Regional Minor Champ..,16,9,10,5,6,4,TyLoo,28,18,1.49 
+2016,05,07,13:10,TyLoo,VG.CyberZen,cobblestone,PGL KeSPA Regional Minor Champ..,16,3,13,2,3,1,TyLoo,18,10,1.48 
+2016,05,06,11:45,TyLoo,Renegades,cache,PGL KeSPA Regional Minor Champ..,14,16,8,7,6,9,TyLoo,19,19,0.91 
+2016,05,06,11:45,Renegades,TyLoo,mirage,PGL KeSPA Regional Minor Champ..,11,16,9,6,2,10,TyLoo,23,13,1.35 
+2016,05,06,11:45,Renegades,TyLoo,cobblestone,PGL KeSPA Regional Minor Champ..,16,12,8,7,8,5,TyLoo,16,18,0.83 
+2016,05,06,05:25,VG.CyberZen,TyLoo,cache,PGL KeSPA Regional Minor Champ..,10,16,5,10,5,6,TyLoo,12,18,0.66 
+2016,05,06,05:25,VG.CyberZen,TyLoo,dust2,PGL KeSPA Regional Minor Champ..,16,5,10,5,6,0,TyLoo,17,18,1.07 
+2016,05,06,05:25,TyLoo,VG.CyberZen,overpass,PGL KeSPA Regional Minor Champ..,21,17,9,6,6,9,TyLoo,31,22,1.25 
+2016,05,05,10:10,TyLoo,Renegades,overpass,PGL KeSPA Regional Minor Champ..,16,1,14,1,2,0,TyLoo,19,8,1.78 
+2016,05,05,10:10,Renegades,TyLoo,mirage,PGL KeSPA Regional Minor Champ..,11,16,5,10,6,6,TyLoo,23,18,1.31 
+2016,05,05,05:40,TyLoo,Risky,mirage,PGL KeSPA Regional Minor Champ..,16,6,12,3,4,3,TyLoo,24,13,1.69 
+2016,04,24,15:00,BornOfFire,TyLoo,inferno,Pro Gamers League 2016 Spring,7,16,3,12,4,4,TyLoo,23,13,1.52 
+2016,04,24,15:00,BornOfFire,TyLoo,cobblestone,Pro Gamers League 2016 Spring,6,16,5,10,1,6,TyLoo,19,12,1.28 
+2016,04,24,15:00,BornOfFire,TyLoo,mirage,Pro Gamers League 2016 Spring,6,16,3,12,3,4,TyLoo,16,9,1.17 
+2016,04,24,09:00,TyLoo,FIVE,cache,Pro Gamers League 2016 Spring,16,11,6,9,10,2,TyLoo,24,17,1.32 
+2016,04,24,09:00,FIVE,TyLoo,inferno,Pro Gamers League 2016 Spring,5,16,4,11,1,5,TyLoo,14,12,1.07 
+2016,04,23,16:20,TyLoo,eFuture.BJ,overpass,Pro Gamers League 2016 Spring,16,9,11,4,5,5,TyLoo,20,17,1.14 
+2016,04,16,11:00,TyLoo,NatusVincere,mirage,DreamHack Masters Malmö 2016,5,16,2,13,3,3,TyLoo,16,16,1.16 
+2016,04,16,11:00,TyLoo,NatusVincere,inferno,DreamHack Masters Malmö 2016,10,16,5,10,5,6,TyLoo,19,22,0.98 
+2016,04,14,11:00,Luminosity,TyLoo,inferno,DreamHack Masters Malmö 2016,12,16,6,9,6,7,TyLoo,15,15,0.97 
+2016,04,14,11:00,TyLoo,Luminosity,overpass,DreamHack Masters Malmö 2016,7,16,4,11,3,5,TyLoo,10,19,0.56 
+2016,04,14,11:00,TyLoo,Luminosity,cache,DreamHack Masters Malmö 2016,16,14,6,9,10,5,TyLoo,20,24,0.86 
+2016,04,13,11:00,TyLoo,Liquid,cobblestone,DreamHack Masters Malmö 2016,22,19,10,5,5,10,TyLoo,22,32,0.71 
+2016,04,12,11:00,TyLoo,Luminosity,mirage,DreamHack Masters Malmö 2016,7,16,3,12,4,4,TyLoo,17,19,0.99 
+2016,01,10,09:00,Wings,TyLoo,inferno,Fulcrum Gamers League Finals,17,19,10,5,5,10,TyLoo,29,25,1.13 
+2016,01,10,09:00,TyLoo,Wings,mirage,Fulcrum Gamers League Finals,16,8,13,2,3,6,TyLoo,27,15,1.63 
+2016,01,09,14:00,TyLoo,BornOfFire,cobblestone,Fulcrum Gamers League Finals,16,6,10,5,6,1,TyLoo,25,13,1.68 
+2016,01,09,14:00,TyLoo,BornOfFire,cache,Fulcrum Gamers League Finals,16,7,13,2,3,5,TyLoo,16,15,0.99 
+2016,01,09,06:00,TheMongolz,TyLoo,cobblestone,Fulcrum Gamers League Finals,14,16,5,10,9,6,TyLoo,21,21,0.95 
+2016,01,09,06:00,TheMongolz,TyLoo,mirage,Fulcrum Gamers League Finals,4,16,4,11,0,5,TyLoo,22,11,1.63 
+2016,01,09,06:00,TheMongolz,TyLoo,dust2,Fulcrum Gamers League Finals,16,11,5,10,11,1,TyLoo,17,25,0.76 
+2015,12,20,09:00,CyberZen,TyLoo,overpass,SL i-League StarSeries XIV Chi..,22,20,11,4,4,11,TyLoo,25,33,0.96 
+2015,12,20,09:00,TyLoo,CyberZen,mirage,SL i-League StarSeries XIV Chi..,16,12,8,7,8,5,TyLoo,17,19,0.83 
+2015,12,20,09:00,CyberZen,TyLoo,inferno,SL i-League StarSeries XIV Chi..,19,17,10,5,5,10,TyLoo,27,25,1.09 
+2015,12,20,09:00,TyLoo,CyberZen,cache,SL i-League StarSeries XIV Chi..,13,16,5,10,8,6,TyLoo,13,23,0.60 
+2015,12,19,11:15,CyberZen,TyLoo,cobblestone,SL i-League StarSeries XIV Chi..,4,16,3,12,1,4,TyLoo,16,9,1.29 
+2015,12,19,11:15,TyLoo,CyberZen,cache,SL i-League StarSeries XIV Chi..,16,10,7,8,9,2,TyLoo,23,15,1.35 
+2015,12,18,13:30,TyLoo,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,TyLoo,13,11,0.95 
+2015,12,18,13:30,BornOfFire,TyLoo,cache,SL i-League StarSeries XIV Chi..,1,16,0,15,1,1,TyLoo,22,12,1.83 
+2015,12,17,14:00,TyLoo,Wings,dust2,SL i-League StarSeries XIV Chi..,16,4,11,4,5,0,TyLoo,22,9,2.01 
+2015,12,17,14:00,Wings,TyLoo,cache,SL i-League StarSeries XIV Chi..,16,8,12,3,4,5,TyLoo,17,19,0.91 
+2015,12,17,14:00,TyLoo,Wings,inferno,SL i-League StarSeries XIV Chi..,16,10,11,4,5,6,TyLoo,29,15,1.66 
+2014,10,04,04:00,TyLoo,Nface.GM,nuke,ESWC 2014 China LAN Qualifier,12,16,6,9,6,7,TyLoo,24,20,1.20 
+2014,10,04,04:00,TyLoo,Nface.GM,train,ESWC 2014 China LAN Qualifier,8,16,6,9,2,7,TyLoo,25,17,1.43 
+2014,10,04,04:00,Nface.GM,TyLoo,inferno,ESWC 2014 China LAN Qualifier,9,16,7,8,2,8,TyLoo,28,14,1.90 
+2014,10,03,14:00,TyLoo,ZZCY,nuke,ESWC 2014 China LAN Qualifier,16,7,11,4,5,3,TyLoo,20,15,1.26 
+2014,10,03,14:00,TyLoo,ZZCY,mirage,ESWC 2014 China LAN Qualifier,16,6,12,3,4,3,TyLoo,30,13,2.03 
+2014,10,03,09:25,TyLoo,pow,nuke,ESWC 2014 China LAN Qualifier,23,25,7,8,8,7,TyLoo,40,36,1.11 
+2014,10,03,09:25,TyLoo,pow,cache,ESWC 2014 China LAN Qualifier,16,14,11,4,5,10,TyLoo,26,23,1.09 
+2014,10,03,09:25,TyLoo,pow,inferno,ESWC 2014 China LAN Qualifier,7,16,4,11,3,5,TyLoo,13,18,0.80 

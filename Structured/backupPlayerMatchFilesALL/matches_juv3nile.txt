@@ -1,0 +1,5 @@
+2014,10,09,04:00,iBUYPOWER,LunatiK,dust2,FACEIT League NA Season 2,31,27,8,7,7,8,LunatiK,33,45,0.78 
+2014,10,02,04:00,NetcodeGuides.com,LunatiK,nuke,FACEIT League NA Season 2,16,10,10,5,6,5,LunatiK,7,20,0.44 
+2014,09,18,04:00,LunatiK,savage,inferno,FACEIT League NA Season 2,16,6,10,5,6,1,LunatiK,14,11,1.07 
+2014,09,17,04:30,Mobility,LunatiK,inferno,FACEIT League NA Season 2,12,16,4,11,8,5,LunatiK,13,22,0.60 
+2014,09,04,05:15,Cloud9,LunatiK,dust2,FACEIT League NA Season 2,16,11,8,7,8,4,LunatiK,10,19,0.56 

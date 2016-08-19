@@ -1,0 +1,12 @@
+2016,02,20,17:30,Recursive,Propertyfe,dust2,Nordic Masters Season 2 Finals,16,8,8,7,8,1,Property fe,9,20,0.45 
+2016,02,20,17:30,Propertyfe,Recursive,cache,Nordic Masters Season 2 Finals,3,16,3,12,0,4,Property fe,7,16,0.47 
+2016,02,20,13:30,Propertyfe,DenDD,mirage,Nordic Masters Season 2 Finals,4,16,4,11,0,5,Property fe,14,17,0.91 
+2015,08,09,21:45,Propertyfe,LGBfe,mirage,NiP TV Female Challenge,4,16,4,11,0,5,Property fe,12,17,0.80 
+2015,08,09,21:45,Propertyfe,LGBfe,dust2,NiP TV Female Challenge,2,16,2,13,0,3,Property fe,8,14,0.58 
+2015,08,09,15:30,ex-meltyfe,Propertyfe,cache,NiP TV Female Challenge,16,14,7,8,9,6,Property fe,15,21,0.74 
+2015,08,09,15:30,Propertyfe,ex-meltyfe,mirage,NiP TV Female Challenge,7,16,7,8,0,8,Property fe,12,19,0.75 
+2015,04,03,21:30,CMStorm,Propertyfe,mirage,Copenhagen Games 2015 female,16,0,15,0,1,0,Property fe,2,16,0.10 
+2015,04,03,21:30,Propertyfe,CMStorm,cache,Copenhagen Games 2015 female,7,16,5,10,2,6,Property fe,21,18,1.22 
+2015,04,03,21:30,CMStorm,Propertyfe,overpass,Copenhagen Games 2015 female,14,16,8,7,6,9,Property fe,22,19,1.02 
+2015,04,03,12:00,Propertyfe,ex-meltyfe,mirage,Copenhagen Games 2015 female,10,16,7,8,3,8,Property fe,10,19,0.59 
+2015,04,03,12:00,ex-meltyfe,Propertyfe,dust2,Copenhagen Games 2015 female,16,6,9,6,7,0,Property fe,14,17,0.90 

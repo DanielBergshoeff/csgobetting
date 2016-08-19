@@ -1,0 +1,11 @@
+2015,04,03,22:30,PlayingDucks,jQntefabrikkeN,mirage,Copenhagen Games 2015,16,6,11,4,5,2,jQntefabrikkeN,12,18,0.81 
+2015,04,03,15:30,jQntefabrikkeN,Sharkgaming,dust2,Copenhagen Games 2015,9,16,5,10,4,6,jQntefabrikkeN,18,20,0.93 
+2015,04,03,15:30,jQntefabrikkeN,Sharkgaming,cache,Copenhagen Games 2015,16,10,8,7,8,3,jQntefabrikkeN,21,17,1.09 
+2015,04,03,15:30,Sharkgaming,jQntefabrikkeN,inferno,Copenhagen Games 2015,16,9,10,5,6,4,jQntefabrikkeN,15,22,0.72 
+2015,04,03,12:00,TSM,jQntefabrikkeN,mirage,Copenhagen Games 2015,16,2,13,2,3,0,jQntefabrikkeN,3,16,0.26 
+2015,04,03,12:00,TSM,jQntefabrikkeN,inferno,Copenhagen Games 2015,16,4,12,3,4,1,jQntefabrikkeN,16,17,1.05 
+2015,04,02,23:30,jQntefabrikkeN,FreeTransfer,cache,Copenhagen Games 2015,16,4,11,4,5,0,jQntefabrikkeN,23,8,1.86 
+2015,04,02,20:15,jQntefabrikkeN,puta,dust2,Copenhagen Games 2015,9,16,6,9,3,7,jQntefabrikkeN,16,21,0.80 
+2015,04,02,19:00,FreeTransfer,jQntefabrikkeN,mirage,Copenhagen Games 2015,4,16,1,14,3,2,jQntefabrikkeN,26,12,1.82 
+2015,04,02,15:30,jQntefabrikkeN,Sharkgaming,dust2,Copenhagen Games 2015,19,16,9,6,6,9,jQntefabrikkeN,20,26,0.79 
+2015,04,02,14:00,TEMPEST,jQntefabrikkeN,inferno,Copenhagen Games 2015,1,16,1,14,0,2,jQntefabrikkeN,14,10,1.13 

@@ -1,0 +1,128 @@
+2016,07,14,20:00,mousesports,G2,overpass,ELEAGUE Season 1,19,17,10,5,5,10,G2,14,23,0.68 
+2016,07,14,20:00,G2,mousesports,cache,ELEAGUE Season 1,25,22,4,11,11,4,G2,25,36,0.71 
+2016,07,14,20:00,mousesports,G2,dust2,ELEAGUE Season 1,16,9,11,4,5,5,G2,11,18,0.69 
+2016,07,02,13:50,RedInstinct,Millenium,overpass,ESL National Championship Fran..,14,16,5,10,9,6,Red Instinct,27,19,1.42 
+2016,07,02,13:50,Millenium,RedInstinct,cache,ESL National Championship Fran..,16,12,11,4,5,8,Red Instinct,17,21,0.84 
+2016,02,25,19:00,k1ck,LDLCWhite,cobblestone,Operation: Kinguin #2,16,12,6,9,10,3,LDLC White,19,20,0.88 
+2016,02,25,19:00,LDLCWhite,k1ck,cache,Operation: Kinguin #2,16,13,8,7,8,6,LDLC White,28,17,1.48 
+2016,02,25,19:00,k1ck,LDLCWhite,dust2,Operation: Kinguin #2,16,10,10,5,6,5,LDLC White,16,21,0.78 
+2016,02,22,21:00,Platinium,LDLCWhite,cobblestone,UnderDogs #2,16,5,10,5,6,0,LDLC White,14,17,0.85 
+2016,02,22,21:00,Platinium,LDLCWhite,inferno,UnderDogs #2,16,13,7,8,9,5,LDLC White,19,18,0.92 
+2016,02,12,18:00,ALTERNATEaTTaX,LDLCWhite,mirage,Acer Predator Masters powered ..,16,10,11,4,5,6,LDLC White,9,19,0.51 
+2016,02,12,18:00,ALTERNATEaTTaX,LDLCWhite,cobblestone,Acer Predator Masters powered ..,7,16,6,9,1,7,LDLC White,17,16,1.02 
+2016,02,12,18:00,LDLCWhite,ALTERNATEaTTaX,cache,Acer Predator Masters powered ..,16,21,6,9,9,6,LDLC White,24,28,0.90 
+2016,02,11,19:00,mousesports,LDLCWhite,cobblestone,Acer Predator Masters powered ..,16,13,8,7,8,6,LDLC White,17,17,0.93 
+2016,02,11,19:00,mousesports,LDLCWhite,dust2,Acer Predator Masters powered ..,21,18,5,10,10,5,LDLC White,27,23,1.12 
+2016,02,06,21:30,LDLCWhite,ENCE,cache,Assembly Winter 2016,16,7,11,4,5,3,LDLC White,19,12,1.31 
+2016,02,06,21:30,LDLCWhite,ENCE,dust2,Assembly Winter 2016,16,10,7,8,9,2,LDLC White,14,14,0.94 
+2016,02,06,13:00,LDLCWhite,LDLCBlue,mirage,Assembly Winter 2016,16,9,9,6,7,3,LDLC White,10,18,0.63 
+2016,02,06,13:00,LDLCBlue,LDLCWhite,cobblestone,Assembly Winter 2016,2,16,2,13,0,3,LDLC White,14,6,1.32 
+2016,02,05,21:45,EpiphanyBolt,LDLCWhite,inferno,Assembly Winter 2016,13,16,9,6,4,10,LDLC White,14,20,0.78 
+2016,02,05,21:45,EpiphanyBolt,LDLCWhite,dust2,Assembly Winter 2016,1,16,1,14,0,2,LDLC White,14,8,1.29 
+2016,02,05,17:00,ENCE,LDLCWhite,cobblestone,Assembly Winter 2016,16,14,6,9,10,5,LDLC White,23,22,1.03 
+2016,02,05,15:00,EpiphanyBolt,LDLCWhite,cobblestone,Assembly Winter 2016,14,16,6,9,8,7,LDLC White,21,21,0.93 
+2016,01,29,15:15,CG,LDLCWhite,cache,PGL Regional Minor Championshi..,16,13,10,5,6,8,LDLC White,26,19,1.23 
+2016,01,29,13:30,LDLCWhite,PENTA,cache,PGL Regional Minor Championshi..,13,16,9,6,4,10,LDLC White,19,21,0.93 
+2016,01,10,12:00,LDLCWhite,unu.AiN,inferno,DreamHack Open Leipzig 2016 Cl..,7,16,5,10,2,6,LDLC White,19,20,0.97 
+2016,01,10,12:00,unu.AiN,LDLCWhite,cobblestone,DreamHack Open Leipzig 2016 Cl..,16,2,13,2,3,0,LDLC White,9,16,0.57 
+2016,01,06,21:30,LDLCWhite,Pulse,overpass,PGL Regional Minor Championshi..,16,5,10,5,6,0,LDLC White,18,9,1.35 
+2016,01,06,21:30,Pulse,LDLCWhite,cache,PGL Regional Minor Championshi..,4,16,4,11,0,5,LDLC White,14,10,1.17 
+2015,12,15,21:00,Titan,LDLCWhite,cobblestone,Red Dot Invitational,16,12,8,7,8,5,LDLC White,13,18,0.72 
+2015,12,15,21:00,Titan,LDLCWhite,cache,Red Dot Invitational,2,16,2,13,0,3,LDLC White,15,7,1.32 
+2015,12,15,21:00,LDLCWhite,Titan,dust2,Red Dot Invitational,8,16,4,11,4,5,LDLC White,5,20,0.31 
+2015,12,10,21:00,CSGL,LDLCWhite,cobblestone,Acer Predator Masters powered ..,16,8,8,7,8,1,LDLC White,10,17,0.63 
+2015,12,10,21:00,LDLCWhite,CSGL,cache,Acer Predator Masters powered ..,5,16,5,10,0,6,LDLC White,8,19,0.40 
+2015,12,03,21:00,PENTA,LDLCWhite,dust2,Game Show Global eSports Cup 2..,16,9,12,3,4,6,LDLC White,13,14,0.91 
+2015,12,03,21:00,PENTA,LDLCWhite,cobblestone,Game Show Global eSports Cup 2..,19,17,4,11,11,4,LDLC White,13,24,0.61 
+2015,12,03,18:00,LDLCWhite,mousesports,mirage,Acer Predator Masters powered ..,6,16,3,12,3,4,LDLC White,8,17,0.54 
+2015,12,03,18:00,mousesports,LDLCWhite,dust2,Acer Predator Masters powered ..,14,16,7,8,7,8,LDLC White,20,18,1.02 
+2015,11,25,21:00,LDLCWhite,unu.AiN,cobblestone,Game Show Global eSports Cup 2..,1,16,1,14,0,2,LDLC White,13,15,0.84 
+2015,11,25,21:00,LDLCWhite,unu.AiN,inferno,Game Show Global eSports Cup 2..,16,11,7,8,9,3,LDLC White,23,14,1.38 
+2015,11,25,21:00,LDLCWhite,unu.AiN,dust2,Game Show Global eSports Cup 2..,14,16,6,9,8,7,LDLC White,15,21,0.72 
+2015,11,11,21:00,LDLCWhite,LondonC,cache,Counter Pit League Season 2 Qu..,8,16,7,8,1,8,LDLC White,11,19,0.58 
+2015,11,11,21:00,LDLCWhite,LondonC,inferno,Counter Pit League Season 2 Qu..,12,16,11,4,1,12,LDLC White,13,20,0.77 
+2015,11,11,21:00,LDLCWhite,LondonC,dust2,Counter Pit League Season 2 Qu..,16,14,10,5,6,9,LDLC White,18,20,0.91 
+2015,11,10,19:15,LDLCWhite,GRS.GP,dust2,Counter Pit League Season 2 Qu..,16,7,13,2,3,5,LDLC White,21,13,1.47 
+2015,11,10,19:15,LDLCWhite,GRS.GP,inferno,Counter Pit League Season 2 Qu..,16,3,12,3,4,0,LDLC White,6,9,0.72 
+2015,11,09,19:15,LDLCWhite,LDLCBlue,cobblestone,UnderDogs #1,16,8,11,4,5,4,LDLC White,20,13,1.19 
+2015,11,09,19:15,LDLCBlue,LDLCWhite,dust2,UnderDogs #1,10,16,9,6,1,10,LDLC White,14,14,1.01 
+2015,11,09,19:15,LDLCWhite,LDLCBlue,overpass,UnderDogs #1,13,16,12,3,1,13,LDLC White,11,22,0.63 
+2015,11,09,19:15,LDLCBlue,LDLCWhite,inferno,UnderDogs #1,25,28,6,9,9,6,LDLC White,28,38,0.78 
+2015,11,09,19:15,LDLCWhite,LDLCBlue,mirage,UnderDogs #1,16,19,5,10,10,5,LDLC White,27,21,1.20 
+2015,11,04,21:00,G2,LDLCWhite,cache,Fragbite Masters Season 5,16,7,9,6,7,1,LDLC White,5,18,0.38 
+2015,11,04,21:00,G2,LDLCWhite,inferno,Fragbite Masters Season 5,12,16,4,11,8,5,LDLC White,15,22,0.73 
+2015,11,04,21:00,LDLCWhite,G2,dust2,Fragbite Masters Season 5,12,16,10,5,2,11,LDLC White,15,21,0.69 
+2015,10,25,21:15,TSM,LDLCWhite,inferno,Acer Predator Masters powered ..,16,14,11,4,5,10,LDLC White,13,19,0.68 
+2015,10,25,21:15,LDLCWhite,TSM,overpass,Acer Predator Masters powered ..,5,16,5,10,0,6,LDLC White,9,16,0.58 
+2015,10,23,20:00,LDLCWhite,DenDD,cache,Acer Predator Masters powered ..,16,9,7,8,9,1,LDLC White,12,14,0.81 
+2015,10,23,20:00,LDLCWhite,DenDD,cobblestone,Acer Predator Masters powered ..,12,16,6,9,6,7,LDLC White,16,20,0.81 
+2015,10,22,22:15,LDLCWhite,HellRaisers,inferno,Acer Predator Masters powered ..,13,16,6,9,7,7,LDLC White,14,19,0.76 
+2015,10,22,22:15,HellRaisers,LDLCWhite,cobblestone,Acer Predator Masters powered ..,16,11,10,5,6,6,LDLC White,16,19,0.78 
+2015,10,19,19:15,LDLCWhite,Pulse,dust2,UnderDogs #1,16,4,13,2,3,2,LDLC White,12,10,1.00 
+2015,10,19,19:15,LDLCWhite,Pulse,cache,UnderDogs #1,16,4,12,3,4,1,LDLC White,18,9,1.49 
+2015,10,15,21:15,KILLERFISH,LDLCWhite,cache,Acer Predator Masters powered ..,16,11,11,4,5,7,LDLC White,13,21,0.63 
+2015,10,15,21:15,LDLCWhite,KILLERFISH,cobblestone,Acer Predator Masters powered ..,9,16,5,10,4,6,LDLC White,15,20,0.76 
+2015,10,05,22:30,LDLCWhite,Evokate,inferno,UnderDogs #1,16,10,7,8,9,2,LDLC White,13,15,0.94 
+2015,10,05,22:30,Evokate,LDLCWhite,dust2,UnderDogs #1,5,16,5,10,0,6,LDLC White,13,10,1.03 
+2015,09,28,21:30,Publiclir.se,LDLCWhite,cobblestone,Fragbite Masters Season 5 Main..,3,16,3,12,0,4,LDLC White,16,9,1.22 
+2015,09,28,21:30,LDLCWhite,Publiclir.se,cache,Fragbite Masters Season 5 Main..,14,16,9,6,5,10,LDLC White,16,22,0.84 
+2015,09,28,21:30,LDLCWhite,Publiclir.se,inferno,Fragbite Masters Season 5 Main..,16,6,11,4,5,2,LDLC White,15,10,1.15 
+2015,09,18,20:30,Fraternitas,LDLCWhite,dust2,99Damage Masters #3,16,13,8,7,8,6,LDLC White,14,23,0.65 
+2015,09,18,20:30,LDLCWhite,Fraternitas,overpass,99Damage Masters #3,13,16,10,5,3,11,LDLC White,13,19,0.70 
+2015,09,18,20:30,LDLCWhite,Fraternitas,inferno,99Damage Masters #3,16,10,11,4,5,6,LDLC White,19,14,1.14 
+2015,09,18,18:30,LDLCWhite,KeydStars,cache,99Damage Masters #3,16,6,11,4,5,2,LDLC White,14,8,1.21 
+2015,09,18,18:30,LDLCWhite,KeydStars,dust2,99Damage Masters #3,16,6,12,3,4,3,LDLC White,20,12,1.42 
+2015,09,17,18:00,Fraternitas,LDLCWhite,train,99Damage Masters #3,16,3,13,2,3,1,LDLC White,5,19,0.25 
+2015,09,17,18:00,Fraternitas,LDLCWhite,dust2,99Damage Masters #3,16,11,8,7,8,4,LDLC White,14,18,0.77 
+2015,09,17,18:00,Fraternitas,LDLCWhite,cache,99Damage Masters #3,11,16,7,8,4,8,LDLC White,16,19,0.80 
+2015,09,14,23:00,Serbia,France,inferno,World Championships 2015 Europ..,7,16,4,11,3,5,France,13,11,1.00 
+2015,08,17,21:00,LDLCWhite,CPHWolves,overpass,DreamHack Open London 2015 Clo..,13,16,8,7,5,9,LDLC White,16,21,0.77 
+2015,08,17,21:00,CPHWolves,LDLCWhite,inferno,DreamHack Open London 2015 Clo..,16,12,11,4,5,8,LDLC White,9,19,0.55 
+2015,07,10,19:00,NiP,LDLCWhite,cache,ESWC 2015,16,8,11,4,5,4,LDLC White,9,23,0.37 
+2015,07,10,17:30,LDLCWhite,QeeYou,inferno,ESWC 2015,13,16,8,7,5,9,LDLC White,23,20,1.10 
+2015,07,10,16:00,LDLCWhite,Liquid,train,ESWC 2015,13,16,4,11,9,5,LDLC White,15,20,0.81 
+2015,05,26,20:45,Fraternitas,LDLCWhite,train,99Damage Arena #8,16,9,14,1,2,8,LDLC White,11,20,0.60 
+2015,05,26,20:45,LDLCWhite,Fraternitas,inferno,99Damage Arena #8,10,16,6,9,4,7,LDLC White,16,19,0.87 
+2015,05,26,20:45,Fraternitas,LDLCWhite,dust2,99Damage Arena #8,5,16,5,10,0,6,LDLC White,14,12,1.13 
+2015,05,26,19:00,Acer,LDLCWhite,cobblestone,RGN Pro Series EU,12,16,5,10,7,6,LDLC White,23,17,1.16 
+2015,05,25,21:00,LDLCWhite,INSHOCK,train,SLTV StarSeries XIII,14,16,5,10,9,6,LDLC White,15,21,0.74 
+2015,05,25,21:00,LDLCWhite,INSHOCK,cache,SLTV StarSeries XIII,5,16,4,11,1,5,LDLC White,2,17,0.24 
+2015,05,25,21:00,INSHOCK,LDLCWhite,dust2,SLTV StarSeries XIII,3,16,2,13,1,3,LDLC White,20,12,1.61 
+2015,05,25,18:00,LDLCWhite,USSR,dust2,FACEIT League 2015 Stage 2 EU ..,21,17,5,10,10,5,LDLC White,26,24,0.94 
+2015,05,25,18:00,LDLCWhite,USSR,cobblestone,FACEIT League 2015 Stage 2 EU ..,21,18,7,8,8,7,LDLC White,26,24,0.95 
+2015,05,24,20:15,LGB,LDLCWhite,dust2,RGN Pro Series EU,16,12,8,7,8,5,LDLC White,13,20,0.70 
+2015,05,21,19:00,LDLCWhite,FlipSid3,mirage,SLTV StarSeries XIII,6,16,6,9,0,7,LDLC White,11,16,0.75 
+2015,05,21,19:00,FlipSid3,LDLCWhite,cache,SLTV StarSeries XIII,10,16,4,11,6,5,LDLC White,22,13,1.43 
+2015,05,21,19:00,LDLCWhite,FlipSid3,cobblestone,SLTV StarSeries XIII,12,16,4,11,8,5,LDLC White,20,21,0.97 
+2015,05,20,22:00,SpaceSoldiers,LDLCWhite,dust2,RGN Pro Series EU,16,8,8,7,8,1,LDLC White,8,17,0.52 
+2015,05,18,22:00,LDLCWhite,PiTER,mirage,RGN Pro Series EU Closed Quali..,10,16,5,10,5,6,LDLC White,10,22,0.49 
+2015,05,18,22:00,PiTER,LDLCWhite,inferno,RGN Pro Series EU Closed Quali..,16,7,12,3,4,4,LDLC White,12,16,0.91 
+2015,05,14,23:00,LDLCWhite,LDLCBlue,inferno,RGN Pro Series EU Closed Quali..,16,5,11,4,5,1,LDLC White,19,7,1.51 
+2015,05,13,20:00,KILLERFISH,LDLCWhite,inferno,RGN Pro Series EU Closed Quali..,9,16,2,13,7,3,LDLC White,14,17,0.87 
+2015,05,11,22:30,Publiclir.se,LDLCWhite,inferno,RGN Pro Series EU Closed Quali..,13,16,11,4,2,12,LDLC White,24,19,1.22 
+2015,05,09,22:30,HellRaisers,LDLCWhite,cache,DreamHack Open Tours 2015,16,14,8,7,8,7,LDLC White,22,17,1.10 
+2015,05,09,20:30,LDLCWhite,EnVyUs,inferno,DreamHack Open Tours 2015,22,25,5,10,10,5,LDLC White,30,31,0.93 
+2015,05,09,10:00,LDLCWhite,Awsomniac,cobblestone,DreamHack Open Tours 2015 BYOC..,16,14,10,5,6,9,LDLC White,12,18,0.74 
+2015,05,08,20:30,LDLCBlue,LDLCWhite,cobblestone,DreamHack Open Tours 2015 BYOC..,8,16,7,8,1,8,LDLC White,19,13,1.25 
+2015,05,08,19:35,LDLCWhite,beGenius,cache,DreamHack Open Tours 2015 BYOC..,16,9,7,8,9,1,LDLC White,20,15,1.16 
+2015,04,21,19:00,FlipSid3,LDLCWhite,cache,DreamHack Open Tours 2015 Clos..,16,14,10,5,6,9,LDLC White,17,22,0.81 
+2015,04,21,19:00,LDLCWhite,FlipSid3,inferno,DreamHack Open Tours 2015 Clos..,3,16,3,12,0,4,LDLC White,5,15,0.39 
+2015,04,21,19:00,FlipSid3,LDLCWhite,cobblestone,DreamHack Open Tours 2015 Clos..,16,3,12,3,4,0,LDLC White,10,17,0.83 
+2015,04,21,19:00,LDLCWhite,FlipSid3,mirage,DreamHack Open Tours 2015 Clos..,16,11,10,5,6,6,LDLC White,12,17,0.70 
+2015,04,20,18:00,Property,LDLCWhite,cobblestone,DreamHack Open Tours 2015 Clos..,7,16,7,8,0,8,LDLC White,18,15,1.14 
+2015,04,20,18:00,LDLCWhite,Property,dust2,DreamHack Open Tours 2015 Clos..,21,19,9,6,6,9,LDLC White,27,28,0.95 
+2015,04,20,18:00,LDLCWhite,Property,inferno,DreamHack Open Tours 2015 Clos..,13,16,9,6,4,10,LDLC White,13,22,0.67 
+2014,10,31,16:30,CPHWolves,Platinium,inferno,ESWC 2014,16,6,10,5,6,1,Platinium,12,17,0.65 
+2014,10,31,14:30,KaBuM.TD,Platinium,dust2,ESWC 2014,16,12,10,5,6,7,Platinium,11,22,0.54 
+2014,10,31,12:50,Platinium,NiP,cobblestone,ESWC 2014,16,10,8,7,8,3,Platinium,21,15,1.35 
+2014,10,31,11:30,Platinium,Titan,mirage,ESWC 2014,8,16,8,7,0,9,Platinium,16,17,0.94 
+2014,10,31,09:45,HellRaisers,Platinium,dust2,ESWC 2014,16,12,6,9,10,3,Platinium,13,19,0.73 
+2014,10,29,13:55,LDLC,Platinium,dust2,ESWC 2014 France,16,2,14,1,2,1,Platinium,4,17,0.23 
+2014,10,29,11:35,Platinium,iGamerz,mirage,ESWC 2014 France,16,9,13,2,3,7,Platinium,28,13,1.70 
+2014,10,29,09:30,Platinium,LDLC,inferno,ESWC 2014 France,13,16,9,6,4,10,Platinium,17,22,0.81 
+2014,07,19,11:15,Platinium,k1ck,nuke,DreamHack Valencia 2014,20,22,10,5,5,10,Platinium,36,25,1.28 
+2014,07,19,11:15,Platinium,k1ck,dust2,DreamHack Valencia 2014,14,16,8,7,6,9,Platinium,20,21,0.98 
+2014,07,19,11:15,Platinium,k1ck,inferno,DreamHack Valencia 2014,16,6,10,5,6,1,Platinium,20,9,1.51 
+2014,07,18,22:30,gBots,Platinium,dust2,DreamHack Valencia 2014,6,16,4,11,2,5,Platinium,11,11,0.89 
+2014,07,18,20:25,Epsilon,Platinium,inferno,DreamHack Valencia 2014,16,13,10,5,6,8,Platinium,24,22,1.07 
+2014,07,18,18:30,Platinium,gBots,inferno,DreamHack Valencia 2014,16,13,8,7,8,6,Platinium,23,17,1.21 

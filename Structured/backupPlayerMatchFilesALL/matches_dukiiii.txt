@@ -1,0 +1,33 @@
+2015,11,13,20:15,CSGOBESTPOT.com,ttc,dust2,QuickShot Showmatches,7,16,5,10,2,6,ttc,19,15,1.15 
+2015,11,13,20:15,CSGOBESTPOT.com,ttc,cache,QuickShot Showmatches,13,16,4,11,9,5,ttc,19,25,0.90 
+2015,11,02,18:00,MaxAndRelax,Arcade,dust2,D!ngIT $2000 Weekly Cup #24,21,26,5,10,10,5,MaxAndRelax,24,39,0.70 
+2015,10,30,17:15,PiTER,ttc,mirage,QuickShot Showmatches,3,16,3,12,0,4,ttc,17,10,1.47 
+2015,10,30,17:15,PiTER,ttc,cache,QuickShot Showmatches,14,16,4,11,10,5,ttc,28,23,1.24 
+2015,10,23,20:00,ttc,VegaSquadron,mirage,QuickShot Showmatches,5,16,5,10,0,6,ttc,9,19,0.49 
+2015,10,23,20:00,ttc,VegaSquadron,dust2,QuickShot Showmatches,7,16,6,9,1,7,ttc,7,21,0.35 
+2015,10,21,18:30,Torpedo,ttc,overpass,RGN European Open,14,16,10,5,4,11,ttc,28,19,1.37 
+2015,10,21,18:30,Torpedo,ttc,dust2,RGN European Open,16,13,5,10,11,3,ttc,24,20,1.14 
+2015,10,21,18:30,ttc,Torpedo,train,RGN European Open,16,12,9,6,7,6,ttc,24,19,1.25 
+2015,10,14,18:00,TSM,ttc,overpass,Fragbite Masters Season 5,16,8,11,4,5,4,ttc,17,19,0.88 
+2015,10,14,18:00,TSM,ttc,cache,Fragbite Masters Season 5,16,7,9,6,7,1,ttc,18,19,1.07 
+2015,10,04,18:30,ttc,CPHWolves,mirage,Fragbite Masters Season 5 Main..,16,14,6,9,10,5,ttc,24,21,1.13 
+2015,10,04,18:30,CPHWolves,ttc,cobblestone,Fragbite Masters Season 5 Main..,9,16,6,9,3,7,ttc,32,15,1.79 
+2015,10,04,18:30,ttc,CPHWolves,cache,Fragbite Masters Season 5 Main..,14,16,6,9,8,7,ttc,23,21,1.14 
+2015,09,29,20:00,Caseking,Planetkey,cache,99Damage League Season 1,16,10,7,8,9,2,Caseking,21,17,1.16 
+2015,09,29,20:00,Planetkey,Caseking,cobblestone,99Damage League Season 1,6,16,4,11,2,5,Caseking,18,15,1.18 
+2015,09,22,19:00,Caseking,EYESONU,inferno,99Damage League Season 1,16,13,9,6,7,7,Caseking,29,22,1.37 
+2015,09,22,19:00,Caseking,EYESONU,dust2,99Damage League Season 1,17,19,5,10,10,5,Caseking,30,25,1.14 
+2015,09,18,22:00,Property,nerdRage,mirage,GameAgents League Season 2,10,16,6,9,4,7,nerdRage,24,16,1.53 
+2015,09,18,22:00,nerdRage,Property,cache,GameAgents League Season 2,19,16,7,8,8,7,nerdRage,24,28,0.87 
+2015,09,02,21:15,Caseking,PENTA,inferno,99Damage League Season 1,17,19,7,8,8,7,Caseking,32,29,1.19 
+2015,09,02,21:15,Caseking,PENTA,cache,99Damage League Season 1,16,11,9,6,7,5,Caseking,17,16,0.90 
+2015,08,25,21:45,Caseking,PlayingDucks,inferno,99Damage League Season 1,14,16,10,5,4,11,Caseking,26,25,1.01 
+2015,08,25,21:45,PlayingDucks,Caseking,dust2,99Damage League Season 1,9,16,6,9,3,7,Caseking,15,20,0.71 
+2015,04,20,21:00,KILLERFISH,HellRaisers,dust2,DreamHack Open Tours 2015 Clos..,8,16,4,11,4,5,KILLERFISH,15,20,0.75 
+2015,04,20,21:00,KILLERFISH,HellRaisers,inferno,DreamHack Open Tours 2015 Clos..,4,16,3,12,1,4,KILLERFISH,14,19,0.74 
+2015,04,20,21:00,KILLERFISH,HellRaisers,cache,DreamHack Open Tours 2015 Clos..,16,3,13,2,3,1,KILLERFISH,17,14,1.11 
+2015,01,11,15:20,unu.AiN,GEDUKT,overpass,ASUS ROG Winter 2015 Qualifier,9,16,6,9,3,7,GEDUKT,13,18,0.73 
+2015,01,11,15:20,unu.AiN,GEDUKT,dust2,ASUS ROG Winter 2015 Qualifier,12,16,8,7,4,9,GEDUKT,23,18,1.21 
+2015,01,11,14:15,volgare,GEDUKT,inferno,ASUS ROG Winter 2015 Qualifier,7,16,7,8,0,8,GEDUKT,9,20,0.51 
+2014,08,25,20:00,PENTA,ttc,mirage,FACEIT League 2 EU Closed Qual..,16,9,10,5,6,4,ttc,20,18,1.06 
+2014,08,24,22:15,Imaginary,ttc,mirage,FACEIT League 2 EU pre-qualifi..,13,16,7,8,6,8,ttc,26,20,1.24 

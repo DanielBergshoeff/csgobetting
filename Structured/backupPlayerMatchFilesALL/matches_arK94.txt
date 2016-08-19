@@ -1,0 +1,16 @@
+2015,09,28,19:30,RedInstinct,LDLCBlue,dust2,UnderDogs #1,5,16,2,13,3,3,Red Instinct,11,18,0.66 
+2015,09,28,19:30,RedInstinct,LDLCBlue,cobblestone,UnderDogs #1,13,16,4,11,9,5,Red Instinct,23,19,1.10 
+2015,09,18,19:30,RedInstinct,melty,cache,LevelDown Championship,16,12,10,5,6,7,Red Instinct,21,15,1.19 
+2015,09,17,22:15,DeadPixels,RedInstinct,mirage,LevelDown Championship,16,1,14,1,2,0,Red Instinct,13,16,0.89 
+2015,09,17,22:15,RedInstinct,DeadPixels,cobblestone,LevelDown Championship,16,11,7,8,9,3,Red Instinct,21,16,1.18 
+2015,09,17,22:15,RedInstinct,DeadPixels,dust2,LevelDown Championship,5,16,5,10,0,6,Red Instinct,12,19,0.64 
+2015,09,16,23:45,RedInstinct,TS-Netteux,dust2,LevelDown Championship,16,14,5,10,11,4,Red Instinct,26,22,1.06 
+2015,09,16,21:30,RedInstinct,WEGOTGAME,cobblestone,LevelDown Championship,13,16,4,11,9,5,Red Instinct,25,20,1.25 
+2015,06,03,23:00,k1ck,Awsomniac,overpass,CEVO Main Season 7,13,16,7,8,6,8,Awsomniac,30,19,1.46 
+2015,05,09,16:10,Awsomniac,FlipSid3,cobblestone,DreamHack Open Tours 2015,6,16,2,13,4,3,Awsomniac,11,17,0.68 
+2015,05,09,14:45,fnatic,Awsomniac,mirage,DreamHack Open Tours 2015,16,4,12,3,4,1,Awsomniac,14,17,1.00 
+2015,05,09,10:00,LDLCWhite,Awsomniac,cobblestone,DreamHack Open Tours 2015 BYOC..,16,14,10,5,6,9,Awsomniac,18,19,0.92 
+2015,05,09,00:00,Awsomniac,LDLCBlue,overpass,DreamHack Open Tours 2015 BYOC..,16,13,9,6,7,7,Awsomniac,22,18,1.06 
+2015,05,08,22:45,Awsomniac,beGenius,inferno,DreamHack Open Tours 2015 BYOC..,16,10,10,5,6,5,Awsomniac,27,15,1.68 
+2015,05,08,21:40,melty,Awsomniac,mirage,DreamHack Open Tours 2015 BYOC..,12,16,9,6,3,10,Awsomniac,22,18,1.09 
+2015,05,08,19:35,Awsomniac,LDLCBlue,dust2,DreamHack Open Tours 2015 BYOC..,12,16,4,11,8,5,Awsomniac,31,16,1.67 

@@ -1,0 +1,7 @@
+2014,10,15,23:00,ePlay,eliminacja,cobblestone,ESL Pro Series Poland Season 9,16,10,10,5,6,5,eliminacja,8,19,0.50 
+2014,10,12,20:15,eliminacja,HAXCON,dust2,ESL Pro Series Poland Season 9,8,16,3,12,5,4,eliminacja,17,19,0.96 
+2014,10,06,19:15,31337,eliminacja,overpass,ESL Pro Series Poland Season 9,16,10,10,5,6,5,eliminacja,17,22,0.76 
+2014,09,30,21:30,noMERCY,eliminacja,nuke,ESL Pro Series Poland Season 9,16,10,14,1,2,9,eliminacja,18,21,0.89 
+2014,06,11,20:20,Virtus.pro,myRevenge,nuke,ESL Pro Series Poland Season 8,16,4,12,3,4,1,myRevenge,11,19,0.62 
+2014,06,07,21:00,myRevenge,Dobry&Gaming,inferno,ESL Pro Series Poland Season 8,4,16,4,11,0,5,myRevenge,7,18,0.40 
+2014,06,02,20:00,ALSEN,myRevenge,mirage,ESL Pro Series Poland Season 8,16,14,8,7,8,7,myRevenge,17,25,0.73 

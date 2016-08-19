@@ -1,0 +1,4 @@
+2015,07,18,16:45,MVP.karnal,NeckBreak,inferno,ESL One Cologne 2015 Asian Qua..,16,7,13,2,3,5,NeckBreak,10,17,0.60 
+2015,07,18,11:30,Renegades,NeckBreak,inferno,ESL One Cologne 2015 Asian Qua..,16,0,15,0,1,0,NeckBreak,5,16,0.26 
+2014,08,14,10:30,HellRaisers,Wolf,mirage,ESL One Cologne 2014,16,4,11,4,5,0,Wolf,9,18,0.52 
+2014,08,14,09:00,Wolf,NiP,dust2,ESL One Cologne 2014,7,16,4,11,3,5,Wolf,14,18,0.86 

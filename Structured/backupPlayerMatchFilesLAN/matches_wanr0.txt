@@ -1,0 +1,5 @@
+2015,07,19,11:30,Immunity,MVP.karnal,cobblestone,ESL One Cologne 2015 Asian Qua..,16,7,10,5,6,2,MVP.karnal,13,19,0.74 
+2015,07,19,11:30,MVP.karnal,Immunity,mirage,ESL One Cologne 2015 Asian Qua..,13,16,7,8,6,8,MVP.karnal,16,20,0.81 
+2015,07,19,06:45,MVP.karnal,QeeYou,overpass,ESL One Cologne 2015 Asian Qua..,16,5,10,5,6,0,MVP.karnal,19,8,1.51 
+2015,07,18,16:45,MVP.karnal,NeckBreak,inferno,ESL One Cologne 2015 Asian Qua..,16,7,13,2,3,5,MVP.karnal,21,11,1.47 
+2015,07,18,13:30,MVP.karnal,QeeYou,inferno,ESL One Cologne 2015 Asian Qua..,11,16,9,6,2,10,MVP.karnal,13,23,0.63 

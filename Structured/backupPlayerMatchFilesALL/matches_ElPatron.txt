@@ -1,0 +1,48 @@
+2016,06,11,13:00,Renegades,FluffyGangsters,mirage,ESL One Cologne 2016 Main Qual..,16,11,11,4,5,7,Fluffy Gangsters,13,22,0.64 
+2016,06,10,13:00,FluffyGangsters,OpTic,train,ESL One Cologne 2016 Main Qual..,9,16,6,9,3,7,Fluffy Gangsters,11,19,0.59 
+2016,06,09,16:55,FluffyGangsters,mousesports,dust2,ESL One Cologne 2016 Main Qual..,16,19,8,7,7,8,Fluffy Gangsters,19,26,0.75 
+2016,06,05,12:00,FluffyGangsters,SpaceSoldiers,train,DreamHack ZOWIE Open Summer 20..,13,16,7,8,6,8,Fluffy Gangsters,21,20,1.02 
+2016,06,05,12:00,FluffyGangsters,SpaceSoldiers,dust2,DreamHack ZOWIE Open Summer 20..,13,16,6,9,7,7,Fluffy Gangsters,24,20,1.16 
+2016,05,29,16:30,BinaryDragons,Arcade,dust2,DreamHack ZOWIE Open Summer 20..,24,28,7,8,8,7,Binary Dragons,36,33,1.01 
+2016,05,29,16:30,BinaryDragons,Arcade,mirage,DreamHack ZOWIE Open Summer 20..,7,16,6,9,1,7,Binary Dragons,16,17,0.89 
+2016,05,29,12:15,BinaryDragons,mix123,mirage,DreamHack ZOWIE Open Summer 20..,16,13,4,11,12,2,Binary Dragons,16,18,0.93 
+2016,05,29,12:15,BinaryDragons,mix123,cobblestone,DreamHack ZOWIE Open Summer 20..,11,16,3,12,8,4,Binary Dragons,16,20,0.81 
+2016,05,29,12:15,BinaryDragons,mix123,dust2,DreamHack ZOWIE Open Summer 20..,16,4,11,4,5,0,Binary Dragons,17,10,1.26 
+2016,05,01,19:45,Empire,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,12,16,6,9,6,7,Fluffy Gangsters,14,19,0.80 
+2016,05,01,19:45,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,16,11,6,9,10,2,Fluffy Gangsters,20,17,0.99 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,16,11,7,8,9,3,Fluffy Gangsters,23,15,1.35 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,dust2,StarLadder Minor CIS - Cologne..,16,14,7,8,9,6,Fluffy Gangsters,17,20,0.82 
+2016,04,30,20:30,FluffyGangsters,Empire,train,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Fluffy Gangsters,21,21,1.00 
+2016,04,30,20:30,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,6,16,2,13,4,3,Fluffy Gangsters,20,17,1.21 
+2016,04,30,20:30,Empire,FluffyGangsters,dust2,StarLadder Minor CIS - Cologne..,3,16,3,12,0,4,Fluffy Gangsters,16,9,1.29 
+2016,04,30,13:00,ANOX,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,15,19,8,7,7,8,Fluffy Gangsters,16,19,0.80 
+2016,04,30,13:00,FluffyGangsters,ANOX,cobblestone,StarLadder Minor CIS - Cologne..,9,16,8,7,1,9,Fluffy Gangsters,16,18,0.88 
+2016,04,30,13:00,ANOX,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,3,16,2,13,1,3,Fluffy Gangsters,14,9,1.20 
+2016,04,28,15:30,FluffyGangsters,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,9,12,3,4,6,Fluffy Gangsters,26,14,1.48 
+2016,04,28,15:30,DigitalWave,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,10,16,3,12,7,4,Fluffy Gangsters,20,16,1.09 
+2016,04,28,11:55,Arcade,FluffyGangsters,train,StarLadder Minor CIS - Cologne..,13,16,7,8,6,8,Fluffy Gangsters,14,16,0.87 
+2016,04,20,20:00,Tempest,FluffyGangsters,mirage,StarLadder Regional Minor Cham..,17,19,10,5,5,10,Fluffy Gangsters,21,23,0.88 
+2016,04,20,20:00,FluffyGangsters,Tempest,dust2,StarLadder Regional Minor Cham..,19,16,5,10,10,5,Fluffy Gangsters,20,23,0.82 
+2016,03,26,19:00,FluffyGangsters,Arcade,inferno,SL I-League Invitational #1 EU..,13,16,9,6,4,10,Fluffy Gangsters,14,24,0.64 
+2016,03,26,19:00,Arcade,FluffyGangsters,mirage,SL I-League Invitational #1 EU..,16,3,13,2,3,1,Fluffy Gangsters,7,17,0.42 
+2016,03,25,19:00,FluffyGangsters,AGG,inferno,SL I-League Invitational #1 EU..,16,13,9,6,7,7,Fluffy Gangsters,23,16,1.17 
+2016,03,23,19:00,CSGL,FluffyGangsters,train,SL I-League Invitational #1 EU..,16,14,7,8,9,6,Fluffy Gangsters,20,20,0.95 
+2016,03,20,13:00,G2,FluffyGangsters,inferno,DreamHack Masters Malmö 2016 E..,16,2,13,2,3,0,Fluffy Gangsters,9,17,0.59 
+2016,03,20,13:00,G2,FluffyGangsters,dust2,DreamHack Masters Malmö 2016 E..,16,13,8,7,8,6,Fluffy Gangsters,23,19,1.16 
+2016,03,11,20:00,LeiSuRe,FluffyGangsters,dust2,Razer Rising Stars European Le..,16,14,5,10,11,4,Fluffy Gangsters,18,19,1.03 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,mirage,Binary Dragons Cup Season 2,12,16,5,10,7,6,Fluffy Gangsters,22,20,1.10 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,dust2,Binary Dragons Cup Season 2,19,16,4,11,11,4,Fluffy Gangsters,31,21,1.28 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,train,Binary Dragons Cup Season 2,13,16,9,6,4,10,Fluffy Gangsters,17,24,0.73 
+2016,02,06,21:20,FluffyGangsters,Revolution,dust2,Binary Dragons Hellstore Winte..,17,19,9,6,6,9,Fluffy Gangsters,18,28,0.71 
+2016,02,06,21:20,FluffyGangsters,Revolution,cache,Binary Dragons Hellstore Winte..,12,16,5,10,7,6,Fluffy Gangsters,21,18,1.10 
+2016,01,23,15:30,FluffyGangsters,Quest,mirage,StarLadder Regional Minor Cham..,14,16,6,9,8,7,Fluffy Gangsters,22,23,1.00 
+2016,01,22,12:00,FluffyGangsters,Method,overpass,StarLadder Regional Minor Cham..,10,16,6,9,4,7,Fluffy Gangsters,15,20,0.76 
+2015,09,18,16:25,PiTER,NewEra,tuscan,Rising Showmatch,10,16,4,11,6,5,New Era,19,14,1.17 
+2015,09,18,16:25,NewEra,PiTER,season,Rising Showmatch,11,16,8,7,3,9,New Era,13,21,0.61 
+2015,06,25,19:00,Enso,Evolution,inferno,Rising Tornado #2,16,19,8,7,7,8,Enso,18,23,0.81 
+2015,06,25,18:00,TEAMSWAGYOLO,Enso,cache,Rising Tornado #2,16,13,8,7,8,6,Enso,24,20,1.14 
+2014,10,14,18:00,Nostalgie,UNNAMED,dust2,CIS Rising League Season 1,16,12,9,6,7,6,UNNAMED,15,19,0.83 
+2014,10,14,18:00,UNNAMED,Nostalgie,season,CIS Rising League Season 1,9,16,5,10,4,6,UNNAMED,17,20,1.01 
+2014,09,05,18:00,UNNAMED,dAT,train,CIS Rising League Season 1,16,13,12,3,4,10,UNNAMED,21,23,0.95 
+2014,09,05,18:00,UNNAMED,dAT,nuke,CIS Rising League Season 1,10,16,7,8,3,8,UNNAMED,23,18,1.21 
+2014,09,05,18:00,dAT,UNNAMED,cache,CIS Rising League Season 1,23,26,11,4,4,11,UNNAMED,25,33,0.76 

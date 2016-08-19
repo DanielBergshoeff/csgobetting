@@ -1,0 +1,5 @@
+2016,08,14,14:30,Orange,Signature,nuke,ESEA Open Season 22 Asia,6,16,5,10,1,6,Orange,9,20,0.44 
+2016,08,14,14:30,Orange,Signature,overpass,ESEA Open Season 22 Asia,10,16,8,7,2,9,Orange,22,21,1.11 
+2016,08,12,16:00,4dimensioN,Orange,inferno,ESEA Open Season 22 Asia,11,16,5,10,6,6,Orange,10,17,0.61 
+2016,08,12,16:00,4dimensioN,Orange,cache,ESEA Open Season 22 Asia,16,14,9,6,7,8,Orange,20,24,0.78 
+2016,08,12,16:00,4dimensioN,Orange,train,ESEA Open Season 22 Asia,13,16,8,7,5,9,Orange,12,20,0.66 

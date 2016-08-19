@@ -1,0 +1,3 @@
+2016,05,27,22:10,KoNNorway,KoNSweden,cache,King of Nordic Season 4,16,11,7,8,9,3,KoN Sweden,18,21,0.85 
+2016,05,27,20:45,KoNSweden,KoNFinland,mirage,King of Nordic Season 4,16,5,11,4,5,1,KoN Sweden,16,13,1.03 
+2016,04,30,17:20,SlashCry,Desperados,cache,DreamHack Regional Minor Champ..,14,16,8,7,6,9,SlashCry,20,21,0.86 

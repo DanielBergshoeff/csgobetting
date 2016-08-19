@@ -1,0 +1,3 @@
+2014,07,31,23:40,naMNam,myRevenge,cache,ASUS ROG Summer 2014,8,16,6,9,2,7,naMNam,11,17,0.67 
+2014,07,31,22:30,naMNam,ajuri,cache,ASUS ROG Summer 2014,16,1,14,1,2,0,naMNam,15,7,1.46 
+2014,07,31,21:30,ENCORE,naMNam,mirage,ASUS ROG Summer 2014,16,4,11,4,5,0,naMNam,6,18,0.36 

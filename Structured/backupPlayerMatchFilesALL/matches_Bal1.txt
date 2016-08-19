@@ -1,0 +1,16 @@
+2015,05,22,18:00,EZPZ_LS,mesport.hu,cache,Balkan Championship Season 2,16,8,13,2,3,6,mesport.hu,16,20,0.91 
+2015,05,22,18:00,mesport.hu,EZPZ_LS,inferno,Balkan Championship Season 2,7,16,6,9,1,7,mesport.hu,13,18,0.75 
+2015,05,21,20:00,H2B,mesport.hu,cache,Balkan Championship Season 2,16,9,8,7,8,2,mesport.hu,24,20,1.20 
+2015,05,21,20:00,H2B,mesport.hu,dust2,Balkan Championship Season 2,16,7,12,3,4,4,mesport.hu,15,18,0.85 
+2015,05,21,20:00,H2B,mesport.hu,mirage,Balkan Championship Season 2,14,16,12,3,2,13,mesport.hu,23,20,1.09 
+2015,05,08,20:15,TRICKED,RB,mirage,Balkan Superleague,11,16,10,5,1,11,TRICKED,10,19,0.57 
+2015,05,08,19:15,TRICKED,neXtPlease!,inferno,Balkan Superleague,16,13,9,6,7,7,TRICKED,12,21,0.64 
+2015,04,27,20:00,XPC,KnockOutStars,dust2,ESL South East Europe Champion..,16,13,11,4,5,9,KnockOutStars,19,17,1.03 
+2015,04,27,20:00,KnockOutStars,XPC,mirage,ESL South East Europe Champion..,3,16,3,12,0,4,KnockOutStars,14,15,0.88 
+2015,04,21,21:30,KnockOutStars,RB,overpass,ESL South East Europe Champion..,16,13,12,3,4,10,KnockOutStars,31,18,1.52 
+2015,04,21,21:30,KnockOutStars,RB,dust2,ESL South East Europe Champion..,9,16,6,9,3,7,KnockOutStars,16,18,0.97 
+2015,04,21,21:30,KnockOutStars,RB,cache,ESL South East Europe Champion..,16,10,9,6,7,4,KnockOutStars,12,14,0.83 
+2015,04,19,18:00,DIONAPPA,KnockOutStars,cache,ESL South East Europe Champion..,17,21,6,9,9,6,KnockOutStars,20,29,0.71 
+2015,04,19,18:00,KnockOutStars,DIONAPPA,dust2,ESL South East Europe Champion..,16,9,9,6,7,3,KnockOutStars,16,18,0.88 
+2015,04,16,18:15,SpaceSoldiers,KnockOutStars,cache,ESL South East Europe Champion..,16,12,8,7,8,5,KnockOutStars,20,21,0.95 
+2015,04,16,18:15,SpaceSoldiers,KnockOutStars,dust2,ESL South East Europe Champion..,16,10,7,8,9,2,KnockOutStars,15,19,0.79 

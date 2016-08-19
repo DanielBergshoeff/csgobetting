@@ -1,0 +1,21 @@
+2016,06,04,18:30,KILLERFISH,TEAM1231,cobblestone,DreamHack ZOWIE Open Summer 20..,16,7,11,4,5,3,TEAM1231,14,17,0.87 
+2015,09,13,10:30,FLUGGENKK,ARMADA,cache,Balkan SuperCup #2 LAN Finals,5,16,4,11,1,5,FLUGGENKK,8,19,0.45 
+2015,09,13,10:30,ARMADA,FLUGGENKK,inferno,Balkan SuperCup #2 LAN Finals,16,13,6,9,10,4,FLUGGENKK,21,20,1.02 
+2015,05,24,22:20,CPLAY,RB,inferno,DreamHack Open Summer 2015 Qua..,16,9,10,5,6,4,RB,7,21,0.36 
+2015,05,08,21:15,GIANT5,RB,dust2,Balkan Superleague,15,15,6,9,9,6,RB,25,20,1.28 
+2015,05,08,20:15,TRICKED,RB,mirage,Balkan Superleague,11,16,10,5,1,11,RB,18,18,0.94 
+2015,04,27,21:00,Rock,RB,cache,Balkan Superleague,16,3,12,3,4,0,RB,6,18,0.31 
+2015,04,27,20:00,GPlay,RB,train,Balkan Superleague,16,6,12,3,4,3,RB,12,18,0.76 
+2015,04,23,18:00,SpaceSoldiers,RB,dust2,ESL South East Europe Champion..,16,8,10,5,6,3,RB,10,20,0.58 
+2015,04,23,18:00,SpaceSoldiers,RB,mirage,ESL South East Europe Champion..,16,5,11,4,5,1,RB,8,18,0.52 
+2015,04,21,21:30,KnockOutStars,RB,overpass,ESL South East Europe Champion..,16,13,12,3,4,10,RB,20,23,0.84 
+2015,04,21,21:30,KnockOutStars,RB,dust2,ESL South East Europe Champion..,9,16,6,9,3,7,RB,14,15,0.86 
+2015,04,21,21:30,KnockOutStars,RB,cache,ESL South East Europe Champion..,16,10,9,6,7,4,RB,21,19,1.16 
+2015,04,16,19:00,neXtPlease!,RB,cache,Balkan Superleague,15,15,13,2,2,13,RB,19,23,0.82 
+2014,05,25,21:00,iNation,E-Frag,inferno,Gaming Challenge 2014,16,5,11,4,5,1,E-Frag,7,16,0.47 
+2014,05,25,21:00,E-Frag,iNation,mirage,Gaming Challenge 2014,10,16,8,7,2,9,E-Frag,18,22,0.86 
+2014,05,25,15:00,e-Sports.rs,E-Frag,dust2,Gaming Challenge 2014,8,16,7,8,1,8,E-Frag,21,16,1.27 
+2014,05,25,15:00,e-Sports.rs,E-Frag,mirage,Gaming Challenge 2014,14,16,9,6,5,10,E-Frag,18,22,0.74 
+2014,05,25,15:00,E-Frag,e-Sports.rs,inferno,Gaming Challenge 2014,17,19,10,5,5,10,E-Frag,23,24,0.98 
+2014,05,25,11:00,5starz,E-Frag,dust2,Gaming Challenge 2014,4,16,1,14,3,2,E-Frag,16,16,1.01 
+2014,05,25,10:00,volgare,E-Frag,inferno,Gaming Challenge 2014,16,6,13,2,3,4,E-Frag,12,19,0.65 

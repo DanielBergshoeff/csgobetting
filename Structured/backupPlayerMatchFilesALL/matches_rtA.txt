@@ -1,0 +1,16 @@
+2016,06,25,14:45,Tricked,OnlineRol,dust2,Dust2.dk eOddset Kinguin #1,16,6,12,3,4,3,OnlineRol,11,18,0.65 
+2016,06,25,13:30,EasternVikings,OnlineRol,train,Dust2.dk eOddset Kinguin #1,16,13,6,9,10,4,OnlineRol,23,17,1.20 
+2016,06,25,12:30,Alpha,OnlineRol,dust2,Dust2.dk eOddset Kinguin #1,16,14,7,8,9,6,OnlineRol,31,19,1.49 
+2016,06,16,19:00,Alpha,Magistra,dust2,Game On CS:GO June Invitationa..,15,19,7,8,8,7,Alpha,22,21,1.02 
+2016,06,16,19:00,Alpha,Magistra,mirage,Game On CS:GO June Invitationa..,15,19,9,6,6,9,Alpha,24,25,0.91 
+2016,03,25,13:20,Fragsters,ALTERNATEaTTaX,inferno,Copenhagen Games 2016,4,16,4,11,0,5,Fragsters,11,15,0.84 
+2016,03,25,12:00,Fragsters,dignitas,overpass,Copenhagen Games 2016,7,16,2,13,5,3,Fragsters,16,17,1.02 
+2016,03,24,23:00,FAB,Fragsters,inferno,Copenhagen Games 2016 BYOC Qua..,7,16,5,10,2,6,Fragsters,23,11,1.61 
+2016,03,24,23:00,FAB,Fragsters,mirage,Copenhagen Games 2016 BYOC Qua..,7,16,6,9,1,7,Fragsters,21,11,1.42 
+2016,03,24,19:00,Fragsters,Aquiver.RED,mirage,Copenhagen Games 2016 BYOC Qua..,16,6,10,5,6,1,Fragsters,20,13,1.30 
+2016,03,24,19:00,Aquiver.RED,Fragsters,inferno,Copenhagen Games 2016 BYOC Qua..,14,16,10,5,4,11,Fragsters,22,23,1.04 
+2016,03,24,15:30,Fragsters,Isak,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,Fragsters,24,9,1.88 
+2016,03,24,13:00,EasternVikings,Fragsters,dust2,Copenhagen Games 2016 BYOC Qua..,13,16,5,10,8,6,Fragsters,16,16,0.93 
+2016,02,19,18:00,OnlineRol,RedPanda,cache,Showmatch CS:GO,16,11,5,10,11,1,OnlineRol,19,18,1.01 
+2016,02,19,18:00,RedPanda,OnlineRol,dust2,Showmatch CS:GO,5,16,5,10,0,6,OnlineRol,25,10,1.81 
+2015,10,16,19:15,KoNNorway,KoNDenmark,inferno,King of Nordic Season 2,16,14,11,4,5,10,KoN Denmark,25,20,1.28 

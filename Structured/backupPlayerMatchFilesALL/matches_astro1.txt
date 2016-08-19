@@ -1,0 +1,7 @@
+2016,07,31,12:00,B.O.O.T,EP,cobblestone,SL i-League S2 China Qualifier,16,8,11,4,5,4,EP,19,22,0.87 
+2016,07,31,12:00,EP,B.O.O.T,cache,SL i-League S2 China Qualifier,9,16,7,8,2,8,EP,16,18,0.86 
+2016,07,31,09:00,EP,Nface,mirage,SL i-League S2 China Qualifier,16,14,5,10,11,4,EP,13,19,0.68 
+2016,07,31,09:00,EP,Nface,train,SL i-League S2 China Qualifier,16,14,11,4,5,10,EP,28,19,1.23 
+2016,07,27,12:15,EP,AllGamers,cobblestone,SL i-League S2 China Qualifier,12,16,6,9,6,7,EP,13,23,0.60 
+2016,07,27,12:15,EP,AllGamers,mirage,SL i-League S2 China Qualifier,16,11,8,7,8,4,EP,23,18,1.24 
+2016,07,27,12:15,EP,AllGamers,cache,SL i-League S2 China Qualifier,5,16,4,11,1,5,EP,11,20,0.59 

@@ -1,0 +1,30 @@
+2016,07,10,17:00,Quest,Vesuvius,mirage,Game Show Open Season 4 Playof..,16,5,11,4,5,1,Quest,18,11,1.38 
+2016,07,10,17:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,0,16,0,15,0,1,Quest,18,7,1.69 
+2016,07,09,17:30,Quest,GameplayDNA,mirage,Game Show Open Season 4 Playof..,16,8,10,5,6,3,Quest,21,16,1.17 
+2016,07,09,17:30,GameplayDNA,Quest,cobblestone,Game Show Open Season 4 Playof..,7,16,7,8,0,8,Quest,19,14,1.16 
+2016,07,09,15:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,14,16,7,8,7,8,Quest,24,20,1.13 
+2016,07,09,15:00,Vesuvius,Quest,cache,Game Show Open Season 4 Playof..,11,16,6,9,5,7,Quest,23,17,1.27 
+2016,06,21,18:15,PENTA,Quest,mirage,RGN Pro Series II EU Closed Qu..,16,9,12,3,4,6,Quest,17,17,0.95 
+2016,06,21,18:15,Quest,PENTA,cache,RGN Pro Series II EU Closed Qu..,7,16,7,8,0,8,Quest,13,20,0.65 
+2016,06,02,21:00,Quest,Tricked,train,RGN Pro Series II EU Closed Qu..,12,16,10,5,2,11,Quest,16,23,0.71 
+2016,06,02,21:00,Quest,Tricked,cobblestone,RGN Pro Series II EU Closed Qu..,11,16,3,12,8,4,Quest,17,19,0.85 
+2016,06,02,21:00,Tricked,Quest,dust2,RGN Pro Series II EU Closed Qu..,13,16,11,4,2,12,Quest,21,19,1.03 
+2016,05,24,21:00,ANOX,Quest,dust2,RGN Pro Series II EU Closed Qu..,6,16,6,9,0,7,Quest,21,11,1.47 
+2016,05,24,21:00,Quest,ANOX,mirage,RGN Pro Series II EU Closed Qu..,19,17,11,4,4,11,Quest,33,22,1.20 
+2016,04,20,20:00,Tempest,FluffyGangsters,mirage,StarLadder Regional Minor Cham..,17,19,10,5,5,10,Tempest,16,25,0.70 
+2016,04,20,20:00,FluffyGangsters,Tempest,dust2,StarLadder Regional Minor Cham..,19,16,5,10,10,5,Tempest,22,27,0.83 
+2016,03,19,18:25,FluffyGangsters,Tempest,mirage,DreamHack Masters Malmö 2016 E..,16,5,11,4,5,1,Tempest,10,17,0.61 
+2016,03,07,23:15,Empire,Tempest,mirage,Binary Dragons Cup Season 2,16,6,12,3,4,3,Tempest,16,18,0.91 
+2016,03,07,23:15,Tempest,Empire,cache,Binary Dragons Cup Season 2,19,22,9,6,6,9,Tempest,23,32,0.73 
+2016,03,07,19:20,Tempest,BinaryDragons,inferno,Binary Dragons Cup Season 2,16,11,11,4,5,7,Tempest,18,15,1.05 
+2016,03,07,19:20,BinaryDragons,Tempest,dust2,Binary Dragons Cup Season 2,11,16,9,6,2,10,Tempest,27,15,1.43 
+2016,03,07,19:20,BinaryDragons,Tempest,train,Binary Dragons Cup Season 2,16,10,7,8,9,2,Tempest,17,21,0.84 
+2016,02,06,12:00,Quest,BinaryDragons,cobblestone,Binary Dragons Hellstore Winte..,31,27,5,10,10,5,Quest,39,43,0.93 
+2016,02,06,12:00,BinaryDragons,Quest,dust2,Binary Dragons Hellstore Winte..,14,16,6,9,8,7,Quest,28,20,1.32 
+2016,01,23,16:45,Method,Quest,dust2,StarLadder Regional Minor Cham..,16,14,5,10,11,4,Quest,17,20,0.84 
+2016,01,23,16:45,Method,Quest,train,StarLadder Regional Minor Cham..,16,11,12,3,4,8,Quest,22,21,0.95 
+2016,01,23,15:30,FluffyGangsters,Quest,mirage,StarLadder Regional Minor Cham..,14,16,6,9,8,7,Quest,14,23,0.64 
+2016,01,22,13:15,Quest,Arcade,cache,StarLadder Regional Minor Cham..,13,16,7,8,6,8,Quest,19,20,0.98 
+2016,01,12,18:30,Quest,LDLCBlue,train,D!ngIT $2000 Weekly Cup #33,2,16,2,13,0,3,Quest,9,17,0.53 
+2016,01,11,18:30,ALTERNATEaTTaX,Quest,dust2,D!ngIT $2000 Weekly Cup #33,16,11,9,6,7,5,Quest,15,21,0.71 
+2016,01,11,18:30,Quest,ALTERNATEaTTaX,cobblestone,D!ngIT $2000 Weekly Cup #33,5,16,4,11,1,5,Quest,18,16,1.21 

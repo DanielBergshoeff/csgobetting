@@ -1,0 +1,9 @@
+2016,08,05,06:00,AllGamers,LGD,cache,SL i-League S2 China Finals,16,12,9,6,7,6,LGD,22,21,1.05 
+2016,08,05,06:00,LGD,AllGamers,mirage,SL i-League S2 China Finals,7,16,4,11,3,5,LGD,8,23,0.29 
+2015,12,19,09:00,BornOfFire,Wings,cache,SL i-League StarSeries XIV Chi..,9,16,2,13,7,3,Born Of Fire,14,23,0.63 
+2015,12,19,09:00,Wings,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,10,12,3,4,7,Born Of Fire,11,20,0.61 
+2015,12,18,13:30,TyLoo,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,Born Of Fire,9,17,0.53 
+2015,12,18,13:30,BornOfFire,TyLoo,cache,SL i-League StarSeries XIV Chi..,1,16,0,15,1,1,Born Of Fire,8,17,0.46 
+2015,12,17,10:40,BornOfFire,Goalie,cache,SL i-League StarSeries XIV Chi..,16,7,11,4,5,3,Born Of Fire,17,10,1.20 
+2015,12,17,10:40,BornOfFire,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,19,9,6,6,9,Born Of Fire,21,28,0.76 
+2015,12,17,10:40,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV Chi..,12,16,10,5,2,11,Born Of Fire,23,19,1.07 

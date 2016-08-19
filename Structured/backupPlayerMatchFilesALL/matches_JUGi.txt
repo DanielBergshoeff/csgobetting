@@ -1,0 +1,184 @@
+2016,08,15,18:15,Tricked,ArchAngels,cobblestone,Stream.me Gauntlet EU #1,16,10,6,9,10,1,Tricked,19,18,0.95 
+2016,08,15,18:15,Tricked,ArchAngels,mirage,Stream.me Gauntlet EU #1,16,10,7,8,9,2,Tricked,26,16,1.42 
+2016,08,15,18:15,ArchAngels,Tricked,train,Stream.me Gauntlet EU #1,16,12,7,8,9,4,Tricked,12,24,0.52 
+2016,08,10,18:15,Tricked,PRIDE,mirage,Stream.me Gauntlet EU #1,16,11,13,2,3,9,Tricked,20,19,1.08 
+2016,08,10,18:15,PRIDE,Tricked,train,Stream.me Gauntlet EU #1,7,16,6,9,1,7,Tricked,15,11,1.07 
+2016,08,09,18:10,Tricked,AGG,nuke,xfunction Masters 2016,8,16,6,9,2,7,Tricked,19,18,0.99 
+2016,08,09,18:10,Tricked,AGG,cobblestone,xfunction Masters 2016,8,16,6,9,2,7,Tricked,12,18,0.72 
+2016,08,05,22:30,Tricked,SpaceSoldiers,cobblestone,ASUS ROG Summer 2016,6,16,2,13,4,3,Tricked,10,20,0.48 
+2016,08,05,22:30,Tricked,SpaceSoldiers,train,ASUS ROG Summer 2016,14,16,12,3,2,13,Tricked,16,20,0.85 
+2016,08,05,20:30,ArchAngels,Tricked,cobblestone,ASUS ROG Summer 2016,12,16,7,8,5,8,Tricked,23,18,1.14 
+2016,08,05,19:00,Tricked,SpaceSoldiers,dust2,ASUS ROG Summer 2016,11,16,3,12,8,4,Tricked,20,18,1.13 
+2016,07,28,21:45,Tricked,ALTERNATEaTTaX,overpass,Hitbox Challenger Cup #2,10,16,10,5,0,11,Tricked,19,20,0.89 
+2016,07,28,21:45,Tricked,ALTERNATEaTTaX,cobblestone,Hitbox Challenger Cup #2,6,16,3,12,3,4,Tricked,8,15,0.62 
+2016,07,26,21:00,SpaceSoldiers,Tricked,nuke,GG Masters,16,14,11,4,5,10,Tricked,21,20,1.01 
+2016,07,26,21:00,Tricked,SpaceSoldiers,cobblestone,GG Masters,11,16,9,6,2,10,Tricked,13,21,0.71 
+2016,07,26,18:10,Tricked,Kinguin,overpass,GG Masters,5,16,4,11,1,5,Tricked,13,19,0.73 
+2016,07,25,17:15,Tricked,Preparation,mirage,Stream.me Gauntlet EU #1,16,13,7,8,9,5,Tricked,33,17,1.69 
+2016,07,25,17:15,Preparation,Tricked,nuke,Stream.me Gauntlet EU #1,6,16,6,9,0,7,Tricked,14,10,1.08 
+2016,07,21,21:30,Tricked,ALTERNATEaTTaX,dust2,BlasterX INETKOX League Season..,12,16,6,9,6,7,Tricked,20,15,1.20 
+2016,07,21,21:30,Tricked,ALTERNATEaTTaX,train,BlasterX INETKOX League Season..,16,9,8,7,8,2,Tricked,28,11,1.83 
+2016,07,18,23:15,Epsilon,Tricked,nuke,Hitbox Challenger Cup #2,9,16,4,11,5,5,Tricked,16,15,1.00 
+2016,07,18,23:15,Epsilon,Tricked,cobblestone,Hitbox Challenger Cup #2,4,16,4,11,0,5,Tricked,16,6,1.38 
+2016,07,13,22:15,Tricked,Delete,overpass,RGN Pro Series II EU Closed Qu..,22,20,10,5,5,10,Tricked,36,31,1.11 
+2016,07,13,22:15,Delete,Tricked,cobblestone,RGN Pro Series II EU Closed Qu..,3,16,3,12,0,4,Tricked,22,6,1.86 
+2016,07,05,21:20,Tricked,Magistra,train,xfunction Masters 2016,22,19,9,6,6,9,Tricked,34,30,1.05 
+2016,07,04,22:10,Tricked,ExoticIsland,nuke,xfunction Masters 2016,16,5,13,2,3,3,Tricked,12,10,0.96 
+2016,07,04,16:00,Tricked,Secretfe,cobblestone,Hitbox Challenger Cup #2,16,5,10,5,6,0,Tricked,33,7,2.63 
+2016,07,04,16:00,Secretfe,Tricked,mirage,Hitbox Challenger Cup #2,1,16,1,14,0,2,Tricked,26,3,2.43 
+2016,07,03,19:15,PENTA,Tricked,mirage,Operation: Kinguin #3,16,7,12,3,4,4,Tricked,16,17,0.97 
+2016,07,03,19:15,PENTA,Tricked,overpass,Operation: Kinguin #3,16,7,12,3,4,4,Tricked,16,17,0.97 
+2016,07,03,19:15,Tricked,PENTA,cobblestone,Operation: Kinguin #3,16,13,8,7,8,6,Tricked,17,17,0.95 
+2016,06,30,16:00,Tricked,Kinguin,mirage,Hitbox Challenger Cup #2,6,16,5,10,1,6,Tricked,11,19,0.69 
+2016,06,30,16:00,Kinguin,Tricked,cobblestone,Hitbox Challenger Cup #2,16,11,9,6,7,5,Tricked,23,21,1.13 
+2016,06,29,17:15,k1ck,Tricked,inferno,Operation: Kinguin #3,7,16,5,10,2,6,Tricked,23,17,1.28 
+2016,06,29,17:15,Tricked,k1ck,train,Operation: Kinguin #3,3,16,3,12,0,4,Tricked,13,17,0.81 
+2016,06,29,17:15,k1ck,Tricked,dust2,Operation: Kinguin #3,1,16,1,14,0,2,Tricked,21,5,2.02 
+2016,06,25,20:00,Tricked,Singularity,dust2,Dust2.dk eOddset Kinguin #1,16,8,11,4,5,4,Tricked,27,10,1.83 
+2016,06,25,20:00,Tricked,Singularity,overpass,Dust2.dk eOddset Kinguin #1,16,9,12,3,4,6,Tricked,17,13,1.08 
+2016,06,25,16:00,Tricked,Magistra,cobblestone,Dust2.dk eOddset Kinguin #1,16,1,14,1,2,0,Tricked,21,4,2.03 
+2016,06,25,16:00,Magistra,Tricked,dust2,Dust2.dk eOddset Kinguin #1,21,25,12,3,3,12,Tricked,37,23,1.32 
+2016,06,25,14:45,Tricked,OnlineRol,dust2,Dust2.dk eOddset Kinguin #1,16,6,12,3,4,3,Tricked,29,12,1.95 
+2016,06,25,13:30,Tricked,Alpha,cobblestone,Dust2.dk eOddset Kinguin #1,16,6,14,1,2,5,Tricked,18,8,1.31 
+2016,06,25,12:00,EasternVikings,Tricked,dust2,Dust2.dk eOddset Kinguin #1,14,16,8,7,6,9,Tricked,19,16,0.99 
+2016,06,22,20:00,Tricked,Orbit,dust2,BlasterX INETKOX League Season..,16,8,8,7,8,1,Tricked,20,10,1.37 
+2016,06,22,20:00,Orbit,Tricked,mirage,BlasterX INETKOX League Season..,16,13,10,5,6,8,Tricked,22,17,1.11 
+2016,06,16,19:00,Alpha,Magistra,dust2,Game On CS:GO June Invitationa..,15,19,7,8,8,7,Alpha,33,20,1.33 
+2016,06,16,19:00,Alpha,Magistra,mirage,Game On CS:GO June Invitationa..,15,19,9,6,6,9,Alpha,26,25,1.09 
+2016,06,15,22:15,Alpha,AlienTech,dust2,Game On CS:GO June Invitationa..,16,11,10,5,6,6,Alpha,25,14,1.36 
+2016,06,15,22:15,Alpha,AlienTech,train,Game On CS:GO June Invitationa..,16,6,9,6,7,0,Alpha,24,11,1.58 
+2016,06,15,17:15,Alpha,ex-CPHWolves,cobblestone,Operation: Kinguin #3,5,16,4,11,1,5,Alpha,12,16,0.70 
+2016,06,15,17:15,ex-CPHWolves,Alpha,mirage,Operation: Kinguin #3,19,15,7,8,8,7,Alpha,28,21,1.22 
+2016,06,15,17:15,Alpha,ex-CPHWolves,overpass,Operation: Kinguin #3,16,9,8,7,8,2,Alpha,21,16,1.18 
+2016,06,14,21:30,EasternVikings,Alpha,dust2,Game On CS:GO June Invitationa..,6,16,5,10,1,6,Alpha,25,10,1.84 
+2016,06,14,21:30,EasternVikings,Alpha,nuke,Game On CS:GO June Invitationa..,10,16,10,5,0,11,Alpha,24,13,1.40 
+2016,06,14,21:30,Alpha,EasternVikings,cobblestone,Game On CS:GO June Invitationa..,9,16,2,13,7,3,Alpha,23,15,1.26 
+2016,06,13,20:15,ALTERNATEaTTaX,Alpha,mirage,RGN Pro Series II EU Closed Qu..,7,16,6,9,1,7,Alpha,25,9,1.86 
+2016,06,13,20:15,ALTERNATEaTTaX,Alpha,train,RGN Pro Series II EU Closed Qu..,16,7,10,5,6,2,Alpha,19,17,1.03 
+2016,06,13,20:15,Alpha,ALTERNATEaTTaX,cache,RGN Pro Series II EU Closed Qu..,16,8,8,7,8,1,Alpha,24,12,1.51 
+2016,06,09,17:10,PLAYZONE,Alpha,train,Operation: Kinguin #3,10,16,2,13,8,3,Alpha,28,13,1.55 
+2016,06,09,17:10,Alpha,PLAYZONE,mirage,Operation: Kinguin #3,16,2,14,1,2,1,Alpha,11,9,1.02 
+2016,06,06,21:15,Alpha,Tricked,train,xfunction Challenge,12,16,8,7,4,9,Alpha,17,19,0.91 
+2016,06,06,21:15,Tricked,Alpha,dust2,xfunction Challenge,13,16,12,3,1,13,Alpha,26,15,1.48 
+2016,06,06,21:15,Alpha,Tricked,mirage,xfunction Challenge,12,16,4,11,8,5,Alpha,27,19,1.38 
+2016,05,31,21:25,AlienTech,Alpha,mirage,xfunction Challenge,10,16,6,9,4,7,Alpha,29,13,1.67 
+2016,05,31,21:25,Alpha,AlienTech,cobblestone,xfunction Challenge,16,5,12,3,4,2,Alpha,21,11,1.53 
+2016,05,28,18:30,DenDD,Alpha,cobblestone,DreamHack ZOWIE Open Summer 20..,16,7,12,3,4,4,Alpha,13,19,0.71 
+2016,05,26,19:15,CPHWolves,Alpha,cobblestone,RGN Pro Series II EU Closed Qu..,16,11,6,9,10,2,Alpha,20,19,1.01 
+2016,05,26,19:15,Alpha,CPHWolves,inferno,RGN Pro Series II EU Closed Qu..,13,16,5,10,8,6,Alpha,25,16,1.33 
+2016,05,23,17:00,Alpha,WorstPlayers,mirage,Operation: Kinguin #3,16,0,15,0,1,0,Alpha,14,8,1.28 
+2016,05,23,17:00,Alpha,WorstPlayers,cobblestone,Operation: Kinguin #3,16,10,8,7,8,3,Alpha,32,10,1.80 
+2016,05,22,17:00,FAB,Alpha,cobblestone,RGN Pro Series II EU Closed Qu..,5,16,2,13,3,3,Alpha,12,7,1.08 
+2016,05,22,17:00,Alpha,FAB,cache,RGN Pro Series II EU Closed Qu..,16,3,13,2,3,1,Alpha,25,7,2.10 
+2016,05,08,20:15,Millenium,Alpha,mirage,xfunction Challenge,8,16,3,12,5,4,Alpha,26,12,1.63 
+2016,05,06,21:00,KoNNorway,KoNDenmark,overpass,King of Nordic Season 4,21,19,9,6,6,9,KoN Denmark,37,32,1.14 
+2016,04,23,17:35,stfuNerd,Metapods,cache,DreamHack Regional Minor Champ..,11,16,3,12,8,4,stfuNerd,15,21,0.75 
+2016,04,11,20:00,GameAgents,Bpro,mirage,Balkan Championship Season 3,16,13,9,6,7,7,GameAgents,25,19,1.22 
+2016,03,11,18:00,Recursive,CSGO2x,cache,Razer Rising Stars European Le..,16,4,11,4,5,0,CSGO2x,7,17,0.41 
+2016,01,31,18:00,Revival,LDLCBlue,train,Rising Stars Europe #1,16,9,10,5,6,4,Revival,16,14,1.22 
+2016,01,31,18:00,LDLCBlue,Revival,mirage,Rising Stars Europe #1,9,16,3,12,6,4,Revival,25,9,1.80 
+2016,01,29,19:00,Granted,EasternVikings,cobblestone,Uprise Champions Cup Season 4 ..,16,10,9,6,7,4,Granted,25,15,1.44 
+2015,12,17,16:00,Nostalgie,HellRaisers,inferno,Uprise Champions Cup: Europe,16,8,12,3,4,5,Nostalgie,14,15,0.91 
+2015,12,17,16:00,HellRaisers,Nostalgie,cache,Uprise Champions Cup: Europe,4,16,3,12,1,4,Nostalgie,6,10,0.72 
+2015,12,09,17:00,Vexed,Nostalgie,train,Uprise Champions Cup: Europe,14,16,10,5,4,11,Nostalgie,26,21,1.20 
+2015,12,09,17:00,Nostalgie,Vexed,inferno,Uprise Champions Cup: Europe,16,6,9,6,7,0,Nostalgie,17,10,1.25 
+2015,11,12,21:00,E-frag.net,ex-Reason,inferno,GameAgents League Season 2,16,5,10,5,6,0,ex-Reason,12,19,0.72 
+2015,11,12,21:00,ex-Reason,E-frag.net,dust2,GameAgents League Season 2,6,16,5,10,1,6,ex-Reason,12,19,0.78 
+2015,10,30,14:00,Publiclir.se,HS.GG,overpass,ASUS ROG Nordic Challenge,16,12,5,10,11,2,HS.GG,10,20,0.59 
+2015,10,30,14:00,HS.GG,Publiclir.se,cobblestone,ASUS ROG Nordic Challenge,16,7,8,7,8,0,HS.GG,16,13,1.16 
+2015,10,30,14:00,Publiclir.se,HS.GG,mirage,ASUS ROG Nordic Challenge,16,6,10,5,6,1,HS.GG,11,21,0.51 
+2015,10,20,20:00,Reason,EpiphanyBolt,cache,CSHUB Series Season 1,16,12,9,6,7,6,Reason,21,17,1.11 
+2015,10,20,20:00,Reason,EpiphanyBolt,inferno,CSHUB Series Season 1,12,16,2,13,10,3,Reason,20,18,1.01 
+2015,10,20,20:00,EpiphanyBolt,Reason,cobblestone,CSHUB Series Season 1,7,16,3,12,4,4,Reason,20,10,1.49 
+2015,10,19,19:00,Reason,CSGL,cache,Global Offensive Champions Lea..,17,21,8,7,7,8,Reason,19,30,0.74 
+2015,10,19,19:00,CSGL,Reason,cobblestone,Global Offensive Champions Lea..,16,8,12,3,4,5,Reason,12,17,0.78 
+2015,10,18,20:15,Reason,SK,cache,GameAgents League Season 2,16,7,9,6,7,1,Reason,23,8,1.72 
+2015,10,18,20:15,SK,Reason,cobblestone,GameAgents League Season 2,17,19,6,9,9,6,Reason,30,26,1.20 
+2015,10,18,19:00,Reason,FlipSid3,overpass,GameAgents League Season 2,13,16,6,9,7,7,Reason,19,17,0.95 
+2015,10,18,19:00,FlipSid3,Reason,cobblestone,GameAgents League Season 2,16,13,7,8,9,5,Reason,20,21,0.90 
+2015,10,16,19:15,KoNNorway,KoNDenmark,inferno,King of Nordic Season 2,16,14,11,4,5,10,KoN Denmark,25,19,1.29 
+2015,10,09,19:30,Reason,ESC,dust2,QuickShot Arena #10,13,16,7,8,6,8,Reason,21,17,1.10 
+2015,10,09,19:30,Reason,ESC,overpass,QuickShot Arena #10,16,11,9,6,7,5,Reason,20,15,1.22 
+2015,10,09,19:30,ESC,Reason,mirage,QuickShot Arena #10,16,10,8,7,8,3,Reason,23,17,1.33 
+2015,10,08,22:00,Reason,Orgless,mirage,CSHUB Series Season 1,12,16,5,10,7,6,Reason,25,17,1.42 
+2015,10,08,22:00,Reason,Orgless,cobblestone,CSHUB Series Season 1,11,16,3,12,8,4,Reason,14,20,0.71 
+2015,10,08,20:15,WorstPlayers,Reason,mirage,QuickShot Arena #10,14,16,10,5,4,11,Reason,22,18,1.13 
+2015,10,08,18:15,Reason,Torpedo,cobblestone,QuickShot Arena #10,16,10,10,5,6,5,Reason,24,15,1.41 
+2015,09,29,22:00,CSGL,Reason,overpass,GameAgents League Season 2,13,16,7,8,6,8,Reason,26,18,1.26 
+2015,09,29,22:00,CSGL,Reason,mirage,GameAgents League Season 2,8,16,3,12,5,4,Reason,31,14,1.85 
+2015,09,29,19:00,XPC,Reason,overpass,CSHUB Series Season 1,6,16,3,12,3,4,Reason,17,11,1.24 
+2015,09,29,19:00,Reason,XPC,mirage,CSHUB Series Season 1,16,2,13,2,3,0,Reason,17,8,1.44 
+2015,09,28,22:30,Vexed,Reason,mirage,GameAgents League Season 2,9,16,7,8,2,8,Reason,28,16,1.46 
+2015,09,28,22:30,Vexed,Reason,overpass,GameAgents League Season 2,8,16,2,13,6,3,Reason,23,17,1.35 
+2015,09,21,18:00,MaxAndRelax,Reason,mirage,GameAgents League Season 2,3,16,3,12,0,4,Reason,16,9,1.44 
+2015,09,21,18:00,Reason,MaxAndRelax,inferno,GameAgents League Season 2,16,8,12,3,4,5,Reason,19,8,1.33 
+2015,09,17,21:00,INFINITY,Reason,train,AlienTech CS:GO European Cup I,16,6,12,3,4,3,Reason,12,19,0.65 
+2015,09,17,21:00,Reason,INFINITY,mirage,AlienTech CS:GO European Cup I,4,16,3,12,1,4,Reason,16,15,1.05 
+2015,09,17,21:00,Reason,INFINITY,dust2,AlienTech CS:GO European Cup I,16,12,4,11,12,1,Reason,20,13,1.18 
+2015,09,16,21:15,Reason,dignitas,dust2,Global Offensive Champions Lea..,10,16,4,11,6,5,Reason,12,17,0.74 
+2015,09,16,21:15,Reason,dignitas,cache,Global Offensive Champions Lea..,13,16,7,8,6,8,Reason,23,20,1.28 
+2015,09,15,19:10,Denmark,Latvia,dust2,World Championships 2015 Europ..,16,0,15,0,1,0,Denmark,9,5,1.10 
+2015,09,15,18:00,Denmark,Kazakhstan,cache,World Championships 2015 Europ..,8,16,8,7,0,9,Denmark,4,19,0.31 
+2015,09,13,20:00,MIXCAT,Reason,inferno,DreamHack Open Cluj-Napoca 201..,16,3,12,3,4,0,Reason,7,18,0.41 
+2015,09,13,20:00,Reason,MIXCAT,cobblestone,DreamHack Open Cluj-Napoca 201..,16,13,8,7,8,6,Reason,27,14,1.54 
+2015,09,13,20:00,Reason,MIXCAT,dust2,DreamHack Open Cluj-Napoca 201..,1,16,1,14,0,2,Reason,9,14,0.69 
+2015,09,13,18:00,Reason,dignitas,mirage,DreamHack Open Cluj-Napoca 201..,7,16,4,11,3,5,Reason,15,18,0.92 
+2015,09,13,18:00,dignitas,Reason,dust2,DreamHack Open Cluj-Napoca 201..,16,13,6,9,10,4,Reason,19,19,0.99 
+2015,09,13,15:00,LDLCBlue,Reason,cobblestone,DreamHack Open Cluj-Napoca 201..,5,16,3,12,2,4,Reason,18,14,1.21 
+2015,09,13,15:00,Reason,LDLCBlue,dust2,DreamHack Open Cluj-Napoca 201..,16,10,9,6,7,4,Reason,24,13,1.56 
+2015,09,13,12:00,SpaceSoldiers,Reason,cache,DreamHack Open Cluj-Napoca 201..,13,16,8,7,5,9,Reason,17,22,0.87 
+2015,09,13,12:00,Reason,SpaceSoldiers,cobblestone,DreamHack Open Cluj-Napoca 201..,16,8,9,6,7,2,Reason,19,13,1.28 
+2015,09,08,21:00,AlienTech,Reason,inferno,AlienTech CS:GO European Cup I,8,16,6,9,2,7,Reason,18,15,1.08 
+2015,09,08,21:00,Reason,AlienTech,cobblestone,AlienTech CS:GO European Cup I,16,14,5,10,11,4,Reason,16,18,0.85 
+2015,09,06,15:00,k1ck,Reason,cobblestone,DreamHack Open Cluj-Napoca 201..,16,13,7,8,9,5,Reason,20,17,1.13 
+2015,09,06,15:00,k1ck,Reason,overpass,DreamHack Open Cluj-Napoca 201..,16,12,13,2,3,10,Reason,14,21,0.66 
+2015,09,06,12:00,LosJefes,Reason,mirage,DreamHack Open Cluj-Napoca 201..,14,16,11,4,3,12,Reason,26,18,1.32 
+2015,09,06,12:00,Reason,LosJefes,cobblestone,DreamHack Open Cluj-Napoca 201..,16,5,10,5,6,0,Reason,9,10,0.84 
+2015,09,04,21:45,Denmark,Finland,dust2,King of Nordic Season 1,10,16,4,11,6,5,Denmark,12,19,0.65 
+2015,09,02,22:20,Aftermatch,Reason,cobblestone,AlienTech CS:GO European Cup I,14,16,4,11,10,5,Reason,20,21,1.01 
+2015,09,01,18:00,Reason,HellRaisers,dust2,FACEIT League 2015 Stage 3 EU ..,4,16,4,11,0,5,Reason,10,19,0.57 
+2015,09,01,18:00,HellRaisers,Reason,cobblestone,FACEIT League 2015 Stage 3 EU ..,16,14,9,6,7,8,Reason,24,19,1.20 
+2015,09,01,18:00,HellRaisers,Reason,overpass,FACEIT League 2015 Stage 3 EU ..,4,16,4,11,0,5,Reason,24,8,2.04 
+2015,08,31,22:00,3v,Reason,cobblestone,AlienTech CS:GO European Cup I,5,16,5,10,0,6,Reason,21,12,1.49 
+2015,08,31,20:15,Reason,Aftermatch,inferno,AlienTech CS:GO European Cup I,11,16,9,6,2,10,Reason,15,20,0.80 
+2015,08,31,18:00,Reason,Property,overpass,GameAgents League Season 2,14,16,6,9,8,7,Reason,35,22,1.77 
+2015,08,31,18:00,Property,Reason,inferno,GameAgents League Season 2,12,16,11,4,1,12,Reason,23,22,1.07 
+2015,08,28,22:15,Sweden,Denmark,mirage,King of Nordic Season 1,11,16,3,12,8,4,Denmark,25,17,1.27 
+2015,08,28,20:30,Denmark,Finland,mirage,King of Nordic Season 1,20,20,7,8,8,7,Denmark,22,33,0.69 
+2015,08,27,23:15,SpaceSoldiers,Reason,dust2,QuickShot Arena #4,10,16,5,10,5,6,Reason,23,13,1.50 
+2015,08,27,23:15,SpaceSoldiers,Reason,inferno,QuickShot Arena #4,16,11,9,6,7,5,Reason,25,19,1.32 
+2015,08,27,23:15,Reason,SpaceSoldiers,cobblestone,QuickShot Arena #4,16,8,9,6,7,2,Reason,17,11,1.13 
+2015,08,27,21:55,KILLERFISH,Reason,overpass,QuickShot Arena #4,19,22,12,3,3,12,Reason,27,25,1.02 
+2015,08,26,23:00,Reason,XPC,cobblestone,QuickShot Arena #4,16,8,11,4,5,4,Reason,15,12,0.98 
+2015,08,26,20:30,Reason,KILLERFISH,dust2,QuickShot Arena #4,5,16,4,11,1,5,Reason,5,17,0.38 
+2015,08,26,20:30,KILLERFISH,Reason,mirage,QuickShot Arena #4,11,16,7,8,4,8,Reason,16,15,0.92 
+2015,08,26,20:30,KILLERFISH,Reason,overpass,QuickShot Arena #4,16,5,10,5,6,0,Reason,14,18,0.87 
+2015,08,25,22:15,volgare,Reason,inferno,GameAgents League Season 2,14,16,8,7,6,9,Reason,19,22,0.80 
+2015,08,25,22:15,Reason,volgare,cobblestone,GameAgents League Season 2,19,17,8,7,7,8,Reason,23,26,0.86 
+2015,08,24,20:15,Reason,WorstPlayers,dust2,GameAgents League Season 2,13,16,7,8,6,8,Reason,18,20,0.97 
+2015,08,24,20:15,WorstPlayers,Reason,cache,GameAgents League Season 2,16,7,10,5,6,2,Reason,14,18,0.74 
+2015,08,20,21:45,OverGaming,Reason,dust2,QuickShot Arena #3,6,16,2,13,4,3,Reason,16,10,1.26 
+2015,08,20,21:45,Reason,OverGaming,inferno,QuickShot Arena #3,16,13,10,5,6,8,Reason,21,19,1.05 
+2015,08,20,18:00,Reason,OverGaming,mirage,QuickShot Arena #3,19,17,11,4,4,11,Reason,31,23,1.18 
+2015,08,20,18:00,Reason,OverGaming,overpass,QuickShot Arena #3,16,6,9,6,7,0,Reason,19,13,1.32 
+2015,08,19,17:30,Reason,ESC,inferno,QuickShot Arena #3,16,8,11,4,5,4,Reason,22,14,1.32 
+2015,08,19,17:30,ESC,Reason,mirage,QuickShot Arena #3,16,9,14,1,2,8,Reason,18,18,0.99 
+2015,08,19,17:30,ESC,Reason,dust2,QuickShot Arena #3,2,16,2,13,0,3,Reason,15,8,1.57 
+2015,08,11,18:00,Reason,E-frag.net,dust2,GameAgents League Season 2,10,16,7,8,3,8,Reason,21,18,1.17 
+2015,08,11,18:00,E-frag.net,Reason,mirage,GameAgents League Season 2,16,6,9,6,7,0,Reason,8,17,0.52 
+2015,05,04,21:00,Reason,SpaceSoldiers,mirage,RGN Pro Series EU Closed Quali..,9,16,2,13,7,3,Reason,20,18,1.18 
+2015,04,15,21:00,Fraternitas,Reason,mirage,Fragbite Masters Season 4 Qual..,16,12,12,3,4,9,Reason,21,18,1.19 
+2015,04,15,21:00,Reason,Fraternitas,inferno,Fragbite Masters Season 4 Qual..,5,16,4,11,1,5,Reason,8,17,0.50 
+2015,04,04,13:30,Reason,dignitas,inferno,Copenhagen Games 2015,3,16,3,12,0,4,Reason,15,17,0.93 
+2015,04,04,12:00,Reason,Games4u,inferno,Copenhagen Games 2015,16,2,13,2,3,0,Reason,11,12,0.81 
+2015,04,04,10:00,Atlantis,Reason,cache,Copenhagen Games 2015,14,16,10,5,4,11,Reason,24,20,1.15 
+2015,04,03,22:30,Reason,schlaegeros,cache,Copenhagen Games 2015,16,2,14,1,2,1,Reason,20,7,1.62 
+2015,04,03,19:00,INSHOCK,Reason,mirage,Copenhagen Games 2015,16,7,9,6,7,1,Reason,15,21,0.77 
+2015,04,03,19:00,INSHOCK,Reason,dust2,Copenhagen Games 2015,16,12,4,11,12,1,Reason,12,19,0.68 
+2015,04,03,19:00,Reason,INSHOCK,inferno,Copenhagen Games 2015,16,14,12,3,4,11,Reason,16,19,0.92 
+2015,04,03,15:30,G2,Reason,mirage,Copenhagen Games 2015,16,5,13,2,3,3,Reason,11,17,0.68 
+2015,04,03,15:30,Reason,G2,cobblestone,Copenhagen Games 2015,16,12,11,4,5,8,Reason,14,17,0.78 
+2015,04,03,15:30,Reason,G2,cache,Copenhagen Games 2015,11,16,8,7,3,9,Reason,13,20,0.72 
+2015,04,03,12:00,Reason,INSHOCK,cache,Copenhagen Games 2015,16,8,12,3,4,5,Reason,28,8,1.98 
+2015,04,03,12:00,INSHOCK,Reason,mirage,Copenhagen Games 2015,10,16,8,7,2,9,Reason,20,13,1.34 
+2015,02,23,20:00,madjicK,CPHWolves,cobblestone,Game Show CS:GO League Season ..,16,14,7,8,9,6,madjicK,17,17,0.98 

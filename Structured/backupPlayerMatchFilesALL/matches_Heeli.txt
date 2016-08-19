@@ -1,0 +1,2 @@
+2016,02,14,22:00,CLG,Mild,cobblestone,IEM Katowice 2016 NA Qualifier,16,8,14,1,2,7,Mild,13,18,0.83 
+2016,02,14,22:00,CLG,Mild,train,IEM Katowice 2016 NA Qualifier,16,8,12,3,4,5,Mild,16,20,0.89 

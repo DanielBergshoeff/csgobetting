@@ -1,0 +1,40 @@
+2016,08,10,17:00,Vesuvius,Comanche,dust2,Adrenaline Cyber League,16,10,6,9,10,1,Vesuvius,21,14,1.25 
+2016,08,10,17:00,Comanche,Vesuvius,mirage,Adrenaline Cyber League,13,16,7,8,6,8,Vesuvius,14,20,0.70 
+2016,08,05,20:00,Spirit,Vesuvius,cobblestone,Adrenaline Cyber League,16,10,10,5,6,5,Vesuvius,14,24,0.56 
+2016,08,05,20:00,Spirit,Vesuvius,mirage,Adrenaline Cyber League,16,9,10,5,6,4,Vesuvius,22,19,1.37 
+2016,07,10,17:00,Quest,Vesuvius,mirage,Game Show Open Season 4 Playof..,16,5,11,4,5,1,Vesuvius,6,20,0.28 
+2016,07,10,17:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,0,16,0,15,0,1,Vesuvius,8,15,0.58 
+2016,07,10,14:00,GameplayDNA,Vesuvius,dust2,Game Show Open Season 4 Playof..,12,16,8,7,4,9,Vesuvius,19,19,1.02 
+2016,07,10,14:00,Vesuvius,GameplayDNA,overpass,Game Show Open Season 4 Playof..,16,5,11,4,5,1,Vesuvius,18,15,1.20 
+2016,07,10,11:00,Vesuvius,BinaryDragons,mirage,Game Show Open Season 4 Playof..,16,6,12,3,4,3,Vesuvius,17,11,1.21 
+2016,07,10,11:00,Vesuvius,BinaryDragons,cache,Game Show Open Season 4 Playof..,16,4,11,4,5,0,Vesuvius,16,11,1.18 
+2016,07,09,15:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,14,16,7,8,7,8,Vesuvius,21,21,1.00 
+2016,07,09,15:00,Vesuvius,Quest,cache,Game Show Open Season 4 Playof..,11,16,6,9,5,7,Vesuvius,18,25,0.79 
+2016,04,29,14:30,Empire,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,6,10,5,6,1,Digital Wave,8,18,0.48 
+2016,04,29,14:30,DigitalWave,Empire,cobblestone,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Digital Wave,11,19,0.61 
+2016,04,28,15:30,FluffyGangsters,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,9,12,3,4,6,Digital Wave,9,21,0.45 
+2016,04,28,15:30,DigitalWave,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,10,16,3,12,7,4,Digital Wave,18,23,0.85 
+2016,04,28,10:00,DigitalWave,Empire,mirage,StarLadder Minor CIS - Cologne..,16,6,10,5,6,1,Digital Wave,23,13,1.34 
+2016,04,20,17:00,DigitalWave,MustBeStronger,cache,StarLadder Regional Minor Cham..,16,11,8,7,8,4,Digital Wave,24,17,1.30 
+2016,04,20,17:00,DigitalWave,MustBeStronger,mirage,StarLadder Regional Minor Cham..,16,14,10,5,6,9,Digital Wave,36,15,1.97 
+2015,05,14,19:00,NewEra,ACES,cobblestone,Uprise Champions Cup Season 2,2,16,2,13,0,3,ACES,7,8,0.81 
+2015,05,14,19:00,ACES,NewEra,inferno,Uprise Champions Cup Season 2,16,2,13,2,3,0,ACES,16,6,1.58 
+2015,05,14,19:00,NewEra,ACES,mirage,Uprise Champions Cup Season 2,16,6,11,4,5,2,ACES,16,20,0.79 
+2015,05,07,18:00,ACES,LANDODGERS,mirage,Uprise Champions Cup Season 2,16,9,10,5,6,4,ACES,15,15,0.92 
+2015,05,07,18:00,ACES,LANDODGERS,cobblestone,Uprise Champions Cup Season 2,16,11,9,6,7,5,ACES,23,15,1.22 
+2015,04,23,21:00,ACES,EYESports,dust2,Uprise Champions Cup Season 2,10,16,5,10,5,6,ACES,15,19,0.75 
+2015,04,23,21:00,EYESports,ACES,mirage,Uprise Champions Cup Season 2,16,8,11,4,5,4,ACES,18,20,0.98 
+2015,04,19,18:35,HellRaisers,ACES,inferno,CIS LAN Championship,16,5,11,4,5,1,ACES,14,17,0.77 
+2015,04,19,18:35,ACES,HellRaisers,dust2,CIS LAN Championship,11,16,5,10,6,6,ACES,14,21,0.68 
+2015,04,19,18:35,ACES,HellRaisers,cache,CIS LAN Championship,16,14,12,3,4,11,ACES,19,24,0.83 
+2015,04,19,11:30,TEAMSWAGYOLO,ACES,cobblestone,CIS LAN Championship,13,16,5,10,8,6,ACES,13,21,0.62 
+2015,04,19,11:30,ACES,TEAMSWAGYOLO,cache,CIS LAN Championship,16,5,11,4,5,1,ACES,15,8,1.43 
+2015,04,19,11:30,TEAMSWAGYOLO,ACES,mirage,CIS LAN Championship,16,6,12,3,4,3,ACES,10,19,0.60 
+2015,04,19,09:00,ACES,USSR,dust2,CIS LAN Championship,16,12,7,8,9,4,ACES,11,19,0.67 
+2015,04,19,09:00,ACES,USSR,cache,CIS LAN Championship,16,9,10,5,6,4,ACES,15,18,0.85 
+2015,04,18,10:00,ACES,PiTER,cache,CIS LAN Championship,16,11,11,4,5,7,ACES,13,15,0.84 
+2015,04,18,10:00,ACES,PiTER,mirage,CIS LAN Championship,16,9,10,5,6,4,ACES,15,16,0.91 
+2015,04,18,10:00,PiTER,ACES,inferno,CIS LAN Championship,16,2,13,2,3,0,ACES,6,16,0.40 
+2015,04,18,01:30,GGWP,ACES,dust2,CIS LAN Championship,16,10,8,7,8,3,ACES,16,23,0.70 
+2015,04,17,22:30,FlipSid3,ACES,cobblestone,CIS LAN Championship,16,12,10,5,6,7,ACES,18,22,0.86 
+2015,04,17,21:00,ACES,WEPLAY,inferno,CIS LAN Championship,16,12,8,7,8,5,ACES,18,16,0.94 

@@ -1,0 +1,4 @@
+2016,07,31,23:15,CNB,BigGods,train,Acer ESL Brazil Premier League..,4,16,4,11,0,5,CNB,7,18,0.37 
+2016,07,31,19:45,INTZ,CNB,cobblestone,Acer ESL Brazil Premier League..,16,8,9,6,7,2,CNB,14,20,0.74 
+2016,07,31,19:45,INTZ,CNB,train,Acer ESL Brazil Premier League..,9,16,9,6,0,10,CNB,16,16,0.94 
+2016,07,31,19:45,CNB,INTZ,mirage,Acer ESL Brazil Premier League..,14,16,8,7,6,9,CNB,10,21,0.54 

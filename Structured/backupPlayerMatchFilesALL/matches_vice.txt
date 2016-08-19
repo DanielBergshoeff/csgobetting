@@ -1,0 +1,56 @@
+2016,04,21,05:00,CLG,KKona,dust2,ESL Pro League Season 3,16,10,8,7,8,3,KKona,14,22,0.64 
+2016,04,21,04:00,KKona,CLG,overpass,ESL Pro League Season 3,6,16,4,11,2,5,KKona,11,19,0.66 
+2016,04,08,01:15,KKona,EchoFox,dust2,ECS Season 1 Qualifier,14,16,9,6,5,10,KKona,22,21,1.01 
+2016,04,08,01:15,EchoFox,KKona,mirage,ECS Season 1 Qualifier,16,12,9,6,7,6,KKona,21,19,0.97 
+2016,04,07,06:15,Obey.Alliance,KKona,overpass,ECS Season 1 Qualifier,16,9,10,5,6,4,KKona,12,20,0.59 
+2016,04,07,06:15,KKona,Obey.Alliance,cache,ECS Season 1 Qualifier,6,16,5,10,1,6,KKona,6,20,0.30 
+2016,04,07,03:30,compLexity,KKona,overpass,ESL Pro League Season 3,8,16,4,11,4,5,KKona,26,19,1.41 
+2016,04,07,02:00,KKona,compLexity,mirage,ESL Pro League Season 3,18,22,4,11,11,4,KKona,33,25,1.17 
+2016,03,03,03:00,Selfless,TSM,overpass,CEVO Gfinity Professional Seas..,16,14,6,9,10,5,TSM,9,20,0.56 
+2016,03,03,03:00,TSM,Selfless,cobblestone,CEVO Gfinity Professional Seas..,16,6,10,5,6,1,TSM,15,10,1.17 
+2016,03,03,03:00,Selfless,TSM,cache,CEVO Gfinity Professional Seas..,16,8,9,6,7,2,TSM,6,19,0.40 
+2016,02,24,05:15,ex-AstralAuthority,TSM,mirage,CEVO Gfinity Professional Seas..,7,16,6,9,1,7,TSM,7,14,0.62 
+2016,02,24,05:15,TSM,ex-AstralAuthority,overpass,CEVO Gfinity Professional Seas..,16,11,13,2,3,9,TSM,21,18,1.14 
+2016,02,21,20:30,TSM,Renegades,train,DreamHack Masters Malmö 2016 N..,9,16,6,9,3,7,TSM,20,17,1.18 
+2016,02,21,20:30,TSM,Renegades,cobblestone,DreamHack Masters Malmö 2016 N..,7,16,6,9,1,7,TSM,9,17,0.54 
+2016,01,24,00:30,TSM,Winterfox,inferno,MLG Columbus 2016 Last Chance ..,11,16,7,8,4,8,TSM,16,20,0.81 
+2016,01,24,00:30,TSM,Winterfox,cache,MLG Columbus 2016 Last Chance ..,7,16,3,12,4,4,TSM,15,16,0.89 
+2015,12,09,03:30,Denial,Splyce,cache,SL i-League StarSeries XIV,8,16,5,10,3,6,Denial,11,19,0.65 
+2015,12,09,03:30,Splyce,Denial,dust2,SL i-League StarSeries XIV,16,7,8,7,8,0,Denial,16,18,0.96 
+2015,12,01,04:15,Splyce,Denial,overpass,ESEA Premier Season 20 North A..,5,16,5,10,0,6,Denial,19,11,1.42 
+2015,12,01,04:15,Denial,Splyce,cobblestone,ESEA Premier Season 20 North A..,16,10,8,7,8,3,Denial,16,14,0.98 
+2015,11,30,03:30,Denial,Enemy,cache,SL i-League StarSeries XIV,6,16,2,13,4,3,Denial,9,18,0.54 
+2015,11,30,03:30,Enemy,Denial,inferno,SL i-League StarSeries XIV,16,3,13,2,3,1,Denial,9,17,0.54 
+2015,11,06,04:00,GamesAcademy,Denial,inferno,SL i-League StarSeries XIV,19,17,6,9,9,6,Denial,21,24,0.92 
+2015,11,06,04:00,GamesAcademy,Denial,dust2,SL i-League StarSeries XIV,16,7,11,4,5,3,Denial,16,16,0.96 
+2015,11,06,04:00,Denial,GamesAcademy,cache,SL i-League StarSeries XIV,16,11,12,3,4,8,Denial,27,21,1.27 
+2015,10,08,02:00,Denial,Coast,mirage,CEVO Professional Season 8,16,6,10,5,6,1,Denial,20,12,1.42 
+2015,10,08,02:00,Coast,Denial,dust2,CEVO Professional Season 8,16,11,7,8,9,3,Denial,17,18,0.86 
+2015,10,07,04:15,Denial,Liquid,mirage,CEVO Professional Season 8,16,12,12,3,4,9,Denial,18,18,0.93 
+2015,10,07,04:15,Liquid,Denial,cache,CEVO Professional Season 8,16,6,10,5,6,1,Denial,14,18,0.81 
+2015,10,06,04:30,compLexity,Trifecta,dust2,CEVO Professional Season 8,14,16,6,9,8,7,Trifecta,15,20,0.77 
+2015,10,06,04:30,Trifecta,compLexity,overpass,CEVO Professional Season 8,16,8,11,4,5,4,Trifecta,26,12,1.75 
+2015,10,02,04:15,Splyce,Trifecta,dust2,CEVO Professional Season 8,8,16,5,10,3,6,Trifecta,20,13,1.34 
+2015,10,02,04:15,Splyce,Trifecta,cobblestone,CEVO Professional Season 8,16,8,7,8,9,0,Trifecta,19,18,1.08 
+2015,09,22,04:15,Enemy,Trifecta,cache,CEVO Professional Season 8,5,16,4,11,1,5,Trifecta,11,12,0.82 
+2015,09,22,04:15,Trifecta,Enemy,train,CEVO Professional Season 8,9,16,3,12,6,4,Trifecta,14,19,0.73 
+2015,09,22,02:00,Trifecta,Luminosity,cache,CEVO Professional Season 8,16,8,9,6,7,2,Trifecta,27,13,1.58 
+2015,09,22,02:00,Luminosity,Trifecta,inferno,CEVO Professional Season 8,16,4,11,4,5,0,Trifecta,9,19,0.50 
+2015,09,18,05:00,Mortality,Method,dust2,CEVO Professional Season 8,17,19,7,8,8,7,Mortality,22,27,0.84 
+2015,09,18,05:00,Mortality,Method,mirage,CEVO Professional Season 8,6,16,3,12,3,4,Mortality,6,20,0.33 
+2015,09,09,02:00,CLG,Mortality,cobblestone,CEVO Professional Season 8,16,10,9,6,7,4,Mortality,9,19,0.51 
+2015,09,09,02:00,CLG,Mortality,dust2,CEVO Professional Season 8,12,16,11,4,1,12,Mortality,18,16,1.14 
+2015,08,27,04:15,Mortality,3sUP,mirage,CEVO Professional Season 8,12,16,6,9,6,7,Mortality,19,22,0.85 
+2015,08,27,04:15,Mortality,3sUP,dust2,CEVO Professional Season 8,20,22,5,10,10,5,Mortality,26,30,0.86 
+2015,08,25,02:00,Mythic,Mortality,cache,CEVO Professional Season 8,16,7,9,6,7,1,Mortality,21,19,1.18 
+2015,08,25,02:00,Mythic,Mortality,dust2,CEVO Professional Season 8,14,16,11,4,3,12,Mortality,19,20,0.96 
+2015,08,18,04:15,Conquest,Mortality,inferno,CEVO Professional Season 8,19,16,6,9,9,6,Mortality,19,26,0.71 
+2015,08,18,04:15,Mortality,Conquest,cache,CEVO Professional Season 8,26,28,8,7,7,8,Mortality,45,34,1.22 
+2015,08,13,04:00,Method,Mortality,dust2,CEVO Professional Season 8 Pla..,16,9,11,4,5,5,Mortality,13,21,0.66 
+2015,08,13,04:00,Method,Mortality,inferno,CEVO Professional Season 8 Pla..,13,16,6,9,7,7,Mortality,20,16,1.04 
+2015,08,12,05:15,Enemy,Mortality,dust2,CEVO Professional Season 8 Pla..,13,16,2,13,11,3,Mortality,24,13,1.36 
+2015,08,12,05:15,Mortality,Enemy,train,CEVO Professional Season 8 Pla..,16,6,11,4,5,2,Mortality,18,10,1.21 
+2015,08,12,05:15,Enemy,Mortality,cache,CEVO Professional Season 8 Pla..,16,12,8,7,8,5,Mortality,17,19,0.89 
+2015,08,10,02:00,Mortality,AstralAuthority,train,CEVO Professional Season 8 Pla..,22,20,11,4,4,11,Mortality,26,30,0.86 
+2015,08,10,02:00,Mortality,AstralAuthority,cache,CEVO Professional Season 8 Pla..,13,16,11,4,2,12,Mortality,17,22,0.81 
+2015,08,10,02:00,AstralAuthority,Mortality,inferno,CEVO Professional Season 8 Pla..,12,16,9,6,3,10,Mortality,20,15,1.08 

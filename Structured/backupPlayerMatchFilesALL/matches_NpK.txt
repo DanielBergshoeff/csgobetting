@@ -1,0 +1,32 @@
+2016,07,02,11:15,WEGOTGAME,LDLC,dust2,ESL National Championship Fran..,10,16,4,11,6,5,WE GOT GAME,10,20,0.53 
+2016,07,02,11:15,LDLC,WEGOTGAME,cache,ESL National Championship Fran..,16,12,4,11,12,1,WE GOT GAME,21,18,1.23 
+2016,06,09,18:00,Tricked,WEGOTGAME,dust2,owayo Masters I,16,12,7,8,9,4,WE GOT GAME,12,22,0.62 
+2016,06,09,18:00,Tricked,WEGOTGAME,cobblestone,owayo Masters I,8,16,2,13,6,3,WE GOT GAME,18,10,1.30 
+2016,06,09,18:00,WEGOTGAME,Tricked,train,owayo Masters I,14,16,12,3,2,13,WE GOT GAME,21,21,0.93 
+2016,06,06,20:00,MeMyself&I,WeGotGame,mirage,UnderDogs #3,16,5,11,4,5,1,WeGotGame,5,19,0.28 
+2016,06,06,20:00,WeGotGame,MeMyself&I,cobblestone,UnderDogs #3,11,16,4,11,7,5,WeGotGame,18,20,0.90 
+2016,05,30,20:30,WeGotGame,E-Corp,mirage,UnderDogs #3,16,10,10,5,6,5,WeGotGame,15,15,1.03 
+2016,05,30,20:30,WeGotGame,E-Corp,train,UnderDogs #3,16,5,11,4,5,1,WeGotGame,16,8,1.42 
+2016,04,30,18:05,WEGOTGAME,GameAgents,mirage,DreamHack Regional Minor Champ..,12,16,5,10,7,6,WE GOT GAME,12,19,0.64 
+2016,03,20,13:00,FlipSid3,WEGOTGAME,cobblestone,DreamHack Masters Malmö 2016 E..,16,4,12,3,4,1,WE GOT GAME,10,18,0.56 
+2016,03,20,13:00,WEGOTGAME,FlipSid3,train,DreamHack Masters Malmö 2016 E..,8,16,3,12,5,4,WE GOT GAME,6,18,0.44 
+2016,03,19,18:45,Tricked,WEGOTGAME,mirage,DreamHack Masters Malmö 2016 E..,13,16,8,7,5,9,WE GOT GAME,24,16,1.34 
+2016,03,09,20:15,miMo,WEGOTGAME,train,Razer Rising Stars European Le..,16,13,12,3,4,10,WE GOT GAME,18,18,0.93 
+2015,10,09,20:30,Belgium,Norway,dust2,World Championships 2015,12,16,5,10,7,6,Belgium,18,21,0.87 
+2015,10,09,20:30,Norway,Belgium,inferno,World Championships 2015,16,19,9,6,6,9,Belgium,16,25,0.70 
+2015,10,09,20:30,Belgium,Norway,mirage,World Championships 2015,16,19,8,7,7,8,Belgium,28,24,1.14 
+2015,10,09,15:15,Belgium,Singapore,dust2,World Championships 2015,16,6,9,6,7,0,Belgium,14,13,0.97 
+2015,10,09,13:45,Belgium,Canada,train,World Championships 2015,9,16,9,6,0,10,Belgium,8,21,0.42 
+2015,10,01,23:00,Belgium,Finland,dust2,World Championships 2015 Europ..,2,16,1,14,1,2,Belgium,12,16,0.78 
+2015,10,01,23:00,Finland,Belgium,cobblestone,World Championships 2015 Europ..,13,16,10,5,3,11,Belgium,24,19,1.13 
+2015,09,29,22:30,Sweden,Belgium,cobblestone,World Championships 2015 Europ..,5,16,5,10,0,6,Belgium,22,12,1.50 
+2015,09,29,21:30,Belgium,Iceland,dust2,World Championships 2015 Europ..,16,11,8,7,8,4,Belgium,28,13,1.70 
+2015,09,28,20:30,Belgium,Belarus,dust2,World Championships 2015 Europ..,16,11,6,9,10,2,Belgium,15,15,0.93 
+2015,09,28,19:35,Bosnia&Herzegovina,Belgium,cobblestone,World Championships 2015 Europ..,6,16,3,12,3,4,Belgium,18,11,1.28 
+2015,09,18,21:30,WEGOTGAME,DeadPixels,cache,LevelDown Championship,22,19,11,4,4,11,WE GOT GAME,28,31,0.91 
+2015,09,18,21:30,DeadPixels,WEGOTGAME,dust2,LevelDown Championship,4,16,2,13,2,3,WE GOT GAME,20,11,1.52 
+2015,09,17,19:30,WEGOTGAME,melty,dust2,LevelDown Championship,16,12,13,2,3,10,WE GOT GAME,25,18,1.22 
+2015,09,17,19:30,melty,WEGOTGAME,inferno,LevelDown Championship,12,16,9,6,3,10,WE GOT GAME,25,18,1.37 
+2015,09,16,23:00,TS-Netteux,WEGOTGAME,train,LevelDown Championship,3,16,3,12,0,4,WE GOT GAME,15,8,1.38 
+2015,09,16,21:30,RedInstinct,WEGOTGAME,cobblestone,LevelDown Championship,13,16,4,11,9,5,WE GOT GAME,26,18,1.28 
+2015,08,17,21:00,LDLCWhite,CPHWolves,overpass,DreamHack Open London 2015 Clo..,13,16,8,7,5,9,LDLC White,20,22,0.91 

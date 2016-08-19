@@ -1,0 +1,4 @@
+2015,10,31,14:00,MIXCAT,Torpedo,mirage,ASUS ROG Nordic Challenge,16,11,8,7,8,4,Torpedo,10,18,0.62 
+2015,10,31,14:00,Torpedo,MIXCAT,cache,ASUS ROG Nordic Challenge,10,16,6,9,4,7,Torpedo,17,17,1.05 
+2015,10,30,17:15,ajuri,Torpedo,cobblestone,ASUS ROG Nordic Challenge,3,16,3,12,0,4,Torpedo,14,9,1.14 
+2015,10,30,17:15,ajuri,Torpedo,cache,ASUS ROG Nordic Challenge,8,16,3,12,5,4,Torpedo,15,15,0.92 

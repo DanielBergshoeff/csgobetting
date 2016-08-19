@@ -1,0 +1,6 @@
+2015,11,17,01:00,CLG,Nexus,mirage,RGN Pro Series Championship,16,7,8,7,8,0,Nexus,13,22,0.53 
+2015,11,16,23:15,Renegades,Nexus,inferno,RGN Pro Series Championship,16,8,12,3,4,5,Nexus,9,20,0.45 
+2015,11,16,21:45,Enemy,Nexus,cobblestone,RGN Pro Series Championship,16,2,13,2,3,0,Nexus,9,17,0.53 
+2015,08,18,04:00,Adaptation,Swarm,cobblestone,CS Select #25,13,16,8,7,5,9,Adaptation,19,19,0.93 
+2015,08,18,04:00,Adaptation,Swarm,dust2,CS Select #25,11,16,5,10,6,6,Adaptation,19,19,1.02 
+2015,08,18,04:00,Adaptation,Swarm,mirage,CS Select #25,16,4,11,4,5,0,Adaptation,17,7,1.41 

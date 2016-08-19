@@ -1,0 +1,6 @@
+2015,11,15,19:45,myXMGStaff,HLTV.orgStaff,dust2,Virtus.pro Staff Cup #3,16,14,5,10,11,4,HLTV.org Staff,25,22,1.05 
+2015,11,15,19:45,myXMGStaff,HLTV.orgStaff,mirage,Virtus.pro Staff Cup #3,7,16,5,10,2,6,HLTV.org Staff,13,15,0.83 
+2015,11,15,19:45,myXMGStaff,HLTV.orgStaff,cache,Virtus.pro Staff Cup #3,16,13,5,10,11,3,HLTV.org Staff,19,24,0.83 
+2015,11,15,13:30,HLTV.orgStaff,myXMGStaff,inferno,Virtus.pro Staff Cup #3,16,5,11,4,5,1,HLTV.org Staff,19,12,1.41 
+2015,11,15,13:30,myXMGStaff,HLTV.orgStaff,cache,Virtus.pro Staff Cup #3,32,34,8,7,7,8,HLTV.org Staff,57,45,1.18 
+2014,11,15,19:00,HLTV.orgStaff,RussianeSFStaff,dust2,Virtus.pro Staff Cup #1,16,0,15,0,1,0,HLTV.org Staff,13,4,1.51 

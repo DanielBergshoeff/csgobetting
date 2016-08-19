@@ -1,0 +1,33 @@
+2015,11,13,20:30,KoNSweden,KoNFinland,mirage,King of Nordic Season 2,16,12,7,8,9,4,KoN Finland,24,23,1.03 
+2015,08,27,20:00,E-frag.net,nerdRage,inferno,GameAgents League Season 2,16,10,12,3,4,7,nerdRage,11,23,0.63 
+2015,08,27,20:00,E-frag.net,nerdRage,overpass,GameAgents League Season 2,16,8,9,6,7,2,nerdRage,10,23,0.43 
+2015,08,25,22:15,TSK,nerdRage,cache,D!ngIT $2000 Weekly Cup #14,7,16,3,12,4,4,nerdRage,26,13,1.58 
+2015,08,25,22:15,TSK,nerdRage,mirage,D!ngIT $2000 Weekly Cup #14,16,4,11,4,5,0,nerdRage,5,18,0.32 
+2015,08,25,18:30,nerdRage,TSK,dust2,D!ngIT $2000 Weekly Cup #14,16,4,11,4,5,0,nerdRage,11,11,1.03 
+2015,08,25,18:30,nerdRage,TSK,cache,D!ngIT $2000 Weekly Cup #14,16,6,11,4,5,2,nerdRage,17,13,1.27 
+2015,08,24,17:30,Games4ufe,nerdRage,mirage,D!ngIT $2000 Weekly Cup #14,8,16,2,13,6,3,nerdRage,18,18,0.95 
+2015,08,24,17:30,Games4ufe,nerdRage,dust2,D!ngIT $2000 Weekly Cup #14,6,16,3,12,3,4,nerdRage,14,14,0.93 
+2015,08,13,18:00,eBettle,nerdRage,train,GameAgents League Season 2,16,13,8,7,8,6,nerdRage,15,27,0.55 
+2015,08,13,18:00,eBettle,nerdRage,dust2,GameAgents League Season 2,3,16,3,12,0,4,nerdRage,19,11,1.51 
+2015,08,08,23:15,CAZ,nerdRage,cache,Multifrags Invitational 2015,14,16,4,11,10,5,nerdRage,17,22,0.83 
+2015,08,08,23:15,CAZ,nerdRage,dust2,Multifrags Invitational 2015,4,16,3,12,1,4,nerdRage,18,10,1.36 
+2015,08,08,16:00,Phenomenon,nerdRage,cache,Multifrags Invitational 2015,12,16,5,10,7,6,nerdRage,15,18,0.78 
+2015,08,08,16:00,nerdRage,Phenomenon,dust2,Multifrags Invitational 2015,16,3,12,3,4,0,nerdRage,15,8,1.44 
+2015,08,07,17:00,nerdRage,EYESONU,mirage,Multifrags Invitational 2015,16,10,12,3,4,7,nerdRage,17,18,0.93 
+2015,08,07,17:00,nerdRage,EYESONU,dust2,Multifrags Invitational 2015,16,8,7,8,9,0,nerdRage,14,17,0.92 
+2015,08,07,17:00,nerdRage,EYESONU,cobblestone,Multifrags Invitational 2015,5,16,4,11,1,5,nerdRage,9,18,0.53 
+2015,06,04,18:00,Epsilon,nerdRage,inferno,D!ngIT $2000 Weekly Cup #3,11,16,8,7,3,9,nerdRage,19,22,0.89 
+2015,05,28,20:30,KILLERFISH,nerdRage,dust2,D!ngIT $2000 Weekly Cup #2,15,21,11,4,4,11,nerdRage,20,21,0.88 
+2015,05,28,20:30,nerdRage,KILLERFISH,cache,D!ngIT $2000 Weekly Cup #2,21,17,12,3,3,12,nerdRage,23,27,0.94 
+2015,05,24,21:00,nerdRage,EnVyUs,inferno,Fragbite Masters Season 4,13,16,7,8,6,8,nerdRage,12,17,0.78 
+2015,05,20,21:00,Acer,nerdRage,cobblestone,Fragbite Masters Season 4,16,3,12,3,4,0,nerdRage,6,18,0.31 
+2015,05,20,21:00,Acer,nerdRage,overpass,Fragbite Masters Season 4,16,14,10,5,6,9,nerdRage,20,20,0.95 
+2015,05,20,21:00,Acer,nerdRage,dust2,Fragbite Masters Season 4,11,16,7,8,4,8,nerdRage,16,16,0.94 
+2015,05,14,18:00,AlienTech.Black,nerdRage,cache,Fragbite Masters Season 4,7,16,6,9,1,7,nerdRage,24,11,1.63 
+2015,05,14,18:00,nerdRage,AlienTech.Black,dust2,Fragbite Masters Season 4,16,9,10,5,6,4,nerdRage,14,19,0.73 
+2015,05,13,18:00,fnatic,nerdRage,mirage,Fragbite Masters Season 4,16,5,11,4,5,1,nerdRage,9,19,0.49 
+2015,05,13,18:00,fnatic,nerdRage,dust2,Fragbite Masters Season 4,16,10,11,4,5,6,nerdRage,13,21,0.66 
+2015,04,22,19:00,OnlineBOTS,nerdRage,mirage,Fragbite Masters Season 4 Qual..,5,16,5,10,0,6,nerdRage,20,13,1.44 
+2015,04,22,19:00,OnlineBOTS,nerdRage,dust2,Fragbite Masters Season 4 Qual..,16,1,14,1,2,0,nerdRage,14,15,1.07 
+2015,04,22,19:00,nerdRage,OnlineBOTS,cache,Fragbite Masters Season 4 Qual..,16,6,11,4,5,2,nerdRage,15,12,1.05 
+2014,09,23,19:00,Vination,NeverPlay,cache,Fragbite Masters Season 3 Qual..,12,16,7,8,5,8,Vination,22,18,1.13 

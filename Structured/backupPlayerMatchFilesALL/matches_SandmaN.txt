@@ -1,0 +1,19 @@
+2016,08,04,06:20,5POWER,BornOfFire,cache,SL i-League S2 China Finals,11,16,6,9,5,7,5POWER,25,24,1.14 
+2016,08,04,06:20,5POWER,BornOfFire,mirage,SL i-League S2 China Finals,12,16,6,9,6,7,5POWER,18,22,0.86 
+2016,08,04,06:20,5POWER,BornOfFire,cobblestone,SL i-League S2 China Finals,16,3,12,3,4,0,5POWER,20,8,1.66 
+2016,07,31,15:00,5POWER,HG,cache,SL i-League S2 China Qualifier,16,9,11,4,5,5,5POWER,22,14,1.30 
+2016,07,31,15:00,5POWER,HG,cobblestone,SL i-League S2 China Qualifier,16,5,11,4,5,1,5POWER,18,12,1.26 
+2016,07,28,09:15,5POWER,Replays.net,mirage,SL i-League S2 China Qualifier,16,13,11,4,5,9,5POWER,22,21,1.10 
+2016,07,28,09:15,5POWER,Replays.net,cache,SL i-League S2 China Qualifier,4,16,1,14,3,2,5POWER,6,17,0.46 
+2016,07,28,09:15,Replays.net,5POWER,dust2,SL i-League S2 China Qualifier,9,16,3,12,6,4,5POWER,18,16,1.03 
+2016,07,19,09:15,New4,5POWER,cache,SL i-League S2 China Qualifier,13,16,9,6,4,10,5POWER,19,17,0.99 
+2016,07,19,09:15,5POWER,New4,dust2,SL i-League S2 China Qualifier,16,9,11,4,5,5,5POWER,29,14,1.72 
+2016,04,23,11:30,BornOfFire,B.O.O.T,inferno,Pro Gamers League 2016 Spring,16,3,12,3,4,0,B.O.O.T,10,18,0.60 
+2016,04,23,11:30,BornOfFire,B.O.O.T,mirage,Pro Gamers League 2016 Spring,16,10,9,6,7,4,B.O.O.T,26,19,1.32 
+2016,04,17,13:00,HG,B.O.O.T,inferno,SL i-League Invitational China..,16,9,9,6,7,3,B.O.O.T,11,21,0.50 
+2016,04,15,13:00,B.O.O.T,VG.CyberZen,inferno,SL i-League Invitational China..,11,16,9,6,2,10,B.O.O.T,13,22,0.62 
+2016,04,15,13:00,VG.CyberZen,B.O.O.T,mirage,SL i-League Invitational China..,16,6,12,3,4,3,B.O.O.T,15,19,0.84 
+2016,04,13,13:10,MVPproject,B.O.O.T,cache,SL i-League Invitational China..,16,5,13,2,3,3,B.O.O.T,12,19,0.67 
+2016,04,13,13:10,MVPproject,B.O.O.T,mirage,SL i-League Invitational China..,16,6,14,1,2,5,B.O.O.T,10,19,0.57 
+2016,04,06,15:00,AllGamers,B.O.O.T,cache,SL i-League Invitational China..,16,8,9,6,7,2,B.O.O.T,9,21,0.49 
+2016,04,06,15:00,B.O.O.T,AllGamers,mirage,SL i-League Invitational China..,8,16,6,9,2,7,B.O.O.T,26,18,1.33 

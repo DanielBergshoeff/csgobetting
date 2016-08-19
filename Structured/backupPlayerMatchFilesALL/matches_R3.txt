@@ -1,0 +1,7 @@
+2016,04,25,21:15,CETCTM,DMIT,cache,Yoggi Yalla Cup,16,13,7,8,9,5,DMIT,20,21,0.92 
+2016,04,25,21:15,CETCTM,DMIT,cobblestone,Yoggi Yalla Cup,16,14,10,5,6,9,DMIT,22,20,1.14 
+2016,03,25,23:00,KoNSweden,KoNFinland,inferno,King of Nordic Season 3,16,12,12,3,4,9,KoN Sweden,12,21,0.64 
+2016,03,25,21:30,KoNSweden,KoNNorway,cache,King of Nordic Season 3,16,11,7,8,9,3,KoN Sweden,15,15,0.91 
+2016,02,19,18:15,Optimum,Temporaryorgless,cache,Nordic Masters Season 2 Finals,16,2,13,2,3,0,Temporary orgless,7,18,0.36 
+2016,02,19,18:15,Optimum,Temporaryorgless,mirage,Nordic Masters Season 2 Finals,16,3,13,2,3,1,Temporary orgless,8,16,0.48 
+2016,02,19,14:45,Preparation,Temporaryorgless,inferno,Nordic Masters Season 2 Finals,16,12,7,8,9,4,Temporary orgless,24,21,1.15 

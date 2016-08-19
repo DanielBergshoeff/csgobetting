@@ -1,0 +1,26 @@
+2016,07,17,14:55,Reasonfe,Heaven,cache,StarLadder Female Stars Champi..,16,8,8,7,8,1,Heaven,12,17,0.73 
+2016,07,17,14:55,Reasonfe,Heaven,cobblestone,StarLadder Female Stars Champi..,16,11,6,9,10,2,Heaven,14,24,0.55 
+2016,07,16,18:45,Heaven,Secretfe,mirage,StarLadder Female Stars Champi..,17,19,7,8,8,7,Heaven,21,28,0.81 
+2016,07,16,18:45,Heaven,Secretfe,train,StarLadder Female Stars Champi..,14,16,8,7,6,9,Heaven,14,26,0.58 
+2016,07,16,18:45,Heaven,Secretfe,cache,StarLadder Female Stars Champi..,16,11,5,10,11,1,Heaven,14,19,0.74 
+2016,07,16,12:15,Reasonfe,Heaven,cache,StarLadder Female Stars Champi..,12,16,7,8,5,8,Heaven,23,22,1.21 
+2016,07,16,12:15,Reasonfe,Heaven,train,StarLadder Female Stars Champi..,14,16,10,5,4,11,Heaven,21,23,0.93 
+2016,03,26,17:15,Secretfe,Exertusfe,inferno,Copenhagen Games 2016 female,16,9,8,7,8,2,Exertus fe,12,21,0.60 
+2016,03,26,17:15,Exertusfe,Secretfe,train,Copenhagen Games 2016 female,14,16,7,8,7,8,Exertus fe,14,26,0.58 
+2016,03,26,14:30,LGBfe,Exertusfe,cache,Copenhagen Games 2016 female,16,19,9,6,6,9,Exertus fe,26,26,1.00 
+2016,03,26,14:30,Exertusfe,LGBfe,inferno,Copenhagen Games 2016 female,16,7,12,3,4,4,Exertus fe,23,13,1.59 
+2016,03,25,16:30,Exertusfe,LDLCfe,mirage,Copenhagen Games 2016 female,16,11,11,4,5,7,Exertus fe,24,17,1.26 
+2016,03,25,16:30,Exertusfe,LDLCfe,inferno,Copenhagen Games 2016 female,16,10,9,6,7,4,Exertus fe,21,18,1.17 
+2016,03,25,16:30,LDLCfe,Exertusfe,train,Copenhagen Games 2016 female,16,13,8,7,8,6,Exertus fe,17,24,0.67 
+2016,03,25,13:00,Planetkeyfe,Exertusfe,cobblestone,Copenhagen Games 2016 female,8,16,7,8,1,8,Exertus fe,14,19,0.83 
+2016,03,25,13:00,Planetkeyfe,Exertusfe,cache,Copenhagen Games 2016 female,5,16,3,12,2,4,Exertus fe,20,14,1.48 
+2016,03,05,22:30,Exertusfe,LDLCfe,dust2,Intel Challenge Katowice 2016,3,16,3,12,0,4,Exertus fe,8,17,0.50 
+2016,03,05,20:30,CLGRed,Exertusfe,overpass,Intel Challenge Katowice 2016,16,5,11,4,5,1,Exertus fe,9,19,0.46 
+2016,03,05,18:40,Exertusfe,LDLCfe,train,Intel Challenge Katowice 2016,16,13,9,6,7,7,Exertus fe,18,25,0.73 
+2014,10,30,13:25,myXMGfe,Reasonfe,nuke,ESWC 2014 Female,14,16,11,4,3,12,myXMG fe,22,23,1.05 
+2014,10,30,12:15,Ubinited,myXMGfe,mirage,ESWC 2014 Female,14,16,7,8,7,8,myXMG fe,24,21,1.03 
+2014,10,30,10:30,BadMonkey,myXMGfe,inferno,ESWC 2014 Female,16,7,12,3,4,4,myXMG fe,10,19,0.68 
+2014,09,22,21:15,ALTERNATEaTTaX,myXMGfe,mirage,Hitbox Arena Championship 3,16,5,11,4,5,1,myXMG fe,8,20,0.38 
+2014,09,22,21:15,ALTERNATEaTTaX,myXMGfe,inferno,Hitbox Arena Championship 3,16,2,13,2,3,0,myXMG fe,7,17,0.47 
+2014,09,17,21:08,Epsilon,myXMGfe,cache,Hitbox Arena Championship 3,16,2,13,2,3,0,myXMG fe,3,18,0.14 
+2014,09,17,20:00,Epsilon,myXMGfe,mirage,Hitbox Arena Championship 3,16,4,12,3,4,1,myXMG fe,9,19,0.50 

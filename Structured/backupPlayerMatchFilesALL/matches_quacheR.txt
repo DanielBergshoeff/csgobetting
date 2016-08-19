@@ -1,0 +1,14 @@
+2015,10,18,19:15,ProjectSkyline,DSS,inferno,Rising Tornado #5,17,19,6,9,9,6,Project Skyline,17,27,0.66 
+2015,10,18,19:15,ProjectSkyline,DSS,mirage,Rising Tornado #5,5,16,4,11,1,5,Project Skyline,12,19,0.61 
+2015,10,18,16:00,Enervate,ProjectSkyline,dust2,Rising Tornado #5,16,3,12,3,4,0,Project Skyline,6,17,0.35 
+2015,10,18,16:00,Enervate,ProjectSkyline,mirage,Rising Tornado #5,16,2,14,1,2,1,Project Skyline,6,18,0.28 
+2015,10,10,11:00,Poland,Kyrgyzstan,dust2,World Championships 2015,16,12,13,2,3,10,Kyrgyzstan,17,20,0.89 
+2015,10,10,11:00,Kyrgyzstan,Poland,train,World Championships 2015,7,16,7,8,0,8,Kyrgyzstan,17,18,1.00 
+2015,10,08,18:15,Russia,Kyrgyzstan,mirage,World Championships 2015,16,2,13,2,3,0,Kyrgyzstan,1,18,0.05 
+2015,10,08,18:15,Russia,Kyrgyzstan,cobblestone,World Championships 2015,16,10,12,3,4,7,Kyrgyzstan,16,20,0.90 
+2015,10,08,13:30,Tunisia,Kyrgyzstan,dust2,World Championships 2015,10,16,3,12,7,4,Kyrgyzstan,15,19,0.75 
+2015,10,08,13:30,Tunisia,Kyrgyzstan,mirage,World Championships 2015,14,16,7,8,7,8,Kyrgyzstan,22,20,1.06 
+2015,09,02,12:00,Kyrgyzstan,Vietnam,cache,World Championships 2015 Asian..,0,16,0,15,0,1,Kyrgyzstan,5,16,0.26 
+2015,09,02,12:00,Vietnam,Kyrgyzstan,inferno,World Championships 2015 Asian..,16,5,13,2,3,3,Kyrgyzstan,4,21,0.19 
+2015,08,31,14:00,Palestine,Kyrgyzstan,cache,World Championships 2015 Asian..,4,16,3,12,1,4,Kyrgyzstan,17,12,1.24 
+2015,08,31,12:00,India,Kyrgyzstan,mirage,World Championships 2015 Asian..,2,16,2,13,0,3,Kyrgyzstan,14,9,1.35 

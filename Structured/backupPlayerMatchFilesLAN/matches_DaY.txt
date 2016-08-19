@@ -1,0 +1,19 @@
+2016,03,24,19:00,BX3,EpiphanyBolt,mirage,Copenhagen Games 2016 BYOC Qua..,16,14,11,4,5,10,Epiphany Bolt,26,21,1.16 
+2016,03,24,19:00,EpiphanyBolt,BX3,overpass,Copenhagen Games 2016 BYOC Qua..,9,16,8,7,1,9,Epiphany Bolt,11,18,0.62 
+2016,03,24,19:00,BX3,EpiphanyBolt,cobblestone,Copenhagen Games 2016 BYOC Qua..,14,16,4,11,10,5,Epiphany Bolt,25,18,1.27 
+2016,03,24,15:30,EpiphanyBolt,n0_0rg,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,Epiphany Bolt,28,13,1.77 
+2016,03,24,13:00,EpiphanyBolt,temporary,dust2,Copenhagen Games 2016 BYOC Qua..,16,9,10,5,6,4,Epiphany Bolt,21,16,1.25 
+2016,03,19,15:00,PANTERS,demise,mirage,Komplett Barcraft eXperience,16,14,11,4,5,10,demise,16,21,0.77 
+2016,03,19,15:00,demise,PANTERS,inferno,Komplett Barcraft eXperience,9,16,3,12,6,4,demise,12,20,0.56 
+2016,03,19,15:00,demise,PANTERS,dust2,Komplett Barcraft eXperience,0,16,0,15,0,1,demise,12,16,0.70 
+2015,10,31,09:00,BX3,MIXCAT,mirage,ASUS ROG Nordic Challenge,8,16,2,13,6,3,BX3,13,20,0.73 
+2015,10,31,09:00,BX3,MIXCAT,dust2,ASUS ROG Nordic Challenge,3,16,2,13,1,3,BX3,10,16,0.72 
+2015,04,03,22:30,puta,Temp.no,mirage,Copenhagen Games 2015,16,11,7,8,9,3,Temp.no,19,19,0.95 
+2015,04,03,15:30,Temp.no,Fraternitas,mirage,Copenhagen Games 2015,14,16,6,9,8,7,Temp.no,18,18,0.91 
+2015,04,03,15:30,Fraternitas,Temp.no,inferno,Copenhagen Games 2015,16,7,10,5,6,2,Temp.no,12,17,0.70 
+2015,04,03,12:00,FlipSid3,Temp.no,cache,Copenhagen Games 2015,16,3,14,1,2,2,Temp.no,7,17,0.42 
+2015,04,03,12:00,FlipSid3,Temp.no,nuke,Copenhagen Games 2015,16,1,14,1,2,0,Temp.no,8,17,0.46 
+2015,04,02,22:45,Temp.no,myRevenge,inferno,Copenhagen Games 2015,16,2,13,2,3,0,Temp.no,14,6,1.32 
+2015,04,02,21:40,Temp.no,CPLAY,dust2,Copenhagen Games 2015,5,16,5,10,0,6,Temp.no,11,18,0.69 
+2015,04,02,19:00,Temp.no,myRevenge,cache,Copenhagen Games 2015,16,11,9,6,7,5,Temp.no,21,18,1.19 
+2015,04,02,15:30,Temp.no,h$fyre,dust2,Copenhagen Games 2015,16,6,14,1,2,5,Temp.no,24,11,1.64 

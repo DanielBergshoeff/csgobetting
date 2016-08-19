@@ -1,0 +1,22 @@
+2016,05,07,17:35,LeiSuRe,FAB,train,ESL Meisterschaft Spring 2016 ..,16,7,11,4,5,3,FAB,14,17,0.85 
+2016,05,07,17:35,LeiSuRe,FAB,cobblestone,ESL Meisterschaft Spring 2016 ..,8,16,4,11,4,5,FAB,14,15,0.84 
+2016,05,07,17:35,LeiSuRe,FAB,cache,ESL Meisterschaft Spring 2016 ..,16,12,8,7,8,5,FAB,18,20,0.92 
+2016,03,24,23:00,FAB,Fragsters,inferno,Copenhagen Games 2016 BYOC Qua..,7,16,5,10,2,6,FAB,14,19,0.78 
+2016,03,24,23:00,FAB,Fragsters,mirage,Copenhagen Games 2016 BYOC Qua..,7,16,6,9,1,7,FAB,16,18,0.86 
+2016,03,24,19:00,FAB,Tricked,overpass,Copenhagen Games 2016 BYOC Qua..,16,12,8,7,8,5,FAB,20,15,1.14 
+2016,03,24,19:00,FAB,Tricked,mirage,Copenhagen Games 2016 BYOC Qua..,16,6,10,5,6,1,FAB,17,14,1.15 
+2016,03,24,19:00,Tricked,FAB,inferno,Copenhagen Games 2016 BYOC Qua..,16,9,9,6,7,3,FAB,16,19,0.82 
+2016,03,24,17:15,FAB,Wicked,inferno,Copenhagen Games 2016 BYOC Qua..,16,6,9,6,7,0,FAB,10,14,0.73 
+2016,03,24,15:30,FAB,Publiclir.se,cobblestone,Copenhagen Games 2016 BYOC Qua..,15,19,7,8,8,7,FAB,29,27,1.05 
+2016,03,24,13:00,Ollebolle,FAB,dust2,Copenhagen Games 2016 BYOC Qua..,0,16,0,15,0,1,FAB,10,6,1.07 
+2015,05,02,16:00,mousesports,myKPV,mirage,ESL Frühlingsmeisterschaft 201..,16,1,14,1,2,0,myKPV,7,16,0.46 
+2015,05,02,16:00,myKPV,mousesports,inferno,ESL Frühlingsmeisterschaft 201..,3,16,3,12,0,4,myKPV,5,17,0.37 
+2014,12,20,22:45,dotpiXels,myKPV,mirage,Acer A-Split Invitational powe..,16,6,12,3,4,3,myKPV,14,17,0.85 
+2014,12,20,19:35,myKPV,dotpiXels,cache,Acer A-Split Invitational powe..,21,18,9,6,6,9,myKPV,23,23,0.95 
+2014,12,20,19:35,myKPV,dotpiXels,overpass,Acer A-Split Invitational powe..,14,16,11,4,3,12,myKPV,19,27,0.71 
+2014,12,20,17:20,PENTA,myKPV,mirage,Acer A-Split Invitational powe..,16,4,11,4,5,0,myKPV,13,17,0.81 
+2014,12,20,17:20,PENTA,myKPV,inferno,Acer A-Split Invitational powe..,16,1,14,1,2,0,myKPV,8,16,0.51 
+2014,12,20,13:00,myKPV,Virtus.pro,cache,Acer A-Split Invitational powe..,7,16,4,11,3,5,myKPV,13,19,0.71 
+2014,12,20,13:00,myKPV,Virtus.pro,nuke,Acer A-Split Invitational powe..,14,16,5,10,9,6,myKPV,13,26,0.49 
+2014,12,13,15:40,myKPV,mousesports,cache,ESL Pro Series Germany Winter ..,8,16,2,13,6,3,myKPV,13,20,0.60 
+2014,12,13,15:40,myKPV,mousesports,mirage,ESL Pro Series Germany Winter ..,9,16,5,10,4,6,myKPV,9,22,0.42 

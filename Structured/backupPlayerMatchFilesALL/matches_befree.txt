@@ -1,0 +1,16 @@
+2016,05,15,13:45,EasyFix,TES,overpass,HyperX Cup Finals,4,16,3,12,1,4,EasyFix,12,18,0.67 
+2016,05,15,13:45,TES,EasyFix,cache,HyperX Cup Finals,16,14,7,8,9,6,EasyFix,21,25,0.88 
+2016,03,15,23:00,ExAequo,EasyFix,cache,Personal Gamer,16,8,10,5,6,3,EasyFix,18,19,0.92 
+2016,03,15,23:00,ExAequo,EasyFix,train,Personal Gamer,16,12,6,9,10,3,EasyFix,18,20,0.96 
+2015,12,19,20:00,XPC,Revolte,cache,Rising Stars Balkan #2,16,19,9,6,6,9,XPC,27,30,0.94 
+2015,12,18,20:00,iNation,XPC,dust2,Rising Stars Balkan #2,16,10,11,4,5,6,XPC,12,19,0.67 
+2015,12,18,20:00,XPC,iNation,mirage,Rising Stars Balkan #2,7,16,6,9,1,7,XPC,15,17,0.81 
+2015,09,29,19:00,XPC,Reason,overpass,CSHUB Series Season 1,6,16,3,12,3,4,XPC,6,21,0.29 
+2015,09,29,19:00,Reason,XPC,mirage,CSHUB Series Season 1,16,2,13,2,3,0,XPC,8,15,0.57 
+2015,08,26,23:00,Reason,XPC,cobblestone,QuickShot Arena #4,16,8,11,4,5,4,XPC,9,17,0.55 
+2015,08,26,18:00,XPC,SpaceSoldiers,mirage,QuickShot Arena #4,12,16,3,12,9,4,XPC,15,19,0.81 
+2015,08,26,18:00,SpaceSoldiers,XPC,cobblestone,QuickShot Arena #4,16,2,13,2,3,0,XPC,3,17,0.18 
+2014,08,26,19:00,Romania,CzechRepublic,inferno,European Championship 2014 Qua..,14,16,8,7,6,9,Romania,22,18,1.07 
+2014,08,26,19:00,CzechRepublic,Romania,dust2,European Championship 2014 Qua..,16,9,8,7,8,2,Romania,11,19,0.68 
+2014,08,16,19:00,Romania,Montenegro,inferno,European Championship 2014 Qua..,16,8,9,6,7,2,Romania,31,15,1.94 
+2014,08,16,19:00,Romania,Montenegro,mirage,European Championship 2014 Qua..,16,4,11,4,5,0,Romania,24,10,1.79 

@@ -1,0 +1,4 @@
+2015,11,28,16:30,Revolte,E-frag.net,cobblestone,ESL South East Europe Champion..,16,13,10,5,6,8,Revolte,25,16,1.31 
+2015,11,28,16:30,Revolte,E-frag.net,inferno,ESL South East Europe Champion..,16,13,8,7,8,6,Revolte,16,19,0.88 
+2015,11,28,11:45,CSGO.one,Revolte,dust2,ESL South East Europe Champion..,10,16,4,11,6,5,Revolte,24,14,1.39 
+2015,11,28,10:00,E-frag.net,Revolte,cache,ESL South East Europe Champion..,6,16,2,13,4,3,Revolte,18,11,1.28 

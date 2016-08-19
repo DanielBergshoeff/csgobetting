@@ -1,0 +1,8 @@
+2015,05,11,20:00,Rock,GIANT5,dust2,Balkan Superleague,16,12,10,5,6,7,Rock,23,16,1.18 
+2015,05,11,19:00,Rock,neXtPlease!,cache,Balkan Superleague,16,6,13,2,3,4,Rock,18,12,1.27 
+2015,04,29,18:00,Rock,SpaceSoldiers,cache,ESL South East Europe Champion..,16,9,9,6,7,3,Rock,28,13,1.70 
+2015,04,29,18:00,Rock,SpaceSoldiers,dust2,ESL South East Europe Champion..,16,14,6,9,10,5,Rock,15,21,0.76 
+2014,12,13,20:00,GPlay,WiLD,inferno,South East Europe Championship,16,10,11,4,5,6,WiLD,19,21,0.88 
+2014,12,13,20:00,GPlay,WiLD,mirage,South East Europe Championship,16,12,7,8,9,4,WiLD,14,23,0.67 
+2014,12,13,20:00,GPlay,WiLD,dust2,South East Europe Championship,14,16,10,5,4,11,WiLD,30,19,1.36 
+2014,09,28,18:00,Orbit,ZYLEX,mirage,Fragbite Masters Season 3 Qual..,16,13,10,5,6,8,ZYLEX,24,23,1.12 

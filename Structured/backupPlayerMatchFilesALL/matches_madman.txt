@@ -1,0 +1,4 @@
+2014,06,15,16:00,Reason,o4o,train,DreamHack Summer 2014,16,1,14,1,2,0,o4o,3,17,0.15 
+2014,06,15,15:00,o4o,Titan,inferno,DreamHack Summer 2014,2,16,1,14,1,2,o4o,7,16,0.45 
+2014,05,25,14:00,GamePub.ENTiTY,core.team,mirage,Gaming Challenge 2014,16,5,13,2,3,3,core.team,6,20,0.36 
+2014,05,25,12:00,e-Sports.rs,core.team,inferno,Gaming Challenge 2014,16,11,7,8,9,3,core.team,17,22,0.81 

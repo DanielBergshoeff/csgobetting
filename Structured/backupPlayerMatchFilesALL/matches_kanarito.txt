@@ -1,0 +1,44 @@
+2016,07,16,17:20,Wololos,gBots,cache,DreamHack Valencia 2016,14,16,8,7,6,9,gBots,29,21,1.40 
+2016,07,16,17:20,Wololos,gBots,cobblestone,DreamHack Valencia 2016,16,7,11,4,5,3,gBots,16,17,1.00 
+2016,07,16,17:20,gBots,Wololos,mirage,DreamHack Valencia 2016,16,13,13,2,3,11,gBots,32,19,1.54 
+2016,07,16,14:45,AlienTech,gBots,dust2,DreamHack Valencia 2016,16,6,11,4,5,2,gBots,11,19,0.58 
+2016,07,16,14:45,AlienTech,gBots,cache,DreamHack Valencia 2016,16,6,13,2,3,4,gBots,17,18,0.98 
+2016,07,15,17:55,gBots,Galatics,cobblestone,DreamHack Valencia 2016,16,11,7,8,9,3,gBots,26,16,1.24 
+2016,07,15,17:55,gBots,Galatics,cache,DreamHack Valencia 2016,16,8,8,7,8,1,gBots,22,16,1.42 
+2016,04,10,17:30,k1ck,gBots,inferno,AlienTech CS:GO League Finals,16,10,11,4,5,6,gBots,14,18,0.72 
+2016,04,10,17:30,k1ck,gBots,mirage,AlienTech CS:GO League Finals,16,14,5,10,11,4,gBots,16,21,0.79 
+2016,04,10,17:30,k1ck,gBots,cache,AlienTech CS:GO League Finals,8,16,2,13,6,3,gBots,29,15,1.68 
+2016,04,10,12:00,gBots,AlienTech,inferno,AlienTech CS:GO League Finals,16,9,9,6,7,3,gBots,16,13,1.09 
+2016,04,10,12:00,gBots,AlienTech,cache,AlienTech CS:GO League Finals,16,10,7,8,9,2,gBots,16,16,0.96 
+2016,04,09,18:00,k1ck,gBots,cobblestone,AlienTech CS:GO League Finals,16,11,7,8,9,3,gBots,17,21,0.88 
+2016,04,09,18:00,k1ck,gBots,cache,AlienTech CS:GO League Finals,16,8,9,6,7,2,gBots,8,20,0.41 
+2016,04,09,18:00,gBots,k1ck,mirage,AlienTech CS:GO League Finals,16,4,12,3,4,1,gBots,19,8,1.63 
+2016,04,08,21:30,gBots,AlienTech,inferno,AlienTech CS:GO League Finals,16,5,12,3,4,2,gBots,14,12,1.07 
+2016,04,08,21:30,gBots,AlienTech,cache,AlienTech CS:GO League Finals,16,12,10,5,6,7,gBots,21,18,1.10 
+2016,04,08,21:30,gBots,AlienTech,cobblestone,AlienTech CS:GO League Finals,15,19,11,4,4,11,gBots,23,24,0.99 
+2016,03,16,23:15,gBots,ImperioMultimedia,mirage,AlienTech CS:GO League,16,5,11,4,5,1,gBots,17,9,1.34 
+2016,03,16,23:15,ImperioMultimedia,gBots,cobblestone,AlienTech CS:GO League,3,16,3,12,0,4,gBots,11,8,1.05 
+2016,03,16,21:00,k1ck,gBots,mirage,AlienTech CS:GO League,9,16,5,10,4,6,gBots,18,18,0.92 
+2016,03,16,21:00,k1ck,gBots,cobblestone,AlienTech CS:GO League,14,16,4,11,10,5,gBots,15,20,0.77 
+2016,03,13,17:00,gBots,Galatics,inferno,AlienTech CS:GO League,16,11,8,7,8,4,gBots,16,18,0.90 
+2016,03,13,17:00,gBots,Galatics,train,AlienTech CS:GO League,16,6,11,4,5,2,gBots,22,12,1.55 
+2016,03,06,21:00,Publiclir.se,gBots,mirage,AlienTech CS:GO League,19,16,10,5,5,10,gBots,27,27,0.98 
+2016,03,06,21:00,Publiclir.se,gBots,cobblestone,AlienTech CS:GO League,16,12,9,6,7,6,gBots,12,24,0.56 
+2016,02,24,20:00,AlienTech,gBots,inferno,AlienTech CS:GO League,8,16,5,10,3,6,gBots,21,15,1.18 
+2016,02,24,20:00,AlienTech,gBots,train,AlienTech CS:GO League,15,19,11,4,4,11,gBots,18,28,0.65 
+2016,02,20,12:00,gBots,EnVyUs,mirage,ESL Barcelona CS:GO Invitation..,4,16,4,11,0,5,gBots,13,18,0.71 
+2016,02,19,22:45,fnatic,gBots,inferno,ESL Barcelona CS:GO Invitation..,16,13,9,6,7,7,gBots,16,22,0.76 
+2016,02,19,17:15,dignitas,gBots,cobblestone,ESL Barcelona CS:GO Invitation..,16,14,9,6,7,8,gBots,16,22,0.72 
+2016,02,16,19:00,EU4IA,gBots,train,AlienTech CS:GO League,8,16,7,8,1,8,gBots,20,12,1.25 
+2016,02,16,19:00,EU4IA,gBots,inferno,AlienTech CS:GO League,16,7,8,7,8,0,gBots,9,18,0.58 
+2016,02,15,21:00,gBots,nerdRage,train,AlienTech CS:GO League,16,6,10,5,6,1,gBots,19,12,1.44 
+2016,02,15,21:00,gBots,nerdRage,cobblestone,AlienTech CS:GO League,16,0,15,0,1,0,gBots,16,8,1.61 
+2015,12,06,11:00,Atlantis,gBots,inferno,LVP Season 9 Division de Honor..,12,16,8,7,4,9,Atlantis,16,24,0.72 
+2015,12,06,11:00,gBots,Atlantis,train,LVP Season 9 Division de Honor..,16,5,13,2,3,3,Atlantis,13,17,0.73 
+2015,12,05,20:00,NewSkillInfinity,Atlantis,cache,LVP Season 9 Division de Honor..,10,16,5,10,5,6,Atlantis,18,22,0.82 
+2015,12,05,20:00,NewSkillInfinity,Atlantis,mirage,LVP Season 9 Division de Honor..,16,8,12,3,4,5,Atlantis,22,18,1.14 
+2015,12,05,20:00,Atlantis,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,6,13,2,3,4,Atlantis,23,14,1.41 
+2015,12,05,14:00,KIYF,Atlantis,inferno,LVP Season 9 Division de Honor..,2,16,1,14,1,2,Atlantis,13,10,1.13 
+2015,12,04,22:00,x6tence,Atlantis,inferno,LVP Season 9 Division de Honor..,16,13,10,5,6,8,Atlantis,30,21,1.29 
+2015,10,01,19:00,XPRESIV'E,x6tence,overpass,LVP Season 9 División de Honor..,11,16,4,11,7,5,XPRESIV'E,22,20,1.13 
+2015,10,01,19:00,x6tence,XPRESIV'E,mirage,LVP Season 9 División de Honor..,16,14,7,8,9,6,XPRESIV'E,22,21,0.99 

@@ -1,0 +1,2 @@
+2016,06,05,13:00,RAGE,SpaceJam,mirage,Adrenaline Open Cyber Cup,8,16,7,8,1,8,RAGE,11,19,0.60 
+2016,06,05,13:00,RAGE,SpaceJam,dust2,Adrenaline Open Cyber Cup,13,16,7,8,6,8,RAGE,16,25,0.65 

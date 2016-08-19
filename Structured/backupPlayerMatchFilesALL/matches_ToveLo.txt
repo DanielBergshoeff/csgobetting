@@ -1,0 +1,4 @@
+2016,03,22,08:00,EDG,AllGamers,overpass,WCA Season 1 Qualifier,16,5,13,2,3,3,AllGamers,14,17,0.88 
+2016,03,22,08:00,AllGamers,EDG,mirage,WCA Season 1 Qualifier,2,16,2,13,0,3,AllGamers,5,17,0.28 
+2016,03,17,08:00,AllGamers,eFuture,cache,WCA Season 1 Qualifier,16,12,9,6,7,6,AllGamers,16,18,0.93 
+2016,03,17,08:00,AllGamers,eFuture,dust2,WCA Season 1 Qualifier,16,8,8,7,8,1,AllGamers,19,16,1.27 

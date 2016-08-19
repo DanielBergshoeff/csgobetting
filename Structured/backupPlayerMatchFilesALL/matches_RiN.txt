@@ -1,0 +1,13 @@
+2016,06,17,15:10,Nface,AC-130,cache,MixBOT Pro-League Golden,16,10,7,8,9,2,Nface,21,17,1.18 
+2016,06,17,15:10,AC-130,Nface,overpass,MixBOT Pro-League Golden,16,4,11,4,5,0,Nface,7,19,0.36 
+2016,06,17,15:10,Nface,AC-130,nuke,MixBOT Pro-League Golden,16,5,11,4,5,1,Nface,21,15,1.34 
+2016,06,16,12:00,ZZCY,Nface,cobblestone,MixBOT Pro-League Golden,16,12,9,6,7,6,Nface,16,22,0.76 
+2016,06,16,12:00,ZZCY,Nface,mirage,MixBOT Pro-League Golden,9,16,4,11,5,5,Nface,18,14,1.08 
+2016,06,16,12:00,Nface,ZZCY,cache,MixBOT Pro-League Golden,15,19,7,8,8,7,Nface,23,25,0.95 
+2016,04,21,10:10,HG,EDG,cobblestone,SL i-League Invitational China..,3,16,3,12,0,4,HG,13,18,0.80 
+2016,04,21,10:10,HG,EDG,dust2,SL i-League Invitational China..,17,19,1,14,14,1,HG,28,28,1.04 
+2016,04,17,13:00,HG,B.O.O.T,inferno,SL i-League Invitational China..,16,9,9,6,7,3,HG,18,17,1.03 
+2016,03,22,12:00,VG.CyberZen,HG,cobblestone,WCA Season 1 Qualifier,16,14,8,7,8,7,HG,25,20,1.20 
+2016,03,22,12:00,VG.CyberZen,HG,cache,WCA Season 1 Qualifier,16,5,11,4,5,1,HG,12,20,0.60 
+2016,03,17,12:00,New4,HG,cache,WCA Season 1 Qualifier,16,5,11,4,5,1,HG,14,17,0.85 
+2016,03,17,12:00,New4,HG,train,WCA Season 1 Qualifier,16,5,11,4,5,1,HG,15,20,0.86 

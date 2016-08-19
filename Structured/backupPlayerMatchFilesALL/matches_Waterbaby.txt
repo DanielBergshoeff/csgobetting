@@ -1,0 +1,29 @@
+2016,07,31,12:00,B.O.O.T,EP,cobblestone,SL i-League S2 China Qualifier,16,8,11,4,5,4,EP,12,21,0.57 
+2016,07,31,12:00,EP,B.O.O.T,cache,SL i-League S2 China Qualifier,9,16,7,8,2,8,EP,19,18,1.07 
+2016,07,31,09:00,EP,Nface,mirage,SL i-League S2 China Qualifier,16,14,5,10,11,4,EP,31,22,1.45 
+2016,07,31,09:00,EP,Nface,train,SL i-League S2 China Qualifier,16,14,11,4,5,10,EP,19,19,0.96 
+2016,07,27,12:15,EP,AllGamers,cobblestone,SL i-League S2 China Qualifier,12,16,6,9,6,7,EP,24,20,1.18 
+2016,07,27,12:15,EP,AllGamers,mirage,SL i-League S2 China Qualifier,16,11,8,7,8,4,EP,22,19,1.05 
+2016,07,27,12:15,EP,AllGamers,cache,SL i-League S2 China Qualifier,5,16,4,11,1,5,EP,10,19,0.56 
+2016,07,22,09:15,FIVE,EP,cache,Pro Gamer League 2016 Summer F..,15,15,7,8,8,7,EP,25,25,1.01 
+2016,07,22,05:45,X,EP,overpass,Pro Gamer League 2016 Summer F..,16,0,15,0,1,0,EP,4,16,0.21 
+2016,07,22,04:00,VG.CyberZen,EP,cache,Pro Gamer League 2016 Summer F..,16,2,13,2,3,0,EP,8,17,0.48 
+2015,12,19,13:30,AllGamers,Wings,overpass,SL i-League StarSeries XIV Chi..,12,16,7,8,5,8,AllGamers,18,18,0.97 
+2015,12,19,13:30,Wings,AllGamers,cache,SL i-League StarSeries XIV Chi..,11,16,10,5,1,11,AllGamers,14,20,0.77 
+2015,12,19,13:30,AllGamers,Wings,mirage,SL i-League StarSeries XIV Chi..,2,16,2,13,0,3,AllGamers,7,17,0.47 
+2015,12,19,06:00,GANK,AllGamers,overpass,SL i-League StarSeries XIV Chi..,10,16,6,9,4,7,AllGamers,24,15,1.45 
+2015,12,19,06:00,AllGamers,GANK,mirage,SL i-League StarSeries XIV Chi..,13,16,5,10,8,6,AllGamers,17,26,0.63 
+2015,12,19,06:00,GANK,AllGamers,cache,SL i-League StarSeries XIV Chi..,6,16,3,12,3,4,AllGamers,20,10,1.36 
+2015,12,18,10:30,AllGamers,CyberZen,mirage,SL i-League StarSeries XIV Chi..,6,16,6,9,0,7,AllGamers,14,18,0.79 
+2015,12,18,10:30,CyberZen,AllGamers,inferno,SL i-League StarSeries XIV Chi..,16,14,9,6,7,8,AllGamers,11,23,0.52 
+2015,12,17,08:30,GANK,AllGamers,mirage,SL i-League StarSeries XIV Chi..,10,16,7,8,3,8,AllGamers,17,18,1.00 
+2015,12,17,08:30,AllGamers,GANK,cache,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,AllGamers,9,11,0.77 
+2015,12,12,13:40,AllGamers,TheMongolz,mirage,Fulcrum Gamers League,14,16,9,6,5,10,AllGamers,15,24,0.68 
+2015,12,12,13:40,TheMongolz,AllGamers,inferno,Fulcrum Gamers League,13,16,3,12,10,4,AllGamers,16,23,0.65 
+2015,12,12,12:00,AllGamers,FOF,cache,Fulcrum Gamers League,16,3,13,2,3,1,AllGamers,22,8,1.81 
+2015,12,12,12:00,AllGamers,FOF,inferno,Fulcrum Gamers League,16,4,11,4,5,0,AllGamers,18,10,1.33 
+2015,12,04,12:30,VariousArtists,pow,inferno,SL i-League StarSeries XIV,4,16,3,12,1,4,pow,12,12,0.94 
+2015,12,04,12:30,pow,VariousArtists,cache,SL i-League StarSeries XIV,17,19,8,7,7,8,pow,31,25,1.27 
+2015,12,04,12:30,pow,VariousArtists,dust2,SL i-League StarSeries XIV,16,10,12,3,4,7,pow,13,21,0.64 
+2015,12,02,12:30,TyLoo,pow,inferno,SL i-League StarSeries XIV,16,4,12,3,4,1,pow,7,19,0.36 
+2015,12,02,12:30,pow,TyLoo,overpass,SL i-League StarSeries XIV,3,16,3,12,0,4,pow,14,17,0.85 

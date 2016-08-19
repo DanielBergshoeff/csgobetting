@@ -1,0 +1,17 @@
+2015,10,16,16:00,m0nster,J2G,dust2,MixBOT Pro-League Invite Seaso..,10,16,4,11,6,5,m0nster,11,20,0.63 
+2015,10,16,14:45,TheMongolz,m0nster,inferno,MixBOT Pro-League Invite Seaso..,16,3,13,2,3,1,m0nster,8,16,0.54 
+2015,10,03,13:30,TyLoo,m0nster,overpass,MixBOT Pro-League Invite Seaso..,16,1,14,1,2,0,m0nster,9,16,0.52 
+2015,10,03,13:30,m0nster,TyLoo,cobblestone,MixBOT Pro-League Invite Seaso..,13,16,9,6,4,10,m0nster,18,21,0.86 
+2015,09,19,17:55,m0nster,AbsoluteTerror,cobblestone,MixBOT Pro-League Invite Seaso..,16,13,6,9,10,4,m0nster,17,19,0.85 
+2015,09,19,16:00,m0nster,MOTV,inferno,MixBOT Pro-League Invite Seaso..,16,13,5,10,11,3,m0nster,17,16,0.96 
+2015,09,11,16:00,m0nster,QeeYou,inferno,MixBOT Pro-League Invite Seaso..,7,16,7,8,0,8,m0nster,10,15,0.70 
+2015,09,06,09:00,m0nster,xqR,cobblestone,DreamHack Open Cluj-Napoca 201..,12,16,4,11,8,5,m0nster,19,21,0.96 
+2015,09,06,09:00,m0nster,xqR,cache,DreamHack Open Cluj-Napoca 201..,11,16,7,8,4,8,m0nster,13,19,0.71 
+2015,07,19,08:00,Renegades,myRevenge,inferno,ESL One Cologne 2015 Asian Qua..,16,2,13,2,3,0,myRevenge,5,16,0.32 
+2015,07,19,08:00,Renegades,myRevenge,cache,ESL One Cologne 2015 Asian Qua..,19,16,5,10,10,5,myRevenge,18,29,0.64 
+2015,07,19,05:00,myRevenge,Skyred,dust2,ESL One Cologne 2015 Asian Qua..,16,14,6,9,10,5,myRevenge,24,17,1.23 
+2015,07,18,10:15,TheMongolz,myRevenge,inferno,ESL One Cologne 2015 Asian Qua..,14,16,10,5,4,11,myRevenge,20,21,0.93 
+2015,07,18,07:35,Skyred,myRevenge,cache,ESL One Cologne 2015 Asian Qua..,16,9,10,5,6,4,myRevenge,8,17,0.55 
+2015,06,05,15:00,myRevenge,Skyred,inferno,FACEIT SEA Launch Cup,11,16,9,6,2,10,myRevenge,17,19,0.94 
+2014,07,18,18:45,Legacy,INSHOCK,train,DreamHack Valencia 2014,11,16,6,9,5,7,Legacy,14,24,0.57 
+2014,07,18,17:05,Legacy,OverGaming,inferno,DreamHack Valencia 2014,7,16,6,9,1,7,Legacy,5,20,0.29 

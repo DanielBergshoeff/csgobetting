@@ -1,0 +1,7 @@
+2015,04,04,10:00,ICYPhoenix,Karma,cobblestone,Copenhagen Games 2015 female,14,16,9,6,5,10,ICY Phoenix,17,21,0.74 
+2015,04,04,10:00,Karma,ICYPhoenix,dust2,Copenhagen Games 2015 female,11,16,4,11,7,5,ICY Phoenix,21,15,1.20 
+2015,04,04,10:00,Karma,ICYPhoenix,mirage,Copenhagen Games 2015 female,22,19,8,7,7,8,ICY Phoenix,15,28,0.61 
+2015,04,03,22:30,ex-meltyfe,ICYPhoenix,dust2,Copenhagen Games 2015 female,11,16,9,6,2,10,ICY Phoenix,22,13,1.23 
+2015,04,03,22:30,ex-meltyfe,ICYPhoenix,inferno,Copenhagen Games 2015 female,7,16,7,8,0,8,ICY Phoenix,16,10,1.22 
+2015,04,03,15:00,ICYPhoenix,CMStorm,cobblestone,Copenhagen Games 2015 female,10,16,4,11,6,5,ICY Phoenix,21,18,1.06 
+2015,04,03,15:00,ICYPhoenix,CMStorm,mirage,Copenhagen Games 2015 female,6,16,3,12,3,4,ICY Phoenix,16,18,0.94 

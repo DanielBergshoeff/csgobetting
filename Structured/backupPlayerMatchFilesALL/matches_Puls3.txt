@@ -1,0 +1,49 @@
+2016,08,15,16:00,Austria,UnitedKingdom,dust2,World Championships 2016 Europ..,10,16,5,10,5,6,United Kingdom,26,15,1.47 
+2016,08,15,16:00,UnitedKingdom,Austria,cache,World Championships 2016 Europ..,16,7,12,3,4,4,United Kingdom,19,14,1.16 
+2016,03,14,18:45,fm-eSports,Gambit,inferno,Uprise Champions Cup Season 4,10,16,4,11,6,5,fm-eSports,20,18,1.07 
+2016,03,14,18:45,Gambit,fm-eSports,mirage,Uprise Champions Cup Season 4,16,10,6,9,10,1,fm-eSports,17,20,0.91 
+2016,03,14,18:45,Gambit,fm-eSports,cobblestone,Uprise Champions Cup Season 4,10,16,10,5,0,11,fm-eSports,21,17,1.09 
+2016,03,10,20:15,dignitas,fm-eSports,cobblestone,CEVO Gfinity Professional Seas..,16,12,8,7,8,5,fm-eSports,24,22,0.99 
+2016,03,10,20:15,dignitas,fm-eSports,train,CEVO Gfinity Professional Seas..,16,4,14,1,2,3,fm-eSports,14,19,0.77 
+2016,03,09,19:15,Gambit,fm-eSports,train,Operation: Kinguin #2,16,9,7,8,9,1,fm-eSports,16,17,1.12 
+2016,03,09,19:15,Gambit,fm-eSports,cobblestone,Operation: Kinguin #2,16,10,8,7,8,3,fm-eSports,21,22,0.96 
+2016,01,30,22:00,fm-eSports,GameAgents,cache,Uprise Champions Cup Season 4 ..,16,13,10,5,6,8,fm-eSports,20,23,0.90 
+2016,01,30,22:00,fm-eSports,GameAgents,inferno,Uprise Champions Cup Season 4 ..,19,17,7,8,8,7,fm-eSports,28,28,1.09 
+2016,01,28,19:00,fm-eSports,Lions,cache,Uprise Champions Cup Season 4 ..,16,14,9,6,7,8,fm-eSports,29,21,1.34 
+2015,12,07,22:00,EZskins.com,LondonC,inferno,Acer Predator Masters powered ..,16,12,10,5,6,7,EZskins.com,21,17,1.22 
+2015,12,07,22:00,LondonC,EZskins.com,overpass,Acer Predator Masters powered ..,16,3,13,2,3,1,EZskins.com,5,16,0.38 
+2015,11,21,18:00,Infused,EZskins.com,overpass,Gfinity CS:GO UK Championship ..,3,16,3,12,0,4,EZskins.com,25,13,1.69 
+2015,11,21,18:00,EZskins.com,Infused,inferno,Gfinity CS:GO UK Championship ..,16,7,11,4,5,3,EZskins.com,21,16,1.24 
+2015,11,21,18:00,EZskins.com,Infused,mirage,Gfinity CS:GO UK Championship ..,16,8,10,5,6,3,EZskins.com,21,18,1.03 
+2015,11,21,18:00,Infused,EZskins.com,cache,Gfinity CS:GO UK Championship ..,16,7,10,5,6,2,EZskins.com,20,18,1.18 
+2015,11,21,18:00,Infused,EZskins.com,train,Gfinity CS:GO UK Championship ..,16,14,9,6,7,8,EZskins.com,22,23,0.92 
+2015,11,12,22:15,PENTA,EZskins.com,cache,Acer Predator Masters powered ..,16,7,9,6,7,1,EZskins.com,16,17,0.95 
+2015,11,12,22:15,PENTA,EZskins.com,mirage,Acer Predator Masters powered ..,16,6,12,3,4,3,EZskins.com,10,18,0.61 
+2015,11,04,20:00,EZskins.com,E-frag.net,mirage,Acer Predator Masters powered ..,13,16,9,6,4,10,EZskins.com,17,23,0.78 
+2015,11,04,20:00,E-frag.net,EZskins.com,dust2,Acer Predator Masters powered ..,16,4,12,3,4,1,EZskins.com,13,18,0.80 
+2015,09,29,20:10,UnitedKingdom,Finland,cache,World Championships 2015 Europ..,13,16,10,5,3,11,United Kingdom,20,21,1.02 
+2015,09,29,19:00,Slovakia,UnitedKingdom,inferno,World Championships 2015 Europ..,13,16,6,9,7,7,United Kingdom,15,17,0.89 
+2015,09,29,17:00,Germany,UnitedKingdom,dust2,World Championships 2015 Europ..,16,7,12,3,4,4,United Kingdom,17,21,0.86 
+2015,09,28,22:00,Choke,fish123,mirage,ESL UK Premiership Season 2,8,16,5,10,3,6,fish123,12,13,0.89 
+2015,09,28,21:20,UnitedKingdom,Russia,mirage,World Championships 2015 Europ..,4,16,1,14,3,2,United Kingdom,15,17,0.89 
+2015,09,19,18:30,EZskins.com,dignitas,mirage,DreamHack Open London 2015,2,16,2,13,0,3,EZskins.com,7,15,0.49 
+2015,09,19,17:15,Renegades,EZskins.com,dust2,DreamHack Open London 2015,11,16,7,8,4,8,EZskins.com,15,14,0.96 
+2015,09,19,13:00,EZskins.com,EnVyUs,inferno,DreamHack Open London 2015,2,16,1,14,1,2,EZskins.com,7,16,0.61 
+2015,09,17,19:15,Turkey,UnitedKingdom,mirage,World Championships 2015 Europ..,16,9,8,7,8,2,United Kingdom,17,19,0.95 
+2015,08,31,21:15,fish123,Infused,overpass,ESL UK Premiership Season 2,11,16,9,6,2,10,fish123,16,18,0.92 
+2015,08,30,21:30,Choke,EZskins.com,overpass,Multiplay i55,11,16,7,8,4,8,EZskins.com,25,18,1.28 
+2015,08,30,21:30,EZskins.com,Choke,inferno,Multiplay i55,16,8,14,1,2,7,EZskins.com,12,10,1.04 
+2015,08,28,16:30,UnitedKingdom,Moldova,mirage,World Championships 2015 Europ..,16,4,11,4,5,0,United Kingdom,14,10,1.05 
+2015,08,28,16:30,Moldova,UnitedKingdom,dust2,World Championships 2015 Europ..,10,16,4,11,6,5,United Kingdom,14,14,0.92 
+2015,08,25,23:15,fish123,CeX,cache,ESL UK Premiership Season 2,16,11,10,5,6,6,fish123,20,16,1.14 
+2015,08,17,23:15,CSGOCasino.net,fish123,dust2,ESL UK Premiership Season 2,16,7,10,5,6,2,fish123,17,19,1.09 
+2015,08,08,23:15,CAZ,nerdRage,dust2,Multifrags Invitational 2015,4,16,3,12,1,4,CAZ,9,17,0.59 
+2015,08,08,20:00,CAZ,k1ck,dust2,Multifrags Invitational 2015,16,14,8,7,8,7,CAZ,28,19,1.41 
+2015,08,08,20:00,CAZ,k1ck,inferno,Multifrags Invitational 2015,10,16,3,12,7,4,CAZ,15,19,0.88 
+2015,08,08,20:00,CAZ,k1ck,cache,Multifrags Invitational 2015,16,13,6,9,10,4,CAZ,23,19,1.14 
+2015,04,21,23:00,MALIK,XENEX,inferno,ESL UK Premiership Season 1,8,16,2,13,6,3,XENEX,17,15,1.04 
+2015,04,21,20:00,MALIK,XENEX,cache,ESL UK Premiership Season 1,14,16,8,7,6,9,XENEX,19,19,0.93 
+2015,04,20,20:00,exceL,XENEX,cache,ESL UK Premiership Season 1,18,21,10,5,5,10,XENEX,32,29,1.09 
+2015,04,20,20:00,XENEX,exceL,inferno,ESL UK Premiership Season 1,46,42,10,5,5,10,XENEX,62,63,1.00 
+2014,09,21,22:45,Russia,UnitedKingdom,dust2,European Championship 2014,16,5,10,5,6,0,United Kingdom,12,19,0.64 
+2014,09,07,22:00,UnitedKingdom,Denmark,nuke,European Championship 2014,10,16,10,5,0,11,United Kingdom,26,19,1.35 

@@ -1,0 +1,2 @@
+2014,09,06,13:00,Planetkey,MTW,nuke,ESL Pro Series Germany Summer ..,16,5,11,4,5,1,MTW,7,19,0.36 
+2014,09,06,13:00,Planetkey,MTW,dust2,ESL Pro Series Germany Summer ..,16,12,12,3,4,9,MTW,16,23,0.73 

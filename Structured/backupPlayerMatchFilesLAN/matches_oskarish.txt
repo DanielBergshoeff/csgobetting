@@ -1,0 +1,33 @@
+2016,05,07,20:45,PENTA,ALTERNATEaTTaX,cobblestone,ESL Meisterschaft Spring 2016 ..,6,16,3,12,3,4,PENTA,12,17,0.69 
+2016,05,07,20:45,ALTERNATEaTTaX,PENTA,dust2,ESL Meisterschaft Spring 2016 ..,16,8,10,5,6,3,PENTA,11,17,0.67 
+2016,02,28,19:10,Vexed,CLG,train,MLG Columbus 2016 Main Qualifi..,13,16,7,8,6,8,Vexed,22,21,1.00 
+2016,02,28,19:10,CLG,Vexed,cobblestone,MLG Columbus 2016 Main Qualifi..,3,16,3,12,0,4,Vexed,16,12,1.10 
+2016,02,28,19:10,Vexed,CLG,dust2,MLG Columbus 2016 Main Qualifi..,13,16,9,6,4,10,Vexed,19,20,0.90 
+2016,02,27,20:40,Splyce,Vexed,mirage,MLG Columbus 2016 Main Qualifi..,16,7,11,4,5,3,Vexed,12,19,0.63 
+2016,02,26,01:15,SK,Vexed,train,MLG Columbus 2016 Main Qualifi..,10,16,3,12,7,4,Vexed,20,18,1.01 
+2016,02,21,15:00,Refuse,Cl4nless,cache,Cracow Game Spot 2016,16,1,14,1,2,0,Cl4nless,7,17,0.41 
+2016,02,21,15:00,Refuse,Cl4nless,mirage,Cracow Game Spot 2016,16,14,7,8,9,6,Cl4nless,18,22,0.85 
+2016,02,21,15:00,Refuse,Cl4nless,dust2,Cracow Game Spot 2016,13,16,8,7,5,9,Cl4nless,19,18,0.94 
+2016,01,07,21:45,CSGL,OpTic,cobblestone,ELEAGUE Road to Vegas,3,16,1,14,2,2,CSGL,12,17,0.86 
+2016,01,07,21:45,CSGL,OpTic,train,ELEAGUE Road to Vegas,13,16,10,5,3,11,CSGL,11,24,0.50 
+2015,11,18,02:00,SKDC,CSGL,train,RGN Pro Series Championship,11,16,7,8,4,8,CSGL,26,17,1.36 
+2015,11,17,23:00,GamesAcademy,CSGL,cobblestone,RGN Pro Series Championship,16,10,7,8,9,2,CSGL,14,18,0.77 
+2015,11,17,19:00,CSGL,Liquid,cache,RGN Pro Series Championship,13,16,7,8,6,8,CSGL,17,19,0.93 
+2015,10,03,19:15,PENTA,CSGL,mirage,Showmatch CS:GO,16,5,13,2,3,3,CSGL,8,16,0.65 
+2015,10,03,19:15,CSGL,PENTA,dust2,Showmatch CS:GO,16,19,7,8,8,7,CSGL,22,22,0.98 
+2015,10,03,15:30,CSGL,Vexed,overpass,ESL Polish Championship Season..,16,10,12,3,4,7,CSGL,15,17,0.85 
+2015,10,03,15:30,CSGL,Vexed,cobblestone,ESL Polish Championship Season..,7,16,6,9,1,7,CSGL,16,17,0.95 
+2015,10,03,15:30,Vexed,CSGL,mirage,ESL Polish Championship Season..,9,16,7,8,2,8,CSGL,19,13,1.26 
+2015,10,03,13:00,CSGL,31337,cache,ESL Polish Championship Season..,16,13,8,7,8,6,CSGL,16,17,0.90 
+2015,10,03,13:00,CSGL,31337,mirage,ESL Polish Championship Season..,16,5,12,3,4,2,CSGL,18,8,1.53 
+2015,09,23,22:22,CPHWolves,CSGL,dust2,DreamHack Open Cluj-Napoca 201..,16,1,14,1,2,0,CSGL,6,17,0.33 
+2015,09,23,22:22,CPHWolves,CSGL,mirage,DreamHack Open Cluj-Napoca 201..,16,14,7,8,9,6,CSGL,23,23,1.08 
+2015,09,23,22:15,CPHWolves,CSGL,cache,DreamHack Open Cluj-Napoca 201..,14,16,9,6,5,10,CSGL,27,18,1.43 
+2015,09,23,15:30,CSGL,CLG,mirage,DreamHack Open Cluj-Napoca 201..,10,16,8,7,2,9,CSGL,13,17,0.86 
+2015,09,23,15:30,CSGL,CLG,overpass,DreamHack Open Cluj-Napoca 201..,11,16,6,9,5,7,CSGL,20,22,0.90 
+2015,09,23,15:30,CLG,CSGL,dust2,DreamHack Open Cluj-Napoca 201..,17,19,4,11,11,4,CSGL,28,24,1.16 
+2015,05,02,20:20,KILLERFISH,mousesports,inferno,ESL Frühlingsmeisterschaft 201..,3,16,1,14,2,2,KILLERFISH,6,16,0.42 
+2015,05,02,20:20,mousesports,KILLERFISH,mirage,ESL Frühlingsmeisterschaft 201..,14,16,7,8,7,8,KILLERFISH,25,21,1.15 
+2015,05,02,20:20,KILLERFISH,mousesports,dust2,ESL Frühlingsmeisterschaft 201..,14,16,7,8,7,8,KILLERFISH,26,20,1.21 
+2015,05,02,17:30,PlayingDucks,KILLERFISH,mirage,ESL Frühlingsmeisterschaft 201..,12,16,7,8,5,8,KILLERFISH,28,16,1.50 
+2015,05,02,17:30,KILLERFISH,PlayingDucks,overpass,ESL Frühlingsmeisterschaft 201..,16,10,8,7,8,3,KILLERFISH,23,15,1.35 

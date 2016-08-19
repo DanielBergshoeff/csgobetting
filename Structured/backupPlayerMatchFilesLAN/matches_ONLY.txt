@@ -1,0 +1,20 @@
+2015,05,10,11:15,SpaceSoldiers,GPlay,mirage,ESL South East Europe Champion..,6,16,3,12,3,4,Space Soldiers,18,18,1.07 
+2015,05,10,11:15,GPlay,SpaceSoldiers,nuke,ESL South East Europe Champion..,16,8,13,2,3,6,Space Soldiers,10,20,0.58 
+2015,05,10,11:15,GPlay,SpaceSoldiers,inferno,ESL South East Europe Champion..,16,1,15,0,1,1,Space Soldiers,6,16,0.34 
+2015,05,08,10:00,SpaceSoldiers,XPC,cobblestone,ESL South East Europe Champion..,26,20,10,5,5,10,Space Soldiers,33,29,1.06 
+2015,05,08,10:00,XPC,SpaceSoldiers,cache,ESL South East Europe Champion..,8,16,8,7,0,9,Space Soldiers,13,17,0.84 
+2015,04,04,12:00,FlipSid3,SpaceSoldiers,nuke,Copenhagen Games 2015,16,14,13,2,3,12,Space Soldiers,15,22,0.69 
+2015,04,04,10:00,myKPV,SpaceSoldiers,nuke,Copenhagen Games 2015,13,16,12,3,1,13,Space Soldiers,10,19,0.63 
+2015,04,03,22:30,TSM,SpaceSoldiers,dust2,Copenhagen Games 2015,16,8,10,5,6,3,Space Soldiers,6,18,0.41 
+2015,04,03,22:30,SpaceSoldiers,TSM,inferno,Copenhagen Games 2015,4,16,4,11,0,5,Space Soldiers,4,18,0.34 
+2015,04,03,19:00,PlayingDucks,SpaceSoldiers,cache,Copenhagen Games 2015,7,16,6,9,1,7,Space Soldiers,10,11,0.81 
+2015,04,03,19:00,SpaceSoldiers,PlayingDucks,dust2,Copenhagen Games 2015,13,16,10,5,3,11,Space Soldiers,14,20,0.74 
+2015,04,03,19:00,SpaceSoldiers,PlayingDucks,cobblestone,Copenhagen Games 2015,16,13,12,3,4,10,Space Soldiers,16,20,0.83 
+2015,04,03,15:30,Lemondogs,SpaceSoldiers,cobblestone,Copenhagen Games 2015,8,16,7,8,1,8,Space Soldiers,20,13,1.26 
+2015,04,03,15:30,SpaceSoldiers,Lemondogs,nuke,Copenhagen Games 2015,16,9,11,4,5,5,Space Soldiers,15,16,0.91 
+2015,04,03,12:00,PlayingDucks,SpaceSoldiers,mirage,Copenhagen Games 2015,16,3,12,3,4,0,Space Soldiers,10,18,0.51 
+2015,04,03,12:00,PlayingDucks,SpaceSoldiers,cache,Copenhagen Games 2015,16,14,10,5,6,9,Space Soldiers,19,20,0.90 
+2015,04,02,21:30,SpaceSoldiers,FONA,dust2,Copenhagen Games 2015,16,8,9,6,7,2,Space Soldiers,13,11,1.04 
+2015,04,02,19:00,Badger,SpaceSoldiers,mirage,Copenhagen Games 2015,8,16,8,7,0,9,Space Soldiers,23,12,1.47 
+2015,04,02,15:30,PRiME,SpaceSoldiers,dust2,Copenhagen Games 2015,7,16,3,12,4,4,Space Soldiers,17,9,1.23 
+2015,04,02,14:00,FUGL?,SpaceSoldiers,inferno,Copenhagen Games 2015,7,16,2,13,5,3,Space Soldiers,15,11,1.07 

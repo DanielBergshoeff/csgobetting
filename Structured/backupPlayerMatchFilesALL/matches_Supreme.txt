@@ -1,0 +1,6 @@
+2016,04,06,13:10,BornOfFire,Wings,dust2,SL i-League Invitational China..,16,8,9,6,7,2,Wings,11,17,0.65 
+2016,04,06,13:10,BornOfFire,Wings,mirage,SL i-League Invitational China..,16,9,7,8,9,1,Wings,20,22,1.07 
+2016,03,31,13:00,Wings,eFuture,cache,SL i-League Invitational China..,7,16,6,9,1,7,Wings,13,18,0.83 
+2016,03,31,13:00,eFuture,Wings,dust2,SL i-League Invitational China..,6,16,5,10,1,6,Wings,19,16,1.13 
+2016,03,15,12:00,Wings,VG.CyberZen,cobblestone,WCA Season 1 Qualifier,1,16,1,14,0,2,Wings,7,16,0.39 
+2016,03,15,12:00,Wings,VG.CyberZen,mirage,WCA Season 1 Qualifier,6,16,3,12,3,4,Wings,13,18,0.72 

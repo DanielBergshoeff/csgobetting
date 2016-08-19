@@ -1,0 +1,15 @@
+2016,07,22,09:15,TyLoo,BornOfFire,cobblestone,Pro Gamer League 2016 Summer F..,16,8,9,6,7,2,Born Of Fire,10,21,0.52 
+2016,07,22,07:30,Epsilon,BornOfFire,dust2,Pro Gamer League 2016 Summer F..,16,13,6,9,10,4,Born Of Fire,24,21,1.24 
+2016,07,22,05:45,BornOfFire,eFuture,cache,Pro Gamer League 2016 Summer F..,16,6,9,6,7,0,Born Of Fire,19,13,1.24 
+2016,07,03,07:00,TyLoo,BornOfFire,cobblestone,NEA 2016 Finals ,16,11,8,7,8,4,Born Of Fire,16,24,0.65 
+2016,07,03,07:00,BornOfFire,TyLoo,cache,NEA 2016 Finals ,1,16,1,14,0,2,Born Of Fire,12,16,0.81 
+2016,07,01,04:30,B.O.O.T,BornOfFire,cache,NEA 2016 Finals ,7,16,7,8,0,8,Born Of Fire,17,12,1.21 
+2016,07,01,04:30,BornOfFire,B.O.O.T,overpass,NEA 2016 Finals ,16,2,13,2,3,0,Born Of Fire,14,5,1.50 
+2016,07,01,04:30,BornOfFire,B.O.O.T,cobblestone,NEA 2016 Finals ,22,25,7,8,8,7,Born Of Fire,30,35,0.85 
+2016,04,24,15:00,BornOfFire,TyLoo,inferno,Pro Gamers League 2016 Spring,7,16,3,12,4,4,Born Of Fire,12,16,0.86 
+2016,04,24,15:00,BornOfFire,TyLoo,cobblestone,Pro Gamers League 2016 Spring,6,16,5,10,1,6,Born Of Fire,16,18,1.02 
+2016,04,24,15:00,BornOfFire,TyLoo,mirage,Pro Gamers League 2016 Spring,6,16,3,12,3,4,Born Of Fire,13,20,0.78 
+2016,04,24,11:40,BornOfFire,AllGamers,inferno,Pro Gamers League 2016 Spring,16,5,10,5,6,0,Born Of Fire,21,11,1.47 
+2016,04,24,11:40,AllGamers,BornOfFire,dust2,Pro Gamers League 2016 Spring,13,16,7,8,6,8,Born Of Fire,16,20,0.81 
+2016,04,23,11:30,BornOfFire,B.O.O.T,inferno,Pro Gamers League 2016 Spring,16,3,12,3,4,0,Born Of Fire,25,8,2.03 
+2016,04,23,11:30,BornOfFire,B.O.O.T,mirage,Pro Gamers League 2016 Spring,16,10,9,6,7,4,Born Of Fire,15,17,0.88 

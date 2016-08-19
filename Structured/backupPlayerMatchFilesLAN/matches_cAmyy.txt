@@ -1,0 +1,5 @@
+2016,03,05,15:35,Santos.DeXfe,Milleniumfe,overpass,Intel Challenge Katowice 2016,12,16,10,5,2,11,Santos.DeX fe,30,19,1.61 
+2016,03,05,13:20,WRTP,Santos.DeXfe,mirage,Intel Challenge Katowice 2016,16,1,15,0,1,1,Santos.DeX fe,12,17,0.73 
+2015,07,11,19:00,Dexterityfe,ex-meltyfe,inferno,ESWC 2015 Female,16,12,12,3,4,9,Dexterity fe,18,16,0.99 
+2015,07,11,17:30,Games4ufe,Dexterityfe,cache,ESWC 2015 Female,16,5,11,4,5,1,Dexterity fe,13,18,0.74 
+2015,07,11,16:00,Dexterityfe,Karma,dust2,ESWC 2015 Female,6,16,3,12,3,4,Dexterity fe,10,18,0.63 

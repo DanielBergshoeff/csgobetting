@@ -1,0 +1,15 @@
+2015,12,10,10:00,VoxEminor,Immunity,mirage,Counter Pit League Season 2,6,16,6,9,0,7,Vox Eminor,9,16,0.67 
+2015,12,10,10:00,Immunity,VoxEminor,inferno,Counter Pit League Season 2,16,4,11,4,5,0,Vox Eminor,12,18,0.70 
+2015,12,09,12:00,Exile5,VoxEminor,mirage,Counter Pit League Season 2,4,16,4,11,0,5,Vox Eminor,14,9,1.15 
+2015,12,09,12:00,Exile5,VoxEminor,dust2,Counter Pit League Season 2,4,16,2,13,2,3,Vox Eminor,18,10,1.33 
+2015,12,08,10:00,Chiefs,VoxEminor,dust2,Counter Pit League Season 2,9,16,3,12,6,4,Vox Eminor,12,15,0.82 
+2015,12,08,10:00,VoxEminor,Chiefs,cache,Counter Pit League Season 2,16,12,8,7,8,5,Vox Eminor,17,20,0.97 
+2015,12,07,12:00,VoxEminor,Legacy,mirage,Counter Pit League Season 2,8,16,7,8,1,8,Vox Eminor,17,16,1.03 
+2015,12,07,12:00,VoxEminor,Legacy,cobblestone,Counter Pit League Season 2,8,16,5,10,3,6,Vox Eminor,12,22,0.56 
+2015,12,02,10:00,VoxEminor,TRIDENT,mirage,Counter Pit League Season 2,16,4,11,4,5,0,Vox Eminor,8,11,0.73 
+2015,12,02,10:00,VoxEminor,TRIDENT,inferno,Counter Pit League Season 2,16,8,7,8,9,0,Vox Eminor,19,11,1.22 
+2015,09,21,13:00,VoxEminor,AthleticoBH,overpass,FACEIT League 2015 Stage 3 OCE..,12,16,9,6,3,10,Vox Eminor,18,21,0.99 
+2015,09,21,13:00,VoxEminor,AthleticoBH,cobblestone,FACEIT League 2015 Stage 3 OCE..,8,16,2,13,6,3,Vox Eminor,15,19,0.76 
+2015,09,06,04:00,VoxEminor,TRIDENT,dust2,ACL Melbourne 2015,5,16,2,13,3,3,Vox Eminor,8,14,0.65 
+2015,09,06,04:00,VoxEminor,TRIDENT,cache,ACL Melbourne 2015,3,16,3,12,0,4,Vox Eminor,10,16,0.66 
+2015,09,06,04:00,VoxEminor,TRIDENT,cobblestone,ACL Melbourne 2015,16,11,7,8,9,3,Vox Eminor,18,16,1.08 

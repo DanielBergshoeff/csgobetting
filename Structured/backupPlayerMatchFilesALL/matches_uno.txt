@@ -1,0 +1,27 @@
+2016,05,23,20:00,eSuba,PLAYZONE,mirage,Razer Rising Stars European Le..,22,20,7,8,8,7,eSuba,11,12,0.88 
+2016,05,21,21:25,MajesticLions,eXtatus,overpass,PLAYzone League I LAN Finals,6,16,5,10,1,6,Majestic Lions,12,21,0.57 
+2016,05,21,21:25,MajesticLions,eXtatus,cache,PLAYzone League I LAN Finals,8,16,6,9,2,7,Majestic Lions,12,20,0.67 
+2016,05,21,13:50,MajesticLions,GUNRUNNERS,overpass,PLAYzone League I LAN Finals,16,12,9,6,7,6,Majestic Lions,22,20,1.20 
+2016,05,21,13:50,MajesticLions,GUNRUNNERS,cache,PLAYzone League I LAN Finals,16,10,9,6,7,4,Majestic Lions,15,17,1.01 
+2015,12,20,19:00,MajesticLions,nEophyte,overpass,ASUS Finals 9,6,16,3,12,3,4,Majestic Lions,15,17,0.83 
+2015,12,20,19:00,MajesticLions,nEophyte,inferno,ASUS Finals 9,16,13,8,7,8,6,Majestic Lions,23,14,1.26 
+2015,12,20,19:00,nEophyte,MajesticLions,cache,ASUS Finals 9,16,7,11,4,5,3,Majestic Lions,14,19,0.85 
+2015,12,19,17:30,MajesticLions,eSuba,inferno,ASUS Finals 9,22,18,6,9,9,6,Majestic Lions,23,29,0.81 
+2015,12,19,17:30,eSuba,MajesticLions,mirage,ASUS Finals 9,12,16,10,5,2,11,Majestic Lions,13,22,0.58 
+2015,12,19,17:30,eSuba,MajesticLions,dust2,ASUS Finals 9,16,11,8,7,8,4,Majestic Lions,9,20,0.53 
+2015,04,30,18:00,Fraternitas,EnVyUs,cache,Fragbite Masters Season 4,14,16,5,10,9,6,Fraternitas,12,25,0.55 
+2015,04,30,18:00,EnVyUs,Fraternitas,dust2,Fragbite Masters Season 4,16,4,11,4,5,0,Fraternitas,5,18,0.29 
+2015,04,15,21:00,Fraternitas,Reason,mirage,Fragbite Masters Season 4 Qual..,16,12,12,3,4,9,Fraternitas,18,19,0.90 
+2015,04,15,21:00,Reason,Fraternitas,inferno,Fragbite Masters Season 4 Qual..,5,16,4,11,1,5,Fraternitas,8,13,0.68 
+2015,04,03,22:30,Fraternitas,malefiQ,inferno,Copenhagen Games 2015,6,16,5,10,1,6,Fraternitas,11,19,0.61 
+2015,04,03,19:00,FlipSid3,Fraternitas,inferno,Copenhagen Games 2015,16,10,5,10,11,0,Fraternitas,9,19,0.51 
+2015,04,03,19:00,Fraternitas,FlipSid3,nuke,Copenhagen Games 2015,14,16,8,7,6,9,Fraternitas,17,21,0.78 
+2015,04,03,15:30,Temp.no,Fraternitas,mirage,Copenhagen Games 2015,14,16,6,9,8,7,Fraternitas,16,22,0.74 
+2015,04,03,15:30,Fraternitas,Temp.no,inferno,Copenhagen Games 2015,16,7,10,5,6,2,Fraternitas,15,13,1.05 
+2015,04,03,12:00,CPLAY,Fraternitas,nuke,Copenhagen Games 2015,16,3,12,3,4,0,Fraternitas,10,17,0.65 
+2015,04,03,12:00,Fraternitas,CPLAY,inferno,Copenhagen Games 2015,16,3,13,2,3,1,Fraternitas,7,11,0.74 
+2015,04,03,12:00,Fraternitas,CPLAY,mirage,Copenhagen Games 2015,4,16,3,12,1,4,Fraternitas,7,19,0.39 
+2014,10,17,19:00,Slovakia,Russia,inferno,European Championship 2014,4,16,3,12,1,4,Slovakia,11,18,0.57 
+2014,10,04,10:00,CyborgFactory,Fraternitas,mirage,MČR 2014,5,16,4,11,1,5,Fraternitas,19,12,1.33 
+2014,10,04,10:00,Fraternitas,CyborgFactory,dust2,MČR 2014,16,2,13,2,3,0,Fraternitas,22,7,1.78 
+2014,10,04,10:00,Fraternitas,CyborgFactory,season,MČR 2014,16,8,9,6,7,2,Fraternitas,14,15,0.89 

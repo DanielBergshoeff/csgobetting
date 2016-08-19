@@ -1,508 +1,474 @@
-2016,07,30, Virtus.pro, 16, mousesports, 10, cache, 16, 19, 0.87 
-2016,07,30, mousesports, 07, Virtus.pro, 16, train, 11, 20, 0.63 
-2016,07,22, mousesports, 16, Astralis, 12, dust2, 19, 20, 0.84 
-2016,07,22, Astralis, 02, mousesports, 16, mirage, 13, 07, 1.39 
-2016,07,16, mousesports, 19, FaZe, 17, cache, 30, 26, 1.20 
-2016,07,16, FaZe, 03, mousesports, 16, dust2, 12, 08, 1.09 
-2016,07,16, FaZe, 16, mousesports, 09, train, 20, 20, 0.97 
-2016,07,14, mousesports, 19, 0G2, 17, overpass, 29, 24, 1.12 
-2016,07,14, 0G2, 25, mousesports, 22, cache, 29, 33, 0.84 
-2016,07,14, mousesports, 16, 0G2, 09, dust2, 23, 14, 1.36 
-2016,07,07, Liquid, 16, mousesports, 06, mirage, 10, 17, 0.67 
-2016,07,07, Liquid, 16, mousesports, 11, cobblestone, 19, 20, 0.99 
-2016,07,06, mousesports, 16, EnVyUs, 12, train, 16, 17, 0.88 
-2016,07,05, Virtus.pro, 16, mousesports, 10, train, 13, 18, 0.74 
-2016,06,23, mousesports, 09, FlipSid3, 16, cache, 11, 21, 0.66 
-2016,06,23, FlipSid3, 16, mousesports, 09, overpass, 13, 17, 0.86 
-2016,06,22, EchoFox, 13, mousesports, 16, train, 20, 22, 0.91 
-2016,06,22, mousesports, 16, EchoFox, 12, cobblestone, 14, 17, 0.86 
-2016,06,21, mousesports, 06, NatusVincere, 16, cobblestone, 11, 17, 0.66 
-2016,06,21, NatusVincere, 06, mousesports, 16, mirage, 18, 11, 1.28 
-2016,06,21, FlipSid3, 16, mousesports, 06, cobblestone, 08, 20, 0.48 
-2016,06,21, mousesports, 19, FlipSid3, 16, train, 26, 21, 1.06 
-2016,06,11, mousesports, 16, 0G2, 01, dust2, 10, 04, 1.18 
-2016,06,10, mousesports, 16, Cloud9, 12, mirage, 23, 14, 1.32 
-2016,06,09, FluffyGangsters, 16, mousesports, 19, dust2, 36, 23, 1.44 
-2016,05,27, mousesports, 09, NiP, 16, dust2, 12, 17, 0.71 
-2016,05,27, mousesports, 08, NiP, 16, cobblestone, 17, 20, 0.95 
-2016,05,26, mousesports, 17, fnatic, 19, dust2, 27, 20, 1.13 
-2016,05,26, mousesports, 17, fnatic, 19, cobblestone, 20, 25, 0.79 
-2016,05,25, FaZe, 10, mousesports, 16, train, 21, 16, 1.28 
-2016,05,25, FaZe, 16, mousesports, 11, dust2, 24, 21, 1.18 
-2016,05,25, FaZe, 13, mousesports, 16, mirage, 24, 18, 1.24 
-2016,05,23, mousesports, 10, NiP, 16, dust2, 20, 19, 1.04 
-2016,05,23, mousesports, 08, NiP, 16, cobblestone, 27, 19, 1.59 
-2016,05,22, dignitas, 08, mousesports, 16, train, 12, 13, 0.82 
-2016,05,22, mousesports, 03, dignitas, 16, mirage, 05, 17, 0.31 
-2016,05,22, dignitas, 03, mousesports, 16, dust2, 13, 12, 1.09 
-2016,05,19, mousesports, 05, fnatic, 16, train, 12, 18, 0.65 
-2016,05,19, fnatic, 16, mousesports, 13, cache, 15, 24, 0.65 
-2016,05,11, mousesports, 16, EnVyUs, 14, dust2, 22, 20, 1.04 
-2016,05,11, mousesports, 16, EnVyUs, 11, inferno, 15, 16, 0.93 
-2016,05,11, mousesports, 05, EnVyUs, 16, mirage, 11, 15, 0.73 
-2016,05,05, mousesports, 11, 0G2, 16, dust2, 12, 19, 0.66 
-2016,05,05, mousesports, 08, 0G2, 16, cobblestone, 08, 20, 0.49 
-2016,05,05, mousesports, 16, 0G2, 14, cache, 19, 18, 0.99 
-2016,04,29, mousesports, 16, FaZe, 14, inferno, 26, 18, 1.19 
-2016,04,29, mousesports, 16, FaZe, 02, cache, 19, 10, 1.60 
-2016,04,27, mousesports, 20, FAB, 22, cache, 36, 25, 1.25 
-2016,04,27, FAB, 16, mousesports, 14, train, 25, 20, 1.24 
-2016,04,27, FAB, 11, mousesports, 16, mirage, 19, 18, 0.99 
-2016,04,26, NatusVincere, 10, mousesports, 16, cache, 26, 16, 1.53 
-2016,04,26, NatusVincere, 16, mousesports, 10, dust2, 23, 20, 1.17 
-2016,04,24, Virtus.pro, 13, mousesports, 16, train, 23, 17, 1.12 
-2016,04,24, mousesports, 16, Virtus.pro, 04, cache, 24, 08, 1.87 
-2016,04,21, Virtus.pro, 19, mousesports, 15, train, 27, 26, 1.08 
-2016,04,21, Virtus.pro, 05, mousesports, 16, cache, 21, 14, 1.44 
-2016,04,19, mousesports, 16, EnVyUs, 08, cache, 17, 18, 0.89 
-2016,04,19, mousesports, 22, EnVyUs, 19, inferno, 27, 26, 1.05 
-2016,04,16, mousesports, 13, GODSENT, 16, mirage, 23, 21, 1.07 
-2016,04,16, GODSENT, 16, mousesports, 10, inferno, 12, 18, 0.77 
-2016,04,16, mousesports, 16, GODSENT, 07, cache, 26, 09, 1.72 
-2016,04,13, mousesports, 16, Luminosity, 07, cache, 25, 10, 1.72 
-2016,04,12, mousesports, 16, Liquid, 13, dust2, 19, 23, 0.82 
-2016,04,10, mousesports, 03, Astralis, 16, mirage, 11, 17, 0.69 
-2016,04,10, mousesports, 13, Astralis, 16, train, 22, 18, 1.06 
-2016,04,10, mousesports, 16, Astralis, 05, dust2, 09, 11, 0.80 
-2016,04,08, mousesports, 16, HellRaisers, 09, train, 22, 11, 1.33 
-2016,04,08, mousesports, 16, HellRaisers, 08, dust2, 19, 14, 1.29 
-2016,04,08, HellRaisers, 16, mousesports, 11, inferno, 29, 20, 1.69 
-2016,04,08, mousesports, 19, HellRaisers, 17, cache, 35, 26, 1.23 
-2016,04,08, HellRaisers, 16, mousesports, 14, cobblestone, 22, 20, 1.12 
-2016,03,31, NiP, 16, mousesports, 09, overpass, 08, 20, 0.43 
-2016,03,31, mousesports, 16, NiP, 12, cache, 22, 18, 1.11 
-2016,03,31, mousesports, 05, NiP, 16, cobblestone, 11, 17, 0.65 
-2016,03,30, FlipSid3, 28, mousesports, 31, cobblestone, 36, 45, 0.82 
-2016,03,29, Luminosity, 16, mousesports, 13, mirage, 12, 20, 0.68 
-2016,03,22, mousesports, 10, dignitas, 16, inferno, 18, 20, 0.83 
-2016,03,22, mousesports, 16, dignitas, 19, cobblestone, 29, 25, 1.16 
-2016,03,20, mousesports, 13, FlipSid3, 16, cobblestone, 21, 22, 0.90 
-2016,03,20, mousesports, 12, FlipSid3, 16, overpass, 23, 19, 1.26 
-2016,03,19, FaZe, 13, mousesports, 16, dust2, 29, 19, 1.44 
-2016,03,19, mousesports, 16, FaZe, 14, cache, 22, 19, 1.11 
-2016,03,17, 0SK, 16, mousesports, 11, cobblestone, 11, 20, 0.59 
-2016,03,17, 0SK, 08, mousesports, 16, mirage, 16, 09, 1.24 
-2016,03,14, mousesports, 16, 0G2, 13, cache, 15, 23, 0.68 
-2016,03,14, mousesports, 16, 0G2, 14, dust2, 31, 19, 1.49 
-2016,03,14, 0G2, 19, mousesports, 16, inferno, 23, 24, 0.87 
-2016,03,13, mousesports, 19, fnatic, 17, dust2, 24, 23, 1.03 
-2016,03,13, fnatic, 16, mousesports, 04, cache, 18, 16, 1.06 
-2016,03,13, noKappa, 03, mousesports, 16, dust2, 15, 07, 1.27 
-2016,03,13, mousesports, 16, noKappa, 07, cobblestone, 15, 13, 1.00 
-2016,03,13, 0c5, 09, mousesports, 16, mirage, 27, 13, 1.78 
-2016,03,13, 0c5, 08, mousesports, 16, cache, 19, 13, 1.23 
-2016,03,08, Astralis, 16, mousesports, 04, dust2, 04, 18, 0.28 
-2016,03,08, Astralis, 16, mousesports, 12, mirage, 15, 20, 0.78 
-2016,03,02, mousesports, 17, fnatic, 19, dust2, 16, 27, 0.67 
-2016,03,02, mousesports, 14, Luminosity, 16, cobblestone, 25, 18, 1.24 
-2016,03,02, mousesports, 06, NatusVincere, 16, cobblestone, 19, 16, 1.21 
-2016,03,02, mousesports, 16, TheMongolz, 07, dust2, 16, 13, 1.01 
-2016,03,02, mousesports, 16, NiP, 08, mirage, 21, 11, 1.39 
-2016,02,26, HellRaisers, 15, mousesports, 19, mirage, 28, 26, 1.10 
-2016,02,26, mousesports, 16, 0YP, 01, cobblestone, 22, 08, 1.89 
-2016,02,23, NiP, 16, mousesports, 14, overpass, 19, 23, 0.89 
-2016,02,23, NiP, 19, mousesports, 15, cache, 11, 25, 0.50 
-2016,02,23, 0G2, 10, mousesports, 16, overpass, 24, 14, 1.33 
-2016,02,23, 0G2, 16, mousesports, 13, dust2, 26, 20, 1.32 
-2016,02,14, FlipSid3, 09, mousesports, 16, overpass, 28, 14, 1.74 
-2016,02,14, mousesports, 16, FlipSid3, 06, cache, 27, 11, 2.07 
-2016,02,13, FlipSid3, 11, mousesports, 16, cobblestone, 26, 16, 1.35 
-2016,02,13, mousesports, 16, FlipSid3, 05, mirage, 22, 09, 1.62 
-2016,02,12, mousesports, 16, E-frag.net, 13, cobblestone, 20, 19, 0.98 
-2016,02,12, mousesports, 16, E-frag.net, 05, cache, 17, 10, 1.32 
-2016,02,11, mousesports, 16, LDLCWhite, 13, cobblestone, 23, 18, 1.19 
-2016,02,11, mousesports, 21, LDLCWhite, 18, dust2, 37, 26, 1.32 
-2016,01,31, mousesports, 03, dignitas, 16, cobblestone, 11, 15, 0.69 
-2016,01,31, mousesports, 09, dignitas, 16, cache, 17, 19, 0.93 
-2016,01,23, dignitas, 16, mousesports, 13, mirage, 14, 23, 0.61 
-2016,01,23, mousesports, 04, dignitas, 16, cobblestone, 13, 17, 0.81 
-2016,01,22, Astralis, 22, mousesports, 19, mirage, 22, 27, 0.80 
-2016,01,22, mousesports, 16, Virtus.pro, 05, dust2, 16, 10, 1.17 
-2016,01,14, mousesports, 11, ALTERNATEaTTaX, 16, overpass, 17, 20, 0.84 
-2016,01,14, ALTERNATEaTTaX, 12, mousesports, 16, cache, 28, 12, 1.53 
-2015,12,16, mousesports, 13, CSGL, 16, dust2, 24, 20, 1.10 
-2015,12,16, CSGL, 16, mousesports, 01, mirage, 05, 17, 0.25 
-2015,12,15, mousesports, 16, DenDD, 10, cobblestone, 22, 19, 1.06 
-2015,12,15, mousesports, 21, DenDD, 19, mirage, 25, 28, 0.88 
-2015,12,13, HellRaisers, 14, mousesports, 16, inferno, 16, 23, 0.69 
-2015,12,13, HellRaisers, 21, mousesports, 18, mirage, 26, 26, 0.98 
-2015,12,03, CSGL, 15, mousesports, 21, cache, 29, 25, 1.13 
-2015,12,03, mousesports, 21, CSGL, 19, mirage, 20, 27, 0.77 
-2015,12,03, LDLCWhite, 06, mousesports, 16, mirage, 13, 12, 0.89 
-2015,12,03, mousesports, 14, LDLCWhite, 16, dust2, 22, 21, 1.07 
-2015,11,17, EnVyUs, 16, mousesports, 12, cache, 19, 23, 0.84 
-2015,11,17, HellRaisers, 16, mousesports, 13, train, 14, 22, 0.66 
-2015,11,17, mousesports, 07, TSM, 16, cache, 17, 20, 0.88 
-2015,11,16, mousesports, 13, Virtus.pro, 16, dust2, 16, 22, 0.78 
-2015,11,12, 0SK, 16, mousesports, 00, train, 04, 16, 0.21 
-2015,11,11, fnatic, 09, mousesports, 16, overpass, 24, 14, 1.44 
-2015,11,11, mousesports, 16, Virtus.pro, 02, inferno, 13, 09, 1.20 
-2015,11,11, PENTA, 13, mousesports, 16, overpass, 27, 18, 1.49 
-2015,11,11, NiP, 08, mousesports, 16, mirage, 18, 14, 1.18 
-2015,11,08, mousesports, 04, Virtus.pro, 16, cobblestone, 11, 18, 0.72 
-2015,11,08, Virtus.pro, 16, mousesports, 08, mirage, 11, 18, 0.66 
-2015,11,08, mousesports, 08, Virtus.pro, 16, inferno, 11, 17, 0.69 
-2015,11,08, mousesports, 16, Conquest, 11, cache, 34, 15, 1.91 
-2015,11,08, Conquest, 16, mousesports, 08, overpass, 22, 21, 1.11 
-2015,11,08, mousesports, 16, Conquest, 11, inferno, 10, 19, 0.59 
-2015,11,07, Luminosity, 07, mousesports, 16, mirage, 17, 13, 1.15 
-2015,11,07, Luminosity, 12, mousesports, 16, dust2, 22, 17, 1.29 
-2015,11,06, NatusVincere, 07, mousesports, 16, overpass, 25, 12, 1.60 
-2015,11,06, NatusVincere, 10, mousesports, 16, mirage, 17, 14, 1.15 
-2015,11,03, PENTA, 08, mousesports, 16, dust2, 32, 17, 1.81 
-2015,11,03, GreyFace, 16, mousesports, 10, overpass, 21, 19, 1.05 
-2015,11,03, GreyFace, 16, mousesports, 11, cache, 17, 21, 0.88 
-2015,10,30, 0G2, 16, mousesports, 05, cache, 15, 16, 0.85 
-2015,10,30, mousesports, 16, 0G2, 12, inferno, 19, 18, 1.02 
-2015,10,30, 0G2, 19, mousesports, 16, mirage, 22, 25, 0.79 
-2015,10,29, FlipSid3, 08, mousesports, 16, overpass, 27, 14, 1.84 
-2015,10,28, mousesports, 08, 0G2, 16, inferno, 15, 22, 0.71 
-2015,10,25, EnVyUs, 16, mousesports, 14, overpass, 22, 22, 0.98 
-2015,10,25, mousesports, 19, NatusVincere, 17, mirage, 26, 25, 0.93 
-2015,10,21, NiP, 16, mousesports, 08, cobblestone, 09, 21, 0.46 
-2015,10,15, dignitas, 16, mousesports, 13, train, 22, 20, 1.07 
-2015,10,15, TSM, 16, mousesports, 13, dust2, 19, 20, 0.90 
-2015,10,15, mousesports, 09, CSGL, 16, overpass, 17, 18, 0.94 
-2015,10,15, CSGL, 16, mousesports, 10, cobblestone, 25, 19, 1.29 
-2015,10,14, mousesports, 17, E-frag.net, 19, inferno, 30, 26, 1.23 
-2015,10,14, E-frag.net, 09, mousesports, 16, overpass, 21, 15, 1.21 
-2015,10,14, Titan, 15, mousesports, 19, cobblestone, 32, 20, 1.40 
-2015,10,14, mousesports, 16, Titan, 12, overpass, 19, 16, 0.98 
-2015,10,13, HellRaisers, 14, mousesports, 16, mirage, 21, 20, 0.99 
-2015,10,13, mousesports, 14, HellRaisers, 16, cobblestone, 12, 22, 0.57 
-2015,10,13, Titan, 08, mousesports, 16, mirage, 17, 17, 1.05 
-2015,10,13, Titan, 16, mousesports, 10, cache, 19, 18, 1.02 
-2015,10,10, France, 16, Germany, 07, cache, 21, 18, 1.24 
-2015,10,10, Germany, 02, France, 16, cobblestone, 08, 18, 0.44 
-2015,10,08, Germany, 16, Sweden, 13, cache, 27, 18, 1.47 
-2015,10,08, Indonesia, 06, Germany, 16, dust2, 19, 12, 1.28 
-2015,10,06, dignitas, 19, mousesports, 15, cobblestone, 22, 23, 0.91 
-2015,09,30, mousesports, 14, dignitas, 16, inferno, 29, 19, 1.42 
-2015,09,30, mousesports, 14, dignitas, 16, cobblestone, 18, 25, 0.71 
-2015,09,30, Spain, 12, Germany, 16, cobblestone, 25, 20, 1.21 
-2015,09,30, Spain, 14, Germany, 16, dust2, 30, 18, 1.47 
-2015,09,30, Germany, 12, Spain, 16, cache, 21, 17, 1.11 
-2015,09,29, FlipSid3, 02, mousesports, 16, cache, 15, 08, 1.28 
-2015,09,29, mousesports, 16, FlipSid3, 13, inferno, 26, 15, 1.40 
-2015,09,29, mousesports, 16, SententiaMortis, 04, dust2, 18, 08, 1.50 
-2015,09,29, SententiaMortis, 02, mousesports, 16, cache, 21, 08, 1.78 
-2015,09,29, Germany, 10, Finland, 16, dust2, 21, 21, 1.01 
-2015,09,29, Germany, 16, UnitedKingdom, 07, dust2, 33, 14, 1.90 
-2015,09,28, mousesports, 16, Property, 12, cache, 24, 19, 1.21 
-2015,09,28, Property, 04, mousesports, 16, cobblestone, 21, 10, 1.46 
-2015,09,28, mousesports, 04, 0G2, 16, dust2, 05, 18, 0.32 
-2015,09,28, 0G2, 16, mousesports, 10, cache, 25, 19, 1.38 
-2015,09,24, mousesports, 16, Liquid, 09, cobblestone, 23, 17, 1.33 
-2015,09,24, mousesports, 16, Liquid, 10, cache, 15, 19, 0.81 
-2015,09,24, Winterfox, 11, mousesports, 16, cobblestone, 20, 18, 1.06 
-2015,09,24, Winterfox, 17, mousesports, 19, dust2, 28, 26, 1.02 
-2015,09,16, 0SK, 11, mousesports, 16, inferno, 21, 18, 1.09 
-2015,09,16, mousesports, 16, HellRaisers, 11, cobblestone, 19, 18, 1.01 
-2015,09,15, mousesports, 08, fnatic, 16, inferno, 14, 20, 0.70 
-2015,09,15, mousesports, 05, NatusVincere, 16, inferno, 10, 18, 0.60 
-2015,09,14, PENTA, 16, mousesports, 12, dust2, 32, 18, 1.66 
-2015,09,14, mousesports, 16, PENTA, 08, mirage, 17, 14, 1.00 
-2015,09,08, NatusVincere, 16, mousesports, 13, cobblestone, 23, 25, 0.96 
-2015,09,08, mousesports, 16, CSGO-Saloon, 06, dust2, 19, 11, 1.45 
-2015,09,07, Titan, 16, mousesports, 09, cobblestone, 19, 18, 1.10 
-2015,09,07, mousesports, 03, Titan, 16, overpass, 07, 15, 0.51 
-2015,09,04, mousesports, 07, Kinguin, 16, train, 17, 18, 0.90 
-2015,09,03, Titan, 14, mousesports, 16, dust2, 23, 21, 1.14 
-2015,09,03, TSM, 16, mousesports, 07, overpass, 13, 18, 0.90 
-2015,09,02, fnatic, 16, mousesports, 09, dust2, 13, 20, 0.62 
-2015,09,02, mousesports, 16, fnatic, 09, train, 15, 14, 1.00 
-2015,09,02, fnatic, 16, mousesports, 03, cache, 09, 17, 0.54 
-2015,09,01, mousesports, 16, dignitas, 08, overpass, 21, 13, 1.40 
-2015,09,01, dignitas, 07, mousesports, 16, dust2, 15, 15, 0.98 
-2015,09,01, mousesports, 10, dignitas, 16, train, 16, 23, 0.68 
-2015,09,01, dignitas, 11, mousesports, 16, mirage, 18, 14, 1.12 
-2015,08,31, Titan, 17, mousesports, 21, overpass, 35, 23, 1.37 
-2015,08,31, mousesports, 07, Titan, 16, train, 13, 18, 0.73 
-2015,08,31, Titan, 09, mousesports, 16, cobblestone, 20, 15, 1.32 
-2015,08,31, Germany, 16, Lithuania, 14, mirage, 26, 19, 1.18 
-2015,08,31, Lithuania, 03, Germany, 16, dust2, 21, 09, 1.72 
-2015,08,30, mousesports, 09, fnatic, 16, overpass, 16, 18, 0.81 
-2015,08,30, fnatic, 13, mousesports, 16, cache, 39, 19, 1.92 
-2015,08,30, mousesports, 05, fnatic, 16, train, 13, 19, 0.79 
-2015,08,26, myKPV, 07, mousesports, 16, cache, 29, 13, 1.89 
-2015,08,26, mousesports, 31, myKPV, 27, dust2, 58, 40, 1.36 
-2015,08,26, Dobry&Gaming, 09, mousesports, 16, dust2, 22, 17, 1.14 
-2015,08,26, mousesports, 16, Dobry&Gaming, 11, train, 32, 19, 1.49 
-2015,08,21, mousesports, 14, FlipSid3, 16, cobblestone, 25, 22, 1.20 
-2015,08,20, mousesports, 10, Cloud9, 16, overpass, 13, 19, 0.68 
-2015,08,12, mousesports, 13, Kinguin, 16, train, 27, 19, 1.30 
-2015,08,12, Kinguin, 16, mousesports, 07, dust2, 13, 20, 0.73 
-2015,08,12, mousesports, 05, Kinguin, 16, cache, 15, 17, 0.97 
-2015,08,11, mousesports, 16, Torpedo, 04, cache, 21, 09, 1.70 
-2015,08,11, mousesports, 16, Torpedo, 06, dust2, 23, 17, 1.45 
-2015,08,09, PENTA, 04, mousesports, 16, overpass, 15, 09, 1.19 
-2015,08,09, mousesports, 16, PENTA, 04, cache, 14, 10, 1.08 
-2015,08,09, Planetkey, 15, mousesports, 19, cobblestone, 31, 25, 1.30 
-2015,08,09, mousesports, 16, Planetkey, 05, dust2, 20, 10, 1.53 
-2015,08,09, mousesports, 11, Planetkey, 16, cache, 17, 20, 0.87 
-2015,08,07, mousesports, 17, EnVyUs, 19, cache, 24, 28, 0.93 
-2015,08,07, EnVyUs, 11, mousesports, 16, train, 20, 19, 0.97 
-2015,08,07, EnVyUs, 16, mousesports, 08, dust2, 19, 19, 0.95 
-2015,08,06, mousesports, 08, TSM, 16, dust2, 09, 21, 0.46 
-2015,08,05, EnVyUs, 16, mousesports, 13, inferno, 14, 21, 0.71 
-2015,08,05, mousesports, 16, Renegades, 02, dust2, 21, 10, 1.66 
-2015,08,02, mousesports, 10, HellRaisers, 16, mirage, 15, 19, 0.81 
-2015,08,02, HellRaisers, 16, mousesports, 10, cobblestone, 21, 18, 1.10 
-2015,08,02, mousesports, 13, HellRaisers, 16, train, 22, 25, 0.97 
-2015,08,02, mousesports, 16, HellRaisers, 14, overpass, 18, 19, 0.90 
-2015,08,02, mousesports, 09, HellRaisers, 16, dust2, 14, 19, 0.78 
-2015,08,02, mousesports, 16, HellRaisers, 12, cache, 31, 21, 1.46 
-2015,08,01, E-frag.net, 14, mousesports, 16, dust2, 39, 16, 1.95 
-2015,08,01, E-frag.net, 16, mousesports, 11, cache, 19, 20, 0.97 
-2015,08,01, mousesports, 16, E-frag.net, 07, overpass, 18, 11, 1.26 
-2015,07,31, 0SK, 06, mousesports, 16, dust2, 18, 12, 1.32 
-2015,07,31, mousesports, 16, 0SK, 05, train, 16, 12, 1.07 
-2015,07,31, mousesports, 19, PENTA, 15, cache, 23, 21, 1.01 
-2015,07,31, mousesports, 16, PENTA, 07, overpass, 24, 14, 1.49 
-2015,07,26, NatusVincere, 16, mousesports, 14, dust2, 20, 20, 1.12 
-2015,07,26, NatusVincere, 16, mousesports, 09, overpass, 14, 21, 0.69 
-2015,07,25, mousesports, 16, Cloud9, 12, dust2, 21, 19, 1.08 
-2015,07,25, mousesports, 16, Cloud9, 05, cache, 20, 08, 1.58 
-2015,07,25, mousesports, 16, Liquid, 08, overpass, 27, 16, 1.49 
-2015,07,25, Liquid, 10, mousesports, 16, dust2, 24, 13, 1.38 
-2015,06,29, EnVyUs, 19, mousesports, 15, train, 20, 26, 0.87 
-2015,06,29, mousesports, 13, EnVyUs, 16, cache, 20, 21, 0.98 
-2015,06,28, NiP, 16, mousesports, 02, dust2, 13, 18, 0.76 
-2015,06,28, mousesports, 13, NiP, 16, train, 22, 22, 1.13 
-2015,06,27, Virtus.pro, 20, mousesports, 22, train, 35, 28, 1.16 
-2015,06,27, mousesports, 16, Virtus.pro, 13, mirage, 25, 16, 1.43 
-2015,06,27, mousesports, 15, Virtus.pro, 19, dust2, 36, 25, 1.51 
-2015,06,27, EnVyUs, 16, mousesports, 09, cobblestone, 16, 21, 0.85 
-2015,06,27, mousesports, 16, EnVyUs, 12, cache, 25, 19, 1.26 
-2015,06,27, EnVyUs, 16, mousesports, 06, dust2, 21, 16, 1.39 
-2015,06,26, mousesports, 16, Virtus.pro, 05, cache, 15, 15, 0.94 
-2015,06,26, Virtus.pro, 20, mousesports, 22, cobblestone, 36, 30, 1.08 
-2015,06,25, PENTA, 03, mousesports, 16, dust2, 22, 10, 1.58 
-2015,06,25, mousesports, 16, PENTA, 13, mirage, 19, 17, 1.07 
-2015,06,24, NiP, 16, mousesports, 09, dust2, 17, 20, 0.87 
-2015,06,24, mousesports, 09, NiP, 16, inferno, 14, 18, 0.81 
-2015,06,23, NatusVincere, 06, mousesports, 16, dust2, 19, 13, 1.29 
-2015,06,23, mousesports, 16, NatusVincere, 05, mirage, 17, 10, 1.32 
-2015,06,21, mousesports, 05, TSM, 16, overpass, 15, 15, 0.94 
-2015,06,21, TSM, 14, mousesports, 16, cache, 27, 19, 1.26 
-2015,06,20, mousesports, 16, FlipSid3, 01, cache, 24, 09, 2.25 
-2015,06,18, mousesports, 07, fnatic, 16, inferno, 20, 16, 1.13 
-2015,06,18, NiP, 16, mousesports, 10, overpass, 26, 20, 1.29 
-2015,06,17, Titan, 13, mousesports, 16, dust2, 27, 22, 1.31 
-2015,06,16, mousesports, 16, PENTA, 13, mirage, 20, 16, 1.08 
-2015,06,16, mousesports, 10, PENTA, 16, dust2, 27, 19, 1.40 
-2015,06,16, Virtus.pro, 16, mousesports, 08, inferno, 23, 21, 1.05 
-2015,06,16, Virtus.pro, 16, mousesports, 14, train, 17, 23, 0.68 
-2015,06,14, mousesports, 16, HellRaisers, 06, cache, 21, 11, 1.57 
-2015,06,14, HellRaisers, 16, mousesports, 11, train, 24, 20, 1.30 
-2015,06,04, mousesports, 16, TSM, 05, dust2, 18, 11, 1.27 
-2015,06,04, TSM, 17, mousesports, 19, mirage, 22, 25, 0.82 
-2015,06,03, Virtus.pro, 16, mousesports, 14, cache, 21, 19, 1.04 
-2015,06,03, mousesports, 16, Virtus.pro, 11, cobblestone, 26, 16, 1.42 
-2015,06,02, mousesports, 16, HellRaisers, 12, train, 20, 23, 0.87 
-2015,06,02, HellRaisers, 11, mousesports, 16, dust2, 26, 19, 1.35 
-2015,06,02, mousesports, 16, Fraternitas, 11, cache, 20, 22, 0.96 
-2015,06,02, Fraternitas, 23, mousesports, 25, cobblestone, 45, 34, 1.27 
-2015,06,02, mousesports, 17, Fraternitas, 19, dust2, 32, 25, 1.27 
-2015,05,31, mousesports, 08, HellRaisers, 16, overpass, 14, 18, 0.86 
-2015,05,31, mousesports, 13, HellRaisers, 16, dust2, 23, 19, 1.18 
-2015,05,28, mousesports, 16, 1337, 13, mirage, 16, 23, 0.69 
-2015,05,28, mousesports, 16, 1337, 09, dust2, 16, 15, 1.05 
-2015,05,28, TSM, 13, mousesports, 16, cobblestone, 25, 22, 1.06 
-2015,05,28, NatusVincere, 16, mousesports, 04, train, 17, 19, 0.95 
-2015,05,27, mousesports, 14, NatusVincere, 16, cache, 25, 16, 1.33 
-2015,05,27, mousesports, 09, HellRaisers, 16, dust2, 14, 20, 0.77 
-2015,05,26, mousesports, 16, GPlay, 12, cobblestone, 26, 17, 1.37 
-2015,05,26, mousesports, 16, GPlay, 14, cache, 31, 19, 1.56 
-2015,05,26, mousesports, 10, NiP, 16, mirage, 24, 17, 1.30 
-2015,05,26, dignitas, 16, mousesports, 09, overpass, 13, 21, 0.73 
-2015,05,25, PENTA, 02, mousesports, 16, cobblestone, 27, 03, 2.38 
-2015,05,25, CPLAY, 08, mousesports, 16, cobblestone, 32, 12, 2.13 
-2015,05,25, CPLAY, 10, mousesports, 16, overpass, 21, 17, 1.15 
-2015,05,24, Acer, 03, mousesports, 16, overpass, 26, 13, 1.83 
-2015,05,24, Acer, 11, mousesports, 16, mirage, 25, 18, 1.32 
-2015,05,24, Acer, 16, mousesports, 13, dust2, 25, 23, 1.15 
-2015,05,20, 0G2, 16, mousesports, 02, mirage, 08, 16, 0.53 
-2015,05,19, mousesports, 16, Titan, 08, train, 27, 11, 1.77 
-2015,05,19, mousesports, 16, EnVyUs, 10, mirage, 25, 12, 1.56 
-2015,05,19, mousesports, 16, 0G2, 10, cache, 27, 18, 1.43 
-2015,05,19, 0G2, 14, mousesports, 16, train, 24, 20, 1.13 
-2015,05,18, mousesports, 16, LGB, 10, cache, 28, 17, 1.58 
-2015,05,18, LGB, 16, mousesports, 08, mirage, 17, 19, 1.03 
-2015,05,18, mousesports, 10, FlipSid3, 16, overpass, 24, 21, 1.15 
-2015,05,15, mousesports, 25, GPlay, 23, inferno, 40, 26, 1.29 
-2015,05,15, mousesports, 16, GPlay, 06, overpass, 13, 11, 1.06 
-2015,05,14, mousesports, 16, Publiclir.se, 05, mirage, 31, 13, 1.99 
-2015,05,14, Publiclir.se, 10, mousesports, 16, overpass, 22, 15, 1.30 
-2015,05,13, mousesports, 16, PENTA, 07, inferno, 27, 10, 1.90 
-2015,05,13, PENTA, 13, mousesports, 16, dust2, 17, 22, 0.95 
-2015,05,13, ESC, 05, mousesports, 16, overpass, 26, 11, 1.84 
-2015,05,13, ESC, 06, mousesports, 16, cobblestone, 23, 11, 1.68 
-2015,05,12, mousesports, 09, Titan, 16, cobblestone, 21, 17, 1.19 
-2015,05,12, Titan, 11, mousesports, 16, overpass, 18, 18, 0.91 
-2015,05,11, mousesports, 10, TSM, 16, cobblestone, 17, 20, 0.87 
-2015,05,11, mousesports, 16, Property, 06, cache, 25, 10, 1.71 
-2015,05,11, Property, 12, mousesports, 16, cobblestone, 26, 14, 1.52 
-2015,05,07, mousesports, 16, HellRaisers, 12, dust2, 19, 18, 0.94 
-2015,05,06, fnatic, 16, mousesports, 06, inferno, 19, 16, 1.23 
-2015,05,05, mousesports, 06, dignitas, 16, inferno, 10, 15, 0.69 
-2015,05,04, PENTA, 16, mousesports, 10, cache, 17, 20, 0.89 
-2015,04,22, PENTA, 05, 0G2, 16, nuke, 15, 18, 0.85 
-2015,04,22, PENTA, 04, 0G2, 16, mirage, 10, 18, 0.59 
-2015,04,20, CPHWolves, 07, PENTA, 16, inferno, 21, 12, 1.35 
-2015,04,20, PENTA, 14, CPHWolves, 16, mirage, 28, 21, 1.30 
-2015,04,19, PENTA, 18, NatusVincere, 21, dust2, 17, 29, 0.60 
-2015,04,19, PENTA, 16, NatusVincere, 05, mirage, 26, 07, 1.99 
-2015,04,16, x6tence, 14, PENTA, 16, inferno, 23, 19, 1.17 
-2015,04,16, x6tence, 23, PENTA, 25, mirage, 33, 28, 1.10 
-2015,04,06, NatusVincere, 16, PENTA, 03, cache, 11, 16, 0.70 
-2015,04,06, PENTA, 11, NatusVincere, 16, mirage, 16, 21, 0.74 
-2015,03,24, dignitas, 16, PENTA, 11, mirage, 26, 20, 1.27 
-2015,03,24, dignitas, 06, PENTA, 16, dust2, 26, 10, 1.83 
-2015,03,18, EnVyUs, 16, PENTA, 08, mirage, 21, 19, 1.05 
-2015,03,18, EnVyUs, 18, PENTA, 21, inferno, 32, 25, 1.20 
-2015,03,18, EnVyUs, 16, PENTA, 14, dust2, 20, 24, 0.86 
-2015,03,17, PENTA, 10, NiP, 16, dust2, 15, 20, 0.75 
-2015,03,17, NiP, 16, PENTA, 13, nuke, 18, 22, 0.80 
-2015,03,13, fnatic, 16, PENTA, 07, cache, 12, 21, 0.53 
-2015,03,13, PENTA, 08, fnatic, 16, inferno, 18, 19, 0.84 
-2015,03,12, PENTA, 16, LGB, 12, dust2, 20, 17, 1.06 
-2015,03,12, PENTA, 16, Titan, 04, cache, 17, 07, 1.33 
-2015,03,12, LGB, 16, PENTA, 03, dust2, 17, 17, 1.02 
-2015,03,08, AliGon, 12, PENTA, 16, inferno, 24, 16, 1.21 
-2015,03,08, AliGon, 13, PENTA, 16, dust2, 18, 17, 0.91 
-2015,03,08, AliGon, 12, PENTA, 16, cache, 21, 17, 1.12 
-2015,03,07, PENTA, 16, CPHWolves, 05, dust2, 29, 08, 2.13 
-2015,03,07, CPHWolves, 10, PENTA, 16, inferno, 21, 21, 0.95 
-2015,01,31, PENTA, 09, HellRaisers, 16, dust2, 09, 18, 0.55 
-2015,01,31, HellRaisers, 16, PENTA, 13, mirage, 24, 20, 1.15 
-2015,01,31, Titan, 16, PENTA, 00, inferno, 08, 16, 0.56 
-2015,01,31, Titan, 16, PENTA, 14, cache, 21, 22, 0.98 
-2015,01,30, Virtus.pro, 09, PENTA, 16, mirage, 21, 16, 1.20 
-2015,01,30, HellRaisers, 13, PENTA, 16, inferno, 14, 18, 0.81 
-2015,01,21, PENTA, 13, HellRaisers, 16, cache, 15, 17, 0.83 
-2015,01,21, PENTA, 16, HellRaisers, 08, inferno, 17, 14, 1.10 
-2015,01,21, HellRaisers, 22, PENTA, 20, mirage, 36, 30, 1.14 
-2015,01,20, PENTA, 11, Deponeret, 16, mirage, 23, 19, 1.36 
-2015,01,20, Deponeret, 19, PENTA, 17, dust2, 31, 23, 1.25 
-2015,01,15, ESC, 16, PENTA, 14, nuke, 18, 28, 0.69 
-2015,01,15, ESC, 16, PENTA, 06, dust2, 12, 17, 0.75 
-2015,01,15, PENTA, 16, ESC, 06, mirage, 18, 09, 1.43 
-2015,01,13, Orbit, 13, PENTA, 16, inferno, 29, 17, 1.39 
-2015,01,13, PENTA, 16, Orbit, 08, dust2, 18, 14, 1.16 
-2015,01,13, PENTA, 16, FlipSid3, 06, dust2, 25, 09, 1.91 
-2015,01,13, FlipSid3, 20, PENTA, 22, inferno, 37, 26, 1.43 
-2015,01,11, unu.AiN, 09, GEDUKT, 16, overpass, 22, 18, 1.27 
-2015,01,11, unu.AiN, 12, GEDUKT, 16, dust2, 23, 14, 1.32 
-2015,01,11, volgare, 07, GEDUKT, 16, inferno, 27, 12, 1.80 
-2014,12,21, PENTA, 04, Reason, 16, overpass, 14, 16, 0.89 
-2014,12,21, PENTA, 14, Reason, 16, overpass, 18, 19, 0.92 
-2014,12,21, Reason, 03, PENTA, 16, cache, 18, 04, 1.60 
-2014,12,21, PENTA, 16, mousesports, 08, mirage, 17, 14, 1.08 
-2014,12,21, PENTA, 10, mousesports, 16, cache, 15, 17, 0.90 
-2014,12,21, PENTA, 16, mousesports, 12, dust2, 20, 17, 1.04 
-2014,12,21, Reason, 16, PENTA, 14, overpass, 27, 21, 1.31 
-2014,12,21, Reason, 16, PENTA, 02, mirage, 07, 17, 0.40 
-2014,12,20, Virtus.pro, 16, PENTA, 11, mirage, 20, 23, 0.93 
-2014,12,20, PENTA, 08, Virtus.pro, 16, cache, 16, 17, 1.04 
-2014,12,20, Virtus.pro, 11, PENTA, 16, dust2, 25, 17, 1.30 
-2014,12,20, PENTA, 16, myKPV, 04, mirage, 26, 10, 2.02 
-2014,12,20, PENTA, 16, myKPV, 01, inferno, 17, 07, 1.73 
-2014,12,20, PENTA, 16, dotpiXels, 11, cache, 17, 17, 1.00 
-2014,12,20, dotpiXels, 08, PENTA, 16, dust2, 20, 11, 1.26 
-2014,12,19, Planetkey, 11, mousesports, 16, dust2, 12, 14, 0.83 
-2014,12,19, mousesports, 16, Planetkey, 11, cache, 19, 18, 1.01 
-2014,12,19, mousesports, 13, Planetkey, 16, overpass, 25, 16, 1.33 
-2014,12,19, Planetkey, 08, Reason, 16, inferno, 16, 20, 0.84 
-2014,12,19, Planetkey, 16, Reason, 09, dust2, 17, 16, 0.95 
-2014,12,19, Reason, 16, Planetkey, 11, overpass, 18, 17, 1.01 
-2014,12,17, Planetkey, 05, CPHWolves, 16, inferno, 11, 15, 0.70 
-2014,12,17, Planetkey, 13, CPHWolves, 16, dust2, 25, 19, 1.34 
-2014,12,13, mousesports, 03, Planetkey, 16, mirage, 21, 09, 1.73 
-2014,12,13, Planetkey, 12, mousesports, 16, dust2, 17, 19, 0.89 
-2014,12,13, Planetkey, 21, mousesports, 18, overpass, 35, 25, 1.31 
-2014,12,13, Planetkey, 16, dotpiXels, 09, inferno, 30, 16, 1.78 
-2014,12,13, Planetkey, 16, dotpiXels, 03, dust2, 21, 08, 1.85 
-2014,11,27, Planetkey, 13, ESC, 16, mirage, 17, 22, 0.73 
-2014,11,27, NiP, 16, Planetkey, 02, overpass, 07, 17, 0.37 
-2014,11,24, Planetkey, 12, CPHWolves, 16, nuke, 16, 18, 0.87 
-2014,11,24, Planetkey, 11, CPHWolves, 16, inferno, 09, 18, 0.58 
-2014,11,24, Planetkey, 16, k1ck, 03, nuke, 12, 07, 1.17 
-2014,11,24, Planetkey, 16, k1ck, 09, dust2, 20, 17, 1.03 
-2014,11,12, Planetkey, 12, Cloud9, 16, mirage, 24, 19, 1.16 
-2014,11,12, Planetkey, 14, Cloud9, 16, dust2, 18, 17, 0.93 
-2014,11,11, NiP, 16, Planetkey, 05, dust2, 13, 19, 0.68 
-2014,11,10, PlayingDucks, 08, Planetkey, 16, dust2, 26, 12, 1.65 
-2014,11,10, myKPV, 05, Planetkey, 16, nuke, 22, 11, 1.60 
-2014,10,30, Virtus.pro, 16, Planetkey, 05, nuke, 10, 20, 0.49 
-2014,10,30, Planetkey, 16, AlienTech, 03, nuke, 13, 10, 0.99 
-2014,10,30, Planetkey, 16, VirtualImpact, 06, mirage, 18, 12, 1.45 
-2014,10,30, Planetkey, 09, LDLC, 16, overpass, 20, 19, 1.03 
-2014,10,30, Planetkey, 10, Cloud9, 16, inferno, 14, 20, 0.75 
-2014,10,21, Planetkey, 16, FlipSid3, 05, dust2, 26, 10, 1.79 
-2014,10,21, Planetkey, 16, FlipSid3, 04, inferno, 18, 12, 1.31 
-2014,10,21, Planetkey, 16, mousesports, 09, overpass, 24, 13, 1.38 
-2014,10,21, Planetkey, 16, mousesports, 14, mirage, 20, 19, 0.98 
-2014,10,19, Planetkey, 16, MTW, 09, inferno, 17, 14, 1.07 
-2014,09,28, Planetkey, 16, Orbit, 07, inferno, 16, 14, 1.03 
-2014,09,28, Planetkey, 16, Orbit, 07, mirage, 14, 12, 0.95 
-2014,09,28, Outbreak, 12, Planetkey, 16, inferno, 29, 18, 1.43 
-2014,09,17, 3DMAX, 16, Planetkey, 14, nuke, 22, 19, 1.05 
-2014,09,17, Planetkey, 14, dAT, 16, nuke, 26, 22, 1.15 
-2014,09,16, HellRaisers, 22, Planetkey, 19, mirage, 30, 31, 0.99 
-2014,09,06, mousesports, 12, Planetkey, 16, mirage, 24, 16, 1.45 
-2014,09,06, Planetkey, 14, mousesports, 16, inferno, 24, 16, 1.33 
-2014,09,06, mousesports, 13, Planetkey, 16, dust2, 20, 17, 0.95 
-2014,09,06, Planetkey, 16, MTW, 05, nuke, 23, 09, 1.71 
-2014,09,06, Planetkey, 16, MTW, 12, dust2, 19, 15, 1.15 
-2014,08,04, Planetkey, 16, ALTERNATEaTTaX, 08, dust2, 09, 16, 0.63 
-2014,08,04, team, 12, Planetkey, 16, inferno, 20, 18, 1.05 
-2014,07,27, Planetkey, 22, NatusVincere, 26, mirage, 34, 33, 0.96 
-2014,07,27, Planetkey, 10, NatusVincere, 16, inferno, 13, 20, 0.67 
-2014,07,26, Planetkey, 16, tomtebloss, 02, dust2, 17, 05, 1.86 
-2014,07,26, Planetkey, 16, tomtebloss, 07, inferno, 16, 09, 1.31 
-2014,07,26, Planetkey, 13, ENCORE, 16, inferno, 24, 21, 1.18 
-2014,07,26, ENCORE, 16, Planetkey, 11, nuke, 18, 20, 0.88 
-2014,07,19, LDLC, 16, Planetkey, 10, inferno, 17, 21, 0.81 
-2014,07,19, LDLC, 16, Planetkey, 12, dust2, 25, 19, 1.44 
-2014,07,19, LDLC, 14, Planetkey, 16, nuke, 21, 19, 1.08 
-2014,07,18, Planetkey, 16, Hybrid, 13, mirage, 29, 20, 1.57 
-2014,07,18, Planetkey, 14, HellRaisers, 16, nuke, 19, 21, 0.83 
-2014,07,18, Planetkey, 16, Hybrid, 02, nuke, 20, 08, 1.67 
-2013,01,31, VeryGames, 16, mousesports, 06, dust2_se, 05, 18, 0.34 
-2013,01,30, mousesports, 13, fnatic, 16, nuke_se, 17, 20, 0.96 
-2013,01,28, Virtus.pro, 04, mousesports, 16, train_se, 19, 09, 1.39 
-2012,12,13, fnatic, 16, mousesports, 04, mirage_ce, 08, 16, 0.61 
-2012,12,11, n!faculty, 07, mousesports, 16, nuke_se, 14, 15, 0.89 
-2012,12,06, mousesports, 16, NatusVincere, 09, dust2_se, 12, 14, 0.81 
-2012,12,06, mousesports, 16, Rush3D, 07, dust2_se, 17, 11, 1.27 
-2012,12,06, ALTERNATEaTTaX, 07, mousesports, 16, inferno_se, 18, 13, 1.24 
-2012,11,28, KerchNET, 04, mousesports, 16, mirage_ce, 13, 10, 1.01 
-2012,11,26, mousesports, 16, Imaginary, 07, nuke_se, 14, 15, 0.92 
-2012,11,13, mousesports, 06, 3DMAX, 16, mirage_ce, 15, 18, 0.88 
-2012,11,13, 3DMAX, 14, mousesports, 16, nuke_se, 23, 23, 0.99 
-2012,11,13, mousesports, 11, 3DMAX, 16, dust2_se, 19, 20, 0.93 
-2012,11,12, mousesports, 16, BX3, 05, nuke_se, 13, 09, 1.01 
-2012,11,12, mousesports, 16, BX3, 02, dust2_se, 26, 06, 2.28 
-2012,11,06, TtDragons, 06, mousesports, 16, nuke_se, 19, 13, 1.24 
-2012,11,03, NiP, 16, mousesports, 05, dust2_se, 08, 17, 0.50 
-2012,11,02, Area51, 15, mousesports, 15, nuke_se, 23, 21, 1.08 
-2012,11,02, mousesports, 16, ProGaming.TD, 08, train_se, 12, 15, 0.75 
-2012,11,02, mousesports, 16, LowLandLions, 14, mirage_ce, 20, 20, 0.91 
-2012,10,30, dotpiXels, 13, mousesports, 16, inferno_se, 29, 19, 1.40 
-2012,10,25, SFTO, 09, mousesports, 16, mirage_ce, 18, 17, 1.05 
-2012,10,25, mousesports, 15, n!faculty, 15, dust2_se, 18, 21, 0.86 
-2012,10,18, gamed!de, 15, mousesports, 15, nuke_se, 21, 18, 1.07 
-2012,10,16, mousesports, 16, iPLAY, 11, train_se, 27, 14, 1.49 
-2012,10,15, mousesports, 22, mTw, 20, dust2_se, 30, 30, 0.95 
-2012,10,15, mTw, 16, mousesports, 11, inferno_se, 15, 17, 0.83 
-2012,10,15, mTw, 11, mousesports, 16, train_se, 17, 21, 0.88 
-2012,10,11, RedDead, 02, mousesports, 16, inferno_se, 13, 09, 1.11 
-2012,10,10, mousesports, 16, TtDragons, 08, mirage_ce, 16, 14, 0.97 
-2012,10,10, TtDragons, 07, mousesports, 16, dust2_se, 15, 14, 1.07 
-2012,10,10, mousesports, 16, ALTERNATEaTTaX, 07, dust2_se, 13, 17, 0.79 
-2012,10,09, mousesports, 16, CPLAY, 03, mirage_ce, 12, 08, 1.15 
-2012,10,08, ALTERNATEaTTaX, 09, mousesports, 16, nuke_se, 23, 15, 1.35 
-2012,10,08, ALTERNATEaTTaX, 03, mousesports, 16, inferno_se, 14, 09, 1.29 
-2012,10,03, mousesports, 16, logiX, 10, nuke_se, 19, 16, 1.01 
-2012,10,03, logiX, 00, mousesports, 16, dust2_se, 26, 04, 2.88 
+2016,07,30,04:00,8,214,7,502,16,10,6,9,10,1,214,16,19,0.87 
+2016,07,30,04:00,214,8,2,502,7,16,6,9,1,7,214,11,20,0.63 
+2016,07,22,23:00,214,253,1,502,16,12,7,8,9,4,214,19,20,0.84 
+2016,07,22,23:00,253,214,0,502,2,16,2,13,0,3,214,13,7,1.39 
+2016,07,16,04:00,214,285,7,502,19,17,6,9,9,6,214,30,26,1.20 
+2016,07,16,04:00,285,214,1,502,3,16,2,13,1,3,214,12,8,1.09 
+2016,07,16,04:00,285,214,2,502,16,9,9,6,7,3,214,20,20,0.97 
+2016,07,14,20:00,214,292,4,502,19,17,10,5,5,10,214,29,24,1.12 
+2016,07,14,20:00,292,214,7,502,25,22,4,11,11,4,214,29,33,0.84 
+2016,07,14,20:00,214,292,1,502,16,9,11,4,5,5,214,23,14,1.36 
+2016,07,07,19:00,303,214,0,523,16,6,11,4,5,2,214,10,17,0.67 
+2016,07,07,19:00,303,214,14,523,16,11,9,6,7,5,214,19,20,0.99 
+2016,07,06,17:25,214,258,2,523,16,12,8,7,8,5,214,16,17,0.88 
+2016,07,05,17:15,8,214,2,523,16,10,7,8,9,2,214,13,18,0.74 
+2016,06,23,22:30,214,13,7,502,9,16,4,11,5,5,214,11,21,0.66 
+2016,06,23,22:30,13,214,4,502,16,9,13,2,3,7,214,13,17,0.86 
+2016,06,22,19:20,38,214,2,502,13,16,11,4,2,12,214,20,22,0.91 
+2016,06,22,18:00,214,38,14,502,16,12,11,4,5,8,214,14,17,0.86 
+2016,06,22,00:00,214,215,14,502,6,16,3,12,3,4,214,11,17,0.66 
+2016,06,21,23:05,215,214,0,502,6,16,5,10,1,6,214,18,11,1.28 
+2016,06,21,21:55,13,214,14,502,16,6,10,5,6,1,214,8,20,0.48 
+2016,06,21,20:20,214,13,2,502,19,16,6,9,9,6,214,26,21,1.06 
+2016,06,11,20:15,214,292,1,552,16,1,14,1,2,0,214,10,4,1.18 
+2016,06,10,20:15,214,257,0,552,16,12,11,4,5,8,214,23,14,1.32 
+2016,06,09,16:55,365,214,1,552,16,19,8,7,7,8,214,36,23,1.44 
+2016,05,27,18:00,214,250,1,563,9,16,5,10,4,6,214,12,17,0.71 
+2016,05,27,18:00,214,250,14,563,8,16,6,9,2,7,214,17,20,0.95 
+2016,05,26,15:15,214,210,1,563,17,19,6,9,9,6,214,27,20,1.13 
+2016,05,26,15:15,214,210,14,563,17,19,5,10,10,5,214,20,25,0.79 
+2016,05,25,14:10,285,214,2,563,10,16,4,11,6,5,214,21,16,1.28 
+2016,05,25,14:10,285,214,1,563,16,11,14,1,2,10,214,24,21,1.18 
+2016,05,25,14:10,285,214,0,563,13,16,10,5,3,11,214,24,18,1.24 
+2016,05,23,18:00,214,250,1,563,10,16,4,11,6,5,214,20,19,1.04 
+2016,05,23,18:00,214,250,14,563,8,16,4,11,4,5,214,27,19,1.59 
+2016,05,22,19:30,22,214,2,563,8,16,6,9,2,7,214,12,13,0.82 
+2016,05,22,19:30,214,22,0,563,3,16,3,12,0,4,214,5,17,0.31 
+2016,05,22,19:30,22,214,1,563,3,16,3,12,0,4,214,13,12,1.09 
+2016,05,19,21:00,214,210,2,563,5,16,4,11,1,5,214,12,18,0.65 
+2016,05,19,21:00,210,214,7,563,16,13,9,6,7,7,214,15,24,0.65 
+2016,05,11,21:00,214,258,1,563,16,14,8,7,8,7,214,22,20,1.04 
+2016,05,11,21:00,214,258,6,563,16,11,11,4,5,7,214,15,16,0.93 
+2016,05,11,21:00,214,258,0,563,5,16,1,14,4,2,214,11,15,0.73 
+2016,05,05,21:00,214,292,1,563,11,16,7,8,4,8,214,12,19,0.66 
+2016,05,05,21:00,214,292,14,563,8,16,6,9,2,7,214,8,20,0.49 
+2016,05,05,21:00,214,292,7,563,16,14,8,7,8,7,214,19,18,0.99 
+2016,04,29,21:00,214,285,6,563,16,14,11,4,5,10,214,26,18,1.19 
+2016,04,29,21:00,214,285,7,563,16,2,13,2,3,0,214,19,10,1.60 
+2016,04,27,20:15,214,425,7,596,20,22,6,9,9,6,214,36,25,1.25 
+2016,04,27,20:15,425,214,2,596,16,14,6,9,10,5,214,25,20,1.24 
+2016,04,27,20:15,425,214,0,596,11,16,8,7,3,9,214,19,18,0.99 
+2016,04,26,20:00,215,214,7,598,10,16,10,5,0,11,214,26,16,1.53 
+2016,04,26,19:00,215,214,1,598,16,10,10,5,6,5,214,23,20,1.17 
+2016,04,24,16:00,8,214,2,563,13,16,9,6,4,10,214,23,17,1.12 
+2016,04,24,16:00,214,8,7,563,16,4,12,3,4,1,214,24,8,1.87 
+2016,04,21,22:00,8,214,2,598,19,15,6,9,9,6,214,27,26,1.08 
+2016,04,21,21:15,8,214,7,598,5,16,2,13,3,3,214,21,14,1.44 
+2016,04,19,19:30,214,258,7,598,16,8,8,7,8,1,214,17,18,0.89 
+2016,04,19,18:00,214,258,6,598,22,19,9,6,6,9,214,27,26,1.05 
+2016,04,16,17:00,214,9,0,608,13,16,7,8,6,8,214,23,21,1.07 
+2016,04,16,17:00,9,214,6,608,16,10,8,7,8,3,214,12,18,0.77 
+2016,04,16,17:00,214,9,7,608,16,7,8,7,8,0,214,26,9,1.72 
+2016,04,13,17:00,214,70,7,608,16,7,11,4,5,3,214,25,10,1.72 
+2016,04,12,12:30,214,303,1,608,16,13,7,8,9,5,214,19,23,0.82 
+2016,04,10,13:00,214,253,0,563,3,16,2,13,1,3,214,11,17,0.69 
+2016,04,10,13:00,214,253,2,563,13,16,6,9,7,7,214,22,18,1.06 
+2016,04,10,13:00,214,253,1,563,16,5,10,5,6,0,214,9,11,0.80 
+2016,04,08,18:00,214,59,2,614,16,9,12,3,4,6,214,22,11,1.33 
+2016,04,08,18:00,214,59,1,614,16,8,10,5,6,3,214,19,14,1.29 
+2016,04,08,18:00,59,214,6,614,16,11,10,5,6,6,214,29,20,1.69 
+2016,04,08,18:00,214,59,7,614,19,17,4,11,11,4,214,35,26,1.23 
+2016,04,08,18:00,59,214,14,614,16,14,13,2,3,12,214,22,20,1.12 
+2016,03,31,16:00,250,214,4,615,16,9,9,6,7,3,214,8,20,0.43 
+2016,03,31,16:00,214,250,7,615,16,12,8,7,8,5,214,22,18,1.11 
+2016,03,31,16:00,214,250,14,615,5,16,4,11,1,5,214,11,17,0.65 
+2016,03,30,16:00,13,214,14,615,28,31,12,3,3,12,214,36,45,0.82 
+2016,03,29,18:00,70,214,0,615,16,13,10,5,6,8,214,12,20,0.68 
+2016,03,24,05:40,578,579,2,621,16,9,11,4,5,5,578,22,14,1.30 
+2016,03,22,23:45,214,22,6,598,10,16,5,10,5,6,214,18,20,0.83 
+2016,03,22,22:30,214,22,14,598,16,19,4,11,11,4,214,29,25,1.16 
+2016,03,20,20:15,214,13,14,598,13,16,8,7,5,9,214,21,22,0.90 
+2016,03,20,19:00,214,13,4,598,12,16,9,6,3,10,214,23,19,1.26 
+2016,03,19,20:15,285,214,1,598,13,16,6,9,7,7,214,29,19,1.44 
+2016,03,19,19:00,214,285,7,598,16,14,3,12,13,2,214,22,19,1.11 
+2016,03,17,23:15,302,214,14,598,16,11,8,7,8,4,214,11,20,0.59 
+2016,03,17,22:00,302,214,0,598,8,16,6,9,2,7,214,16,9,1.24 
+2016,03,14,20:30,214,292,7,625,16,13,11,4,5,9,214,15,23,0.68 
+2016,03,14,20:30,214,292,1,625,16,14,3,12,13,2,214,31,19,1.49 
+2016,03,14,20:30,292,214,6,625,19,16,7,8,8,7,214,23,24,0.87 
+2016,03,14,00:15,214,210,1,598,19,17,3,12,12,3,214,24,23,1.03 
+2016,03,13,23:00,210,214,7,598,16,4,11,4,5,0,214,18,16,1.06 
+2016,03,13,16:45,598,214,1,625,3,16,3,12,0,4,214,15,7,1.27 
+2016,03,13,16:45,214,598,14,625,16,7,13,2,3,5,214,15,13,1.00 
+2016,03,13,13:15,26,214,0,625,9,16,4,11,5,5,214,27,13,1.78 
+2016,03,13,13:15,26,214,7,625,8,16,8,7,0,9,214,19,13,1.23 
+2016,03,08,21:15,253,214,1,598,16,4,11,4,5,0,214,4,18,0.28 
+2016,03,08,20:00,253,214,0,598,16,12,7,8,9,4,214,15,20,0.78 
+2016,03,02,21:20,214,210,1,637,17,19,5,10,10,5,214,16,27,0.67 
+2016,03,02,20:00,214,70,14,637,14,16,7,8,7,8,214,25,18,1.24 
+2016,03,02,17:20,214,215,14,637,6,16,3,12,3,4,214,19,16,1.21 
+2016,03,02,14:40,214,150,1,637,16,7,10,5,6,2,214,16,13,1.01 
+2016,03,02,13:20,214,250,0,637,16,8,10,5,6,3,214,21,11,1.39 
+2016,02,26,23:30,59,214,0,639,15,19,9,6,6,9,214,28,26,1.10 
+2016,02,26,19:00,214,537,14,639,16,1,14,1,2,0,214,22,8,1.89 
+2016,02,24,01:30,250,214,4,598,16,14,10,5,6,9,214,19,23,0.89 
+2016,02,23,23:50,250,214,7,598,19,15,7,8,8,7,214,11,25,0.50 
+2016,02,23,20:15,292,214,4,598,10,16,6,9,4,7,214,24,14,1.33 
+2016,02,23,19:10,292,214,1,598,16,13,7,8,9,5,214,26,20,1.32 
+2016,02,14,19:00,13,214,4,654,9,16,8,7,1,9,214,28,14,1.74 
+2016,02,14,19:00,214,13,7,654,16,6,11,4,5,2,214,27,11,2.07 
+2016,02,13,22:30,13,214,14,654,11,16,6,9,5,7,214,26,16,1.35 
+2016,02,13,22:30,214,13,0,654,16,5,12,3,4,2,214,22,9,1.62 
+2016,02,12,22:30,214,472,14,654,16,13,11,4,5,9,214,20,19,0.98 
+2016,02,12,22:30,214,472,7,654,16,5,11,4,5,1,214,17,10,1.32 
+2016,02,11,19:00,214,647,14,654,16,13,8,7,8,6,214,23,18,1.19 
+2016,02,11,19:00,214,647,1,654,21,18,5,10,10,5,214,37,26,1.32 
+2016,01,31,18:00,214,22,14,657,3,16,3,12,0,4,214,11,15,0.69 
+2016,01,31,18:00,214,22,7,657,9,16,6,9,3,7,214,17,19,0.93 
+2016,01,23,15:00,22,214,0,667,16,13,6,9,10,4,214,14,23,0.61 
+2016,01,23,15:00,214,22,14,667,4,16,3,12,1,4,214,13,17,0.81 
+2016,01,22,17:00,253,214,0,667,22,19,10,5,5,10,214,22,27,0.80 
+2016,01,22,14:00,214,8,1,667,16,5,10,5,6,0,214,16,10,1.17 
+2016,01,14,21:00,214,49,4,654,11,16,11,4,0,12,214,17,20,0.84 
+2016,01,14,21:00,49,214,7,654,12,16,7,8,5,8,214,28,12,1.53 
+2015,12,18,00:00,747,748,0,657,16,4,11,4,5,0,748,13,18,0.65 
+2015,12,18,00:00,748,747,7,657,12,16,3,12,9,4,748,20,21,0.95 
+2015,12,16,21:00,214,439,1,695,13,16,11,4,2,12,214,24,20,1.10 
+2015,12,16,21:00,439,214,0,695,16,1,14,1,2,0,214,5,17,0.25 
+2015,12,15,21:00,214,147,14,654,16,10,9,6,7,4,214,22,19,1.06 
+2015,12,15,21:00,214,147,0,654,21,19,7,8,8,7,214,25,28,0.88 
+2015,12,13,21:00,59,214,6,654,14,16,11,4,3,12,214,16,23,0.69 
+2015,12,13,21:00,59,214,0,654,21,18,3,12,12,3,214,26,26,0.98 
+2015,12,03,20:00,439,214,7,654,15,21,5,10,10,5,214,29,25,1.13 
+2015,12,03,20:00,214,439,0,654,21,19,11,4,4,11,214,20,27,0.77 
+2015,12,03,18:00,647,214,0,654,6,16,3,12,3,4,214,13,12,0.89 
+2015,12,03,18:00,214,647,1,654,14,16,7,8,7,8,214,22,21,1.07 
+2015,11,17,22:00,258,214,7,740,16,12,6,9,10,3,214,19,23,0.84 
+2015,11,17,21:00,59,214,2,740,16,13,9,6,7,7,214,14,22,0.66 
+2015,11,17,20:00,214,270,7,740,7,16,4,11,3,5,214,17,20,0.88 
+2015,11,16,18:00,214,8,1,740,13,16,5,10,8,6,214,16,22,0.78 
+2015,11,12,22:00,302,214,2,740,16,0,15,0,1,0,214,4,16,0.21 
+2015,11,11,22:00,210,214,4,740,9,16,7,8,2,8,214,24,14,1.44 
+2015,11,11,21:00,214,8,6,740,16,2,13,2,3,0,214,13,9,1.20 
+2015,11,11,20:00,196,214,4,740,13,16,8,7,5,9,214,27,18,1.49 
+2015,11,11,19:00,250,214,0,740,8,16,4,11,4,5,214,18,14,1.18 
+2015,11,08,23:35,214,8,14,758,4,16,3,12,1,4,214,11,18,0.72 
+2015,11,08,23:35,8,214,0,758,16,8,13,2,3,6,214,11,18,0.66 
+2015,11,08,23:35,214,8,6,758,8,16,4,11,4,5,214,11,17,0.69 
+2015,11,08,18:30,214,738,7,758,16,11,12,3,4,8,214,34,15,1.91 
+2015,11,08,18:30,738,214,4,758,16,8,10,5,6,3,214,22,21,1.11 
+2015,11,08,18:30,214,738,6,758,16,11,11,4,5,7,214,10,19,0.59 
+2015,11,07,17:50,70,214,0,758,7,16,4,11,3,5,214,17,13,1.15 
+2015,11,07,17:50,70,214,1,758,12,16,11,4,1,12,214,22,17,1.29 
+2015,11,06,23:00,215,214,4,758,7,16,4,11,3,5,214,25,12,1.60 
+2015,11,06,23:00,215,214,0,758,10,16,9,6,1,10,214,17,14,1.15 
+2015,11,03,22:00,196,214,1,740,8,16,4,11,4,5,214,32,17,1.81 
+2015,11,03,20:30,856,214,4,570,16,10,11,4,5,6,214,21,19,1.05 
+2015,11,03,20:27,856,214,7,570,16,11,6,9,10,2,214,17,21,0.88 
+2015,10,30,13:00,292,214,7,766,16,5,11,4,5,1,214,15,16,0.85 
+2015,10,30,13:00,214,292,6,766,16,12,8,7,8,5,214,19,18,1.02 
+2015,10,30,13:00,292,214,0,766,19,16,7,8,8,7,214,22,25,0.79 
+2015,10,29,12:35,13,214,4,766,8,16,3,12,5,4,214,27,14,1.84 
+2015,10,28,14:45,214,292,6,766,8,16,6,9,2,7,214,15,22,0.71 
+2015,10,25,22:45,258,214,4,740,16,14,8,7,8,7,214,22,22,0.98 
+2015,10,25,20:00,214,215,0,740,19,17,8,7,7,8,214,26,25,0.93 
+2015,10,21,19:00,250,214,14,740,16,8,8,7,8,1,214,9,21,0.46 
+2015,10,15,22:00,22,214,2,740,16,13,9,6,7,7,214,22,20,1.07 
+2015,10,15,20:00,270,214,1,740,16,13,10,5,6,8,214,19,20,0.90 
+2015,10,15,18:00,214,439,4,783,9,16,9,6,0,10,214,17,18,0.94 
+2015,10,15,18:00,439,214,14,783,16,10,9,6,7,4,214,25,19,1.29 
+2015,10,14,20:00,214,472,6,783,17,19,5,10,10,5,214,30,26,1.23 
+2015,10,14,20:00,472,214,4,783,9,16,5,10,4,6,214,21,15,1.21 
+2015,10,14,17:30,711,214,14,783,15,19,9,6,6,9,214,32,20,1.40 
+2015,10,14,17:30,214,711,4,783,16,12,8,7,8,5,214,19,16,0.98 
+2015,10,13,23:00,59,214,0,783,14,16,9,6,5,10,214,21,20,0.99 
+2015,10,13,23:00,214,59,14,783,14,16,11,4,3,12,214,12,22,0.57 
+2015,10,13,22:00,711,214,0,740,8,16,5,10,3,6,214,17,17,1.05 
+2015,10,13,20:15,711,214,7,740,16,10,7,8,9,2,214,19,18,1.02 
+2015,10,10,21:30,935,938,7,786,16,7,11,4,5,3,938,21,18,1.24 
+2015,10,10,21:30,938,935,14,786,2,16,2,13,0,3,938,8,18,0.44 
+2015,10,08,17:50,938,937,7,786,16,13,13,2,3,11,938,27,18,1.47 
+2015,10,08,15:15,293,938,1,786,6,16,2,13,4,3,938,19,12,1.28 
+2015,10,06,22:15,22,214,14,740,19,15,8,7,7,8,214,22,23,0.91 
+2015,09,30,20:00,214,22,6,783,14,16,11,4,3,12,214,29,19,1.42 
+2015,09,30,20:00,214,22,14,783,14,16,8,7,6,9,214,18,25,0.71 
+2015,09,30,17:00,959,938,14,799,12,16,5,10,7,6,938,25,20,1.21 
+2015,09,30,17:00,959,938,1,799,14,16,6,9,8,7,938,30,18,1.47 
+2015,09,30,17:00,938,959,7,799,12,16,3,12,9,4,938,21,17,1.11 
+2015,09,29,22:15,13,214,7,783,2,16,2,13,0,3,214,15,8,1.28 
+2015,09,29,22:15,214,13,6,783,16,13,7,8,9,5,214,26,15,1.40 
+2015,09,29,20:15,214,962,1,783,16,4,11,4,5,0,214,18,8,1.50 
+2015,09,29,20:15,962,214,7,783,2,16,2,13,0,3,214,21,8,1.78 
+2015,09,29,18:00,938,940,1,799,10,16,6,9,4,7,938,21,21,1.01 
+2015,09,29,17:00,938,33,1,799,16,7,12,3,4,4,938,33,14,1.90 
+2015,09,28,22:15,214,945,7,783,16,12,6,9,10,3,214,24,19,1.21 
+2015,09,28,22:15,945,214,14,783,4,16,3,12,1,4,214,21,10,1.46 
+2015,09,28,20:15,214,292,1,783,4,16,3,12,1,4,214,5,18,0.32 
+2015,09,28,20:15,292,214,7,783,16,10,10,5,6,5,214,25,19,1.38 
+2015,09,24,19:15,214,303,14,766,16,9,11,4,5,5,214,23,17,1.33 
+2015,09,24,19:15,214,303,7,766,16,10,9,6,7,4,214,15,19,0.81 
+2015,09,24,12:30,279,214,14,766,11,16,7,8,4,8,214,20,18,1.06 
+2015,09,24,12:30,279,214,1,766,17,19,8,7,7,8,214,28,26,1.02 
+2015,09,16,22:00,302,214,6,740,11,16,6,9,5,7,214,21,18,1.09 
+2015,09,16,21:00,214,59,14,740,16,11,11,4,5,7,214,19,18,1.01 
+2015,09,15,22:00,214,210,6,740,8,16,7,8,1,8,214,14,20,0.70 
+2015,09,15,21:15,214,215,6,740,5,16,5,10,0,6,214,10,18,0.60 
+2015,09,14,20:00,196,214,1,783,16,12,11,4,5,8,214,32,18,1.66 
+2015,09,14,20:00,214,196,0,783,16,8,10,5,6,3,214,17,14,1.00 
+2015,09,08,16:50,215,214,14,825,16,13,9,6,7,7,214,23,25,0.96 
+2015,09,08,03:50,214,855,1,825,16,6,10,5,6,1,214,19,11,1.45 
+2015,09,07,17:50,711,214,14,825,16,9,11,4,5,5,214,19,18,1.10 
+2015,09,07,17:50,214,711,4,825,3,16,3,12,0,4,214,7,15,0.51 
+2015,09,04,18:00,214,23,2,823,7,16,4,11,3,5,214,17,18,0.90 
+2015,09,03,23:00,711,214,1,823,14,16,5,10,9,6,214,23,21,1.14 
+2015,09,03,19:15,270,214,4,823,16,7,14,1,2,6,214,13,18,0.90 
+2015,09,02,18:00,210,214,1,823,16,9,7,8,9,1,214,13,20,0.62 
+2015,09,02,18:00,214,210,2,823,16,9,12,3,4,6,214,15,14,1.00 
+2015,09,02,18:00,210,214,7,823,16,3,12,3,4,0,214,9,17,0.54 
+2015,09,01,18:00,214,22,4,823,16,8,11,4,5,4,214,21,13,1.40 
+2015,09,01,18:00,22,214,1,823,7,16,2,13,5,3,214,15,15,0.98 
+2015,09,01,18:00,214,22,2,823,10,16,7,8,3,8,214,16,23,0.68 
+2015,09,01,18:00,22,214,0,823,11,16,5,10,6,6,214,18,14,1.12 
+2015,08,31,18:15,711,214,4,823,17,21,9,6,6,9,214,35,23,1.37 
+2015,08,31,18:15,214,711,2,823,7,16,6,9,1,7,214,13,18,0.73 
+2015,08,31,18:15,711,214,14,823,9,16,8,7,1,9,214,20,15,1.32 
+2015,08,31,15:00,938,1018,0,799,16,14,11,4,5,10,938,26,19,1.18 
+2015,08,31,15:00,1018,938,1,799,3,16,3,12,0,4,938,21,9,1.72 
+2015,08,30,18:00,214,210,4,823,9,16,5,10,4,6,214,16,18,0.81 
+2015,08,30,18:00,210,214,7,823,13,16,10,5,3,11,214,39,19,1.92 
+2015,08,30,18:00,214,210,2,823,5,16,3,12,2,4,214,13,19,0.79 
+2015,08,26,21:00,995,214,7,776,7,16,2,13,5,3,214,29,13,1.89 
+2015,08,26,21:00,214,995,1,776,31,27,7,8,8,7,214,58,40,1.36 
+2015,08,26,18:00,380,214,1,843,9,16,9,6,0,10,214,22,17,1.14 
+2015,08,26,18:00,214,380,2,843,16,11,7,8,9,3,214,32,19,1.49 
+2015,08,21,20:40,214,13,14,846,14,16,7,8,7,8,214,25,22,1.20 
+2015,08,20,19:30,214,257,4,846,10,16,8,7,2,9,214,13,19,0.68 
+2015,08,12,18:15,214,23,2,854,13,16,11,4,2,12,214,27,19,1.30 
+2015,08,12,18:15,23,214,1,854,16,7,10,5,6,2,214,13,20,0.73 
+2015,08,12,18:15,214,23,7,854,5,16,5,10,0,6,214,15,17,0.97 
+2015,08,11,18:00,214,484,7,854,16,4,14,1,2,3,214,21,9,1.70 
+2015,08,11,18:00,214,484,1,854,16,6,11,4,5,2,214,23,17,1.45 
+2015,08,09,15:45,196,214,4,866,4,16,4,11,0,5,214,15,9,1.19 
+2015,08,09,15:45,214,196,7,866,16,4,11,4,5,0,214,14,10,1.08 
+2015,08,09,12:45,500,214,14,866,15,19,11,4,4,11,214,31,25,1.30 
+2015,08,09,12:45,214,500,1,866,16,5,11,4,5,1,214,20,10,1.53 
+2015,08,09,12:45,214,500,7,866,11,16,7,8,4,8,214,17,20,0.87 
+2015,08,07,17:15,214,258,7,868,17,19,5,10,10,5,214,24,28,0.93 
+2015,08,07,14:45,258,214,2,868,11,16,10,5,1,11,214,20,19,0.97 
+2015,08,07,11:45,258,214,1,868,16,8,9,6,7,2,214,19,19,0.95 
+2015,08,06,16:45,214,270,1,868,8,16,4,11,4,5,214,9,21,0.46 
+2015,08,05,16:45,258,214,6,868,16,13,10,5,6,8,214,14,21,0.71 
+2015,08,05,12:15,214,286,1,868,16,2,13,2,3,0,214,21,10,1.66 
+2015,08,02,19:20,214,59,0,654,10,16,8,7,2,9,214,15,19,0.81 
+2015,08,02,19:20,59,214,14,654,16,10,6,9,10,1,214,21,18,1.10 
+2015,08,02,19:20,214,59,2,654,13,16,7,8,6,8,214,22,25,0.97 
+2015,08,02,19:20,214,59,4,654,16,14,3,12,13,2,214,18,19,0.90 
+2015,08,02,19:20,214,59,1,654,9,16,4,11,5,5,214,14,19,0.78 
+2015,08,02,19:20,214,59,7,654,16,12,12,3,4,9,214,31,21,1.46 
+2015,08,01,19:30,472,214,1,654,14,16,5,10,9,6,214,39,16,1.95 
+2015,08,01,19:30,472,214,7,654,16,11,7,8,9,3,214,19,20,0.97 
+2015,08,01,19:30,214,472,4,654,16,7,12,3,4,4,214,18,11,1.26 
+2015,07,31,22:00,302,214,1,654,6,16,5,10,1,6,214,18,12,1.32 
+2015,07,31,22:00,214,302,2,654,16,5,11,4,5,1,214,16,12,1.07 
+2015,07,31,00:00,214,196,7,654,19,15,7,8,8,7,214,23,21,1.01 
+2015,07,31,00:00,214,196,4,654,16,7,12,3,4,4,214,24,14,1.49 
+2015,07,26,16:00,215,214,1,871,16,14,10,5,6,9,214,20,20,1.12 
+2015,07,26,16:00,215,214,4,871,16,9,12,3,4,6,214,14,21,0.69 
+2015,07,25,19:30,214,257,1,871,16,12,5,10,11,2,214,21,19,1.08 
+2015,07,25,19:30,214,257,7,871,16,5,12,3,4,2,214,20,8,1.58 
+2015,07,25,02:00,214,303,4,871,16,8,10,5,6,3,214,27,16,1.49 
+2015,07,25,02:00,303,214,1,871,10,16,5,10,5,6,214,24,13,1.38 
+2015,06,29,23:00,258,214,2,802,19,15,12,3,3,12,214,20,26,0.87 
+2015,06,29,23:00,214,258,7,802,13,16,10,5,3,11,214,20,21,0.98 
+2015,06,28,13:00,250,214,1,880,16,2,13,2,3,0,214,13,18,0.76 
+2015,06,28,13:00,214,250,2,880,13,16,7,8,6,8,214,22,22,1.13 
+2015,06,27,19:30,8,214,2,880,20,22,7,8,8,7,214,35,28,1.16 
+2015,06,27,19:30,214,8,0,880,16,13,11,4,5,9,214,25,16,1.43 
+2015,06,27,19:30,214,8,1,880,15,19,11,4,4,11,214,36,25,1.51 
+2015,06,27,16:15,258,214,14,880,16,9,11,4,5,5,214,16,21,0.85 
+2015,06,27,16:15,214,258,7,880,16,12,6,9,10,3,214,25,19,1.26 
+2015,06,27,16:15,258,214,1,880,16,6,9,6,7,0,214,21,16,1.39 
+2015,06,26,21:30,214,8,7,880,16,5,11,4,5,1,214,15,15,0.94 
+2015,06,26,21:30,8,214,14,880,20,22,4,11,11,4,214,36,30,1.08 
+2015,06,25,19:00,196,214,1,883,3,16,2,13,1,3,214,22,10,1.58 
+2015,06,25,19:00,214,196,0,883,16,13,9,6,7,7,214,19,17,1.07 
+2015,06,24,22:45,250,214,1,883,16,9,8,7,8,2,214,17,20,0.87 
+2015,06,24,22:45,214,250,6,883,9,16,8,7,1,9,214,14,18,0.81 
+2015,06,23,18:00,215,214,1,883,6,16,6,9,0,7,214,19,13,1.29 
+2015,06,23,18:00,214,215,0,883,16,5,10,5,6,0,214,17,10,1.32 
+2015,06,21,19:00,214,270,4,802,5,16,4,11,1,5,214,15,15,0.94 
+2015,06,21,19:00,270,214,7,802,14,16,9,6,5,10,214,27,19,1.26 
+2015,06,20,22:00,214,13,7,888,16,1,14,1,2,0,214,24,9,2.25 
+2015,06,18,23:15,214,210,6,888,7,16,4,11,3,5,214,20,16,1.13 
+2015,06,18,20:00,250,214,4,888,16,10,9,6,7,4,214,26,20,1.29 
+2015,06,17,21:00,711,214,1,888,13,16,5,10,8,6,214,27,22,1.31 
+2015,06,16,22:10,214,196,0,802,16,13,11,4,5,9,214,20,16,1.08 
+2015,06,16,22:10,214,196,1,802,10,16,5,10,5,6,214,27,19,1.40 
+2015,06,16,21:15,8,214,6,888,16,8,10,5,6,3,214,23,21,1.05 
+2015,06,16,20:15,8,214,2,888,16,14,7,8,9,6,214,17,23,0.68 
+2015,06,14,18:00,214,59,7,802,16,6,12,3,4,3,214,21,11,1.57 
+2015,06,14,18:00,59,214,2,802,16,11,8,7,8,4,214,24,20,1.30 
+2015,06,04,18:00,214,270,1,654,16,5,12,3,4,2,214,18,11,1.27 
+2015,06,04,18:00,270,214,0,654,17,19,11,4,4,11,214,22,25,0.82 
+2015,06,03,20:00,8,214,7,883,16,14,8,7,8,7,214,21,19,1.04 
+2015,06,03,20:00,214,8,14,883,16,11,8,7,8,4,214,26,16,1.42 
+2015,06,02,23:00,214,59,2,883,16,12,10,5,6,7,214,20,23,0.87 
+2015,06,02,23:00,59,214,1,883,11,16,6,9,5,7,214,26,19,1.35 
+2015,06,02,19:00,214,840,7,907,16,11,13,2,3,9,214,20,22,0.96 
+2015,06,02,19:00,840,214,14,907,23,25,9,6,6,9,214,45,34,1.27 
+2015,06,02,19:00,214,840,1,907,17,19,10,5,5,10,214,32,25,1.27 
+2015,05,31,20:15,214,59,4,908,8,16,5,10,3,6,214,14,18,0.86 
+2015,05,31,20:15,214,59,1,908,13,16,11,4,2,12,214,23,19,1.18 
+2015,05,28,22:15,214,1050,0,883,16,13,11,4,5,9,214,16,23,0.69 
+2015,05,28,22:15,214,1050,1,883,16,9,11,4,5,5,214,16,15,1.05 
+2015,05,28,20:00,270,214,14,888,13,16,7,8,6,8,214,25,22,1.06 
+2015,05,28,19:00,215,214,2,888,16,4,11,4,5,0,214,17,19,0.95 
+2015,05,27,22:30,214,215,7,888,14,16,7,8,7,8,214,25,16,1.33 
+2015,05,27,20:00,214,59,1,888,9,16,6,9,3,7,214,14,20,0.77 
+2015,05,26,21:45,214,1054,14,654,16,12,9,6,7,6,214,26,17,1.37 
+2015,05,26,21:45,214,1054,7,654,16,14,7,8,9,6,214,31,19,1.56 
+2015,05,26,20:00,214,250,0,888,10,16,8,7,2,9,214,24,17,1.30 
+2015,05,26,19:00,22,214,4,888,16,9,11,4,5,5,214,13,21,0.73 
+2015,05,25,21:00,196,214,14,888,2,16,2,13,0,3,214,27,3,2.38 
+2015,05,25,19:15,749,214,14,908,8,16,3,12,5,4,214,32,12,2.13 
+2015,05,25,19:15,749,214,4,908,10,16,9,6,1,10,214,21,17,1.15 
+2015,05,24,22:00,1062,214,4,654,3,16,3,12,0,4,214,26,13,1.83 
+2015,05,24,22:00,1062,214,0,654,11,16,7,8,4,8,214,25,18,1.32 
+2015,05,24,22:00,1062,214,1,654,16,13,7,8,9,5,214,25,23,1.15 
+2015,05,20,20:15,292,214,0,883,16,2,13,2,3,0,214,8,16,0.53 
+2015,05,19,22:30,214,711,2,888,16,8,10,5,6,3,214,27,11,1.77 
+2015,05,19,20:00,214,258,0,888,16,10,6,9,10,1,214,25,12,1.56 
+2015,05,19,18:00,214,292,7,918,16,10,13,2,3,8,214,27,18,1.43 
+2015,05,19,18:00,292,214,2,918,14,16,12,3,2,13,214,24,20,1.13 
+2015,05,18,22:15,214,1045,7,883,16,10,11,4,5,6,214,28,17,1.58 
+2015,05,18,22:15,1045,214,0,883,16,8,10,5,6,3,214,17,19,1.03 
+2015,05,18,20:20,214,13,4,888,10,16,7,8,3,8,214,24,21,1.15 
+2015,05,15,18:00,214,1054,6,918,25,23,5,10,10,5,214,40,26,1.29 
+2015,05,15,18:00,214,1054,4,918,16,6,13,2,3,4,214,13,11,1.06 
+2015,05,14,21:00,214,517,0,883,16,5,13,2,3,3,214,31,13,1.99 
+2015,05,14,21:00,517,214,4,883,10,16,6,9,4,7,214,22,15,1.30 
+2015,05,13,21:00,214,196,6,924,16,7,10,5,6,2,214,27,10,1.90 
+2015,05,13,21:00,196,214,1,924,13,16,8,7,5,9,214,17,22,0.95 
+2015,05,13,18:00,841,214,4,924,5,16,5,10,0,6,214,26,11,1.84 
+2015,05,13,18:00,841,214,14,924,6,16,3,12,3,4,214,23,11,1.68 
+2015,05,12,20:00,214,711,14,883,9,16,7,8,2,8,214,21,17,1.19 
+2015,05,12,20:00,711,214,4,883,11,16,10,5,1,11,214,18,18,0.91 
+2015,05,11,22:00,214,270,14,888,10,16,10,5,0,11,214,17,20,0.87 
+2015,05,11,20:00,214,945,7,918,16,6,10,5,6,1,214,25,10,1.71 
+2015,05,11,20:00,945,214,14,918,12,16,10,5,2,11,214,26,14,1.52 
+2015,05,07,22:30,214,59,1,888,16,12,5,10,11,2,214,19,18,0.94 
+2015,05,06,20:00,210,214,6,888,16,6,9,6,7,0,214,19,16,1.23 
+2015,05,05,22:00,214,22,6,888,6,16,2,13,4,3,214,10,15,0.69 
+2015,05,04,20:00,196,214,7,888,16,10,12,3,4,7,214,17,20,0.89 
+2015,04,22,19:00,196,292,5,593,5,16,5,10,0,6,196,15,18,0.85 
+2015,04,22,18:00,196,292,0,593,4,16,4,11,0,5,196,10,18,0.59 
+2015,04,20,21:15,384,196,6,593,7,16,6,9,1,7,196,21,12,1.35 
+2015,04,20,20:00,196,384,0,593,14,16,7,8,7,8,196,28,21,1.30 
+2015,04,19,22:00,196,215,1,593,18,21,8,7,7,8,196,17,29,0.60 
+2015,04,19,21:00,196,215,0,593,16,5,10,5,6,0,196,26,7,1.99 
+2015,04,16,21:00,676,196,6,943,14,16,6,9,8,7,196,23,19,1.17 
+2015,04,16,21:00,676,196,0,943,23,25,9,6,6,9,196,33,28,1.10 
+2015,04,06,22:15,215,196,7,947,16,3,12,3,4,0,196,11,16,0.70 
+2015,04,06,22:15,196,215,0,947,11,16,6,9,5,7,196,16,21,0.74 
+2015,03,24,21:00,22,196,0,593,16,11,8,7,8,4,196,26,20,1.27 
+2015,03,24,20:00,22,196,1,593,6,16,6,9,0,7,196,26,10,1.83 
+2015,03,18,17:00,258,196,0,952,16,8,8,7,8,1,196,21,19,1.05 
+2015,03,18,17:00,258,196,6,952,18,21,10,5,5,10,196,32,25,1.20 
+2015,03,18,17:00,258,196,1,952,16,14,8,7,8,7,196,20,24,0.86 
+2015,03,17,19:00,196,250,1,952,10,16,6,9,4,7,196,15,20,0.75 
+2015,03,17,19:00,250,196,5,952,16,13,10,5,6,8,196,18,22,0.80 
+2015,03,13,17:00,210,196,7,954,16,7,12,3,4,4,196,12,21,0.53 
+2015,03,13,17:00,196,210,6,954,8,16,4,11,4,5,196,18,19,0.84 
+2015,03,12,16:50,196,1045,1,954,16,12,8,7,8,5,196,20,17,1.06 
+2015,03,12,15:30,196,711,7,954,16,4,11,4,5,0,196,17,7,1.33 
+2015,03,12,14:46,1045,196,1,954,16,3,13,2,3,1,196,17,17,1.02 
+2015,03,08,19:00,53,196,6,955,12,16,8,7,4,9,196,24,16,1.21 
+2015,03,08,19:00,53,196,1,955,13,16,8,7,5,9,196,18,17,0.91 
+2015,03,08,19:00,53,196,7,955,12,16,6,9,6,7,196,21,17,1.12 
+2015,03,07,22:20,196,384,1,955,16,5,11,4,5,1,196,29,8,2.13 
+2015,03,07,22:20,384,196,6,955,10,16,9,6,1,10,196,21,21,0.95 
+2015,01,31,18:00,196,59,1,962,9,16,5,10,4,6,196,9,18,0.55 
+2015,01,31,18:00,59,196,0,962,16,13,11,4,5,9,196,24,20,1.15 
+2015,01,31,11:00,711,196,6,962,16,0,15,0,1,0,196,8,16,0.56 
+2015,01,31,11:00,711,196,7,962,16,14,9,6,7,8,196,21,22,0.98 
+2015,01,30,18:55,8,196,0,962,9,16,7,8,2,8,196,21,16,1.20 
+2015,01,30,16:00,59,196,6,962,13,16,8,7,5,9,196,14,18,0.81 
+2015,01,21,21:45,196,59,7,964,13,16,9,6,4,10,196,15,17,0.83 
+2015,01,21,21:45,196,59,6,964,16,8,8,7,8,1,196,17,14,1.10 
+2015,01,21,21:45,59,196,0,964,22,20,9,6,6,9,196,36,30,1.14 
+2015,01,20,18:00,196,1147,0,964,11,16,8,7,3,9,196,23,19,1.36 
+2015,01,20,18:00,1147,196,1,964,19,17,7,8,8,7,196,31,23,1.25 
+2015,01,15,19:00,841,196,5,965,16,14,13,2,3,12,196,18,28,0.69 
+2015,01,15,19:00,841,196,1,965,16,6,13,2,3,4,196,12,17,0.75 
+2015,01,15,19:00,196,841,0,965,16,6,10,5,6,1,196,18,9,1.43 
+2015,01,13,20:30,297,196,6,966,13,16,8,7,5,9,196,29,17,1.39 
+2015,01,13,20:30,196,297,1,966,16,8,10,5,6,3,196,18,14,1.16 
+2015,01,13,18:00,196,13,1,966,16,6,9,6,7,0,196,25,9,1.91 
+2015,01,13,18:00,13,196,6,966,20,22,7,8,8,7,196,37,26,1.43 
+2015,01,11,15:20,712,1148,4,968,9,16,6,9,3,7,1148,22,18,1.27 
+2015,01,11,15:20,712,1148,1,968,12,16,8,7,4,9,1148,23,14,1.32 
+2015,01,11,14:15,888,1148,6,968,7,16,7,8,0,8,1148,27,12,1.80 
+2014,12,21,20:30,196,314,4,971,4,16,3,12,1,4,196,14,16,0.89 
+2014,12,21,20:30,196,314,4,971,14,16,5,10,9,6,196,18,19,0.92 
+2014,12,21,20:30,314,196,7,971,3,16,3,12,0,4,196,18,4,1.60 
+2014,12,21,17:15,196,214,0,971,16,8,9,6,7,2,196,17,14,1.08 
+2014,12,21,17:15,196,214,7,971,10,16,6,9,4,7,196,15,17,0.90 
+2014,12,21,17:15,196,214,1,971,16,12,11,4,5,8,196,20,17,1.04 
+2014,12,21,13:00,314,196,4,971,16,14,8,7,8,7,196,27,21,1.31 
+2014,12,21,13:00,314,196,0,971,16,2,13,2,3,0,196,7,17,0.40 
+2014,12,20,19:25,8,196,0,971,16,11,9,6,7,5,196,20,23,0.93 
+2014,12,20,19:25,196,8,7,971,8,16,4,11,4,5,196,16,17,1.04 
+2014,12,20,19:25,8,196,1,971,11,16,9,6,2,10,196,25,17,1.30 
+2014,12,20,17:20,196,995,0,971,16,4,11,4,5,0,196,26,10,2.02 
+2014,12,20,17:20,196,995,6,971,16,1,14,1,2,0,196,17,7,1.73 
+2014,12,20,15:15,196,1151,7,971,16,11,12,3,4,8,196,17,17,1.00 
+2014,12,20,15:15,1151,196,1,971,8,16,5,10,3,6,196,20,11,1.26 
+2014,12,19,19:30,500,214,1,971,11,16,5,10,6,6,500,12,14,0.83 
+2014,12,19,19:30,214,500,7,971,16,11,13,2,3,9,500,19,18,1.01 
+2014,12,19,19:30,214,500,4,971,13,16,8,7,5,9,500,25,16,1.33 
+2014,12,19,16:15,500,314,6,971,8,16,5,10,3,6,500,16,20,0.84 
+2014,12,19,16:15,500,314,1,971,16,9,8,7,8,2,500,17,16,0.95 
+2014,12,19,16:15,314,500,4,971,16,11,12,3,4,8,500,18,17,1.01 
+2014,12,17,19:02,500,384,6,965,5,16,5,10,0,6,500,11,15,0.70 
+2014,12,17,19:00,500,384,1,965,13,16,8,7,5,9,500,25,19,1.34 
+2014,12,13,18:05,214,500,0,978,3,16,3,12,0,4,500,21,9,1.73 
+2014,12,13,18:05,500,214,1,978,12,16,7,8,5,8,500,17,19,0.89 
+2014,12,13,18:05,500,214,4,978,21,18,6,9,9,6,500,35,25,1.31 
+2014,12,13,13:15,500,1151,6,978,16,9,9,6,7,3,500,30,16,1.78 
+2014,12,13,13:15,500,1151,1,978,16,3,12,3,4,0,500,21,8,1.85 
+2014,11,27,22:35,500,841,0,983,13,16,6,9,7,7,500,17,22,0.73 
+2014,11,27,20:15,250,500,4,983,16,2,13,2,3,0,500,7,17,0.37 
+2014,11,24,20:30,500,384,5,984,12,16,6,9,6,7,500,16,18,0.87 
+2014,11,24,20:30,500,384,6,984,11,16,9,6,2,10,500,9,18,0.58 
+2014,11,24,18:30,500,287,5,984,16,3,13,2,3,1,500,12,7,1.17 
+2014,11,24,17:55,500,287,1,984,16,9,8,7,8,2,500,20,17,1.03 
+2014,11,12,18:00,500,257,0,991,12,16,6,9,6,7,500,24,19,1.16 
+2014,11,12,18:00,500,257,1,991,14,16,9,6,5,10,500,18,17,0.93 
+2014,11,11,18:15,250,500,1,991,16,5,13,2,3,3,500,13,19,0.68 
+2014,11,10,20:30,544,500,1,978,8,16,4,11,4,5,500,26,12,1.65 
+2014,11,10,19:10,995,500,5,978,5,16,4,11,1,5,500,22,11,1.60 
+2014,10,30,18:00,8,500,5,998,16,5,14,1,2,4,500,10,20,0.49 
+2014,10,30,16:30,500,278,5,998,16,3,12,3,4,0,500,13,10,0.99 
+2014,10,30,13:00,500,869,0,998,16,6,11,4,5,2,500,18,12,1.45 
+2014,10,30,11:50,500,301,4,998,9,16,6,9,3,7,500,20,19,1.03 
+2014,10,30,09:55,500,257,6,998,10,16,5,10,5,6,500,14,20,0.75 
+2014,10,21,23:00,500,13,1,1002,16,5,10,5,6,0,500,26,10,1.79 
+2014,10,21,23:00,500,13,6,1002,16,4,13,2,3,2,500,18,12,1.31 
+2014,10,21,18:00,500,214,4,1002,16,9,13,2,3,7,500,24,13,1.38 
+2014,10,21,18:00,500,214,0,1002,16,14,7,8,9,6,500,20,19,0.98 
+2014,10,19,21:00,500,1037,6,1005,16,9,7,8,9,1,500,17,14,1.07 
+2014,09,28,20:40,500,297,6,1023,16,7,10,5,6,2,500,16,14,1.03 
+2014,09,28,20:40,500,297,0,1023,16,7,9,6,7,1,500,14,12,0.95 
+2014,09,28,18:00,1201,500,6,1023,12,16,9,6,3,10,500,29,18,1.43 
+2014,09,17,21:20,1106,500,5,1026,16,14,8,7,8,7,500,22,19,1.05 
+2014,09,17,20:00,500,1149,5,1026,14,16,10,5,4,11,500,26,22,1.15 
+2014,09,16,21:15,59,500,0,1026,22,19,9,6,6,9,500,30,31,0.99 
+2014,09,06,18:00,214,500,0,1032,12,16,10,5,2,11,500,24,16,1.45 
+2014,09,06,18:00,500,214,6,1032,14,16,10,5,4,11,500,24,16,1.33 
+2014,09,06,18:00,214,500,1,1032,13,16,7,8,6,8,500,20,17,0.95 
+2014,09,06,13:00,500,1037,5,1032,16,5,11,4,5,1,500,23,9,1.71 
+2014,09,06,13:00,500,1037,1,1032,16,12,12,3,4,9,500,19,15,1.15 
+2014,08,04,20:40,500,49,1,1032,16,8,10,5,6,3,500,9,16,0.63 
+2014,08,04,19:00,1221,500,6,1032,12,16,6,9,6,7,500,20,18,1.05 
+2014,07,27,13:00,500,215,0,1050,22,26,10,5,5,10,500,34,33,0.96 
+2014,07,27,13:00,500,215,6,1050,10,16,7,8,3,8,500,13,20,0.67 
+2014,07,26,18:00,500,1226,1,1050,16,2,13,2,3,0,500,17,5,1.86 
+2014,07,26,18:00,500,1226,6,1050,16,7,10,5,6,2,500,16,9,1.31 
+2014,07,26,15:45,500,1052,6,1050,13,16,8,7,5,9,500,24,21,1.18 
+2014,07,26,15:45,1052,500,5,1050,16,11,10,5,6,6,500,18,20,0.88 
+2014,07,19,11:50,301,500,6,1052,16,10,11,4,5,6,500,17,21,0.81 
+2014,07,19,11:50,301,500,1,1052,16,12,10,5,6,7,500,25,19,1.44 
+2014,07,19,11:50,301,500,5,1052,14,16,12,3,2,13,500,21,19,1.08 
+2014,07,18,16:15,500,1228,0,1052,16,13,6,9,10,4,500,29,20,1.57 
+2014,07,18,14:00,500,59,5,1052,14,16,9,6,5,10,500,19,21,0.83 
+2014,07,18,12:25,500,1228,5,1052,16,2,13,2,3,0,500,20,8,1.67 

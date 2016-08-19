@@ -1,0 +1,78 @@
+2016,07,14,20:00,mousesports,G2,overpass,ELEAGUE Season 1,19,17,10,5,5,10,G2,24,28,0.82 
+2016,07,14,20:00,G2,mousesports,cache,ELEAGUE Season 1,25,22,4,11,11,4,G2,36,30,1.08 
+2016,07,14,20:00,mousesports,G2,dust2,ELEAGUE Season 1,16,9,11,4,5,5,G2,14,19,0.85 
+2016,07,06,20:35,G2,fnatic,train,ESL One Cologne 2016,13,16,7,8,6,8,G2,14,21,0.69 
+2016,07,05,18:45,SK,G2,cobblestone,ESL One Cologne 2016,16,11,7,8,9,3,G2,13,22,0.57 
+2016,06,26,21:00,Luminosity,G2,overpass,ECS Season 1 Finals,5,16,4,11,1,5,G2,20,13,1.30 
+2016,06,26,21:00,G2,Luminosity,dust2,ECS Season 1 Finals,16,11,8,7,8,4,G2,26,16,1.33 
+2016,06,26,13:00,fnatic,G2,dust2,ECS Season 1 Finals,13,16,9,6,4,10,G2,11,18,0.71 
+2016,06,26,13:00,fnatic,G2,overpass,ECS Season 1 Finals,2,16,2,13,0,3,G2,13,9,1.14 
+2016,06,25,18:05,G2,Liquid,nuke,ECS Season 1 Finals,16,11,11,4,5,7,G2,10,15,0.76 
+2016,06,25,18:05,Liquid,G2,dust2,ECS Season 1 Finals,6,16,5,10,1,6,G2,14,14,0.85 
+2016,06,25,18:05,Liquid,G2,cobblestone,ECS Season 1 Finals,16,12,6,9,10,3,G2,14,20,0.73 
+2016,06,25,12:15,NiP,G2,dust2,ECS Season 1 Finals,10,16,4,11,6,5,G2,17,19,0.86 
+2016,06,25,12:15,NiP,G2,cache,ECS Season 1 Finals,4,16,3,12,1,4,G2,9,10,0.81 
+2016,06,24,14:45,G2,Liquid,cobblestone,ECS Season 1 Finals,6,16,6,9,0,7,G2,11,18,0.67 
+2016,06,12,23:20,Cloud9,G2,cache,ESL One Cologne 2016 Main Qual..,8,16,8,7,0,9,G2,13,13,0.92 
+2016,06,12,19:45,G2,Gambit,train,ESL One Cologne 2016 Main Qual..,10,16,6,9,4,7,G2,17,21,0.86 
+2016,06,11,20:15,mousesports,G2,dust2,ESL One Cologne 2016 Main Qual..,16,1,14,1,2,0,G2,5,16,0.29 
+2016,06,10,18:00,G2,HellRaisers,dust2,ESL One Cologne 2016 Main Qual..,16,8,13,2,3,6,G2,9,18,0.52 
+2016,06,09,22:15,TyLoo,G2,cache,ESL One Cologne 2016 Main Qual..,9,16,8,7,1,9,G2,17,16,1.09 
+2016,06,04,04:00,G2,NiP,train,ELEAGUE Season 1,3,16,3,12,0,4,G2,12,19,0.59 
+2016,06,04,04:00,G2,NiP,cache,ELEAGUE Season 1,9,16,5,10,4,6,G2,21,18,1.12 
+2016,06,02,20:00,Selfless,G2,train,ELEAGUE Season 1,8,16,5,10,3,6,G2,15,14,0.93 
+2016,06,02,20:00,G2,Selfless,cache,ELEAGUE Season 1,16,2,13,2,3,0,G2,14,9,1.12 
+2016,06,01,19:15,G2,OpTic,nuke,ELEAGUE Season 1,16,4,13,2,3,2,G2,12,13,0.93 
+2016,06,01,18:10,OpTic,G2,train,ELEAGUE Season 1,14,16,4,11,10,5,G2,22,21,0.97 
+2016,05,31,23:55,NiP,G2,dust2,ELEAGUE Season 1,12,16,5,10,7,6,G2,18,18,0.95 
+2016,05,31,23:00,G2,NiP,train,ELEAGUE Season 1,16,9,10,5,6,4,G2,22,18,1.22 
+2016,05,31,21:45,G2,Selfless,cobblestone,ELEAGUE Season 1,16,12,7,8,9,4,G2,15,15,0.89 
+2016,05,31,20:25,Selfless,G2,cache,ELEAGUE Season 1,12,16,5,10,7,6,G2,16,19,0.88 
+2016,05,15,18:00,G2,Luminosity,inferno,ESL Pro League Season 3 Finals,16,19,8,7,7,8,G2,16,27,0.65 
+2016,05,15,18:00,Luminosity,G2,dust2,ESL Pro League Season 3 Finals,16,11,6,9,10,2,G2,15,22,0.77 
+2016,05,15,18:00,G2,Luminosity,cobblestone,ESL Pro League Season 3 Finals,16,10,7,8,9,2,G2,20,15,1.12 
+2016,05,15,18:00,Luminosity,G2,train,ESL Pro League Season 3 Finals,16,13,11,4,5,9,G2,16,23,0.75 
+2016,05,15,18:00,G2,Luminosity,overpass,ESL Pro League Season 3 Finals,16,10,9,6,7,4,G2,17,18,0.93 
+2016,05,14,19:40,G2,fnatic,train,ESL Pro League Season 3 Finals,16,12,9,6,7,6,G2,19,17,1.05 
+2016,05,14,19:40,G2,fnatic,cache,ESL Pro League Season 3 Finals,16,8,11,4,5,4,G2,15,14,1.01 
+2016,05,14,19:40,G2,fnatic,inferno,ESL Pro League Season 3 Finals,14,16,13,2,1,14,G2,11,19,0.64 
+2016,05,11,19:35,G2,OpTic,cobblestone,ESL Pro League Season 3 Finals,16,7,9,6,7,1,G2,20,13,1.38 
+2016,05,11,15:30,Luminosity,G2,train,ESL Pro League Season 3 Finals,12,16,11,4,1,12,G2,17,16,1.00 
+2016,04,13,12:45,GODSENT,G2,train,DreamHack Masters Malmö 2016,16,8,7,8,9,0,G2,16,20,0.91 
+2016,04,12,15:30,G2,CLG,dust2,DreamHack Masters Malmö 2016,2,16,2,13,0,3,G2,12,16,0.84 
+2016,02,12,18:00,ALTERNATEaTTaX,LDLCWhite,mirage,Acer Predator Masters powered ..,16,10,11,4,5,6,LDLC White,17,19,0.88 
+2016,02,12,18:00,ALTERNATEaTTaX,LDLCWhite,cobblestone,Acer Predator Masters powered ..,7,16,6,9,1,7,LDLC White,20,13,1.31 
+2016,02,12,18:00,LDLCWhite,ALTERNATEaTTaX,cache,Acer Predator Masters powered ..,16,21,6,9,9,6,LDLC White,29,28,1.03 
+2016,02,11,19:00,mousesports,LDLCWhite,cobblestone,Acer Predator Masters powered ..,16,13,8,7,8,6,LDLC White,17,19,0.87 
+2016,02,11,19:00,mousesports,LDLCWhite,dust2,Acer Predator Masters powered ..,21,18,5,10,10,5,LDLC White,20,31,0.67 
+2016,02,06,21:30,LDLCWhite,ENCE,cache,Assembly Winter 2016,16,7,11,4,5,3,LDLC White,20,11,1.38 
+2016,02,06,21:30,LDLCWhite,ENCE,dust2,Assembly Winter 2016,16,10,7,8,9,2,LDLC White,26,10,1.72 
+2016,02,06,13:00,LDLCWhite,LDLCBlue,mirage,Assembly Winter 2016,16,9,9,6,7,3,LDLC White,20,11,1.47 
+2016,02,06,13:00,LDLCBlue,LDLCWhite,cobblestone,Assembly Winter 2016,2,16,2,13,0,3,LDLC White,19,7,1.67 
+2016,02,05,21:45,EpiphanyBolt,LDLCWhite,inferno,Assembly Winter 2016,13,16,9,6,4,10,LDLC White,22,20,1.11 
+2016,02,05,21:45,EpiphanyBolt,LDLCWhite,dust2,Assembly Winter 2016,1,16,1,14,0,2,LDLC White,21,9,1.86 
+2016,02,05,17:00,ENCE,LDLCWhite,cobblestone,Assembly Winter 2016,16,14,6,9,10,5,LDLC White,15,22,0.69 
+2016,02,05,15:00,EpiphanyBolt,LDLCWhite,cobblestone,Assembly Winter 2016,14,16,6,9,8,7,LDLC White,23,20,1.13 
+2016,01,29,15:15,CG,LDLCWhite,cache,PGL Regional Minor Championshi..,16,13,10,5,6,8,LDLC White,20,23,0.84 
+2016,01,29,13:30,LDLCWhite,PENTA,cache,PGL Regional Minor Championshi..,13,16,9,6,4,10,LDLC White,15,19,0.79 
+2015,07,10,19:00,NiP,LDLCWhite,cache,ESWC 2015,16,8,11,4,5,4,LDLC White,15,18,0.92 
+2015,07,10,17:30,LDLCWhite,QeeYou,inferno,ESWC 2015,13,16,8,7,5,9,LDLC White,15,20,0.85 
+2015,07,10,16:00,LDLCWhite,Liquid,train,ESWC 2015,13,16,4,11,9,5,LDLC White,15,23,0.68 
+2015,05,09,22:30,HellRaisers,LDLCWhite,cache,DreamHack Open Tours 2015,16,14,8,7,8,7,LDLC White,21,22,0.96 
+2015,05,09,20:30,LDLCWhite,EnVyUs,inferno,DreamHack Open Tours 2015,22,25,5,10,10,5,LDLC White,31,35,0.87 
+2015,05,09,10:00,LDLCWhite,Awsomniac,cobblestone,DreamHack Open Tours 2015 BYOC..,16,14,10,5,6,9,LDLC White,24,19,1.24 
+2015,05,08,20:30,LDLCBlue,LDLCWhite,cobblestone,DreamHack Open Tours 2015 BYOC..,8,16,7,8,1,8,LDLC White,22,15,1.27 
+2015,05,08,19:35,LDLCWhite,beGenius,cache,DreamHack Open Tours 2015 BYOC..,16,9,7,8,9,1,LDLC White,25,14,1.61 
+2014,10,31,16:30,CPHWolves,Platinium,inferno,ESWC 2014,16,6,10,5,6,1,Platinium,7,20,0.37 
+2014,10,31,14:30,KaBuM.TD,Platinium,dust2,ESWC 2014,16,12,10,5,6,7,Platinium,21,17,1.18 
+2014,10,31,12:50,Platinium,NiP,cobblestone,ESWC 2014,16,10,8,7,8,3,Platinium,16,17,0.93 
+2014,10,31,11:30,Platinium,Titan,mirage,ESWC 2014,8,16,8,7,0,9,Platinium,11,18,0.64 
+2014,10,31,09:45,HellRaisers,Platinium,dust2,ESWC 2014,16,12,6,9,10,3,Platinium,17,20,0.86 
+2014,10,29,13:55,LDLC,Platinium,dust2,ESWC 2014 France,16,2,14,1,2,1,Platinium,13,18,0.73 
+2014,10,29,11:35,Platinium,iGamerz,mirage,ESWC 2014 France,16,9,13,2,3,7,Platinium,19,13,1.26 
+2014,10,29,09:30,Platinium,LDLC,inferno,ESWC 2014 France,13,16,9,6,4,10,Platinium,15,22,0.71 
+2014,07,19,11:15,Platinium,k1ck,nuke,DreamHack Valencia 2014,20,22,10,5,5,10,Platinium,27,32,0.94 
+2014,07,19,11:15,Platinium,k1ck,dust2,DreamHack Valencia 2014,14,16,8,7,6,9,Platinium,23,23,0.95 
+2014,07,19,11:15,Platinium,k1ck,inferno,DreamHack Valencia 2014,16,6,10,5,6,1,Platinium,20,9,1.48 
+2014,07,18,22:30,gBots,Platinium,dust2,DreamHack Valencia 2014,6,16,4,11,2,5,Platinium,12,13,0.90 
+2014,07,18,20:25,Epsilon,Platinium,inferno,DreamHack Valencia 2014,16,13,10,5,6,8,Platinium,18,20,0.89 

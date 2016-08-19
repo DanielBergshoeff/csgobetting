@@ -1,0 +1,5 @@
+2015,11,13,19:20,KoNNorway,KoNSweden,cache,King of Nordic Season 2,10,16,3,12,7,4,KoN Norway,16,22,0.86 
+2015,04,02,21:40,no_rhythm,partyastronauts,cache,Copenhagen Games 2015,16,10,11,4,5,6,partyastronauts,15,20,0.85 
+2015,04,02,19:00,myKPV,partyastronauts,inferno,Copenhagen Games 2015,16,4,12,3,4,1,partyastronauts,12,15,0.85 
+2015,04,02,17:00,partyastronauts,eSpuma,nuke,Copenhagen Games 2015,16,1,14,1,2,0,partyastronauts,14,11,1.21 
+2015,04,02,14:00,eSpuma,partyastronauts,inferno,Copenhagen Games 2015,16,7,11,4,5,3,partyastronauts,11,19,0.64 

@@ -1,0 +1,9 @@
+2015,05,22,18:00,EZPZ_LS,mesport.hu,cache,Balkan Championship Season 2,16,8,13,2,3,6,mesport.hu,7,20,0.40 
+2015,05,22,18:00,mesport.hu,EZPZ_LS,inferno,Balkan Championship Season 2,7,16,6,9,1,7,mesport.hu,11,18,0.63 
+2015,05,21,20:00,H2B,mesport.hu,cache,Balkan Championship Season 2,16,9,8,7,8,2,mesport.hu,10,21,0.51 
+2015,05,21,20:00,H2B,mesport.hu,dust2,Balkan Championship Season 2,16,7,12,3,4,4,mesport.hu,17,18,0.90 
+2015,05,21,20:00,H2B,mesport.hu,mirage,Balkan Championship Season 2,14,16,12,3,2,13,mesport.hu,22,23,1.02 
+2014,12,13,20:00,GPlay,WiLD,inferno,South East Europe Championship,16,10,11,4,5,6,WiLD,16,18,0.82 
+2014,12,13,20:00,GPlay,WiLD,mirage,South East Europe Championship,16,12,7,8,9,4,WiLD,12,20,0.63 
+2014,12,13,20:00,GPlay,WiLD,dust2,South East Europe Championship,14,16,10,5,4,11,WiLD,19,19,0.98 
+2014,09,28,18:00,Orbit,ZYLEX,mirage,Fragbite Masters Season 3 Qual..,16,13,10,5,6,8,ZYLEX,13,21,0.74 

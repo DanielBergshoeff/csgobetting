@@ -1,0 +1,8 @@
+2016,07,25,12:00,AC-130,MVP.karnal,cache,MixBOT Pro-League Golden,16,8,8,7,8,1,AC-130,17,17,0.97 
+2016,07,25,12:00,MVP.karnal,AC-130,mirage,MixBOT Pro-League Golden,6,16,2,13,4,3,AC-130,20,10,1.44 
+2016,07,22,15:00,AC-130,EDG,cobblestone,MixBOT Pro-League Golden,16,8,10,5,6,3,AC-130,21,12,1.38 
+2016,07,22,15:00,EDG,AC-130,mirage,MixBOT Pro-League Golden,16,9,11,4,5,5,AC-130,13,22,0.60 
+2016,07,22,15:00,EDG,AC-130,cache,MixBOT Pro-League Golden,11,16,7,8,4,8,AC-130,17,16,1.01 
+2016,06,17,15:10,Nface,AC-130,cache,MixBOT Pro-League Golden,16,10,7,8,9,2,AC-130,15,20,0.74 
+2016,06,17,15:10,AC-130,Nface,overpass,MixBOT Pro-League Golden,16,4,11,4,5,0,AC-130,13,11,1.03 
+2016,06,17,15:10,Nface,AC-130,nuke,MixBOT Pro-League Golden,16,5,11,4,5,1,AC-130,12,17,0.69 

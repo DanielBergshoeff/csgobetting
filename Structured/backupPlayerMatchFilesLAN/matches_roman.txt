@@ -1,0 +1,16 @@
+2016,06,11,13:00,Renegades,FluffyGangsters,mirage,ESL One Cologne 2016 Main Qual..,16,11,11,4,5,7,Fluffy Gangsters,16,19,0.80 
+2016,06,10,13:00,FluffyGangsters,OpTic,train,ESL One Cologne 2016 Main Qual..,9,16,6,9,3,7,Fluffy Gangsters,6,21,0.40 
+2016,06,09,16:55,FluffyGangsters,mousesports,dust2,ESL One Cologne 2016 Main Qual..,16,19,8,7,7,8,Fluffy Gangsters,19,25,0.80 
+2016,05,01,19:45,Empire,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,12,16,6,9,6,7,Fluffy Gangsters,17,17,0.89 
+2016,05,01,19:45,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,16,11,6,9,10,2,Fluffy Gangsters,21,16,1.09 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,16,11,7,8,9,3,Fluffy Gangsters,20,13,1.21 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,dust2,StarLadder Minor CIS - Cologne..,16,14,7,8,9,6,Fluffy Gangsters,16,18,0.91 
+2016,04,30,20:30,FluffyGangsters,Empire,train,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Fluffy Gangsters,12,22,0.57 
+2016,04,30,20:30,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,6,16,2,13,4,3,Fluffy Gangsters,13,18,0.88 
+2016,04,30,20:30,Empire,FluffyGangsters,dust2,StarLadder Minor CIS - Cologne..,3,16,3,12,0,4,Fluffy Gangsters,9,9,0.92 
+2016,04,30,13:00,ANOX,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,15,19,8,7,7,8,Fluffy Gangsters,20,21,0.89 
+2016,04,30,13:00,FluffyGangsters,ANOX,cobblestone,StarLadder Minor CIS - Cologne..,9,16,8,7,1,9,Fluffy Gangsters,10,20,0.66 
+2016,04,30,13:00,ANOX,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,3,16,2,13,1,3,Fluffy Gangsters,12,8,1.06 
+2016,04,28,15:30,FluffyGangsters,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,9,12,3,4,6,Fluffy Gangsters,15,13,1.01 
+2016,04,28,15:30,DigitalWave,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,10,16,3,12,7,4,Fluffy Gangsters,15,16,0.91 
+2016,04,28,11:55,Arcade,FluffyGangsters,train,StarLadder Minor CIS - Cologne..,13,16,7,8,6,8,Fluffy Gangsters,17,17,0.97 

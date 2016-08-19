@@ -1,0 +1,14 @@
+2014,10,05,17:35,fAlsu'steam,naSu'steam,cache,Areena #6 by ROCCAT,14,16,8,7,6,9,fAlsu's team,16,21,0.79 
+2014,10,05,16:45,juho'steam,fAlsu'steam,inferno,Areena #6 by ROCCAT,16,3,13,2,3,1,fAlsu's team,7,17,0.45 
+2014,10,05,14:30,fAlsu'steam,KIPSIk'steam,dust2,Areena #6 by ROCCAT,16,12,12,3,4,9,fAlsu's team,19,21,0.90 
+2014,10,05,13:20,fAlsu'steam,juho'steam,inferno,Areena #6 by ROCCAT,14,16,7,8,7,8,fAlsu's team,13,20,0.69 
+2014,10,05,12:20,fAlsu'steam,naSu'steam,dust2,Areena #6 by ROCCAT,16,13,8,7,8,6,fAlsu's team,17,20,0.84 
+2014,10,05,11:25,osku'steam,fAlsu'steam,dust2,Areena #6 by ROCCAT,11,16,7,8,4,8,fAlsu's team,9,19,0.56 
+2014,10,05,10:25,sAw'steam,fAlsu'steam,dust2,Areena #6 by ROCCAT,16,10,9,6,7,4,fAlsu's team,13,20,0.74 
+2014,10,05,09:35,fAlsu'steam,Twista'steam,dust2,Areena #6 by ROCCAT,16,6,10,5,6,1,fAlsu's team,13,11,1.03 
+2014,06,28,14:05,suNny'steam,Twista'steam,mirage,Areena #4 by SteelSeries,16,3,13,2,3,1,Twista's team,10,17,0.56 
+2014,06,28,12:40,Twista'steam,allu'steam,train,Areena #4 by SteelSeries,16,4,14,1,2,3,Twista's team,10,9,0.95 
+2014,06,28,11:45,Twista'steam,KIPSIk'steam,mirage,Areena #4 by SteelSeries,15,15,10,5,5,10,Twista's team,13,22,0.64 
+2014,06,28,11:15,Twista'steam,shaker'steam,train,Areena #4 by SteelSeries,16,2,13,2,3,0,Twista's team,8,6,0.98 
+2014,06,28,10:25,Twista'steam,duffman'steam,dust2,Areena #4 by SteelSeries,3,16,3,12,0,4,Twista's team,6,18,0.31 
+2014,06,28,09:50,Twista'steam,dRiim'steam,dust2,Areena #4 by SteelSeries,5,16,2,13,3,3,Twista's team,15,17,0.89 

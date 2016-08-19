@@ -1,0 +1,12 @@
+2014,06,15,22:15,FlipSid3,NatusVincere,dust2,DreamHack Summer 2014,5,16,5,10,0,6,FlipSid3,8,17,0.50 
+2014,06,15,21:20,Lemondogs,FlipSid3,dust2,DreamHack Summer 2014,16,1,14,1,2,0,FlipSid3,6,17,0.36 
+2014,06,15,20:00,FlipSid3,NatusVincere,dust2,DreamHack Summer 2014,16,14,7,8,9,6,FlipSid3,14,19,0.73 
+2014,06,15,10:00,FlipSid3,fnatic,inferno,ESPORTSM 2013/2014 Finals,10,16,7,8,3,8,FlipSid3,17,16,1.06 
+2014,06,15,10:00,fnatic,FlipSid3,mirage,ESPORTSM 2013/2014 Finals,16,10,9,6,7,4,FlipSid3,12,19,0.69 
+2014,05,05,19:00,Nostalgie,FlipSid3,dust2,SLTV ProSeries IX,16,9,8,7,8,2,FlipSid3,11,19,0.68 
+2014,05,05,19:00,FlipSid3,Nostalgie,inferno,SLTV ProSeries IX,14,16,6,9,8,7,FlipSid3,16,16,0.96 
+2014,05,05,19:00,FlipSid3,Nostalgie,mirage,SLTV ProSeries IX,16,8,10,5,6,3,FlipSid3,20,14,1.25 
+2014,04,29,20:30,FlipSid3,GGWP.pro,dust2,SLTV ProSeries IX,6,16,2,13,4,3,FlipSid3,6,16,0.48 
+2014,04,29,20:30,FlipSid3,GGWP.pro,inferno,SLTV ProSeries IX,14,16,7,8,7,8,FlipSid3,21,18,1.05 
+2014,04,28,20:45,tmUragan,FlipSid3,train,SLTV ProSeries IX,10,16,10,5,0,11,FlipSid3,15,10,1.12 
+2014,04,28,20:45,FlipSid3,tmUragan,inferno,SLTV ProSeries IX,16,3,12,3,4,0,FlipSid3,20,5,1.76 

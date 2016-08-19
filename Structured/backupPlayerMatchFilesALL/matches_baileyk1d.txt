@@ -1,0 +1,2 @@
+2016,08,11,12:30,GlobalSanction,Fragzone,cache,ESEA Open Season 22 Oceania,22,19,10,5,5,10,Fragzone,25,26,0.99 
+2016,08,11,12:30,Fragzone,GlobalSanction,train,ESEA Open Season 22 Oceania,13,16,8,7,5,9,Fragzone,18,20,1.01 

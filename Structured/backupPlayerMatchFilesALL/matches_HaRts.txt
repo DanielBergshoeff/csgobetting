@@ -1,0 +1,18 @@
+2016,05,08,20:15,Millenium,Alpha,mirage,xfunction Challenge,8,16,3,12,5,4,Millenium,20,18,1.19 
+2016,05,03,22:55,Millenium,ExoticIsland,inferno,xfunction Challenge,16,13,13,2,3,11,Millenium,13,19,0.72 
+2016,05,01,15:00,ENCE,Millenium,dust2,DreamHack Regional Minor Champ..,16,3,13,2,3,1,Millenium,6,18,0.34 
+2016,05,01,15:00,ENCE,Millenium,cache,DreamHack Regional Minor Champ..,16,4,11,4,5,0,Millenium,5,19,0.25 
+2016,04,30,18:50,Tricked,Millenium,mirage,DreamHack Regional Minor Champ..,8,16,6,9,2,7,Millenium,13,11,1.04 
+2016,03,28,10:00,LDLCBlue,Millenium,inferno,Gamers Assembly 2016,12,16,12,3,0,13,Millenium,7,18,0.50 
+2016,03,27,18:50,Millenium,Platinium,dust2,Gamers Assembly 2016,16,14,7,8,9,6,Millenium,11,18,0.67 
+2016,03,27,18:50,Millenium,Platinium,mirage,Gamers Assembly 2016,16,6,10,5,6,1,Millenium,7,13,0.63 
+2016,03,27,14:00,LDLCBlue,Millenium,dust2,Gamers Assembly 2016,14,16,6,9,8,7,Millenium,16,17,0.97 
+2016,03,27,14:00,LDLCBlue,Millenium,overpass,Gamers Assembly 2016,10,16,3,12,7,4,Millenium,11,13,0.85 
+2016,02,05,17:00,EpiphanyBolt,Millenium,dust2,Assembly Winter 2016,16,12,9,6,7,6,Millenium,17,18,0.92 
+2016,02,05,15:30,Millenium,ENCE,dust2,Assembly Winter 2016,12,16,2,13,10,3,Millenium,16,22,0.92 
+2014,09,28,21:31,iGamerz,Bizounours,dust2,ESWC 2014 France Vakarm.net pr..,16,8,8,7,8,1,Bizounours,14,23,0.62 
+2014,09,28,21:00,Bizounours,iGamerz,mirage,ESWC 2014 France Vakarm.net pr..,7,16,7,8,0,8,Bizounours,14,15,0.87 
+2014,04,25,22:00,NatusVincere,Clan-Mystik,dust2,E-sport-bets.com 3rd Anniversa..,16,10,5,10,11,0,Clan-Mystik,13,19,0.67 
+2014,04,25,19:30,Clan-Mystik,LGB,dust2,E-sport-bets.com 3rd Anniversa..,13,16,6,9,7,7,Clan-Mystik,19,22,0.86 
+2014,04,22,20:00,Clan-Mystik,dignitas,mirage,Gfinity Alienware Pro League S..,7,16,7,8,0,8,Clan-Mystik,8,20,0.45 
+2014,04,22,20:00,dignitas,Clan-Mystik,nuke,Gfinity Alienware Pro League S..,16,8,12,3,4,5,Clan-Mystik,13,19,0.72 

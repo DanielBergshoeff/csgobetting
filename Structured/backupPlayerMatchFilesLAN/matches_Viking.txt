@@ -1,0 +1,12 @@
+2016,07,30,21:35,xTc,DamageControl,cobblestone,ESWC 2016 South African Qualif..,13,16,4,11,9,5,xTc,19,17,1.01 
+2016,07,30,21:35,xTc,DamageControl,cache,ESWC 2016 South African Qualif..,3,16,3,12,0,4,xTc,7,17,0.39 
+2016,07,29,21:45,xTc,Curiosity,train,ESWC 2016 South African Qualif..,16,10,10,5,6,5,xTc,23,16,1.23 
+2016,07,29,21:45,xTc,Curiosity,cobblestone,ESWC 2016 South African Qualif..,20,22,4,11,11,4,xTc,33,25,1.15 
+2016,07,29,21:45,Curiosity,xTc,cache,ESWC 2016 South African Qualif..,6,16,3,12,3,4,xTc,20,11,1.38 
+2016,07,29,14:00,xTc,WhiteRabbit,mirage,ESWC 2016 South African Qualif..,16,11,13,2,3,9,xTc,21,17,1.15 
+2016,07,29,14:00,xTc,WhiteRabbit,dust2,ESWC 2016 South African Qualif..,12,16,7,8,5,8,xTc,14,20,0.71 
+2016,07,29,14:00,WhiteRabbit,xTc,cache,ESWC 2016 South African Qualif..,6,16,5,10,1,6,xTc,19,12,1.28 
+2015,12,12,15:00,onlineBots,xTc,overpass,BHG CS:GO Tournament,5,16,5,10,0,6,xTc,17,10,1.24 
+2015,12,12,15:00,xTc,onlineBots,cache,BHG CS:GO Tournament,16,0,15,0,1,0,xTc,17,7,1.56 
+2015,12,12,13:30,Aperture,xTc,cobblestone,BHG CS:GO Tournament,16,9,8,7,8,2,xTc,19,19,0.97 
+2015,12,12,13:30,xTc,Aperture,inferno,BHG CS:GO Tournament,4,16,4,11,0,5,xTc,11,16,0.68 

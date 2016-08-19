@@ -1,0 +1,2 @@
+2014,07,18,14:00,Hybrid,Anima,train,DreamHack Valencia 2014,22,20,9,6,6,9,Anima,31,33,0.93 
+2014,07,18,11:10,HellRaisers,Anima,inferno,DreamHack Valencia 2014,16,2,13,2,3,0,Anima,12,18,0.69 

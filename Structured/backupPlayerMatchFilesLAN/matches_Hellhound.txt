@@ -1,0 +1,17 @@
+2016,07,31,14:45,carboN,DamageControl,cache,ESWC 2016 South African Qualif..,16,9,9,6,7,3,Damage Control,19,23,0.91 
+2016,07,31,14:45,DamageControl,carboN,dust2,ESWC 2016 South African Qualif..,16,14,5,10,11,4,Damage Control,20,16,0.96 
+2016,07,31,14:45,DamageControl,carboN,train,ESWC 2016 South African Qualif..,3,16,3,12,0,4,Damage Control,2,17,0.20 
+2016,07,30,21:35,xTc,DamageControl,cobblestone,ESWC 2016 South African Qualif..,13,16,4,11,9,5,Damage Control,22,20,1.03 
+2016,07,30,21:35,xTc,DamageControl,cache,ESWC 2016 South African Qualif..,3,16,3,12,0,4,Damage Control,28,10,2.08 
+2015,12,12,19:00,PixelHunters,Imagination,cache,BHG CS:GO Tournament,2,16,2,13,0,3,Imagination,22,10,1.87 
+2015,12,12,11:45,Imagination,Ventus,mirage,BHG CS:GO Tournament,16,13,13,2,3,11,Imagination,29,20,1.47 
+2015,12,12,11:45,Imagination,Ventus,cobblestone,BHG CS:GO Tournament,13,16,7,8,6,8,Imagination,21,21,1.07 
+2015,12,12,11:45,Ventus,Imagination,cache,BHG CS:GO Tournament,5,16,3,12,2,4,Imagination,20,11,1.52 
+2015,12,12,09:00,UbS,Imagination,cache,BHG CS:GO Tournament,4,16,2,13,2,3,Imagination,15,15,1.00 
+2015,12,12,09:00,Imagination,UbS,mirage,BHG CS:GO Tournament,16,10,9,6,7,4,Imagination,22,15,1.23 
+2014,10,11,20:45,eNergy,DamageControl,mirage,Telkom Gaming CS:GO Championsh..,19,22,10,5,5,10,Damage Control,23,28,0.85 
+2014,10,11,20:45,DamageControl,eNergy,dust2,Telkom Gaming CS:GO Championsh..,16,7,12,3,4,4,Damage Control,21,10,1.68 
+2014,10,11,20:45,eNergy,DamageControl,cache,Telkom Gaming CS:GO Championsh..,16,3,12,3,4,0,Damage Control,10,18,0.60 
+2014,10,11,17:00,In-Finity,DamageControl,mirage,Telkom Gaming CS:GO Championsh..,16,11,8,7,8,4,Damage Control,25,17,1.36 
+2014,10,11,17:00,DamageControl,In-Finity,dust2,Telkom Gaming CS:GO Championsh..,16,5,10,5,6,0,Damage Control,23,8,1.70 
+2014,10,11,17:00,In-Finity,DamageControl,cache,Telkom Gaming CS:GO Championsh..,16,11,10,5,6,6,Damage Control,16,18,0.90 

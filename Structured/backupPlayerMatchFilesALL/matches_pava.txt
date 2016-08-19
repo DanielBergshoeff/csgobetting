@@ -1,0 +1,36 @@
+2016,08,12,01:40,2Kill,g3x,cache,ESEA Open Season 22 Brazil,8,16,7,8,1,8,g3x,18,11,1.31 
+2016,08,12,01:40,2Kill,g3x,train,ESEA Open Season 22 Brazil,7,16,6,9,1,7,g3x,20,11,1.30 
+2016,08,09,02:00,IDM,g3x,dust2,ESEA Open Season 22 Brazil,7,16,6,9,1,7,g3x,16,15,0.94 
+2016,08,09,02:00,g3x,IDM,mirage,ESEA Open Season 22 Brazil,16,3,13,2,3,1,g3x,15,13,1.22 
+2016,08,01,00:45,INTZ,g3x,cache,Acer ESL Brazil Premier League..,15,19,9,6,6,9,g3x,23,20,1.04 
+2016,08,01,00:45,g3x,INTZ,cobblestone,Acer ESL Brazil Premier League..,16,10,8,7,8,3,g3x,12,16,0.79 
+2016,08,01,00:45,INTZ,g3x,train,Acer ESL Brazil Premier League..,4,16,4,11,0,5,g3x,20,10,1.62 
+2016,07,31,16:30,g3x,BigGods,dust2,Acer ESL Brazil Premier League..,16,11,9,6,7,5,g3x,20,17,1.05 
+2016,07,31,16:30,g3x,BigGods,train,Acer ESL Brazil Premier League..,16,11,10,5,6,6,g3x,12,21,0.55 
+2016,07,02,18:25,g3x,INTZ,overpass,XLG CS:GO Season 1,16,4,13,2,3,2,g3x,14,12,1.00 
+2016,07,02,18:25,g3x,INTZ,nuke,XLG CS:GO Season 1,16,7,9,6,7,1,g3x,14,13,0.96 
+2016,07,02,18:25,INTZ,g3x,train,XLG CS:GO Season 1,4,16,4,11,0,5,g3x,14,10,1.20 
+2016,06,17,02:30,g3x,CNB,cache,Razer Rising Stars South Ameri..,16,8,10,5,6,3,g3x,11,18,0.64 
+2016,06,17,02:30,g3x,CNB,dust2,Razer Rising Stars South Ameri..,16,9,9,6,7,3,g3x,16,12,1.10 
+2016,06,17,00:15,Innova,g3x,train,Razer Rising Stars South Ameri..,16,9,12,3,4,6,g3x,17,21,0.84 
+2016,06,17,00:15,Innova,g3x,cache,Razer Rising Stars South Ameri..,9,16,4,11,5,5,g3x,15,16,0.86 
+2016,06,09,23:00,g3x,INTZ,cache,Razer Rising Stars South Ameri..,16,0,15,0,1,0,g3x,22,6,2.09 
+2016,06,09,23:00,g3x,INTZ,nuke,Razer Rising Stars South Ameri..,16,14,11,4,5,10,g3x,24,22,1.16 
+2016,06,01,00:15,BigGods,g3x,train,Razer Rising Stars South Ameri..,9,16,5,10,4,6,g3x,19,16,1.07 
+2016,06,01,00:15,BigGods,g3x,nuke,Razer Rising Stars South Ameri..,5,16,4,11,1,5,g3x,15,13,1.05 
+2016,05,31,02:45,Supernova,g3x,mirage,Razer Rising Stars South Ameri..,4,16,3,12,1,4,g3x,15,11,1.11 
+2016,05,31,02:45,Supernova,g3x,cache,Razer Rising Stars South Ameri..,9,16,9,6,0,10,g3x,19,10,1.29 
+2016,05,26,03:15,KeydStars,g3x,overpass,XLG CS:GO Season 1,4,16,3,12,1,4,g3x,18,10,1.39 
+2016,05,26,03:15,g3x,KeydStars,mirage,XLG CS:GO Season 1,16,3,12,3,4,0,g3x,16,10,1.33 
+2016,05,24,00:30,g3x,2Kill,cache,Razer Rising Stars South Ameri..,16,9,10,5,6,4,g3x,20,16,1.24 
+2016,05,24,00:30,2Kill,g3x,train,Razer Rising Stars South Ameri..,3,16,2,13,1,3,g3x,16,11,1.20 
+2016,05,19,02:35,g3x,Furious,dust2,Razer Rising Stars South Ameri..,16,8,12,3,4,5,g3x,18,9,1.31 
+2016,05,19,02:35,g3x,Furious,cache,Razer Rising Stars South Ameri..,16,7,9,6,7,1,g3x,14,13,0.96 
+2016,04,26,02:00,INTZ,NeedJobs,cobblestone,MLG Regional Minor South Ameri..,19,15,6,9,9,6,NeedJobs,31,24,1.41 
+2016,04,26,02:00,NeedJobs,INTZ,mirage,MLG Regional Minor South Ameri..,14,16,9,6,5,10,NeedJobs,22,23,0.96 
+2016,04,09,21:00,Santos.DeX,BigGods,cache,Liga PRO GamersClub - MAR/16,8,16,3,12,5,4,Santos.DeX,20,18,1.21 
+2016,04,09,21:00,BigGods,Santos.DeX,train,Liga PRO GamersClub - MAR/16,16,12,13,2,3,10,Santos.DeX,28,21,1.35 
+2016,01,08,23:15,Santos.DeX,Luminosity,cobblestone,MAX5 Invitational,5,16,5,10,0,6,Santos.DeX,12,20,0.65 
+2016,01,08,00:45,CNB,Santos.DeX,cobblestone,MAX5 Invitational,9,16,5,10,4,6,Santos.DeX,15,17,0.81 
+2016,01,07,17:30,INTZ,Santos.DeX,cobblestone,MAX5 Invitational,7,16,5,10,2,6,Santos.DeX,26,10,1.83 
+2016,01,06,14:30,g3x,Santos.DeX,mirage,MAX5 Invitational,16,14,11,4,5,10,Santos.DeX,17,24,0.73 

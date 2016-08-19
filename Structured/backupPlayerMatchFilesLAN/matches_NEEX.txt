@@ -1,0 +1,6 @@
+2016,03,28,00:30,PRIDE,Rasta,cobblestone,Insomnia 57,5,16,2,13,3,3,PRIDE,11,18,0.72 
+2016,03,28,00:30,PRIDE,Rasta,mirage,Insomnia 57,12,16,8,7,4,9,PRIDE,18,22,0.92 
+2016,03,28,00:30,PRIDE,Rasta,cache,Insomnia 57,16,14,11,4,5,10,PRIDE,23,18,1.20 
+2016,02,21,15:00,Refuse,Cl4nless,cache,Cracow Game Spot 2016,16,1,14,1,2,0,Refuse,18,6,1.82 
+2016,02,21,15:00,Refuse,Cl4nless,mirage,Cracow Game Spot 2016,16,14,7,8,9,6,Refuse,23,18,1.06 
+2016,02,21,15:00,Refuse,Cl4nless,dust2,Cracow Game Spot 2016,13,16,8,7,5,9,Refuse,20,17,1.07 

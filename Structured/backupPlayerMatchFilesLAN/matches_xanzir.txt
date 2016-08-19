@@ -1,0 +1,23 @@
+2015,04,04,13:30,Reason,dignitas,inferno,Copenhagen Games 2015,3,16,3,12,0,4,Reason,7,17,0.39 
+2015,04,04,12:00,Reason,Games4u,inferno,Copenhagen Games 2015,16,2,13,2,3,0,Reason,23,8,1.84 
+2015,04,04,10:00,Atlantis,Reason,cache,Copenhagen Games 2015,14,16,10,5,4,11,Reason,23,23,0.97 
+2015,04,03,22:30,Reason,schlaegeros,cache,Copenhagen Games 2015,16,2,14,1,2,1,Reason,22,8,1.76 
+2015,04,03,19:00,INSHOCK,Reason,mirage,Copenhagen Games 2015,16,7,9,6,7,1,Reason,13,19,0.77 
+2015,04,03,19:00,INSHOCK,Reason,dust2,Copenhagen Games 2015,16,12,4,11,12,1,Reason,19,21,0.86 
+2015,04,03,19:00,Reason,INSHOCK,inferno,Copenhagen Games 2015,16,14,12,3,4,11,Reason,14,21,0.73 
+2015,04,03,15:30,G2,Reason,mirage,Copenhagen Games 2015,16,5,13,2,3,3,Reason,6,16,0.46 
+2015,04,03,15:30,Reason,G2,cobblestone,Copenhagen Games 2015,16,12,11,4,5,8,Reason,24,21,1.19 
+2015,04,03,15:30,Reason,G2,cache,Copenhagen Games 2015,11,16,8,7,3,9,Reason,13,22,0.60 
+2015,04,03,12:00,Reason,INSHOCK,cache,Copenhagen Games 2015,16,8,12,3,4,5,Reason,14,15,0.91 
+2015,04,03,12:00,INSHOCK,Reason,mirage,Copenhagen Games 2015,10,16,8,7,2,9,Reason,17,14,1.06 
+2014,08,02,21:15,ENCORE,myRevenge,inferno,ASUS ROG Summer 2014,8,16,5,10,3,6,myRevenge,19,17,1.07 
+2014,08,02,21:15,myRevenge,ENCORE,dust2,ASUS ROG Summer 2014,4,16,4,11,0,5,myRevenge,8,13,0.66 
+2014,08,02,21:15,myRevenge,ENCORE,mirage,ASUS ROG Summer 2014,16,5,10,5,6,0,myRevenge,11,9,0.96 
+2014,08,02,15:30,myRevenge,Recursive,cache,ASUS ROG Summer 2014,16,5,14,1,2,4,myRevenge,16,12,1.10 
+2014,08,02,15:30,myRevenge,Recursive,mirage,ASUS ROG Summer 2014,16,14,9,6,7,8,myRevenge,17,18,0.94 
+2014,08,02,09:40,myRevenge,Publiclir.se,dust2,ASUS ROG Summer 2014,16,6,11,4,5,2,myRevenge,13,11,1.09 
+2014,08,02,09:40,myRevenge,Publiclir.se,cache,ASUS ROG Summer 2014,16,7,9,6,7,1,myRevenge,15,7,1.36 
+2014,08,02,09:40,myRevenge,Publiclir.se,mirage,ASUS ROG Summer 2014,13,16,8,7,5,9,myRevenge,13,21,0.64 
+2014,07,31,23:40,naMNam,myRevenge,cache,ASUS ROG Summer 2014,8,16,6,9,2,7,myRevenge,17,14,1.06 
+2014,07,31,22:30,ENCORE,myRevenge,mirage,ASUS ROG Summer 2014,16,2,13,2,3,0,myRevenge,7,17,0.43 
+2014,07,31,21:30,myRevenge,ajuri,mirage,ASUS ROG Summer 2014,16,9,8,7,8,2,myRevenge,15,15,0.87 

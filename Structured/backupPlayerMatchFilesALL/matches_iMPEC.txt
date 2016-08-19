@@ -1,0 +1,16 @@
+2015,05,26,20:00,EZPZ_LS,H2B,cache,Balkan Championship Season 2,16,5,14,1,2,4,H2B,7,19,0.41 
+2015,05,26,20:00,H2B,EZPZ_LS,mirage,Balkan Championship Season 2,6,16,5,10,1,6,H2B,9,17,0.61 
+2015,05,26,20:00,H2B,EZPZ_LS,dust2,Balkan Championship Season 2,19,17,5,10,10,5,H2B,22,25,0.87 
+2015,05,22,21:00,H2B,SpaceSoldiers,mirage,Balkan Championship Season 2,13,16,8,7,5,9,H2B,19,21,0.95 
+2015,05,22,21:00,H2B,SpaceSoldiers,dust2,Balkan Championship Season 2,16,13,4,11,12,2,H2B,19,20,0.91 
+2015,05,22,21:00,H2B,SpaceSoldiers,cache,Balkan Championship Season 2,12,16,6,9,6,7,H2B,12,20,0.61 
+2015,05,21,20:00,H2B,mesport.hu,cache,Balkan Championship Season 2,16,9,8,7,8,2,H2B,12,11,0.90 
+2015,05,21,20:00,H2B,mesport.hu,dust2,Balkan Championship Season 2,16,7,12,3,4,4,H2B,12,10,0.95 
+2015,05,21,20:00,H2B,mesport.hu,mirage,Balkan Championship Season 2,14,16,12,3,2,13,H2B,14,22,0.74 
+2015,04,23,21:15,H2B,EZPZ_LS,cache,ESL South East Europe Champion..,13,16,3,12,10,4,H2B,20,23,0.94 
+2015,04,23,21:15,EZPZ_LS,H2B,inferno,ESL South East Europe Champion..,16,3,13,2,3,1,H2B,10,16,0.72 
+2015,04,20,21:30,XPC,H2B,cache,ESL South East Europe Champion..,16,3,13,2,3,1,H2B,12,17,0.86 
+2015,04,20,21:30,XPC,H2B,cobblestone,ESL South East Europe Champion..,16,1,14,1,2,0,H2B,7,16,0.53 
+2015,04,16,23:00,H2B,DelinquentHabits,cache,ESL South East Europe Champion..,16,13,9,6,7,7,H2B,24,22,1.05 
+2015,04,16,23:00,H2B,DelinquentHabits,mirage,ESL South East Europe Champion..,16,11,6,9,10,2,H2B,19,15,1.19 
+2015,04,16,23:00,H2B,DelinquentHabits,inferno,ESL South East Europe Champion..,11,16,8,7,3,9,H2B,11,17,0.69 

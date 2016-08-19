@@ -1,0 +1,9 @@
+2016,02,22,23:00,Pixel,GIANT5,overpass,Balkan Challenge #1,16,11,8,7,8,4,GIANT5,22,21,0.99 
+2016,02,22,22:00,Deathtrap,GIANT5,cache,Balkan Challenge #1,16,9,11,4,5,5,GIANT5,12,20,0.66 
+2016,02,22,19:00,PhysX,GIANT5,inferno,Balkan Challenge #1,6,16,5,10,1,6,GIANT5,22,11,1.64 
+2015,05,11,20:00,Rock,GIANT5,dust2,Balkan Superleague,16,12,10,5,6,7,GIANT5,11,22,0.59 
+2015,05,04,20:20,HEADSHOTBG,GIANT5,inferno,Balkan Superleague,16,5,11,4,5,1,GIANT5,10,20,0.52 
+2015,05,04,19:00,GIANT5,neXtPlease!,inferno,Balkan Superleague,13,16,5,10,8,6,GIANT5,14,23,0.69 
+2015,04,21,21:15,ENTiTY,GIANT5,cache,Balkan Superleague,16,6,11,4,5,2,GIANT5,17,19,0.94 
+2015,04,15,21:15,TRICKED,GIANT5,inferno,Balkan Superleague,16,8,9,6,7,2,GIANT5,8,20,0.46 
+2015,04,14,20:20,GPlay,GIANT5,inferno,Balkan Superleague,16,0,15,0,1,0,GIANT5,2,16,0.10 

@@ -1,0 +1,23 @@
+2016,08,03,13:00,Signature,EDG,cobblestone,E-Sports Festival CS:GO Tourna..,16,19,7,8,8,7,EDG,31,22,1.31 
+2016,08,03,13:00,EDG,Signature,cache,E-Sports Festival CS:GO Tourna..,16,5,11,4,5,1,EDG,23,10,1.65 
+2016,08,03,13:00,Signature,EDG,mirage,E-Sports Festival CS:GO Tourna..,19,15,5,10,10,5,EDG,30,26,1.08 
+2016,08,02,13:00,EDG,MiTH,cobblestone,E-Sports Festival CS:GO Tourna..,16,13,6,9,10,4,EDG,22,20,1.03 
+2016,08,02,13:00,EDG,MiTH,mirage,E-Sports Festival CS:GO Tourna..,16,7,13,2,3,5,EDG,17,13,1.07 
+2016,07,29,12:15,EDG,5Love.N4,cobblestone,SL i-League S2 China Qualifier,16,1,14,1,2,0,EDG,12,6,1.19 
+2016,07,29,12:15,EDG,5Love.N4,cache,SL i-League S2 China Qualifier,16,9,9,6,7,3,EDG,22,14,1.28 
+2016,07,22,15:00,AC-130,EDG,cobblestone,MixBOT Pro-League Golden,16,8,10,5,6,3,EDG,17,18,1.01 
+2016,07,22,15:00,EDG,AC-130,mirage,MixBOT Pro-League Golden,16,9,11,4,5,5,EDG,33,11,1.93 
+2016,07,22,15:00,EDG,AC-130,cache,MixBOT Pro-League Golden,11,16,7,8,4,8,EDG,22,22,0.92 
+2016,07,20,15:00,LGD,EDG,train,SL i-League S2 China Qualifier,16,8,9,6,7,2,EDG,12,21,0.54 
+2016,07,20,15:00,EDG,LGD,mirage,SL i-League S2 China Qualifier,16,19,6,9,9,6,EDG,20,26,0.80 
+2016,07,20,09:00,EHOME,EDG,cobblestone,SL i-League S2 China Qualifier,16,7,12,3,4,4,EDG,15,21,0.72 
+2016,07,20,09:00,EHOME,EDG,mirage,SL i-League S2 China Qualifier,16,9,8,7,8,2,EDG,17,19,0.90 
+2016,06,17,08:10,EDG,VG.CyberZen,mirage,WCA Season 2 China Qualifier,13,16,12,3,1,13,EDG,19,20,0.92 
+2016,06,17,08:10,EDG,VG.CyberZen,nuke,WCA Season 2 China Qualifier,4,16,4,11,0,5,EDG,14,18,0.90 
+2016,06,16,08:00,BornOfFire,EDG,cache,WCA Season 2 China Qualifier,16,11,5,10,11,1,EDG,21,22,0.95 
+2016,06,16,08:00,BornOfFire,EDG,dust2,WCA Season 2 China Qualifier,16,13,6,9,10,4,EDG,20,21,1.00 
+2016,06,15,12:00,EDG,TheMongolz,dust2,MixBOT Pro-League Golden,10,16,8,7,2,9,EDG,16,18,0.92 
+2016,06,15,12:00,TheMongolz,EDG,cache,MixBOT Pro-League Golden,6,16,4,11,2,5,EDG,17,12,1.17 
+2016,06,15,12:00,EDG,TheMongolz,mirage,MixBOT Pro-League Golden,8,16,7,8,1,8,EDG,23,19,1.26 
+2016,06,14,12:00,EDG,New4,mirage,WCA Season 2 China Qualifier,16,6,14,1,2,5,EDG,15,15,0.99 
+2016,06,14,12:00,New4,EDG,cache,WCA Season 2 China Qualifier,16,3,12,3,4,0,EDG,8,16,0.51 

@@ -1,0 +1,23 @@
+2016,08,06,09:45,TyLoo,AllGamers,train,SL i-League S2 China Finals,16,7,10,5,6,2,AllGamers,15,21,0.84 
+2016,08,06,09:45,AllGamers,TyLoo,cache,SL i-League S2 China Finals,5,16,5,10,0,6,AllGamers,10,18,0.54 
+2016,08,05,06:00,AllGamers,LGD,cache,SL i-League S2 China Finals,16,12,9,6,7,6,AllGamers,21,19,0.99 
+2016,08,05,06:00,LGD,AllGamers,mirage,SL i-League S2 China Finals,7,16,4,11,3,5,AllGamers,19,10,1.35 
+2016,07,28,15:25,Nface,AllGamers,mirage,SL i-League S2 China Qualifier,8,16,5,10,3,6,AllGamers,14,15,0.89 
+2016,07,28,15:25,AllGamers,Nface,cache,SL i-League S2 China Qualifier,16,9,8,7,8,2,AllGamers,18,16,1.01 
+2016,07,27,15:00,AllGamers,B.O.O.T,cobblestone,SL i-League S2 China Qualifier,16,12,6,9,10,3,AllGamers,20,18,1.05 
+2016,07,27,15:00,B.O.O.T,AllGamers,cache,SL i-League S2 China Qualifier,14,16,8,7,6,9,AllGamers,21,19,1.02 
+2016,07,27,12:15,EP,AllGamers,cobblestone,SL i-League S2 China Qualifier,12,16,6,9,6,7,AllGamers,24,16,1.23 
+2016,07,27,12:15,EP,AllGamers,mirage,SL i-League S2 China Qualifier,16,11,8,7,8,4,AllGamers,23,21,1.22 
+2016,07,27,12:15,EP,AllGamers,cache,SL i-League S2 China Qualifier,5,16,4,11,1,5,AllGamers,13,10,1.08 
+2016,04,23,16:20,TyLoo,eFuture.BJ,overpass,Pro Gamers League 2016 Spring,16,9,11,4,5,5,eFuture.BJ,15,20,0.92 
+2016,04,16,15:30,AllGamers,MVPproject,cache,SL i-League Invitational China..,5,16,3,12,2,4,AllGamers,9,18,0.56 
+2016,04,16,15:30,MVPproject,AllGamers,inferno,SL i-League Invitational China..,13,16,8,7,5,9,AllGamers,16,19,0.84 
+2016,04,14,15:25,AllGamers,LGD,inferno,SL i-League Invitational China..,11,16,6,9,5,7,AllGamers,17,21,0.90 
+2016,04,14,15:25,LGD,AllGamers,cache,SL i-League Invitational China..,16,9,7,8,9,1,AllGamers,19,19,1.04 
+2016,04,09,13:30,VG.CyberZen,AllGamers,inferno,SL i-League Invitational China..,16,13,12,3,4,10,AllGamers,11,20,0.65 
+2016,04,06,15:00,AllGamers,B.O.O.T,cache,SL i-League Invitational China..,16,8,9,6,7,2,AllGamers,14,13,1.03 
+2016,04,06,15:00,B.O.O.T,AllGamers,mirage,SL i-League Invitational China..,8,16,6,9,2,7,AllGamers,19,11,1.18 
+2016,03,22,08:00,EDG,AllGamers,overpass,WCA Season 1 Qualifier,16,5,13,2,3,3,AllGamers,15,18,0.88 
+2016,03,22,08:00,AllGamers,EDG,mirage,WCA Season 1 Qualifier,2,16,2,13,0,3,AllGamers,10,17,0.67 
+2016,03,17,08:00,AllGamers,eFuture,cache,WCA Season 1 Qualifier,16,12,9,6,7,6,AllGamers,24,19,1.27 
+2016,03,17,08:00,AllGamers,eFuture,dust2,WCA Season 1 Qualifier,16,8,8,7,8,1,AllGamers,22,15,1.31 

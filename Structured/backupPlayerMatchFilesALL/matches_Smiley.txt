@@ -1,0 +1,6 @@
+2016,05,09,03:00,RivaL,Detonate,mirage,MLG Regional Minor North Ameri..,16,11,8,7,8,4,Detonate,12,22,0.59 
+2016,05,09,01:00,Winterfox,Detonate,mirage,MLG Regional Minor North Ameri..,16,13,7,8,9,5,Detonate,22,20,0.93 
+2016,05,09,01:00,Detonate,Winterfox,overpass,MLG Regional Minor North Ameri..,5,16,4,11,1,5,Detonate,11,19,0.57 
+2016,05,08,20:40,EchoFox,Detonate,cache,MLG Regional Minor North Ameri..,8,16,4,11,4,5,Detonate,13,15,0.76 
+2016,05,08,20:40,EchoFox,Detonate,overpass,MLG Regional Minor North Ameri..,16,11,5,10,11,1,Detonate,14,21,0.72 
+2016,05,08,20:40,Detonate,EchoFox,mirage,MLG Regional Minor North Ameri..,16,11,10,5,6,6,Detonate,16,15,0.99 

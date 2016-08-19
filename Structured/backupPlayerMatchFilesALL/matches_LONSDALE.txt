@@ -1,0 +1,41 @@
+2016,07,28,11:30,Parallax,Chiefs,cache,CyberGamer Oceania eSports Mas..,16,12,7,8,9,4,Parallax,16,20,0.77 
+2016,07,28,11:30,Chiefs,Parallax,overpass,CyberGamer Oceania eSports Mas..,16,10,12,3,4,7,Parallax,9,21,0.54 
+2016,07,28,11:30,Chiefs,Parallax,dust2,CyberGamer Oceania eSports Mas..,13,16,7,8,6,8,Parallax,16,20,0.81 
+2016,07,24,09:50,Parallax,AthleticoBH,dust2,ESL Australia & NZ Championshi..,9,16,5,10,4,6,Parallax,8,21,0.42 
+2016,07,24,09:50,Parallax,AthleticoBH,mirage,ESL Australia & NZ Championshi..,11,16,4,11,7,5,Parallax,13,22,0.66 
+2016,07,24,04:15,Chiefs,Parallax,train,ESL Australia & NZ Championshi..,12,16,6,9,6,7,Parallax,18,17,1.00 
+2016,07,24,04:15,Chiefs,Parallax,mirage,ESL Australia & NZ Championshi..,16,8,11,4,5,4,Parallax,13,19,0.70 
+2016,07,24,04:15,Parallax,Chiefs,cache,ESL Australia & NZ Championshi..,16,12,10,5,6,7,Parallax,22,23,0.95 
+2016,07,23,08:00,Parallax,AthleticoBH,overpass,ESL Australia & NZ Championshi..,16,1,14,1,2,0,Parallax,10,9,0.94 
+2016,07,23,08:00,AthleticoBH,Parallax,cache,ESL Australia & NZ Championshi..,2,16,2,13,0,3,Parallax,17,10,1.47 
+2016,07,19,11:00,Skyfire,Parallax,cache,CyberGamer Oceania eSports Mas..,10,16,6,9,4,7,Parallax,11,19,0.60 
+2016,07,19,11:00,Parallax,Skyfire,train,CyberGamer Oceania eSports Mas..,16,11,7,8,9,3,Parallax,20,15,1.15 
+2016,07,19,11:00,Skyfire,Parallax,cobblestone,CyberGamer Oceania eSports Mas..,19,16,4,11,11,4,Parallax,18,25,0.73 
+2016,07,18,12:00,Parallax,Exile5,dust2,CyberGamer Oceania eSports Mas..,16,19,7,8,8,7,Parallax,22,28,0.82 
+2016,07,18,12:00,Parallax,Exile5,mirage,CyberGamer Oceania eSports Mas..,14,16,10,5,4,11,Parallax,21,20,1.03 
+2016,07,18,12:00,Exile5,Parallax,cache,CyberGamer Oceania eSports Mas..,9,16,3,12,6,4,Parallax,21,18,1.23 
+2016,07,11,11:30,AthleticoBH,Parallax,overpass,CyberGamer Oceania eSports Mas..,16,10,9,6,7,4,Parallax,13,22,0.63 
+2016,07,11,11:30,AthleticoBH,Parallax,train,CyberGamer Oceania eSports Mas..,16,9,10,5,6,4,Parallax,13,22,0.69 
+2016,07,11,11:30,Parallax,AthleticoBH,cache,CyberGamer Oceania eSports Mas..,16,6,10,5,6,1,Parallax,15,16,0.98 
+2016,07,07,11:30,Parallax,GUTS,overpass,CyberGamer Oceania eSports Mas..,16,11,6,9,10,2,Parallax,16,21,0.81 
+2016,07,07,11:30,GUTS,Parallax,train,CyberGamer Oceania eSports Mas..,9,16,8,7,1,9,Parallax,20,18,0.99 
+2016,06,30,09:00,Australia,NewZealand,cache,World Championships 2016 Ocean..,16,4,12,3,4,1,New Zealand,7,20,0.35 
+2016,06,30,09:00,NewZealand,Australia,mirage,World Championships 2016 Ocean..,2,16,2,13,0,3,New Zealand,10,17,0.54 
+2016,06,30,09:00,Australia,NewZealand,dust2,World Championships 2016 Ocean..,16,1,14,1,2,0,New Zealand,3,17,0.15 
+2015,12,06,12:00,Exile5,TRIDENT,mirage,Counter Pit League Season 2,16,14,8,7,8,7,TRIDENT,22,24,0.95 
+2015,12,06,12:00,Exile5,TRIDENT,cobblestone,Counter Pit League Season 2,16,12,5,10,11,2,TRIDENT,22,23,0.99 
+2015,12,05,09:00,Legacy,TRIDENT,mirage,Counter Pit League Season 2,16,4,13,2,3,2,TRIDENT,12,16,0.69 
+2015,12,05,09:00,TRIDENT,Legacy,cache,Counter Pit League Season 2,10,16,3,12,7,4,TRIDENT,16,21,0.74 
+2015,12,02,10:00,VoxEminor,TRIDENT,mirage,Counter Pit League Season 2,16,4,11,4,5,0,TRIDENT,5,20,0.21 
+2015,12,02,10:00,VoxEminor,TRIDENT,inferno,Counter Pit League Season 2,16,8,7,8,9,0,TRIDENT,5,21,0.28 
+2015,12,01,10:00,Chiefs,TRIDENT,inferno,Counter Pit League Season 2,19,17,4,11,11,4,TRIDENT,17,24,0.76 
+2015,12,01,10:00,TRIDENT,Chiefs,cache,Counter Pit League Season 2,5,16,5,10,0,6,TRIDENT,3,19,0.20 
+2015,11,30,10:40,Immunity,TRIDENT,cache,Counter Pit League Season 2,16,8,10,5,6,3,TRIDENT,15,19,0.84 
+2015,11,30,10:40,TRIDENT,Immunity,mirage,Counter Pit League Season 2,13,16,7,8,6,8,TRIDENT,16,24,0.72 
+2015,09,21,10:00,TRIDENT,Available!,inferno,FACEIT League 2015 Stage 3 OCE..,10,16,6,9,4,7,TRIDENT,9,22,0.46 
+2015,09,21,10:00,TRIDENT,Available!,cache,FACEIT League 2015 Stage 3 OCE..,19,21,7,8,8,7,TRIDENT,34,29,1.14 
+2015,09,15,03:35,Skyfire,TRIDENT,mirage,ACL Melbourne 2015,16,14,7,8,9,6,TRIDENT,20,23,0.88 
+2015,09,15,03:34,TRIDENT,Skyfire,dust2,ACL Melbourne 2015,2,16,2,13,0,3,TRIDENT,6,17,0.32 
+2015,09,06,04:00,VoxEminor,TRIDENT,dust2,ACL Melbourne 2015,5,16,2,13,3,3,TRIDENT,23,10,1.73 
+2015,09,06,04:00,VoxEminor,TRIDENT,cache,ACL Melbourne 2015,3,16,3,12,0,4,TRIDENT,11,12,0.81 
+2015,09,06,04:00,VoxEminor,TRIDENT,cobblestone,ACL Melbourne 2015,16,11,7,8,9,3,TRIDENT,20,20,1.05 

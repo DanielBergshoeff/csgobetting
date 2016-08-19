@@ -1,0 +1,7 @@
+2015,10,03,19:30,eNergy,Aperture,inferno,MWEB GameZone Masters Series,16,0,15,0,1,0,Aperture,1,16,0.05 
+2015,10,03,19:30,Aperture,eNergy,mirage,MWEB GameZone Masters Series,16,5,10,5,6,0,Aperture,13,14,0.90 
+2015,10,03,19:30,eNergy,Aperture,overpass,MWEB GameZone Masters Series,16,3,13,2,3,1,Aperture,9,18,0.47 
+2015,10,03,16:15,Aperture,carboN,inferno,MWEB GameZone Masters Series,10,16,7,8,3,8,Aperture,14,21,0.72 
+2015,10,03,16:15,Aperture,carboN,cache,MWEB GameZone Masters Series,9,16,8,7,1,9,Aperture,13,22,0.60 
+2015,08,16,20:15,Aperture,Veneration,mirage,Fight Night: Season I,16,2,13,2,3,0,Aperture,10,10,0.96 
+2015,08,16,20:15,Aperture,Veneration,inferno,Fight Night: Season I,16,6,10,5,6,1,Aperture,17,13,1.32 

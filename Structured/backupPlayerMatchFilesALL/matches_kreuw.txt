@@ -1,0 +1,4 @@
+2016,07,23,15:55,GameplayDNA,VwS,nuke,GSL Baltics Samsung Open by Ga..,6,16,5,10,1,6,VwS,20,10,1.55 
+2016,07,23,15:55,GameplayDNA,VwS,mirage,GSL Baltics Samsung Open by Ga..,7,16,4,11,3,5,VwS,24,13,1.50 
+2016,07,23,15:55,VwS,GameplayDNA,cache,GSL Baltics Samsung Open by Ga..,19,16,9,6,6,9,VwS,21,27,0.82 
+2015,08,31,15:00,Lithuania,Germany,dust2,World Championships 2015 Europ..,3,16,3,12,0,4,Lithuania,5,9,0.53 

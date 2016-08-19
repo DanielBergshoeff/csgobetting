@@ -1,0 +1,4 @@
+2016,03,24,15:30,aNimus,Tog,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,Tog,12,17,0.77 
+2016,03,24,13:00,Tricked,Tog,dust2,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Tog,6,17,0.33 
+2015,04,02,17:00,TEMPEST,Sharkgaming,nuke,Copenhagen Games 2015,9,16,8,7,1,9,TEMPEST,13,14,0.86 
+2015,04,02,14:00,TEMPEST,jQntefabrikkeN,inferno,Copenhagen Games 2015,1,16,1,14,0,2,TEMPEST,9,15,0.64 

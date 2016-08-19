@@ -1,0 +1,5 @@
+2016,02,20,15:00,MiTH,dream[S]cape,mirage,Born To Win Invitational Leagu..,16,8,13,2,3,6,MiTH,17,16,1.08 
+2016,02,20,13:30,Risky,MiTH,mirage,Born To Win Invitational Leagu..,13,16,6,9,7,7,MiTH,16,24,0.76 
+2015,11,20,23:00,FTW.G2A,Equilibrium,inferno,AlienTech AllStars,5,16,3,12,2,4,Equilibrium,10,13,0.93 
+2015,11,20,22:10,k1ck,Equilibrium,cache,AlienTech AllStars,16,7,9,6,7,1,Equilibrium,11,20,0.56 
+2015,11,20,20:20,RCTIC,Equilibrium,dust2,AlienTech AllStars,16,1,14,1,2,0,Equilibrium,5,17,0.25 

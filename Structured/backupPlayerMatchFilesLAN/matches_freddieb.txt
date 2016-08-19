@@ -1,0 +1,47 @@
+2016,08,06,19:30,SpaceSoldiers,Epsilon,cobblestone,ASUS ROG Summer 2016,16,5,11,4,5,1,Epsilon,10,20,0.44 
+2016,08,06,19:30,Epsilon,SpaceSoldiers,cache,ASUS ROG Summer 2016,11,16,7,8,4,8,Epsilon,13,19,0.86 
+2016,08,06,14:15,ENCE,Epsilon,cobblestone,ASUS ROG Summer 2016,12,16,9,6,3,10,Epsilon,21,16,1.16 
+2016,08,06,14:15,ENCE,Epsilon,dust2,ASUS ROG Summer 2016,22,20,9,6,6,9,Epsilon,23,28,0.84 
+2016,08,06,14:15,Epsilon,ENCE,nuke,ASUS ROG Summer 2016,16,14,3,12,13,2,Epsilon,23,22,1.11 
+2016,08,05,15:15,Epsilon,Escape,mirage,ASUS ROG Summer 2016,16,10,12,3,4,7,Epsilon,15,17,0.83 
+2016,08,05,15:15,Epsilon,Escape,nuke,ASUS ROG Summer 2016,16,8,12,3,4,5,Epsilon,29,14,1.69 
+2016,08,05,15:15,Epsilon,Escape,dust2,ASUS ROG Summer 2016,11,16,7,8,4,8,Epsilon,9,20,0.53 
+2016,08,05,13:00,Epsilon,LGR,cache,ASUS ROG Summer 2016,16,12,9,6,7,6,Epsilon,21,20,1.00 
+2016,08,05,11:30,Epsilon,Millenium,mirage,ASUS ROG Summer 2016,10,16,5,10,5,6,Epsilon,12,21,0.61 
+2016,07,24,09:45,X,Epsilon,cobblestone,Pro Gamer League 2016 Summer F..,14,16,6,9,8,7,Epsilon,27,23,1.29 
+2016,07,24,09:45,X,Epsilon,dust2,Pro Gamer League 2016 Summer F..,10,16,6,9,4,7,Epsilon,16,16,1.03 
+2016,07,24,09:45,Epsilon,X,train,Pro Gamer League 2016 Summer F..,16,6,11,4,5,2,Epsilon,23,13,1.52 
+2016,07,22,13:30,Epsilon,VG.CyberZen,nuke,Pro Gamer League 2016 Summer F..,16,8,13,2,3,6,Epsilon,23,11,1.65 
+2016,07,22,13:30,VG.CyberZen,Epsilon,overpass,Pro Gamer League 2016 Summer F..,16,7,11,4,5,3,Epsilon,13,20,0.68 
+2016,07,22,13:30,VG.CyberZen,Epsilon,cache,Pro Gamer League 2016 Summer F..,4,16,4,11,0,5,Epsilon,22,11,1.72 
+2016,07,22,09:15,Epsilon,eFuture,mirage,Pro Gamer League 2016 Summer F..,16,5,13,2,3,3,Epsilon,19,13,1.43 
+2016,07,22,07:30,Epsilon,BornOfFire,dust2,Pro Gamer League 2016 Summer F..,16,13,6,9,10,4,Epsilon,20,18,1.03 
+2016,07,22,04:00,Epsilon,TyLoo,mirage,Pro Gamer League 2016 Summer F..,16,11,12,3,4,8,Epsilon,21,21,1.00 
+2016,06,19,21:00,Epsilon,NiP,cache,DreamHack ZOWIE Open Summer 20..,14,16,11,4,3,12,Epsilon,27,23,1.21 
+2016,06,19,21:00,Epsilon,NiP,overpass,DreamHack ZOWIE Open Summer 20..,13,16,7,8,6,8,Epsilon,24,18,1.44 
+2016,06,19,15:00,Epsilon,HellRaisers,mirage,DreamHack ZOWIE Open Summer 20..,16,13,12,3,4,10,Epsilon,20,21,0.96 
+2016,06,19,15:00,Epsilon,HellRaisers,nuke,DreamHack ZOWIE Open Summer 20..,16,10,11,4,5,6,Epsilon,18,15,1.15 
+2016,06,18,20:00,ArchAngels,Epsilon,overpass,ESPORTSM 2016 Finals,16,19,9,6,6,9,Epsilon,27,27,0.98 
+2016,06,18,20:00,Epsilon,ArchAngels,mirage,ESPORTSM 2016 Finals,16,8,7,8,9,0,Epsilon,23,16,1.41 
+2016,06,18,16:30,NiP,Epsilon,cache,DreamHack ZOWIE Open Summer 20..,16,9,11,4,5,5,Epsilon,12,19,0.62 
+2016,05,14,15:00,Epsilon,Orbit,train,DreamHack Regional Minor Champ..,13,16,5,10,8,6,Epsilon,26,22,1.15 
+2016,05,14,15:00,Epsilon,Orbit,mirage,DreamHack Regional Minor Champ..,15,19,9,6,6,9,Epsilon,32,26,1.20 
+2016,05,14,15:00,Epsilon,Orbit,dust2,DreamHack Regional Minor Champ..,16,13,5,10,11,3,Epsilon,22,21,1.04 
+2016,05,14,13:30,Epsilon,SK,overpass,DreamHack Regional Minor Champ..,16,14,8,7,8,7,Epsilon,23,22,1.03 
+2016,05,14,12:00,Epsilon,dignitas,overpass,DreamHack Regional Minor Champ..,11,16,4,11,7,5,Epsilon,11,20,0.59 
+2016,03,25,15:40,Epsilon,E-frag.net,overpass,Copenhagen Games 2016,14,16,8,7,6,9,Epsilon,25,21,1.17 
+2016,03,25,13:30,Alpha,Epsilon,cobblestone,Copenhagen Games 2016,6,16,6,9,0,7,Epsilon,19,12,1.30 
+2016,03,25,12:00,E-frag.net,Epsilon,cache,Copenhagen Games 2016,16,8,7,8,9,0,Epsilon,12,19,0.64 
+2016,03,24,23:00,Isak,Epsilon,cobblestone,Copenhagen Games 2016 BYOC Qua..,1,16,1,14,0,2,Epsilon,20,5,1.90 
+2016,03,24,23:00,Epsilon,Isak,dust2,Copenhagen Games 2016 BYOC Qua..,16,4,11,4,5,0,Epsilon,21,4,1.94 
+2016,03,24,19:00,Epsilon,Heroic,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,8,9,6,7,2,Epsilon,15,14,0.96 
+2016,03,24,19:00,Epsilon,Heroic,dust2,Copenhagen Games 2016 BYOC Qua..,16,6,12,3,4,3,Epsilon,18,8,1.47 
+2016,03,24,15:30,Flash,Epsilon,cobblestone,Copenhagen Games 2016 BYOC Qua..,8,16,3,12,5,4,Epsilon,18,13,1.17 
+2016,03,24,13:00,Epsilon,walkover,dust2,Copenhagen Games 2016 BYOC Qua..,16,8,11,4,5,4,Epsilon,26,12,1.53 
+2016,02,19,23:00,DollarHouse,Torpedo,cache,Nordic Masters Season 2 Finals,6,16,5,10,1,6,DollarHouse,16,18,1.07 
+2016,02,19,23:00,DollarHouse,Torpedo,mirage,Nordic Masters Season 2 Finals,4,16,1,14,3,2,DollarHouse,17,18,0.99 
+2016,02,19,23:00,Torpedo,DollarHouse,overpass,Nordic Masters Season 2 Finals,12,16,5,10,7,6,DollarHouse,27,16,1.42 
+2016,02,19,18:15,Rize,DollarHouse,cache,Nordic Masters Season 2 Finals,2,16,2,13,0,3,DollarHouse,26,6,2.33 
+2016,02,19,18:15,DollarHouse,Rize,mirage,Nordic Masters Season 2 Finals,16,13,10,5,6,8,DollarHouse,24,18,1.28 
+2016,02,19,18:15,Rize,DollarHouse,dust2,Nordic Masters Season 2 Finals,19,17,4,11,11,4,DollarHouse,22,26,0.85 
+2016,02,19,12:35,DollarHouse,Torpedo,overpass,Nordic Masters Season 2 Finals,2,16,1,14,1,2,DollarHouse,5,18,0.26 

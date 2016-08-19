@@ -1,0 +1,33 @@
+2016,07,15,14:30,Genus,AlienTech,cobblestone,DreamHack Valencia 2016,7,16,4,11,3,5,Genus,15,18,0.92 
+2016,07,15,14:30,AlienTech,Genus,mirage,DreamHack Valencia 2016,16,9,9,6,7,3,Genus,12,22,0.57 
+2016,07,07,20:15,EURONICS,Genus,cache,xfunction Masters 2016,16,5,12,3,4,2,Genus,5,21,0.20 
+2016,07,03,11:00,Phantoms,LosMariachis,cache,AlienTech CS:GO TiTans II Fina..,16,11,6,9,10,2,Los Mariachis,15,23,0.71 
+2016,07,02,11:25,LosMariachis,jA'Vi,cobblestone,AlienTech CS:GO TiTans II Fina..,3,16,3,12,0,4,Los Mariachis,7,16,0.44 
+2016,07,02,11:25,jA'Vi,LosMariachis,dust2,AlienTech CS:GO TiTans II Fina..,16,5,11,4,5,1,Los Mariachis,9,19,0.55 
+2016,06,27,19:30,LosMariachis,AGG,nuke,xfunction Masters 2016,9,16,8,7,1,9,Los Mariachis,8,19,0.46 
+2016,03,18,23:45,3R2L,AlienTech,inferno,AlienTech CS:GO Invitational I,8,16,6,9,2,7,3R2L,9,19,0.51 
+2016,03,18,21:35,RedLine,3R2L,mirage,AlienTech CS:GO Invitational I,16,19,14,1,1,14,3R2L,24,24,0.95 
+2016,03,18,19:50,3R2L,FTW.PRO,mirage,AlienTech CS:GO Invitational I,11,16,4,11,7,5,3R2L,12,23,0.51 
+2015,05,25,19:00,1337,AlienTech.Black,cache,RGN Pro Series EU,16,6,11,4,5,2,AlienTech.Black,3,21,0.15 
+2015,05,14,18:00,AlienTech.Black,nerdRage,cache,Fragbite Masters Season 4,7,16,6,9,1,7,AlienTech.Black,9,19,0.52 
+2015,05,14,18:00,nerdRage,AlienTech.Black,dust2,Fragbite Masters Season 4,16,9,10,5,6,4,AlienTech.Black,11,18,0.69 
+2015,05,13,21:00,AlienTech.Black,Acer,cache,Fragbite Masters Season 4,12,16,7,8,5,8,AlienTech.Black,6,18,0.49 
+2015,05,13,21:00,Acer,AlienTech.Black,dust2,Fragbite Masters Season 4,16,6,10,5,6,1,AlienTech.Black,7,19,0.40 
+2015,05,06,19:00,AlienTech.Black,G2,cobblestone,Counter Pit League Qualifier,5,16,4,11,1,5,AlienTech.Black,5,19,0.28 
+2015,05,06,19:00,G2,AlienTech.Black,dust2,Counter Pit League Qualifier,13,16,9,6,4,10,AlienTech.Black,9,21,0.56 
+2015,05,06,19:00,AlienTech.Black,G2,mirage,Counter Pit League Qualifier,8,16,8,7,0,9,AlienTech.Black,12,21,0.59 
+2015,04,29,18:00,G2,k1ck,mirage,99Damage Arena #6,16,2,13,2,3,0,k1ck,3,17,0.22 
+2015,04,29,18:00,k1ck,G2,cache,99Damage Arena #6,12,16,10,5,2,11,k1ck,14,19,0.78 
+2015,04,28,21:15,KILLERFISH,k1ck,inferno,99Damage Arena #6,13,16,6,9,7,7,k1ck,19,20,0.92 
+2015,04,28,21:15,KILLERFISH,k1ck,dust2,99Damage Arena #6,14,16,10,5,4,11,k1ck,17,19,0.85 
+2015,04,28,21:15,KILLERFISH,k1ck,cache,99Damage Arena #6,16,12,8,7,8,5,k1ck,12,20,0.61 
+2015,04,25,19:30,KILLERFISH,k1ck,mirage,Acer Predator Masters powered ..,16,2,13,2,3,0,k1ck,1,18,0.05 
+2015,04,25,19:30,k1ck,KILLERFISH,cache,Acer Predator Masters powered ..,12,16,6,9,6,7,k1ck,10,20,0.59 
+2015,04,25,19:30,KILLERFISH,k1ck,dust2,Acer Predator Masters powered ..,12,16,10,5,2,11,k1ck,20,19,1.07 
+2015,04,25,18:15,k1ck,Atlantis,cache,Acer Predator Masters powered ..,16,10,7,8,9,2,k1ck,9,20,0.50 
+2015,04,22,18:00,k1ck,HellRaisers,mirage,DreamHack Open Tours 2015 Clos..,8,16,7,8,1,8,k1ck,7,20,0.38 
+2015,04,22,18:00,HellRaisers,k1ck,dust2,DreamHack Open Tours 2015 Clos..,16,9,8,7,8,2,k1ck,10,20,0.49 
+2015,04,22,18:00,k1ck,HellRaisers,inferno,DreamHack Open Tours 2015 Clos..,11,16,5,10,6,6,k1ck,11,19,0.69 
+2015,04,20,21:00,k1ck,G2,mirage,DreamHack Open Tours 2015 Clos..,16,14,12,3,4,11,k1ck,19,18,1.01 
+2015,04,20,21:00,G2,k1ck,cache,DreamHack Open Tours 2015 Clos..,16,14,13,2,3,12,k1ck,19,21,0.91 
+2015,04,20,21:00,G2,k1ck,dust2,DreamHack Open Tours 2015 Clos..,8,16,7,8,1,8,k1ck,10,18,0.67 

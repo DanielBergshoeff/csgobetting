@@ -1,0 +1,37 @@
+2016,03,26,14:30,CLGRed,LDLCfe,inferno,Copenhagen Games 2016 female,16,1,14,1,2,0,LDLC fe,8,17,0.43 
+2016,03,26,14:30,LDLCfe,CLGRed,cobblestone,Copenhagen Games 2016 female,8,16,3,12,5,4,LDLC fe,18,20,0.96 
+2016,03,26,11:00,LDLCfe,doyouevenfe,dust2,Copenhagen Games 2016 female,16,12,10,5,6,7,LDLC fe,21,19,1.08 
+2016,03,26,11:00,LDLCfe,doyouevenfe,mirage,Copenhagen Games 2016 female,16,7,14,1,2,6,LDLC fe,13,12,0.91 
+2016,03,26,11:00,doyouevenfe,LDLCfe,train,Copenhagen Games 2016 female,16,14,4,11,12,3,LDLC fe,21,21,0.89 
+2016,03,25,19:45,LDLCfe,Planetkeyfe,cobblestone,Copenhagen Games 2016 female,16,9,14,1,2,8,LDLC fe,17,16,0.95 
+2016,03,25,19:45,LDLCfe,Planetkeyfe,dust2,Copenhagen Games 2016 female,16,3,12,3,4,0,LDLC fe,22,11,1.71 
+2016,03,25,16:30,Exertusfe,LDLCfe,mirage,Copenhagen Games 2016 female,16,11,11,4,5,7,LDLC fe,13,19,0.71 
+2016,03,25,16:30,Exertusfe,LDLCfe,inferno,Copenhagen Games 2016 female,16,10,9,6,7,4,LDLC fe,25,17,1.38 
+2016,03,25,16:30,LDLCfe,Exertusfe,train,Copenhagen Games 2016 female,16,13,8,7,8,6,LDLC fe,16,21,0.87 
+2016,03,06,18:15,WRTP,LDLCfe,train,Intel Challenge Katowice 2016,16,6,10,5,6,1,LDLC fe,14,17,0.77 
+2016,03,06,18:15,WRTP,LDLCfe,cobblestone,Intel Challenge Katowice 2016,16,3,12,3,4,0,LDLC fe,10,17,0.62 
+2016,03,05,22:30,Exertusfe,LDLCfe,dust2,Intel Challenge Katowice 2016,3,16,3,12,0,4,LDLC fe,16,6,1.48 
+2016,03,05,21:30,Elysium,LDLCfe,dust2,Intel Challenge Katowice 2016,8,16,7,8,1,8,LDLC fe,24,16,1.42 
+2016,03,05,18:40,Exertusfe,LDLCfe,train,Intel Challenge Katowice 2016,16,13,9,6,7,7,LDLC fe,26,16,1.29 
+2015,07,12,16:00,Acerfe,Games4ufe,train,ESWC 2015 Female,14,16,9,6,5,10,Acer fe,17,21,0.78 
+2015,07,12,16:00,Games4ufe,Acerfe,cache,ESWC 2015 Female,16,3,12,3,4,0,Acer fe,5,17,0.37 
+2015,07,12,00:45,CLGRed,Acerfe,dust2,ESWC 2015 Female,16,7,11,4,5,3,Acer fe,14,17,0.85 
+2015,07,11,23:30,Acerfe,Epsilonfe,cache,ESWC 2015 Female,16,10,8,7,8,3,Acer fe,16,17,0.84 
+2015,07,11,22:30,Acerfe,LGBfe,dust2,ESWC 2015 Female,16,11,9,6,7,5,Acer fe,27,14,1.55 
+2015,04,04,19:15,3DMAXfe,BadMonkey,dust2,Copenhagen Games 2015 female,16,11,12,3,4,8,3DMAX fe,12,15,0.78 
+2015,04,04,19:15,BadMonkey,3DMAXfe,nuke,Copenhagen Games 2015 female,6,16,4,11,2,5,3DMAX fe,12,14,0.81 
+2015,04,04,19:15,BadMonkey,3DMAXfe,cobblestone,Copenhagen Games 2015 female,16,9,9,6,7,3,3DMAX fe,8,20,0.45 
+2015,04,04,13:00,Ubinited,3DMAXfe,cache,Copenhagen Games 2015 female,16,9,13,2,3,7,3DMAX fe,15,18,0.85 
+2015,04,04,13:00,Ubinited,3DMAXfe,dust2,Copenhagen Games 2015 female,16,7,9,6,7,1,3DMAX fe,18,19,1.00 
+2015,04,04,10:00,Epsilonfe,3DMAXfe,nuke,Copenhagen Games 2015 female,11,16,10,5,1,11,3DMAX fe,18,16,1.00 
+2015,04,04,10:00,Epsilonfe,3DMAXfe,inferno,Copenhagen Games 2015 female,10,16,5,10,5,6,3DMAX fe,14,17,0.87 
+2015,04,03,18:30,3DMAXfe,ex-meltyfe,inferno,Copenhagen Games 2015 female,16,13,11,4,5,9,3DMAX fe,19,15,1.10 
+2015,04,03,18:30,ex-meltyfe,3DMAXfe,dust2,Copenhagen Games 2015 female,5,16,5,10,0,6,3DMAX fe,20,10,1.61 
+2014,11,01,09:45,3DMAXfe,Karma,nuke,ESWC 2014 Female,16,11,13,2,3,9,3DMAX fe,19,14,1.17 
+2014,11,01,09:45,Karma,3DMAXfe,cobblestone,ESWC 2014 Female,7,16,6,9,1,7,3DMAX fe,20,12,1.39 
+2014,10,31,12:50,BadMonkey,3DMAXfe,inferno,ESWC 2014 Female,10,16,8,7,2,9,3DMAX fe,21,18,1.10 
+2014,10,31,12:50,3DMAXfe,BadMonkey,cobblestone,ESWC 2014 Female,16,13,12,3,4,10,3DMAX fe,21,19,1.03 
+2014,10,31,12:50,BadMonkey,3DMAXfe,cache,ESWC 2014 Female,16,14,11,4,5,10,3DMAX fe,11,22,0.52 
+2014,10,30,18:15,3DMAXfe,ALTERNATEfe,overpass,ESWC 2014 Female,16,3,13,2,3,1,3DMAX fe,20,9,1.57 
+2014,10,30,17:00,ACESLadies,3DMAXfe,inferno,ESWC 2014 Female,8,16,8,7,0,9,3DMAX fe,22,16,1.35 
+2014,10,30,15:40,3DMAXfe,Karma,inferno,ESWC 2014 Female,16,8,14,1,2,7,3DMAX fe,10,19,0.54 

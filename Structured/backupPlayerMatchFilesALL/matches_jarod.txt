@@ -1,0 +1,14 @@
+2016,03,27,19:15,LDLCBlue,DeadPixels,cobblestone,Gamers Assembly 2016,16,5,13,2,3,3,Dead Pixels,11,19,0.63 
+2016,03,07,21:00,DeadPixels,LDLCBlue,overpass,UnderDogs #2,14,16,13,2,1,14,Dead Pixels,21,22,1.00 
+2016,03,07,21:00,LDLCBlue,DeadPixels,cobblestone,UnderDogs #2,16,10,9,6,7,4,Dead Pixels,16,17,0.91 
+2016,03,07,21:00,DeadPixels,LDLCBlue,dust2,UnderDogs #2,16,12,5,10,11,2,Dead Pixels,17,19,1.00 
+2016,02,22,23:00,WaRLegenD,DeadPixels,dust2,UnderDogs #2,11,16,6,9,5,7,Dead Pixels,17,20,0.91 
+2016,02,22,23:00,WaRLegenD,DeadPixels,overpass,UnderDogs #2,12,16,6,9,6,7,Dead Pixels,19,18,1.09 
+2016,01,10,12:00,E-frag.net,DeadPixels,dust2,DreamHack Open Leipzig 2016 Cl..,16,7,10,5,6,2,Dead Pixels,12,17,0.85 
+2016,01,10,12:00,DeadPixels,E-frag.net,cache,DreamHack Open Leipzig 2016 Cl..,3,16,3,12,0,4,Dead Pixels,12,17,0.83 
+2015,10,05,19:15,unKnights,Pulse,inferno,UnderDogs #1,5,16,5,10,0,6,unKnights,17,18,1.10 
+2015,10,05,19:15,Pulse,unKnights,cache,UnderDogs #1,16,11,8,7,8,4,unKnights,14,19,0.85 
+2015,10,05,19:15,unKnights,Pulse,mirage,UnderDogs #1,22,19,9,6,6,9,unKnights,33,26,1.08 
+2015,09,16,00:15,unKnights,melty,dust2,LevelDown Championship,13,16,6,9,7,7,unKnights,15,23,0.78 
+2015,09,15,23:30,unKnights,AsusROG,train,LevelDown Championship,16,0,15,0,1,0,unKnights,20,6,1.95 
+2015,09,15,20:00,unKnights,melty,cobblestone,LevelDown Championship,12,16,5,10,7,6,unKnights,25,21,1.24 

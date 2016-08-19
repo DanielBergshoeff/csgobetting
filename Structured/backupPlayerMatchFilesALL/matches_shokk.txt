@@ -1,0 +1,4 @@
+2015,11,29,20:00,Caseking,KILLERFISH,train,99Damage League Season 2,5,16,4,11,1,5,Caseking,8,18,0.52 
+2015,11,29,20:00,KILLERFISH,Caseking,overpass,99Damage League Season 2,16,7,10,5,6,2,Caseking,16,17,1.05 
+2015,11,24,19:00,PENTA,Caseking,cobblestone,99Damage League Season 2,16,11,9,6,7,5,Caseking,17,22,0.81 
+2015,11,24,19:00,PENTA,Caseking,mirage,99Damage League Season 2,16,4,11,4,5,0,Caseking,8,17,0.49 

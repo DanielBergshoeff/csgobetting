@@ -1,0 +1,4 @@
+2014,04,30,19:00,GGWP.pro,USSR,mirage,SLTV ProSeries IX,2,16,2,13,0,3,GGWP.pro,8,15,0.52 
+2014,04,30,19:00,GGWP.pro,USSR,inferno,SLTV ProSeries IX,8,16,6,9,2,7,GGWP.pro,13,17,0.79 
+2014,04,29,20:30,FlipSid3,GGWP.pro,dust2,SLTV ProSeries IX,6,16,2,13,4,3,GGWP.pro,21,7,1.64 
+2014,04,29,20:30,FlipSid3,GGWP.pro,inferno,SLTV ProSeries IX,14,16,7,8,7,8,GGWP.pro,15,21,0.72 

@@ -1,0 +1,5 @@
+2016,08,15,19:10,HWA,Millennium,dust2,WESG 2016 Turkey,14,16,9,6,5,10,HWA,17,22,0.85 
+2016,08,15,19:10,HWA,Millennium,cobblestone,WESG 2016 Turkey,10,16,6,9,4,7,HWA,12,24,0.52 
+2016,08,14,22:15,SpaceSoldiers,HWA,cache,WESG 2016 Turkey,16,14,12,3,4,11,HWA,22,20,1.12 
+2016,08,14,22:15,SpaceSoldiers,HWA,cobblestone,WESG 2016 Turkey,16,11,4,11,12,0,HWA,25,20,1.24 
+2015,12,19,20:30,ANT-,PlayItCoolAll-Stars,dust2,Play It Cool CS:GO Community C..,19,17,5,10,10,5,ANT-,27,26,1.01 

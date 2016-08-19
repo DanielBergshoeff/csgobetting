@@ -1,0 +1,11 @@
+2016,04,20,17:00,DigitalWave,MustBeStronger,cache,StarLadder Regional Minor Cham..,16,11,8,7,8,4,Must Be Stronger,17,23,0.73 
+2016,04,20,17:00,DigitalWave,MustBeStronger,mirage,StarLadder Regional Minor Cham..,16,14,10,5,6,9,Must Be Stronger,18,22,0.87 
+2015,09,01,21:15,Phenomenon,hard'N'play,train,Rising Tornado #4,16,4,12,3,4,1,hard'N'play,4,18,0.28 
+2015,09,01,21:15,Phenomenon,hard'N'play,cache,Rising Tornado #4,16,2,13,2,3,0,hard'N'play,12,18,0.72 
+2015,08,28,20:00,hard'N'play,Enso,train,Rising Tornado #4,8,16,5,10,3,6,hard'N'play,8,21,0.43 
+2015,08,28,20:00,Enso,hard'N'play,overpass,Rising Tornado #4,16,6,13,2,3,4,hard'N'play,15,18,0.80 
+2015,05,07,22:15,LANDODGERS,MoscowFive,mirage,Uprise Champions Cup Season 2,16,14,14,1,2,13,LAN DODGERS,21,19,1.00 
+2015,05,07,22:15,LANDODGERS,MoscowFive,overpass,Uprise Champions Cup Season 2,9,16,6,9,3,7,LAN DODGERS,13,19,0.65 
+2015,05,07,22:15,LANDODGERS,MoscowFive,dust2,Uprise Champions Cup Season 2,16,13,8,7,8,6,LAN DODGERS,21,21,0.93 
+2015,05,07,18:00,ACES,LANDODGERS,mirage,Uprise Champions Cup Season 2,16,9,10,5,6,4,LAN DODGERS,15,21,0.72 
+2015,05,07,18:00,ACES,LANDODGERS,cobblestone,Uprise Champions Cup Season 2,16,11,9,6,7,5,LAN DODGERS,9,25,0.36 

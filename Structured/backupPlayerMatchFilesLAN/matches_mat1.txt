@@ -1,0 +1,4 @@
+2016,07,03,14:00,fruits,eXtatus,cobblestone,Infinity Coliseum LAN 33,16,9,10,5,6,4,fruits,25,15,1.39 
+2016,07,03,14:00,eXtatus,fruits,overpass,Infinity Coliseum LAN 33,10,16,6,9,4,7,fruits,20,13,1.14 
+2016,07,03,14:00,eXtatus,fruits,train,Infinity Coliseum LAN 33,13,16,6,9,7,7,fruits,11,19,0.62 
+2016,07,03,14:00,fruits,eXtatus,mirage,Infinity Coliseum LAN 33,5,16,5,10,0,6,fruits,16,16,1.08 

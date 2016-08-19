@@ -1,0 +1,22 @@
+2014,10,19,12:00,Epsilon,NatusVincere,overpass,SLTV StarSeries XI Finals,12,16,11,4,1,12,Epsilon,20,18,1.03 
+2014,10,19,12:00,Epsilon,NatusVincere,inferno,SLTV StarSeries XI Finals,10,16,3,12,7,4,Epsilon,16,21,0.72 
+2014,10,18,13:30,Titan,Epsilon,cache,SLTV StarSeries XI Finals,16,13,10,5,6,8,Epsilon,20,18,1.15 
+2014,10,18,13:30,Titan,Epsilon,dust2,SLTV StarSeries XI Finals,16,10,8,7,8,3,Epsilon,20,19,1.04 
+2014,08,16,13:25,Epsilon,dignitas,inferno,ESL One Cologne 2014,8,16,1,14,7,2,Epsilon,19,20,0.97 
+2014,08,16,13:25,dignitas,Epsilon,dust2,ESL One Cologne 2014,16,9,11,4,5,5,Epsilon,11,21,0.57 
+2014,08,15,09:30,NiP,Epsilon,cobblestone,ESL One Cologne 2014,6,16,6,9,0,7,Epsilon,14,17,0.82 
+2014,08,14,09:20,Epsilon,HellRaisers,inferno,ESL One Cologne 2014,16,1,14,1,2,0,Epsilon,16,8,1.53 
+2014,08,03,10:00,Epsilon,LondonC,inferno,Gfinity 3,12,16,9,6,3,10,Epsilon,18,17,1.09 
+2014,08,03,00:15,iBUYPOWER,Epsilon,inferno,Gfinity 3,16,13,9,6,7,7,Epsilon,13,20,0.85 
+2014,08,02,21:45,Infused,Epsilon,inferno,Gfinity 3,7,16,6,9,1,7,Epsilon,14,14,0.90 
+2014,08,02,14:10,fnatic,Epsilon,inferno,Gfinity 3,16,6,14,1,2,5,Epsilon,7,19,0.46 
+2014,08,02,11:15,Epsilon,NiP,dust2,Gfinity 3,16,14,4,11,12,3,Epsilon,18,24,0.78 
+2014,07,19,22:45,LDLC,Epsilon,nuke,DreamHack Valencia 2014,16,11,12,3,4,8,Epsilon,13,22,0.64 
+2014,07,19,22:45,LDLC,Epsilon,inferno,DreamHack Valencia 2014,16,6,13,2,3,4,Epsilon,13,19,0.74 
+2014,07,19,22:45,Epsilon,LDLC,mirage,DreamHack Valencia 2014,16,5,11,4,5,1,Epsilon,26,13,1.73 
+2014,07,19,15:00,HellRaisers,Epsilon,dust2,DreamHack Valencia 2014,0,16,0,15,0,1,Epsilon,10,8,1.00 
+2014,07,19,15:00,Epsilon,HellRaisers,inferno,DreamHack Valencia 2014,16,11,9,6,7,5,Epsilon,11,17,0.73 
+2014,07,19,15:00,HellRaisers,Epsilon,mirage,DreamHack Valencia 2014,16,9,11,4,5,5,Epsilon,16,21,0.78 
+2014,07,19,11:20,OverGaming,Epsilon,nuke,DreamHack Valencia 2014,9,16,6,9,3,7,Epsilon,9,17,0.63 
+2014,07,19,11:20,OverGaming,Epsilon,mirage,DreamHack Valencia 2014,12,16,6,9,6,7,Epsilon,17,19,0.94 
+2014,07,18,20:25,Epsilon,Platinium,inferno,DreamHack Valencia 2014,16,13,10,5,6,8,Epsilon,30,19,1.49 

@@ -1,0 +1,51 @@
+2016,08,05,20:30,ArchAngels,Tricked,cobblestone,ASUS ROG Summer 2016,12,16,7,8,5,8,ArchAngels,15,19,0.79 
+2016,08,05,19:00,ArchAngels,ENCE,mirage,ASUS ROG Summer 2016,10,16,8,7,2,9,ArchAngels,18,20,0.92 
+2016,06,18,20:00,ArchAngels,Epsilon,overpass,ESPORTSM 2016 Finals,16,19,9,6,6,9,ArchAngels,24,27,0.91 
+2016,06,18,20:00,Epsilon,ArchAngels,mirage,ESPORTSM 2016 Finals,16,8,7,8,9,0,ArchAngels,22,18,1.19 
+2016,03,26,13:00,Publiclir.se,HellRaisers,cache,Copenhagen Games 2016,10,16,7,8,3,8,Publiclir.se,23,21,1.23 
+2016,03,26,13:00,HellRaisers,Publiclir.se,dust2,Copenhagen Games 2016,16,12,8,7,8,5,Publiclir.se,17,18,0.92 
+2016,03,25,22:30,Publiclir.se,CPHWolves,cache,Copenhagen Games 2016,16,12,10,5,6,7,Publiclir.se,16,16,0.99 
+2016,03,25,22:30,Publiclir.se,CPHWolves,overpass,Copenhagen Games 2016,16,10,9,6,7,4,Publiclir.se,24,17,1.32 
+2016,03,25,15:45,Plantronics,Publiclir.se,cache,Copenhagen Games 2016,15,19,6,9,9,6,Publiclir.se,31,24,1.22 
+2016,03,25,13:30,SK,Publiclir.se,mirage,Copenhagen Games 2016,16,8,12,3,4,5,Publiclir.se,15,18,0.97 
+2016,03,25,11:55,ENCE,Publiclir.se,mirage,Copenhagen Games 2016,13,16,5,10,8,6,Publiclir.se,27,18,1.41 
+2016,03,24,23:00,Orbit,Publiclir.se,cache,Copenhagen Games 2016 BYOC Qua..,11,16,6,9,5,7,Publiclir.se,19,15,1.12 
+2016,03,24,23:00,Orbit,Publiclir.se,mirage,Copenhagen Games 2016 BYOC Qua..,16,8,12,3,4,5,Publiclir.se,14,18,0.84 
+2016,03,24,23:00,Publiclir.se,Orbit,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,8,7,8,2,Publiclir.se,28,14,1.69 
+2016,03,24,19:00,GamersLeague,Publiclir.se,dust2,Copenhagen Games 2016 BYOC Qua..,6,16,4,11,2,5,Publiclir.se,22,9,1.61 
+2016,03,24,19:00,Publiclir.se,GamersLeague,cobblestone,Copenhagen Games 2016 BYOC Qua..,13,16,7,8,6,8,Publiclir.se,19,19,0.99 
+2016,03,24,19:00,Publiclir.se,GamersLeague,mirage,Copenhagen Games 2016 BYOC Qua..,16,7,13,2,3,5,Publiclir.se,17,13,1.10 
+2016,03,24,15:30,FAB,Publiclir.se,cobblestone,Copenhagen Games 2016 BYOC Qua..,15,19,7,8,8,7,Publiclir.se,24,23,1.04 
+2016,03,24,13:00,Publiclir.se,Wicked,dust2,Copenhagen Games 2016 BYOC Qua..,16,5,10,5,6,0,Publiclir.se,18,15,1.11 
+2016,02,21,11:00,BX3,Publiclir.se,inferno,Nordic Masters Season 2 Finals,22,18,9,6,6,9,Publiclir.se,30,27,1.09 
+2016,02,21,11:00,BX3,Publiclir.se,dust2,Nordic Masters Season 2 Finals,16,10,7,8,9,2,Publiclir.se,13,21,0.64 
+2016,02,21,11:00,Publiclir.se,BX3,mirage,Nordic Masters Season 2 Finals,25,21,8,7,7,8,Publiclir.se,19,31,0.66 
+2016,02,19,15:15,Publiclir.se,Preparation,mirage,Nordic Masters Season 2 Finals,16,13,8,7,8,6,Publiclir.se,22,16,1.08 
+2016,02,19,15:15,Publiclir.se,Preparation,cache,Nordic Masters Season 2 Finals,16,6,13,2,3,4,Publiclir.se,15,14,1.13 
+2016,02,19,12:35,Optimum,Publiclir.se,mirage,Nordic Masters Season 2 Finals,16,19,5,10,10,5,Publiclir.se,28,23,1.08 
+2016,02,05,15:15,Method,Cloud9,dust2,Game Show Global eSports Cup 2..,11,16,6,9,5,7,Method,6,20,0.40 
+2016,02,05,15:15,Cloud9,Method,cache,Game Show Global eSports Cup 2..,16,14,9,6,7,8,Method,19,21,0.87 
+2016,02,05,13:00,Method,Astralis,overpass,Game Show Global eSports Cup 2..,4,16,4,11,0,5,Method,14,17,0.97 
+2016,02,05,13:00,Astralis,Method,mirage,Game Show Global eSports Cup 2..,16,2,14,1,2,1,Method,10,17,0.64 
+2015,11,28,21:30,GameplayDNA,OnlineBOTS,dust2,Capital NEO Gaming Cup 2015,10,16,8,7,2,9,OnlineBOTS,17,16,1.06 
+2015,11,28,21:30,GameplayDNA,OnlineBOTS,inferno,Capital NEO Gaming Cup 2015,21,19,8,7,7,8,OnlineBOTS,22,28,0.76 
+2015,11,28,21:29,GameplayDNA,OnlineBOTS,overpass,Capital NEO Gaming Cup 2015,3,16,3,12,0,4,OnlineBOTS,17,6,1.58 
+2015,11,28,16:45,DICKHOUSE,OnlineBOTS,mirage,Capital NEO Gaming Cup 2015,13,16,10,5,3,11,OnlineBOTS,20,17,1.09 
+2015,11,28,16:45,OnlineBOTS,DICKHOUSE,cache,Capital NEO Gaming Cup 2015,16,12,6,9,10,3,OnlineBOTS,22,16,1.15 
+2015,11,22,15:30,OnlineBOTS,Publiclir.se,inferno,AlienTech AllStars,10,16,8,7,2,9,OnlineBOTS,13,20,0.70 
+2015,11,22,15:30,OnlineBOTS,Publiclir.se,cache,AlienTech AllStars,14,16,5,10,9,6,OnlineBOTS,12,24,0.54 
+2015,11,22,11:30,OnlineBOTS,k1ck,inferno,AlienTech AllStars,13,16,9,6,4,10,OnlineBOTS,28,17,1.44 
+2015,11,22,11:30,k1ck,OnlineBOTS,dust2,AlienTech AllStars,16,7,12,3,4,4,OnlineBOTS,12,20,0.67 
+2015,11,21,19:30,AlienTech,OnlineBOTS,dust2,AlienTech AllStars,7,16,5,10,2,6,OnlineBOTS,17,12,1.31 
+2015,11,21,19:30,AlienTech,OnlineBOTS,cobblestone,AlienTech AllStars,14,16,8,7,6,9,OnlineBOTS,24,20,1.10 
+2015,11,20,18:30,Publiclir.se,OnlineBOTS,cache,AlienTech AllStars,16,10,13,2,3,8,OnlineBOTS,23,21,1.16 
+2015,11,20,17:00,OnlineBOTS,LECARTEL,cache,AlienTech AllStars,16,1,14,1,2,0,OnlineBOTS,15,5,1.55 
+2015,11,20,15:45,FTW.EvoPrinfor,OnlineBOTS,cache,AlienTech AllStars,5,16,4,11,1,5,OnlineBOTS,20,15,1.19 
+2015,10,25,12:00,Infused,UESmash,overpass,ESL UK Premiership Season 2 Fi..,14,16,8,7,6,9,UESmash,21,19,1.04 
+2015,10,25,12:00,Infused,UESmash,mirage,ESL UK Premiership Season 2 Fi..,12,16,7,8,5,8,UESmash,25,19,1.24 
+2015,10,25,12:00,Infused,UESmash,cache,ESL UK Premiership Season 2 Fi..,7,16,5,10,2,6,UESmash,32,12,2.21 
+2015,10,25,12:00,Infused,UESmash,cobblestone,ESL UK Premiership Season 2 Fi..,16,7,8,7,8,0,UESmash,13,18,0.78 
+2015,10,24,16:05,XENEX,UESmash,dust2,ESL UK Premiership Season 2 Fi..,3,16,3,12,0,4,UESmash,18,9,1.50 
+2015,10,24,16:05,XENEX,UESmash,cache,ESL UK Premiership Season 2 Fi..,11,16,7,8,4,8,UESmash,19,19,1.00 
+2015,06,13,19:15,dignitas,Team8,mirage,DreamHack Open Summer 2015 BYO..,16,12,11,4,5,8,Team8,15,20,0.81 
+2015,06,13,19:15,Team8,dignitas,dust2,DreamHack Open Summer 2015 BYO..,7,16,5,10,2,6,Team8,9,19,0.49 

@@ -1,0 +1,13 @@
+2016,08,15,16:00,Austria,UnitedKingdom,dust2,World Championships 2016 Europ..,10,16,5,10,5,6,Austria,20,20,1.10 
+2016,08,15,16:00,UnitedKingdom,Austria,cache,World Championships 2016 Europ..,16,7,12,3,4,4,Austria,13,21,0.57 
+2016,07,26,19:50,Epsilon,LeiSuRe,cobblestone,WCA 2016 EU Qualifier,16,11,5,10,11,1,LeiSuRe,21,21,1.02 
+2016,07,26,19:50,LeiSuRe,Epsilon,mirage,WCA 2016 EU Qualifier,17,19,8,7,7,8,LeiSuRe,24,25,0.97 
+2016,05,28,18:00,WinneR,mix123,mirage,DreamHack ZOWIE Open Summer 20..,8,16,5,10,3,6,WinneR,11,19,0.63 
+2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,train,ESL Meisterschaft Spring 2016 ..,12,16,8,7,4,9,LeiSuRe,18,18,0.91 
+2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,dust2,ESL Meisterschaft Spring 2016 ..,11,16,7,8,4,8,LeiSuRe,22,15,1.26 
+2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,cache,ESL Meisterschaft Spring 2016 ..,16,6,12,3,4,3,LeiSuRe,9,17,0.61 
+2016,05,07,17:35,LeiSuRe,FAB,train,ESL Meisterschaft Spring 2016 ..,16,7,11,4,5,3,LeiSuRe,19,13,1.27 
+2016,05,07,17:35,LeiSuRe,FAB,cobblestone,ESL Meisterschaft Spring 2016 ..,8,16,4,11,4,5,LeiSuRe,11,23,0.51 
+2016,05,07,17:35,LeiSuRe,FAB,cache,ESL Meisterschaft Spring 2016 ..,16,12,8,7,8,5,LeiSuRe,31,18,1.51 
+2016,03,11,23:50,eSuba,LeiSuRe,mirage,Razer Rising Stars European Le..,16,4,13,2,3,2,LeiSuRe,4,20,0.17 
+2016,03,11,20:00,LeiSuRe,FluffyGangsters,dust2,Razer Rising Stars European Le..,16,14,5,10,11,4,LeiSuRe,17,22,0.75 

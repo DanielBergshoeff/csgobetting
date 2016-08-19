@@ -1,0 +1,13 @@
+2016,05,14,17:30,XPC,neXtPlease!,cobblestone,PC Garage Clutch Masters by St..,16,11,5,10,11,1,neXtPlease!,20,18,1.06 
+2016,05,14,17:30,XPC,neXtPlease!,cache,PC Garage Clutch Masters by St..,16,5,11,4,5,1,neXtPlease!,10,19,0.53 
+2016,05,14,16:15,cooL,neXtPlease!,mirage,PC Garage Clutch Masters by St..,2,16,2,13,0,3,neXtPlease!,24,7,2.10 
+2016,05,14,13:40,neXtPlease!,IGG,mirage,PC Garage Clutch Masters by St..,16,8,8,7,8,1,neXtPlease!,17,18,0.92 
+2016,05,14,12:30,neXtPlease!,XPC,cobblestone,PC Garage Clutch Masters by St..,9,16,6,9,3,7,neXtPlease!,17,21,0.91 
+2016,04,18,21:00,Bpro,neXtPlease!,cache,Balkan Championship Season 3,16,8,13,2,3,6,neXtPlease!,17,19,1.00 
+2016,04,16,19:00,neXtPlease!,RB,cache,Balkan Championship Season 3,7,16,2,13,5,3,neXtPlease!,17,19,0.94 
+2016,04,03,19:00,neXtPlease!,CS-GO.rs,inferno,Balkan Championship Season 3,16,14,3,12,13,2,neXtPlease!,21,19,0.98 
+2015,09,30,21:30,XPC,NoProblem!,inferno,QuickShot Arena #9,6,16,3,12,3,4,XPC,10,18,0.58 
+2015,05,14,21:00,Airwalk,neXtPlease!,mirage,Balkan Championship Season 2,2,16,2,13,0,3,Airwalk,10,17,0.73 
+2015,05,14,21:00,neXtPlease!,Airwalk,inferno,Balkan Championship Season 2,16,4,13,2,3,2,Airwalk,6,18,0.36 
+2015,05,13,18:00,GPlay,Airwalk,cobblestone,Balkan Championship Season 2,16,1,14,1,2,0,Airwalk,8,16,0.58 
+2015,05,13,18:00,GPlay,Airwalk,mirage,Balkan Championship Season 2,16,0,15,0,1,0,Airwalk,6,15,0.47 

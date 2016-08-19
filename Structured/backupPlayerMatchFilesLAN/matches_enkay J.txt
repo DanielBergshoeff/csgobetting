@@ -1,0 +1,2 @@
+2015,12,05,16:30,PENTA,Planetkey,mirage,ESL Meisterschaft Winter 2015 ..,19,15,10,5,5,10,Planetkey,19,26,0.80 
+2015,12,05,16:30,Planetkey,PENTA,cache,ESL Meisterschaft Winter 2015 ..,3,16,3,12,0,4,Planetkey,6,18,0.34 

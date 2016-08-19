@@ -1,0 +1,15 @@
+2015,10,30,17:15,ajuri,Torpedo,cobblestone,ASUS ROG Nordic Challenge,3,16,3,12,0,4,ajuri,13,16,1.01 
+2015,10,30,17:15,ajuri,Torpedo,cache,ASUS ROG Nordic Challenge,8,16,3,12,5,4,ajuri,12,20,0.70 
+2015,10,05,20:00,MaxAndRelax,WorstPlayers,cobblestone,GameAgents League Season 2,16,8,11,4,5,4,MaxAndRelax,14,17,0.89 
+2015,10,05,20:00,WorstPlayers,MaxAndRelax,cache,GameAgents League Season 2,8,16,4,11,4,5,MaxAndRelax,22,13,1.36 
+2015,05,24,21:00,nerdRage,EnVyUs,inferno,Fragbite Masters Season 4,13,16,7,8,6,8,nerdRage,18,23,0.78 
+2015,05,20,21:00,Acer,nerdRage,cobblestone,Fragbite Masters Season 4,16,3,12,3,4,0,nerdRage,4,18,0.25 
+2015,05,20,21:00,Acer,nerdRage,overpass,Fragbite Masters Season 4,16,14,10,5,6,9,nerdRage,11,24,0.51 
+2015,05,20,21:00,Acer,nerdRage,dust2,Fragbite Masters Season 4,11,16,7,8,4,8,nerdRage,9,20,0.49 
+2015,05,14,18:00,AlienTech.Black,nerdRage,cache,Fragbite Masters Season 4,7,16,6,9,1,7,nerdRage,19,13,1.27 
+2015,05,14,18:00,nerdRage,AlienTech.Black,dust2,Fragbite Masters Season 4,16,9,10,5,6,4,nerdRage,15,17,0.86 
+2015,05,13,18:00,fnatic,nerdRage,mirage,Fragbite Masters Season 4,16,5,11,4,5,1,nerdRage,15,20,0.80 
+2015,05,13,18:00,fnatic,nerdRage,dust2,Fragbite Masters Season 4,16,10,11,4,5,6,nerdRage,12,21,0.59 
+2015,04,22,19:00,OnlineBOTS,nerdRage,mirage,Fragbite Masters Season 4 Qual..,5,16,5,10,0,6,nerdRage,12,12,0.91 
+2015,04,22,19:00,OnlineBOTS,nerdRage,dust2,Fragbite Masters Season 4 Qual..,16,1,14,1,2,0,nerdRage,3,16,0.20 
+2015,04,22,19:00,nerdRage,OnlineBOTS,cache,Fragbite Masters Season 4 Qual..,16,6,11,4,5,2,nerdRage,20,11,1.46 

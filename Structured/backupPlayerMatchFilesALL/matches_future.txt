@@ -1,0 +1,6 @@
+2016,06,19,11:00,FIVE,AllGamers,mirage,WCA Season 2 China Qualifier,22,18,9,6,6,9,FIVE,35,26,1.28 
+2016,06,19,11:00,AllGamers,FIVE,cache,WCA Season 2 China Qualifier,16,7,10,5,6,2,FIVE,17,17,1.11 
+2016,06,18,08:00,LGD,FIVE,overpass,WCA Season 2 China Qualifier,19,17,8,7,7,8,FIVE,27,25,0.99 
+2016,06,18,08:00,FIVE,LGD,mirage,WCA Season 2 China Qualifier,12,16,10,5,2,11,FIVE,11,18,0.79 
+2016,06,15,12:00,FIVE,EHOME,train,WCA Season 2 China Qualifier,9,16,8,7,1,9,FIVE,11,22,0.51 
+2016,06,15,12:00,FIVE,EHOME,dust2,WCA Season 2 China Qualifier,16,9,13,2,3,7,FIVE,17,16,1.05 

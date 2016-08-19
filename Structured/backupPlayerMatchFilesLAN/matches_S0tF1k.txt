@@ -1,0 +1,25 @@
+2016,04,29,13:00,Empire,Arcade,nuke,StarLadder Minor CIS - Cologne..,16,14,12,3,4,11,Arcade,15,23,0.70 
+2016,04,28,11:55,Arcade,FluffyGangsters,train,StarLadder Minor CIS - Cologne..,13,16,7,8,6,8,Arcade,21,18,1.13 
+2015,11,18,21:00,YP,PARTY,cache,CIS LAN Championship #2,16,19,6,9,9,6,YP,18,26,0.74 
+2015,11,18,21:00,YP,PARTY,dust2,CIS LAN Championship #2,6,16,5,10,1,6,YP,19,18,1.03 
+2015,11,18,09:15,VegaSquadron,YP,cache,CIS LAN Championship #2,16,3,12,3,4,0,YP,7,17,0.42 
+2015,11,18,09:15,VegaSquadron,YP,inferno,CIS LAN Championship #2,19,17,10,5,5,10,YP,22,26,0.80 
+2015,11,16,22:45,YP,Enso,inferno,CIS LAN Championship #2,16,6,11,4,5,2,YP,21,14,1.28 
+2015,11,16,22:45,Enso,YP,dust2,CIS LAN Championship #2,12,16,4,11,8,5,YP,15,22,0.85 
+2015,11,16,22:45,Enso,YP,mirage,CIS LAN Championship #2,16,9,10,5,6,4,YP,21,19,1.06 
+2015,11,16,15:45,YP,Rebels,dust2,CIS LAN Championship #2,10,16,8,7,2,9,YP,18,21,0.98 
+2015,11,16,15:45,Rebels,YP,cobblestone,CIS LAN Championship #2,6,16,3,12,3,4,YP,11,15,0.73 
+2015,11,16,15:45,Rebels,YP,mirage,CIS LAN Championship #2,16,8,8,7,8,1,YP,14,20,0.84 
+2015,11,16,13:10,YP,eXplosive,dust2,CIS LAN Championship #2,16,13,5,10,11,3,YP,33,16,1.60 
+2015,11,16,13:10,YP,eXplosive,cache,CIS LAN Championship #2,16,10,8,7,8,3,YP,16,17,0.98 
+2015,09,30,11:30,Enervate,PiTER,dust2,Uprise Champions Cup Season 3 ..,6,16,3,12,3,4,Enervate,21,16,1.39 
+2015,09,30,11:30,PiTER,Enervate,cache,Uprise Champions Cup Season 3 ..,10,16,4,11,6,5,Enervate,24,16,1.33 
+2015,09,30,11:30,Enervate,PiTER,cobblestone,Uprise Champions Cup Season 3 ..,5,16,5,10,0,6,Enervate,10,19,0.50 
+2015,09,29,17:00,Enervate,VegaSquadron,cache,Uprise Champions Cup Season 3 ..,16,2,13,2,3,0,Enervate,19,10,1.57 
+2015,09,29,17:00,VegaSquadron,Enervate,mirage,Uprise Champions Cup Season 3 ..,16,19,5,10,10,5,Enervate,22,26,0.93 
+2015,09,29,14:15,RCTIC,Enervate,mirage,Uprise Champions Cup Season 3 ..,13,16,6,9,7,7,Enervate,14,19,0.78 
+2015,09,29,14:15,Enervate,RCTIC,cobblestone,Uprise Champions Cup Season 3 ..,16,13,12,3,4,10,Enervate,29,14,1.66 
+2015,09,29,00:45,E-frag.net,Enervate,dust2,Uprise Champions Cup Season 3 ..,16,12,9,6,7,6,Enervate,18,21,0.93 
+2015,09,29,00:45,Enervate,E-frag.net,cache,Uprise Champions Cup Season 3 ..,6,16,5,10,1,6,Enervate,18,19,1.03 
+2015,09,28,18:50,Enervate,Nostalgie,mirage,Uprise Champions Cup Season 3 ..,19,16,8,7,7,8,Enervate,23,25,0.91 
+2015,09,28,18:50,Enervate,Nostalgie,cobblestone,Uprise Champions Cup Season 3 ..,16,11,6,9,10,2,Enervate,16,19,0.87 

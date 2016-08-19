@@ -1,0 +1,33 @@
+2016,05,21,09:00,GODSENT,WorstPlayers,overpass,SL i-League Invitational #1,16,6,9,6,7,0,Worst Players,9,17,0.55 
+2016,05,21,09:00,GODSENT,WorstPlayers,cobblestone,SL i-League Invitational #1,11,16,6,9,5,7,Worst Players,18,18,0.94 
+2016,05,21,09:00,WorstPlayers,GODSENT,mirage,SL i-League Invitational #1,14,16,4,11,10,5,Worst Players,24,25,0.98 
+2016,05,19,13:30,SK,WorstPlayers,cache,SL i-League Invitational #1,8,16,5,10,3,6,Worst Players,13,14,0.87 
+2016,05,19,13:30,WorstPlayers,SK,mirage,SL i-League Invitational #1,16,8,8,7,8,1,Worst Players,12,14,0.85 
+2016,05,19,09:30,Virtus.pro,WorstPlayers,cobblestone,SL i-League Invitational #1,16,13,7,8,9,5,Worst Players,29,18,1.47 
+2016,05,19,09:30,Virtus.pro,WorstPlayers,cache,SL i-League Invitational #1,17,19,7,8,8,7,Worst Players,26,26,1.02 
+2016,05,19,09:30,Virtus.pro,WorstPlayers,mirage,SL i-League Invitational #1,16,5,10,5,6,0,Worst Players,15,19,0.84 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,16,11,7,8,9,3,Worst Players,8,21,0.45 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,dust2,StarLadder Minor CIS - Cologne..,16,14,7,8,9,6,Worst Players,22,17,1.10 
+2016,05,01,13:00,ANOX,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,11,16,5,10,6,6,Worst Players,17,18,1.01 
+2016,05,01,13:00,WorstPlayers,ANOX,cache,StarLadder Minor CIS - Cologne..,9,16,8,7,1,9,Worst Players,11,20,0.58 
+2016,05,01,13:00,ANOX,WorstPlayers,mirage,StarLadder Minor CIS - Cologne..,9,16,5,10,4,6,Worst Players,16,15,0.98 
+2016,04,30,16:45,WorstPlayers,Empire,train,StarLadder Minor CIS - Cologne..,11,16,10,5,1,11,Worst Players,14,22,0.71 
+2016,04,30,16:45,WorstPlayers,Empire,dust2,StarLadder Minor CIS - Cologne..,10,16,5,10,5,6,Worst Players,16,18,0.94 
+2016,04,30,16:44,Empire,WorstPlayers,mirage,StarLadder Minor CIS - Cologne..,16,19,10,5,5,10,Worst Players,21,25,0.78 
+2016,04,28,19:00,ANOX,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,14,16,9,6,5,10,Worst Players,25,24,1.05 
+2016,04,28,19:00,WorstPlayers,ANOX,train,StarLadder Minor CIS - Cologne..,16,10,10,5,6,5,Worst Players,23,17,1.36 
+2016,04,28,14:30,WorstPlayers,Vesuvius,mirage,StarLadder Minor CIS - Cologne..,16,3,14,1,2,2,Worst Players,11,9,1.00 
+2016,04,23,16:00,EDF,FIVE,inferno,Pro Gamers League 2016 Spring,3,16,3,12,0,4,EDF,8,17,0.47 
+2016,04,23,16:00,FIVE,EDF,cache,Pro Gamers League 2016 Spring,16,1,14,1,2,0,EDF,6,17,0.36 
+2016,02,26,22:45,YP,Liquid,overpass,MLG Columbus 2016 Main Qualifi..,2,16,2,13,0,3,YP,9,17,0.56 
+2016,02,26,19:00,mousesports,YP,cobblestone,MLG Columbus 2016 Main Qualifi..,16,1,14,1,2,0,YP,15,16,0.92 
+2015,11,18,17:15,Rebels,Enso,overpass,CIS LAN Championship #2,20,22,7,8,8,7,Rebels,29,32,0.94 
+2015,11,18,17:15,Enso,Rebels,dust2,CIS LAN Championship #2,16,13,3,12,13,1,Rebels,27,21,1.26 
+2015,11,18,14:15,PiTER,Rebels,mirage,CIS LAN Championship #2,16,11,8,7,8,4,Rebels,28,22,1.43 
+2015,11,18,14:15,PiTER,Rebels,overpass,CIS LAN Championship #2,16,10,10,5,6,5,Rebels,14,21,0.67 
+2015,11,16,15:45,YP,Rebels,dust2,CIS LAN Championship #2,10,16,8,7,2,9,Rebels,20,16,1.31 
+2015,11,16,15:45,Rebels,YP,cobblestone,CIS LAN Championship #2,6,16,3,12,3,4,Rebels,11,16,0.72 
+2015,11,16,15:45,Rebels,YP,mirage,CIS LAN Championship #2,16,8,8,7,8,1,Rebels,17,16,1.06 
+2015,11,16,08:30,Rebels,Enso,train,CIS LAN Championship #2,16,13,11,4,5,9,Rebels,19,21,0.93 
+2015,11,16,08:30,Rebels,Enso,mirage,CIS LAN Championship #2,9,16,6,9,3,7,Rebels,18,19,0.98 
+2015,11,16,08:30,Rebels,Enso,overpass,CIS LAN Championship #2,16,9,8,7,8,2,Rebels,19,13,1.21 

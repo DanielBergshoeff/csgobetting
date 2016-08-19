@@ -1,0 +1,28 @@
+2016,08,04,21:00,ALTERNATEaTTaX,OsloLions,cache,ESEA Premier Season 22 Europe,16,12,7,8,9,4,Oslo Lions,22,18,1.20 
+2016,08,04,21:00,ALTERNATEaTTaX,OsloLions,nuke,ESEA Premier Season 22 Europe,6,16,3,12,3,4,Oslo Lions,22,9,1.53 
+2016,08,04,21:00,ALTERNATEaTTaX,OsloLions,cobblestone,ESEA Premier Season 22 Europe,16,13,7,8,9,5,Oslo Lions,27,17,1.50 
+2016,05,28,18:00,Arcade,Lions,cache,DreamHack ZOWIE Open Summer 20..,16,13,8,7,8,6,Lions,17,21,0.83 
+2016,05,26,19:15,Tricked,Lions,cobblestone,xfunction Challenge,16,10,10,5,6,5,Lions,11,19,0.60 
+2016,05,26,19:15,Tricked,Lions,inferno,xfunction Challenge,16,9,9,6,7,3,Lions,14,16,0.83 
+2016,05,26,19:15,Lions,Tricked,train,xfunction Challenge,16,9,10,5,6,4,Lions,18,13,1.18 
+2016,05,20,21:40,Lions,AlienTech,train,xfunction Challenge,16,3,14,1,2,2,Lions,18,9,1.40 
+2016,05,20,21:40,AlienTech,Lions,cache,xfunction Challenge,19,16,7,8,8,7,Lions,23,27,0.92 
+2016,05,20,21:40,AlienTech,Lions,cobblestone,xfunction Challenge,16,19,6,9,9,6,Lions,23,28,0.89 
+2016,02,09,22:00,Granted,Platinium,inferno,Uprise Champions Cup Season 4 ..,8,16,6,9,2,7,Granted,17,15,1.07 
+2016,02,09,22:00,Platinium,Granted,mirage,Uprise Champions Cup Season 4 ..,16,11,11,4,5,7,Granted,17,21,0.84 
+2016,02,09,22:00,Granted,Platinium,cobblestone,Uprise Champions Cup Season 4 ..,16,9,10,5,6,4,Granted,22,14,1.23 
+2016,02,05,21:30,KoNNorway,KoNDenmark,inferno,King of Nordic Season 3,11,16,3,12,8,4,KoN Norway,23,16,1.34 
+2016,02,05,20:15,KoNNorway,KoNFinland,inferno,King of Nordic Season 3,16,8,7,8,9,0,KoN Norway,19,16,1.01 
+2015,11,20,19:30,eSuba,Refuse,mirage,QuickShot Arena #15,16,5,13,2,3,3,Refuse,13,18,0.69 
+2015,11,20,17:00,eXplosive,Refuse,cache,QuickShot Arena #15,16,3,12,3,4,0,Refuse,2,18,0.13 
+2015,11,05,20:45,NoProblem!,Refuse,cache,QuickShot Arena #13,19,17,7,8,8,7,Refuse,17,29,0.62 
+2015,11,05,17:00,Refuse,OnlineBOTS,cache,QuickShot Arena #13,19,15,7,8,8,7,Refuse,20,26,0.73 
+2015,11,01,17:00,Refuse,VegaSquadron,overpass,QuickShot Showmatches,5,16,4,11,1,5,Refuse,17,20,0.94 
+2015,11,01,17:00,Refuse,VegaSquadron,cache,QuickShot Showmatches,13,16,3,12,10,4,Refuse,21,22,0.94 
+2015,11,01,17:00,Refuse,VegaSquadron,mirage,QuickShot Showmatches,16,8,8,7,8,1,Refuse,17,15,1.14 
+2015,09,03,20:30,SpaceSoldiers,Aposis,mirage,QuickShot Arena #5,16,6,12,3,4,3,Aposis,16,18,0.84 
+2015,09,03,18:00,Aposis,nerdRage,cache,QuickShot Arena #5,12,16,5,10,7,6,Aposis,19,19,0.93 
+2015,09,03,18:00,nerdRage,Aposis,mirage,QuickShot Arena #5,16,6,10,5,6,1,Aposis,15,17,0.97 
+2015,09,02,21:30,Aposis,PlayingDucks,inferno,QuickShot Arena #5,16,8,9,6,7,2,Aposis,27,11,1.72 
+2015,09,02,21:30,PlayingDucks,Aposis,mirage,QuickShot Arena #5,12,16,6,9,6,7,Aposis,10,18,0.63 
+2015,08,17,18:00,dignitas,Aposis,mirage,Hitbox Arena Showdown Invitati..,16,5,11,4,5,1,Aposis,11,16,0.66 

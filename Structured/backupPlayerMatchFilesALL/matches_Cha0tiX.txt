@@ -1,0 +1,5 @@
+2015,12,12,19:30,MDK,Aperture,mirage,BHG CS:GO Tournament,5,16,4,11,1,5,MDK,12,19,0.64 
+2015,12,12,19:30,MDK,Aperture,inferno,BHG CS:GO Tournament,4,16,1,14,3,2,MDK,16,15,1.02 
+2015,12,12,10:15,MDK,PewPew-Armada,mirage,BHG CS:GO Tournament,16,12,8,7,8,5,MDK,17,17,0.95 
+2015,12,12,10:15,PewPew-Armada,MDK,dust2,BHG CS:GO Tournament,16,13,8,7,8,6,MDK,15,24,0.61 
+2015,12,12,10:15,MDK,PewPew-Armada,cache,BHG CS:GO Tournament,15,15,7,8,8,7,MDK,17,20,0.84 

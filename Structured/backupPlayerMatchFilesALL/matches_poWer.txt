@@ -1,0 +1,12 @@
+2016,07,16,17:20,Wololos,gBots,cache,DreamHack Valencia 2016,14,16,8,7,6,9,gBots,15,20,0.75 
+2016,07,16,17:20,Wololos,gBots,cobblestone,DreamHack Valencia 2016,16,7,11,4,5,3,gBots,7,18,0.46 
+2016,07,16,17:20,gBots,Wololos,mirage,DreamHack Valencia 2016,16,13,13,2,3,11,gBots,9,18,0.65 
+2016,07,16,14:45,AlienTech,gBots,dust2,DreamHack Valencia 2016,16,6,11,4,5,2,gBots,5,21,0.25 
+2016,07,16,14:45,AlienTech,gBots,cache,DreamHack Valencia 2016,16,6,13,2,3,4,gBots,7,19,0.40 
+2016,07,15,17:55,gBots,Galatics,cobblestone,DreamHack Valencia 2016,16,11,7,8,9,3,gBots,16,14,1.02 
+2016,07,15,17:55,gBots,Galatics,cache,DreamHack Valencia 2016,16,8,8,7,8,1,gBots,3,15,0.41 
+2016,04,01,20:30,KoNNorway,KoNFinland,cache,King of Nordic Season 3,9,16,7,8,2,8,KoN Norway,7,21,0.36 
+2016,04,01,19:15,KoNDenmark,KoNNorway,cache,King of Nordic Season 3,13,16,8,7,5,9,KoN Norway,19,24,0.85 
+2016,03,25,21:30,KoNSweden,KoNNorway,cache,King of Nordic Season 3,16,11,7,8,9,3,KoN Norway,18,22,0.90 
+2016,03,25,20:15,KoNNorway,KoNDenmark,mirage,King of Nordic Season 3,16,9,7,8,9,1,KoN Norway,17,14,1.02 
+2016,01,08,20:15,KoNFinland,KoNNorway,mirage,King of Nordic Season 2,16,5,13,2,3,3,KoN Norway,10,17,0.75 

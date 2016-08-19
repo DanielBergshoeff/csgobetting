@@ -1,0 +1,16 @@
+2015,12,06,19:00,gBots,x6tence,mirage,LVP Season 9 Division de Honor..,16,8,8,7,8,1,x6tence,14,20,0.72 
+2015,12,06,19:00,x6tence,gBots,dust2,LVP Season 9 Division de Honor..,11,16,9,6,2,10,x6tence,20,21,1.06 
+2015,12,06,15:00,overGame,x6tence,cobblestone,LVP Season 9 Division de Honor..,12,16,6,9,6,7,x6tence,20,15,1.18 
+2015,12,06,15:00,overGame,x6tence,cache,LVP Season 9 Division de Honor..,16,8,8,7,8,1,x6tence,11,21,0.61 
+2015,12,06,15:00,x6tence,overGame,mirage,LVP Season 9 Division de Honor..,16,7,14,1,2,6,x6tence,15,14,1.02 
+2015,12,05,15:15,NewSkillInfinity,x6tence,cobblestone,LVP Season 9 Division de Honor..,6,16,4,11,2,5,x6tence,21,15,1.27 
+2015,12,04,22:00,x6tence,Atlantis,inferno,LVP Season 9 Division de Honor..,16,13,10,5,6,8,x6tence,16,18,0.87 
+2015,11,15,20:45,gBots,x6tence,inferno,LVP Season 9 Division de Honor..,13,16,6,9,7,7,x6tence,16,21,0.79 
+2015,11,15,20:45,gBots,x6tence,mirage,LVP Season 9 Division de Honor..,7,16,7,8,0,8,x6tence,8,18,0.47 
+2015,11,12,19:00,x6tence,overGame,cobblestone,LVP Season 9 Division de Honor..,16,11,9,6,7,5,x6tence,19,16,1.01 
+2015,11,12,19:00,x6tence,overGame,cache,LVP Season 9 Division de Honor..,4,16,4,11,0,5,x6tence,8,16,0.56 
+2015,11,12,19:00,overGame,x6tence,mirage,LVP Season 9 Division de Honor..,8,16,8,7,0,9,x6tence,28,17,1.62 
+2015,10,07,18:30,x6tence,OverGaming,mirage,LVP Season 9 División de Honor..,12,16,10,5,2,11,x6tence,12,24,0.50 
+2015,10,07,18:30,x6tence,OverGaming,cache,LVP Season 9 División de Honor..,5,16,5,10,0,6,x6tence,9,19,0.57 
+2015,10,01,19:00,XPRESIV'E,x6tence,overpass,LVP Season 9 División de Honor..,11,16,4,11,7,5,x6tence,21,18,1.16 
+2015,10,01,19:00,x6tence,XPRESIV'E,mirage,LVP Season 9 División de Honor..,16,14,7,8,9,6,x6tence,18,16,0.94 

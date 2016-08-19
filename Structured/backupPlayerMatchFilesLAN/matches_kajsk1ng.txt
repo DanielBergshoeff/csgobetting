@@ -1,0 +1,8 @@
+2016,03,24,19:00,Isak,PlayingDucks,mirage,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,Playing Ducks,19,19,1.04 
+2016,03,24,19:00,Isak,PlayingDucks,cache,Copenhagen Games 2016 BYOC Qua..,16,11,11,4,5,7,Playing Ducks,31,19,1.59 
+2016,03,24,15:30,PlayingDucks,Aquiver.BLU,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,12,6,9,10,3,Playing Ducks,23,18,1.18 
+2016,03,24,13:00,PlayingDucks,VacuousBaboons,dust2,Copenhagen Games 2016 BYOC Qua..,16,4,14,1,2,3,Playing Ducks,19,11,1.36 
+2015,10,09,20:05,France,Netherlands,dust2,World Championships 2015,16,14,7,8,9,6,Netherlands,16,24,0.69 
+2015,10,09,20:05,Netherlands,France,inferno,World Championships 2015,6,16,5,10,1,6,Netherlands,16,16,1.01 
+2015,10,09,14:30,USA,Netherlands,cache,World Championships 2015,8,16,6,9,2,7,Netherlands,18,16,1.02 
+2015,10,09,12:40,Poland,Netherlands,cache,World Championships 2015,16,11,9,6,7,5,Netherlands,18,19,1.01 

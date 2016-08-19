@@ -1,0 +1,11 @@
+2015,07,11,02:00,Renegades,Bravado,inferno,ESWC 2015,16,5,12,3,4,2,Bravado,9,16,0.64 
+2015,07,11,01:00,Bravado,CLG,dust2,ESWC 2015,7,16,3,12,4,4,Bravado,9,17,0.62 
+2015,07,10,21:45,EnVyUs,Bravado,inferno,ESWC 2015,16,3,12,3,4,0,Bravado,8,18,0.43 
+2014,11,27,16:05,Cloud9,Bravado,cache,DreamHack Winter 2014,16,1,15,0,1,1,Bravado,7,17,0.38 
+2014,11,27,12:30,fnatic,Bravado,mirage,DreamHack Winter 2014,16,2,13,2,3,0,Bravado,9,17,0.50 
+2014,10,12,09:00,In-Finity,Bravado,nuke,Telkom Gaming CS:GO Championsh..,12,16,9,6,3,10,Bravado,13,21,0.65 
+2014,10,12,09:00,Bravado,In-Finity,cache,Telkom Gaming CS:GO Championsh..,16,14,12,3,4,11,Bravado,23,18,1.06 
+2014,10,12,09:00,In-Finity,Bravado,dust2,Telkom Gaming CS:GO Championsh..,8,16,4,11,4,5,Bravado,19,12,1.15 
+2014,10,11,17:00,eNergy,Bravado,nuke,Telkom Gaming CS:GO Championsh..,17,19,13,2,2,13,Bravado,21,24,0.82 
+2014,10,11,17:00,Bravado,eNergy,cache,Telkom Gaming CS:GO Championsh..,12,16,12,3,0,13,Bravado,25,17,1.23 
+2014,10,11,17:00,eNergy,Bravado,dust2,Telkom Gaming CS:GO Championsh..,14,16,5,10,9,6,Bravado,17,20,0.86 

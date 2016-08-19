@@ -1,0 +1,4 @@
+2015,03,07,19:00,AliGon,dignitas,inferno,CCS Kick-off Season Closed Qua..,16,10,13,2,3,8,dignitas,13,19,0.75 
+2015,03,07,19:00,dignitas,AliGon,cache,CCS Kick-off Season Closed Qua..,10,16,5,10,5,6,dignitas,14,18,0.77 
+2015,03,07,19:00,AliGon,dignitas,dust2,CCS Kick-off Season Closed Qua..,7,16,2,13,5,3,dignitas,8,14,0.65 
+2014,10,19,22:10,uN,AliGon,cache,DreamHack Winter 2014 EU pre-q..,4,16,3,12,1,4,uN,10,14,0.72 

@@ -1,0 +1,24 @@
+2016,07,15,21:00,beGenius,k1ck,cache,DreamHack Valencia 2016,16,7,12,3,4,4,k1ck,11,16,0.70 
+2016,07,15,21:00,beGenius,k1ck,nuke,DreamHack Valencia 2016,17,19,10,5,5,10,k1ck,22,24,0.86 
+2016,07,15,21:00,k1ck,beGenius,overpass,DreamHack Valencia 2016,8,16,5,10,3,6,k1ck,11,15,0.76 
+2016,04,09,22:10,AlienTech,k1ck,cache,AlienTech CS:GO League Finals,16,12,10,5,6,7,k1ck,20,18,0.95 
+2016,04,09,22:10,k1ck,AlienTech,inferno,AlienTech CS:GO League Finals,9,16,5,10,4,6,k1ck,17,15,1.01 
+2016,04,09,11:30,Galatics,k1ck,mirage,AlienTech CS:GO League Finals,13,16,7,8,6,8,k1ck,27,17,1.30 
+2016,04,09,11:30,Galatics,k1ck,cache,AlienTech CS:GO League Finals,5,16,4,11,1,5,k1ck,18,14,1.24 
+2016,04,08,18:00,k1ck,k1ck,mirage,AlienTech CS:GO League Finals,16,14,6,9,10,5,k1ck,19,24,0.92 
+2016,04,08,18:00,k1ck,k1ck,cache,AlienTech CS:GO League Finals,6,16,4,11,2,5,k1ck,11,17,0.68 
+2016,04,08,18:00,k1ck,k1ck,cobblestone,AlienTech CS:GO League Finals,6,16,4,11,2,5,k1ck,21,15,1.35 
+2015,11,21,15:55,k1ck,Epsilon,dust2,AlienTech AllStars,16,10,7,8,9,2,Epsilon,18,15,1.01 
+2015,11,21,15:55,k1ck,Epsilon,overpass,AlienTech AllStars,16,3,12,3,4,0,Epsilon,8,19,0.44 
+2015,11,20,14:10,Epsilon,KeydStars,train,AlienTech AllStars,12,16,4,11,8,5,Epsilon,13,21,0.63 
+2015,11,20,12:40,Epsilon,uPGaming.hellfive,cache,AlienTech AllStars,16,3,12,3,4,0,Epsilon,15,10,1.17 
+2015,11,20,11:25,Epsilon,IHAVEADREAM,cache,AlienTech AllStars,16,3,13,2,3,1,Epsilon,12,7,1.17 
+2015,10,04,14:45,OverGaming,Epsilon,train,SocialNat Master League,5,16,4,11,1,5,Epsilon,14,13,0.95 
+2015,10,04,14:45,Epsilon,OverGaming,mirage,SocialNat Master League,16,2,14,1,2,1,Epsilon,12,13,0.91 
+2015,10,04,10:30,x6tence,Epsilon,cache,SocialNat Master League,10,16,5,10,5,6,Epsilon,17,16,1.02 
+2015,10,04,10:30,Epsilon,x6tence,mirage,SocialNat Master League,11,16,10,5,1,11,Epsilon,21,21,0.94 
+2015,10,04,10:30,x6tence,Epsilon,overpass,SocialNat Master League,15,21,3,12,12,3,Epsilon,25,22,0.99 
+2014,07,19,11:20,OverGaming,Epsilon,nuke,DreamHack Valencia 2014,9,16,6,9,3,7,OverGaming,12,18,0.77 
+2014,07,19,11:20,OverGaming,Epsilon,mirage,DreamHack Valencia 2014,12,16,6,9,6,7,OverGaming,22,22,1.00 
+2014,07,18,20:40,INSHOCK,OverGaming,nuke,DreamHack Valencia 2014,13,16,10,5,3,11,OverGaming,26,20,1.26 
+2014,07,18,18:45,k1ck,OverGaming,inferno,DreamHack Valencia 2014,16,9,13,2,3,7,OverGaming,14,20,0.75 

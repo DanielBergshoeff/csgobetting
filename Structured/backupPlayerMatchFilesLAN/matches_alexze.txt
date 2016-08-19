@@ -1,0 +1,12 @@
+2016,01,09,01:00,Gathers,NTN,dust2,MAX5 Invitational,13,16,10,5,3,11,NTN,21,18,1.01 
+2016,01,08,18:15,NTN,AlienTech,mirage,MAX5 Invitational,3,16,3,12,0,4,NTN,10,18,0.64 
+2016,01,07,23:30,GamesAcademy,NTN,train,MAX5 Invitational,16,0,15,0,1,0,NTN,5,16,0.26 
+2016,01,06,21:00,NTN,KeydStars,inferno,MAX5 Invitational,9,16,4,11,5,5,NTN,12,23,0.51 
+2015,12,13,23:15,GuerrerosdelMouse,NTN,cache,Gigabyte Top League Finals,5,16,5,10,0,6,NTN,23,10,1.70 
+2015,12,13,23:15,NTN,GuerrerosdelMouse,inferno,Gigabyte Top League Finals,16,3,14,1,2,2,NTN,21,6,1.88 
+2015,12,13,23:15,GuerrerosdelMouse,NTN,overpass,Gigabyte Top League Finals,16,13,10,5,6,8,NTN,13,22,0.63 
+2015,12,13,19:45,Brekan,NTN,dust2,Gigabyte Top League Finals,7,16,3,12,4,4,NTN,22,15,1.49 
+2015,12,13,19:45,NTN,Brekan,mirage,Gigabyte Top League Finals,22,19,12,3,3,12,NTN,39,28,1.35 
+2015,12,13,19:45,Brekan,NTN,cache,Gigabyte Top League Finals,16,12,8,7,8,5,NTN,17,20,0.82 
+2015,12,13,15:00,NTN,GuerrerosdelMouse,cobblestone,Gigabyte Top League Finals,13,16,6,9,7,7,NTN,26,21,1.33 
+2015,12,13,15:00,GuerrerosdelMouse,NTN,cache,Gigabyte Top League Finals,16,3,12,3,4,0,NTN,14,16,0.93 

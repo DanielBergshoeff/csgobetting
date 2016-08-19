@@ -1,0 +1,6 @@
+2015,12,16,19:30,Enso,ex-USSR,mirage,QuickShot Arena #19,11,16,6,9,5,7,Enso,12,17,0.78 
+2015,12,16,18:15,nEophyte,Enso,cache,QuickShot Arena #19,16,5,10,5,6,0,Enso,10,17,0.66 
+2015,12,10,21:40,ELTZ,Enso,train,Game Show Global eSports Cup 2..,16,10,7,8,9,2,Enso,14,21,0.67 
+2015,12,10,21:40,ELTZ,Enso,dust2,Game Show Global eSports Cup 2..,16,8,9,6,7,2,Enso,14,18,0.79 
+2015,12,09,21:00,Enso,Supreme,cobblestone,Game Show Global eSports Cup 2..,17,19,8,7,7,8,Enso,12,27,0.55 
+2015,12,09,21:00,Supreme,Enso,train,Game Show Global eSports Cup 2..,16,7,9,6,7,1,Enso,7,21,0.35 

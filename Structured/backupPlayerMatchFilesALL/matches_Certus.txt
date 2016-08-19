@@ -1,0 +1,25 @@
+2016,01,04,21:00,YP,eXplosive,inferno,D!ngIT $2000 Weekly Cup #32,16,9,10,5,6,4,YP,16,15,0.91 
+2016,01,04,21:00,eXplosive,YP,dust2,D!ngIT $2000 Weekly Cup #32,6,16,6,9,0,7,YP,11,10,0.92 
+2015,12,05,21:00,NPME,YP,mirage,Game Show Global eSports Cup 2..,9,16,7,8,2,8,YP,15,16,0.84 
+2015,12,05,21:00,NPME,YP,dust2,Game Show Global eSports Cup 2..,13,16,5,10,8,6,YP,18,13,1.07 
+2015,12,04,21:00,YP,Handface,dust2,Game Show Global eSports Cup 2..,16,5,13,2,3,3,YP,16,9,1.35 
+2015,12,04,21:00,Handface,YP,mirage,Game Show Global eSports Cup 2..,10,16,6,9,4,7,YP,6,18,0.49 
+2015,11,30,20:00,YP,EZmarket.org,cache,D!ngIT $2000 Weekly Cup #28,6,16,2,13,4,3,YP,5,18,0.34 
+2015,11,30,20:00,EZmarket.org,YP,dust2,D!ngIT $2000 Weekly Cup #28,16,14,2,13,14,1,YP,26,17,1.27 
+2015,05,03,16:00,Divine,NewEra,mirage,Uprise Champions Cup Season 2,9,16,6,9,3,7,Divine,19,17,1.12 
+2015,05,03,16:00,NewEra,Divine,dust2,Uprise Champions Cup Season 2,10,16,5,10,5,6,Divine,13,14,0.91 
+2015,05,03,16:00,NewEra,Divine,cobblestone,Uprise Champions Cup Season 2,16,13,8,7,8,6,Divine,18,19,1.00 
+2014,10,06,20:00,es4x,Faith,dust2,CIS Rising League Season 1,18,21,8,7,7,8,Faith,27,27,1.02 
+2014,10,06,20:00,Faith,es4x,inferno,CIS Rising League Season 1,16,7,10,5,6,2,Faith,15,12,1.09 
+2014,09,19,17:00,OneShot,NatusVincere,season,SLTV StarSeries XI,6,16,3,12,3,4,OneShot,10,17,0.59 
+2014,09,18,18:00,ESC,OneShot,dust2,SLTV StarSeries XI,16,8,10,5,6,3,OneShot,13,18,0.75 
+2014,09,16,19:00,Virtus.pro,OneShot,mirage,SLTV StarSeries XI,16,1,14,1,2,0,OneShot,7,16,0.43 
+2014,09,16,18:00,CPHWolves,OneShot,dust2,SLTV StarSeries XI,16,3,12,3,4,0,OneShot,8,17,0.47 
+2014,09,15,20:00,OneShot,Titan,dust2,SLTV StarSeries XI,6,16,5,10,1,6,OneShot,7,18,0.44 
+2014,09,15,19:00,OverGaming,OneShot,inferno,SLTV StarSeries XI,16,9,12,3,4,6,OneShot,11,20,0.60 
+2014,09,14,22:40,dAT,OneShot,inferno,SLTV StarSeries XI,13,16,9,6,4,10,OneShot,22,16,1.13 
+2014,09,04,18:30,Faith,dAT,mirage,CIS Rising League Season 1,9,16,5,10,4,6,Faith,11,18,0.69 
+2014,09,04,18:30,Faith,dAT,inferno,CIS Rising League Season 1,10,16,5,10,5,6,Faith,13,21,0.69 
+2014,09,02,20:00,97club,Faith,nuke,CIS Rising League Season 1,16,0,15,0,1,0,Faith,4,15,0.26 
+2014,09,02,20:00,Faith,97club,mirage,CIS Rising League Season 1,10,16,4,11,6,5,Faith,16,19,0.80 
+2014,09,02,20:00,Faith,97club,dust2,CIS Rising League Season 1,21,19,8,7,7,8,Faith,19,27,0.72 

@@ -1,0 +1,7 @@
+2015,05,30,10:00,Steelseries,Exile5,dust2,FACEIT League 2015 Stage 2 Oce..,14,16,10,5,4,11,Steelseries,9,21,0.51 
+2015,05,30,10:00,Exile5,Steelseries,cobblestone,FACEIT League 2015 Stage 2 Oce..,16,6,11,4,5,2,Steelseries,9,19,0.51 
+2015,05,29,12:00,Steelseries,DireWolves,inferno,FACEIT League 2015 Stage 2 Oce..,14,16,8,7,6,9,Steelseries,10,21,0.53 
+2015,05,29,12:00,Steelseries,DireWolves,cache,FACEIT League 2015 Stage 2 Oce..,10,16,9,6,1,10,Steelseries,15,19,0.70 
+2015,05,27,11:00,Steelseries,Skyfire,dust2,FACEIT League 2015 Stage 2 Oce..,16,13,8,7,8,6,Steelseries,13,18,0.76 
+2015,05,27,11:00,Skyfire,Steelseries,overpass,FACEIT League 2015 Stage 2 Oce..,16,12,14,1,2,11,Steelseries,10,23,0.49 
+2015,05,27,11:00,Skyfire,Steelseries,cache,FACEIT League 2015 Stage 2 Oce..,14,16,5,10,9,6,Steelseries,25,24,1.05 

@@ -1,0 +1,2 @@
+2014,08,04,21:30,team,PlayingDucks,train,ESL Pro Series Germany Summer ..,7,16,6,9,1,7,team,11,17,0.74 
+2014,08,04,19:00,team,Planetkey,inferno,ESL Pro Series Germany Summer ..,12,16,6,9,6,7,team,18,19,0.94 

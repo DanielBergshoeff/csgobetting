@@ -1,0 +1,2 @@
+2014,06,15,10:00,hiGhrollers,SK,train,ESPORTSM 2013/2014 Finals,8,16,8,7,0,9,hiGhrollers ,19,16,1.13 
+2014,06,15,10:00,hiGhrollers,SK,mirage,ESPORTSM 2013/2014 Finals,12,16,8,7,4,9,hiGhrollers ,19,22,0.87 

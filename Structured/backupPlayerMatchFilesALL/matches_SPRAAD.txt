@@ -1,0 +1,4 @@
+2016,02,19,18:15,Rize,DollarHouse,cache,Nordic Masters Season 2 Finals,2,16,2,13,0,3,Rize,10,17,0.61 
+2016,02,19,18:15,DollarHouse,Rize,mirage,Nordic Masters Season 2 Finals,16,13,10,5,6,8,Rize,11,22,0.59 
+2016,02,19,18:15,Rize,DollarHouse,dust2,Nordic Masters Season 2 Finals,19,17,4,11,11,4,Rize,31,22,1.29 
+2016,02,19,14:20,RCTIC,Rize,mirage,Nordic Masters Season 2 Finals,16,8,13,2,3,6,Rize,15,18,0.82 

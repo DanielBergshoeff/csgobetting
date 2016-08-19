@@ -1,0 +1,253 @@
+2016,08,14,22:10,LGR,Spirit,dust2,Stream.me Gauntlet EU #1,4,16,3,12,1,4,Spirit,13,13,1.03 
+2016,08,14,22:10,Spirit,LGR,cache,Stream.me Gauntlet EU #1,16,11,8,7,8,4,Spirit,13,19,0.75 
+2016,08,11,20:00,LGR,Spirit,cobblestone,Betway Invitational,14,16,5,10,9,6,Spirit,23,19,1.13 
+2016,08,11,20:00,Spirit,LGR,cache,Betway Invitational,4,16,4,11,0,5,Spirit,8,19,0.43 
+2016,08,11,20:00,LGR,Spirit,dust2,Betway Invitational,9,16,7,8,2,8,Spirit,18,15,1.09 
+2016,08,11,17:10,Spirit,PRIDE,mirage,Stream.me Gauntlet EU #1,16,2,13,2,3,0,Spirit,7,4,0.99 
+2016,08,11,17:10,PRIDE,Spirit,cache,Stream.me Gauntlet EU #1,1,16,1,14,0,2,Spirit,14,7,1.30 
+2016,08,10,20:10,NokSuKao,Spirit,overpass,Adrenaline Cyber League,7,16,7,8,0,8,Spirit,20,16,1.15 
+2016,08,10,20:10,NokSuKao,Spirit,mirage,Adrenaline Cyber League,9,16,9,6,0,10,Spirit,19,15,1.17 
+2016,08,10,17:00,Spirit,MK,cache,SL i-League S2 Europe Qualifie..,16,4,11,4,5,0,Spirit,25,11,1.79 
+2016,08,10,17:00,Spirit,MK,mirage,SL i-League S2 Europe Qualifie..,16,8,11,4,5,4,Spirit,15,14,1.03 
+2016,08,10,17:00,Spirit,MK,dust2,SL i-League S2 Europe Qualifie..,9,16,5,10,4,6,Spirit,12,20,0.75 
+2016,08,09,18:10,Spirit,Delete,cache,Betway Invitational,19,16,9,6,6,9,Spirit,28,24,1.21 
+2016,08,09,18:10,Spirit,Delete,mirage,Betway Invitational,16,13,10,5,6,8,Spirit,20,18,1.07 
+2016,08,08,19:00,Spirit,MK,cobblestone,ESEA Premier Season 22 Europe,6,16,2,13,4,3,Spirit,14,18,0.86 
+2016,08,08,19:00,Spirit,MK,dust2,ESEA Premier Season 22 Europe,12,16,5,10,7,6,Spirit,21,18,1.08 
+2016,08,07,18:10,fruits,Spirit,cache,SL i-League S2 Europe Qualifie..,12,16,5,10,7,6,Spirit,17,16,0.98 
+2016,08,07,18:10,Spirit,fruits,cobblestone,SL i-League S2 Europe Qualifie..,16,14,9,6,7,8,Spirit,19,20,0.96 
+2016,08,07,18:10,fruits,Spirit,mirage,SL i-League S2 Europe Qualifie..,16,14,10,5,6,9,Spirit,16,23,0.71 
+2016,08,07,15:00,Spirit,MMCLUB,mirage,ECS Season 2 EU Open Qualifier..,17,21,6,9,9,6,Spirit,23,24,0.88 
+2016,08,06,18:30,Spirit,Gambit,dust2,SL i-League S2 Europe Qualifie..,16,14,5,10,11,4,Spirit,11,23,0.55 
+2016,08,06,18:30,Spirit,Gambit,cobblestone,SL i-League S2 Europe Qualifie..,16,10,9,6,7,4,Spirit,18,18,0.94 
+2016,08,05,20:00,Spirit,Vesuvius,cobblestone,Adrenaline Cyber League,16,10,10,5,6,5,Spirit,22,15,1.34 
+2016,08,05,20:00,Spirit,Vesuvius,mirage,Adrenaline Cyber League,16,9,10,5,6,4,Spirit,11,17,0.65 
+2016,08,04,18:00,Spirit,HellRaisers,nuke,SL i-League S2 Europe Qualifie..,11,16,5,10,6,6,Spirit,16,21,0.72 
+2016,08,04,18:00,HellRaisers,Spirit,mirage,SL i-League S2 Europe Qualifie..,16,13,10,5,6,8,Spirit,14,19,0.80 
+2016,08,03,22:00,DenDD,Spirit,mirage,Hitbox Challenger Cup #2,5,16,3,12,2,4,Spirit,11,12,0.82 
+2016,08,03,22:00,Spirit,DenDD,cache,Hitbox Challenger Cup #2,16,6,10,5,6,1,Spirit,20,12,1.45 
+2016,08,03,19:15,ALTERNATEaTTaX,Spirit,overpass,xfunction Masters 2016,2,16,2,13,0,3,Spirit,13,12,1.00 
+2016,08,03,19:15,ALTERNATEaTTaX,Spirit,cobblestone,xfunction Masters 2016,8,16,3,12,5,4,Spirit,19,16,1.15 
+2016,08,01,22:00,Spirit,Millenium,cache,Betway Invitational,16,11,7,8,9,3,Spirit,19,18,0.99 
+2016,08,01,22:00,Millenium,Spirit,mirage,Betway Invitational,14,16,5,10,9,6,Spirit,15,22,0.65 
+2016,08,01,17:15,Spirit,Preparation,train,Stream.me Gauntlet EU #1,16,8,9,6,7,2,Spirit,16,14,0.97 
+2016,08,01,17:15,Spirit,Preparation,cobblestone,Stream.me Gauntlet EU #1,16,3,13,2,3,1,Spirit,16,5,1.55 
+2016,07,31,21:00,X,Spirit,mirage,Operation: Kinguin #3,16,8,12,3,4,5,Spirit,10,19,0.57 
+2016,07,31,21:00,Spirit,X,overpass,Operation: Kinguin #3,8,16,8,7,0,9,Spirit,12,19,0.71 
+2016,07,31,17:00,DarkPassage,Spirit,dust2,Betway Invitational,11,16,3,12,8,4,Spirit,23,21,1.19 
+2016,07,31,17:00,Spirit,DarkPassage,mirage,Betway Invitational,24,28,8,7,7,8,Spirit,37,37,0.93 
+2016,07,31,17:00,DarkPassage,Spirit,cobblestone,Betway Invitational,14,16,4,11,10,5,Spirit,21,19,1.06 
+2016,07,30,21:00,Spirit,Millenium,cache,Betway Invitational,9,16,6,9,3,7,Spirit,21,15,1.33 
+2016,07,30,21:00,Spirit,Millenium,mirage,Betway Invitational,10,16,5,10,5,6,Spirit,22,23,1.05 
+2016,07,30,18:10,SpaceSoldiers,Spirit,mirage,GG Masters,20,22,6,9,9,6,Spirit,25,28,0.88 
+2016,07,30,18:10,Spirit,SpaceSoldiers,cobblestone,GG Masters,16,13,7,8,9,5,Spirit,17,19,0.89 
+2016,07,29,16:00,Spirit,PRIDE,nuke,Stream.me Gauntlet EU #1,14,16,5,10,9,6,Spirit,12,22,0.65 
+2016,07,29,16:00,Spirit,PRIDE,cobblestone,Stream.me Gauntlet EU #1,11,16,7,8,4,8,Spirit,18,18,1.09 
+2016,07,28,17:10,ENCE,Spirit,cobblestone,Operation: Kinguin #3,11,16,3,12,8,4,Spirit,22,18,1.17 
+2016,07,28,17:10,Spirit,ENCE,mirage,Operation: Kinguin #3,16,14,8,7,8,7,Spirit,20,19,0.95 
+2016,07,27,22:30,Kinguin,Spirit,mirage,GG Masters,16,11,11,4,5,7,Spirit,14,21,0.68 
+2016,07,27,22:30,Spirit,Kinguin,cache,GG Masters,4,16,4,11,0,5,Spirit,11,19,0.62 
+2016,07,27,15:10,Spirit,Kinguin,cobblestone,Hitbox Challenger Cup #2,16,8,12,3,4,5,Spirit,19,14,1.34 
+2016,07,27,15:10,Kinguin,Spirit,dust2,Hitbox Challenger Cup #2,1,16,1,14,0,2,Spirit,16,9,1.44 
+2016,07,27,15:10,Kinguin,Spirit,cache,Hitbox Challenger Cup #2,16,4,12,3,4,1,Spirit,13,18,0.80 
+2016,07,26,19:25,Spirit,SpaceSoldiers,mirage,GG Masters,16,11,10,5,6,6,Spirit,26,19,1.33 
+2016,07,12,18:00,Spirit,PRIDE,cache,Hitbox Challenger Cup #2,16,9,11,4,5,5,Spirit,26,18,1.47 
+2016,07,12,18:00,PRIDE,Spirit,nuke,Hitbox Challenger Cup #2,11,16,9,6,2,10,Spirit,25,15,1.37 
+2016,07,12,18:00,PRIDE,Spirit,mirage,Hitbox Challenger Cup #2,16,14,8,7,8,7,Spirit,23,21,1.08 
+2016,07,11,19:25,Spirit,PRIDE,cobblestone,xfunction Masters 2016,22,18,8,7,7,8,Spirit,14,30,0.54 
+2016,07,06,20:15,Spirit,Escape,cobblestone,Operation: Kinguin #3,16,6,10,5,6,1,Spirit,23,10,1.74 
+2016,07,06,20:15,Escape,Spirit,dust2,Operation: Kinguin #3,10,16,7,8,3,8,Spirit,24,16,1.40 
+2016,07,06,20:15,Spirit,Escape,overpass,Operation: Kinguin #3,12,16,9,6,3,10,Spirit,11,23,0.54 
+2016,07,05,17:25,DenDD,Spirit,mirage,Operation: Kinguin #3,6,16,5,10,1,6,Spirit,16,15,1.08 
+2016,07,05,17:25,Spirit,DenDD,dust2,Operation: Kinguin #3,16,5,10,5,6,0,Spirit,10,9,0.92 
+2016,07,01,19:00,ALTERNATEaTTaX,Spirit,overpass,Hitbox Challenger Cup #2,16,10,13,2,3,8,Spirit,15,20,0.83 
+2016,07,01,19:00,Spirit,ALTERNATEaTTaX,cache,Hitbox Challenger Cup #2,14,16,6,9,8,7,Spirit,26,21,1.14 
+2016,06,29,22:15,Spirit,DenDD,cobblestone,xfunction Masters 2016,29,31,5,10,10,5,Spirit,36,46,0.84 
+2016,06,28,21:45,Spirit,Galatics,cache,xfunction Masters 2016,16,3,13,2,3,1,Spirit,21,7,1.77 
+2016,06,27,22:30,Spirit,LDLC,overpass,Hitbox Challenger Cup #2,19,17,9,6,6,9,Spirit,28,24,1.03 
+2016,06,27,22:30,LDLC,Spirit,train,Hitbox Challenger Cup #2,16,8,12,3,4,5,Spirit,19,20,1.04 
+2016,06,27,22:30,Spirit,LDLC,cache,Hitbox Challenger Cup #2,16,12,8,7,8,5,Spirit,32,16,1.66 
+2016,06,15,18:15,ALTERNATEaTTaX,Spirit,cache,owayo Masters I,13,16,3,12,10,4,Spirit,17,20,0.88 
+2016,06,15,18:15,Spirit,ALTERNATEaTTaX,cobblestone,owayo Masters I,16,6,10,5,6,1,Spirit,11,13,0.94 
+2016,06,14,19:00,Spirit,Tricked,dust2,owayo Masters I,16,10,12,3,4,7,Spirit,21,17,1.18 
+2016,06,14,19:00,Spirit,Tricked,inferno,owayo Masters I,6,16,5,10,1,6,Spirit,11,19,0.58 
+2016,06,14,19:00,Tricked,Spirit,mirage,owayo Masters I,11,16,6,9,5,7,Spirit,14,16,0.87 
+2016,06,09,21:15,SpaceSoldiers,Spirit,cache,owayo Masters I,10,16,9,6,1,10,Spirit,18,19,0.98 
+2016,06,09,21:15,Spirit,SpaceSoldiers,mirage,owayo Masters I,13,16,11,4,2,12,Spirit,14,19,0.90 
+2016,06,09,21:15,SpaceSoldiers,Spirit,cobblestone,owayo Masters I,10,16,7,8,3,8,Spirit,20,18,1.09 
+2016,06,08,17:15,LDLC,Phenomenon,cache,Operation: Kinguin #3,10,16,4,11,6,5,Phenomenon,25,15,1.46 
+2016,06,08,17:15,LDLC,Phenomenon,dust2,Operation: Kinguin #3,9,16,6,9,3,7,Phenomenon,26,16,1.42 
+2016,06,05,19:15,Tricked,Phenomenon,dust2,DreamHack ZOWIE Open Summer 20..,16,11,8,7,8,4,Phenomenon,17,21,0.86 
+2016,06,05,19:15,Phenomenon,Tricked,mirage,DreamHack ZOWIE Open Summer 20..,16,6,12,3,4,3,Phenomenon,19,10,1.43 
+2016,06,05,19:15,Phenomenon,Tricked,cobblestone,DreamHack ZOWIE Open Summer 20..,14,16,4,11,10,5,Phenomenon,28,22,1.31 
+2016,06,05,15:30,Phenomenon,Gambit,dust2,DreamHack ZOWIE Open Summer 20..,16,12,5,10,11,2,Phenomenon,26,17,1.28 
+2016,06,05,15:30,Gambit,Phenomenon,mirage,DreamHack ZOWIE Open Summer 20..,8,16,7,8,1,8,Phenomenon,22,13,1.41 
+2016,06,05,12:00,Phenomenon,EURONICS,mirage,DreamHack ZOWIE Open Summer 20..,16,8,8,7,8,1,Phenomenon,17,12,1.14 
+2016,06,05,12:00,EURONICS,Phenomenon,overpass,DreamHack ZOWIE Open Summer 20..,11,16,10,5,1,11,Phenomenon,30,20,1.55 
+2016,05,31,17:15,Arcade,k1ck,cache,Operation: Kinguin #3,16,7,9,6,7,1,Arcade,25,16,1.41 
+2016,05,31,17:15,k1ck,Arcade,mirage,Operation: Kinguin #3,8,16,3,12,5,4,Arcade,19,17,1.07 
+2016,05,30,20:15,Tricked,Arcade,cobblestone,Operation: Kinguin #3,6,16,5,10,1,6,Arcade,29,12,1.89 
+2016,05,30,20:15,Tricked,Arcade,mirage,Operation: Kinguin #3,12,16,4,11,8,5,Arcade,29,16,1.59 
+2016,05,30,20:15,Arcade,Tricked,inferno,Operation: Kinguin #3,13,16,9,6,4,10,Arcade,24,21,1.18 
+2016,05,29,23:00,Arcade,Epsilon,cache,DreamHack ZOWIE Open Summer 20..,14,16,9,6,5,10,Arcade,18,24,0.78 
+2016,05,29,23:00,Epsilon,Arcade,mirage,DreamHack ZOWIE Open Summer 20..,12,16,8,7,4,9,Arcade,20,16,1.05 
+2016,05,29,23:00,Arcade,Epsilon,overpass,DreamHack ZOWIE Open Summer 20..,13,16,10,5,3,11,Arcade,32,19,1.50 
+2016,05,29,19:30,Arcade,AGG,dust2,DreamHack ZOWIE Open Summer 20..,16,10,9,6,7,4,Arcade,23,14,1.38 
+2016,05,29,19:30,Arcade,AGG,mirage,DreamHack ZOWIE Open Summer 20..,16,12,8,7,8,5,Arcade,16,20,0.83 
+2016,05,29,19:30,AGG,Arcade,train,DreamHack ZOWIE Open Summer 20..,16,5,11,4,5,1,Arcade,9,17,0.62 
+2016,05,29,16:30,BinaryDragons,Arcade,dust2,DreamHack ZOWIE Open Summer 20..,24,28,7,8,8,7,Arcade,37,40,0.97 
+2016,05,29,16:30,BinaryDragons,Arcade,mirage,DreamHack ZOWIE Open Summer 20..,7,16,6,9,1,7,Arcade,18,14,1.12 
+2016,05,29,12:45,Arcade,SpaceSoldiers,cache,DreamHack ZOWIE Open Summer 20..,16,5,13,2,3,3,Arcade,17,10,1.16 
+2016,05,29,12:45,Arcade,SpaceSoldiers,cobblestone,DreamHack ZOWIE Open Summer 20..,12,16,5,10,7,6,Arcade,19,21,0.92 
+2016,05,29,12:45,Arcade,SpaceSoldiers,mirage,DreamHack ZOWIE Open Summer 20..,19,17,8,7,7,8,Arcade,27,22,1.19 
+2016,05,28,18:00,Arcade,Lions,cache,DreamHack ZOWIE Open Summer 20..,16,13,8,7,8,6,Arcade,26,22,1.31 
+2016,05,12,20:10,Arcade,PENTA,train,Operation: Kinguin #3,11,16,10,5,1,11,Arcade,12,21,0.62 
+2016,05,12,20:10,Arcade,PENTA,cobblestone,Operation: Kinguin #3,16,10,6,9,10,1,Arcade,23,17,1.16 
+2016,05,12,20:10,PENTA,Arcade,cache,Operation: Kinguin #3,16,12,9,6,7,6,Arcade,15,19,0.83 
+2016,05,04,17:10,eSuba,Arcade,mirage,Operation: Kinguin #3,13,16,7,8,6,8,Arcade,20,22,0.93 
+2016,05,04,17:10,Arcade,eSuba,inferno,Operation: Kinguin #3,16,13,10,5,6,8,Arcade,24,16,1.32 
+2016,04,29,13:00,Empire,Arcade,nuke,StarLadder Minor CIS - Cologne..,16,14,12,3,4,11,Arcade,15,23,0.70 
+2016,04,28,11:55,Arcade,FluffyGangsters,train,StarLadder Minor CIS - Cologne..,13,16,7,8,6,8,Arcade,21,18,1.13 
+2016,03,25,00:30,YP,Escape,cobblestone,SL I-League Invitational #1 EU..,7,16,3,12,4,4,YP,11,18,0.65 
+2016,03,25,00:30,Escape,YP,mirage,SL I-League Invitational #1 EU..,16,7,10,5,6,2,YP,10,18,0.59 
+2016,03,23,21:30,YP,LDLCBlue,dust2,SL I-League Invitational #1 EU..,16,12,9,6,7,6,YP,19,17,1.01 
+2016,03,23,21:30,YP,LDLCBlue,cobblestone,SL I-League Invitational #1 EU..,16,7,8,7,8,0,YP,17,14,1.19 
+2016,03,23,21:30,YP,LDLCBlue,overpass,SL I-League Invitational #1 EU..,10,16,6,9,4,7,YP,15,21,0.73 
+2016,03,23,20:25,E-frag.net,YP,inferno,SL I-League Invitational #1 EU..,10,16,6,9,4,7,YP,24,20,1.12 
+2016,03,10,22:00,Orgless,YP,cobblestone,Operation: Kinguin #2,16,6,10,5,6,1,YP,11,17,0.71 
+2016,03,10,22:00,YP,Orgless,inferno,Operation: Kinguin #2,9,16,7,8,2,8,YP,12,19,0.71 
+2016,03,07,16:00,YP,Empire,cobblestone,Binary Dragons Cup Season 2,16,10,11,4,5,6,YP,12,18,0.70 
+2016,03,07,16:00,YP,Empire,inferno,Binary Dragons Cup Season 2,14,16,5,10,9,6,YP,19,26,0.70 
+2016,03,06,19:30,YP,Method,mirage,Binary Dragons Cup Season 2,16,8,11,4,5,4,YP,15,12,1.03 
+2016,03,06,19:30,YP,Method,cobblestone,Binary Dragons Cup Season 2,16,14,6,9,10,5,YP,18,22,0.89 
+2016,02,05,22:00,Ancient,YP,mirage,MLG Columbus 2016 Last Chance ..,0,16,0,15,0,1,YP,10,8,1.04 
+2016,02,05,22:00,YP,Ancient,cobblestone,MLG Columbus 2016 Last Chance ..,16,14,8,7,8,7,YP,16,23,0.93 
+2016,01,05,23:00,nEophyte,YP,dust2,D!ngIT $2000 Weekly Cup #32,14,16,5,10,9,6,YP,17,21,0.81 
+2016,01,05,19:30,ezkatka,YP,cache,D!ngIT $2000 Weekly Cup #32,6,16,5,10,1,6,YP,17,11,1.29 
+2016,01,04,21:00,YP,eXplosive,inferno,D!ngIT $2000 Weekly Cup #32,16,9,10,5,6,4,YP,25,14,1.64 
+2016,01,04,21:00,eXplosive,YP,dust2,D!ngIT $2000 Weekly Cup #32,6,16,6,9,0,7,YP,19,12,1.25 
+2016,01,04,21:00,eXplosive,YP,mirage,D!ngIT $2000 Weekly Cup #32,16,6,10,5,6,1,YP,8,17,0.52 
+2015,12,15,20:30,DEEZNUTS,YP,cobblestone,Game On European Invitational,16,9,8,7,8,2,YP,12,21,0.65 
+2015,12,15,20:30,DEEZNUTS,YP,mirage,Game On European Invitational,14,16,11,4,3,12,YP,23,18,1.22 
+2015,12,15,20:30,YP,DEEZNUTS,cache,Game On European Invitational,14,16,7,8,7,8,YP,14,22,0.65 
+2015,12,14,18:00,Rebels,YP,dust2,Game Show Global eSports Cup 2..,5,16,3,12,2,4,YP,12,9,1.05 
+2015,12,14,18:00,YP,Rebels,mirage,Game Show Global eSports Cup 2..,13,16,9,6,4,10,YP,16,22,0.74 
+2015,12,11,22:00,FlipSid3,YP,mirage,QuickShot Arena #18,16,7,14,1,2,6,YP,14,19,0.90 
+2015,12,11,22:00,FlipSid3,YP,overpass,QuickShot Arena #18,16,6,11,4,5,2,YP,12,17,0.77 
+2015,12,11,22:00,YP,FlipSid3,cache,QuickShot Arena #18,16,8,11,4,5,4,YP,24,16,1.35 
+2015,12,11,20:00,LondonC,YP,inferno,QuickShot Arena #18,3,16,3,12,0,4,YP,23,8,1.91 
+2015,12,11,20:00,LondonC,YP,dust2,QuickShot Arena #18,8,16,2,13,6,3,YP,10,16,0.69 
+2015,12,10,22:00,eSuba,YP,dust2,QuickShot Arena #18,6,16,1,14,5,2,YP,16,7,1.30 
+2015,12,10,19:30,Reason,YP,dust2,QuickShot Arena #18,5,16,2,13,3,3,YP,29,11,2.29 
+2015,12,10,17:00,YP,eSuba,mirage,QuickShot Arena #18,14,16,9,6,5,10,YP,25,22,1.09 
+2015,12,05,21:00,NPME,YP,mirage,Game Show Global eSports Cup 2..,9,16,7,8,2,8,YP,21,12,1.31 
+2015,12,05,21:00,NPME,YP,dust2,Game Show Global eSports Cup 2..,13,16,5,10,8,6,YP,19,17,0.97 
+2015,12,04,21:00,YP,Handface,dust2,Game Show Global eSports Cup 2..,16,5,13,2,3,3,YP,21,8,1.64 
+2015,12,04,21:00,Handface,YP,mirage,Game Show Global eSports Cup 2..,10,16,6,9,4,7,YP,25,17,1.29 
+2015,12,03,22:00,eXplosive,YP,dust2,Uprise Champions Cup: Europe,7,16,6,9,1,7,YP,17,13,1.05 
+2015,12,03,22:00,eXplosive,YP,mirage,Uprise Champions Cup: Europe,16,12,8,7,8,5,YP,25,19,1.24 
+2015,12,03,22:00,eXplosive,YP,cache,Uprise Champions Cup: Europe,10,16,4,11,6,5,YP,20,17,1.04 
+2015,12,02,22:20,YP,E-frag.net,mirage,Uprise Champions Cup: Europe,12,16,12,3,0,13,YP,28,17,1.63 
+2015,12,02,22:20,E-frag.net,YP,dust2,Uprise Champions Cup: Europe,16,6,10,5,6,1,YP,11,16,0.69 
+2015,12,01,17:30,YP,gamENERGY,cobblestone,D!ngIT $2000 Weekly Cup #28,13,16,6,9,7,7,YP,27,21,1.16 
+2015,11,30,20:00,YP,EZmarket.org,cache,D!ngIT $2000 Weekly Cup #28,6,16,2,13,4,3,YP,22,19,1.21 
+2015,11,30,20:00,EZmarket.org,YP,dust2,D!ngIT $2000 Weekly Cup #28,16,14,2,13,14,1,YP,21,24,0.88 
+2015,11,27,19:45,Torpedo,YP,dust2,QuickShot Arena #16,16,7,11,4,5,3,YP,19,20,0.97 
+2015,11,27,19:45,Torpedo,YP,cache,QuickShot Arena #16,16,14,4,11,12,3,YP,28,24,1.12 
+2015,11,26,20:45,EpiphanyBolt,YP,cache,QuickShot Arena #16,10,16,6,9,4,7,YP,21,16,1.17 
+2015,11,26,17:00,fm-eSports,YP,cache,QuickShot Arena #16,3,16,3,12,0,4,YP,19,4,1.91 
+2015,11,25,15:00,eXplosive,YP,mirage,Uprise Champions Cup: Europe,6,16,6,9,0,7,YP,19,14,1.28 
+2015,11,25,15:00,eXplosive,YP,dust2,Uprise Champions Cup: Europe,9,16,2,13,7,3,YP,17,19,0.88 
+2015,11,25,15:00,YP,eXplosive,cache,Uprise Champions Cup: Europe,4,16,4,11,0,5,YP,8,17,0.51 
+2015,11,18,21:00,YP,PARTY,cache,CIS LAN Championship #2,16,19,6,9,9,6,YP,18,26,0.74 
+2015,11,18,21:00,YP,PARTY,dust2,CIS LAN Championship #2,6,16,5,10,1,6,YP,19,18,1.03 
+2015,11,18,09:15,VegaSquadron,YP,cache,CIS LAN Championship #2,16,3,12,3,4,0,YP,7,17,0.42 
+2015,11,18,09:15,VegaSquadron,YP,inferno,CIS LAN Championship #2,19,17,10,5,5,10,YP,22,26,0.80 
+2015,11,16,22:45,YP,Enso,inferno,CIS LAN Championship #2,16,6,11,4,5,2,YP,21,14,1.28 
+2015,11,16,22:45,Enso,YP,dust2,CIS LAN Championship #2,12,16,4,11,8,5,YP,15,22,0.85 
+2015,11,16,22:45,Enso,YP,mirage,CIS LAN Championship #2,16,9,10,5,6,4,YP,21,19,1.06 
+2015,11,16,15:45,YP,Rebels,dust2,CIS LAN Championship #2,10,16,8,7,2,9,YP,18,21,0.98 
+2015,11,16,15:45,Rebels,YP,cobblestone,CIS LAN Championship #2,6,16,3,12,3,4,YP,11,15,0.73 
+2015,11,16,15:45,Rebels,YP,mirage,CIS LAN Championship #2,16,8,8,7,8,1,YP,14,20,0.84 
+2015,11,16,13:10,YP,eXplosive,dust2,CIS LAN Championship #2,16,13,5,10,11,3,YP,33,16,1.60 
+2015,11,16,13:10,YP,eXplosive,cache,CIS LAN Championship #2,16,10,8,7,8,3,YP,16,17,0.98 
+2015,10,30,14:00,ESC,Enervate,dust2,QuickShot Showmatches,10,16,3,12,7,4,Enervate,16,17,0.89 
+2015,10,30,14:00,Enervate,ESC,cache,QuickShot Showmatches,16,4,11,4,5,0,Enervate,21,11,1.51 
+2015,10,30,14:00,Enervate,ESC,mirage,QuickShot Showmatches,8,16,6,9,2,7,Enervate,13,18,0.73 
+2015,10,29,14:00,Enervate,ProjectSkyline,mirage,QuickShot Showmatches,16,8,9,6,7,2,Enervate,20,14,1.40 
+2015,10,29,14:00,Enervate,ProjectSkyline,dust2,QuickShot Showmatches,16,4,11,4,5,0,Enervate,25,5,1.95 
+2015,10,25,17:00,EpiphanyBolt,Enervate,cache,QuickShot Showmatches,3,16,3,12,0,4,Enervate,15,11,1.13 
+2015,10,25,17:00,Enervate,EpiphanyBolt,mirage,QuickShot Showmatches,22,20,7,8,8,7,Enervate,25,32,0.75 
+2015,10,25,12:00,ACG,Enervate,mirage,Rising Tornado #5,4,16,1,14,3,2,Enervate,20,10,1.48 
+2015,10,25,12:00,Enervate,ACG,cache,Rising Tornado #5,16,4,12,3,4,1,Enervate,13,12,1.01 
+2015,10,20,17:20,Enervate,HD4R,train,Rising Tornado #5,12,16,5,10,7,6,Enervate,14,23,0.67 
+2015,10,20,17:20,Enervate,HD4R,dust2,Rising Tornado #5,9,16,5,10,4,6,Enervate,9,20,0.53 
+2015,10,20,17:20,HD4R,Enervate,cache,Rising Tornado #5,3,16,2,13,1,3,Enervate,14,7,1.28 
+2015,10,18,16:00,Enervate,ProjectSkyline,dust2,Rising Tornado #5,16,3,12,3,4,0,Enervate,11,7,1.06 
+2015,10,18,16:00,Enervate,ProjectSkyline,mirage,Rising Tornado #5,16,2,14,1,2,1,Enervate,13,10,1.10 
+2015,10,15,17:00,EuropeanMisfits,Enervate,cobblestone,QuickShot Showmatches,4,16,4,11,0,5,Enervate,7,9,0.77 
+2015,10,15,17:00,Enervate,EuropeanMisfits,mirage,QuickShot Showmatches,16,11,9,6,7,5,Enervate,18,16,1.00 
+2015,10,15,17:00,Enervate,EuropeanMisfits,cache,QuickShot Showmatches,5,16,4,11,1,5,Enervate,16,17,0.99 
+2015,10,11,19:00,Enervate,EpiphanyBolt,cache,CSHUB Series Season 1,17,19,12,3,3,12,Enervate,25,25,1.01 
+2015,10,11,19:00,Enervate,EpiphanyBolt,cobblestone,CSHUB Series Season 1,12,16,4,11,8,5,Enervate,17,24,0.77 
+2015,10,03,17:00,E-frag.net,Enervate,train,CSHUB Series Season 1,16,3,12,3,4,0,Enervate,7,18,0.44 
+2015,10,03,17:00,E-frag.net,Enervate,mirage,CSHUB Series Season 1,16,8,9,6,7,2,Enervate,18,19,1.01 
+2015,09,30,11:30,Enervate,PiTER,dust2,Uprise Champions Cup Season 3 ..,6,16,3,12,3,4,Enervate,21,16,1.39 
+2015,09,30,11:30,PiTER,Enervate,cache,Uprise Champions Cup Season 3 ..,10,16,4,11,6,5,Enervate,24,16,1.33 
+2015,09,30,11:30,Enervate,PiTER,cobblestone,Uprise Champions Cup Season 3 ..,5,16,5,10,0,6,Enervate,10,19,0.50 
+2015,09,29,17:00,Enervate,VegaSquadron,cache,Uprise Champions Cup Season 3 ..,16,2,13,2,3,0,Enervate,19,10,1.57 
+2015,09,29,17:00,VegaSquadron,Enervate,mirage,Uprise Champions Cup Season 3 ..,16,19,5,10,10,5,Enervate,22,26,0.93 
+2015,09,29,14:15,RCTIC,Enervate,mirage,Uprise Champions Cup Season 3 ..,13,16,6,9,7,7,Enervate,14,19,0.78 
+2015,09,29,14:15,Enervate,RCTIC,cobblestone,Uprise Champions Cup Season 3 ..,16,13,12,3,4,10,Enervate,29,14,1.66 
+2015,09,29,00:45,E-frag.net,Enervate,dust2,Uprise Champions Cup Season 3 ..,16,12,9,6,7,6,Enervate,18,21,0.93 
+2015,09,29,00:45,Enervate,E-frag.net,cache,Uprise Champions Cup Season 3 ..,6,16,5,10,1,6,Enervate,18,19,1.03 
+2015,09,28,18:50,Enervate,Nostalgie,mirage,Uprise Champions Cup Season 3 ..,19,16,8,7,7,8,Enervate,23,25,0.91 
+2015,09,28,18:50,Enervate,Nostalgie,cobblestone,Uprise Champions Cup Season 3 ..,16,11,6,9,10,2,Enervate,16,19,0.87 
+2015,09,20,14:00,Phenomenon,Pries,dust2,Rising Tornado #4,3,16,2,13,1,3,Phenomenon,8,18,0.43 
+2015,09,20,14:00,Phenomenon,Pries,cache,Rising Tornado #4,10,16,4,11,6,5,Phenomenon,11,22,0.64 
+2015,09,16,18:00,E-frag.net,Enervate,inferno,Hitbox Arena Showdown Invitati..,16,10,9,6,7,4,Enervate,11,22,0.52 
+2015,09,16,18:00,E-frag.net,Enervate,cache,Hitbox Arena Showdown Invitati..,16,0,15,0,1,0,Enervate,6,15,0.40 
+2015,09,16,18:00,Enervate,E-frag.net,cobblestone,Hitbox Arena Showdown Invitati..,25,23,4,11,11,4,Enervate,26,38,0.68 
+2015,09,16,18:00,Enervate,E-frag.net,dust2,Hitbox Arena Showdown Invitati..,10,16,5,10,5,6,Enervate,16,18,0.90 
+2015,09,15,20:30,XPC,Phenomenon,cobblestone,Hitbox Arena Showdown Invitati..,6,16,5,10,1,6,Phenomenon,24,11,1.64 
+2015,09,15,20:30,Phenomenon,XPC,mirage,Hitbox Arena Showdown Invitati..,24,26,7,8,8,7,Phenomenon,36,34,1.00 
+2015,09,15,20:30,Phenomenon,XPC,cache,Hitbox Arena Showdown Invitati..,16,12,8,7,8,5,Phenomenon,32,16,1.74 
+2015,09,14,20:45,Publiclir.se,Phenomenon,cache,Hitbox Arena Showdown Invitati..,16,19,7,8,8,7,Phenomenon,26,26,1.05 
+2015,09,07,21:15,Enso,Phenomenon,train,Rising Tornado #4,16,19,6,9,9,6,Phenomenon,25,30,0.90 
+2015,09,07,21:15,Phenomenon,Enso,mirage,Rising Tornado #4,16,4,12,3,4,1,Phenomenon,24,8,1.84 
+2015,09,05,12:00,Phenomenon,dope,mirage,Rising Tornado #4,16,3,13,2,3,1,Phenomenon,16,8,1.30 
+2015,09,05,12:00,dope,Phenomenon,cache,Rising Tornado #4,3,16,1,14,2,2,Phenomenon,25,10,1.88 
+2015,09,04,18:00,Phenomenon,EpiphanyBolt,mirage,Uprise Champions Cup Season 3,14,8,11,4,3,4,Phenomenon,26,11,1.57 
+2015,09,04,18:00,Phenomenon,EpiphanyBolt,cache,Uprise Champions Cup Season 3,16,8,8,7,8,1,Phenomenon,19,12,1.21 
+2015,09,03,18:00,Phenomenon,dope,cobblestone,Uprise Champions Cup Season 3,16,11,9,6,7,5,Phenomenon,28,19,1.56 
+2015,09,03,18:00,dope,Phenomenon,mirage,Uprise Champions Cup Season 3,13,16,9,6,4,10,Phenomenon,21,21,0.95 
+2015,09,02,18:00,Phenomenon,PiTER,mirage,Uprise Champions Cup Season 3,9,16,9,6,0,10,Phenomenon,17,19,0.95 
+2015,09,02,18:00,Phenomenon,PiTER,dust2,Uprise Champions Cup Season 3,9,16,4,11,5,5,Phenomenon,18,20,0.95 
+2015,09,01,21:15,Phenomenon,hard'N'play,train,Rising Tornado #4,16,4,12,3,4,1,Phenomenon,19,9,1.39 
+2015,09,01,21:15,Phenomenon,hard'N'play,cache,Rising Tornado #4,16,2,13,2,3,0,Phenomenon,22,7,1.97 
+2015,08,26,21:00,VegaSquadron,Phenomenon,cache,Rising Tornado #4,16,7,13,2,3,5,Phenomenon,12,18,0.74 
+2015,08,26,21:00,VegaSquadron,Phenomenon,mirage,Rising Tornado #4,16,9,12,3,4,6,Phenomenon,11,19,0.63 
+2015,08,19,18:00,dignitas,Phenomenon,inferno,Hitbox Arena Showdown Invitati..,16,5,10,5,6,0,Phenomenon,5,17,0.44 
+2015,08,19,18:00,Phenomenon,dignitas,cache,Hitbox Arena Showdown Invitati..,13,16,7,8,6,8,Phenomenon,14,24,0.64 
+2015,08,19,18:00,dignitas,Phenomenon,mirage,Hitbox Arena Showdown Invitati..,16,9,6,9,10,0,Phenomenon,13,19,0.68 
+2015,08,18,20:00,Dobry&Gaming,Phenomenon,cobblestone,Hitbox Arena Showdown Invitati..,13,16,8,7,5,9,Phenomenon,21,19,0.99 
+2015,08,18,20:00,Phenomenon,Dobry&Gaming,dust2,Hitbox Arena Showdown Invitati..,16,13,9,6,7,7,Phenomenon,17,20,1.00 
+2015,08,18,20:00,Phenomenon,Dobry&Gaming,mirage,Hitbox Arena Showdown Invitati..,8,16,4,11,4,5,Phenomenon,16,24,0.61 
+2015,08,18,18:00,LondonC,Phenomenon,dust2,Hitbox Arena Showdown Invitati..,6,16,3,12,3,4,Phenomenon,18,12,1.19 
+2015,08,17,18:15,SK,Phenomenon,cobblestone,DreamHack Open London 2015 Clo..,16,9,8,7,8,2,Phenomenon,11,19,0.63 
+2015,08,17,18:15,Phenomenon,SK,mirage,DreamHack Open London 2015 Clo..,7,16,3,12,4,4,Phenomenon,11,20,0.63 
+2015,08,17,18:15,SK,Phenomenon,cache,DreamHack Open London 2015 Clo..,14,16,6,9,8,7,Phenomenon,21,17,1.00 
+2015,08,12,22:30,PiTER,Phenomenon,cache,D!ngIT $2000 Weekly Cup #12,12,16,4,11,8,5,Phenomenon,16,22,0.71 
+2015,08,12,22:30,Phenomenon,PiTER,dust2,D!ngIT $2000 Weekly Cup #12,8,16,6,9,2,7,Phenomenon,19,19,1.10 
+2015,08,10,22:00,ROCCAT,Phenomenon,cache,D!ngIT $2000 Weekly Cup #12,18,21,8,7,7,8,Phenomenon,28,27,1.00 
+2015,08,10,22:00,Phenomenon,ROCCAT,dust2,D!ngIT $2000 Weekly Cup #12,16,14,11,4,5,10,Phenomenon,16,21,0.81 
+2015,08,10,17:30,PiTER,Phenomenon,cache,D!ngIT $2000 Weekly Cup #12,14,16,7,8,7,8,Phenomenon,20,23,0.90 
+2015,08,10,17:30,PiTER,Phenomenon,mirage,D!ngIT $2000 Weekly Cup #12,14,16,9,6,5,10,Phenomenon,11,19,0.64 
+2015,08,08,23:15,Phenomenon,k1ck,cache,Multifrags Invitational 2015,16,2,13,2,3,0,Phenomenon,20,8,1.77 
+2015,08,08,23:15,k1ck,Phenomenon,cobblestone,Multifrags Invitational 2015,9,16,6,9,3,7,Phenomenon,20,13,1.25 
+2015,08,08,16:00,Phenomenon,nerdRage,cache,Multifrags Invitational 2015,12,16,5,10,7,6,Phenomenon,12,21,0.62 
+2015,08,08,16:00,nerdRage,Phenomenon,dust2,Multifrags Invitational 2015,16,3,12,3,4,0,Phenomenon,4,17,0.29 
+2015,08,07,20:00,Phenomenon,Crystallize,mirage,Multifrags Invitational 2015,16,11,6,9,10,2,Phenomenon,13,15,0.89 
+2015,08,07,20:00,Crystallize,Phenomenon,cache,Multifrags Invitational 2015,2,16,2,13,0,3,Phenomenon,13,10,1.13 
+2015,05,24,22:45,Phenomenon,myKPV,cobblestone,DreamHack Open Summer 2015 Qua..,14,16,9,6,5,10,Phenomenon,23,20,1.11 
+2015,05,23,22:30,Phenomenon,INSHOCK,mirage,DreamHack Open Summer 2015 Qua..,17,21,5,10,10,5,Phenomenon,17,31,0.59 

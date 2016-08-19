@@ -1,0 +1,6 @@
+2016,06,28,14:00,Jordan,Palestine,cache,World Championships 2016 Asian..,16,3,12,3,4,0,Palestine,8,16,0.60 
+2016,06,28,14:00,Jordan,Palestine,train,World Championships 2016 Asian..,16,9,10,5,6,4,Palestine,16,20,0.88 
+2016,06,24,11:30,SaudiArabia,Palestine,dust2,World Championships 2016 Asian..,12,16,7,8,5,8,Palestine,11,20,0.60 
+2016,06,24,11:30,Palestine,SaudiArabia,mirage,World Championships 2016 Asian..,16,6,11,4,5,2,Palestine,12,14,0.86 
+2015,08,31,14:00,Palestine,Kyrgyzstan,cache,World Championships 2015 Asian..,4,16,3,12,1,4,Palestine,9,17,0.59 
+2015,08,31,13:00,India,Palestine,dust2,World Championships 2015 Asian..,16,8,12,3,4,5,Palestine,18,19,1.04 

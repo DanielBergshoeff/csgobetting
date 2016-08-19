@@ -1,0 +1,7 @@
+2014,07,16,19:00,OnlineBOTS,USSR,inferno,SLTV StarSeries X,14,16,11,4,3,12,OnlineBOTS,14,21,0.71 
+2014,07,13,19:00,OnlineBOTS,NatusVincere,train,SLTV StarSeries X,3,16,3,12,0,4,OnlineBOTS,8,14,0.60 
+2014,07,10,21:00,OnlineBOTS,Nostalgie,train,SLTV StarSeries X,16,6,11,4,5,2,OnlineBOTS,16,9,1.25 
+2014,07,10,20:00,mousesports,OnlineBOTS,mirage,SLTV StarSeries X,16,3,14,1,2,2,OnlineBOTS,10,17,0.59 
+2014,07,08,21:00,Virtus.pro,OnlineBOTS,mirage,SLTV StarSeries X,16,8,9,6,7,2,OnlineBOTS,11,18,0.61 
+2014,07,07,20:00,Reason,OnlineBOTS,mirage,SLTV StarSeries X,16,8,10,5,6,3,OnlineBOTS,11,20,0.57 
+2014,07,07,19:00,OnlineBOTS,HellRaisers,inferno,SLTV StarSeries X,13,16,8,7,5,9,OnlineBOTS,16,19,0.92 

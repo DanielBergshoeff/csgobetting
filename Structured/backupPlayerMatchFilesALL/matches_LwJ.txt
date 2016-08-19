@@ -1,0 +1,10 @@
+2016,08,04,06:20,5POWER,BornOfFire,cache,SL i-League S2 China Finals,11,16,6,9,5,7,5POWER,17,24,0.79 
+2016,08,04,06:20,5POWER,BornOfFire,mirage,SL i-League S2 China Finals,12,16,6,9,6,7,5POWER,19,18,1.04 
+2016,08,04,06:20,5POWER,BornOfFire,cobblestone,SL i-League S2 China Finals,16,3,12,3,4,0,5POWER,10,11,0.84 
+2016,07,31,15:00,5POWER,HG,cache,SL i-League S2 China Qualifier,16,9,11,4,5,5,5POWER,21,15,1.28 
+2016,07,31,15:00,5POWER,HG,cobblestone,SL i-League S2 China Qualifier,16,5,11,4,5,1,5POWER,13,12,0.98 
+2016,07,28,09:15,5POWER,Replays.net,mirage,SL i-League S2 China Qualifier,16,13,11,4,5,9,5POWER,16,17,0.96 
+2016,07,28,09:15,5POWER,Replays.net,cache,SL i-League S2 China Qualifier,4,16,1,14,3,2,5POWER,9,16,0.60 
+2016,07,28,09:15,Replays.net,5POWER,dust2,SL i-League S2 China Qualifier,9,16,3,12,6,4,5POWER,17,15,1.03 
+2016,07,19,09:15,New4,5POWER,cache,SL i-League S2 China Qualifier,13,16,9,6,4,10,5POWER,22,22,0.99 
+2016,07,19,09:15,5POWER,New4,dust2,SL i-League S2 China Qualifier,16,9,11,4,5,5,5POWER,12,14,0.81 

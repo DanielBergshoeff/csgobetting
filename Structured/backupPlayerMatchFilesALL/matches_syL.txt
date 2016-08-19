@@ -1,0 +1,2 @@
+2016,03,05,21:30,Elysium,LDLCfe,dust2,Intel Challenge Katowice 2016,8,16,7,8,1,8,Elysium,15,16,0.96 
+2016,03,05,18:40,CLGRed,Elysium,dust2,Intel Challenge Katowice 2016,16,8,10,5,6,3,Elysium,13,18,0.73 

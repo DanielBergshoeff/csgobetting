@@ -1,0 +1,10 @@
+2016,04,21,19:00,SuperMassive,CS-GO.rs,cobblestone,Balkan Championship Season 3,16,11,8,7,8,4,CS-GO.rs,11,19,0.63 
+2016,04,19,19:00,aimclub,CS-GO.rs,cache,Balkan Championship Season 3,16,7,13,2,3,5,CS-GO.rs,12,19,0.68 
+2015,09,13,10:30,FLUGGENKK,ARMADA,cache,Balkan SuperCup #2 LAN Finals,5,16,4,11,1,5,FLUGGENKK,10,18,0.54 
+2015,09,13,10:30,ARMADA,FLUGGENKK,inferno,Balkan SuperCup #2 LAN Finals,16,13,6,9,10,4,FLUGGENKK,11,21,0.58 
+2014,12,13,18:18,ZajebaNi,SpaceSoldiers,dust2,South East Europe Championship,2,16,2,13,0,3,ZajebaNi,3,3,0.85 
+2014,05,25,15:00,e-Sports.rs,E-Frag,dust2,Gaming Challenge 2014,8,16,7,8,1,8,e-Sports.rs,8,16,0.55 
+2014,05,25,15:00,e-Sports.rs,E-Frag,mirage,Gaming Challenge 2014,14,16,9,6,5,10,e-Sports.rs,16,23,0.73 
+2014,05,25,15:00,E-Frag,e-Sports.rs,inferno,Gaming Challenge 2014,17,19,10,5,5,10,e-Sports.rs,27,22,1.12 
+2014,05,25,13:00,GamePub.ENTiTY,e-Sports.rs,train,Gaming Challenge 2014,14,16,10,5,4,11,e-Sports.rs,28,19,1.33 
+2014,05,25,12:00,e-Sports.rs,core.team,inferno,Gaming Challenge 2014,16,11,7,8,9,3,e-Sports.rs,19,16,1.05 

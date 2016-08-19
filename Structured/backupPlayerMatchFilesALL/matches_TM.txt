@@ -1,0 +1,3 @@
+2014,08,27,02:30,Mobility,Exertus,cache,FACEIT League 2 NA Closed Qual..,16,11,10,5,6,6,Exertus,15,23,0.71 
+2014,08,27,02:30,Mobility,Exertus,mirage,FACEIT League 2 NA Closed Qual..,16,7,11,4,5,3,Exertus,14,20,0.74 
+2014,08,26,03:00,Exertus,Cytik,mirage,FACEIT League 2 NA Closed Qual..,16,5,13,2,3,3,Exertus,16,12,1.18 

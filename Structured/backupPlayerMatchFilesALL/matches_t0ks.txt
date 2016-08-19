@@ -1,0 +1,6 @@
+2016,08,02,13:00,Risky,MVPproject,overpass,E-Sports Festival CS:GO Tourna..,13,16,5,10,8,6,Risky,20,19,1.00 
+2016,08,02,13:00,MVPproject,Risky,train,E-Sports Festival CS:GO Tourna..,19,22,3,12,12,3,Risky,25,27,0.96 
+2016,08,02,13:00,MVPproject,Risky,nuke,E-Sports Festival CS:GO Tourna..,16,8,7,8,9,0,Risky,10,20,0.53 
+2015,12,18,23:10,CamelRiders,JustPassingBy,inferno,AFKG MENA Championship,16,5,10,5,6,0,JustPassingBy,11,17,0.65 
+2015,12,18,23:10,JustPassingBy,CamelRiders,cobblestone,AFKG MENA Championship,16,10,10,5,6,5,JustPassingBy,24,18,1.25 
+2015,12,18,23:10,CamelRiders,JustPassingBy,cache,AFKG MENA Championship,16,13,8,7,8,6,JustPassingBy,24,17,1.21 

@@ -1,0 +1,10 @@
+2016,07,03,20:45,TheWorkingMen,Reason,cache,ESL UK Premiership Spring 2016..,16,13,6,9,10,4,Reason,14,16,0.81 
+2016,07,03,20:45,TheWorkingMen,Reason,mirage,ESL UK Premiership Spring 2016..,16,9,9,6,7,3,Reason,15,20,0.76 
+2016,07,03,20:45,TheWorkingMen,Reason,cobblestone,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,Reason,18,17,0.94 
+2016,07,03,15:30,Reason,Infused,cache,ESL UK Premiership Spring 2016..,16,11,9,6,7,5,Reason,17,14,0.96 
+2016,07,03,15:30,Infused,Reason,mirage,ESL UK Premiership Spring 2016..,7,16,6,9,1,7,Reason,21,14,1.26 
+2016,07,03,15:30,Reason,Infused,cobblestone,ESL UK Premiership Spring 2016..,13,16,4,11,9,5,Reason,20,24,0.94 
+2014,08,03,01:00,Virtus.pro,fm-eSports,mirage,Gfinity 3,16,1,14,1,2,0,fm-eSports,4,16,0.28 
+2014,08,02,21:45,fm-eSports,ESG!,inferno,Gfinity 3,6,16,6,9,0,7,fm-eSports,9,18,0.60 
+2014,08,02,17:20,fm-eSports,Titan,mirage,Gfinity 3,4,16,4,11,0,5,fm-eSports,13,17,0.75 
+2014,08,02,11:15,mousesports,fm-eSports,mirage,Gfinity 3,16,3,12,3,4,0,fm-eSports,8,16,0.54 

@@ -1,0 +1,2 @@
+2015,10,22,21:45,uX,Caseking,dust2,99Damage League Season 1,16,9,9,6,7,3,Caseking,13,19,0.72 
+2015,10,22,21:45,Caseking,uX,cache,99Damage League Season 1,8,16,5,10,3,6,Caseking,13,17,0.74 

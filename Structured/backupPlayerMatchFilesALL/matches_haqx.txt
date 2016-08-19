@@ -1,0 +1,7 @@
+2016,06,21,21:00,MeMyself&I,beGenius,mirage,UnderDogs #3,16,10,8,7,8,3,MeMyself&I,20,16,1.16 
+2016,06,21,21:00,beGenius,MeMyself&I,train,UnderDogs #3,8,16,6,9,2,7,MeMyself&I,19,16,1.08 
+2016,06,06,20:00,MeMyself&I,WeGotGame,mirage,UnderDogs #3,16,5,11,4,5,1,MeMyself&I,20,7,1.51 
+2016,06,06,20:00,WeGotGame,MeMyself&I,cobblestone,UnderDogs #3,11,16,4,11,7,5,MeMyself&I,13,17,0.81 
+2016,05,30,22:15,MeMyself&I,Nativ,dust2,UnderDogs #3,16,8,12,3,4,5,MeMyself&I,10,15,0.68 
+2016,05,30,22:15,Nativ,MeMyself&I,overpass,UnderDogs #3,8,16,4,11,4,5,MeMyself&I,16,15,0.96 
+2014,08,24,22:15,Imaginary,ttc,mirage,FACEIT League 2 EU pre-qualifi..,13,16,7,8,6,8,Imaginary,12,23,0.57 

@@ -1,0 +1,78 @@
+2016,08,04,18:10,Comanche,NokSuKao,train,Adrenaline Cyber League,20,22,9,6,6,9,NokSuKao,28,28,0.98 
+2016,08,04,18:10,NokSuKao,Comanche,mirage,Adrenaline Cyber League,16,9,10,5,6,4,NokSuKao,19,13,1.14 
+2016,08,03,21:15,X,NokSuKao,overpass,SL i-League S2 Europe Qualifie..,16,14,6,9,10,5,NokSuKao,13,19,0.70 
+2016,08,03,21:15,X,NokSuKao,mirage,SL i-League S2 Europe Qualifie..,16,8,10,5,6,3,NokSuKao,12,18,0.72 
+2016,08,02,21:00,NokSuKao,AGG,mirage,SL i-League S2 Europe Qualifie..,11,16,4,11,7,5,NokSuKao,13,18,0.72 
+2016,08,02,21:00,NokSuKao,AGG,dust2,SL i-League S2 Europe Qualifie..,12,16,9,6,3,10,NokSuKao,17,20,0.91 
+2016,08,02,21:00,AGG,NokSuKao,overpass,SL i-League S2 Europe Qualifie..,13,16,5,10,8,6,NokSuKao,22,19,1.00 
+2016,08,01,16:00,NokSuKao,dignitas,overpass,SL i-League S2 Europe Qualifie..,6,16,4,11,2,5,NokSuKao,9,19,0.48 
+2016,08,01,16:00,dignitas,NokSuKao,nuke,SL i-League S2 Europe Qualifie..,16,14,8,7,8,7,NokSuKao,7,21,0.48 
+2016,08,01,16:00,NokSuKao,dignitas,mirage,SL i-League S2 Europe Qualifie..,16,12,8,7,8,5,NokSuKao,18,14,1.19 
+2016,07,26,17:00,NokSuKao,Alpha,train,WCA 2016 EU Qualifier,7,16,6,9,1,7,NokSuKao,16,20,0.79 
+2016,07,26,17:00,NokSuKao,Alpha,cobblestone,WCA 2016 EU Qualifier,17,19,8,7,7,8,NokSuKao,25,24,0.98 
+2016,07,26,17:00,Alpha,NokSuKao,nuke,WCA 2016 EU Qualifier,4,16,3,12,1,4,NokSuKao,9,13,0.81 
+2016,07,23,19:10,ArchAngels,NokSuKao,nuke,Stream.me Gauntlet EU #1,16,12,6,9,10,3,NokSuKao,24,21,1.17 
+2016,07,23,19:10,NokSuKao,ArchAngels,mirage,Stream.me Gauntlet EU #1,12,16,7,8,5,8,NokSuKao,21,17,1.24 
+2016,06,11,13:00,Renegades,FluffyGangsters,mirage,ESL One Cologne 2016 Main Qual..,16,11,11,4,5,7,Fluffy Gangsters,20,19,1.12 
+2016,06,10,13:00,FluffyGangsters,OpTic,train,ESL One Cologne 2016 Main Qual..,9,16,6,9,3,7,Fluffy Gangsters,15,15,0.90 
+2016,06,09,16:55,FluffyGangsters,mousesports,dust2,ESL One Cologne 2016 Main Qual..,16,19,8,7,7,8,Fluffy Gangsters,24,26,1.03 
+2016,06,05,12:00,FluffyGangsters,SpaceSoldiers,train,DreamHack ZOWIE Open Summer 20..,13,16,7,8,6,8,Fluffy Gangsters,17,23,0.72 
+2016,06,05,12:00,FluffyGangsters,SpaceSoldiers,dust2,DreamHack ZOWIE Open Summer 20..,13,16,6,9,7,7,Fluffy Gangsters,16,23,0.75 
+2016,05,29,16:30,BinaryDragons,Arcade,dust2,DreamHack ZOWIE Open Summer 20..,24,28,7,8,8,7,Binary Dragons,35,40,0.93 
+2016,05,29,16:30,BinaryDragons,Arcade,mirage,DreamHack ZOWIE Open Summer 20..,7,16,6,9,1,7,Binary Dragons,12,17,0.83 
+2016,05,29,12:15,BinaryDragons,mix123,mirage,DreamHack ZOWIE Open Summer 20..,16,13,4,11,12,2,Binary Dragons,21,18,1.05 
+2016,05,29,12:15,BinaryDragons,mix123,cobblestone,DreamHack ZOWIE Open Summer 20..,11,16,3,12,8,4,Binary Dragons,17,21,0.79 
+2016,05,01,19:45,Empire,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,12,16,6,9,6,7,Fluffy Gangsters,24,16,1.52 
+2016,05,01,19:45,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,16,11,6,9,10,2,Fluffy Gangsters,24,17,1.30 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,16,11,7,8,9,3,Fluffy Gangsters,23,15,1.40 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,dust2,StarLadder Minor CIS - Cologne..,16,14,7,8,9,6,Fluffy Gangsters,26,19,1.26 
+2016,04,30,20:30,FluffyGangsters,Empire,train,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Fluffy Gangsters,24,20,1.14 
+2016,04,30,20:30,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,6,16,2,13,4,3,Fluffy Gangsters,8,19,0.47 
+2016,04,30,20:30,Empire,FluffyGangsters,dust2,StarLadder Minor CIS - Cologne..,3,16,3,12,0,4,Fluffy Gangsters,23,6,1.97 
+2016,04,30,13:00,ANOX,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,15,19,8,7,7,8,Fluffy Gangsters,26,26,1.02 
+2016,04,30,13:00,FluffyGangsters,ANOX,cobblestone,StarLadder Minor CIS - Cologne..,9,16,8,7,1,9,Fluffy Gangsters,19,18,1.03 
+2016,04,30,13:00,ANOX,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,3,16,2,13,1,3,Fluffy Gangsters,26,7,2.06 
+2016,04,28,15:30,FluffyGangsters,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,9,12,3,4,6,Fluffy Gangsters,22,13,1.36 
+2016,04,28,15:30,DigitalWave,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,10,16,3,12,7,4,Fluffy Gangsters,24,19,1.19 
+2016,04,28,11:55,Arcade,FluffyGangsters,train,StarLadder Minor CIS - Cologne..,13,16,7,8,6,8,Fluffy Gangsters,30,18,1.59 
+2016,04,20,20:00,Tempest,FluffyGangsters,mirage,StarLadder Regional Minor Cham..,17,19,10,5,5,10,Fluffy Gangsters,26,21,1.12 
+2016,04,20,20:00,FluffyGangsters,Tempest,dust2,StarLadder Regional Minor Cham..,19,16,5,10,10,5,Fluffy Gangsters,32,22,1.35 
+2016,03,26,19:00,FluffyGangsters,Arcade,inferno,SL I-League Invitational #1 EU..,13,16,9,6,4,10,Fluffy Gangsters,20,20,1.03 
+2016,03,26,19:00,Arcade,FluffyGangsters,mirage,SL I-League Invitational #1 EU..,16,3,13,2,3,1,Fluffy Gangsters,4,17,0.26 
+2016,03,25,19:00,FluffyGangsters,AGG,inferno,SL I-League Invitational #1 EU..,16,13,9,6,7,7,Fluffy Gangsters,14,21,0.71 
+2016,03,23,19:00,CSGL,FluffyGangsters,train,SL I-League Invitational #1 EU..,16,14,7,8,9,6,Fluffy Gangsters,12,22,0.57 
+2016,03,20,13:00,G2,FluffyGangsters,inferno,DreamHack Masters Malmö 2016 E..,16,2,13,2,3,0,Fluffy Gangsters,4,18,0.19 
+2016,03,20,13:00,G2,FluffyGangsters,dust2,DreamHack Masters Malmö 2016 E..,16,13,8,7,8,6,Fluffy Gangsters,15,22,0.69 
+2016,03,19,18:25,FluffyGangsters,Tempest,mirage,DreamHack Masters Malmö 2016 E..,16,5,11,4,5,1,Fluffy Gangsters,14,10,1.12 
+2016,03,07,23:15,Empire,Tempest,mirage,Binary Dragons Cup Season 2,16,6,12,3,4,3,Tempest,13,18,0.67 
+2016,03,07,23:15,Tempest,Empire,cache,Binary Dragons Cup Season 2,19,22,9,6,6,9,Tempest,31,27,1.09 
+2016,03,07,19:20,Tempest,BinaryDragons,inferno,Binary Dragons Cup Season 2,16,11,11,4,5,7,Tempest,31,17,1.65 
+2016,03,07,19:20,BinaryDragons,Tempest,dust2,Binary Dragons Cup Season 2,11,16,9,6,2,10,Tempest,18,20,0.90 
+2016,03,07,19:20,BinaryDragons,Tempest,train,Binary Dragons Cup Season 2,16,10,7,8,9,2,Tempest,14,21,0.72 
+2016,02,06,12:00,Quest,BinaryDragons,cobblestone,Binary Dragons Hellstore Winte..,31,27,5,10,10,5,Quest,43,34,1.09 
+2016,02,06,12:00,BinaryDragons,Quest,dust2,Binary Dragons Hellstore Winte..,14,16,6,9,8,7,Quest,28,19,1.39 
+2016,01,23,16:45,Method,Quest,dust2,StarLadder Regional Minor Cham..,16,14,5,10,11,4,Quest,28,20,1.25 
+2016,01,23,16:45,Method,Quest,train,StarLadder Regional Minor Cham..,16,11,12,3,4,8,Quest,14,23,0.62 
+2016,01,23,15:30,FluffyGangsters,Quest,mirage,StarLadder Regional Minor Cham..,14,16,6,9,8,7,Quest,29,20,1.31 
+2016,01,22,13:15,Quest,Arcade,cache,StarLadder Regional Minor Cham..,13,16,7,8,6,8,Quest,19,20,0.94 
+2016,01,12,18:30,Quest,LDLCBlue,train,D!ngIT $2000 Weekly Cup #33,2,16,2,13,0,3,Quest,6,15,0.41 
+2016,01,11,18:30,ALTERNATEaTTaX,Quest,dust2,D!ngIT $2000 Weekly Cup #33,16,11,9,6,7,5,Quest,19,21,1.01 
+2016,01,11,18:30,Quest,ALTERNATEaTTaX,cobblestone,D!ngIT $2000 Weekly Cup #33,5,16,4,11,1,5,Quest,12,15,0.82 
+2015,12,11,18:00,Supreme,ELTZ,cobblestone,Game Show Global eSports Cup 2..,7,16,3,12,4,4,ELTZ,23,15,1.37 
+2015,12,11,18:00,Supreme,ELTZ,train,Game Show Global eSports Cup 2..,7,16,3,12,4,4,ELTZ,21,16,1.31 
+2015,12,11,18:00,Supreme,ELTZ,mirage,Game Show Global eSports Cup 2..,16,11,9,6,7,5,ELTZ,16,20,0.84 
+2015,10,27,17:30,PiTER,VegaSquadron,mirage,D!ngIT $2000 Weekly Cup #23,14,16,3,12,11,4,PiTER,17,20,0.78 
+2015,09,04,21:00,dope,PiTER,cobblestone,Uprise Champions Cup Season 3,12,16,6,9,6,7,dope,24,16,1.38 
+2015,09,04,21:00,PiTER,dope,mirage,Uprise Champions Cup Season 3,16,7,12,3,4,4,dope,12,21,0.56 
+2015,09,03,18:00,Phenomenon,dope,cobblestone,Uprise Champions Cup Season 3,16,11,9,6,7,5,dope,19,18,1.10 
+2015,09,03,18:00,dope,Phenomenon,mirage,Uprise Champions Cup Season 3,13,16,9,6,4,10,dope,19,21,0.83 
+2015,09,02,21:45,EpiphanyBolt,dope,cache,Uprise Champions Cup Season 3,16,3,13,2,3,1,dope,10,17,0.71 
+2015,09,02,21:45,dope,EpiphanyBolt,mirage,Uprise Champions Cup Season 3,16,14,12,3,4,11,dope,13,18,0.77 
+2015,09,02,21:45,dope,EpiphanyBolt,cobblestone,Uprise Champions Cup Season 3,9,16,4,11,5,5,dope,13,18,0.73 
+2015,09,01,18:00,Pries,dope,cobblestone,Rising Tornado #4,19,17,8,7,7,8,dope,32,23,1.36 
+2015,09,01,18:00,Pries,dope,dust2,Rising Tornado #4,16,6,14,1,2,5,dope,13,18,0.75 
+2015,08,29,14:00,dope,ACG,mirage,Rising Tornado #4,19,17,8,7,7,8,dope,23,30,0.80 
+2015,08,29,14:00,dope,ACG,cache,Rising Tornado #4,12,16,6,9,6,7,dope,22,23,0.93 
+2015,08,29,14:00,dope,ACG,dust2,Rising Tornado #4,16,14,7,8,9,6,dope,29,18,1.37 
+2015,06,25,18:00,TEAMSWAGYOLO,Enso,cache,Rising Tornado #2,16,13,8,7,8,6,TEAMSWAGYOLO,22,21,1.02 
+2015,06,23,19:00,Evolution,TEAMSWAGYOLO,mirage,Rising Tornado #2,16,12,12,3,4,9,TEAMSWAGYOLO,23,20,1.13 

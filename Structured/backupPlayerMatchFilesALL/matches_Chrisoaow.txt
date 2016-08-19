@@ -1,0 +1,56 @@
+2016,07,28,11:30,Parallax,Chiefs,cache,CyberGamer Oceania eSports Mas..,16,12,7,8,9,4,Chiefs,18,22,0.88 
+2016,07,28,11:30,Chiefs,Parallax,overpass,CyberGamer Oceania eSports Mas..,16,10,12,3,4,7,Chiefs,13,17,0.74 
+2016,07,28,11:30,Chiefs,Parallax,dust2,CyberGamer Oceania eSports Mas..,13,16,7,8,6,8,Chiefs,16,18,0.87 
+2016,07,24,07:40,AthleticoBH,Chiefs,train,ESL Australia & NZ Championshi..,16,8,9,6,7,2,Chiefs,15,17,0.81 
+2016,07,24,07:40,AthleticoBH,Chiefs,dust2,ESL Australia & NZ Championshi..,16,12,7,8,9,4,Chiefs,14,19,0.76 
+2016,07,24,04:15,Chiefs,Parallax,train,ESL Australia & NZ Championshi..,12,16,6,9,6,7,Chiefs,15,21,0.73 
+2016,07,24,04:15,Chiefs,Parallax,mirage,ESL Australia & NZ Championshi..,16,8,11,4,5,4,Chiefs,11,15,0.81 
+2016,07,24,04:15,Parallax,Chiefs,cache,ESL Australia & NZ Championshi..,16,12,10,5,6,7,Chiefs,20,18,1.03 
+2016,07,23,10:30,Exile5,Chiefs,train,ESL Australia & NZ Championshi..,13,16,9,6,4,10,Chiefs,28,19,1.35 
+2016,07,23,10:30,Chiefs,Exile5,cache,ESL Australia & NZ Championshi..,16,6,9,6,7,0,Chiefs,19,12,1.28 
+2016,07,19,12:00,Chiefs,Exile5,train,CyberGamer Oceania eSports Mas..,16,7,11,4,5,3,Chiefs,16,12,1.02 
+2016,07,19,12:00,Exile5,Chiefs,mirage,CyberGamer Oceania eSports Mas..,7,16,4,11,3,5,Chiefs,16,11,1.23 
+2016,07,19,12:00,Exile5,Chiefs,cache,CyberGamer Oceania eSports Mas..,16,14,4,11,12,3,Chiefs,23,20,1.05 
+2016,07,18,12:00,AthleticoBH,Chiefs,train,CyberGamer Oceania eSports Mas..,16,8,12,3,4,5,Chiefs,11,19,0.60 
+2016,07,18,12:00,Chiefs,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,3,16,3,12,0,4,Chiefs,8,16,0.54 
+2016,07,18,12:00,AthleticoBH,Chiefs,cache,CyberGamer Oceania eSports Mas..,5,16,4,11,1,5,Chiefs,15,9,1.20 
+2016,07,11,12:00,Chiefs,GUTS,nuke,CyberGamer Oceania eSports Mas..,17,19,12,3,3,12,Chiefs,17,24,0.73 
+2016,07,11,12:00,Chiefs,GUTS,mirage,CyberGamer Oceania eSports Mas..,14,16,7,8,7,8,Chiefs,21,16,1.08 
+2016,07,11,12:00,GUTS,Chiefs,cache,CyberGamer Oceania eSports Mas..,12,16,2,13,10,3,Chiefs,25,14,1.53 
+2016,07,05,12:00,Chiefs,Skyfire,cobblestone,CyberGamer Oceania eSports Mas..,12,16,6,9,6,7,Chiefs,12,22,0.62 
+2016,07,05,12:00,Skyfire,Chiefs,dust2,CyberGamer Oceania eSports Mas..,16,13,7,8,9,5,Chiefs,24,17,1.17 
+2016,07,05,12:00,Chiefs,Skyfire,mirage,CyberGamer Oceania eSports Mas..,16,10,7,8,9,2,Chiefs,24,16,1.22 
+2016,01,16,02:00,AlphaSydney,Chiefs,inferno,IEM Taipei 2016 Oceania Qualif..,1,16,1,14,0,2,Chiefs,21,12,2.13 
+2016,01,16,02:00,AlphaSydney,Chiefs,cache,IEM Taipei 2016 Oceania Qualif..,23,25,10,5,5,10,Chiefs,37,35,1.05 
+2015,12,09,10:00,Chiefs,Legacy,dust2,Counter Pit League Season 2,1,16,1,14,0,2,Chiefs,10,16,0.54 
+2015,12,09,10:00,Legacy,Chiefs,mirage,Counter Pit League Season 2,16,12,9,6,7,6,Chiefs,18,19,0.92 
+2015,12,08,12:00,Chiefs,Exile5,train,Counter Pit League Season 2,16,8,13,2,3,6,Chiefs,17,13,1.16 
+2015,12,08,12:00,Chiefs,Exile5,mirage,Counter Pit League Season 2,16,13,9,6,7,7,Chiefs,22,18,1.14 
+2015,12,08,10:00,Chiefs,VoxEminor,dust2,Counter Pit League Season 2,9,16,3,12,6,4,Chiefs,15,18,0.92 
+2015,12,08,10:00,VoxEminor,Chiefs,cache,Counter Pit League Season 2,16,12,8,7,8,5,Chiefs,16,23,0.83 
+2015,12,07,10:00,Chiefs,Immunity,mirage,Counter Pit League Season 2,8,16,6,9,2,7,Chiefs,18,18,1.10 
+2015,12,07,10:00,Immunity,Chiefs,overpass,Counter Pit League Season 2,16,7,14,1,2,6,Chiefs,10,21,0.54 
+2015,12,01,10:00,Chiefs,TRIDENT,inferno,Counter Pit League Season 2,19,17,4,11,11,4,Chiefs,19,20,1.00 
+2015,12,01,10:00,TRIDENT,Chiefs,cache,Counter Pit League Season 2,5,16,5,10,0,6,Chiefs,17,9,1.36 
+2015,10,18,11:00,Chiefs,Exile5,cobblestone,FACEIT League 2015 Stage 3,3,16,3,12,0,4,Chiefs,5,17,0.31 
+2015,10,17,13:00,AnimalSquad,Chiefs,cache,FACEIT League 2015 Stage 3,11,16,9,6,2,10,Chiefs,13,19,0.73 
+2015,10,16,12:25,Renegades,Chiefs,cobblestone,FACEIT League 2015 Stage 3,16,5,10,5,6,0,Chiefs,16,18,0.95 
+2015,10,04,12:00,Chiefs,Immunity,cache,FACEIT League 2015 Stage 3,13,16,6,9,7,7,Chiefs,24,18,1.14 
+2015,10,03,12:00,Chiefs,fSociety,mirage,FACEIT League 2015 Stage 3,13,16,6,9,7,7,Chiefs,19,22,0.92 
+2015,09,22,11:00,Chiefs,Control.VP,inferno,FACEIT League 2015 Stage 3 OCE..,16,1,15,0,1,1,Chiefs,15,7,1.49 
+2015,09,22,11:00,Control.VP,Chiefs,mirage,FACEIT League 2015 Stage 3 OCE..,16,11,8,7,8,4,Chiefs,11,18,0.66 
+2015,09,22,11:00,Chiefs,Control.VP,cache,FACEIT League 2015 Stage 3 OCE..,16,12,9,6,7,6,Chiefs,14,18,0.83 
+2015,09,21,10:00,TRIDENT,Available!,inferno,FACEIT League 2015 Stage 3 OCE..,10,16,6,9,4,7,Available!,21,15,1.20 
+2015,09,21,10:00,TRIDENT,Available!,cache,FACEIT League 2015 Stage 3 OCE..,19,21,7,8,8,7,Available!,20,29,0.76 
+2015,09,15,03:35,Skyfire,TRIDENT,mirage,ACL Melbourne 2015,16,14,7,8,9,6,Skyfire,23,15,1.16 
+2015,09,15,03:34,TRIDENT,Skyfire,dust2,ACL Melbourne 2015,2,16,2,13,0,3,Skyfire,22,9,1.85 
+2015,09,06,01:00,SYF,Skyfire,train,ACL Melbourne 2015,5,16,5,10,0,6,Skyfire,17,9,1.36 
+2015,09,06,01:00,Skyfire,SYF,cobblestone,ACL Melbourne 2015,14,16,8,7,6,9,Skyfire,27,16,1.29 
+2015,06,21,12:00,AVANTGARDE,Exile5,dust2,FACEIT League 2015 Stage 2,13,16,5,10,8,6,AVANT GARDE,18,21,0.79 
+2015,06,20,14:30,Immunity,AVANTGARDE,inferno,FACEIT League 2015 Stage 2,16,1,14,1,2,0,AVANT GARDE,7,17,0.34 
+2015,05,31,14:00,DireWolves,AVANTGARDE,cache,FACEIT League 2015 Stage 2,16,6,12,3,4,3,AVANT GARDE,5,19,0.30 
+2015,04,05,13:00,AVANTGARDE,Chiefs,mirage,FACEIT League 2015 Stage 1,12,16,4,11,8,5,AVANT GARDE,19,22,0.95 
+2015,03,29,12:00,AVANTGARDE,VoxEminor,cache,FACEIT League 2015 Stage 1,9,16,2,13,7,3,AVANT GARDE,19,21,1.03 
+2015,03,22,11:00,AVANTGARDE,Streamline,cache,FACEIT League 2015 Stage 1,8,16,2,13,6,3,AVANT GARDE,14,16,0.93 
+2015,03,01,12:00,Immunity,AVANTGARDE,mirage,FACEIT League 2015 Stage 1,16,9,9,6,7,3,AVANT GARDE,19,22,0.99 
+2015,02,22,10:00,TRIDENT,AVANTGARDE,dust2,FACEIT League 2015 Stage 1,15,21,12,3,3,12,AVANT GARDE,29,27,1.04 

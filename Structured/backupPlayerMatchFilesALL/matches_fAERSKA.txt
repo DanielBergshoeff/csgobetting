@@ -1,0 +1,4 @@
+2016,05,13,20:45,KoNFinland,KoNSweden,overpass,King of Nordic Season 4,16,10,11,4,5,6,KoN Sweden,19,21,0.92 
+2016,05,13,19:15,KoNDenmark,KoNSweden,dust2,King of Nordic Season 4,13,16,5,10,8,6,KoN Sweden,20,18,0.93 
+2014,06,15,16:00,Reason,o4o,train,DreamHack Summer 2014,16,1,14,1,2,0,o4o,5,16,0.36 
+2014,06,15,15:00,o4o,Titan,inferno,DreamHack Summer 2014,2,16,1,14,1,2,o4o,11,16,0.67 

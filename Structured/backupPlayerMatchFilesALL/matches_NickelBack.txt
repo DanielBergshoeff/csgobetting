@@ -1,0 +1,6 @@
+2016,07,12,18:00,Spirit,PRIDE,cache,Hitbox Challenger Cup #2,16,9,11,4,5,5,Spirit,15,18,0.80 
+2016,07,12,18:00,PRIDE,Spirit,nuke,Hitbox Challenger Cup #2,11,16,9,6,2,10,Spirit,25,18,1.30 
+2016,07,12,18:00,PRIDE,Spirit,mirage,Hitbox Challenger Cup #2,16,14,8,7,8,7,Spirit,18,21,0.84 
+2016,07,06,20:15,Spirit,Escape,cobblestone,Operation: Kinguin #3,16,6,10,5,6,1,Spirit,9,15,0.68 
+2016,07,06,20:15,Escape,Spirit,dust2,Operation: Kinguin #3,10,16,7,8,3,8,Spirit,13,13,0.87 
+2016,07,06,20:15,Spirit,Escape,overpass,Operation: Kinguin #3,12,16,9,6,3,10,Spirit,14,23,0.67 

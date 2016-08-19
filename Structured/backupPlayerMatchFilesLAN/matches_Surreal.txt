@@ -1,0 +1,13 @@
+2016,06,30,20:00,EnVyUs,compLexity,cache,ELEAGUE Season 1,16,8,8,7,8,1,compLexity,11,19,0.72 
+2016,06,30,20:00,EnVyUs,compLexity,dust2,ELEAGUE Season 1,16,9,6,9,10,0,compLexity,18,20,0.86 
+2016,06,29,23:50,Gambit,compLexity,train,ELEAGUE Season 1,16,13,6,9,10,4,compLexity,15,19,0.79 
+2016,06,29,22:40,Gambit,compLexity,cache,ELEAGUE Season 1,14,16,6,9,8,7,compLexity,25,20,1.14 
+2016,06,29,19:15,EnVyUs,compLexity,cobblestone,ELEAGUE Season 1,16,9,8,7,8,2,compLexity,23,19,1.10 
+2016,06,29,18:00,EnVyUs,compLexity,train,ELEAGUE Season 1,16,12,12,3,4,9,compLexity,16,21,0.78 
+2016,06,28,19:10,Virtus.pro,compLexity,cobblestone,ELEAGUE Season 1,16,11,7,8,9,3,compLexity,18,20,0.83 
+2016,06,28,18:00,compLexity,Virtus.pro,overpass,ELEAGUE Season 1,7,16,1,14,6,2,compLexity,9,20,0.46 
+2016,03,28,00:30,PRIDE,Rasta,cobblestone,Insomnia 57,5,16,2,13,3,3,Rasta,19,8,1.62 
+2016,03,28,00:30,PRIDE,Rasta,mirage,Insomnia 57,12,16,8,7,4,9,Rasta,19,19,1.02 
+2016,03,28,00:30,PRIDE,Rasta,cache,Insomnia 57,16,14,11,4,5,10,Rasta,22,22,0.97 
+2016,02,21,13:00,Barrage,Infused,mirage,epic.SEVENTEEN,16,6,9,6,7,0,Barrage,22,14,1.32 
+2016,02,21,13:00,Infused,Barrage,cache,epic.SEVENTEEN,6,16,3,12,3,4,Barrage,22,12,1.50 

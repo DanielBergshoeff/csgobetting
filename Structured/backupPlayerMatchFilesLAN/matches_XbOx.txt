@@ -1,0 +1,2 @@
+2016,01,30,06:20,Renegades,EatYouAlive,cache,IEM Taipei 2016,16,7,9,6,7,1,Eat You Alive,4,20,0.28 
+2016,01,30,04:00,EatYouAlive,Renegades,cobblestone,IEM Taipei 2016,2,16,2,13,0,3,Eat You Alive,6,15,0.45 

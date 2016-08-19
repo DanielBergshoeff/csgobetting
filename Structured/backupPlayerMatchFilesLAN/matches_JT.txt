@@ -1,0 +1,13 @@
+2016,07,31,18:45,Bravado,carboN,train,ESWC 2016 South African Qualif..,16,4,12,3,4,1,carboN,4,19,0.21 
+2016,07,31,18:45,carboN,Bravado,cache,ESWC 2016 South African Qualif..,19,16,4,11,11,4,carboN,39,20,1.69 
+2016,07,31,18:45,carboN,Bravado,mirage,ESWC 2016 South African Qualif..,12,16,6,9,6,7,carboN,24,20,1.22 
+2016,07,31,14:45,carboN,DamageControl,cache,ESWC 2016 South African Qualif..,16,9,9,6,7,3,carboN,31,16,1.72 
+2016,07,31,14:45,DamageControl,carboN,dust2,ESWC 2016 South African Qualif..,16,14,5,10,11,4,carboN,25,23,1.04 
+2016,07,31,14:45,DamageControl,carboN,train,ESWC 2016 South African Qualif..,3,16,3,12,0,4,carboN,19,10,1.59 
+2016,07,30,19:30,Curiosity,carboN,train,ESWC 2016 South African Qualif..,5,16,4,11,1,5,carboN,25,15,1.59 
+2016,07,30,19:30,Curiosity,carboN,cobblestone,ESWC 2016 South African Qualif..,6,16,6,9,0,7,carboN,24,12,1.63 
+2014,08,02,23:45,fnatic,Infused,inferno,Gfinity 3,16,12,13,2,3,10,Infused,15,23,0.66 
+2014,08,02,21:45,Infused,Epsilon,inferno,Gfinity 3,7,16,6,9,1,7,Infused,10,19,0.61 
+2014,08,02,18:30,iBUYPOWER,Infused,inferno,Gfinity 3,15,15,10,5,5,10,Infused,17,26,0.70 
+2014,08,02,17:25,Infused,NiP,cache,Gfinity 3,12,16,5,10,7,6,Infused,12,21,0.67 
+2014,08,02,12:30,LondonC,Infused,inferno,Gfinity 3,16,6,12,3,4,3,Infused,5,20,0.29 

@@ -1,0 +1,79 @@
+2016,08,14,15:30,Entropy,finshhh,cobblestone,ECS Season 2 EU Open Qualifier..,16,11,6,9,10,2,finshhh,15,20,0.76 
+2016,06,21,21:00,MeMyself&I,beGenius,mirage,UnderDogs #3,16,10,8,7,8,3,MeMyself&I,19,14,1.12 
+2016,06,21,21:00,beGenius,MeMyself&I,train,UnderDogs #3,8,16,6,9,2,7,MeMyself&I,19,15,1.11 
+2016,06,06,20:00,MeMyself&I,WeGotGame,mirage,UnderDogs #3,16,5,11,4,5,1,MeMyself&I,16,9,1.19 
+2016,06,06,20:00,WeGotGame,MeMyself&I,cobblestone,UnderDogs #3,11,16,4,11,7,5,MeMyself&I,20,18,1.11 
+2016,06,04,18:25,visomvet,MeMyself&I,cache,DreamHack ZOWIE Open Summer 20..,16,7,9,6,7,1,MeMyself&I,12,18,0.76 
+2016,05,30,22:15,MeMyself&I,Nativ,dust2,UnderDogs #3,16,8,12,3,4,5,MeMyself&I,18,16,1.16 
+2016,05,30,22:15,Nativ,MeMyself&I,overpass,UnderDogs #3,8,16,4,11,4,5,MeMyself&I,15,15,0.95 
+2016,04,25,21:00,DeadPixels,ALTERNATEaTTaX,cache,Uprise Champions Cup Season 4,12,16,5,10,7,6,Dead Pixels,20,21,0.97 
+2016,04,25,21:00,ALTERNATEaTTaX,DeadPixels,dust2,Uprise Champions Cup Season 4,16,12,6,9,10,3,Dead Pixels,10,22,0.51 
+2016,03,28,10:00,LDLCBlue,Millenium,inferno,Gamers Assembly 2016,12,16,12,3,0,13,LDLC Blue,15,19,0.79 
+2016,03,27,19:15,LDLCBlue,DeadPixels,cobblestone,Gamers Assembly 2016,16,5,13,2,3,3,LDLC Blue,16,8,1.31 
+2016,03,27,14:00,LDLCBlue,Millenium,dust2,Gamers Assembly 2016,14,16,6,9,8,7,LDLC Blue,17,22,0.81 
+2016,03,27,14:00,LDLCBlue,Millenium,overpass,Gamers Assembly 2016,10,16,3,12,7,4,LDLC Blue,17,19,0.88 
+2016,03,23,21:30,YP,LDLCBlue,dust2,SL I-League Invitational #1 EU..,16,12,9,6,7,6,LDLC Blue,18,19,0.94 
+2016,03,23,21:30,YP,LDLCBlue,cobblestone,SL I-League Invitational #1 EU..,16,7,8,7,8,0,LDLC Blue,16,20,0.79 
+2016,03,23,21:30,YP,LDLCBlue,overpass,SL I-League Invitational #1 EU..,10,16,6,9,4,7,LDLC Blue,24,17,1.32 
+2016,03,23,20:00,CPHWolves,LDLCBlue,inferno,SL I-League Invitational #1 EU..,10,16,6,9,4,7,LDLC Blue,22,15,1.21 
+2016,03,21,19:00,LDLCBlue,SK,train,Operation: Kinguin #2,3,16,3,12,0,4,LDLC Blue,13,18,0.74 
+2016,03,21,19:00,SK,LDLCBlue,dust2,Operation: Kinguin #2,14,16,5,10,9,6,LDLC Blue,19,18,0.97 
+2016,03,21,19:00,SK,LDLCBlue,cobblestone,Operation: Kinguin #2,16,1,14,1,2,0,LDLC Blue,2,16,0.15 
+2016,03,19,18:45,LDLCBlue,HellRaisers,inferno,DreamHack Masters Malmö 2016 E..,7,16,3,12,4,4,LDLC Blue,21,15,1.35 
+2016,03,16,19:00,LDLCBlue,GameAgents,inferno,Operation: Kinguin #2,16,10,9,6,7,4,LDLC Blue,23,13,1.39 
+2016,03,16,19:00,GameAgents,LDLCBlue,train,Operation: Kinguin #2,5,16,4,11,1,5,LDLC Blue,20,12,1.37 
+2016,03,14,23:30,Platinium,LDLCBlue,dust2,UnderDogs #2,14,16,6,9,8,7,LDLC Blue,14,18,0.77 
+2016,03,14,23:30,LDLCBlue,Platinium,train,UnderDogs #2,16,13,12,3,4,10,LDLC Blue,20,18,1.05 
+2016,03,14,23:30,LDLCBlue,Platinium,inferno,UnderDogs #2,19,22,12,3,3,12,LDLC Blue,28,30,0.92 
+2016,03,12,17:45,c5,LDLCBlue,inferno,DreamHack Masters Malmö 2016 E..,16,7,11,4,5,3,LDLC Blue,8,19,0.46 
+2016,03,07,21:00,DeadPixels,LDLCBlue,overpass,UnderDogs #2,14,16,13,2,1,14,LDLC Blue,26,15,1.40 
+2016,03,07,21:00,LDLCBlue,DeadPixels,cobblestone,UnderDogs #2,16,10,9,6,7,4,LDLC Blue,13,12,0.92 
+2016,03,07,21:00,DeadPixels,LDLCBlue,dust2,UnderDogs #2,16,12,5,10,11,2,LDLC Blue,15,20,0.81 
+2016,02,29,19:00,EpiphanyBolt,LDLCBlue,dust2,Operation: Kinguin #2,3,16,3,12,0,4,LDLC Blue,10,8,0.94 
+2016,02,29,19:00,EpiphanyBolt,LDLCBlue,inferno,Operation: Kinguin #2,11,16,6,9,5,7,LDLC Blue,37,14,2.10 
+2016,02,29,19:00,EpiphanyBolt,LDLCBlue,cobblestone,Operation: Kinguin #2,16,6,9,6,7,0,LDLC Blue,14,19,0.75 
+2016,02,06,13:00,LDLCWhite,LDLCBlue,mirage,Assembly Winter 2016,16,9,9,6,7,3,LDLC Blue,15,23,0.64 
+2016,02,06,13:00,LDLCBlue,LDLCWhite,cobblestone,Assembly Winter 2016,2,16,2,13,0,3,LDLC Blue,10,15,0.73 
+2016,02,05,12:55,LDLCBlue,RCTIC,train,Assembly Winter 2016,16,14,9,6,7,8,LDLC Blue,21,22,0.88 
+2016,02,05,11:45,CPHWolves,LDLCBlue,overpass,Assembly Winter 2016,13,16,6,9,7,7,LDLC Blue,20,18,1.05 
+2016,01,31,18:00,Revival,LDLCBlue,train,Rising Stars Europe #1,16,9,10,5,6,4,LDLC Blue,18,19,1.22 
+2016,01,31,18:00,LDLCBlue,Revival,mirage,Rising Stars Europe #1,9,16,3,12,6,4,LDLC Blue,16,20,0.91 
+2016,01,12,22:00,LDLCBlue,CG,mirage,D!ngIT $2000 Weekly Cup #33,10,16,9,6,1,10,LDLC Blue,18,19,0.98 
+2016,01,12,18:30,Quest,LDLCBlue,train,D!ngIT $2000 Weekly Cup #33,2,16,2,13,0,3,LDLC Blue,20,7,1.72 
+2016,01,11,21:00,LDLCBlue,CG,overpass,D!ngIT $2000 Weekly Cup #33,6,16,5,10,1,6,LDLC Blue,15,17,0.89 
+2016,01,11,21:00,LDLCBlue,CG,dust2,D!ngIT $2000 Weekly Cup #33,4,16,4,11,0,5,LDLC Blue,6,16,0.44 
+2016,01,11,21:00,LDLCBlue,CG,cobblestone,D!ngIT $2000 Weekly Cup #33,16,12,9,6,7,6,LDLC Blue,25,20,1.23 
+2015,12,09,18:00,LDLCBlue,E-frag.net,dust2,99Damage Arena #17,5,16,5,10,0,6,LDLC Blue,13,15,0.86 
+2015,12,09,18:00,LDLCBlue,E-frag.net,cobblestone,99Damage Arena #17,12,16,4,11,8,5,LDLC Blue,17,19,0.83 
+2015,12,08,19:00,EYESONU,LDLCBlue,overpass,99Damage Arena #17,14,16,10,5,4,11,LDLC Blue,26,21,1.20 
+2015,12,08,19:00,LDLCBlue,EYESONU,mirage,99Damage Arena #17,2,16,2,13,0,3,LDLC Blue,12,15,0.79 
+2015,12,08,19:00,LDLCBlue,EYESONU,cobblestone,99Damage Arena #17,16,2,13,2,3,0,LDLC Blue,19,5,1.76 
+2015,12,03,20:00,LDLCBlue,OnlineBOTS,mirage,QuickShot Arena #17,7,16,7,8,0,8,LDLC Blue,15,19,0.79 
+2015,12,03,18:15,BX3,LDLCBlue,mirage,QuickShot Arena #17,22,19,5,10,10,5,LDLC Blue,25,29,0.86 
+2015,11,15,22:50,LDLCBlue,PENTA,dust2,Red Dot Closed Qualifier,11,16,6,9,5,7,LDLC Blue,14,23,0.73 
+2015,11,15,20:20,LDLCBlue,SK,mirage,Red Dot Closed Qualifier,4,16,4,11,0,5,LDLC Blue,9,20,0.43 
+2015,11,13,21:15,Virtus.pro,EnVyUs,cache,FACEIT League 2015 Stage 3,16,4,11,4,5,0,EnVyUs,9,17,0.67 
+2015,11,09,19:15,LDLCWhite,LDLCBlue,cobblestone,UnderDogs #1,16,8,11,4,5,4,LDLC Blue,10,20,0.60 
+2015,11,09,19:15,LDLCBlue,LDLCWhite,dust2,UnderDogs #1,10,16,9,6,1,10,LDLC Blue,17,19,0.90 
+2015,11,09,19:15,LDLCWhite,LDLCBlue,overpass,UnderDogs #1,13,16,12,3,1,13,LDLC Blue,24,22,1.03 
+2015,11,09,19:15,LDLCBlue,LDLCWhite,inferno,UnderDogs #1,25,28,6,9,9,6,LDLC Blue,35,35,0.93 
+2015,11,09,19:15,LDLCWhite,LDLCBlue,mirage,UnderDogs #1,16,19,5,10,10,5,LDLC Blue,24,27,0.94 
+2015,10,25,18:00,GreyFace,Titan,overpass,SL i-League StarSeries XIV,10,16,7,8,3,8,Titan,18,15,1.04 
+2015,10,25,18:00,Titan,GreyFace,train,SL i-League StarSeries XIV,10,16,7,8,3,8,Titan,16,22,0.73 
+2015,10,25,18:00,Titan,GreyFace,dust2,SL i-League StarSeries XIV,16,13,7,8,9,5,Titan,21,17,1.02 
+2015,10,25,17:00,Titan,HellRaisers,cache,ESL ESEA Pro League Season 2,5,16,4,11,1,5,Titan,13,17,0.92 
+2015,10,19,21:00,Platinium,LDLCBlue,mirage,UnderDogs #1,8,16,4,11,4,5,Platinium,15,16,1.01 
+2015,10,19,21:00,Platinium,LDLCBlue,dust2,UnderDogs #1,16,11,10,5,6,6,Platinium,21,18,1.09 
+2015,10,19,21:00,LDLCBlue,Platinium,inferno,UnderDogs #1,16,6,12,3,4,3,Platinium,13,17,0.84 
+2015,09,29,22:30,Sweden,Belgium,cobblestone,World Championships 2015 Europ..,5,16,5,10,0,6,Belgium,8,10,0.80 
+2015,09,29,21:30,Belgium,Iceland,dust2,World Championships 2015 Europ..,16,11,8,7,8,4,Belgium,13,20,0.70 
+2015,09,28,21:30,AsusROG,TeamLessNana,cache,UnderDogs #1,16,11,8,7,8,4,TeamLessNana,26,19,1.35 
+2015,09,28,21:30,AsusROG,TeamLessNana,dust2,UnderDogs #1,17,19,8,7,7,8,TeamLessNana,32,20,1.38 
+2015,09,18,21:30,WEGOTGAME,DeadPixels,cache,LevelDown Championship,22,19,11,4,4,11,Dead Pixels,28,33,0.84 
+2015,09,18,21:30,DeadPixels,WEGOTGAME,dust2,LevelDown Championship,4,16,2,13,2,3,Dead Pixels,11,17,0.67 
+2015,09,17,22:15,DeadPixels,RedInstinct,mirage,LevelDown Championship,16,1,14,1,2,0,Dead Pixels,16,8,1.39 
+2015,09,17,22:15,RedInstinct,DeadPixels,cobblestone,LevelDown Championship,16,11,7,8,9,3,Dead Pixels,21,20,1.05 
+2015,09,17,22:15,RedInstinct,DeadPixels,dust2,LevelDown Championship,5,16,5,10,0,6,Dead Pixels,16,18,0.89 
+2015,09,17,19:40,Norway,Belgium,cache,World Championships 2015 Europ..,16,12,8,7,8,5,Belgium,16,21,0.70 
+2015,09,15,22:15,DeadPixels,melty,cache,LevelDown Championship,16,10,8,7,8,3,Dead Pixels,19,16,1.10 
+2015,09,15,21:15,AsusROG,DeadPixels,mirage,LevelDown Championship,4,16,3,12,1,4,Dead Pixels,20,13,1.50 

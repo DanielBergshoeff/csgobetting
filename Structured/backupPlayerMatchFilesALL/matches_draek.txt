@@ -1,0 +1,58 @@
+2015,10,14,02:00,Enemy,Coast,train,ESL ESEA Pro League Season 2,16,4,13,2,3,2,Coast,13,18,0.71 
+2015,09,30,05:25,Coast,Winterfox,cache,ESL ESEA Pro League Season 2,7,16,6,9,1,7,Coast,14,20,0.79 
+2015,09,30,02:00,Luminosity,Coast,dust2,CEVO Professional Season 8,16,7,9,6,7,1,Coast,10,16,0.74 
+2015,09,30,02:00,Luminosity,Coast,mirage,CEVO Professional Season 8,16,10,9,6,7,4,Coast,13,24,0.59 
+2015,09,25,04:15,Conquest,Coast,cobblestone,CEVO Professional Season 8,16,6,11,4,5,2,Coast,16,14,0.96 
+2015,09,25,04:15,Coast,Conquest,inferno,CEVO Professional Season 8,4,16,2,13,2,3,Coast,9,16,0.57 
+2015,09,24,02:00,Method,Coast,mirage,CEVO Professional Season 8,16,13,9,6,7,7,Coast,23,21,1.11 
+2015,09,24,02:00,Method,Coast,dust2,CEVO Professional Season 8,16,13,6,9,10,4,Coast,23,20,1.08 
+2015,09,23,05:00,Coast,3sUP,inferno,ESL ESEA Pro League Season 2,16,11,11,4,5,7,Coast,21,18,1.18 
+2015,09,23,03:00,Coast,Splyce,inferno,ESL ESEA Pro League Season 2,16,3,13,2,3,1,Coast,14,8,1.24 
+2015,09,22,03:00,compLexity,Coast,train,RGN Freedom Cup,16,7,8,7,8,0,Coast,13,22,0.58 
+2015,09,21,02:00,Coast,compLexity,train,CEVO Professional Season 8,10,16,6,9,4,7,Coast,10,21,0.59 
+2015,09,21,02:00,Coast,compLexity,dust2,CEVO Professional Season 8,2,16,2,13,0,3,Coast,5,16,0.35 
+2015,09,18,05:00,CLG,Coast,overpass,ESL ESEA Pro League Season 2,16,1,14,1,2,0,Coast,5,17,0.28 
+2015,09,18,02:00,Cloud9,Coast,inferno,ESL ESEA Pro League Season 2,16,8,12,3,4,5,Coast,16,21,0.76 
+2015,09,17,05:00,Coast,compLexity,cobblestone,ESL ESEA Pro League Season 2,14,16,8,7,6,9,Coast,12,26,0.44 
+2015,09,17,04:00,Coast,Conquest,cobblestone,ESL ESEA Pro League Season 2,16,9,10,5,6,4,Coast,17,20,0.87 
+2015,09,17,03:00,Coast,Enemy,inferno,RGN Freedom Cup,11,16,6,9,5,7,Coast,22,17,1.15 
+2015,09,12,23:40,Coast,Conquest,dust2,iBUYPOWER Invitational Fall 20..,20,22,7,8,8,7,Coast,28,32,0.88 
+2015,09,12,23:40,Conquest,Coast,cobblestone,iBUYPOWER Invitational Fall 20..,16,6,13,2,3,4,Coast,15,19,0.87 
+2015,09,02,02:00,CLG,Coast,mirage,CEVO Professional Season 8,16,10,12,3,4,7,Coast,17,20,1.00 
+2015,09,02,02:00,CLG,Coast,cache,CEVO Professional Season 8,14,16,11,4,3,12,Coast,29,19,1.36 
+2015,08,31,04:15,Coast,Enemy,inferno,CEVO Professional Season 8,16,13,8,7,8,6,Coast,12,19,0.67 
+2015,08,31,04:15,Enemy,Coast,overpass,CEVO Professional Season 8,12,16,4,11,8,5,Coast,23,18,1.12 
+2015,08,24,04:15,LunatiK,Splyce,inferno,CEVO Professional Season 8,16,2,13,2,3,0,LunatiK,17,7,1.64 
+2015,08,24,04:15,Splyce,LunatiK,cache,CEVO Professional Season 8,16,10,10,5,6,5,LunatiK,18,21,0.94 
+2015,08,21,02:00,LunatiK,Mythic,inferno,CEVO Professional Season 8,16,9,10,5,6,4,LunatiK,26,18,1.42 
+2015,08,21,02:00,Mythic,LunatiK,cache,CEVO Professional Season 8,16,13,8,7,8,6,LunatiK,20,21,0.96 
+2015,08,17,04:15,3sUP,LunatiK,cache,CEVO Professional Season 8,4,16,4,11,0,5,LunatiK,16,10,1.25 
+2015,08,17,04:15,LunatiK,3sUP,overpass,CEVO Professional Season 8,16,5,13,2,3,3,LunatiK,15,12,1.06 
+2015,08,11,02:30,LunatiK,WOOSAH,inferno,CS Select #22,16,12,8,7,8,5,LunatiK,25,16,1.26 
+2015,08,11,02:30,LunatiK,WOOSAH,dust2,CS Select #22,16,14,5,10,11,4,LunatiK,15,20,0.77 
+2015,08,11,02:30,LunatiK,WOOSAH,overpass,CS Select #22,16,10,10,5,6,5,LunatiK,20,19,1.11 
+2015,08,09,04:00,SKDC,LunatiK,inferno,PGL Season 1 NA Qualifier,16,8,9,6,7,2,LunatiK,12,21,0.59 
+2015,08,09,04:00,LunatiK,SKDC,mirage,PGL Season 1 NA Qualifier,16,13,8,7,8,6,LunatiK,17,20,0.80 
+2015,08,09,04:00,SKDC,LunatiK,dust2,PGL Season 1 NA Qualifier,16,12,12,3,4,9,LunatiK,17,23,0.76 
+2015,06,24,02:15,eLevate,LunatiK,cobblestone,CEVO Professional Season 7,16,14,4,11,12,3,LunatiK,18,21,0.82 
+2015,06,24,02:15,LunatiK,eLevate,mirage,CEVO Professional Season 7,9,16,8,7,1,9,LunatiK,14,22,0.64 
+2015,06,09,02:00,Liquid,LunatiK,inferno,CEVO Professional Season 7,16,3,13,2,3,1,LunatiK,4,18,0.25 
+2015,06,09,02:00,LunatiK,Liquid,overpass,CEVO Professional Season 7,9,16,6,9,3,7,LunatiK,10,19,0.61 
+2015,05,28,04:15,affNity,LunatiK,mirage,CEVO Professional Season 7,21,25,9,6,6,9,LunatiK,33,34,1.03 
+2015,05,28,04:15,LunatiK,affNity,dust2,CEVO Professional Season 7,10,16,2,13,8,3,LunatiK,17,22,0.83 
+2015,05,21,04:15,Luminosity,LunatiK,cache,CEVO Professional Season 7,16,9,9,6,7,3,LunatiK,18,23,0.83 
+2015,05,21,04:15,LunatiK,Luminosity,mirage,CEVO Professional Season 7,16,11,6,9,10,2,LunatiK,13,22,0.70 
+2015,05,19,04:15,LunatiK,SKDC,dust2,CEVO Professional Season 7,14,16,11,4,3,12,LunatiK,22,24,0.89 
+2015,05,19,04:15,SKDC,LunatiK,cache,CEVO Professional Season 7,16,14,11,4,5,10,LunatiK,22,22,1.08 
+2015,05,14,04:15,LunatiK,Nihilum,mirage,CEVO Professional Season 7,19,16,9,6,6,9,LunatiK,31,22,1.31 
+2015,05,14,04:15,Nihilum,LunatiK,cache,CEVO Professional Season 7,16,6,10,5,6,1,LunatiK,17,18,1.24 
+2015,05,14,02:00,CLG,LunatiK,inferno,CEVO Professional Season 7,16,9,13,2,3,7,LunatiK,13,22,0.74 
+2015,05,14,02:00,LunatiK,CLG,cache,CEVO Professional Season 7,16,10,10,5,6,5,LunatiK,23,20,1.11 
+2015,05,13,04:30,LunatiK,Tempo,mirage,RGN Spring Classic,14,16,9,6,5,10,LunatiK,23,24,0.98 
+2015,05,13,04:30,Tempo,LunatiK,dust2,RGN Spring Classic,16,9,10,5,6,4,LunatiK,11,19,0.68 
+2015,05,09,02:00,LunatiK,ACE,cache,CS Select #11,10,16,10,5,0,11,LunatiK,11,22,0.55 
+2015,05,09,02:00,ACE,LunatiK,inferno,CS Select #11,16,10,12,3,4,7,LunatiK,22,25,0.85 
+2015,05,09,02:00,LunatiK,ACE,dust2,CS Select #11,4,16,4,11,0,5,LunatiK,10,19,0.55 
+2015,05,07,05:00,LunatiK,MostlyHarmless,mirage,RGN Spring Classic,16,10,13,2,3,8,LunatiK,19,11,1.19 
+2015,05,04,04:15,LunatiK,vVv,inferno,CEVO Professional Season 7,16,12,6,9,10,3,LunatiK,23,17,1.23 
+2015,05,04,04:15,vVv,LunatiK,mirage,CEVO Professional Season 7,10,16,9,6,1,10,LunatiK,19,15,1.13 

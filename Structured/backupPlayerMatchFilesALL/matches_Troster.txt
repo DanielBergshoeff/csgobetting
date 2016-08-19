@@ -1,0 +1,2 @@
+2016,08,11,11:30,Riotous,SSUWhite,cache,ESEA Open Season 22 Oceania,8,16,4,11,4,5,Riotous,7,20,0.40 
+2016,08,11,11:30,Riotous,SSUWhite,train,ESEA Open Season 22 Oceania,12,16,10,5,2,11,Riotous,11,20,0.62 

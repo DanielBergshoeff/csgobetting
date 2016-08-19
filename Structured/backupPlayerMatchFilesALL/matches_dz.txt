@@ -1,0 +1,6 @@
+2016,06,22,14:00,Bahrain,Taiwan,mirage,World Championships 2016 Asian..,2,16,2,13,0,3,Taiwan,15,9,1.36 
+2016,06,22,14:00,Taiwan,Bahrain,cache,World Championships 2016 Asian..,16,7,12,3,4,4,Taiwan,22,12,1.37 
+2016,01,30,06:20,Renegades,EatYouAlive,cache,IEM Taipei 2016,16,7,9,6,7,1,Eat You Alive,7,18,0.43 
+2016,01,30,04:00,EatYouAlive,Renegades,cobblestone,IEM Taipei 2016,2,16,2,13,0,3,Eat You Alive,6,17,0.39 
+2015,10,17,17:15,MVP.karnal,Penguin,dust2,MixBOT Pro-League Invite Seaso..,16,8,9,6,7,2,Penguin,12,19,0.73 
+2015,10,17,15:00,inchk1ng,Penguin,mirage,MixBOT Pro-League Invite Seaso..,16,4,12,3,4,1,Penguin,10,19,0.52 

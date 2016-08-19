@@ -1,0 +1,18 @@
+2016,05,16,02:40,Vault,TempoStorm,cobblestone,ESEA Premier Season 21 North A..,1,16,1,14,0,2,Vault,6,17,0.33 
+2016,05,16,02:40,Vault,TempoStorm,train,ESEA Premier Season 21 North A..,13,16,9,6,4,10,Vault,20,19,1.02 
+2016,05,09,02:00,Vault,Noble,cobblestone,MLG Regional Minor North Ameri..,13,16,7,8,6,8,Vault,29,21,1.48 
+2016,04,19,02:15,Vault,Selfless,inferno,CEVO Gfinity Professional Seas..,4,16,2,13,2,3,Vault,8,20,0.39 
+2016,04,19,02:15,Selfless,Vault,train,CEVO Gfinity Professional Seas..,16,8,11,4,5,4,Vault,11,20,0.62 
+2016,04,12,04:15,Vault,KKona,train,CEVO Gfinity Professional Seas..,16,5,10,5,6,0,Vault,22,8,1.57 
+2016,04,12,04:15,Vault,KKona,cobblestone,CEVO Gfinity Professional Seas..,16,10,9,6,7,4,Vault,22,17,1.23 
+2016,03,22,04:15,NRG,Vault,mirage,CEVO Gfinity Professional Seas..,16,9,9,6,7,3,Vault,19,20,1.03 
+2016,03,22,04:15,NRG,Vault,dust2,CEVO Gfinity Professional Seas..,16,10,9,6,7,4,Vault,18,20,0.83 
+2016,02,22,05:00,Vault,compLexity,overpass,CEVO Gfinity Professional Seas..,10,16,8,7,2,9,Vault,20,20,1.01 
+2016,02,22,05:00,Vault,compLexity,cache,CEVO Gfinity Professional Seas..,7,16,3,12,4,4,Vault,8,16,0.56 
+2016,02,22,05:00,compLexity,Vault,mirage,CEVO Gfinity Professional Seas..,16,19,8,7,7,8,Vault,25,25,0.98 
+2016,02,15,02:00,Bee'sMoneyCrew,Vault,dust2,CEVO Gfinity Professional Seas..,5,16,2,13,3,3,Vault,18,13,1.33 
+2016,02,15,02:00,Bee'sMoneyCrew,Vault,mirage,CEVO Gfinity Professional Seas..,16,12,9,6,7,6,Vault,14,18,0.77 
+2016,02,15,02:00,Bee'sMoneyCrew,Vault,cobblestone,CEVO Gfinity Professional Seas..,11,16,9,6,2,10,Vault,25,15,1.50 
+2015,12,19,03:00,Winterfox,JustMakeitFast,mirage,Game Show Global eSports Cup 2..,16,7,8,7,8,0,Just Make it Fast,11,17,0.76 
+2015,12,19,03:00,Winterfox,JustMakeitFast,cache,Game Show Global eSports Cup 2..,10,16,3,12,7,4,Just Make it Fast,31,15,1.70 
+2015,12,19,03:00,JustMakeitFast,Winterfox,cobblestone,Game Show Global eSports Cup 2..,16,19,6,9,9,6,Just Make it Fast,29,26,1.15 

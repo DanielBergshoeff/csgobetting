@@ -1,0 +1,10 @@
+2016,08,07,15:00,DeToNator,m0nster,overpass,ESEA Open Season 22 Asia,16,12,7,8,9,4,m0nster,17,23,0.76 
+2016,08,07,15:00,m0nster,DeToNator,dust2,ESEA Open Season 22 Asia,9,16,3,12,6,4,m0nster,25,17,1.47 
+2016,08,07,15:00,m0nster,DeToNator,mirage,ESEA Open Season 22 Asia,19,15,8,7,7,8,m0nster,27,22,1.17 
+2016,08,04,13:00,Furious,m0nster,dust2,VSL Season 1,10,16,5,10,5,6,m0nster,24,18,1.31 
+2016,07,31,12:00,autocracy,m0nster,cobblestone,VSL Season 1,16,7,9,6,7,1,m0nster,18,19,1.00 
+2016,07,24,12:00,TheMongolz,m0nster,cobblestone,MixBOT Pro-League Golden,19,17,6,9,9,6,m0nster,29,21,1.27 
+2016,07,24,12:00,TheMongolz,m0nster,dust2,MixBOT Pro-League Golden,13,16,8,7,5,9,m0nster,19,16,1.05 
+2016,07,24,12:00,TheMongolz,m0nster,mirage,MixBOT Pro-League Golden,16,7,9,6,7,1,m0nster,8,19,0.46 
+2016,07,21,13:00,m0nster,v0rtex5	,train,VSL Season 1,11,16,8,7,3,9,m0nster,20,20,1.05 
+2016,07,10,11:00,MVPproject,m0nster,overpass,VSL Season 1,16,14,5,10,11,4,m0nster,25,21,1.19 

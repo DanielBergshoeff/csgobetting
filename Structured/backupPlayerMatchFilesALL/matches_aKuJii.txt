@@ -1,0 +1,6 @@
+2015,12,05,15:00,Dictionary,7Kings,cache,SL i-League StarSeries XIV,16,6,11,4,5,2,7Kings,14,20,0.68 
+2015,12,05,15:00,7Kings,Dictionary,mirage,SL i-League StarSeries XIV,10,16,5,10,5,6,7Kings,16,20,0.79 
+2015,12,03,15:00,PUZZLES,7Kings,mirage,SL i-League StarSeries XIV,16,1,14,1,2,0,7Kings,9,16,0.59 
+2015,12,03,15:00,7Kings,PUZZLES,overpass,SL i-League StarSeries XIV,1,16,1,14,0,2,7Kings,5,16,0.29 
+2015,12,01,15:00,TEAM.TDA,7Kings,inferno,SL i-League StarSeries XIV,16,6,9,6,7,0,7Kings,5,19,0.30 
+2015,12,01,15:00,7Kings,TEAM.TDA,cobblestone,SL i-League StarSeries XIV,3,16,3,12,0,4,7Kings,8,18,0.52 

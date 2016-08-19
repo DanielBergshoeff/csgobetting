@@ -1,0 +1,15 @@
+2016,04,09,14:45,AlienTech,ImperioMultimedia,inferno,AlienTech CS:GO League Finals,16,2,14,1,2,1,Imperio Multimedia,6,18,0.34 
+2016,04,09,14:45,AlienTech,ImperioMultimedia,cobblestone,AlienTech CS:GO League Finals,16,2,13,2,3,0,Imperio Multimedia,6,16,0.43 
+2016,04,08,11:20,k1ck,ImperioMultimedia,cobblestone,AlienTech CS:GO League Finals,16,5,12,3,4,2,Imperio Multimedia,13,19,0.71 
+2016,04,08,11:20,ImperioMultimedia,k1ck,cache,AlienTech CS:GO League Finals,2,16,2,13,0,3,Imperio Multimedia,12,16,0.68 
+2016,03,20,17:00,AlienTech,ImperioMultimedia,cobblestone,AlienTech CS:GO Invitational I,16,14,6,9,10,5,Imperio Multimedia,26,19,1.31 
+2016,03,20,17:00,AlienTech,ImperioMultimedia,cache,AlienTech CS:GO Invitational I,16,12,7,8,9,4,Imperio Multimedia,8,22,0.43 
+2016,03,20,17:00,ImperioMultimedia,AlienTech,inferno,AlienTech CS:GO Invitational I,9,16,6,9,3,7,Imperio Multimedia,19,18,1.05 
+2016,03,20,12:30,FTW.PRO,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,15,19,8,7,7,8,Imperio Multimedia,20,21,0.94 
+2016,03,20,12:30,FTW.PRO,ImperioMultimedia,inferno,AlienTech CS:GO Invitational I,10,16,7,8,3,8,Imperio Multimedia,21,17,1.16 
+2016,03,19,19:45,FTW.EvoPrinfor,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,12,16,8,7,4,9,Imperio Multimedia,27,13,1.51 
+2016,03,19,15:00,EasyMind,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,12,16,7,8,5,8,Imperio Multimedia,21,16,1.14 
+2016,03,19,13:30,ImperioMultimedia,Galatics,inferno,AlienTech CS:GO Invitational I,16,5,10,5,6,0,Imperio Multimedia,20,10,1.53 
+2015,11,20,23:00,FTW.G2A,Equilibrium,inferno,AlienTech AllStars,5,16,3,12,2,4,FTW.G2A,17,16,1.09 
+2015,11,20,22:00,RCTIC,FTW.G2A,dust2,AlienTech AllStars,16,8,10,5,6,3,FTW.G2A,17,18,1.06 
+2015,11,20,20:25,k1ck,FTW.G2A,dust2,AlienTech AllStars,16,8,12,3,4,5,FTW.G2A,13,16,0.80 

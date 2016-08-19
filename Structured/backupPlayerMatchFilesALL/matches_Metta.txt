@@ -1,0 +1,4 @@
+2015,04,21,21:00,exceL,PerilousRAGE,dust2,ESL UK Premiership Season 1,16,12,8,7,8,5,PerilousRAGE,19,18,1.00 
+2015,04,21,21:00,exceL,PerilousRAGE,cache,ESL UK Premiership Season 1,16,6,9,6,7,0,PerilousRAGE,12,16,0.78 
+2015,04,20,20:00,MALIK,PerilousRAGE,inferno,ESL UK Premiership Season 1,16,3,12,3,4,0,PerilousRAGE,11,16,0.67 
+2015,04,20,20:00,MALIK,PerilousRAGE,cache,ESL UK Premiership Season 1,16,11,7,8,9,3,PerilousRAGE,15,25,0.65 

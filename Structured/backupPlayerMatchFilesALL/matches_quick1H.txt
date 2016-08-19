@@ -1,0 +1,5 @@
+2016,07,20,04:50,Kingdom,Tectonic,cache,RGN Pro Series II NA Closed Qu..,22,25,7,8,8,7,Kingdom,32,31,0.98 
+2016,05,09,00:45,RivaL,Kingdom,mirage,MLG Regional Minor North Ameri..,16,9,12,3,4,6,Kingdom,7,19,0.45 
+2016,05,08,20:40,Kingdom,DISMAY,dust2,MLG Regional Minor North Ameri..,16,8,9,6,7,2,Kingdom,19,18,1.16 
+2016,05,08,18:00,Kingdom,WithoutaRoof,cobblestone,MLG Regional Minor North Ameri..,8,16,6,9,2,7,Kingdom,17,21,0.89 
+2016,05,08,18:00,WithoutaRoof,Kingdom,dust2,MLG Regional Minor North Ameri..,16,14,10,5,6,9,Kingdom,19,21,0.87 

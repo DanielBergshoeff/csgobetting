@@ -1,0 +1,18 @@
+2016,07,27,12:00,MVPproject,ZZCY,mirage,MixBOT Pro-League Golden,22,19,5,10,10,5,ZZCY,27,31,0.85 
+2016,07,27,12:00,MVPproject,ZZCY,train,MixBOT Pro-League Golden,16,4,12,3,4,1,ZZCY,4,20,0.17 
+2016,07,23,12:00,ZZCY,MVP.karnal,mirage,MixBOT Pro-League Golden,8,16,6,9,2,7,ZZCY,12,19,0.71 
+2016,07,23,12:00,ZZCY,MVP.karnal,cobblestone,MixBOT Pro-League Golden,9,16,1,14,8,2,ZZCY,16,21,0.73 
+2016,06,17,12:00,ZZCY,nxl,cache,MixBOT Pro-League Golden,16,12,9,6,7,6,ZZCY,23,19,1.05 
+2016,06,17,12:00,ZZCY,nxl,mirage,MixBOT Pro-League Golden,16,0,15,0,1,0,ZZCY,17,4,1.68 
+2016,06,16,12:00,ZZCY,Nface,cobblestone,MixBOT Pro-League Golden,16,12,9,6,7,6,ZZCY,24,22,1.26 
+2016,06,16,12:00,ZZCY,Nface,mirage,MixBOT Pro-League Golden,9,16,4,11,5,5,ZZCY,13,18,0.71 
+2016,06,16,12:00,Nface,ZZCY,cache,MixBOT Pro-League Golden,15,19,7,8,8,7,ZZCY,26,22,1.11 
+2015,04,04,10:00,Ubinited,CMStorm,mirage,Copenhagen Games 2015 female,16,7,10,5,6,2,CM Storm,8,20,0.52 
+2015,04,04,10:00,CMStorm,Ubinited,inferno,Copenhagen Games 2015 female,9,16,3,12,6,4,CM Storm,23,17,1.39 
+2015,04,03,21:30,CMStorm,Propertyfe,mirage,Copenhagen Games 2015 female,16,0,15,0,1,0,CM Storm,15,8,1.55 
+2015,04,03,21:30,Propertyfe,CMStorm,cache,Copenhagen Games 2015 female,7,16,5,10,2,6,CM Storm,22,12,1.47 
+2015,04,03,21:30,CMStorm,Propertyfe,overpass,Copenhagen Games 2015 female,14,16,8,7,6,9,CM Storm,20,20,0.96 
+2015,04,03,18:30,BadMonkey,CMStorm,mirage,Copenhagen Games 2015 female,19,17,10,5,5,10,CM Storm,25,31,0.81 
+2015,04,03,18:30,CMStorm,BadMonkey,nuke,Copenhagen Games 2015 female,4,16,4,11,0,5,CM Storm,12,17,0.86 
+2015,04,03,15:00,ICYPhoenix,CMStorm,cobblestone,Copenhagen Games 2015 female,10,16,4,11,6,5,CM Storm,17,19,0.88 
+2015,04,03,15:00,ICYPhoenix,CMStorm,mirage,Copenhagen Games 2015 female,6,16,3,12,3,4,CM Storm,14,11,1.20 

@@ -1,0 +1,27 @@
+2015,12,20,13:00,SkitLite,Torpedo,mirage,ESL Nordic Nationals Winter 20..,11,16,5,10,6,6,SkitLite,7,21,0.44 
+2015,12,20,13:00,SkitLite,Torpedo,cache,ESL Nordic Nationals Winter 20..,14,16,3,12,11,4,SkitLite,26,22,1.29 
+2015,12,19,20:55,SkitLite,demise,mirage,ESL Nordic Nationals Winter 20..,16,9,9,6,7,3,SkitLite,13,15,0.81 
+2015,12,19,14:55,SkitLite,NoProblem!,mirage,ESL Nordic Nationals Winter 20..,11,16,9,6,2,10,SkitLite,12,20,0.63 
+2015,11,06,21:30,KoNDenmark,KoNFinland,cache,King of Nordic Season 2,16,12,6,9,10,3,KoN Finland,15,22,0.71 
+2015,10,30,21:45,KoNSweden,KoNFinland,dust2,King of Nordic Season 2,8,16,6,9,2,7,KoN Finland,18,12,1.30 
+2015,10,30,11:00,SkitLite,RCTIC,mirage,ASUS ROG Nordic Challenge,12,16,6,9,6,7,SkitLite,17,20,0.91 
+2015,10,30,11:00,RCTIC,SkitLite,train,ASUS ROG Nordic Challenge,16,7,11,4,5,3,SkitLite,12,18,0.69 
+2015,10,17,21:45,TMVG,RCTIC,cobblestone,Jimm's CS:GO Challenge,8,16,7,8,1,8,TMVG,9,21,0.51 
+2015,10,17,21:45,TMVG,RCTIC,dust2,Jimm's CS:GO Challenge,13,16,5,10,8,6,TMVG,7,21,0.43 
+2015,10,17,16:30,TMVG,JDWI,dust2,Jimm's CS:GO Challenge,16,9,10,5,6,4,TMVG,16,12,1.08 
+2015,10,17,16:30,TMVG,JDWI,inferno,Jimm's CS:GO Challenge,16,4,12,3,4,1,TMVG,12,9,1.04 
+2014,10,04,16:50,Hanatauki,GLSHAKER,cache,Areena #5 by ROCCAT,15,15,8,7,7,8,GL SHAKER,20,21,0.94 
+2014,10,04,15:45,GLSHAKER,Menace,inferno,Areena #5 by ROCCAT,13,16,8,7,5,9,GL SHAKER,16,23,0.71 
+2014,10,04,14:15,ROTY,GLSHAKER,cache,Areena #5 by ROCCAT,16,6,9,6,7,0,GL SHAKER,13,19,0.82 
+2014,10,04,14:00,GLSHAKER,Jynttä,inferno,Areena #5 by ROCCAT,13,16,9,6,4,10,GL SHAKER,18,18,0.97 
+2014,10,04,12:00,GLSHAKER,myMDL,mirage,Areena #5 by ROCCAT,16,13,9,6,7,7,GL SHAKER,19,17,0.97 
+2014,10,04,10:55,GLSHAKER,Superstars,dust2,Areena #5 by ROCCAT,6,16,5,10,1,6,GL SHAKER,5,21,0.25 
+2014,07,31,19:35,Menace,TMVG,mirage,ASUS ROG Summer 2014,19,15,9,6,6,9,TMVG,24,26,0.97 
+2014,07,31,18:30,Joutsenlaulu,TMVG,dust2,ASUS ROG Summer 2014,13,16,8,7,5,9,TMVG,22,19,1.22 
+2014,07,31,16:00,Menace,TMVG,dust2,ASUS ROG Summer 2014,19,16,8,7,7,8,TMVG,21,31,0.66 
+2014,06,28,14:45,shaker'steam,duffman'steam,dust2,Areena #4 by SteelSeries,16,10,7,8,9,2,shaker's team,9,21,0.49 
+2014,06,28,13:15,shaker'steam,allu'steam,dust2,Areena #4 by SteelSeries,16,10,10,5,6,5,shaker's team,17,20,0.82 
+2014,06,28,12:00,shaker'steam,suNny'steam,inferno,Areena #4 by SteelSeries,10,16,8,7,2,9,shaker's team,16,22,0.73 
+2014,06,28,11:15,Twista'steam,shaker'steam,train,Areena #4 by SteelSeries,16,2,13,2,3,0,shaker's team,4,17,0.23 
+2014,06,28,10:35,dRiim'steam,shaker'steam,mirage,Areena #4 by SteelSeries,16,8,12,3,4,5,shaker's team,18,20,0.91 
+2014,06,28,09:45,KIPSIk'steam,shaker'steam,inferno,Areena #4 by SteelSeries,16,10,12,3,4,7,shaker's team,14,23,0.66 

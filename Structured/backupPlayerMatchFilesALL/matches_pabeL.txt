@@ -1,0 +1,2 @@
+2016,07,26,03:00,Mexico,DominicanRepublic,cache,World Championships 2016 North..,16,4,11,4,5,0,Dominican Republic,9,18,0.49 
+2016,07,26,01:00,DominicanRepublic,USA,dust2,World Championships 2016 North..,4,16,4,11,0,5,Dominican Republic,6,19,0.29 

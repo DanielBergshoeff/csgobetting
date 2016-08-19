@@ -1,0 +1,8 @@
+2016,08,11,14:30,VG.CyberZen,DeToNator,cache,ESEA Open Season 22 Asia,16,12,11,4,5,8,DeToNator,10,20,0.66 
+2016,08,11,14:30,VG.CyberZen,DeToNator,train,ESEA Open Season 22 Asia,16,2,13,2,3,0,DeToNator,10,17,0.61 
+2016,08,07,15:00,DeToNator,m0nster,overpass,ESEA Open Season 22 Asia,16,12,7,8,9,4,DeToNator,24,19,1.23 
+2016,08,07,15:00,m0nster,DeToNator,dust2,ESEA Open Season 22 Asia,9,16,3,12,6,4,DeToNator,16,14,1.01 
+2016,08,07,15:00,m0nster,DeToNator,mirage,ESEA Open Season 22 Asia,19,15,8,7,7,8,DeToNator,13,27,0.49 
+2015,09,19,17:55,m0nster,AbsoluteTerror,cobblestone,MixBOT Pro-League Invite Seaso..,16,13,6,9,10,4,AbsoluteTerror,15,21,0.70 
+2015,09,11,19:25,QeeYou,AbsoluteTerror,mirage,MixBOT Pro-League Invite Seaso..,16,7,10,5,6,2,AbsoluteTerror,13,18,0.78 
+2015,09,11,17:30,AbsoluteTerror,MiraculousHawks,dust2,MixBOT Pro-League Invite Seaso..,16,1,14,1,2,0,AbsoluteTerror,8,5,1.00 

@@ -1,0 +1,4 @@
+2016,08,10,17:00,Vesuvius,Comanche,dust2,Adrenaline Cyber League,16,10,6,9,10,1,Vesuvius,24,15,1.45 
+2016,08,10,17:00,Comanche,Vesuvius,mirage,Adrenaline Cyber League,13,16,7,8,6,8,Vesuvius,22,18,1.14 
+2016,08,05,20:00,Spirit,Vesuvius,cobblestone,Adrenaline Cyber League,16,10,10,5,6,5,Vesuvius,14,21,0.72 
+2016,08,05,20:00,Spirit,Vesuvius,mirage,Adrenaline Cyber League,16,9,10,5,6,4,Vesuvius,12,19,0.64 

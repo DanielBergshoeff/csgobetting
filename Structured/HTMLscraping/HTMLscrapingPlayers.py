@@ -34,15 +34,10 @@ sys.path.append('/usr/local/lib/python2.7/site-packages')
 from lxml import html
 import requests
 
-# import player ID's
-if platform == "darwin":
-    # OS X
-    with open(root+ 'idFiles/HLTV_players.txt', "r") as text_file:
-        allPlayersHLTV = text_file.read().split('\n')
-elif platform == "win32" or platform == "cygwin":
-    # Windows
-    with open(root+ 'idFiles\\HLTV_players.txt', "r") as text_file:
-        allPlayersHLTV = text_file.read().split('\n')
+# define min and max offset
+minoffset = 0
+maxoffset = 350
+
 
 # import ID files
 if platform == "darwin":
@@ -63,93 +58,181 @@ elif platform == "win32" or platform == "cygwin":
         eventIDs = text_file.readline().split()
         
     
-for l in range(0,len(allPlayersHLTV)):
-    linkToPlayerPage = 'http://www.hltv.org/?pageid=246&playerid='
-    playerID = allPlayersHLTV[l].replace(" ", "").split(",")
-    linkToPlayerPage += str(playerID[1])
+for i in range(minoffset, maxoffset):
+    print('Offset = ' + str(i))
+#    linkToMatchesPage = 'http://www.hltv.org/?pageid=188&statsfilter=2048&offset='
+    linkToMatchesPage = 'http://www.hltv.org/?pageid=188&statsfilter=0&offset='
+    linkToMatchesPage += str(i * 50)
+    
+    linkHLTV = 'http://www.hltv.org'
     
     # download page
-    page = requests.get(linkToPlayerPage)
+    page = requests.get(linkToMatchesPage)
     tree = html.fromstring(page.content)
     
-    # this will create a list of the extracted text
-    datesAndTeams = tree.xpath('//div[@class="covSmallHeadline"]/a/text()')
-    rest = tree.xpath('//div[@class="covSmallHeadline"]//text()')
+    # this will create a list of the extracted text    
+    allLinks = tree.xpath('//a[contains(@href, "matchid=")]/@href')
     
-    # create lists
-    dates = list()
-    date_year = list ()
-    date_month = list ()
-    date_day = list ()
-    
-    homeTeam = list()
-    homeTeamName = list()
-    homeTeamScore = list()
-    
-    outTeam = list()
-    outTeamName = list()
-    outTeamScore = list()
-    
-    map = list()
-    
-    kills = list()
-    deaths = list()
-    rating = list()
-    
-    # split and process collected list to individual lists
-    for i in range(10,len(rest)):
-        currentI = (i - 10) % 9
-        if (currentI == 0):
-            dates.append(rest[i].replace(" ","/20"))
-        if (currentI == 1):
-            homeTeam.append(rest[i].replace(" ",""))
-        if (currentI == 2):
-            outTeam.append(rest[i].replace(" ",""))
-        if (currentI == 3):
-            map.append(rest[i])
-        if (currentI == 4):
-            kills.append(rest[i])
-        if (currentI == 6):
-            deaths.append(rest[i])
-        if (currentI == 8):
-            rating.append(rest[i])
-            
-    # split date
-    for i in range(0,len(dates)):
-        date_year.append(dates[i].split("/")[2])
-        date_month.append(dates[i].split("/")[1])
-        date_day.append(dates[i].split("/")[0])
+    for l in range(0, len(allLinks)):
+        print('Match no. ' + str(l))
+        linkToMatch = linkHLTV + allLinks[l]
+        emailnr = 0
+        newinterface = None
+        # download page
+        page = requests.get(linkToMatch)
+        tree = html.fromstring(page.content)
         
-    # split scores from teamnames
-    for i in range(0,len(homeTeam)):
-        homeTeamName.append(homeTeam[i].split("(")[0])
-        homeTeamScore.append(homeTeam[i].split("(")[1].replace(")",""))
-        outTeamName.append(outTeam[i].split("(")[0])
-        outTeamScore.append(outTeam[i].split("(")[1].replace(")",""))
-            
-    # write everything to file
-    playerName = playerID[0]
-    playerName += '.txt'
+        rest = tree.xpath('//div[@class="covSmallHeadline"]//text()')
+        
+        homeTeamName = rest[1].replace(" ", "")
+        outTeamName = rest[3].replace(" ", "")
+        
+        dateAndTime = rest[5]
+        dateandtime = rest[5].split(" ")
+        date = dateandtime[0]
+        
+        year = date.split("-")[0]
+        month = date.split("-")[1]
+        day = date.split("-")[2]
+        time = dateandtime[1]
+        
+        map = rest[7]
+        event = rest[9]
+        homeTeamScore = rest[11]
+        outTeamScore = rest[13]
+        homeTeamWonRoundsCT = rest[15]
+        outTeamWonRoundsT = rest[17]
+        homeTeamWonRoundsT = rest[19]
+        outTeamWonRoundsCT = rest[21]
+        
+        if(not homeTeamWonRoundsCT.isdigit() or not outTeamWonRoundsT.isdigit()):
+            emailnr -= 3
+        
+        # fix numeration in case of emails as names
+        if str(rest[23]) != 'Team rating':
+            emailnr += 2
+        if("email" in rest[34 + emailnr]):
+            emailnr += 1
+        if("damage" not in rest[36 + emailnr]):            
+            newinterface = True  
+        if("email" in rest[38 + emailnr]):
+            emailnr += 1
+        if("email" in rest[42 + emailnr]):
+            emailnr += 1
+        if("email" in rest[46 + emailnr]):
+            emailnr += 1
+        if("email" in rest[50 + emailnr]):
+            emailnr += 1        
+        if(not newinterface):
+            if("email" in rest[54 + emailnr]):
+                emailnr += 1
+        else:
+            emailnr -= 5
+        
+        if("Round history" not in rest[56 + emailnr]):
+            emailnr -= 1
+        
+        # convert names to IDs
+        if (homeTeamName in teamIDs):
+            homeTeamId = teamIDs.index(homeTeamName)
+        else:
+            teamIDs.append(homeTeamName)
+            homeTeamId = teamIDs.index(homeTeamName)
+       
+        if (outTeamName in teamIDs):
+            outTeamId = teamIDs.index(outTeamName)
+        else:
+            teamIDs.append(outTeamName)
+            outTeamId = teamIDs.index(outTeamName)
     
-    if platform == "darwin":
-        # OS X
-        filename = root + 'playerMatchFiles/matches_'
-    elif platform == "win32" or platform == "cygwin":
-        # Windows
-        filename = root + 'playerMatchFiles\\matches_'
+        if (map in mapIDs):
+            playedMapID = mapIDs.index(map)
+        else:
+            mapIDs.append(map)
+            playedMapID = mapIDs.index(map)
+            
+        if (event in eventIDs):
+            playedEventID = eventIDs.index(event)
+        else:
+            eventIDs.append(event)
+            playedEventID = eventIDs.index(event)      
+            
+        for p in range(0, 10):
+            
+            if(not newinterface):
+                x = p * 12
+            else:
+                x = p * 11
+            
+            if(len(rest) > (69 + x + emailnr)):    
+                playerName = rest[69 + x + emailnr].replace("/", "").replace("*", "").replace("\\", "").replace("\\t", "").replace(" ", "").replace("|", "")
+                playerName = ''.join(playerName.split())
+                if("email" in playerName):
+                    emailnr += 1
+                playerName.encode("utf-8")
+                playerTeam = rest[70 + x + emailnr].replace(" ", "")
+                print(playerTeam)
+                playerKills = rest[71 + x + emailnr].replace(" ", "")
+                print(playerKills)
+                playerDeaths = rest[74 + x + emailnr]
+                print(playerDeaths)
+            
+                if(newinterface):
+                    playerRating = rest[78 + x + emailnr]
+                else:
+                    playerRating = rest[79 + x + emailnr]
+                print(playerRating)
+                
+                # convert names to IDs
+                if (playerTeam in teamIDs):
+                    playerTeamId = teamIDs.index(playerTeam)
+                else:
+                    teamIDs.append(playerTeam)
+                    playerTeamId = teamIDs.index(playerTeam)
+                
+                
+                # write to file       
+                playerNameForFileName = playerName + '.txt'
+    
+                if platform == "darwin":
+                    # OS X
+                    filename = root + 'playerMatchFiles/matches_'
+                elif platform == "win32" or platform == "cygwin":
+                    # Windows
+                    filename = root + 'playerMatchFiles\\matches_'
+             
+                filename += playerNameForFileName
+                with open(filename, "a", encoding='utf-8') as text_file:
+                    text_file.write("{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17} \n".format(
+                    year, month, day, time,
+                    homeTeamId, outTeamId,
+                    playedMapID, playedEventID,
+                    homeTeamScore, outTeamScore,
+                    homeTeamWonRoundsCT, outTeamWonRoundsT, homeTeamWonRoundsT, outTeamWonRoundsCT,
+                    playerTeamId, playerKills, playerDeaths, playerRating))
 
-    filename += playerName
-    with open(filename, "w+") as text_file:
-        for i in range(0,len(dates)):
-            text_file.write("{0},{1},{2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10} \n".format(
-                date_year[i], str(date_month[i]).zfill(2), str(date_day[i]).zfill(2),
-                str(homeTeamName[i]).zfill(3),
-                str(homeTeamScore[i]).zfill(2),
-                str(outTeamName[i]).zfill(3),
-                str(outTeamScore[i]).zfill(2),
-                str(map[i]).zfill(2),
-                str(kills[i]).zfill(2),
-                str(deaths[i]).zfill(2),
-                str(rating[i]).zfill(3)))                
-
-print('DONE')    
+# update ID files
+if platform == "darwin":
+    # OS X
+    with open(root+ 'idFiles/eventIDs.txt', 'w+') as text_file:
+        for i in range(0,len(eventIDs)):
+            text_file.write("{0} ".format(eventIDs[i]))
+    with open(root+ 'idFiles/mapIDs.txt', 'w+') as text_file:
+        for i in range(0,len(mapIDs)):
+            text_file.write("{0} ".format(mapIDs[i]))
+    with open(root+ 'idFiles/teamIDs.txt', 'w+') as text_file:
+        for i in range(0,len(teamIDs)):
+            text_file.write("{0} ".format(teamIDs[i]))
+elif platform == "win32" or platform == "cygwin":
+    # Windows
+    with open(root+ 'idFiles\\eventIDs.txt', 'w+') as text_file:
+        for i in range(0,len(eventIDs)):
+            text_file.write("{0} ".format(eventIDs[i]))
+    with open(root+ 'idFiles\\mapIDs.txt', 'w+') as text_file:
+        for i in range(0,len(mapIDs)):
+            text_file.write("{0} ".format(mapIDs[i]))
+    with open(root+ 'idFiles\\teamIDs.txt', 'w+') as text_file:
+        for i in range(0,len(teamIDs)):
+            text_file.write("{0} ".format(teamIDs[i]))
+        
+print('DONE')

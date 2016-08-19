@@ -1,0 +1,6 @@
+2015,04,02,23:10,Frederiksberg,schlaegeros,mirage,Copenhagen Games 2015,7,16,5,10,2,6,Frederiksberg,11,20,0.68 
+2015,04,02,21:40,Frederiksberg,Sespåmermaid,overpass,Copenhagen Games 2015,16,11,9,6,7,5,Frederiksberg,20,15,1.09 
+2015,04,02,19:00,Games4u,Frederiksberg,mirage,Copenhagen Games 2015,16,8,11,4,5,4,Frederiksberg,12,19,0.73 
+2015,04,02,17:00,1.Holdet,Frederiksberg,nuke,Copenhagen Games 2015,9,16,8,7,1,9,Frederiksberg,20,17,1.09 
+2015,04,02,16:00,Frederiksberg,schlaegeros,dust2,Copenhagen Games 2015,12,16,9,6,3,10,Frederiksberg,21,20,1.00 
+2015,04,02,14:00,Frederiksberg,1.Holdet,inferno,Copenhagen Games 2015,25,23,6,9,9,6,Frederiksberg,25,35,0.73 

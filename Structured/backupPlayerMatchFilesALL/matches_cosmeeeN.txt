@@ -1,0 +1,52 @@
+2016,06,05,18:00,Bpro,XPC,overpass,Balkan Championship Season 3,16,7,9,6,7,1,XPC,16,18,0.86 
+2016,06,05,18:00,XPC,Bpro,cache,Balkan Championship Season 3,14,16,8,7,6,9,XPC,20,22,1.05 
+2016,05,29,15:55,aimclub,XPC,cache,ESL South East Europe Champion..,8,16,5,10,3,6,XPC,16,20,0.79 
+2016,05,29,15:55,XPC,aimclub,cobblestone,ESL South East Europe Champion..,12,16,9,6,3,10,XPC,21,23,0.96 
+2016,05,29,15:55,XPC,aimclub,mirage,ESL South East Europe Champion..,16,7,11,4,5,3,XPC,18,15,1.09 
+2016,05,29,13:15,XPC,Bpro,dust2,ESL South East Europe Champion..,19,17,6,9,9,6,XPC,23,22,1.00 
+2016,05,29,13:15,Bpro,XPC,overpass,ESL South East Europe Champion..,6,16,5,10,1,6,XPC,17,10,1.22 
+2016,05,29,11:15,XPC,neXtPlease!,overpass,ESL South East Europe Champion..,16,10,7,8,9,2,XPC,27,21,1.27 
+2016,05,29,09:30,XPC,Bpro,cache,ESL South East Europe Champion..,14,16,7,8,7,8,XPC,16,24,0.69 
+2016,05,25,18:00,GameAgents,XPC,mirage,Balkan Championship Season 3,13,16,3,12,10,4,XPC,26,20,1.18 
+2016,05,25,18:00,GameAgents,XPC,cache,Balkan Championship Season 3,2,16,2,13,0,3,XPC,21,9,1.67 
+2016,05,18,19:00,XPC,RB,cache,Balkan Championship Season 3,16,12,5,10,11,2,XPC,16,21,0.78 
+2016,05,14,17:30,XPC,neXtPlease!,cobblestone,PC Garage Clutch Masters by St..,16,11,5,10,11,1,XPC,29,20,1.45 
+2016,05,14,17:30,XPC,neXtPlease!,cache,PC Garage Clutch Masters by St..,16,5,11,4,5,1,XPC,23,8,1.67 
+2016,05,14,15:00,cooL,XPC,cache,PC Garage Clutch Masters by St..,9,16,4,11,5,5,XPC,29,11,1.91 
+2016,05,14,12:30,neXtPlease!,XPC,cobblestone,PC Garage Clutch Masters by St..,9,16,6,9,3,7,XPC,27,14,1.68 
+2016,05,11,20:00,XPC,CS-GO.rs,cobblestone,Balkan Championship Season 3,16,8,9,6,7,2,XPC,28,13,1.71 
+2016,04,27,21:45,aimclub,XPC,cache,Balkan Championship Season 3,22,20,8,7,7,8,XPC,32,33,1.00 
+2016,04,26,22:00,XPC,Pixel,mirage,Balkan Championship Season 3,16,6,11,4,5,2,XPC,14,16,0.83 
+2016,04,23,21:30,XPC,Deathtrap,cache,Balkan Championship Season 3,16,6,10,5,6,1,XPC,19,14,1.28 
+2016,04,16,17:00,GG1337,XPC,mirage,PGL National Division Season 1..,6,16,6,9,0,7,XPC,32,11,2.15 
+2016,04,16,17:00,XPC,GG1337,inferno,PGL National Division Season 1..,16,10,10,5,6,5,XPC,35,17,1.83 
+2016,04,08,19:00,XPC,SuperMassive,cobblestone,Balkan Championship Season 3,12,16,5,10,7,6,XPC,24,21,1.25 
+2016,04,06,19:15,dignitas,XPC,overpass,Global Offensive Champions Lea..,16,4,12,3,4,1,XPC,12,18,0.70 
+2016,04,06,19:15,XPC,dignitas,mirage,Global Offensive Champions Lea..,15,19,10,5,5,10,XPC,30,26,1.17 
+2016,04,03,20:25,XPC,iNation,cache,Balkan Championship Season 3,16,11,12,3,4,8,XPC,19,19,0.96 
+2016,03,31,21:00,XPC,neXtPlease!,train,Balkan Championship Season 3,16,8,11,4,5,4,XPC,19,17,1.19 
+2016,03,30,20:00,XPC,GameAgents,cache,Balkan Championship Season 3,9,16,6,9,3,7,XPC,19,21,0.84 
+2016,03,24,20:00,neXtPlease!,aimclub,mirage,Balkan Championship Season 3,11,16,7,8,4,8,neXtPlease!,24,21,1.16 
+2016,01,26,23:00,neXtPlease!,eSuba,mirage,D!ngIT $2000 Weekly Cup #35,16,21,7,8,8,7,neXtPlease!,30,28,1.10 
+2016,01,26,22:00,neXtPlease!,seven,dust2,D!ngIT $2000 Weekly Cup #35,16,7,10,5,6,2,neXtPlease!,23,12,1.50 
+2016,01,26,18:30,neXtPlease!,CeX,mirage,D!ngIT $2000 Weekly Cup #35,16,9,11,4,5,5,neXtPlease!,31,12,1.92 
+2016,01,25,21:30,neXtPlease!,eSuba,cache,D!ngIT $2000 Weekly Cup #35,3,16,3,12,0,4,neXtPlease!,15,16,1.00 
+2016,01,25,21:30,eSuba,neXtPlease!,mirage,D!ngIT $2000 Weekly Cup #35,16,10,12,3,4,7,neXtPlease!,21,22,0.93 
+2015,12,20,19:30,iNation,neXtPlease!,inferno,Rising Stars Balkan #2,16,10,10,5,6,5,neXtPlease!,15,19,0.84 
+2015,12,20,19:30,iNation,neXtPlease!,cobblestone,Rising Stars Balkan #2,9,16,9,6,0,10,neXtPlease!,26,14,1.65 
+2015,12,20,19:30,neXtPlease!,iNation,mirage,Rising Stars Balkan #2,13,16,11,4,2,12,neXtPlease!,21,20,1.02 
+2015,12,19,22:45,neXtPlease!,PhysX,cache,Rising Stars Balkan #2,8,16,7,8,1,8,neXtPlease!,22,17,1.22 
+2015,12,19,21:00,neXtPlease!,Revolte,cache,Rising Stars Balkan #2,28,26,5,10,10,5,neXtPlease!,44,35,1.17 
+2015,12,19,17:00,E-frag.net,neXtPlease!,cache,Rising Stars Balkan #2,16,13,8,7,8,6,neXtPlease!,20,22,0.93 
+2015,12,19,17:00,neXtPlease!,E-frag.net,dust2,Rising Stars Balkan #2,8,16,4,11,4,5,neXtPlease!,18,17,1.08 
+2015,12,18,17:00,myRevenge,neXtPlease!,dust2,Rising Stars Balkan #2,4,16,3,12,1,4,neXtPlease!,23,11,1.71 
+2015,12,18,17:00,neXtPlease!,myRevenge,cache,Rising Stars Balkan #2,16,1,14,1,2,0,neXtPlease!,12,7,1.14 
+2015,11,10,20:10,eSuba,neXtPlease!,cache,D!ngIT $2000 Weekly Cup #25,16,14,7,8,9,6,neXtPlease!,31,18,1.63 
+2015,11,10,17:30,Enso,neXtPlease!,mirage,D!ngIT $2000 Weekly Cup #25,16,10,11,4,5,6,neXtPlease!,28,22,1.36 
+2015,11,10,17:30,Enso,neXtPlease!,overpass,D!ngIT $2000 Weekly Cup #25,9,16,4,11,5,5,neXtPlease!,27,17,1.46 
+2015,11,10,17:30,Enso,neXtPlease!,dust2,D!ngIT $2000 Weekly Cup #25,16,9,10,5,6,4,neXtPlease!,24,18,1.36 
+2015,11,09,17:30,neXtPlease!,eSuba,dust2,D!ngIT $2000 Weekly Cup #25,16,7,9,6,7,1,neXtPlease!,24,13,1.58 
+2015,11,09,17:30,eSuba,neXtPlease!,cache,D!ngIT $2000 Weekly Cup #25,11,16,5,10,6,6,neXtPlease!,26,12,1.54 
+2015,11,09,17:30,neXtPlease!,eSuba,inferno,D!ngIT $2000 Weekly Cup #25,10,16,7,8,3,8,neXtPlease!,18,15,1.04 
+2015,11,06,21:30,Revival,neXtPlease!,mirage,SLTV ProSeries XIV,19,16,6,9,9,6,neXtPlease!,37,24,1.47 
+2015,11,06,21:30,neXtPlease!,Revival,cobblestone,SLTV ProSeries XIV,16,19,5,10,10,5,neXtPlease!,27,22,1.08 

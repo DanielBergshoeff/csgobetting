@@ -1,0 +1,2 @@
+2016,08,12,16:00,Ukraine,Greece,train,World Championships 2016 Europ..,16,3,12,3,4,0,Greece,7,17,0.52 
+2016,08,12,16:00,Greece,Ukraine,mirage,World Championships 2016 Europ..,2,16,2,13,0,3,Greece,12,16,0.71 

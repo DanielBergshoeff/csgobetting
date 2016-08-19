@@ -1,0 +1,45 @@
+2016,05,19,05:40,Immunity,MVP.karnal,overpass,WCA Season 1 APAC Finals,16,3,13,2,3,1,Immunity,15,9,1.24 
+2016,05,19,05:40,Immunity,MVP.karnal,dust2,WCA Season 1 APAC Finals,16,13,8,7,8,6,Immunity,22,16,1.04 
+2016,05,19,05:40,Immunity,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,10,13,2,3,8,Immunity,22,14,1.31 
+2016,05,19,05:40,MVP.karnal,Immunity,cobblestone,WCA Season 1 APAC Finals,16,9,9,6,7,3,Immunity,14,18,0.77 
+2016,05,18,07:35,TheMongolz,Immunity,overpass,WCA Season 1 APAC Finals,10,16,9,6,1,10,Immunity,17,16,0.99 
+2016,05,18,07:35,Immunity,TheMongolz,cache,WCA Season 1 APAC Finals,16,11,6,9,10,2,Immunity,22,18,1.17 
+2016,05,07,11:20,VG.CyberZen,Immunity,mirage,PGL KeSPA Regional Minor Champ..,16,4,12,3,4,1,Immunity,8,18,0.47 
+2016,05,07,11:20,Immunity,VG.CyberZen,cache,PGL KeSPA Regional Minor Champ..,5,16,2,13,3,3,Immunity,5,18,0.32 
+2016,05,06,08:45,Renegades,Immunity,overpass,PGL KeSPA Regional Minor Champ..,16,13,11,4,5,9,Immunity,14,21,0.73 
+2016,05,06,08:45,Immunity,Renegades,mirage,PGL KeSPA Regional Minor Champ..,8,16,3,12,5,4,Immunity,10,19,0.54 
+2016,05,05,06:15,Immunity,TheMongolz,overpass,PGL KeSPA Regional Minor Champ..,21,16,8,7,7,8,Immunity,25,29,0.90 
+2016,05,05,06:15,Immunity,TheMongolz,cache,PGL KeSPA Regional Minor Champ..,21,18,7,8,8,7,Immunity,22,30,0.72 
+2016,05,05,06:15,Immunity,TheMongolz,dust2,PGL KeSPA Regional Minor Champ..,7,16,5,10,2,6,Immunity,9,21,0.45 
+2016,05,05,04:15,Immunity,VG.CyberZen,train,PGL KeSPA Regional Minor Champ..,16,2,13,2,3,0,Immunity,21,8,1.85 
+2016,03,17,13:05,Virtus.pro,Immunity,dust2,Counter Pit League Season 2 Fi..,16,11,13,2,3,9,Immunity,13,20,0.74 
+2016,03,17,13:05,Immunity,Virtus.pro,inferno,Counter Pit League Season 2 Fi..,11,16,7,8,4,8,Immunity,28,15,1.49 
+2015,09,26,12:05,Immunity,dignitas,inferno,DreamHack Open Cluj-Napoca 201..,12,16,6,9,6,7,Immunity,17,17,0.93 
+2015,09,26,12:05,dignitas,Immunity,mirage,DreamHack Open Cluj-Napoca 201..,11,16,4,11,7,5,Immunity,14,18,0.77 
+2015,09,26,12:05,dignitas,Immunity,train,DreamHack Open Cluj-Napoca 201..,16,12,8,7,8,5,Immunity,21,19,1.01 
+2015,09,22,21:30,ROCCAT,Immunity,dust2,DreamHack Open Cluj-Napoca 201..,14,16,10,5,4,11,Immunity,23,21,1.08 
+2015,09,22,20:30,Immunity,ROCCAT,mirage,DreamHack Open Cluj-Napoca 201..,16,8,9,6,7,2,Immunity,26,11,1.88 
+2015,09,22,15:30,dignitas,Immunity,inferno,DreamHack Open Cluj-Napoca 201..,16,12,7,8,9,4,Immunity,19,18,1.02 
+2015,09,22,15:30,Immunity,dignitas,cache,DreamHack Open Cluj-Napoca 201..,5,16,5,10,0,6,Immunity,7,19,0.38 
+2015,08,21,12:00,Immunity,Kinguin,dust2,ESL One Cologne 2015,13,16,9,6,4,10,Immunity,19,20,0.94 
+2015,08,20,18:15,Virtus.pro,Immunity,cobblestone,ESL One Cologne 2015,16,8,9,6,7,2,Immunity,11,20,0.62 
+2015,07,19,11:30,Immunity,MVP.karnal,cobblestone,ESL One Cologne 2015 Asian Qua..,16,7,10,5,6,2,Immunity,13,9,1.10 
+2015,07,19,11:30,MVP.karnal,Immunity,mirage,ESL One Cologne 2015 Asian Qua..,13,16,7,8,6,8,Immunity,24,17,1.26 
+2015,07,18,08:50,Skyred,Immunity,inferno,ESL One Cologne 2015 Asian Qua..,8,16,7,8,1,8,Immunity,20,12,1.32 
+2015,07,18,05:45,TheMongolz,Immunity,mirage,ESL One Cologne 2015 Asian Qua..,10,16,8,7,2,9,Immunity,18,15,1.06 
+2015,05,16,21:00,Virtus.pro,Immunity,mirage,Gfinity 2015 Spring Masters 2,16,4,13,2,3,2,Immunity,11,19,0.65 
+2015,05,16,21:00,Virtus.pro,Immunity,cache,Gfinity 2015 Spring Masters 2,16,7,12,3,4,4,Immunity,11,20,0.58 
+2015,05,16,16:30,EnVyUs,Immunity,dust2,Gfinity 2015 Spring Masters 2,16,3,12,3,4,0,Immunity,4,19,0.21 
+2015,05,16,16:30,EnVyUs,Immunity,cache,Gfinity 2015 Spring Masters 2,16,2,14,1,2,1,Immunity,6,18,0.31 
+2015,05,15,17:30,Titan,Immunity,inferno,Gfinity 2015 Spring Masters 2,16,1,14,1,2,0,Immunity,9,17,0.44 
+2015,05,15,17:30,Titan,Immunity,mirage,Gfinity 2015 Spring Masters 2,19,17,9,6,6,9,Immunity,31,27,1.10 
+2015,05,15,15:30,Immunity,Cloud9,cache,Gfinity 2015 Spring Masters 2,6,16,6,9,0,7,Immunity,13,16,0.80 
+2015,05,15,15:30,Immunity,Cloud9,train,Gfinity 2015 Spring Masters 2,2,16,2,13,0,3,Immunity,12,16,0.81 
+2015,05,08,21:40,beGenius,Immunity,mirage,DreamHack Open Tours 2015 BYOC..,16,12,10,5,6,7,Immunity,17,24,0.75 
+2015,05,02,16:30,NiP,Immunity,mirage,FACEIT League 2015 Stage 1 Fin..,16,4,11,4,5,0,Immunity,13,17,0.84 
+2015,05,02,16:30,NiP,Immunity,dust2,FACEIT League 2015 Stage 1 Fin..,16,3,12,3,4,0,Immunity,8,18,0.43 
+2015,05,02,10:00,Immunity,Liquid,mirage,FACEIT League 2015 Stage 1 Fin..,16,14,12,3,4,11,Immunity,26,21,1.18 
+2015,05,02,10:00,Liquid,Immunity,cache,FACEIT League 2015 Stage 1 Fin..,13,16,10,5,3,11,Immunity,20,21,1.01 
+2015,05,02,10:00,Liquid,Immunity,inferno,FACEIT League 2015 Stage 1 Fin..,16,8,8,7,8,1,Immunity,11,17,0.62 
+2015,05,01,10:45,Immunity,NiP,dust2,FACEIT League 2015 Stage 1 Fin..,14,16,4,11,10,5,Immunity,16,24,0.71 
+2015,05,01,10:45,Immunity,NiP,inferno,FACEIT League 2015 Stage 1 Fin..,5,16,5,10,0,6,Immunity,7,17,0.43 

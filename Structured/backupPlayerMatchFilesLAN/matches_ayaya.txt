@@ -1,0 +1,30 @@
+2016,08,06,09:45,TyLoo,AllGamers,train,SL i-League S2 China Finals,16,7,10,5,6,2,AllGamers,13,19,0.74 
+2016,08,06,09:45,AllGamers,TyLoo,cache,SL i-League S2 China Finals,5,16,5,10,0,6,AllGamers,12,18,0.76 
+2016,08,05,06:00,AllGamers,LGD,cache,SL i-League S2 China Finals,16,12,9,6,7,6,AllGamers,24,17,1.24 
+2016,08,05,06:00,LGD,AllGamers,mirage,SL i-League S2 China Finals,7,16,4,11,3,5,AllGamers,26,14,1.52 
+2016,04,24,15:30,FIVE,AllGamers,mirage,Pro Gamers League 2016 Spring,16,7,13,2,3,5,AllGamers,20,18,1.23 
+2016,04,24,15:30,FIVE,AllGamers,inferno,Pro Gamers League 2016 Spring,16,8,8,7,8,1,AllGamers,12,23,0.50 
+2016,04,24,15:30,AllGamers,FIVE,cache,Pro Gamers League 2016 Spring,16,11,8,7,8,4,AllGamers,21,21,1.05 
+2016,04,24,11:40,BornOfFire,AllGamers,inferno,Pro Gamers League 2016 Spring,16,5,10,5,6,0,AllGamers,5,20,0.27 
+2016,04,24,11:40,AllGamers,BornOfFire,dust2,Pro Gamers League 2016 Spring,13,16,7,8,6,8,AllGamers,24,20,1.20 
+2016,04,23,13:30,AllGamers,eFuture,cache,Pro Gamers League 2016 Spring,16,10,11,4,5,6,AllGamers,16,18,0.85 
+2016,04,23,13:30,AllGamers,eFuture,cobblestone,Pro Gamers League 2016 Spring,16,11,10,5,6,6,AllGamers,20,17,1.14 
+2016,01,10,06:30,BornOfFire,Wings,mirage,Fulcrum Gamers League Finals,13,16,11,4,2,12,Born Of Fire,16,22,0.78 
+2016,01,10,06:30,Wings,BornOfFire,cache,Fulcrum Gamers League Finals,16,2,13,2,3,0,Born Of Fire,10,16,0.62 
+2016,01,09,14:00,TyLoo,BornOfFire,cobblestone,Fulcrum Gamers League Finals,16,6,10,5,6,1,Born Of Fire,14,19,0.80 
+2016,01,09,14:00,TyLoo,BornOfFire,cache,Fulcrum Gamers League Finals,16,7,13,2,3,5,Born Of Fire,8,19,0.53 
+2016,01,09,06:00,BornOfFire,Wings,cobblestone,Fulcrum Gamers League Finals,16,13,12,3,4,10,Born Of Fire,32,22,1.50 
+2016,01,09,06:00,BornOfFire,Wings,inferno,Fulcrum Gamers League Finals,5,16,5,10,0,6,Born Of Fire,11,18,0.55 
+2016,01,09,06:00,BornOfFire,Wings,cache,Fulcrum Gamers League Finals,16,13,7,8,9,5,Born Of Fire,27,23,1.27 
+2015,12,20,06:00,CyberZen,Wings,overpass,SL i-League StarSeries XIV Chi..,16,3,12,3,4,0,Wings,11,19,0.54 
+2015,12,20,06:00,Wings,CyberZen,mirage,SL i-League StarSeries XIV Chi..,12,16,6,9,6,7,Wings,13,20,0.70 
+2015,12,19,13:30,AllGamers,Wings,overpass,SL i-League StarSeries XIV Chi..,12,16,7,8,5,8,Wings,19,21,0.87 
+2015,12,19,13:30,Wings,AllGamers,cache,SL i-League StarSeries XIV Chi..,11,16,10,5,1,11,Wings,21,20,1.10 
+2015,12,19,13:30,AllGamers,Wings,mirage,SL i-League StarSeries XIV Chi..,2,16,2,13,0,3,Wings,19,11,1.46 
+2015,12,19,09:00,BornOfFire,Wings,cache,SL i-League StarSeries XIV Chi..,9,16,2,13,7,3,Wings,22,18,1.13 
+2015,12,19,09:00,Wings,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,10,12,3,4,7,Wings,24,18,1.31 
+2015,12,18,08:30,Wings,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,3,12,3,4,0,Wings,16,10,1.27 
+2015,12,18,08:30,Goalie,Wings,inferno,SL i-League StarSeries XIV Chi..,10,16,9,6,1,10,Wings,14,20,0.79 
+2015,12,17,14:00,TyLoo,Wings,dust2,SL i-League StarSeries XIV Chi..,16,4,11,4,5,0,Wings,9,18,0.54 
+2015,12,17,14:00,Wings,TyLoo,cache,SL i-League StarSeries XIV Chi..,16,8,12,3,4,5,Wings,19,12,1.24 
+2015,12,17,14:00,TyLoo,Wings,inferno,SL i-League StarSeries XIV Chi..,16,10,11,4,5,6,Wings,13,21,0.64 

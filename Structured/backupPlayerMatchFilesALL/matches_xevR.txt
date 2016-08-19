@@ -1,0 +1,80 @@
+2016,08,08,15:00,MVP.karnal,4dimensioN,dust2,ESEA Open Season 22 Asia,14,16,4,11,10,5,MVP.karnal,11,24,0.55 
+2016,08,08,15:00,4dimensioN,MVP.karnal,mirage,ESEA Open Season 22 Asia,16,11,11,4,5,7,MVP.karnal,19,19,1.04 
+2016,07,25,12:00,AC-130,MVP.karnal,cache,MixBOT Pro-League Golden,16,8,8,7,8,1,MVP.karnal,18,20,0.93 
+2016,07,25,12:00,MVP.karnal,AC-130,mirage,MixBOT Pro-League Golden,6,16,2,13,4,3,MVP.karnal,9,19,0.48 
+2016,07,23,12:00,ZZCY,MVP.karnal,mirage,MixBOT Pro-League Golden,8,16,6,9,2,7,MVP.karnal,19,17,1.07 
+2016,07,23,12:00,ZZCY,MVP.karnal,cobblestone,MixBOT Pro-League Golden,9,16,1,14,8,2,MVP.karnal,13,20,0.67 
+2016,06,16,15:20,MiTH,MVP.karnal,cobblestone,MixBOT Pro-League Golden,8,16,7,8,1,8,MVP.karnal,24,13,1.52 
+2016,06,16,15:20,MVP.karnal,MiTH,dust2,MixBOT Pro-League Golden,16,12,6,9,10,3,MVP.karnal,22,17,1.23 
+2016,05,19,05:40,Immunity,MVP.karnal,overpass,WCA Season 1 APAC Finals,16,3,13,2,3,1,MVP.karnal,4,18,0.22 
+2016,05,19,05:40,Immunity,MVP.karnal,dust2,WCA Season 1 APAC Finals,16,13,8,7,8,6,MVP.karnal,18,16,1.04 
+2016,05,19,05:40,Immunity,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,10,13,2,3,8,MVP.karnal,19,21,0.97 
+2016,05,19,05:40,MVP.karnal,Immunity,cobblestone,WCA Season 1 APAC Finals,16,9,9,6,7,3,MVP.karnal,21,14,1.22 
+2016,05,18,11:00,MVP.karnal,Signature,dust2,WCA Season 1 APAC Finals,16,10,10,5,6,5,MVP.karnal,15,14,0.90 
+2016,05,18,11:00,Signature,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,11,8,7,8,4,MVP.karnal,15,22,0.70 
+2016,05,18,11:00,MVP.karnal,Signature,cache,WCA Season 1 APAC Finals,19,16,11,4,4,11,MVP.karnal,37,25,1.45 
+2016,04,21,16:10,MVP.karnal,Signature,mirage,Rising Stars SEA Promotional C..,13,16,4,11,9,5,MVP.karnal,18,23,0.85 
+2016,04,21,15:05,LGD,MVP.karnal,cache,Rising Stars SEA Promotional C..,6,16,3,12,3,4,MVP.karnal,16,14,1.01 
+2016,04,21,12:30,MVP.karnal,Signature,inferno,Rising Stars SEA Promotional C..,8,16,6,9,2,7,MVP.karnal,12,17,0.75 
+2016,04,19,13:00,MVP.karnal,Threats,inferno,WCA 2016 APAC Qualifier,16,11,10,5,6,6,MVP.karnal,17,16,0.97 
+2016,04,19,13:00,Threats,MVP.karnal,cobblestone,WCA 2016 APAC Qualifier,16,19,8,7,7,8,MVP.karnal,23,26,0.84 
+2016,03,13,09:45,TyLoo,MVP.karnal,cache,DreamHack Masters Malmö 2016 A..,16,5,13,2,3,3,MVP.karnal,10,20,0.55 
+2016,03,13,09:45,MVP.karnal,TyLoo,overpass,DreamHack Masters Malmö 2016 A..,6,16,2,13,4,3,MVP.karnal,11,19,0.61 
+2016,03,13,06:30,MVPproject,MVP.karnal,mirage,DreamHack Masters Malmö 2016 A..,10,16,3,12,7,4,MVP.karnal,18,17,0.93 
+2016,03,13,06:30,MVPproject,MVP.karnal,cobblestone,DreamHack Masters Malmö 2016 A..,16,19,7,8,8,7,MVP.karnal,20,26,0.79 
+2016,02,28,15:00,MVP.karnal,dream[S]cape,mirage,Born To Win Invitational Leagu..,16,7,12,3,4,4,MVP.karnal,16,14,1.00 
+2016,02,28,15:00,dream[S]cape,MVP.karnal,cache,Born To Win Invitational Leagu..,4,16,4,11,0,5,MVP.karnal,20,11,1.46 
+2016,02,28,15:00,MVP.karnal,dream[S]cape,cobblestone,Born To Win Invitational Leagu..,14,16,10,5,4,11,MVP.karnal,13,23,0.59 
+2016,02,27,16:30,J2G,MVP.karnal,cobblestone,Born To Win Invitational Leagu..,4,16,2,13,2,3,MVP.karnal,21,13,1.51 
+2016,02,27,16:30,J2G,MVP.karnal,mirage,Born To Win Invitational Leagu..,6,16,6,9,0,7,MVP.karnal,15,17,0.83 
+2016,02,26,17:00,dream[S]cape,MVP.karnal,overpass,Born To Win Invitational Leagu..,7,16,5,10,2,6,MVP.karnal,18,17,0.97 
+2016,02,26,17:00,dream[S]cape,MVP.karnal,cache,Born To Win Invitational Leagu..,10,16,6,9,4,7,MVP.karnal,26,18,1.29 
+2016,02,21,15:30,J2G,MVP.karnal,cobblestone,Born To Win Invitational Leagu..,9,16,6,9,3,7,MVP.karnal,18,16,1.10 
+2016,02,21,12:00,Threats,MVP.karnal,cache,Born To Win Invitational Leagu..,7,16,3,12,4,4,MVP.karnal,20,17,1.17 
+2016,01,29,08:30,Risky,MVP.karnal,train,IEM Taipei 2016,16,8,10,5,6,3,MVP.karnal,10,22,0.46 
+2016,01,29,05:45,MVP.karnal,Chiefs,inferno,IEM Taipei 2016,14,16,9,6,5,10,MVP.karnal,13,26,0.57 
+2015,12,14,10:00,PUZZLES,MVP.karnal,dust2,SoStronk KOTH Asia #2,16,2,13,2,3,0,MVP.karnal,10,17,0.64 
+2015,12,14,10:00,PUZZLES,MVP.karnal,mirage,SoStronk KOTH Asia #2,16,8,9,6,7,2,MVP.karnal,10,24,0.37 
+2015,12,10,13:00,CyberZen,MVP.karnal,inferno,SoStronk Challenger Asia #1,16,11,8,7,8,4,MVP.karnal,14,21,0.68 
+2015,12,10,13:00,CyberZen,MVP.karnal,cobblestone,SoStronk Challenger Asia #1,16,4,12,3,4,1,MVP.karnal,4,19,0.21 
+2015,12,05,11:00,MVP.karnal,xqR,inferno,SoStronk Challenger Asia #1,16,5,12,3,4,2,MVP.karnal,15,11,1.15 
+2015,12,05,11:00,MVP.karnal,xqR,cache,SoStronk Challenger Asia #1,18,22,10,5,5,10,MVP.karnal,18,29,0.64 
+2015,12,05,11:00,xqR,MVP.karnal,cobblestone,SoStronk Challenger Asia #1,14,16,7,8,7,8,MVP.karnal,19,23,0.89 
+2015,12,04,13:00,HanoiVortex,MVP.karnal,cobblestone,SoStronk Challenger Asia #1,6,16,3,12,3,4,MVP.karnal,19,13,1.27 
+2015,12,04,13:00,HanoiVortex,MVP.karnal,cache,SoStronk Challenger Asia #1,12,16,6,9,6,7,MVP.karnal,26,16,1.50 
+2015,11,20,13:00,MVP.karnal,MVPproject,dust2,D!ngIT CS:GO Asia Invitational..,16,11,6,9,10,2,MVP.karnal,19,15,1.23 
+2015,11,20,13:00,MVPproject,MVP.karnal,inferno,D!ngIT CS:GO Asia Invitational..,14,16,11,4,3,12,MVP.karnal,8,24,0.42 
+2015,11,16,13:00,TyLoo,MVP.karnal,cache,D!ngIT CS:GO Asia Invitational..,16,6,11,4,5,2,MVP.karnal,17,18,1.03 
+2015,11,16,13:00,TyLoo,MVP.karnal,train,D!ngIT CS:GO Asia Invitational..,16,3,12,3,4,0,MVP.karnal,10,17,0.68 
+2015,11,05,13:00,Puzzle,MVP.karnal,overpass,SoStronk KOTH Asia #1,16,2,13,2,3,0,MVP.karnal,8,18,0.47 
+2015,11,05,13:00,Puzzle,MVP.karnal,cobblestone,SoStronk KOTH Asia #1,11,16,5,10,6,6,MVP.karnal,21,18,1.07 
+2015,11,05,13:00,MVP.karnal,Puzzle,cache,SoStronk KOTH Asia #1,14,16,7,8,7,8,MVP.karnal,27,20,1.26 
+2015,11,04,15:55,inchk1ng,MVP.karnal,cobblestone,MixBOT Pro-League Invite Seaso..,6,16,3,12,3,4,MVP.karnal,17,15,1.09 
+2015,11,04,14:30,MiTH,MVP.karnal,dust2,D!ngIT CS:GO Asia Invitational..,6,16,2,13,4,3,MVP.karnal,20,12,1.42 
+2015,11,04,13:00,MVP.karnal,Expendables,dust2,D!ngIT CS:GO Asia Invitational..,16,3,13,2,3,1,MVP.karnal,19,7,1.69 
+2015,11,04,10:00,nxl,MVP.karnal,inferno,SoStronk KOTH Asia #1,16,5,11,4,5,1,MVP.karnal,9,20,0.45 
+2015,11,04,10:00,nxl,MVP.karnal,dust2,SoStronk KOTH Asia #1,16,4,11,4,5,0,MVP.karnal,10,18,0.56 
+2015,10,17,17:15,MVP.karnal,Penguin,dust2,MixBOT Pro-League Invite Seaso..,16,8,9,6,7,2,MVP.karnal,20,12,1.35 
+2015,10,17,16:00,MVP.karnal,TyLoo,overpass,MixBOT Pro-League Invite Seaso..,2,16,2,13,0,3,MVP.karnal,13,17,0.81 
+2015,10,04,16:50,nxl,MVP.karnal,dust2,MixBOT Pro-League Invite Seaso..,19,15,5,10,10,5,MVP.karnal,20,25,0.81 
+2015,10,04,16:50,nxl,MVP.karnal,cache,MixBOT Pro-League Invite Seaso..,16,13,5,10,11,3,MVP.karnal,24,22,1.05 
+2015,09,18,14:45,MiTH,MVP.karnal,cobblestone,MixBOT Pro-League Invite Seaso..,6,16,3,12,3,4,MVP.karnal,15,11,1.11 
+2015,09,11,18:00,TheMongolz,MVP.karnal,dust2,MixBOT Pro-League Invite Seaso..,16,14,8,7,8,7,MVP.karnal,20,22,1.01 
+2015,09,11,15:00,MVP.karnal,VirtualImpact,cache,MixBOT Pro-League Invite Seaso..,16,4,13,2,3,2,MVP.karnal,15,12,1.10 
+2015,09,06,09:00,MVP.karnal,TyLoo,cache,DreamHack Open Cluj-Napoca 201..,12,16,8,7,4,9,MVP.karnal,23,18,1.21 
+2015,09,06,09:00,MVP.karnal,TyLoo,mirage,DreamHack Open Cluj-Napoca 201..,9,16,8,7,1,9,MVP.karnal,8,17,0.62 
+2015,09,06,09:00,TyLoo,MVP.karnal,dust2,DreamHack Open Cluj-Napoca 201..,10,16,3,12,7,4,MVP.karnal,17,17,1.01 
+2015,08,28,12:00,SriLanka,Malaysia,dust2,World Championships 2015 Asian..,4,16,1,14,3,2,Malaysia,20,9,1.57 
+2015,08,27,14:15,Thailand,Malaysia,mirage,World Championships 2015 Asian..,16,12,8,7,8,5,Malaysia,21,20,1.03 
+2015,08,27,13:00,China,Malaysia,dust2,World Championships 2015 Asian..,16,14,4,11,12,3,Malaysia,17,24,0.69 
+2015,07,19,11:30,Immunity,MVP.karnal,cobblestone,ESL One Cologne 2015 Asian Qua..,16,7,10,5,6,2,MVP.karnal,12,18,0.66 
+2015,07,19,11:30,MVP.karnal,Immunity,mirage,ESL One Cologne 2015 Asian Qua..,13,16,7,8,6,8,MVP.karnal,20,24,0.92 
+2015,07,19,06:45,MVP.karnal,QeeYou,overpass,ESL One Cologne 2015 Asian Qua..,16,5,10,5,6,0,MVP.karnal,17,14,1.18 
+2015,07,18,16:45,MVP.karnal,NeckBreak,inferno,ESL One Cologne 2015 Asian Qua..,16,7,13,2,3,5,MVP.karnal,15,14,0.97 
+2015,07,18,13:30,MVP.karnal,QeeYou,inferno,ESL One Cologne 2015 Asian Qua..,11,16,9,6,2,10,MVP.karnal,15,17,0.87 
+2015,06,29,15:40,MVP.karnal,nxl,inferno,BenQ All-Star Showmatch #5,16,10,8,7,8,3,MVP.karnal,17,17,1.10 
+2015,06,29,15:40,nxl,MVP.karnal,dust2,BenQ All-Star Showmatch #5,10,16,2,13,8,3,MVP.karnal,18,20,1.01 
+2015,06,05,15:00,nxl,MVP.karnal,dust2,FACEIT SEA Launch Cup,16,6,11,4,5,2,MVP.karnal,17,17,0.99 
+2015,06,05,13:00,MVP.karnal,DeToNator,inferno,FACEIT SEA Launch Cup,16,9,11,4,5,5,MVP.karnal,17,14,1.07 
+2015,04,19,14:50,MVP.karnal,TyLoo,inferno,Rising Stars Asia #1,26,28,6,9,9,6,MVP.karnal,34,41,0.84 
+2015,04,17,15:45,Nface,MVP.karnal,cache,Rising Stars Asia #1,14,16,8,7,6,9,MVP.karnal,19,19,0.93 

@@ -1,0 +1,39 @@
+2016,07,28,19:10,LowLandLions,ANOX,overpass,Game Show Spring Invitational ..,14,16,6,9,8,7,LowLandLions,27,21,1.21 
+2016,07,28,19:10,LowLandLions,ANOX,cobblestone,Game Show Spring Invitational ..,7,16,4,11,3,5,LowLandLions,17,15,1.10 
+2016,06,15,19:00,Orbit,LowLandLions,mirage,Game Show Spring Invitational ..,12,16,3,12,9,4,LowLandLions,13,15,0.79 
+2016,06,15,19:00,Orbit,LowLandLions,dust2,Game Show Spring Invitational ..,16,7,11,4,5,3,LowLandLions,10,20,0.55 
+2016,06,06,20:00,LowLandLions,Secretfe,mirage,Operation: Kinguin #3,16,14,7,8,9,6,LowLandLions,23,20,1.14 
+2016,06,06,20:00,Secretfe,LowLandLions,dust2,Operation: Kinguin #3,6,16,5,10,1,6,LowLandLions,21,10,1.37 
+2016,05,03,19:15,TBi,RCTIC,dust2,Game Show Spring Invitational ..,16,14,5,10,11,4,TBi,21,18,1.05 
+2016,05,03,19:15,TBi,RCTIC,cobblestone,Game Show Spring Invitational ..,16,10,6,9,10,1,TBi,20,16,1.07 
+2016,05,01,15:00,RCTIC,nerdRage,dust2,DreamHack Regional Minor Champ..,16,13,5,10,11,3,nerdRage,22,21,1.08 
+2016,05,01,15:00,nerdRage,RCTIC,train,DreamHack Regional Minor Champ..,5,16,3,12,2,4,nerdRage,16,17,0.90 
+2016,05,01,15:00,RCTIC,nerdRage,cobblestone,DreamHack Regional Minor Champ..,6,16,5,10,1,6,nerdRage,21,11,1.50 
+2016,04,28,19:30,eXtatus,nerdRage,dust2,Game Show Spring Invitational ..,10,16,6,9,4,7,nerdRage,23,15,1.46 
+2016,04,28,19:30,nerdRage,eXtatus,mirage,Game Show Spring Invitational ..,16,10,11,4,5,6,nerdRage,17,14,1.15 
+2016,04,24,18:25,SK,nerdRage,dust2,DreamHack Regional Minor Champ..,16,12,6,9,10,3,nerdRage,19,18,0.98 
+2016,04,24,18:25,SK,nerdRage,overpass,DreamHack Regional Minor Champ..,16,7,10,5,6,2,nerdRage,12,16,0.73 
+2016,04,24,15:00,E-frag.net,nerdRage,dust2,DreamHack Regional Minor Champ..,13,16,3,12,10,4,nerdRage,30,15,1.64 
+2016,04,24,15:00,E-frag.net,nerdRage,cobblestone,DreamHack Regional Minor Champ..,14,16,4,11,10,5,nerdRage,28,19,1.27 
+2016,04,23,20:40,nerdRage,CPHWolves,dust2,DreamHack Regional Minor Champ..,0,16,0,15,0,1,nerdRage,10,16,0.56 
+2016,04,23,18:50,nerdRage,Metapods,overpass,DreamHack Regional Minor Champ..,16,13,9,6,7,7,nerdRage,19,17,1.07 
+2016,04,23,17:20,GameAgents,nerdRage,cobblestone,DreamHack Regional Minor Champ..,5,16,5,10,0,6,nerdRage,15,12,1.03 
+2016,04,17,19:15,nerdRage,Epsilon,cobblestone,CEVO Gfinity Professional Seas..,6,16,6,9,0,7,nerdRage,6,22,0.23 
+2016,04,17,19:15,nerdRage,Epsilon,dust2,CEVO Gfinity Professional Seas..,14,16,8,7,6,9,nerdRage,19,21,0.97 
+2016,04,07,19:00,nerdRage,Method,overpass,Game Show Spring Invitational ..,16,5,11,4,5,1,nerdRage,13,10,1.03 
+2016,04,07,19:00,Method,nerdRage,cobblestone,Game Show Spring Invitational ..,16,11,11,4,5,7,nerdRage,14,21,0.68 
+2016,04,07,19:00,nerdRage,Method,dust2,Game Show Spring Invitational ..,16,9,9,6,7,3,nerdRage,8,15,0.62 
+2016,03,28,00:30,PRIDE,Rasta,cobblestone,Insomnia 57,5,16,2,13,3,3,Rasta,10,9,0.92 
+2016,03,28,00:30,PRIDE,Rasta,mirage,Insomnia 57,12,16,8,7,4,9,Rasta,14,17,0.78 
+2016,03,28,00:30,PRIDE,Rasta,cache,Insomnia 57,16,14,11,4,5,10,Rasta,17,17,0.94 
+2016,02,21,13:00,Barrage,Infused,mirage,epic.SEVENTEEN,16,6,9,6,7,0,Barrage,21,14,1.33 
+2016,02,21,13:00,Infused,Barrage,cache,epic.SEVENTEEN,6,16,3,12,3,4,Barrage,15,9,1.16 
+2015,09,19,18:30,EZskins.com,dignitas,mirage,DreamHack Open London 2015,2,16,2,13,0,3,EZskins.com,7,18,0.36 
+2015,09,19,17:15,Renegades,EZskins.com,dust2,DreamHack Open London 2015,11,16,7,8,4,8,EZskins.com,18,16,1.10 
+2015,09,19,13:00,EZskins.com,EnVyUs,inferno,DreamHack Open London 2015,2,16,1,14,1,2,EZskins.com,8,14,0.62 
+2015,08,30,21:30,Choke,EZskins.com,overpass,Multiplay i55,11,16,7,8,4,8,EZskins.com,12,19,0.61 
+2015,08,30,21:30,EZskins.com,Choke,inferno,Multiplay i55,16,8,14,1,2,7,EZskins.com,14,13,1.03 
+2015,04,21,23:00,MALIK,XENEX,inferno,ESL UK Premiership Season 1,8,16,2,13,6,3,XENEX,26,11,1.69 
+2015,04,21,20:00,MALIK,XENEX,cache,ESL UK Premiership Season 1,14,16,8,7,6,9,XENEX,22,19,1.09 
+2015,04,20,20:00,exceL,XENEX,cache,ESL UK Premiership Season 1,18,21,10,5,5,10,XENEX,29,23,1.13 
+2015,04,20,20:00,XENEX,exceL,inferno,ESL UK Premiership Season 1,46,42,10,5,5,10,XENEX,51,57,0.90 

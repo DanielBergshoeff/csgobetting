@@ -1,0 +1,29 @@
+2016,08,14,14:30,Orange,Signature,nuke,ESEA Open Season 22 Asia,6,16,5,10,1,6,Orange,14,19,0.75 
+2016,08,14,14:30,Orange,Signature,overpass,ESEA Open Season 22 Asia,10,16,8,7,2,9,Orange,25,19,1.45 
+2016,08,12,16:00,4dimensioN,Orange,inferno,ESEA Open Season 22 Asia,11,16,5,10,6,6,Orange,15,16,0.86 
+2016,08,12,16:00,4dimensioN,Orange,cache,ESEA Open Season 22 Asia,16,14,9,6,7,8,Orange,27,20,1.29 
+2016,08,12,16:00,4dimensioN,Orange,train,ESEA Open Season 22 Asia,13,16,8,7,5,9,Orange,22,20,1.07 
+2016,07,02,14:00,Malaysia,Mongolia,cache,World Championships 2016 Asian..,2,16,2,13,0,3,Malaysia,12,16,0.71 
+2016,07,02,14:00,Malaysia,Mongolia,dust2,World Championships 2016 Asian..,4,16,3,12,1,4,Malaysia,16,17,1.23 
+2016,04,21,16:10,MVP.karnal,Signature,mirage,Rising Stars SEA Promotional C..,13,16,4,11,9,5,MVP.karnal,19,23,0.92 
+2016,04,21,15:05,LGD,MVP.karnal,cache,Rising Stars SEA Promotional C..,6,16,3,12,3,4,MVP.karnal,12,14,0.81 
+2016,04,21,12:30,MVP.karnal,Signature,inferno,Rising Stars SEA Promotional C..,8,16,6,9,2,7,MVP.karnal,11,21,0.56 
+2015,11,20,13:00,MVP.karnal,MVPproject,dust2,D!ngIT CS:GO Asia Invitational..,16,11,6,9,10,2,MVP.karnal,21,16,1.20 
+2015,11,20,13:00,MVPproject,MVP.karnal,inferno,D!ngIT CS:GO Asia Invitational..,14,16,11,4,3,12,MVP.karnal,23,22,1.09 
+2015,11,16,13:00,TyLoo,MVP.karnal,cache,D!ngIT CS:GO Asia Invitational..,16,6,11,4,5,2,MVP.karnal,10,19,0.52 
+2015,11,16,13:00,TyLoo,MVP.karnal,train,D!ngIT CS:GO Asia Invitational..,16,3,12,3,4,0,MVP.karnal,8,17,0.56 
+2015,11,05,13:00,Puzzle,MVP.karnal,overpass,SoStronk KOTH Asia #1,16,2,13,2,3,0,MVP.karnal,11,17,0.81 
+2015,11,05,13:00,Puzzle,MVP.karnal,cobblestone,SoStronk KOTH Asia #1,11,16,5,10,6,6,MVP.karnal,15,18,0.89 
+2015,11,05,13:00,MVP.karnal,Puzzle,cache,SoStronk KOTH Asia #1,14,16,7,8,7,8,MVP.karnal,16,24,0.69 
+2015,11,04,15:55,inchk1ng,MVP.karnal,cobblestone,MixBOT Pro-League Invite Seaso..,6,16,3,12,3,4,MVP.karnal,16,15,0.97 
+2015,11,04,14:30,MiTH,MVP.karnal,dust2,D!ngIT CS:GO Asia Invitational..,6,16,2,13,4,3,MVP.karnal,15,13,0.98 
+2015,11,04,13:00,MVP.karnal,Expendables,dust2,D!ngIT CS:GO Asia Invitational..,16,3,13,2,3,1,MVP.karnal,20,9,1.77 
+2015,11,04,10:00,nxl,MVP.karnal,inferno,SoStronk KOTH Asia #1,16,5,11,4,5,1,MVP.karnal,12,20,0.65 
+2015,11,04,10:00,nxl,MVP.karnal,dust2,SoStronk KOTH Asia #1,16,4,11,4,5,0,MVP.karnal,4,19,0.24 
+2015,10,17,17:15,MVP.karnal,Penguin,dust2,MixBOT Pro-League Invite Seaso..,16,8,9,6,7,2,MVP.karnal,14,15,0.91 
+2015,10,17,16:00,MVP.karnal,TyLoo,overpass,MixBOT Pro-League Invite Seaso..,2,16,2,13,0,3,MVP.karnal,5,17,0.31 
+2015,10,04,16:50,nxl,MVP.karnal,dust2,MixBOT Pro-League Invite Seaso..,19,15,5,10,10,5,MVP.karnal,15,24,0.61 
+2015,10,04,16:50,nxl,MVP.karnal,cache,MixBOT Pro-League Invite Seaso..,16,13,5,10,11,3,MVP.karnal,16,21,0.77 
+2015,09,18,14:45,MiTH,MVP.karnal,cobblestone,MixBOT Pro-League Invite Seaso..,6,16,3,12,3,4,MVP.karnal,16,14,1.04 
+2015,09,11,18:00,TheMongolz,MVP.karnal,dust2,MixBOT Pro-League Invite Seaso..,16,14,8,7,8,7,MVP.karnal,21,20,0.99 
+2015,09,11,15:00,MVP.karnal,VirtualImpact,cache,MixBOT Pro-League Invite Seaso..,16,4,13,2,3,2,MVP.karnal,13,8,1.35 

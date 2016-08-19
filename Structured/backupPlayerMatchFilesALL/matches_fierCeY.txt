@@ -1,0 +1,10 @@
+2016,03,17,04:00,ACE,Luminosity,inferno,CEVO Gfinity Professional Seas..,9,16,6,9,3,7,ACE,16,19,0.78 
+2016,03,17,04:00,Luminosity,ACE,cache,CEVO Gfinity Professional Seas..,16,3,12,3,4,0,ACE,7,18,0.38 
+2016,02,23,02:00,ACE,OpTic,cache,CEVO Gfinity Professional Seas..,12,16,7,8,5,8,ACE,20,19,1.11 
+2016,02,23,02:00,OpTic,ACE,mirage,CEVO Gfinity Professional Seas..,16,3,12,3,4,0,ACE,11,18,0.65 
+2016,02,15,02:00,Noble,ACE,inferno,CEVO Gfinity Professional Seas..,16,3,12,3,4,0,ACE,6,17,0.35 
+2015,10,25,01:00,Leader-1Red,Quintic,inferno,Ascendancy Cup #1,16,8,9,6,7,2,Quintic,17,19,0.91 
+2015,10,24,05:00,Gosu,Quintic,mirage,Ascendancy Cup #1,16,6,9,6,7,0,Quintic,17,17,0.99 
+2015,10,24,05:00,Quintic,Gosu,cache,Ascendancy Cup #1,6,16,4,11,2,5,Quintic,11,19,0.58 
+2015,05,26,05:00,VeloX,affNity,dust2,FACEIT League 2015 Stage 2 NA ..,14,16,8,7,6,9,VeloX,25,18,1.26 
+2015,05,26,05:00,VeloX,affNity,cache,FACEIT League 2015 Stage 2 NA ..,11,16,7,8,4,8,VeloX,19,19,1.00 

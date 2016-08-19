@@ -1,0 +1,144 @@
+2016,06,12,14:10,dignitas,Renegades,dust2,ESL One Cologne 2016 Main Qual..,16,12,6,9,10,3,Renegades,13,23,0.64 
+2016,06,11,13:00,Renegades,FluffyGangsters,mirage,ESL One Cologne 2016 Main Qual..,16,11,11,4,5,7,Renegades,18,21,1.02 
+2016,06,10,14:20,Splyce,Renegades,cobblestone,ESL One Cologne 2016 Main Qual..,16,14,10,5,6,9,Renegades,11,22,0.58 
+2016,06,09,13:00,Renegades,FlipSid3,mirage,ESL One Cologne 2016 Main Qual..,9,16,6,9,3,7,Renegades,12,21,0.58 
+2016,05,26,22:30,Renegades,Cloud9,cache,ELEAGUE Season 1,11,16,5,10,6,6,Renegades,10,21,0.51 
+2016,05,26,22:30,Cloud9,Renegades,cobblestone,ELEAGUE Season 1,16,3,12,3,4,0,Renegades,5,18,0.26 
+2016,05,26,00:00,Cloud9,Renegades,cobblestone,ELEAGUE Season 1,11,16,7,8,4,8,Renegades,24,16,1.38 
+2016,05,25,23:00,Cloud9,Renegades,train,ELEAGUE Season 1,16,7,9,6,7,1,Renegades,11,20,0.53 
+2016,05,25,19:15,Liquid,Renegades,train,ELEAGUE Season 1,10,16,5,10,5,6,Renegades,12,16,0.77 
+2016,05,25,18:00,Liquid,Renegades,mirage,ELEAGUE Season 1,14,16,11,4,3,12,Renegades,14,25,0.60 
+2016,05,24,19:50,Luminosity,Renegades,train,ELEAGUE Season 1,16,0,15,0,1,0,Renegades,6,16,0.35 
+2016,05,24,18:00,Luminosity,Renegades,cobblestone,ELEAGUE Season 1,19,17,9,6,6,9,Renegades,18,26,0.72 
+2016,05,08,11:15,TyLoo,Renegades,cache,PGL KeSPA Regional Minor Champ..,16,13,4,11,12,2,Renegades,12,20,0.68 
+2016,05,08,11:15,Renegades,TyLoo,mirage,PGL KeSPA Regional Minor Champ..,5,16,3,12,2,4,Renegades,6,19,0.37 
+2016,05,08,11:15,TyLoo,Renegades,cobblestone,PGL KeSPA Regional Minor Champ..,5,16,2,13,3,3,Renegades,15,9,1.15 
+2016,05,06,11:45,TyLoo,Renegades,cache,PGL KeSPA Regional Minor Champ..,14,16,8,7,6,9,Renegades,19,24,0.83 
+2016,05,06,11:45,Renegades,TyLoo,mirage,PGL KeSPA Regional Minor Champ..,11,16,9,6,2,10,Renegades,10,23,0.52 
+2016,05,06,11:45,Renegades,TyLoo,cobblestone,PGL KeSPA Regional Minor Champ..,16,12,8,7,8,5,Renegades,17,22,0.74 
+2016,05,06,08:45,Renegades,Immunity,overpass,PGL KeSPA Regional Minor Champ..,16,13,11,4,5,9,Renegades,19,17,1.01 
+2016,05,06,08:45,Immunity,Renegades,mirage,PGL KeSPA Regional Minor Champ..,8,16,3,12,5,4,Renegades,20,16,1.11 
+2016,05,05,15:40,Renegades,Risky,mirage,PGL KeSPA Regional Minor Champ..,16,14,9,6,7,8,Renegades,16,24,0.71 
+2016,05,05,15:40,Renegades,Risky,cobblestone,PGL KeSPA Regional Minor Champ..,16,7,9,6,7,1,Renegades,15,16,0.87 
+2016,05,05,10:10,TyLoo,Renegades,overpass,PGL KeSPA Regional Minor Champ..,16,1,14,1,2,0,Renegades,6,17,0.33 
+2016,05,05,10:10,Renegades,TyLoo,mirage,PGL KeSPA Regional Minor Champ..,11,16,5,10,6,6,Renegades,12,21,0.62 
+2016,05,05,04:45,Renegades,MVPproject,cobblestone,PGL KeSPA Regional Minor Champ..,16,7,13,2,3,5,Renegades,19,12,1.31 
+2016,04,27,03:00,Renegades,compLexity,cache,ESL Pro League Season 3,16,13,10,5,6,8,Renegades,23,20,1.08 
+2016,04,27,02:00,compLexity,Renegades,inferno,ESL Pro League Season 3,11,16,5,10,6,6,Renegades,14,20,0.67 
+2016,04,24,03:00,Luminosity,Renegades,inferno,ESL Pro League Season 3,16,13,7,8,9,5,Renegades,22,21,1.02 
+2016,04,24,02:00,Luminosity,Renegades,train,ESL Pro League Season 3,16,3,12,3,4,0,Renegades,8,18,0.49 
+2016,04,06,03:00,Renegades,NRG,cache,ESL Pro League Season 3,13,16,5,10,8,6,Renegades,15,22,0.75 
+2016,04,06,02:00,NRG,Renegades,train,ESL Pro League Season 3,16,2,14,1,2,1,Renegades,8,18,0.37 
+2016,03,23,05:00,Renegades,Splyce,inferno,ESL Pro League Season 3,16,6,11,4,5,2,Renegades,22,13,1.33 
+2016,03,23,04:00,Splyce,Renegades,train,ESL Pro League Season 3,4,16,3,12,1,4,Renegades,14,9,1.09 
+2016,03,19,18:00,TSM,Renegades,overpass,iBUYPOWER Invitational Spring ..,16,10,11,4,5,6,Renegades,15,21,0.82 
+2016,03,19,18:00,Renegades,TSM,cache,iBUYPOWER Invitational Spring ..,16,4,13,2,3,2,Renegades,14,12,1.00 
+2016,03,19,18:00,Renegades,TSM,cobblestone,iBUYPOWER Invitational Spring ..,16,19,8,7,7,8,Renegades,19,28,0.70 
+2016,03,19,02:30,TempoStorm,Renegades,inferno,CEVO Gfinity Professional Seas..,16,14,12,3,4,11,Renegades,17,22,0.79 
+2016,03,19,02:30,TempoStorm,Renegades,cobblestone,CEVO Gfinity Professional Seas..,16,9,8,7,8,2,Renegades,17,21,0.88 
+2016,03,18,04:20,Liquid,Renegades,dust2,ESL Pro League Season 3,16,7,8,7,8,0,Renegades,11,18,0.65 
+2016,03,18,02:00,Liquid,Renegades,mirage,ESL Pro League Season 3,11,16,5,10,6,6,Renegades,16,19,0.84 
+2016,03,17,03:30,Renegades,Cloud9,dust2,ESL Pro League Season 3,8,16,5,10,3,6,Renegades,9,18,0.69 
+2016,03,17,02:00,Renegades,Cloud9,train,ESL Pro League Season 3,16,19,9,6,6,9,Renegades,19,24,0.83 
+2016,03,15,01:00,Renegades,Winterfox,overpass,CEVO Gfinity Professional Seas..,16,2,13,2,3,0,Renegades,15,8,1.38 
+2016,03,15,01:00,Winterfox,Renegades,inferno,CEVO Gfinity Professional Seas..,9,16,8,7,1,9,Renegades,19,18,1.14 
+2016,03,14,03:05,Renegades,AGG,cobblestone,ESL Pro League Season 3,16,12,7,8,9,4,Renegades,20,20,0.91 
+2016,03,14,02:00,AGG,Renegades,inferno,ESL Pro League Season 3,6,16,5,10,1,6,Renegades,10,11,0.87 
+2016,03,13,06:10,Renegades,OpTic,cobblestone,ESL Pro League Season 3,16,9,7,8,9,1,Renegades,16,17,0.82 
+2016,03,13,05:00,Renegades,OpTic,inferno,ESL Pro League Season 3,7,16,5,10,2,6,Renegades,4,22,0.21 
+2016,03,09,04:00,Renegades,Winterfox,train,ESL Pro League Season 3,16,3,12,3,4,0,Renegades,12,8,1.15 
+2016,03,09,03:15,Renegades,Winterfox,dust2,ESL Pro League Season 3,16,4,11,4,5,0,Renegades,12,12,0.97 
+2016,02,28,22:40,Renegades,Cloud9,cache,MLG Columbus 2016 Main Qualifi..,16,19,8,7,7,8,Renegades,18,31,0.62 
+2016,02,28,22:40,Cloud9,Renegades,mirage,MLG Columbus 2016 Main Qualifi..,16,14,10,5,6,9,Renegades,18,25,0.75 
+2016,02,27,22:50,Renegades,Gambit,train,MLG Columbus 2016 Main Qualifi..,11,16,6,9,5,7,Renegades,13,23,0.59 
+2016,02,27,04:20,Renegades,dignitas,inferno,MLG Columbus 2016 Main Qualifi..,16,9,9,6,7,3,Renegades,10,16,0.72 
+2016,02,21,23:00,Liquid,Renegades,mirage,DreamHack Masters Malmö 2016 N..,16,13,6,9,10,4,Renegades,16,20,0.81 
+2016,02,21,23:00,Liquid,Renegades,dust2,DreamHack Masters Malmö 2016 N..,16,10,9,6,7,4,Renegades,12,21,0.61 
+2016,02,21,20:30,TSM,Renegades,train,DreamHack Masters Malmö 2016 N..,9,16,6,9,3,7,Renegades,11,15,0.79 
+2016,02,21,20:30,TSM,Renegades,cobblestone,DreamHack Masters Malmö 2016 N..,7,16,6,9,1,7,Renegades,18,14,1.20 
+2016,02,18,03:00,CLG,Renegades,inferno,ESL Pro League Season 3,6,16,5,10,1,6,Renegades,23,14,1.57 
+2016,02,18,02:00,Renegades,CLG,dust2,ESL Pro League Season 3,16,5,10,5,6,0,Renegades,16,13,1.17 
+2016,02,10,03:15,Enemy,Renegades,mirage,ESL Pro League Season 3,16,10,11,4,5,6,Renegades,19,19,1.05 
+2016,02,10,02:00,Enemy,Renegades,train,ESL Pro League Season 3,12,16,8,7,4,9,Renegades,10,20,0.57 
+2016,02,01,06:30,TheMongolz,Renegades,inferno,IEM Taipei 2016,16,2,13,2,3,0,Renegades,4,17,0.23 
+2016,02,01,06:30,TheMongolz,Renegades,cobblestone,IEM Taipei 2016,16,9,8,7,8,2,Renegades,13,21,0.70 
+2016,01,31,07:20,Renegades,CyberZen,mirage,IEM Taipei 2016,16,4,13,2,3,2,Renegades,23,13,1.62 
+2016,01,31,07:20,CyberZen,Renegades,cobblestone,IEM Taipei 2016,8,16,6,9,2,7,Renegades,16,15,1.01 
+2016,01,30,06:20,Renegades,EatYouAlive,cache,IEM Taipei 2016,16,7,9,6,7,1,Renegades,16,14,0.98 
+2016,01,30,05:10,Renegades,TheMongolz,cache,IEM Taipei 2016,13,16,4,11,9,5,Renegades,19,26,0.75 
+2016,01,30,04:00,EatYouAlive,Renegades,cobblestone,IEM Taipei 2016,2,16,2,13,0,3,Renegades,16,8,1.58 
+2015,11,19,11:30,Renegades,Cloud9,cache,RGN Pro Series Championship,12,16,6,9,6,7,Renegades,21,22,1.11 
+2015,11,19,09:00,Renegades,Liquid,dust2,RGN Pro Series Championship,16,14,6,9,10,5,Renegades,25,22,1.15 
+2015,11,19,09:00,Renegades,Liquid,cache,RGN Pro Series Championship,16,13,7,8,9,5,Renegades,19,20,0.96 
+2015,11,19,07:15,Luminosity,Renegades,dust2,RGN Pro Series Championship,12,16,10,5,2,11,Renegades,23,16,1.33 
+2015,11,19,07:15,Luminosity,Renegades,train,RGN Pro Series Championship,12,16,8,7,4,9,Renegades,19,21,0.87 
+2015,11,19,01:00,Enemy,Renegades,train,RGN Pro Series Championship,12,16,5,10,7,6,Renegades,16,23,0.69 
+2015,11,19,01:00,Enemy,Renegades,cobblestone,RGN Pro Series Championship,10,16,4,11,6,5,Renegades,18,17,1.02 
+2015,11,18,21:40,Cloud9,Renegades,cobblestone,RGN Pro Series Championship,16,6,9,6,7,0,Renegades,15,18,0.88 
+2015,11,18,21:40,Renegades,Cloud9,cache,RGN Pro Series Championship,19,16,5,10,10,5,Renegades,16,24,0.72 
+2015,11,18,21:40,Renegades,Cloud9,inferno,RGN Pro Series Championship,11,16,8,7,3,9,Renegades,16,20,0.88 
+2015,11,18,02:30,Renegades,Winterfox,mirage,RGN Pro Series Championship,16,14,8,7,8,7,Renegades,18,22,0.82 
+2015,11,18,02:30,Renegades,Winterfox,cobblestone,RGN Pro Series Championship,16,8,8,7,8,1,Renegades,17,12,1.12 
+2015,11,17,01:15,Renegades,Enemy,inferno,RGN Pro Series Championship,16,14,9,6,7,8,Renegades,18,23,0.83 
+2015,11,16,23:15,Renegades,Nexus,inferno,RGN Pro Series Championship,16,8,12,3,4,5,Renegades,19,13,1.18 
+2015,11,16,21:45,CLG,Renegades,cobblestone,RGN Pro Series Championship,11,16,3,12,8,4,Renegades,21,21,0.98 
+2015,11,14,22:55,CLG,Renegades,train,iBUYPOWER Cup 2015,16,10,9,6,7,4,Renegades,21,20,1.02 
+2015,11,14,21:05,Renegades,Luminosity,cobblestone,iBUYPOWER Cup 2015,0,16,0,15,0,1,Renegades,4,16,0.21 
+2015,11,14,20:00,CLG,Renegades,dust2,iBUYPOWER Cup 2015,10,16,7,8,3,8,Renegades,32,15,1.75 
+2015,10,18,13:15,Immunity,Renegades,cache,FACEIT League 2015 Stage 3,9,16,8,7,1,9,Renegades,18,15,1.09 
+2015,10,17,12:00,Exile5,Renegades,cache,FACEIT League 2015 Stage 3,8,16,7,8,1,8,Renegades,17,16,1.13 
+2015,10,16,12:25,Renegades,Chiefs,cobblestone,FACEIT League 2015 Stage 3,16,5,10,5,6,0,Renegades,19,12,1.35 
+2015,10,04,11:00,fSociety,Renegades,dust2,FACEIT League 2015 Stage 3,16,14,8,7,8,7,Renegades,12,24,0.57 
+2015,10,03,14:15,AnimalSquad,Renegades,cache,FACEIT League 2015 Stage 3,16,8,10,5,6,3,Renegades,13,19,0.74 
+2015,09,26,18:50,Liquid,Renegades,cobblestone,DreamHack Open Cluj-Napoca 201..,16,4,11,4,5,0,Renegades,4,19,0.24 
+2015,09,26,18:50,Renegades,Liquid,cache,DreamHack Open Cluj-Napoca 201..,7,16,6,9,1,7,Renegades,8,18,0.47 
+2015,09,24,22:00,Winterfox,Renegades,cache,DreamHack Open Cluj-Napoca 201..,10,16,6,9,4,7,Renegades,25,19,1.29 
+2015,09,24,22:00,Winterfox,Renegades,train,DreamHack Open Cluj-Napoca 201..,13,16,8,7,5,9,Renegades,22,18,1.18 
+2015,09,24,16:00,Renegades,Liquid,cache,DreamHack Open Cluj-Napoca 201..,13,16,3,12,10,4,Renegades,24,20,1.10 
+2015,09,24,16:00,Renegades,Liquid,overpass,DreamHack Open Cluj-Napoca 201..,5,16,2,13,3,3,Renegades,12,19,0.64 
+2015,09,24,16:00,Renegades,Liquid,cobblestone,DreamHack Open Cluj-Napoca 201..,16,14,4,11,12,3,Renegades,16,19,0.88 
+2015,09,19,17:15,Renegades,EZskins.com,dust2,DreamHack Open London 2015,11,16,7,8,4,8,Renegades,14,21,0.70 
+2015,09,19,14:30,Renegades,dignitas,cobblestone,DreamHack Open London 2015,13,16,5,10,8,6,Renegades,22,21,1.10 
+2015,08,21,19:30,NiP,Renegades,inferno,ESL One Cologne 2015,16,5,12,3,4,2,Renegades,12,19,0.75 
+2015,08,21,18:25,Renegades,Titan,mirage,ESL One Cologne 2015,16,9,9,6,7,3,Renegades,27,12,1.65 
+2015,08,20,16:36,TSM,Renegades,train,ESL One Cologne 2015,16,11,10,5,6,6,Renegades,18,18,0.94 
+2015,08,08,10:30,TSM,Renegades,dust2,IEM Gamescom 2015,16,4,12,3,4,1,Renegades,6,18,0.33 
+2015,08,06,18:15,Renegades,SK,cobblestone,IEM Gamescom 2015,16,19,7,8,8,7,Renegades,26,28,0.95 
+2015,08,06,15:15,SK,Renegades,mirage,IEM Gamescom 2015,14,16,10,5,4,11,Renegades,25,22,1.22 
+2015,08,06,12:30,Renegades,SK,cache,IEM Gamescom 2015,16,10,10,5,6,5,Renegades,28,15,1.53 
+2015,08,05,15:25,TSM,Renegades,mirage,IEM Gamescom 2015,16,6,12,3,4,3,Renegades,7,19,0.48 
+2015,08,05,12:15,mousesports,Renegades,dust2,IEM Gamescom 2015,16,2,13,2,3,0,Renegades,7,16,0.48 
+2015,07,19,08:00,Renegades,myRevenge,inferno,ESL One Cologne 2015 Asian Qua..,16,2,13,2,3,0,Renegades,16,7,1.53 
+2015,07,19,08:00,Renegades,myRevenge,cache,ESL One Cologne 2015 Asian Qua..,19,16,5,10,10,5,Renegades,26,27,0.97 
+2015,07,18,15:30,Renegades,QeeYou,cache,ESL One Cologne 2015 Asian Qua..,16,8,11,4,5,4,Renegades,20,13,1.29 
+2015,07,18,11:30,Renegades,NeckBreak,inferno,ESL One Cologne 2015 Asian Qua..,16,0,15,0,1,0,Renegades,16,6,1.60 
+2015,07,12,01:00,Renegades,NatusVincere,train,ESWC 2015,5,16,5,10,0,6,Renegades,5,19,0.28 
+2015,07,12,01:00,NatusVincere,Renegades,overpass,ESWC 2015,16,8,9,6,7,2,Renegades,9,20,0.45 
+2015,07,11,02:00,Renegades,Bravado,inferno,ESWC 2015,16,5,12,3,4,2,Renegades,16,17,0.99 
+2015,07,11,01:00,EnVyUs,Renegades,cache,ESWC 2015,16,6,11,4,5,2,Renegades,9,20,0.42 
+2015,07,10,21:45,Renegades,CLG,cache,ESWC 2015,16,13,5,10,11,3,Renegades,13,25,0.53 
+2015,06,21,13:00,Renegades,DireWolves,inferno,FACEIT League 2015 Stage 2,16,5,11,4,5,1,Renegades,23,11,1.83 
+2015,06,20,13:30,Renegades,Exile5,inferno,FACEIT League 2015 Stage 2,16,11,7,8,9,3,Renegades,15,22,0.78 
+2015,05,31,12:00,VoxEminor,Streamline,cache,FACEIT League 2015 Stage 2,16,9,12,3,4,6,Vox Eminor,16,16,0.97 
+2015,05,30,01:00,NewZealand,Australia,cobblestone,World Championships 2015 Ocean..,11,16,6,9,5,7,Australia,18,19,0.95 
+2015,05,30,01:00,Australia,NewZealand,mirage,World Championships 2015 Ocean..,16,7,12,3,4,4,Australia,21,12,1.48 
+2015,05,16,17:40,NatusVincere,VoxEminor,inferno,Gfinity 2015 Spring Masters 2,16,1,14,1,2,0,Vox Eminor,5,17,0.35 
+2015,05,16,17:40,NatusVincere,VoxEminor,cobblestone,Gfinity 2015 Spring Masters 2,16,3,12,3,4,0,Vox Eminor,6,16,0.48 
+2015,05,16,15:30,VoxEminor,NiP,dust2,Gfinity 2015 Spring Masters 2,5,16,5,10,0,6,Vox Eminor,12,19,0.64 
+2015,05,16,15:30,VoxEminor,NiP,train,Gfinity 2015 Spring Masters 2,16,13,5,10,11,3,Vox Eminor,12,25,0.50 
+2015,05,16,11:40,VoxEminor,Liquid,dust2,Gfinity 2015 Spring Masters 2,16,8,8,7,8,1,Vox Eminor,24,18,1.28 
+2015,05,16,11:40,Liquid,VoxEminor,inferno,Gfinity 2015 Spring Masters 2,9,16,9,6,0,10,Vox Eminor,15,17,0.86 
+2015,05,15,18:00,VoxEminor,fnatic,dust2,Gfinity 2015 Spring Masters 2,13,16,7,8,6,8,Vox Eminor,29,21,1.27 
+2015,05,15,18:00,VoxEminor,fnatic,cache,Gfinity 2015 Spring Masters 2,16,13,12,3,4,10,Vox Eminor,11,24,0.50 
+2015,04,05,14:00,VoxEminor,Immunity,overpass,FACEIT League 2015 Stage 1,14,16,5,10,9,6,Vox Eminor,23,23,0.93 
+2015,03,29,12:00,AVANTGARDE,VoxEminor,cache,FACEIT League 2015 Stage 1,9,16,2,13,7,3,Vox Eminor,21,15,1.26 
+2015,03,22,10:00,Chiefs,VoxEminor,mirage,FACEIT League 2015 Stage 1,16,5,12,3,4,2,Vox Eminor,11,18,0.66 
+2015,03,12,18:00,NatusVincere,VoxEminor,inferno,ESL One Katowice 2015,16,3,14,1,2,2,Vox Eminor,7,18,0.38 
+2015,03,12,15:45,VoxEminor,FlipSid3,cache,ESL One Katowice 2015,16,2,13,2,3,0,Vox Eminor,14,11,1.16 
+2015,03,12,14:50,fnatic,VoxEminor,inferno,ESL One Katowice 2015,16,3,13,2,3,1,Vox Eminor,6,16,0.39 
+2015,03,01,11:00,VoxEminor,TRIDENT,cache,FACEIT League 2015 Stage 1,16,0,15,0,1,0,Vox Eminor,20,6,1.99 
+2015,02,22,11:00,Streamline,VoxEminor,dust2,FACEIT League 2015 Stage 1,3,16,3,12,0,4,Vox Eminor,15,11,1.13 
+2015,02,15,18:42,dignitas,VoxEminor,inferno,ESL One Katowice 2015 Main Qua..,13,16,3,12,10,4,Vox Eminor,20,21,0.94 
+2015,02,15,15:00,VoxEminor,3DMAX,mirage,ESL One Katowice 2015 Main Qua..,16,11,10,5,6,6,Vox Eminor,19,19,1.07 
+2014,08,14,20:00,Titan,VoxEminor,nuke,ESL One Cologne 2014,16,1,14,1,2,0,Vox Eminor,4,15,0.31 
+2014,08,14,17:30,dignitas,VoxEminor,dust2,ESL One Cologne 2014,16,9,9,6,7,3,Vox Eminor,8,21,0.47 

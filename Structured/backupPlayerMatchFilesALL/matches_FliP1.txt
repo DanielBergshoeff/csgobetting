@@ -1,0 +1,39 @@
+2016,07,31,21:00,PLAYZONE,PENTA,cache,Razer Rising Stars European Le..,16,14,8,7,8,7,PLAYZONE,10,21,0.58 
+2016,07,31,21:00,PLAYZONE,PENTA,overpass,Razer Rising Stars European Le..,9,16,8,7,1,9,PLAYZONE,13,18,0.73 
+2016,07,21,21:00,PLAYZONE,Kinguin,overpass,Razer Rising Stars European Le..,16,8,9,6,7,2,PLAYZONE,17,17,0.95 
+2016,07,21,21:00,PLAYZONE,Kinguin,cache,Razer Rising Stars European Le..,14,16,8,7,6,9,PLAYZONE,18,18,1.00 
+2016,07,20,16:00,Bpro,PLAYZONE,overpass,Razer Rising Stars European Le..,16,13,6,9,10,4,PLAYZONE,25,21,1.15 
+2016,07,20,16:00,Bpro,PLAYZONE,dust2,Razer Rising Stars European Le..,19,16,2,13,13,2,PLAYZONE,20,24,0.75 
+2016,07,03,18:00,PLAYZONE,Orbit,train,Razer Rising Stars European Le..,11,16,5,10,6,6,PLAYZONE,19,20,0.91 
+2016,07,03,18:00,PLAYZONE,Orbit,overpass,Razer Rising Stars European Le..,19,22,7,8,8,7,PLAYZONE,26,35,0.82 
+2016,06,27,18:00,WorstPlayers,PLAYZONE,cache,Operation: Kinguin #3,16,12,9,6,7,6,PLAYZONE,14,23,0.77 
+2016,06,27,18:00,PLAYZONE,WorstPlayers,mirage,Operation: Kinguin #3,12,16,7,8,5,8,PLAYZONE,12,18,0.69 
+2016,06,18,20:00,AGG,PLAYZONE,overpass,Razer Rising Stars European Le..,16,12,9,6,7,6,PLAYZONE,24,23,1.11 
+2016,06,18,20:00,PLAYZONE,AGG,dust2,Razer Rising Stars European Le..,2,16,2,13,0,3,PLAYZONE,13,16,0.79 
+2016,06,09,17:10,PLAYZONE,Alpha,train,Operation: Kinguin #3,10,16,2,13,8,3,PLAYZONE,11,21,0.62 
+2016,06,09,17:10,Alpha,PLAYZONE,mirage,Operation: Kinguin #3,16,2,14,1,2,1,PLAYZONE,4,17,0.23 
+2016,06,08,21:00,Millenium,GameAgents,inferno,xfunction Challenge,16,1,14,1,2,0,GameAgents,5,16,0.29 
+2016,06,08,21:00,GameAgents,Millenium,cache,xfunction Challenge,9,16,5,10,4,6,GameAgents,18,23,0.81 
+2016,06,08,21:00,GameAgents,Millenium,mirage,xfunction Challenge,19,17,7,8,8,7,GameAgents,42,20,1.77 
+2016,05,26,22:30,PRIDE,PLAYZONE,nuke,Razer Rising Stars European Le..,16,8,10,5,6,3,PLAYZONE,12,19,0.78 
+2016,05,26,22:30,PLAYZONE,PRIDE,mirage,Razer Rising Stars European Le..,16,9,8,7,8,2,PLAYZONE,22,14,1.33 
+2016,05,23,20:00,eSuba,PLAYZONE,cache,Razer Rising Stars European Le..,9,16,6,9,3,7,PLAYZONE,22,18,1.24 
+2016,05,19,22:20,HeyGuys,SpaceSoldiers,mirage,Razer Rising Stars European Le..,11,16,9,6,2,10,HeyGuys,23,19,1.19 
+2016,05,19,22:20,HeyGuys,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,6,16,3,12,3,4,HeyGuys,10,18,0.69 
+2016,05,19,20:45,FTW.Prinfor,HeyGuys,inferno,xfunction Challenge,16,12,11,4,5,8,HeyGuys,21,20,1.03 
+2016,05,10,21:10,SK,Escape,cache,SL I-League Invitational #1 EU..,25,22,6,9,9,6,Escape,33,32,1.00 
+2016,05,10,21:10,Escape,SK,cobblestone,SL I-League Invitational #1 EU..,10,16,4,11,6,5,Escape,18,16,0.96 
+2016,05,10,21:10,Escape,SK,cobblestone,SL I-League Invitational #1 EU..,10,16,4,11,6,5,Escape,18,16,0.96 
+2016,04,23,17:35,stfuNerd,Metapods,cache,DreamHack Regional Minor Champ..,11,16,3,12,8,4,stfuNerd,13,23,0.61 
+2016,03,11,18:00,Recursive,CSGO2x,cache,Razer Rising Stars European Le..,16,4,11,4,5,0,CSGO2x,11,16,0.77 
+2015,12,22,23:15,ex-USSR,enable,dust2,D!ngIT $2000 Weekly Cup #31,16,7,9,6,7,1,enable,13,18,0.75 
+2015,12,22,23:15,enable,ex-USSR,cache,D!ngIT $2000 Weekly Cup #31,16,12,6,9,10,3,enable,22,19,1.08 
+2015,12,22,22:15,EYESONU,enable,inferno,D!ngIT $2000 Weekly Cup #31,9,16,8,7,1,9,enable,22,15,1.25 
+2015,11,13,21:40,KoNDenmark,KoNSweden,mirage,King of Nordic Season 2,18,21,10,5,5,10,KoN Denmark,26,28,0.89 
+2015,11,06,21:30,KoNDenmark,KoNFinland,cache,King of Nordic Season 2,16,12,6,9,10,3,KoN Denmark,19,18,1.02 
+2015,11,06,20:30,KoNDenmark,KoNSweden,dust2,King of Nordic Season 2,16,9,12,3,4,6,KoN Denmark,29,16,1.56 
+2015,11,06,19:15,KoNDenmark,KoNNorway,cache,King of Nordic Season 2,16,5,10,5,6,0,KoN Denmark,17,12,1.11 
+2015,10,30,20:30,KoNSweden,KoNDenmark,inferno,King of Nordic Season 2,16,11,7,8,9,3,KoN Denmark,10,24,0.46 
+2015,08,11,18:00,MTW,OverGaming,mirage,99Damage Arena #12,12,16,8,7,4,9,MTW,17,23,0.72 
+2015,08,11,18:00,OverGaming,MTW,dust2,99Damage Arena #12,16,14,9,6,7,8,MTW,21,20,0.95 
+2015,08,11,18:00,MTW,OverGaming,cache,99Damage Arena #12,16,11,10,5,6,6,MTW,19,15,1.10 

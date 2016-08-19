@@ -1,0 +1,2 @@
+2015,11,16,21:30,Epsilon,nerdRage,cache,Global Grand Masters #1,16,6,10,5,6,1,nerdRage,10,19,0.57 
+2015,11,16,20:00,AliGon,nerdRage,mirage,Global Grand Masters #1,16,3,12,3,4,0,nerdRage,8,17,0.47 

@@ -1,0 +1,7 @@
+2015,12,06,12:30,VariousArtists,TyLoo,cache,SL i-League StarSeries XIV,3,16,1,14,2,2,Various Artists,12,16,0.75 
+2015,12,06,12:30,TyLoo,VariousArtists,mirage,SL i-League StarSeries XIV,16,8,12,3,4,5,Various Artists,20,18,1.17 
+2015,12,04,12:30,VariousArtists,pow,inferno,SL i-League StarSeries XIV,4,16,3,12,1,4,Various Artists,13,16,0.94 
+2015,12,04,12:30,pow,VariousArtists,cache,SL i-League StarSeries XIV,17,19,8,7,7,8,Various Artists,42,27,1.55 
+2015,12,04,12:30,pow,VariousArtists,dust2,SL i-League StarSeries XIV,16,10,12,3,4,7,Various Artists,20,19,0.97 
+2015,12,02,15:00,GANK,VariousArtists,cache,SL i-League StarSeries XIV,16,13,7,8,9,5,Various Artists,16,26,0.75 
+2015,12,02,15:00,VariousArtists,GANK,cobblestone,SL i-League StarSeries XIV,5,16,4,11,1,5,Various Artists,9,19,0.52 

@@ -1,0 +1,35 @@
+2016,08,05,09:30,BornOfFire,MVPproject,overpass,SL i-League S2 China Finals,7,16,4,11,3,5,Born Of Fire,13,16,0.77 
+2016,08,05,09:30,MVPproject,BornOfFire,mirage,SL i-League S2 China Finals,16,10,9,6,7,4,Born Of Fire,18,19,0.98 
+2016,08,05,09:30,MVPproject,BornOfFire,train,SL i-League S2 China Finals,3,16,3,12,0,4,Born Of Fire,21,9,1.63 
+2016,08,04,06:20,5POWER,BornOfFire,cache,SL i-League S2 China Finals,11,16,6,9,5,7,Born Of Fire,26,19,1.30 
+2016,08,04,06:20,5POWER,BornOfFire,mirage,SL i-League S2 China Finals,12,16,6,9,6,7,Born Of Fire,18,21,0.93 
+2016,08,04,06:20,5POWER,BornOfFire,cobblestone,SL i-League S2 China Finals,16,3,12,3,4,0,Born Of Fire,9,19,0.40 
+2016,07,22,09:15,TyLoo,BornOfFire,cobblestone,Pro Gamer League 2016 Summer F..,16,8,9,6,7,2,Born Of Fire,13,20,0.69 
+2016,07,22,07:30,Epsilon,BornOfFire,dust2,Pro Gamer League 2016 Summer F..,16,13,6,9,10,4,Born Of Fire,21,21,0.97 
+2016,07,22,05:45,BornOfFire,eFuture,cache,Pro Gamer League 2016 Summer F..,16,6,9,6,7,0,Born Of Fire,16,9,1.17 
+2016,07,03,07:00,TyLoo,BornOfFire,cobblestone,NEA 2016 Finals ,16,11,8,7,8,4,Born Of Fire,25,22,1.27 
+2016,07,03,07:00,BornOfFire,TyLoo,cache,NEA 2016 Finals ,1,16,1,14,0,2,Born Of Fire,9,17,0.58 
+2016,07,01,04:30,B.O.O.T,BornOfFire,cache,NEA 2016 Finals ,7,16,7,8,0,8,Born Of Fire,18,13,1.11 
+2016,07,01,04:30,BornOfFire,B.O.O.T,overpass,NEA 2016 Finals ,16,2,13,2,3,0,Born Of Fire,22,5,1.90 
+2016,07,01,04:30,BornOfFire,B.O.O.T,cobblestone,NEA 2016 Finals ,22,25,7,8,8,7,Born Of Fire,29,35,0.83 
+2016,04,24,15:00,BornOfFire,TyLoo,inferno,Pro Gamers League 2016 Spring,7,16,3,12,4,4,Born Of Fire,13,17,0.81 
+2016,04,24,15:00,BornOfFire,TyLoo,cobblestone,Pro Gamers League 2016 Spring,6,16,5,10,1,6,Born Of Fire,11,18,0.59 
+2016,04,24,15:00,BornOfFire,TyLoo,mirage,Pro Gamers League 2016 Spring,6,16,3,12,3,4,Born Of Fire,15,19,0.89 
+2016,04,24,11:40,BornOfFire,AllGamers,inferno,Pro Gamers League 2016 Spring,16,5,10,5,6,0,Born Of Fire,11,12,0.87 
+2016,04,24,11:40,AllGamers,BornOfFire,dust2,Pro Gamers League 2016 Spring,13,16,7,8,6,8,Born Of Fire,12,16,0.75 
+2016,04,23,11:30,BornOfFire,B.O.O.T,inferno,Pro Gamers League 2016 Spring,16,3,12,3,4,0,Born Of Fire,14,8,1.21 
+2016,04,23,11:30,BornOfFire,B.O.O.T,mirage,Pro Gamers League 2016 Spring,16,10,9,6,7,4,Born Of Fire,22,17,1.30 
+2016,01,10,06:30,BornOfFire,Wings,mirage,Fulcrum Gamers League Finals,13,16,11,4,2,12,Born Of Fire,20,23,0.88 
+2016,01,10,06:30,Wings,BornOfFire,cache,Fulcrum Gamers League Finals,16,2,13,2,3,0,Born Of Fire,11,18,0.57 
+2016,01,09,14:00,TyLoo,BornOfFire,cobblestone,Fulcrum Gamers League Finals,16,6,10,5,6,1,Born Of Fire,10,20,0.45 
+2016,01,09,14:00,TyLoo,BornOfFire,cache,Fulcrum Gamers League Finals,16,7,13,2,3,5,Born Of Fire,7,20,0.36 
+2016,01,09,06:00,BornOfFire,Wings,cobblestone,Fulcrum Gamers League Finals,16,13,12,3,4,10,Born Of Fire,18,16,1.02 
+2016,01,09,06:00,BornOfFire,Wings,inferno,Fulcrum Gamers League Finals,5,16,5,10,0,6,Born Of Fire,12,17,0.74 
+2016,01,09,06:00,BornOfFire,Wings,cache,Fulcrum Gamers League Finals,16,13,7,8,9,5,Born Of Fire,25,20,1.17 
+2015,12,19,09:00,BornOfFire,Wings,cache,SL i-League StarSeries XIV Chi..,9,16,2,13,7,3,Born Of Fire,18,21,0.87 
+2015,12,19,09:00,Wings,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,10,12,3,4,7,Born Of Fire,15,25,0.65 
+2015,12,18,13:30,TyLoo,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,Born Of Fire,16,16,1.12 
+2015,12,18,13:30,BornOfFire,TyLoo,cache,SL i-League StarSeries XIV Chi..,1,16,0,15,1,1,Born Of Fire,15,16,1.02 
+2015,12,17,10:40,BornOfFire,Goalie,cache,SL i-League StarSeries XIV Chi..,16,7,11,4,5,3,Born Of Fire,24,17,1.41 
+2015,12,17,10:40,BornOfFire,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,19,9,6,6,9,Born Of Fire,29,24,1.20 
+2015,12,17,10:40,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV Chi..,12,16,10,5,2,11,Born Of Fire,23,22,1.09 

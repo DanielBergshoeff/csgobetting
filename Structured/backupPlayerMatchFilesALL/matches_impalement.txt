@@ -1,0 +1,17 @@
+2016,08,11,14:30,VG.CyberZen,DeToNator,cache,ESEA Open Season 22 Asia,16,12,11,4,5,8,DeToNator,22,20,1.18 
+2016,08,11,14:30,VG.CyberZen,DeToNator,train,ESEA Open Season 22 Asia,16,2,13,2,3,0,DeToNator,2,18,0.09 
+2016,08,07,15:00,DeToNator,m0nster,overpass,ESEA Open Season 22 Asia,16,12,7,8,9,4,DeToNator,22,21,0.98 
+2016,08,07,15:00,m0nster,DeToNator,dust2,ESEA Open Season 22 Asia,9,16,3,12,6,4,DeToNator,22,16,1.28 
+2016,08,07,15:00,m0nster,DeToNator,mirage,ESEA Open Season 22 Asia,19,15,8,7,7,8,DeToNator,27,24,0.99 
+2016,06,25,14:10,Japan,Kuwait,dust2,World Championships 2016 Asian..,16,2,13,2,3,0,Japan,12,7,1.25 
+2016,06,25,14:10,Japan,Kuwait,mirage,World Championships 2016 Asian..,16,10,8,7,8,3,Japan,14,13,0.92 
+2016,06,25,14:10,Kuwait,Japan,overpass,World Championships 2016 Asian..,16,3,13,2,3,1,Japan,18,19,1.10 
+2016,04,16,13:00,Threats,DeToNator,inferno,WCA 2016 APAC Qualifier,16,13,11,4,5,9,DeToNator,20,22,0.91 
+2016,04,16,13:00,Threats,DeToNator,cache,WCA 2016 APAC Qualifier,16,6,9,6,7,0,DeToNator,12,17,0.75 
+2015,10,03,08:00,DeToNator,RapturePlay,cache,JCG CS:GO Premier 2015 Summer,8,16,4,11,4,5,DeToNator,11,18,0.66 
+2015,10,03,08:00,RapturePlay,DeToNator,dust2,JCG CS:GO Premier 2015 Summer,22,19,6,9,9,6,DeToNator,26,29,0.94 
+2015,09,18,13:00,MiTH,DeToNator,dust2,MixBOT Pro-League Invite Seaso..,16,14,6,9,10,5,DeToNator,19,24,0.79 
+2015,09,11,13:15,TheMongolz,DeToNator,mirage,MixBOT Pro-League Invite Seaso..,16,9,12,3,4,6,DeToNator,9,20,0.49 
+2015,08,30,14:00,Singapore,Japan,mirage,World Championships 2015 Asian..,16,12,12,3,4,9,Japan,19,22,0.89 
+2015,08,30,12:00,SouthKorea,Japan,mirage,World Championships 2015 Asian..,6,16,3,12,3,4,Japan,22,10,1.54 
+2015,06,05,13:00,MVP.karnal,DeToNator,inferno,FACEIT SEA Launch Cup,16,9,11,4,5,5,DeToNator,12,20,0.75 

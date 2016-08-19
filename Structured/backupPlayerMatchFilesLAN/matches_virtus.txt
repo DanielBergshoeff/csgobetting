@@ -1,0 +1,4 @@
+2016,01,16,21:00,Leader-1,Splyce,cache,MLG Americas Minor Championshi..,2,16,2,13,0,3,Leader-1,7,18,0.39 
+2016,01,16,21:00,Leader-1,Splyce,dust2,MLG Americas Minor Championshi..,12,16,7,8,5,8,Leader-1,25,21,1.12 
+2016,01,16,19:00,Enemy,Leader-1,overpass,MLG Americas Minor Championshi..,16,4,12,3,4,1,Leader-1,13,16,0.76 
+2016,01,16,00:00,Leader-1,Splyce,dust2,MLG Americas Minor Championshi..,16,14,7,8,9,6,Leader-1,35,20,1.58 

@@ -1,0 +1,5 @@
+2016,04,16,13:00,Threats,DeToNator,inferno,WCA 2016 APAC Qualifier,16,13,11,4,5,9,DeToNator,30,18,1.61 
+2016,04,16,13:00,Threats,DeToNator,cache,WCA 2016 APAC Qualifier,16,6,9,6,7,0,DeToNator,10,18,0.77 
+2015,08,30,14:00,Singapore,Japan,mirage,World Championships 2015 Asian..,16,12,12,3,4,9,Japan,14,22,0.70 
+2015,08,30,12:00,SouthKorea,Japan,mirage,World Championships 2015 Asian..,6,16,3,12,3,4,Japan,15,13,0.96 
+2015,08,29,12:00,Vietnam,Japan,cache,World Championships 2015 Asian..,16,12,5,10,11,2,Japan,13,22,0.58 

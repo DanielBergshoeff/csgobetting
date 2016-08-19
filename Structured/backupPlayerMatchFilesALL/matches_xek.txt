@@ -1,0 +1,44 @@
+2016,08,10,19:00,Bulgaria,Switzerland,mirage,World Championships 2016 Europ..,15,19,9,6,6,9,Bulgaria,25,25,0.97 
+2016,08,10,19:00,Switzerland,Bulgaria,cache,World Championships 2016 Europ..,6,16,6,9,0,7,Bulgaria,19,14,1.20 
+2016,07,04,20:00,eSuba,Bpro,dust2,Razer Rising Stars European Le..,7,16,4,11,3,5,Bpro,28,13,1.83 
+2016,07,04,20:00,Bpro,eSuba,train,Razer Rising Stars European Le..,16,10,10,5,6,5,Bpro,23,14,1.29 
+2016,07,03,16:00,Bpro,PENTA,overpass,Razer Rising Stars European Le..,16,12,6,9,10,3,Bpro,18,20,0.89 
+2016,07,03,16:00,PENTA,Bpro,cache,Razer Rising Stars European Le..,16,6,12,3,4,3,Bpro,7,18,0.47 
+2016,06,14,16:00,LDLC,Bpro,cache,Razer Rising Stars European Le..,7,16,4,11,3,5,Bpro,17,19,0.91 
+2016,06,14,16:00,Bpro,LDLC,cobblestone,Razer Rising Stars European Le..,8,16,7,8,1,8,Bpro,13,19,0.74 
+2016,06,13,16:10,Bpro,ex-CPHWolves,mirage,Razer Rising Stars European Le..,3,16,3,12,0,4,Bpro,9,17,0.57 
+2016,06,07,18:15,Orbit,Bpro,overpass,Razer Rising Stars European Le..,16,6,11,4,5,2,Bpro,9,19,0.48 
+2016,06,07,18:15,Orbit,Bpro,mirage,Razer Rising Stars European Le..,16,10,12,3,4,7,Bpro,10,20,0.58 
+2016,06,05,18:00,Bpro,XPC,overpass,Balkan Championship Season 3,16,7,9,6,7,1,Bpro,15,15,0.93 
+2016,06,05,18:00,XPC,Bpro,cache,Balkan Championship Season 3,14,16,8,7,6,9,Bpro,13,20,0.67 
+2016,06,04,19:10,SpaceSoldiers,Bpro,mirage,DreamHack ZOWIE Open Summer 20..,16,9,13,2,3,7,Bpro,17,20,0.80 
+2016,06,02,22:00,ALTERNATEaTTaX,Bpro,cache,Razer Rising Stars European Le..,16,13,10,5,6,8,Bpro,24,20,1.22 
+2016,06,02,22:00,ALTERNATEaTTaX,Bpro,dust2,Razer Rising Stars European Le..,16,7,13,2,3,5,Bpro,9,18,0.58 
+2016,06,01,19:00,Bpro,aimclub,dust2,Balkan Championship Season 3,16,6,11,4,5,2,Bpro,19,13,1.29 
+2016,06,01,19:00,Bpro,aimclub,cobblestone,Balkan Championship Season 3,8,16,6,9,2,7,Bpro,17,19,0.83 
+2016,06,01,19:00,aimclub,Bpro,mirage,Balkan Championship Season 3,8,16,8,7,0,9,Bpro,19,13,1.23 
+2016,05,29,13:15,XPC,Bpro,dust2,ESL South East Europe Champion..,19,17,6,9,9,6,Bpro,24,26,1.07 
+2016,05,29,13:15,Bpro,XPC,overpass,ESL South East Europe Champion..,6,16,5,10,1,6,Bpro,13,16,0.77 
+2016,05,29,11:30,Bpro,aimclub,cache,ESL South East Europe Champion..,7,16,4,11,3,5,Bpro,12,19,0.63 
+2016,05,29,09:30,XPC,Bpro,cache,ESL South East Europe Champion..,14,16,7,8,7,8,Bpro,19,17,1.02 
+2016,05,23,22:25,Bpro,DenDD,mirage,Razer Rising Stars European Le..,12,16,6,9,6,7,Bpro,16,20,0.77 
+2016,05,23,22:25,Bpro,DenDD,cobblestone,Razer Rising Stars European Le..,7,16,6,9,1,7,Bpro,11,19,0.79 
+2016,05,20,20:00,Bpro,Iwku,cache,Razer Rising Stars European Le..,9,16,7,8,2,8,Bpro,9,22,0.45 
+2016,05,20,20:00,Bpro,Iwku,overpass,Razer Rising Stars European Le..,16,12,5,10,11,2,Bpro,24,18,1.34 
+2016,05,17,22:00,Bpro,SpaceSoldiers,train,Razer Rising Stars European Le..,6,16,6,9,0,7,Bpro,10,20,0.51 
+2016,05,17,22:00,Bpro,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,3,16,3,12,0,4,Bpro,8,16,0.54 
+2016,05,11,21:00,Bpro,Pixel,cobblestone,Balkan Championship Season 3,16,9,8,7,8,2,Bpro,21,20,1.05 
+2016,05,07,13:00,WinFiction,Bpro,cobblestone,Game Ninja 2016,11,16,4,11,7,5,Bpro,24,16,1.38 
+2016,05,07,13:00,Bpro,WinFiction,mirage,Game Ninja 2016,16,14,6,9,10,5,Bpro,22,17,1.20 
+2016,05,03,20:00,aimclub,Bpro,overpass,Balkan Championship Season 3,16,5,14,1,2,4,Bpro,11,17,0.65 
+2016,04,27,20:10,Bpro,SuperMassive,cache,Balkan Championship Season 3,19,17,7,8,8,7,Bpro,30,28,1.05 
+2016,04,18,21:00,Bpro,neXtPlease!,cache,Balkan Championship Season 3,16,8,13,2,3,6,Bpro,22,16,1.23 
+2016,04,11,20:00,GameAgents,Bpro,mirage,Balkan Championship Season 3,16,13,9,6,7,7,Bpro,17,26,0.73 
+2016,04,07,19:00,Bpro,Deathtrap,train,Balkan Championship Season 3,16,8,11,4,5,4,Bpro,24,14,1.61 
+2016,04,01,21:00,TogetherAsOne,Bpro,cache,Balkan Championship Season 3,9,16,2,13,7,3,Bpro,18,19,0.98 
+2016,03,25,21:00,CS-GO.rs,Bpro,cache,Balkan Championship Season 3,6,16,3,12,3,4,Bpro,17,11,1.24 
+2016,03,24,21:00,Bpro,XPC,mirage,Balkan Championship Season 3,16,12,8,7,8,5,Bpro,23,18,1.14 
+2016,03,09,22:45,Bpro,AlienTech,overpass,Razer Rising Stars European Le..,16,6,10,5,6,1,Bpro,22,9,1.79 
+2014,11,20,22:30,myKPV,GPlay,inferno,ESL Pro League Winter 2014/15 ..,16,7,14,1,2,6,GPlay,9,18,0.58 
+2014,11,20,22:30,myKPV,GPlay,mirage,ESL Pro League Winter 2014/15 ..,24,26,11,4,4,11,GPlay,31,36,0.91 
+2014,11,20,22:30,myKPV,GPlay,nuke,ESL Pro League Winter 2014/15 ..,16,5,13,2,3,3,GPlay,6,18,0.36 

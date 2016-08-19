@@ -1,0 +1,41 @@
+2016,04,14,04:25,Cloud9,Tectonic,cobblestone,CEVO Gfinity Professional Seas..,16,11,6,9,10,2,Tectonic,15,23,0.71 
+2016,04,14,04:25,Tectonic,Cloud9,cache,CEVO Gfinity Professional Seas..,4,16,1,14,3,2,Tectonic,10,16,0.67 
+2015,10,19,04:00,Tectonic,Enemy,train,Fragadelphia 6,5,16,1,14,4,2,Tectonic,15,19,0.76 
+2015,10,19,03:00,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,8,16,7,8,1,8,Tectonic,19,16,1.08 
+2015,10,19,02:00,Tectonic,SuckBrickKids,cache,Fragadelphia 6,16,6,14,1,2,5,Tectonic,20,13,1.30 
+2015,10,18,22:00,Tectonic,Enemy,inferno,Fragadelphia 6,7,16,7,8,0,8,Tectonic,13,16,0.80 
+2015,10,18,22:00,Enemy,Tectonic,cache,Fragadelphia 6,16,13,8,7,8,6,Tectonic,17,23,0.78 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,10,16,4,11,6,5,Tectonic,19,17,1.03 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,cobblestone,Fragadelphia 6,16,14,7,8,9,6,Tectonic,17,23,0.78 
+2015,10,18,16:25,Tectonic,Roca'scompLexity,cache,Fragadelphia 6,16,6,11,4,5,2,Tectonic,13,12,0.92 
+2015,10,18,01:20,SuckBrickKids,Tectonic,cobblestone,Fragadelphia 6,6,16,4,11,2,5,Tectonic,20,13,1.20 
+2015,10,18,01:20,Tectonic,SuckBrickKids,overpass,Fragadelphia 6,25,21,8,7,7,8,Tectonic,28,31,0.89 
+2015,08,26,02:00,mouseSpaz,WOOSAH,cache,CS Select #26,22,20,9,6,6,9,mouseSpaz,24,24,0.92 
+2015,08,26,02:00,mouseSpaz,WOOSAH,cobblestone,CS Select #26,8,16,7,8,1,8,mouseSpaz,11,20,0.52 
+2015,08,26,02:00,WOOSAH,mouseSpaz,inferno,CS Select #26,13,16,11,4,2,12,mouseSpaz,22,18,1.12 
+2015,08,26,02:00,mouseSpaz,WOOSAH,overpass,CS Select #26,16,13,8,7,8,6,mouseSpaz,16,15,0.87 
+2015,08,26,02:00,WOOSAH,mouseSpaz,mirage,CS Select #26,16,12,4,11,12,1,mouseSpaz,24,17,1.33 
+2015,06,25,02:00,CLG,mouseSpaz,mirage,RGN Pro Series NA,16,2,13,2,3,0,mouseSpaz,9,16,0.61 
+2015,06,24,06:02,WinOut.net,mouseSpaz,cobblestone,RGN Pro Series NA,5,16,2,13,3,3,mouseSpaz,15,10,1.16 
+2015,06,23,02:00,Method,mouseSpaz,mirage,ESL ESEA Pro League Season 1,16,2,13,2,3,0,mouseSpaz,6,17,0.39 
+2015,06,19,02:00,mouseSpaz,TempoStorm,inferno,ESL ESEA Pro League Season 1,9,16,6,9,3,7,mouseSpaz,12,22,0.59 
+2015,06,18,05:00,Luminosity,mouseSpaz,dust2,ESL ESEA Pro League Season 1,16,3,14,1,2,2,mouseSpaz,8,18,0.46 
+2015,06,17,05:00,mouseSpaz,eLevate,overpass,ESL ESEA Pro League Season 1,11,16,6,9,5,7,mouseSpaz,14,23,0.73 
+2015,06,17,04:00,Cloud9,mouseSpaz,cobblestone,ESL ESEA Pro League Season 1,16,4,12,3,4,1,mouseSpaz,8,19,0.40 
+2015,06,12,03:00,mouseSpaz,KeydStars,train,ESL ESEA Pro League Season 1,8,16,6,9,2,7,mouseSpaz,11,19,0.65 
+2015,06,11,05:15,CLG,mouseSpaz,cache,ESL ESEA Pro League Season 1,16,4,12,3,4,1,mouseSpaz,11,19,0.53 
+2015,06,09,05:00,mouseSpaz,Liquid,mirage,ESL ESEA Pro League Season 1,9,16,3,12,6,4,mouseSpaz,10,21,0.53 
+2015,06,02,05:00,mouseSpaz,ACE,train,ESL ESEA Pro League Season 1,16,5,10,5,6,0,mouseSpaz,18,13,1.36 
+2015,06,02,03:00,Nihilum,mouseSpaz,dust2,ESL ESEA Pro League Season 1,16,13,8,7,8,6,mouseSpaz,22,24,0.97 
+2015,05,29,03:00,KeydStars,mouseSpaz,overpass,ESL ESEA Pro League Season 1,16,5,10,5,6,0,mouseSpaz,13,19,0.71 
+2015,05,28,03:00,TempoStorm,mouseSpaz,inferno,ESL ESEA Pro League Season 1,16,12,11,4,5,8,mouseSpaz,14,20,0.79 
+2015,05,27,05:00,Nihilum,mouseSpaz,cache,ESL ESEA Pro League Season 1,16,13,8,7,8,6,mouseSpaz,16,24,0.76 
+2015,05,24,04:00,mouseSpaz,affNity,mirage,ESL ESEA Pro League Season 1,6,16,3,12,3,4,mouseSpaz,9,18,0.54 
+2015,05,24,03:00,affNity,mouseSpaz,cobblestone,ESL ESEA Pro League Season 1,16,0,15,0,1,0,mouseSpaz,4,16,0.25 
+2015,05,19,03:00,mouseSpaz,Luminosity,cobblestone,ESL ESEA Pro League Season 1,19,17,5,10,10,5,mouseSpaz,22,25,0.82 
+2015,05,19,02:00,ACE,mouseSpaz,inferno,ESL ESEA Pro League Season 1,16,3,12,3,4,0,mouseSpaz,3,17,0.22 
+2015,05,12,02:00,mouseSpaz,CLG,train,ESL ESEA Pro League Season 1,9,16,6,9,3,7,mouseSpaz,15,17,0.88 
+2015,05,08,05:00,mouseSpaz,eLevate,overpass,ESL ESEA Pro League Season 1,13,16,8,7,5,9,mouseSpaz,19,19,0.95 
+2015,05,06,03:00,mouseSpaz,Liquid,dust2,ESL ESEA Pro League Season 1,12,16,11,4,1,12,mouseSpaz,10,21,0.52 
+2015,05,05,05:00,mouseSpaz,Paradox,cache,ESL ESEA Pro League Season 1,8,16,7,8,1,8,mouseSpaz,15,20,0.73 
+2015,05,05,04:00,mouseSpaz,Cloud9,inferno,ESL ESEA Pro League Season 1,7,16,5,10,2,6,mouseSpaz,12,19,0.68 

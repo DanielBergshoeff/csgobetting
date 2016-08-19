@@ -1,0 +1,33 @@
+2016,03,10,20:45,AR8,BLUEJAYS,inferno,Razer Rising Stars European Le..,16,2,13,2,3,0,BLUEJAYS,9,18,0.48 
+2016,01,10,12:00,dignitas,BLUEJAYS,cobblestone,DreamHack Open Leipzig 2016 Cl..,16,6,9,6,7,0,BLUEJAYS,8,21,0.34 
+2016,01,10,12:00,dignitas,BLUEJAYS,cache,DreamHack Open Leipzig 2016 Cl..,16,3,12,3,4,0,BLUEJAYS,7,17,0.42 
+2015,12,05,14:00,KILLERFISH,BLUEJAYS,cobblestone,ESL Meisterschaft Winter 2015 ..,16,8,12,3,4,5,BLUEJAYS,17,20,0.90 
+2015,12,05,14:00,BLUEJAYS,KILLERFISH,cache,ESL Meisterschaft Winter 2015 ..,9,16,2,13,7,3,BLUEJAYS,17,17,1.04 
+2015,10,17,16:30,Planetkey,EYESONU,mirage,99Damage League Season 1,16,14,7,8,9,6,EYES ON U,21,21,0.89 
+2015,10,17,16:30,EYESONU,Planetkey,cache,99Damage League Season 1,16,11,6,9,10,2,EYES ON U,22,16,1.12 
+2015,10,17,16:30,EYESONU,Planetkey,dust2,99Damage League Season 1,5,16,4,11,1,5,EYES ON U,14,19,0.80 
+2015,10,17,13:20,KILLERFISH,EYESONU,overpass,99Damage League Season 1,16,13,8,7,8,6,EYES ON U,29,21,1.28 
+2015,10,17,13:20,KILLERFISH,EYESONU,mirage,99Damage League Season 1,28,24,12,3,3,12,EYES ON U,34,39,0.87 
+2015,09,30,20:15,Planetkey,EYESONU,mirage,99Damage League Season 1,16,9,10,5,6,4,EYES ON U,18,21,0.87 
+2015,09,30,20:15,Planetkey,EYESONU,dust2,99Damage League Season 1,16,7,9,6,7,1,EYES ON U,15,18,0.80 
+2015,09,29,20:00,KILLERFISH,EYESONU,mirage,99Damage League Season 1,22,19,11,4,4,11,EYES ON U,27,30,0.95 
+2015,09,29,20:00,EYESONU,KILLERFISH,dust2,99Damage League Season 1,16,13,9,6,7,7,EYES ON U,22,20,1.07 
+2015,09,22,19:00,Caseking,EYESONU,inferno,99Damage League Season 1,16,13,9,6,7,7,EYES ON U,16,23,0.71 
+2015,09,22,19:00,Caseking,EYESONU,dust2,99Damage League Season 1,17,19,5,10,10,5,EYES ON U,25,23,0.99 
+2015,09,16,21:00,EYESONU,PlayingDucks,dust2,99Damage League Season 1,16,6,10,5,6,1,EYES ON U,18,14,1.11 
+2015,09,16,21:00,PlayingDucks,EYESONU,mirage,99Damage League Season 1,16,5,11,4,5,1,EYES ON U,20,19,1.07 
+2015,09,13,12:00,NightRaid,SK,overpass,DreamHack Open Cluj-Napoca 201..,10,16,7,8,3,8,Night Raid,22,18,1.14 
+2015,09,13,12:00,NightRaid,SK,inferno,DreamHack Open Cluj-Napoca 201..,4,16,2,13,2,3,Night Raid,8,14,0.70 
+2015,09,12,19:45,KappaKappa,NightRaid,inferno,DreamHack Open Cluj-Napoca 201..,13,16,4,) (,:,),Night Raid,24,19,1.27 
+2015,09,01,21:00,uX,myKPV,cache,99Damage League Season 1,16,11,8,7,8,4,myKPV,17,19,1.03 
+2015,09,01,21:00,uX,myKPV,mirage,99Damage League Season 1,5,16,3,12,2,4,myKPV,16,10,1.20 
+2015,08,29,22:30,myKPV,Aftermatch,dust2,FACEIT League 2015 Stage 3 EU ..,12,16,9,6,3,10,myKPV,19,20,1.05 
+2015,08,26,21:00,myKPV,mousesports,cache,99Damage League Season 1,7,16,2,13,5,3,myKPV,17,17,1.08 
+2015,08,26,21:00,mousesports,myKPV,dust2,99Damage League Season 1,31,27,7,8,8,7,myKPV,46,43,1.06 
+2015,08,25,20:00,TSK,myKPV,mirage,D!ngIT $2000 Weekly Cup #14,16,14,6,9,10,5,myKPV,15,20,0.75 
+2015,08,24,22:00,myKPV,Games4ufe,inferno,D!ngIT $2000 Weekly Cup #14,16,5,13,2,3,3,myKPV,12,13,0.98 
+2015,08,24,20:00,myKPV,TSK,mirage,D!ngIT $2000 Weekly Cup #14,14,16,7,8,7,8,myKPV,19,23,0.82 
+2015,08,24,20:00,myKPV,TSK,cache,D!ngIT $2000 Weekly Cup #14,9,16,7,8,2,8,myKPV,17,19,0.97 
+2015,05,31,11:00,myKPV,HellRaisers,overpass,DreamHack Open Summer 2015 Clo..,12,16,8,7,4,9,myKPV,16,20,0.77 
+2015,05,31,11:00,myKPV,HellRaisers,train,DreamHack Open Summer 2015 Clo..,11,16,7,8,4,8,myKPV,18,18,1.02 
+2015,05,31,11:00,myKPV,HellRaisers,cache,DreamHack Open Summer 2015 Clo..,16,5,13,2,3,3,myKPV,12,9,1.03 

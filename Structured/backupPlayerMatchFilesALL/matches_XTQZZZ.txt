@@ -1,0 +1,2 @@
+2015,05,24,22:00,GPlay,melty,cache,FACEIT League 2015 Stage 2 EU ..,16,7,9,6,7,1,melty,12,20,0.62 
+2015,05,24,22:00,melty,GPlay,inferno,FACEIT League 2015 Stage 2 EU ..,7,16,5,10,2,6,melty,10,17,0.60 

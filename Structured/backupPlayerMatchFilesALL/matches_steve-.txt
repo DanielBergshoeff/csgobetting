@@ -1,0 +1,19 @@
+2016,08,14,10:30,GrinnyBankers,Skyfire,mirage,ESL ANZ Championship Season 2 ..,8,16,3,12,5,4,Skyfire,17,15,1.02 
+2016,08,14,10:30,Skyfire,GrinnyBankers,cobblestone,ESL ANZ Championship Season 2 ..,16,2,13,2,3,0,Skyfire,11,11,0.99 
+2016,08,12,13:00,Supremacy,Skyfire,cache,ESEA Open Season 22 Oceania,2,16,2,13,0,3,Skyfire,19,9,1.68 
+2016,08,12,13:00,Skyfire,Supremacy,train,ESEA Open Season 22 Oceania,16,10,7,8,9,2,Skyfire,18,12,1.15 
+2016,07,26,12:00,Skyfire,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,7,16,5,10,2,6,Skyfire,18,16,1.18 
+2016,07,26,12:00,Skyfire,AthleticoBH,cache,CyberGamer Oceania eSports Mas..,16,13,8,7,8,6,Skyfire,21,15,1.16 
+2016,07,26,12:00,AthleticoBH,Skyfire,train,CyberGamer Oceania eSports Mas..,16,5,11,4,5,1,Skyfire,11,18,0.69 
+2016,07,19,11:00,Skyfire,Parallax,cache,CyberGamer Oceania eSports Mas..,10,16,6,9,4,7,Skyfire,18,19,0.95 
+2016,07,19,11:00,Parallax,Skyfire,train,CyberGamer Oceania eSports Mas..,16,11,7,8,9,3,Skyfire,14,17,0.86 
+2016,07,19,11:00,Skyfire,Parallax,cobblestone,CyberGamer Oceania eSports Mas..,19,16,4,11,11,4,Skyfire,24,26,0.88 
+2016,07,18,12:00,GUTS,Skyfire,nuke,CyberGamer Oceania eSports Mas..,6,16,5,10,1,6,Skyfire,8,14,0.60 
+2016,07,18,12:00,Skyfire,GUTS,dust2,CyberGamer Oceania eSports Mas..,9,16,6,9,3,7,Skyfire,13,19,0.68 
+2016,07,18,12:00,GUTS,Skyfire,cache,CyberGamer Oceania eSports Mas..,8,16,4,11,4,5,Skyfire,17,12,1.10 
+2016,07,11,12:00,Exile5,Skyfire,dust2,CyberGamer Oceania eSports Mas..,9,16,4,11,5,5,Skyfire,21,13,1.33 
+2016,07,11,12:00,Exile5,Skyfire,cobblestone,CyberGamer Oceania eSports Mas..,10,16,7,8,3,8,Skyfire,18,11,1.16 
+2016,07,11,12:00,Skyfire,Exile5,cache,CyberGamer Oceania eSports Mas..,14,16,6,9,8,7,Skyfire,28,18,1.24 
+2016,07,05,12:00,Chiefs,Skyfire,cobblestone,CyberGamer Oceania eSports Mas..,12,16,6,9,6,7,Skyfire,23,17,1.17 
+2016,07,05,12:00,Skyfire,Chiefs,dust2,CyberGamer Oceania eSports Mas..,16,13,7,8,9,5,Skyfire,22,20,1.09 
+2016,07,05,12:00,Chiefs,Skyfire,mirage,CyberGamer Oceania eSports Mas..,16,10,7,8,9,2,Skyfire,15,21,0.73 

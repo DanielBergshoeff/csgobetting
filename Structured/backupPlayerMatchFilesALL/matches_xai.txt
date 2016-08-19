@@ -1,0 +1,11 @@
+2015,12,06,11:00,Atlantis,gBots,inferno,LVP Season 9 Division de Honor..,12,16,8,7,4,9,Atlantis,17,21,0.79 
+2015,12,06,11:00,gBots,Atlantis,train,LVP Season 9 Division de Honor..,16,5,13,2,3,3,Atlantis,17,17,0.97 
+2015,12,05,20:00,NewSkillInfinity,Atlantis,cache,LVP Season 9 Division de Honor..,10,16,5,10,5,6,Atlantis,25,16,1.38 
+2015,12,05,20:00,NewSkillInfinity,Atlantis,mirage,LVP Season 9 Division de Honor..,16,8,12,3,4,5,Atlantis,18,19,0.94 
+2015,12,05,20:00,Atlantis,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,6,13,2,3,4,Atlantis,21,14,1.25 
+2015,12,05,14:00,KIYF,Atlantis,inferno,LVP Season 9 Division de Honor..,2,16,1,14,1,2,Atlantis,14,9,1.25 
+2015,12,04,22:00,x6tence,Atlantis,inferno,LVP Season 9 Division de Honor..,16,13,10,5,6,8,Atlantis,21,20,1.06 
+2015,10,01,19:00,XPRESIV'E,x6tence,overpass,LVP Season 9 División de Honor..,11,16,4,11,7,5,XPRESIV'E,24,19,1.24 
+2015,10,01,19:00,x6tence,XPRESIV'E,mirage,LVP Season 9 División de Honor..,16,14,7,8,9,6,XPRESIV'E,12,22,0.55 
+2014,07,18,14:00,Geduld,Outbreak,inferno,DreamHack Valencia 2014,7,16,3,12,4,4,Geduld,19,17,1.03 
+2014,07,18,11:25,Geduld,LDLC,dust2,DreamHack Valencia 2014,4,16,1,14,3,2,Geduld,8,18,0.47 

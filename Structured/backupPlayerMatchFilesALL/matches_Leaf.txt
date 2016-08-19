@@ -1,0 +1,18 @@
+2016,06,03,20:45,KoNSweden,KoNFinland,mirage,King of Nordic Season 4,16,6,11,4,5,2,KoN Finland,7,20,0.34 
+2016,06,03,19:15,KoNFinland,KoNDenmark,cache,King of Nordic Season 4,16,14,10,5,6,9,KoN Finland,22,22,1.02 
+2016,05,20,20:45,KoNSweden,KoNFinland,mirage,King of Nordic Season 4,16,13,6,9,10,4,KoN Finland,14,24,0.58 
+2016,05,20,12:30,Signature,TheMongolz,dust2,WCA Season 1 APAC Finals,12,16,5,10,7,6,Signature,11,20,0.60 
+2016,05,20,12:30,Signature,TheMongolz,mirage,WCA Season 1 APAC Finals,7,16,4,11,3,5,Signature,14,17,0.85 
+2016,05,18,11:00,MVP.karnal,Signature,dust2,WCA Season 1 APAC Finals,16,10,10,5,6,5,Signature,20,20,1.10 
+2016,05,18,11:00,Signature,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,11,8,7,8,4,Signature,20,18,1.02 
+2016,05,18,11:00,MVP.karnal,Signature,cache,WCA Season 1 APAC Finals,19,16,11,4,4,11,Signature,16,26,0.71 
+2016,03,25,23:00,KoNSweden,KoNFinland,inferno,King of Nordic Season 3,16,12,12,3,4,9,KoN Finland,22,20,1.14 
+2016,03,18,22:30,KoNSweden,KoNFinland,dust2,King of Nordic Season 3,4,16,1,14,3,2,KoN Finland,19,12,1.47 
+2016,03,18,21:30,KoNNorway,KoNFinland,mirage,King of Nordic Season 3,12,16,7,8,5,8,KoN Finland,21,21,1.02 
+2016,03,04,22:30,KoNSweden,KoNFinland,dust2,King of Nordic Season 3,16,8,13,2,3,6,KoN Finland,14,19,0.80 
+2016,03,04,21:30,KoNFinland,KoNNorway,dust2,King of Nordic Season 3,16,3,13,2,3,1,KoN Finland,22,12,1.79 
+2016,03,04,20:15,KoNFinland,KoNDenmark,inferno,King of Nordic Season 3,16,6,11,4,5,2,KoN Finland,20,9,1.51 
+2016,01,15,21:30,KoNSweden,KoNFinland,mirage,King of Nordic Season 2,16,14,12,3,4,11,KoN Finland,21,23,0.97 
+2016,01,15,20:15,KoNNorway,KoNFinland,mirage,King of Nordic Season 2,5,16,5,10,0,6,KoN Finland,14,13,1.01 
+2015,08,28,20:30,Denmark,Finland,mirage,King of Nordic Season 1,20,20,7,8,8,7,Finland,34,29,1.17 
+2015,08,28,19:00,Norway,Finland,inferno,King of Nordic Season 1,12,16,5,10,7,6,Finland,12,19,0.66 

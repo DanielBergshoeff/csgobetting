@@ -1,0 +1,15 @@
+2016,08,01,00:45,INTZ,g3x,cache,Acer ESL Brazil Premier League..,15,19,9,6,6,9,g3x,25,23,1.07 
+2016,08,01,00:45,g3x,INTZ,cobblestone,Acer ESL Brazil Premier League..,16,10,8,7,8,3,g3x,29,20,1.48 
+2016,08,01,00:45,INTZ,g3x,train,Acer ESL Brazil Premier League..,4,16,4,11,0,5,g3x,21,9,1.53 
+2016,07,31,16:30,g3x,BigGods,dust2,Acer ESL Brazil Premier League..,16,11,9,6,7,5,g3x,27,17,1.37 
+2016,07,31,16:30,g3x,BigGods,train,Acer ESL Brazil Premier League..,16,11,10,5,6,6,g3x,28,17,1.43 
+2016,01,10,20:00,Luminosity,KeydStars,cobblestone,MAX5 Invitational,16,11,14,1,2,10,Keyd Stars,23,23,1.13 
+2016,01,10,20:00,KeydStars,Luminosity,mirage,MAX5 Invitational,2,16,2,13,0,3,Keyd Stars,7,16,0.45 
+2016,01,10,20:00,Luminosity,KeydStars,cache,MAX5 Invitational,16,4,12,3,4,1,Keyd Stars,7,18,0.40 
+2016,01,09,14:45,KeydStars,g3x,cobblestone,MAX5 Invitational,16,10,9,6,7,4,Keyd Stars,11,17,0.66 
+2016,01,09,14:45,g3x,KeydStars,inferno,MAX5 Invitational,16,12,12,3,4,9,Keyd Stars,24,23,1.07 
+2016,01,09,14:45,KeydStars,g3x,cache,MAX5 Invitational,16,14,8,7,8,7,Keyd Stars,16,25,0.72 
+2016,01,08,21:45,Gathers,KeydStars,cache,MAX5 Invitational,11,16,9,6,2,10,Keyd Stars,24,17,1.28 
+2016,01,08,14:30,GamesAcademy,KeydStars,dust2,MAX5 Invitational,15,15,5,10,10,5,Keyd Stars,20,20,0.98 
+2016,01,07,20:15,KeydStars,AlienTech,cache,MAX5 Invitational,16,8,10,5,6,3,Keyd Stars,18,15,1.10 
+2016,01,06,21:00,NTN,KeydStars,inferno,MAX5 Invitational,9,16,4,11,5,5,Keyd Stars,19,13,1.17 

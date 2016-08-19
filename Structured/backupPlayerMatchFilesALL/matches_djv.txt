@@ -1,0 +1,2 @@
+2015,10,15,21:15,XPC,Infused,cache,Global Offensive Champions Lea..,6,16,6,9,0,7,XPC,12,18,0.71 
+2015,10,15,21:15,XPC,Infused,mirage,Global Offensive Champions Lea..,5,16,5,10,0,6,XPC,13,15,0.83 

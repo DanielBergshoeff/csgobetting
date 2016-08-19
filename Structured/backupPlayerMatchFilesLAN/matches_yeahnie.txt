@@ -1,0 +1,5 @@
+2015,04,03,21:30,CMStorm,Propertyfe,mirage,Copenhagen Games 2015 female,16,0,15,0,1,0,Property fe,10,16,0.59 
+2015,04,03,21:30,Propertyfe,CMStorm,cache,Copenhagen Games 2015 female,7,16,5,10,2,6,Property fe,6,17,0.46 
+2015,04,03,21:30,CMStorm,Propertyfe,overpass,Copenhagen Games 2015 female,14,16,8,7,6,9,Property fe,19,17,0.96 
+2015,04,03,12:00,Propertyfe,ex-meltyfe,mirage,Copenhagen Games 2015 female,10,16,7,8,3,8,Property fe,6,18,0.44 
+2015,04,03,12:00,ex-meltyfe,Propertyfe,dust2,Copenhagen Games 2015 female,16,6,9,6,7,0,Property fe,9,17,0.58 

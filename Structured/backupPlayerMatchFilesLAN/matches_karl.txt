@@ -1,0 +1,9 @@
+2016,08,05,06:00,AllGamers,LGD,cache,SL i-League S2 China Finals,16,12,9,6,7,6,LGD,20,24,0.80 
+2016,08,05,06:00,LGD,AllGamers,mirage,SL i-League S2 China Finals,7,16,4,11,3,5,LGD,10,17,0.58 
+2015,12,19,06:00,GANK,AllGamers,overpass,SL i-League StarSeries XIV Chi..,10,16,6,9,4,7,GANK,12,22,0.53 
+2015,12,19,06:00,AllGamers,GANK,mirage,SL i-League StarSeries XIV Chi..,13,16,5,10,8,6,GANK,24,17,1.25 
+2015,12,19,06:00,GANK,AllGamers,cache,SL i-League StarSeries XIV Chi..,6,16,3,12,3,4,GANK,12,20,0.58 
+2015,12,18,06:30,Dictionary,GANK,dust2,SL i-League StarSeries XIV Chi..,4,16,4,11,0,5,GANK,15,14,0.99 
+2015,12,18,06:30,GANK,Dictionary,mirage,SL i-League StarSeries XIV Chi..,16,5,10,5,6,0,GANK,16,12,1.15 
+2015,12,17,08:30,GANK,AllGamers,mirage,SL i-League StarSeries XIV Chi..,10,16,7,8,3,8,GANK,22,20,1.14 
+2015,12,17,08:30,AllGamers,GANK,cache,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,GANK,4,16,0.31 

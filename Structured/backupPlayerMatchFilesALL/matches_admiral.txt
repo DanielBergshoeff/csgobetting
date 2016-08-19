@@ -1,0 +1,3 @@
+2016,08,15,19:40,KotK,AimersAlive,cache,WESG 2016 Middle East,3,16,3,12,0,4,Aimers Alive,14,8,1.27 
+2016,08,15,19:40,AimersAlive,KotK,train,WESG 2016 Middle East,16,10,8,7,8,3,Aimers Alive,19,21,0.95 
+2016,08,14,22:45,c5,AimersAlive,overpass,WESG 2016 Middle East,16,10,7,8,9,2,Aimers Alive,8,23,0.44 

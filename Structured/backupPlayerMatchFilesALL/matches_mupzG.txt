@@ -1,0 +1,36 @@
+2016,08,12,19:15,KoNFinland,KoNDenmark,cache,King of Nordic Season 4,16,3,13,2,3,1,KoN Denmark,11,18,0.65 
+2016,05,22,17:00,FAB,Alpha,cobblestone,RGN Pro Series II EU Closed Qu..,5,16,2,13,3,3,Alpha,20,10,1.58 
+2016,05,22,17:00,Alpha,FAB,cache,RGN Pro Series II EU Closed Qu..,16,3,13,2,3,1,Alpha,18,11,1.44 
+2016,03,24,23:00,Isak,Epsilon,cobblestone,Copenhagen Games 2016 BYOC Qua..,1,16,1,14,0,2,Isak,9,17,0.44 
+2016,03,24,23:00,Epsilon,Isak,dust2,Copenhagen Games 2016 BYOC Qua..,16,4,11,4,5,0,Isak,9,20,0.46 
+2016,03,24,19:00,Isak,PlayingDucks,mirage,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,Isak,29,19,1.70 
+2016,03,24,19:00,Isak,PlayingDucks,cache,Copenhagen Games 2016 BYOC Qua..,16,11,11,4,5,7,Isak,27,21,1.32 
+2016,03,24,17:00,EasternVikings,Isak,inferno,Copenhagen Games 2016 BYOC Qua..,14,16,6,9,8,7,Isak,28,26,1.12 
+2016,03,24,15:30,Fragsters,Isak,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,Isak,10,19,0.50 
+2016,03,24,13:00,Isak,WarMonkeys,dust2,Copenhagen Games 2016 BYOC Qua..,19,17,8,7,7,8,Isak,29,27,1.18 
+2015,11,19,19:30,myXMG,PlayingDucks,cache,QuickShot Arena #15,14,16,11,4,3,12,myXMG,32,23,1.45 
+2015,11,19,17:00,SpaceSoldiers,myXMG,dust2,QuickShot Arena #15,16,7,8,7,8,0,myXMG,11,21,0.65 
+2014,10,01,21:45,CPHWolves,Isak,dust2,Fragbite Masters Season 3,16,4,12,3,4,1,Isak,11,19,0.59 
+2014,10,01,21:45,Isak,CPHWolves,cache,Fragbite Masters Season 3,13,16,9,6,4,10,Isak,15,21,0.74 
+2014,10,01,20:30,Isak,NiP,dust2,Fragbite Masters Season 3,8,16,7,8,1,8,Isak,19,17,1.17 
+2014,09,23,20:15,NeverPlay,NOSIR!,cache,Fragbite Masters Season 3 Qual..,11,16,4,11,7,5,NO SIR!,17,19,0.90 
+2014,09,23,20:15,NOSIR!,NeverPlay,dust2,Fragbite Masters Season 3 Qual..,16,8,8,7,8,1,NO SIR!,16,18,0.86 
+2014,09,23,19:00,NOSIR!,Orbit,dust2,Fragbite Masters Season 3 Qual..,16,3,14,1,2,2,NO SIR!,11,9,1.07 
+2014,08,21,19:00,NOSIR!,myXMG,dust2,Hitbox Arena Championship 2,14,16,5,10,9,6,NO SIR!,13,20,0.69 
+2014,08,21,19:00,myXMG,NOSIR!,inferno,Hitbox Arena Championship 2,16,9,12,3,4,6,NO SIR!,15,20,0.80 
+2014,08,20,21:40,NOSIR!,Nostalgie,mirage,Hitbox Arena Championship 2,16,4,12,3,4,1,NO SIR!,26,12,1.91 
+2014,08,20,21:40,Nostalgie,NOSIR!,inferno,Hitbox Arena Championship 2,11,16,9,6,2,10,NO SIR!,30,17,1.72 
+2014,08,20,21:40,Nostalgie,NOSIR!,cache,Hitbox Arena Championship 2,16,9,13,2,3,7,NO SIR!,15,21,0.89 
+2014,08,19,20:50,NOSIR!,myXMG,dust2,Hitbox Arena Championship 2,14,16,9,6,5,10,NO SIR!,21,20,0.99 
+2014,08,19,20:50,myXMG,NOSIR!,mirage,Hitbox Arena Championship 2,16,10,10,5,6,5,NO SIR!,8,18,0.55 
+2014,08,02,21:15,ENCORE,myRevenge,inferno,ASUS ROG Summer 2014,8,16,5,10,3,6,myRevenge,19,17,1.07 
+2014,08,02,21:15,myRevenge,ENCORE,dust2,ASUS ROG Summer 2014,4,16,4,11,0,5,myRevenge,9,17,0.59 
+2014,08,02,21:15,myRevenge,ENCORE,mirage,ASUS ROG Summer 2014,16,5,10,5,6,0,myRevenge,23,9,1.80 
+2014,08,02,15:30,myRevenge,Recursive,cache,ASUS ROG Summer 2014,16,5,14,1,2,4,myRevenge,15,13,1.07 
+2014,08,02,15:30,myRevenge,Recursive,mirage,ASUS ROG Summer 2014,16,14,9,6,7,8,myRevenge,23,16,1.18 
+2014,08,02,09:40,myRevenge,Publiclir.se,dust2,ASUS ROG Summer 2014,16,6,11,4,5,2,myRevenge,23,16,1.57 
+2014,08,02,09:40,myRevenge,Publiclir.se,cache,ASUS ROG Summer 2014,16,7,9,6,7,1,myRevenge,19,14,1.34 
+2014,08,02,09:40,myRevenge,Publiclir.se,mirage,ASUS ROG Summer 2014,13,16,8,7,5,9,myRevenge,23,21,1.15 
+2014,07,31,23:40,naMNam,myRevenge,cache,ASUS ROG Summer 2014,8,16,6,9,2,7,myRevenge,14,14,0.92 
+2014,07,31,22:30,ENCORE,myRevenge,mirage,ASUS ROG Summer 2014,16,2,13,2,3,0,myRevenge,8,15,0.54 
+2014,07,31,21:30,myRevenge,ajuri,mirage,ASUS ROG Summer 2014,16,9,8,7,8,2,myRevenge,26,14,1.51 

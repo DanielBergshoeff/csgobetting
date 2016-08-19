@@ -1,0 +1,23 @@
+2016,06,21,21:00,MeMyself&I,beGenius,mirage,UnderDogs #3,16,10,8,7,8,3,MeMyself&I,14,16,0.83 
+2016,06,21,21:00,beGenius,MeMyself&I,train,UnderDogs #3,8,16,6,9,2,7,MeMyself&I,17,18,0.96 
+2016,06,06,20:00,MeMyself&I,WeGotGame,mirage,UnderDogs #3,16,5,11,4,5,1,MeMyself&I,30,10,2.15 
+2016,06,06,20:00,WeGotGame,MeMyself&I,cobblestone,UnderDogs #3,11,16,4,11,7,5,MeMyself&I,27,17,1.40 
+2016,05,30,22:15,MeMyself&I,Nativ,dust2,UnderDogs #3,16,8,12,3,4,5,MeMyself&I,23,13,1.46 
+2016,05,30,22:15,Nativ,MeMyself&I,overpass,UnderDogs #3,8,16,4,11,4,5,MeMyself&I,19,15,1.09 
+2016,03,28,10:00,LDLCBlue,Millenium,inferno,Gamers Assembly 2016,12,16,12,3,0,13,Millenium,17,16,0.98 
+2016,03,27,18:50,Millenium,Platinium,dust2,Gamers Assembly 2016,16,14,7,8,9,6,Millenium,15,21,0.78 
+2016,03,27,18:50,Millenium,Platinium,mirage,Gamers Assembly 2016,16,6,10,5,6,1,Millenium,9,13,0.75 
+2016,03,27,14:00,LDLCBlue,Millenium,dust2,Gamers Assembly 2016,14,16,6,9,8,7,Millenium,26,14,1.39 
+2016,03,27,14:00,LDLCBlue,Millenium,overpass,Gamers Assembly 2016,10,16,3,12,7,4,Millenium,19,15,1.18 
+2016,02,05,17:00,EpiphanyBolt,Millenium,dust2,Assembly Winter 2016,16,12,9,6,7,6,Millenium,12,18,0.71 
+2016,02,05,15:30,Millenium,ENCE,dust2,Assembly Winter 2016,12,16,2,13,10,3,Millenium,16,20,0.77 
+2016,01,26,18:30,neXtPlease!,CeX,mirage,D!ngIT $2000 Weekly Cup #35,16,9,11,4,5,5,CeX,8,24,0.32 
+2016,01,25,18:30,CeX,seven,dust2,D!ngIT $2000 Weekly Cup #35,9,16,8,7,1,9,CeX,12,17,0.78 
+2016,01,25,18:30,CeX,seven,mirage,D!ngIT $2000 Weekly Cup #35,16,10,12,3,4,7,CeX,16,18,0.90 
+2016,01,25,18:30,CeX,seven,cache,D!ngIT $2000 Weekly Cup #35,14,16,7,8,7,8,CeX,18,22,0.91 
+2015,08,18,19:00,Reason,Dobry&Gaming,cache,Hitbox Arena Showdown Invitati..,10,16,8,7,2,9,Reason,9,18,0.61 
+2014,11,11,20:50,NiP,Epsilon,cache,Caseking King of Kings,19,16,10,5,5,10,Epsilon,19,25,0.80 
+2014,11,11,20:50,NiP,Epsilon,dust2,Caseking King of Kings,16,3,13,2,3,1,Epsilon,6,16,0.39 
+2014,10,21,21:00,NiP,Epsilon,inferno,Fragbite Masters Season 3,16,7,10,5,6,2,Epsilon,11,20,0.61 
+2014,10,21,21:00,NiP,Epsilon,cache,Fragbite Masters Season 3,19,15,11,4,4,11,Epsilon,22,23,0.89 
+2014,08,24,22:15,Imaginary,ttc,mirage,FACEIT League 2 EU pre-qualifi..,13,16,7,8,6,8,Imaginary,22,20,1.13 

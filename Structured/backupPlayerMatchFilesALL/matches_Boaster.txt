@@ -1,0 +1,41 @@
+2016,07,03,19:30,Infused,UnitedEstonia,inferno,ESL UK Premiership Spring 2016..,4,16,3,12,1,4,United Estonia,19,9,1.39 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,mirage,ESL UK Premiership Spring 2016..,16,9,13,2,3,7,United Estonia,16,18,0.90 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,cache,ESL UK Premiership Spring 2016..,16,13,8,7,8,6,United Estonia,17,21,0.83 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,dust2,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,United Estonia,35,20,1.62 
+2016,06,04,18:00,deadweight,TBi,mirage,DreamHack ZOWIE Open Summer 20..,16,9,8,7,8,2,TBi,17,18,1.05 
+2016,05,11,17:20,HeyGuys,k1ck,mirage,Operation: Kinguin #3,16,4,11,4,5,0,HeyGuys,20,8,1.79 
+2016,05,11,17:20,k1ck,HeyGuys,dust2,Operation: Kinguin #3,11,16,7,8,4,8,HeyGuys,16,19,0.91 
+2016,05,11,17:20,k1ck,HeyGuys,cobblestone,Operation: Kinguin #3,22,20,7,8,8,7,HeyGuys,30,29,1.00 
+2016,05,10,21:15,Tricked,HeyGuys,inferno,xfunction Challenge,16,13,8,7,8,6,HeyGuys,25,20,1.13 
+2016,05,09,20:15,Orbit,CPHWolves,dust2,Operation: Kinguin #3,5,16,5,10,0,6,Orbit,11,19,0.60 
+2016,05,09,20:15,CPHWolves,Orbit,mirage,Operation: Kinguin #3,16,13,6,9,10,4,Orbit,19,16,1.09 
+2016,05,04,20:00,Orbit,eGeneration,cobblestone,xfunction Challenge,16,6,12,3,4,3,Orbit,16,11,1.23 
+2016,05,01,15:00,Orbit,MK,dust2,DreamHack Regional Minor Champ..,1,16,1,14,0,2,Orbit,6,15,0.42 
+2016,05,01,15:00,Orbit,MK,mirage,DreamHack Regional Minor Champ..,16,12,9,6,7,6,Orbit,23,21,1.22 
+2016,05,01,15:00,Orbit,MK,cache,DreamHack Regional Minor Champ..,17,19,8,7,7,8,Orbit,27,26,1.08 
+2016,04,30,17:45,Reason,Orbit,inferno,DreamHack Regional Minor Champ..,13,16,7,8,6,8,Orbit,16,19,0.80 
+2016,03,24,23:00,Orbit,Publiclir.se,cache,Copenhagen Games 2016 BYOC Qua..,11,16,6,9,5,7,Orbit,14,15,0.88 
+2016,03,24,23:00,Orbit,Publiclir.se,mirage,Copenhagen Games 2016 BYOC Qua..,16,8,12,3,4,5,Orbit,19,14,1.17 
+2016,03,24,23:00,Publiclir.se,Orbit,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,8,7,8,2,Orbit,6,21,0.35 
+2016,03,24,19:00,Orbit,OBEY,inferno,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,Orbit,13,9,1.21 
+2016,03,24,19:00,Orbit,OBEY,mirage,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Orbit,20,6,2.02 
+2016,03,24,15:30,Orbit,!nsurgents,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,5,10,5,6,0,Orbit,22,6,1.82 
+2016,03,24,13:00,Orbit,Skaldubegraves?,dust2,Copenhagen Games 2016 BYOC Qua..,16,11,11,4,5,7,Orbit,24,14,1.35 
+2016,03,19,18:30,PENTA,Orbit,dust2,DreamHack Masters Malmö 2016 E..,16,8,12,3,4,5,Orbit,18,21,0.97 
+2016,03,12,18:15,Orbit,Ancient,mirage,DreamHack Masters Malmö 2016 E..,11,16,7,8,4,8,Orbit,13,19,0.71 
+2016,03,08,23:50,ex-Epiphany,Deathtrap,cobblestone,Razer Rising Stars European Le..,16,6,11,4,5,2,ex-Epiphany,18,13,1.25 
+2016,03,08,22:50,ex-Epiphany,eXplosive,mirage,Razer Rising Stars European Le..,16,0,15,0,1,0,ex-Epiphany,23,2,2.31 
+2015,11,17,21:00,CSGO-Saloon,CeX,mirage,D!ngIT $2000 Weekly Cup #26,16,6,9,6,7,0,CeX,10,17,0.70 
+2015,11,17,18:30,CeX,DICKHOUSE,train,D!ngIT $2000 Weekly Cup #26,13,16,8,7,5,9,CeX,30,20,1.40 
+2015,11,17,18:30,CeX,DICKHOUSE,mirage,D!ngIT $2000 Weekly Cup #26,16,7,12,3,4,4,CeX,21,11,1.37 
+2015,11,17,18:30,DICKHOUSE,CeX,cache,D!ngIT $2000 Weekly Cup #26,16,5,10,5,6,0,CeX,13,18,0.74 
+2015,11,16,20:00,CeX,CSGO-Saloon,mirage,D!ngIT $2000 Weekly Cup #26,16,12,10,5,6,7,CeX,28,18,1.48 
+2015,11,16,20:00,CeX,CSGO-Saloon,dust2,D!ngIT $2000 Weekly Cup #26,16,9,10,5,6,4,CeX,25,11,1.64 
+2015,09,21,23:00,UnitedEstonia,fish123,mirage,ESL UK Premiership Season 2,16,12,11,4,5,8,fish123,19,18,1.04 
+2015,09,07,22:00,fm-eSports,fish123,dust2,ESL UK Premiership Season 2,10,16,9,6,1,10,fish123,15,14,0.99 
+2015,04,21,23:00,MALIK,exceL,cache,ESL UK Premiership Season 1,6,16,3,12,3,4,exceL,17,17,1.07 
+2015,04,21,23:00,exceL,MALIK,nuke,ESL UK Premiership Season 1,16,13,9,6,7,7,exceL,23,15,1.20 
+2015,04,21,21:00,exceL,PerilousRAGE,dust2,ESL UK Premiership Season 1,16,12,8,7,8,5,exceL,25,17,1.30 
+2015,04,21,21:00,exceL,PerilousRAGE,cache,ESL UK Premiership Season 1,16,6,9,6,7,0,exceL,23,11,1.49 
+2015,04,20,20:00,exceL,XENEX,cache,ESL UK Premiership Season 1,18,21,10,5,5,10,exceL,28,31,0.93 
+2015,04,20,20:00,XENEX,exceL,inferno,ESL UK Premiership Season 1,46,42,10,5,5,10,exceL,57,59,0.94 

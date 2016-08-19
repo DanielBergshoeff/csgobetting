@@ -1,0 +1,54 @@
+2016,07,24,19:00,ANOX,eXtatus,mirage,Game Show Spring Invitational ..,16,7,12,3,4,4,eXtatus,21,18,1.27 
+2016,07,03,14:00,fruits,eXtatus,cobblestone,Infinity Coliseum LAN 33,16,9,10,5,6,4,eXtatus,16,22,0.70 
+2016,07,03,14:00,eXtatus,fruits,overpass,Infinity Coliseum LAN 33,10,16,6,9,4,7,eXtatus,18,20,1.03 
+2016,07,03,14:00,eXtatus,fruits,train,Infinity Coliseum LAN 33,13,16,6,9,7,7,eXtatus,28,23,1.26 
+2016,07,03,14:00,fruits,eXtatus,mirage,Infinity Coliseum LAN 33,5,16,5,10,0,6,eXtatus,20,16,1.40 
+2016,06,26,20:00,eXtatus,eSuba,overpass,RoG Finals 10,16,5,13,2,3,3,eXtatus,24,7,1.86 
+2016,06,26,20:00,eXtatus,eSuba,mirage,RoG Finals 10,16,11,10,5,6,6,eXtatus,29,18,1.49 
+2016,06,26,20:00,eXtatus,eSuba,dust2,RoG Finals 10,14,16,13,2,1,14,eXtatus,35,23,1.53 
+2016,06,25,12:00,eXtatus,eEriness,dust2,RoG Finals 10,16,2,13,2,3,0,eXtatus,22,4,2.30 
+2016,06,25,12:00,eXtatus,eEriness,cobblestone,RoG Finals 10,12,16,9,6,3,10,eXtatus,19,23,0.92 
+2016,06,25,12:00,eXtatus,eEriness,cache,RoG Finals 10,16,10,8,7,8,3,eXtatus,26,16,1.51 
+2016,05,21,21:25,MajesticLions,eXtatus,overpass,PLAYzone League I LAN Finals,6,16,5,10,1,6,eXtatus,19,14,1.28 
+2016,05,21,21:25,MajesticLions,eXtatus,cache,PLAYzone League I LAN Finals,8,16,6,9,2,7,eXtatus,23,13,1.46 
+2016,05,21,10:45,eXtatus,eSuba,dust2,PLAYzone League I LAN Finals,16,14,9,6,7,8,eXtatus,26,20,1.19 
+2016,05,21,10:45,eXtatus,eSuba,mirage,PLAYzone League I LAN Finals,16,14,5,10,11,4,eXtatus,18,21,0.88 
+2016,05,12,19:00,eXtatus,Vesuvius,dust2,Game Show Spring Invitational ..,16,11,6,9,10,2,eXtatus,27,16,1.62 
+2016,05,12,19:00,Vesuvius,eXtatus,mirage,Game Show Spring Invitational ..,9,16,8,7,1,9,eXtatus,26,17,1.55 
+2016,04,28,19:30,eXtatus,nerdRage,dust2,Game Show Spring Invitational ..,10,16,6,9,4,7,eXtatus,16,16,1.03 
+2016,04,28,19:30,nerdRage,eXtatus,mirage,Game Show Spring Invitational ..,16,10,11,4,5,6,eXtatus,16,19,0.87 
+2016,04,26,19:00,eXtatus,E-frag.net,dust2,Game Show Spring Invitational ..,2,16,1,14,1,2,eXtatus,4,13,0.44 
+2016,04,26,19:00,E-frag.net,eXtatus,cache,Game Show Spring Invitational ..,16,3,15,0,1,3,eXtatus,5,17,0.37 
+2016,03,24,19:00,WinOut,eXtatus,cache,Copenhagen Games 2016 BYOC Qua..,16,6,9,6,7,0,eXtatus,12,21,0.57 
+2016,03,24,19:00,WinOut,eXtatus,dust2,Copenhagen Games 2016 BYOC Qua..,16,12,11,4,5,8,eXtatus,17,21,0.86 
+2016,03,24,17:00,eXtatus,Inside,inferno,Copenhagen Games 2016 BYOC Qua..,16,1,15,0,1,1,eXtatus,11,9,1.03 
+2016,03,24,15:30,SpaceSoldiers,eXtatus,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,15,0,1,3,eXtatus,14,16,0.93 
+2016,03,24,13:00,eXtatus,Inside,dust2,Copenhagen Games 2016 BYOC Qua..,16,3,15,0,1,3,eXtatus,17,13,1.22 
+2016,03,22,19:00,eXtatus,Enso,dust2,Game Show Spring Invitational ..,16,19,6,9,9,6,eXtatus,26,26,0.91 
+2016,03,22,19:00,eXtatus,Enso,cache,Game Show Spring Invitational ..,12,16,6,9,6,7,eXtatus,21,21,1.00 
+2016,03,21,19:00,eXtatus,RCTIC,mirage,Game Show Spring Invitational ..,5,16,4,11,1,5,eXtatus,17,18,0.90 
+2016,03,21,19:00,eXtatus,RCTIC,dust2,Game Show Spring Invitational ..,13,16,5,10,8,6,eXtatus,17,20,0.88 
+2016,03,13,22:10,BigGods,Crashers,cobblestone,Razer Rising Stars South Ameri..,16,2,13,2,3,0,Crashers,4,17,0.23 
+2016,01,05,23:00,nEophyte,YP,dust2,D!ngIT $2000 Weekly Cup #32,14,16,5,10,9,6,nEophyte,14,21,0.73 
+2016,01,05,22:00,ezkatka,nEophyte,cache,D!ngIT $2000 Weekly Cup #32,7,16,5,10,2,6,nEophyte,19,13,1.42 
+2016,01,05,18:30,nEophyte,eXplosive,cache,D!ngIT $2000 Weekly Cup #32,16,12,9,6,7,6,nEophyte,26,17,1.45 
+2015,12,20,19:00,MajesticLions,nEophyte,overpass,ASUS Finals 9,6,16,3,12,3,4,nEophyte,19,13,1.45 
+2015,12,20,19:00,MajesticLions,nEophyte,inferno,ASUS Finals 9,16,13,8,7,8,6,nEophyte,19,19,1.11 
+2015,12,20,19:00,nEophyte,MajesticLions,cache,ASUS Finals 9,16,7,11,4,5,3,nEophyte,22,12,1.57 
+2015,12,19,11:50,nEophyte,GUNRUNNERS,cache,ASUS Finals 9,16,7,9,6,7,1,nEophyte,17,12,1.16 
+2015,12,19,11:50,nEophyte,GUNRUNNERS,overpass,ASUS Finals 9,16,5,11,4,5,1,nEophyte,15,14,1.03 
+2015,12,16,22:00,ex-USSR,nEophyte,mirage,QuickShot Arena #19,16,9,7,8,9,1,nEophyte,15,19,0.79 
+2015,12,16,20:45,nEophyte,OnlineBOTS,cache,QuickShot Arena #19,12,16,4,11,8,5,nEophyte,29,22,1.35 
+2015,12,16,18:15,nEophyte,Enso,cache,QuickShot Arena #19,16,5,10,5,6,0,nEophyte,19,8,1.51 
+2015,12,14,23:00,EpiphanyBolt,nEophyte,cache,Operation: Kinguin,16,13,8,7,8,6,nEophyte,20,24,0.86 
+2015,12,14,19:30,nEophyte,SpaceSoldiers,train,Operation: Kinguin,9,16,6,9,3,7,nEophyte,13,19,0.75 
+2015,12,14,19:30,nEophyte,SpaceSoldiers,cache,Operation: Kinguin,7,16,6,9,1,7,nEophyte,15,18,0.82 
+2015,12,09,22:00,SpaceSoldiers,nEophyte,mirage,QuickShot Arena #18,16,13,7,8,9,5,nEophyte,21,20,0.96 
+2015,12,02,18:00,nEophyte,SpaceSoldiers,overpass,Game Show Global eSports Cup 2..,14,16,8,7,6,9,nEophyte,19,21,0.93 
+2015,12,02,18:00,SpaceSoldiers,nEophyte,mirage,Game Show Global eSports Cup 2..,19,22,13,2,2,13,nEophyte,34,35,1.01 
+2015,12,02,18:00,SpaceSoldiers,nEophyte,dust2,Game Show Global eSports Cup 2..,16,6,13,2,3,4,nEophyte,15,19,1.02 
+2015,12,01,21:15,nEophyte,CSGL,train,Game Show Global eSports Cup 2..,5,16,4,11,1,5,nEophyte,22,17,1.50 
+2015,12,01,21:15,nEophyte,CSGL,cache,Game Show Global eSports Cup 2..,15,19,8,7,7,8,nEophyte,18,25,0.78 
+2015,11,07,15:30,nEophyte,eSuba,inferno,MČR 2015,16,9,8,7,8,2,nEophyte,24,13,1.63 
+2015,11,07,15:30,eSuba,nEophyte,cache,MČR 2015,11,16,10,5,1,11,nEophyte,19,17,1.02 
+2015,11,07,15:30,eSuba,nEophyte,mirage,MČR 2015,16,4,11,4,5,0,nEophyte,9,18,0.57 

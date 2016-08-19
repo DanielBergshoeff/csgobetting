@@ -1,0 +1,4 @@
+2014,10,08,22:00,ePlay,HAXCON,cobblestone,ESL Pro Series Poland Season 9,16,2,14,1,2,1,HAXCON,8,16,0.53 
+2014,10,01,22:00,noMERCY,HAXCON,mirage,ESL Pro Series Poland Season 9,16,5,12,3,4,2,HAXCON,11,17,0.68 
+2014,09,28,19:00,ESC,HAXCON,nuke,ESL Pro Series Poland Season 9,16,8,11,4,5,4,HAXCON,20,18,1.17 
+2014,09,21,18:30,31337,HAXCON,inferno,ESL Pro Series Poland Season 9,16,9,9,6,7,3,HAXCON,12,23,0.51 

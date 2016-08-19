@@ -1,0 +1,27 @@
+2016,04,29,19:00,ANOX,BinaryDragonsGold,train,StarLadder Minor CIS - Cologne..,16,2,13,2,3,0,Binary Dragons Gold,10,17,0.64 
+2016,04,29,19:00,BinaryDragonsGold,ANOX,mirage,StarLadder Minor CIS - Cologne..,8,16,5,10,3,6,Binary Dragons Gold,10,20,0.60 
+2016,04,29,17:30,Vesuvius,BinaryDragonsGold,dust2,StarLadder Minor CIS - Cologne..,4,16,4,11,0,5,Binary Dragons Gold,17,11,1.31 
+2016,04,28,13:15,ANOX,BinaryDragonsGold,cache,StarLadder Minor CIS - Cologne..,16,5,11,4,5,1,Binary Dragons Gold,8,18,0.49 
+2016,04,20,17:00,eXplosive,BinaryDragonsGold,dust2,StarLadder Regional Minor Cham..,16,8,7,8,9,0,Binary Dragons Gold,10,19,0.64 
+2016,04,20,17:00,BinaryDragonsGold,eXplosive,cache,StarLadder Regional Minor Cham..,1,16,1,14,0,2,Binary Dragons Gold,11,16,0.72 
+2015,05,14,21:30,7sway,USSR,cache,Uprise Champions Cup Season 2,14,16,6,9,8,7,7sway,28,25,1.17 
+2015,05,14,21:30,USSR,7sway,inferno,Uprise Champions Cup Season 2,16,10,9,6,7,4,7sway,20,22,1.01 
+2015,05,08,20:00,PiTER,7sway,mirage,Uprise Champions Cup Season 2,16,10,7,8,9,2,7sway,10,23,0.46 
+2015,05,08,20:00,7sway,PiTER,cache,Uprise Champions Cup Season 2,8,16,5,10,3,6,7sway,13,18,0.70 
+2014,09,19,17:00,OneShot,NatusVincere,season,SLTV StarSeries XI,6,16,3,12,3,4,OneShot,13,19,0.74 
+2014,09,18,18:00,ESC,OneShot,dust2,SLTV StarSeries XI,16,8,10,5,6,3,OneShot,14,20,0.70 
+2014,09,16,19:00,Virtus.pro,OneShot,mirage,SLTV StarSeries XI,16,1,14,1,2,0,OneShot,2,16,0.15 
+2014,09,16,18:00,CPHWolves,OneShot,dust2,SLTV StarSeries XI,16,3,12,3,4,0,OneShot,3,18,0.17 
+2014,09,15,20:00,OneShot,Titan,dust2,SLTV StarSeries XI,6,16,5,10,1,6,OneShot,8,19,0.44 
+2014,09,15,19:00,OverGaming,OneShot,inferno,SLTV StarSeries XI,16,9,12,3,4,6,OneShot,12,20,0.59 
+2014,09,14,22:40,dAT,OneShot,inferno,SLTV StarSeries XI,13,16,9,6,4,10,OneShot,16,18,0.87 
+2014,09,04,18:30,Faith,dAT,mirage,CIS Rising League Season 1,9,16,5,10,4,6,Faith,5,22,0.27 
+2014,09,04,18:30,Faith,dAT,inferno,CIS Rising League Season 1,10,16,5,10,5,6,Faith,14,19,0.85 
+2014,09,02,20:00,97club,Faith,nuke,CIS Rising League Season 1,16,0,15,0,1,0,Faith,7,15,0.49 
+2014,09,02,20:00,Faith,97club,mirage,CIS Rising League Season 1,10,16,4,11,6,5,Faith,10,20,0.55 
+2014,09,02,20:00,Faith,97club,dust2,CIS Rising League Season 1,21,19,8,7,7,8,Faith,30,30,1.00 
+2014,07,05,19:00,UNNAMED,Faith,season,CIS Rising League Season 1,7,16,6,9,1,7,Faith,21,11,1.44 
+2014,07,05,19:00,Faith,UNNAMED,mirage,CIS Rising League Season 1,16,11,9,6,7,5,Faith,21,16,1.11 
+2014,06,19,21:00,Faith,Nostalgie,cache,CIS Rising League Season 1,11,16,8,7,3,9,Faith,28,22,1.40 
+2014,06,19,21:00,Nostalgie,Faith,dust2,CIS Rising League Season 1,16,3,12,3,4,0,Faith,8,16,0.57 
+2014,06,19,21:00,Faith,Nostalgie,inferno,CIS Rising League Season 1,16,4,11,4,5,0,Faith,19,11,1.33 

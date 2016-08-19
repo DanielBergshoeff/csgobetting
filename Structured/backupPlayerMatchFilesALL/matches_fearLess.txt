@@ -1,0 +1,32 @@
+2015,12,07,22:00,EZskins.com,LondonC,inferno,Acer Predator Masters powered ..,16,12,10,5,6,7,EZskins.com,23,14,1.38 
+2015,12,07,22:00,LondonC,EZskins.com,overpass,Acer Predator Masters powered ..,16,3,13,2,3,1,EZskins.com,13,16,0.85 
+2015,11,21,18:00,Infused,EZskins.com,overpass,Gfinity CS:GO UK Championship ..,3,16,3,12,0,4,EZskins.com,12,7,1.10 
+2015,11,21,18:00,EZskins.com,Infused,inferno,Gfinity CS:GO UK Championship ..,16,7,11,4,5,3,EZskins.com,17,13,1.15 
+2015,11,21,18:00,EZskins.com,Infused,mirage,Gfinity CS:GO UK Championship ..,16,8,10,5,6,3,EZskins.com,11,17,0.65 
+2015,11,21,18:00,Infused,EZskins.com,cache,Gfinity CS:GO UK Championship ..,16,7,10,5,6,2,EZskins.com,12,17,0.75 
+2015,11,21,18:00,Infused,EZskins.com,train,Gfinity CS:GO UK Championship ..,16,14,9,6,7,8,EZskins.com,13,22,0.62 
+2015,11,12,22:15,PENTA,EZskins.com,cache,Acer Predator Masters powered ..,16,7,9,6,7,1,EZskins.com,3,22,0.14 
+2015,11,12,22:15,PENTA,EZskins.com,mirage,Acer Predator Masters powered ..,16,6,12,3,4,3,EZskins.com,10,19,0.54 
+2015,11,04,20:00,EZskins.com,E-frag.net,mirage,Acer Predator Masters powered ..,13,16,9,6,4,10,EZskins.com,21,21,1.03 
+2015,11,04,20:00,E-frag.net,EZskins.com,dust2,Acer Predator Masters powered ..,16,4,12,3,4,1,EZskins.com,7,18,0.37 
+2015,09,19,18:30,EZskins.com,dignitas,mirage,DreamHack Open London 2015,2,16,2,13,0,3,EZskins.com,8,18,0.50 
+2015,09,19,17:15,Renegades,EZskins.com,dust2,DreamHack Open London 2015,11,16,7,8,4,8,EZskins.com,20,17,1.09 
+2015,09,19,13:00,EZskins.com,EnVyUs,inferno,DreamHack Open London 2015,2,16,1,14,1,2,EZskins.com,11,15,0.68 
+2015,08,30,21:30,Choke,EZskins.com,overpass,Multiplay i55,11,16,7,8,4,8,EZskins.com,20,15,1.17 
+2015,08,30,21:30,EZskins.com,Choke,inferno,Multiplay i55,16,8,14,1,2,7,EZskins.com,26,12,1.68 
+2015,08,28,16:30,UnitedKingdom,Moldova,mirage,World Championships 2015 Europ..,16,4,11,4,5,0,United Kingdom,18,12,1.31 
+2015,08,28,16:30,Moldova,UnitedKingdom,dust2,World Championships 2015 Europ..,10,16,4,11,6,5,United Kingdom,15,18,0.93 
+2014,09,28,23:14,TheLoneRangers,Virtus.pro,cache,SLTV StarSeries XI,5,16,4,11,1,5,The Lone Rangers,9,19,0.46 
+2014,09,27,20:25,Epsilon,TheLoneRangers,cache,SLTV StarSeries XI,15,15,7,8,8,7,The Lone Rangers,22,20,0.98 
+2014,09,26,14:00,HellRaisers,TheLoneRangers,dust2,SLTV StarSeries XI,16,3,13,2,3,1,The Lone Rangers,11,18,0.68 
+2014,09,23,23:20,NiP,TheLoneRangers,cache,SLTV StarSeries XI,16,3,13,2,3,1,The Lone Rangers,19,18,1.24 
+2014,09,23,22:20,TheLoneRangers,A-Gaming,cache,SLTV StarSeries XI,16,7,11,4,5,3,The Lone Rangers,28,12,1.79 
+2014,09,19,23:29,Orbit,TheLoneRangers,dust2,SLTV StarSeries XI,8,16,7,8,1,8,The Lone Rangers,13,15,0.83 
+2014,09,19,19:09,TheLoneRangers,myXMG,dust2,SLTV StarSeries XI,8,16,3,12,5,4,The Lone Rangers,11,14,0.87 
+2014,09,16,22:00,LDLC,TheLoneRangers,dust2,SLTV StarSeries XI,16,4,11,4,5,0,The Lone Rangers,11,19,0.65 
+2014,08,28,22:11,Norway,Iceland,mirage,European Championship 2014 Qua..,16,3,12,3,4,0,Iceland,4,18,0.25 
+2014,08,28,22:00,Iceland,Norway,dust2,European Championship 2014 Qua..,8,16,6,9,2,7,Iceland,11,19,0.58 
+2014,08,26,21:30,UnitedKingdom,Malta,mirage,European Championship 2014 Qua..,16,0,15,0,1,0,United Kingdom,26,8,2.53 
+2014,08,26,21:30,Malta,UnitedKingdom,dust2,European Championship 2014 Qua..,2,16,2,13,0,3,United Kingdom,15,7,1.39 
+2014,08,16,19:00,Lithuania,Iceland,dust2,European Championship 2014 Qua..,6,16,4,11,2,5,Iceland,10,14,0.86 
+2014,08,16,19:00,Lithuania,Iceland,inferno,European Championship 2014 Qua..,12,16,9,6,3,10,Iceland,14,20,0.71 

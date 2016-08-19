@@ -1,0 +1,5 @@
+2016,07,19,12:00,Exile5,Chiefs,mirage,CyberGamer Oceania eSports Mas..,7,16,4,11,3,5,Exile5,7,20,0.39 
+2016,07,19,12:00,Exile5,Chiefs,cache,CyberGamer Oceania eSports Mas..,16,14,4,11,12,3,Exile5,12,23,0.58 
+2016,07,11,12:00,Exile5,Skyfire,dust2,CyberGamer Oceania eSports Mas..,9,16,4,11,5,5,Exile5,9,22,0.47 
+2016,07,11,12:00,Exile5,Skyfire,cobblestone,CyberGamer Oceania eSports Mas..,10,16,7,8,3,8,Exile5,13,21,0.64 
+2016,07,11,12:00,Skyfire,Exile5,cache,CyberGamer Oceania eSports Mas..,14,16,6,9,8,7,Exile5,19,22,0.92 

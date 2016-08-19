@@ -1,0 +1,43 @@
+2015,10,01,19:30,PlayingDucks,ESC,cache,QuickShot Arena #9,12,16,4,11,8,5,Playing Ducks,19,18,0.96 
+2015,10,01,18:15,EpiphanyBolt,PlayingDucks,mirage,QuickShot Arena #9,16,14,11,4,5,10,Playing Ducks,15,21,0.76 
+2015,09,29,20:00,PENTA,PlayingDucks,mirage,99Damage League Season 1,16,8,10,5,6,3,Playing Ducks,16,20,0.79 
+2015,09,29,20:00,PENTA,PlayingDucks,cobblestone,99Damage League Season 1,16,10,8,7,8,3,Playing Ducks,11,19,0.66 
+2015,09,23,19:00,PlayingDucks,Planetkey,mirage,99Damage League Season 1,19,16,9,6,6,9,Playing Ducks,23,24,0.94 
+2015,09,23,19:00,PlayingDucks,Planetkey,dust2,99Damage League Season 1,10,16,4,11,6,5,Playing Ducks,19,20,1.00 
+2015,09,16,21:00,EYESONU,PlayingDucks,dust2,99Damage League Season 1,16,6,10,5,6,1,Playing Ducks,8,20,0.43 
+2015,09,16,21:00,PlayingDucks,EYESONU,mirage,99Damage League Season 1,16,5,11,4,5,1,Playing Ducks,13,7,1.20 
+2015,09,02,23:15,SpaceSoldiers,PlayingDucks,mirage,QuickShot Arena #5,16,4,12,3,4,1,Playing Ducks,20,17,1.36 
+2015,09,02,21:30,Aposis,PlayingDucks,inferno,QuickShot Arena #5,16,8,9,6,7,2,Playing Ducks,10,19,0.57 
+2015,09,02,21:30,PlayingDucks,Aposis,mirage,QuickShot Arena #5,12,16,6,9,6,7,Playing Ducks,12,22,0.55 
+2015,09,02,19:00,PlayingDucks,KILLERFISH,mirage,99Damage League Season 1,11,16,7,8,4,8,Playing Ducks,19,18,0.95 
+2015,09,02,19:00,KILLERFISH,PlayingDucks,dust2,99Damage League Season 1,16,10,10,5,6,5,Playing Ducks,12,20,0.75 
+2015,08,29,20:30,E-frag.net,PlayingDucks,mirage,99Damage Arena #13,16,3,12,3,4,0,Playing Ducks,6,18,0.37 
+2015,08,29,20:30,E-frag.net,PlayingDucks,inferno,99Damage Arena #13,16,4,13,2,3,2,Playing Ducks,2,18,0.17 
+2015,08,29,18:00,KIYF,PlayingDucks,dust2,99Damage Arena #13,4,16,4,11,0,5,Playing Ducks,12,10,1.20 
+2015,08,29,18:00,PlayingDucks,KIYF,mirage,99Damage Arena #13,19,17,11,4,4,11,Playing Ducks,24,23,0.98 
+2015,08,25,21:45,Caseking,PlayingDucks,inferno,99Damage League Season 1,14,16,10,5,4,11,Playing Ducks,21,17,1.05 
+2015,08,25,21:45,PlayingDucks,Caseking,dust2,99Damage League Season 1,9,16,6,9,3,7,Playing Ducks,13,19,0.70 
+2015,08,17,21:00,PlayingDucks,k1ck,mirage,xfunction Masters Season III,14,16,8,7,6,9,Playing Ducks,16,23,0.71 
+2015,08,17,21:00,PlayingDucks,k1ck,inferno,xfunction Masters Season III,17,19,7,8,8,7,Playing Ducks,24,21,1.06 
+2015,08,05,19:30,PlayingDucks,uX,inferno,xfunction Masters Season III,12,16,6,9,6,7,Playing Ducks,17,18,0.86 
+2015,08,05,19:30,PlayingDucks,uX,cache,xfunction Masters Season III,7,16,2,13,5,3,Playing Ducks,22,17,1.29 
+2015,08,05,19:30,PlayingDucks,uX,dust2,xfunction Masters Season III,16,9,11,4,5,5,Playing Ducks,14,14,0.94 
+2015,07,28,20:00,PlayingDucks,EpiphanyBolt,cobblestone,xfunction Masters Season III,16,5,10,5,6,0,Playing Ducks,25,10,1.81 
+2015,07,28,20:00,PlayingDucks,EpiphanyBolt,dust2,xfunction Masters Season III,11,16,10,5,1,11,Playing Ducks,16,20,0.81 
+2015,05,26,18:00,PlayingDucks,Fraternitas,mirage,99Damage Arena #8,8,16,8,7,0,9,Playing Ducks,15,22,0.71 
+2015,05,26,18:00,Fraternitas,PlayingDucks,dust2,99Damage Arena #8,12,16,7,8,5,8,Playing Ducks,21,13,1.18 
+2015,05,26,18:00,Fraternitas,PlayingDucks,inferno,99Damage Arena #8,16,7,13,2,3,5,Playing Ducks,10,19,0.56 
+2014,08,01,22:20,PENTA,Recursive,inferno,ASUS ROG Summer 2014,20,22,8,7,7,8,PENTA,31,29,1.04 
+2014,08,01,21:20,Nostalgie,PENTA,nuke,ASUS ROG Summer 2014,16,5,12,3,4,2,PENTA,12,18,0.84 
+2014,08,01,20:00,MARVEL,PENTA,nuke,ASUS ROG Summer 2014,7,16,5,10,2,6,PENTA,22,11,1.43 
+2014,07,29,18:00,LDLC,Berzerk,dust2,SLTV StarSeries X,16,6,10,5,6,1,Berzerk,9,20,0.47 
+2014,07,28,20:00,Berzerk,NatusVincere,dust2,SLTV StarSeries X,11,16,9,6,2,10,Berzerk,21,23,0.92 
+2014,07,09,21:20,Reason,Berzerk,inferno,SLTV StarSeries X,16,9,10,5,6,4,Berzerk,18,19,0.89 
+2014,07,09,20:00,mousesports,Berzerk,dust2,SLTV StarSeries X,16,8,9,6,7,2,Berzerk,14,17,0.82 
+2014,07,09,19:00,Berzerk,Virtus.pro,inferno,SLTV StarSeries X,4,16,4,11,0,5,Berzerk,10,17,0.71 
+2014,07,09,18:00,Berzerk,fnatic,inferno,SLTV StarSeries X,4,16,4,11,0,5,Berzerk,11,16,0.80 
+2014,05,10,15:40,ALTERNATEaTTaX,WildFire,inferno,ESL Pro Series Germany Spring ..,14,16,8,7,6,9,ALTERNATE aTTaX,14,20,0.76 
+2014,05,10,15:40,WildFire,ALTERNATEaTTaX,dust2,ESL Pro Series Germany Spring ..,7,16,4,11,3,5,ALTERNATE aTTaX,21,12,1.48 
+2014,05,10,15:40,WildFire,ALTERNATEaTTaX,mirage,ESL Pro Series Germany Spring ..,16,13,9,6,7,7,ALTERNATE aTTaX,13,19,0.72 
+2014,04,18,21:00,ALTERNATEaTTaX,Titan,mirage,Copenhagen Games 2014,8,16,4,11,4,5,ALTERNATE aTTaX,11,18,0.64 
+2014,04,18,21:00,Titan,ALTERNATEaTTaX,dust2,Copenhagen Games 2014,16,9,9,6,7,3,ALTERNATE aTTaX,18,22,0.82 

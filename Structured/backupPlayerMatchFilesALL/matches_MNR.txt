@@ -1,0 +1,4 @@
+2015,08,31,22:15,Enso,VegaSquadron,mirage,Rising Tornado #4,12,16,11,4,1,12,Enso,15,22,0.66 
+2015,08,31,22:15,Enso,VegaSquadron,dust2,Rising Tornado #4,9,16,8,7,1,9,Enso,13,18,0.80 
+2015,08,28,20:00,hard'N'play,Enso,train,Rising Tornado #4,8,16,5,10,3,6,Enso,10,16,0.67 
+2015,08,28,20:00,Enso,hard'N'play,overpass,Rising Tornado #4,16,6,13,2,3,4,Enso,12,13,0.84 

@@ -1,0 +1,14 @@
+2016,08,07,15:00,DeToNator,m0nster,overpass,ESEA Open Season 22 Asia,16,12,7,8,9,4,m0nster,26,25,1.09 
+2016,08,07,15:00,m0nster,DeToNator,dust2,ESEA Open Season 22 Asia,9,16,3,12,6,4,m0nster,19,20,0.96 
+2016,08,07,15:00,m0nster,DeToNator,mirage,ESEA Open Season 22 Asia,19,15,8,7,7,8,m0nster,21,25,0.80 
+2016,08,04,13:00,Furious,m0nster,dust2,VSL Season 1,10,16,5,10,5,6,m0nster,19,19,0.96 
+2016,07,31,12:00,autocracy,m0nster,cobblestone,VSL Season 1,16,7,9,6,7,1,m0nster,15,19,0.81 
+2016,07,24,12:00,TheMongolz,m0nster,cobblestone,MixBOT Pro-League Golden,19,17,6,9,9,6,m0nster,32,22,1.33 
+2016,07,24,12:00,TheMongolz,m0nster,dust2,MixBOT Pro-League Golden,13,16,8,7,5,9,m0nster,18,20,0.91 
+2016,07,24,12:00,TheMongolz,m0nster,mirage,MixBOT Pro-League Golden,16,7,9,6,7,1,m0nster,10,18,0.59 
+2016,07,21,13:00,m0nster,v0rtex5	,train,VSL Season 1,11,16,8,7,3,9,m0nster,16,24,0.69 
+2016,07,10,11:00,MVPproject,m0nster,overpass,VSL Season 1,16,14,5,10,11,4,m0nster,25,22,1.07 
+2016,06,24,14:00,SouthKorea,Jordan,mirage,World Championships 2016 Asian..,12,16,8,7,4,9,South Korea,16,22,0.78 
+2016,06,24,14:00,Jordan,SouthKorea,cache,World Championships 2016 Asian..,16,11,7,8,9,3,South Korea,25,21,1.13 
+2016,06,24,14:00,Jordan,SouthKorea,cobblestone,World Championships 2016 Asian..,4,16,3,12,1,4,South Korea,20,13,1.38 
+2015,11,20,12:00,BLITZKRIEG,Airless,cache,D!ngIT & NCSC Korea S1 Qualifi..,17,19,5,10,10,5,BLITZKRIEG,17,28,0.66 

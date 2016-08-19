@@ -1,0 +1,5 @@
+2016,01,06,21:30,CG,HellRaisers,overpass,PGL Regional Minor Championshi..,16,6,10,5,6,1,CG,11,14,0.77 
+2016,01,06,21:30,HellRaisers,CG,mirage,PGL Regional Minor Championshi..,16,4,11,4,5,0,CG,16,17,0.94 
+2016,01,06,21:30,CG,HellRaisers,dust2,PGL Regional Minor Championshi..,16,12,9,6,7,6,CG,24,15,1.26 
+2015,12,04,21:30,KoNSweden,KoNDenmark,inferno,King of Nordic Season 2,16,12,10,5,6,7,KoN Denmark,27,19,1.30 
+2015,12,04,20:30,KoNDenmark,KoNNorway,dust2,King of Nordic Season 2,16,12,8,7,8,5,KoN Denmark,19,19,0.95 

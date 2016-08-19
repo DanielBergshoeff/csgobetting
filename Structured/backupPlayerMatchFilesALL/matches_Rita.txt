@@ -1,0 +1,25 @@
+2016,08,04,14:45,New4,FIVE,mirage,SL i-League S2 China Finals,16,3,12,3,4,0,FIVE,7,18,0.38 
+2016,08,04,14:45,New4,FIVE,cache,SL i-League S2 China Finals,16,5,11,4,5,1,FIVE,10,21,0.59 
+2016,07,30,12:15,FIVE,BornOfFire,cache,SL i-League S2 China Qualifier,16,13,5,10,11,3,FIVE,13,19,0.68 
+2016,07,30,12:15,FIVE,BornOfFire,mirage,SL i-League S2 China Qualifier,16,9,10,5,6,4,FIVE,20,15,1.20 
+2016,07,30,09:15,MasterGrade,FIVE,nuke,SL i-League S2 China Qualifier,7,16,3,12,4,4,FIVE,14,17,0.90 
+2016,07,30,09:15,FIVE,MasterGrade,train,SL i-League S2 China Qualifier,8,16,6,9,2,7,FIVE,14,19,0.68 
+2016,07,30,09:15,FIVE,MasterGrade,cache,SL i-League S2 China Qualifier,16,7,10,5,6,2,FIVE,18,12,1.15 
+2016,07,26,09:00,eFuture,FIVE,dust2,SL i-League S2 China Qualifier,14,16,5,10,9,6,FIVE,23,23,0.93 
+2016,07,26,09:00,FIVE,eFuture,mirage,SL i-League S2 China Qualifier,16,13,6,9,10,4,FIVE,18,21,0.88 
+2016,05,27,13:15,FIVE,VG.CyberZen,mirage,H-Cup Season 1,6,16,4,11,2,5,FIVE,11,17,0.71 
+2016,05,27,13:15,VG.CyberZen,FIVE,overpass,H-Cup Season 1,16,7,13,2,3,5,FIVE,14,17,0.90 
+2016,05,26,12:15,AllGamers,FIVE,cache,H-Cup Season 1,4,16,3,12,1,4,FIVE,13,12,0.96 
+2016,05,26,12:15,FIVE,AllGamers,mirage,H-Cup Season 1,16,8,11,4,5,4,FIVE,17,16,1.06 
+2016,04,24,15:30,FIVE,AllGamers,mirage,Pro Gamers League 2016 Spring,16,7,13,2,3,5,FIVE,14,15,0.89 
+2016,04,24,15:30,FIVE,AllGamers,inferno,Pro Gamers League 2016 Spring,16,8,8,7,8,1,FIVE,21,13,1.23 
+2016,04,24,15:30,AllGamers,FIVE,cache,Pro Gamers League 2016 Spring,16,11,8,7,8,4,FIVE,16,25,0.64 
+2016,04,24,09:00,TyLoo,FIVE,cache,Pro Gamers League 2016 Spring,16,11,6,9,10,2,FIVE,22,21,1.08 
+2016,04,24,09:00,FIVE,TyLoo,inferno,Pro Gamers League 2016 Spring,5,16,4,11,1,5,FIVE,18,17,1.15 
+2016,04,23,16:00,EDF,FIVE,inferno,Pro Gamers League 2016 Spring,3,16,3,12,0,4,FIVE,14,9,1.29 
+2016,04,23,16:00,FIVE,EDF,cache,Pro Gamers League 2016 Spring,16,1,14,1,2,0,FIVE,17,9,1.36 
+2015,12,18,08:30,Wings,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,3,12,3,4,0,Goalie,10,19,0.59 
+2015,12,18,08:30,Goalie,Wings,inferno,SL i-League StarSeries XIV Chi..,10,16,9,6,1,10,Goalie,13,22,0.61 
+2015,12,17,10:40,BornOfFire,Goalie,cache,SL i-League StarSeries XIV Chi..,16,7,11,4,5,3,Goalie,14,20,0.74 
+2015,12,17,10:40,BornOfFire,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,19,9,6,6,9,Goalie,22,26,0.87 
+2015,12,17,10:40,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV Chi..,12,16,10,5,2,11,Goalie,14,20,0.69 

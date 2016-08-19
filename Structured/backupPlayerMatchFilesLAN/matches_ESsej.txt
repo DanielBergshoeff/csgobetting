@@ -1,0 +1,9 @@
+2014,10,05,18:50,sAw'steam,naSu'steam,nuke,Areena #6 by ROCCAT,16,12,12,3,4,9,naSu's team,19,21,0.90 
+2014,10,05,17:35,fAlsu'steam,naSu'steam,cache,Areena #6 by ROCCAT,14,16,8,7,6,9,naSu's team,25,21,1.08 
+2014,10,05,16:45,naSu'steam,sAw'steam,mirage,Areena #6 by ROCCAT,14,16,12,3,2,13,naSu's team,16,23,0.70 
+2014,10,05,15:00,Twista'steam,naSu'steam,cache,Areena #6 by ROCCAT,13,16,8,7,5,9,naSu's team,22,18,1.12 
+2014,10,05,14:15,osku'steam,naSu'steam,cache,Areena #6 by ROCCAT,9,16,3,12,6,4,naSu's team,25,15,1.54 
+2014,10,05,13:20,naSu'steam,KIPSIk'steam,dust2,Areena #6 by ROCCAT,8,16,5,10,3,6,naSu's team,18,20,0.93 
+2014,10,05,12:20,fAlsu'steam,naSu'steam,dust2,Areena #6 by ROCCAT,16,13,8,7,8,6,naSu's team,23,19,1.22 
+2014,10,05,11:20,naSu'steam,sAw'steam,nuke,Areena #6 by ROCCAT,13,16,7,8,6,8,naSu's team,19,24,0.79 
+2014,10,05,09:35,juho'steam,naSu'steam,dust2,Areena #6 by ROCCAT,10,16,6,9,4,7,naSu's team,19,15,1.25 

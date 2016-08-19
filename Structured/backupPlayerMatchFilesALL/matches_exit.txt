@@ -1,0 +1,20 @@
+2016,08,12,04:35,BlackDragons,ProGaming,cache,Liga PRO GamersClub - JUL/16,16,10,11,4,5,6,ProGaming,12,20,0.64 
+2016,08,12,04:35,BlackDragons,ProGaming,dust2,Liga PRO GamersClub - JUL/16,19,17,5,10,10,5,ProGaming,25,24,1.03 
+2016,08,12,04:35,ProGaming,BlackDragons,mirage,Liga PRO GamersClub - JUL/16,16,5,12,3,4,2,ProGaming,22,9,1.59 
+2016,08,11,04:15,ProGaming,Innova,cache,Liga PRO GamersClub - JUL/16,16,9,7,8,9,1,ProGaming,23,18,1.46 
+2016,08,11,04:15,ProGaming,Innova,dust2,Liga PRO GamersClub - JUL/16,16,11,8,7,8,4,ProGaming,17,15,1.17 
+2016,08,11,04:15,Innova,ProGaming,train,Liga PRO GamersClub - JUL/16,19,17,4,11,11,4,ProGaming,35,24,1.34 
+2016,08,10,04:15,ProGaming,ExoticIsland,mirage,Liga PRO GamersClub - JUL/16,16,11,5,10,11,1,ProGaming,27,15,1.50 
+2016,08,10,04:15,ExoticIsland,ProGaming,train,Liga PRO GamersClub - JUL/16,6,16,6,9,0,7,ProGaming,17,14,1.10 
+2016,06,04,21:30,Innova,DaiDai,mirage,Liga PRO GamersClub - MAY/16,16,6,13,2,3,4,Dai Dai,11,21,0.53 
+2016,06,04,21:30,Innova,DaiDai,cache,Liga PRO GamersClub - MAY/16,19,15,3,12,12,3,Dai Dai,24,27,0.86 
+2016,06,04,21:30,DaiDai,Innova,cobblestone,Liga PRO GamersClub - MAY/16,16,11,11,4,5,7,Dai Dai,26,18,1.31 
+2016,05,14,16:15,cooL,neXtPlease!,mirage,PC Garage Clutch Masters by St..,2,16,2,13,0,3,cooL,8,17,0.51 
+2016,05,14,15:00,cooL,XPC,cache,PC Garage Clutch Masters by St..,9,16,4,11,5,5,cooL,16,18,0.93 
+2016,05,14,10:00,IGG,cooL,train,PC Garage Clutch Masters by St..,9,16,5,10,4,6,cooL,20,19,1.05 
+2016,04,24,03:20,CNB,Innova,cache,Rising Stars South America Pro..,12,16,8,7,4,9,Innova,28,16,1.54 
+2016,04,24,02:15,g3x,Innova,cobblestone,Rising Stars South America Pro..,12,16,8,7,4,9,Innova,17,18,0.94 
+2014,08,26,19:00,Romania,CzechRepublic,inferno,European Championship 2014 Qua..,14,16,8,7,6,9,Romania,12,21,0.60 
+2014,08,26,19:00,CzechRepublic,Romania,dust2,European Championship 2014 Qua..,16,9,8,7,8,2,Romania,12,18,0.70 
+2014,08,16,19:00,Romania,Montenegro,inferno,European Championship 2014 Qua..,16,8,9,6,7,2,Romania,25,16,1.38 
+2014,08,16,19:00,Romania,Montenegro,mirage,European Championship 2014 Qua..,16,4,11,4,5,0,Romania,16,11,1.18 

@@ -1,0 +1,22 @@
+2016,08,13,03:30,RemoBrave,Furious,inferno,ESEA Open Season 22 Brazil,16,12,10,5,6,7,Furious,15,20,0.74 
+2016,08,13,03:30,Furious,RemoBrave,cache,ESEA Open Season 22 Brazil,16,3,12,3,4,0,Furious,9,11,0.80 
+2016,08,13,03:30,RemoBrave,Furious,train,ESEA Open Season 22 Brazil,16,9,12,3,4,6,Furious,23,19,1.22 
+2016,08,11,03:45,Furious,Nocturns,mirage,GTL Tecnofields 2016,11,16,4,11,7,5,Furious,8,24,0.38 
+2016,08,11,03:45,Furious,Nocturns,cobblestone,GTL Tecnofields 2016,16,11,11,4,5,7,Furious,20,15,1.09 
+2016,08,11,03:45,Nocturns,Furious,overpass,GTL Tecnofields 2016,16,12,7,8,9,4,Furious,9,19,0.57 
+2016,08,10,03:10,Furious,semXorah,dust2,ESEA Open Season 22 Brazil,16,11,8,7,8,4,Furious,16,17,0.99 
+2016,08,10,03:10,Furious,semXorah,mirage,ESEA Open Season 22 Brazil,16,7,8,7,8,0,Furious,12,13,0.82 
+2016,06,09,01:00,INTZ,Furious,cobblestone,Razer Rising Stars South Ameri..,16,12,11,4,5,8,Furious,13,21,0.65 
+2016,06,09,01:00,Furious,INTZ,cache,Razer Rising Stars South Ameri..,7,16,4,11,3,5,Furious,9,19,0.52 
+2016,06,03,02:00,Furious,CNB,cache,Razer Rising Stars South Ameri..,3,16,3,12,0,4,Furious,8,17,0.50 
+2016,06,03,02:00,Furious,CNB,mirage,Razer Rising Stars South Ameri..,16,7,12,3,4,4,Furious,18,13,1.21 
+2016,06,02,02:00,Furious,2Kill,cobblestone,Razer Rising Stars South Ameri..,8,16,6,9,2,7,Furious,13,20,0.76 
+2016,06,02,02:00,2Kill,Furious,dust2,Razer Rising Stars South Ameri..,14,16,5,10,9,6,Furious,24,21,1.11 
+2016,05,26,03:15,Furious,Supernova,cache,Razer Rising Stars South Ameri..,16,12,9,6,7,6,Furious,19,15,1.09 
+2016,05,26,03:15,Furious,Supernova,mirage,Razer Rising Stars South Ameri..,14,16,8,7,6,9,Furious,17,23,0.76 
+2016,05,25,02:30,BigGods,Furious,cache,Razer Rising Stars South Ameri..,16,7,8,7,8,0,Furious,15,18,0.80 
+2016,05,25,02:30,BigGods,Furious,mirage,Razer Rising Stars South Ameri..,9,16,6,9,3,7,Furious,15,15,0.92 
+2016,05,21,00:15,Innova,Furious,mirage,Razer Rising Stars South Ameri..,16,6,9,6,7,0,Furious,10,21,0.47 
+2016,05,21,00:15,Innova,Furious,train,Razer Rising Stars South Ameri..,16,3,14,1,2,2,Furious,7,17,0.42 
+2016,05,19,02:35,g3x,Furious,dust2,Razer Rising Stars South Ameri..,16,8,12,3,4,5,Furious,17,16,1.08 
+2016,05,19,02:35,g3x,Furious,cache,Razer Rising Stars South Ameri..,16,7,9,6,7,1,Furious,13,19,0.66 

@@ -1,0 +1,10 @@
+2015,09,16,22:30,Netherlands,Hungary,mirage,World Championships 2015 Europ..,16,13,7,8,9,5,Netherlands,23,20,1.08 
+2015,09,16,21:30,France,Netherlands,cobblestone,World Championships 2015 Europ..,16,10,7,8,9,2,Netherlands,15,20,0.78 
+2015,09,16,17:30,Ukraine,Netherlands,dust2,World Championships 2015 Europ..,15,15,7,8,8,7,Netherlands,17,22,0.83 
+2015,05,12,21:30,PiTER,Orbit,cobblestone,99Damage Arena #7,16,19,9,6,6,9,Orbit,5,4,1.06 
+2014,11,07,20:30,Sweden,Netherlands,dust2,European Championship 2014,16,11,13,2,3,9,Netherlands,11,20,0.64 
+2014,11,07,20:30,Netherlands,Sweden,mirage,European Championship 2014,4,16,4,11,0,5,Netherlands,6,17,0.40 
+2014,10,15,22:00,Ukraine,Netherlands,dust2,European Championship 2014,11,16,6,9,5,7,Netherlands,16,16,0.94 
+2014,10,12,20:25,Netherlands,Bosnia&Herzegovina,mirage,European Championship 2014,16,2,13,2,3,0,Netherlands,5,7,0.76 
+2014,10,11,19:00,Netherlands,Kazakhstan,dust2,European Championship 2014,16,8,8,7,8,1,Netherlands,13,15,0.90 
+2014,09,04,21:00,Hungary,Netherlands,mirage,European Championship 2014,13,16,7,8,6,8,Netherlands,18,20,0.89 

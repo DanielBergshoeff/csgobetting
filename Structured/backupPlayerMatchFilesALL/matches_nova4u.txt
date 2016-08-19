@@ -1,0 +1,8 @@
+2016,07,28,13:00,New4,Replays.net,cache,SL i-League S2 China Qualifier,16,10,10,5,6,5,Replays.net,13,21,0.62 
+2016,07,28,13:00,Replays.net,New4,dust2,SL i-League S2 China Qualifier,14,16,6,9,8,7,Replays.net,19,26,0.73 
+2016,07,28,09:15,5POWER,Replays.net,mirage,SL i-League S2 China Qualifier,16,13,11,4,5,9,Replays.net,13,22,0.61 
+2016,07,28,09:15,5POWER,Replays.net,cache,SL i-League S2 China Qualifier,4,16,1,14,3,2,Replays.net,13,9,1.14 
+2016,07,28,09:15,Replays.net,5POWER,dust2,SL i-League S2 China Qualifier,9,16,3,12,6,4,Replays.net,12,19,0.69 
+2016,07,19,12:00,Replays.net,HG,train,SL i-League S2 China Qualifier,13,16,8,7,5,9,Replays.net,23,19,1.12 
+2016,07,19,12:00,Replays.net,HG,dust2,SL i-League S2 China Qualifier,16,8,10,5,6,3,Replays.net,20,13,1.24 
+2016,07,19,12:00,Replays.net,HG,cache,SL i-League S2 China Qualifier,19,22,4,11,11,4,Replays.net,22,28,0.82 

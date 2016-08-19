@@ -1,0 +1,8 @@
+2014,12,07,00:55,iBUYPOWER,Titan,inferno,ESEA Invite Season 17 Global F..,19,16,8,7,7,8,Titan,20,27,0.85 
+2014,12,07,00:55,iBUYPOWER,Titan,season,ESEA Invite Season 17 Global F..,16,10,7,8,9,2,Titan,10,20,0.51 
+2014,12,07,00:55,Titan,iBUYPOWER,cache,ESEA Invite Season 17 Global F..,16,11,12,3,4,8,Titan,20,19,1.08 
+2014,12,06,17:30,fnatic,Titan,inferno,ESEA Invite Season 17 Global F..,19,16,11,4,4,11,Titan,17,23,0.69 
+2014,12,06,17:30,fnatic,Titan,nuke,ESEA Invite Season 17 Global F..,16,12,11,4,5,8,Titan,16,19,0.84 
+2014,12,06,17:30,Titan,fnatic,cache,ESEA Invite Season 17 Global F..,16,13,8,7,8,6,Titan,17,18,0.91 
+2014,12,06,01:45,Denial,Titan,mirage,ESEA Invite Season 17 Global F..,12,16,7,8,5,8,Titan,13,18,0.78 
+2014,12,06,01:45,Titan,Denial,inferno,ESEA Invite Season 17 Global F..,22,19,10,5,5,10,Titan,15,27,0.61 

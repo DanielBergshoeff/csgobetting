@@ -1,0 +1,7 @@
+2015,08,12,18:30,Cyprus,Croatia,inferno,World Championships 2015 Europ..,10,16,5,10,5,6,Cyprus,16,19,0.82 
+2015,08,12,18:30,Croatia,Cyprus,cache,World Championships 2015 Europ..,16,13,9,6,7,7,Cyprus,20,22,0.89 
+2015,08,12,18:30,Croatia,Cyprus,dust2,World Championships 2015 Europ..,12,16,5,10,7,6,Cyprus,21,14,1.24 
+2014,08,29,20:00,Cyprus,Ukraine,dust2,European Championship 2014 Qua..,3,16,1,14,2,2,Cyprus,4,17,0.29 
+2014,08,29,20:00,Ukraine,Cyprus,mirage,European Championship 2014 Qua..,16,4,11,4,5,0,Cyprus,11,19,0.56 
+2014,08,13,20:00,Israel,Cyprus,dust2,European Championship 2014 Qua..,10,16,8,7,2,9,Cyprus,21,15,1.29 
+2014,08,13,20:00,Israel,Cyprus,inferno,European Championship 2014 Qua..,14,16,8,7,6,9,Cyprus,28,18,1.49 

@@ -1,0 +1,9 @@
+2016,07,12,13:15,Singapore,Philippines,cache,World Championships 2016 Asian..,16,7,10,5,6,2,Philippines,15,22,0.73 
+2016,07,12,11:00,Vietnam,Philippines,mirage,World Championships 2016 Asian..,16,5,11,4,5,1,Philippines,9,18,0.56 
+2016,07,01,14:00,Philippines,Jordan,dust2,World Championships 2016 Asian..,16,7,13,2,3,5,Philippines,13,14,0.99 
+2016,07,01,14:00,Jordan,Philippines,cache,World Championships 2016 Asian..,16,2,14,1,2,1,Philippines,3,15,0.28 
+2016,07,01,14:00,Philippines,Jordan,mirage,World Championships 2016 Asian..,16,3,13,2,3,1,Philippines,22,12,1.60 
+2016,06,09,12:15,Expendables,Signature,cache,MixBOT Pro-League Golden,10,16,4,11,6,5,Expendables,14,18,0.86 
+2016,06,09,12:15,Expendables,Signature,dust2,MixBOT Pro-League Golden,14,16,7,8,7,8,Expendables,19,24,0.83 
+2016,02,21,17:00,Threats,Expendables,inferno,Born To Win Invitational Leagu..,16,12,13,2,3,10,Expendables,28,21,1.37 
+2016,02,21,14:00,J2G,Expendables,dust2,Born To Win Invitational Leagu..,19,17,2,13,13,2,Expendables,32,26,1.31 

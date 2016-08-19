@@ -1,0 +1,15 @@
+2015,11,15,19:45,myXMGStaff,HLTV.orgStaff,dust2,Virtus.pro Staff Cup #3,16,14,5,10,11,4,myXMG Staff,23,22,0.99 
+2015,11,15,19:45,myXMGStaff,HLTV.orgStaff,mirage,Virtus.pro Staff Cup #3,7,16,5,10,2,6,myXMG Staff,14,18,0.81 
+2015,11,15,19:45,myXMGStaff,HLTV.orgStaff,cache,Virtus.pro Staff Cup #3,16,13,5,10,11,3,myXMG Staff,24,19,1.33 
+2015,11,15,16:30,NoobTubers,myXMGStaff,mirage,Virtus.pro Staff Cup #3,18,22,12,3,3,12,myXMG Staff,31,29,1.06 
+2015,11,15,16:30,myXMGStaff,NoobTubers,dust2,Virtus.pro Staff Cup #3,11,16,5,10,6,6,myXMG Staff,16,21,0.85 
+2015,11,15,16:30,NoobTubers,myXMGStaff,cache,Virtus.pro Staff Cup #3,11,16,7,8,4,8,myXMG Staff,25,17,1.25 
+2015,11,15,13:30,HLTV.orgStaff,myXMGStaff,inferno,Virtus.pro Staff Cup #3,16,5,11,4,5,1,myXMG Staff,11,16,0.71 
+2015,11,15,13:30,myXMGStaff,HLTV.orgStaff,cache,Virtus.pro Staff Cup #3,32,34,8,7,7,8,myXMG Staff,51,50,0.99 
+2015,11,14,13:30,myXMGStaff,NoobTubers,inferno,Virtus.pro Staff Cup #3,16,10,10,5,6,5,myXMG Staff,18,16,1.07 
+2015,11,14,13:30,myXMGStaff,NoobTubers,mirage,Virtus.pro Staff Cup #3,19,17,10,5,5,10,myXMG Staff,29,24,1.11 
+2015,11,13,18:30,Na`ViStaff,myXMGStaff,inferno,Virtus.pro Staff Cup #3,7,16,4,11,3,5,myXMG Staff,16,15,1.07 
+2015,11,13,18:30,myXMGStaff,Na`ViStaff,cache,Virtus.pro Staff Cup #3,16,3,12,3,4,0,myXMG Staff,21,12,1.74 
+2015,11,13,18:30,myXMGStaff,Na`ViStaff,cobblestone,Virtus.pro Staff Cup #3,10,16,4,11,6,5,myXMG Staff,22,18,1.23 
+2015,11,08,11:00,Fragbite.seStaff,myXMGStaff,dust2,Virtus.pro Staff Cup #3,13,16,6,9,7,7,myXMG Staff,25,23,1.09 
+2015,11,08,11:00,Fragbite.seStaff,myXMGStaff,cache,Virtus.pro Staff Cup #3,11,16,7,8,4,8,myXMG Staff,19,18,0.99 

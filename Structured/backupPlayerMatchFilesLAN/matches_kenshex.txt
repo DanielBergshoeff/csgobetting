@@ -1,0 +1,3 @@
+2016,01,10,15:00,AlienTech,g3x,inferno,MAX5 Invitational,16,7,14,1,2,6,g3x,14,19,0.78 
+2016,01,10,15:00,g3x,AlienTech,dust2,MAX5 Invitational,19,16,7,8,8,7,g3x,24,26,0.88 
+2016,01,10,15:00,g3x,AlienTech,mirage,MAX5 Invitational,14,16,4,11,10,5,g3x,18,22,0.97 

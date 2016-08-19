@@ -1,0 +1,6 @@
+2016,08,02,13:30,Taiwanz,Signature,cache,E-Sports Festival CS:GO Tourna..,3,16,3,12,0,4,Taiwanz,4,16,0.30 
+2016,08,02,13:30,Signature,Taiwanz,mirage,E-Sports Festival CS:GO Tourna..,16,9,11,4,5,5,Taiwanz,11,21,0.54 
+2016,06,27,15:00,Taiwan,HongKong,cache,World Championships 2016 Asian..,4,16,4,11,0,5,Taiwan,5,19,0.31 
+2016,06,27,15:00,HongKong,Taiwan,mirage,World Championships 2016 Asian..,16,6,9,6,7,0,Taiwan,10,19,0.54 
+2016,06,22,14:00,Bahrain,Taiwan,mirage,World Championships 2016 Asian..,2,16,2,13,0,3,Taiwan,14,6,1.39 
+2016,06,22,14:00,Taiwan,Bahrain,cache,World Championships 2016 Asian..,16,7,12,3,4,4,Taiwan,16,14,1.08 

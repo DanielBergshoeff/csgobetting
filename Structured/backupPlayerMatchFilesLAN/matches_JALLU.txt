@@ -1,0 +1,19 @@
+2015,12,20,13:00,SkitLite,Torpedo,mirage,ESL Nordic Nationals Winter 20..,11,16,5,10,6,6,SkitLite,27,16,1.62 
+2015,12,20,13:00,SkitLite,Torpedo,cache,ESL Nordic Nationals Winter 20..,14,16,3,12,11,4,SkitLite,17,23,0.74 
+2015,12,19,20:55,SkitLite,demise,mirage,ESL Nordic Nationals Winter 20..,16,9,9,6,7,3,SkitLite,17,20,0.82 
+2015,12,19,14:55,SkitLite,NoProblem!,mirage,ESL Nordic Nationals Winter 20..,11,16,9,6,2,10,SkitLite,12,23,0.58 
+2015,10,30,11:00,SkitLite,RCTIC,mirage,ASUS ROG Nordic Challenge,12,16,6,9,6,7,SkitLite,18,20,1.00 
+2015,10,30,11:00,RCTIC,SkitLite,train,ASUS ROG Nordic Challenge,16,7,11,4,5,3,SkitLite,10,19,0.61 
+2015,07,30,20:00,SkitLite,ROCCAT,cache,Assembly Summer 2015 AMD CS:GO..,8,16,5,10,3,6,SkitLite,12,17,0.75 
+2015,07,30,18:00,KappaKappa,SkitLite,cache,Assembly Summer 2015 AMD CS:GO..,11,16,8,7,3,9,SkitLite,22,16,1.19 
+2015,07,30,16:00,SkitLite,eBettle,cobblestone,Assembly Summer 2015 AMD CS:GO..,8,16,4,11,4,5,SkitLite,14,18,0.79 
+2014,10,05,00:00,Jynttä,Hanatauki,dust2,Areena #5 by ROCCAT,16,12,10,5,6,7,Jynttä,26,15,1.49 
+2014,10,05,00:00,Hanatauki,Jynttä,cache,Areena #5 by ROCCAT,9,16,5,10,4,6,Jynttä,17,18,0.89 
+2014,10,04,22:50,ROTY,Jynttä,mirage,Areena #5 by ROCCAT,16,12,9,6,7,6,Jynttä,16,23,0.79 
+2014,10,04,22:50,Jynttä,ROTY,nuke,Areena #5 by ROCCAT,5,16,4,11,1,5,Jynttä,18,17,1.04 
+2014,10,04,16:40,Jynttä,Superstars,mirage,Areena #5 by ROCCAT,16,14,5,10,11,4,Jynttä,26,18,1.24 
+2014,10,04,15:00,ROTY,Jynttä,mirage,Areena #5 by ROCCAT,15,15,9,6,6,9,Jynttä,17,25,0.69 
+2014,10,04,14:00,GLSHAKER,Jynttä,inferno,Areena #5 by ROCCAT,13,16,9,6,4,10,Jynttä,24,20,1.16 
+2014,10,04,12:00,Jynttä,Menace,dust2,Areena #5 by ROCCAT,9,16,7,8,2,8,Jynttä,22,16,1.27 
+2014,10,04,11:00,Hanatauki,Jynttä,mirage,Areena #5 by ROCCAT,10,16,4,11,6,5,Jynttä,19,18,1.06 
+2014,10,04,10:00,Jynttä,myMDL,inferno,Areena #5 by ROCCAT,16,7,11,4,5,3,Jynttä,19,15,1.07 

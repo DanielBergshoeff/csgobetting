@@ -1,0 +1,36 @@
+2016,02,14,01:30,CLG,PotatoStreamers,cache,IEM Katowice 2016 NA Qualifier,16,5,11,4,5,1,Potato Streamers,10,15,0.69 
+2015,11,25,04:30,Noble,SKDC,inferno,SL i-League StarSeries XIV,8,16,6,9,2,7,Noble,17,19,0.98 
+2015,11,25,04:30,Noble,SKDC,mirage,SL i-League StarSeries XIV,7,16,3,12,4,4,Noble,19,17,1.05 
+2015,11,25,04:30,Noble,SKDC,overpass,SL i-League StarSeries XIV,22,18,7,8,8,7,Noble,47,25,1.64 
+2015,11,13,04:00,Noble,Winterfox,cobblestone,SL i-League StarSeries XIV,9,16,8,7,1,9,Noble,21,17,1.24 
+2015,11,13,04:00,Winterfox,Noble,cache,SL i-League StarSeries XIV,7,16,6,9,1,7,Noble,17,11,1.27 
+2015,11,13,04:00,Winterfox,Noble,dust2,SL i-League StarSeries XIV,16,10,9,6,7,4,Noble,14,21,0.70 
+2015,11,05,04:00,compLexity,Noble,cache,SL i-League StarSeries XIV,19,16,8,7,7,8,Noble,19,29,0.69 
+2015,11,05,04:00,compLexity,Noble,cobblestone,SL i-League StarSeries XIV,16,12,7,8,9,4,Noble,18,21,0.84 
+2015,05,08,04:00,SYNRGY,Luminosity,overpass,ESL ESEA Pro League Season 1,9,16,5,10,4,6,Luminosity,15,15,0.99 
+2015,05,08,01:00,Luminosity,Liquid,dust2,CEVO Professional Season 7,16,13,5,10,11,3,Luminosity,23,20,1.06 
+2015,05,08,01:00,Liquid,Luminosity,cache,CEVO Professional Season 7,16,6,10,5,6,1,Luminosity,13,17,0.84 
+2015,05,07,05:00,CLG,Luminosity,dust2,ESL ESEA Pro League Season 1,16,7,11,4,5,3,Luminosity,15,19,0.84 
+2015,05,07,04:00,Liquid,Luminosity,cache,ESL ESEA Pro League Season 1,8,16,7,8,1,8,Luminosity,24,14,1.54 
+2015,05,06,04:15,Method,Luminosity,inferno,CEVO Professional Season 7,9,16,6,9,3,7,Luminosity,23,12,1.45 
+2015,05,06,04:15,Luminosity,Method,mirage,CEVO Professional Season 7,16,5,12,3,4,2,Luminosity,18,14,1.18 
+2015,05,05,02:00,Luminosity,Paradox,inferno,ESL ESEA Pro League Season 1,16,7,13,2,3,5,Luminosity,15,11,1.07 
+2015,05,01,02:00,Cloud9,Luminosity,inferno,CEVO Professional Season 7,3,16,3,12,0,4,Luminosity,13,9,1.09 
+2015,05,01,02:00,Luminosity,Cloud9,cache,CEVO Professional Season 7,12,16,8,7,4,9,Luminosity,13,20,0.68 
+2015,04,18,17:00,CLG,Luminosity,dust2,ESEA Invite Season 18 Global F..,16,8,11,4,5,4,Luminosity,15,17,0.91 
+2015,04,18,17:00,CLG,Luminosity,mirage,ESEA Invite Season 18 Global F..,16,5,12,3,4,2,Luminosity,11,18,0.60 
+2015,04,17,19:00,Titan,Luminosity,cache,ESEA Invite Season 18 Global F..,19,16,11,4,4,11,Luminosity,14,24,0.64 
+2015,04,17,19:00,Titan,Luminosity,mirage,ESEA Invite Season 18 Global F..,16,7,13,2,3,5,Luminosity,6,18,0.40 
+2015,04,15,03:35,Luminosity,eLevate,cache,CEVO Professional Season 6 LAN..,11,16,7,8,4,8,Luminosity,18,20,0.85 
+2015,04,15,03:35,eLevate,Luminosity,inferno,CEVO Professional Season 6 LAN..,16,2,13,2,3,0,Luminosity,10,17,0.69 
+2015,04,14,04:00,Luminosity,Nihilum,dust2,CEVO Professional Season 6 LAN..,9,16,6,9,3,7,Luminosity,16,19,0.89 
+2015,04,14,04:00,Luminosity,Nihilum,cache,CEVO Professional Season 6 LAN..,7,16,6,9,1,7,Luminosity,10,18,0.57 
+2015,04,03,05:30,SKDC,Mythic,inferno,FACEIT League 2015 Stage 1,16,4,14,1,2,3,Mythic,10,18,0.70 
+2015,04,01,03:00,Cloud9,Mythic,cache,FACEIT League 2015 Stage 1,16,8,12,3,4,5,Mythic,12,19,0.71 
+2015,03,27,04:00,CLG,Mythic,mirage,FACEIT League 2015 Stage 1,16,8,9,6,7,2,Mythic,17,19,0.83 
+2015,03,25,03:30,Liquid,Mythic,mirage,FACEIT League 2015 Stage 1,16,3,12,3,4,0,Mythic,11,17,0.69 
+2015,03,20,03:15,CLG,Mythic,mirage,FACEIT League 2015 Stage 1,16,13,8,7,8,6,Mythic,17,20,0.92 
+2015,02,25,04:20,Mythic,Liquid,inferno,FACEIT League 2015 Stage 1,12,16,11,4,1,12,Mythic,14,15,0.94 
+2015,02,20,05:35,Mythic,SKDC,overpass,FACEIT League 2015 Stage 1,13,16,5,10,8,6,Mythic,23,20,1.12 
+2015,02,19,03:00,Cloud9,Mythic,dust2,FACEIT League 2015 Stage 1,16,13,5,10,11,3,Mythic,22,15,1.27 
+2014,08,26,03:00,RELiABLE,Mobility,cache,FACEIT League 2 NA Closed Qual..,3,16,3,12,0,4,RELiABLE,13,16,0.85 

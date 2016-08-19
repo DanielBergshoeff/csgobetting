@@ -1,0 +1,47 @@
+2016,08,10,19:00,Bulgaria,Switzerland,overpass,World Championships 2016 Europ..,16,3,14,1,2,2,Bulgaria,14,10,1.15 
+2016,08,10,19:00,Bulgaria,Switzerland,mirage,World Championships 2016 Europ..,15,19,9,6,6,9,Bulgaria,26,24,0.98 
+2016,08,10,19:00,Switzerland,Bulgaria,cache,World Championships 2016 Europ..,6,16,6,9,0,7,Bulgaria,20,10,1.49 
+2016,08,07,15:35,passions,HEADSHOTBG,mirage,ECS Season 2 EU Open Qualifier..,16,6,10,5,6,1,HEADSHOTBG,21,16,1.28 
+2015,08,27,15:00,Bulgaria,Latvia,cache,World Championships 2015 Europ..,8,16,2,13,6,3,Bulgaria,10,21,0.50 
+2015,08,27,15:00,Latvia,Bulgaria,inferno,World Championships 2015 Europ..,19,17,10,5,5,10,Bulgaria,25,30,0.83 
+2015,06,24,20:00,XPC,HEADSHOTBG,cobblestone,Balkan Championship Season 2,11,16,5,10,6,6,HEADSHOTBG,13,19,0.69 
+2015,06,24,20:00,HEADSHOTBG,XPC,overpass,Balkan Championship Season 2,13,16,10,5,3,11,HEADSHOTBG,14,21,0.73 
+2015,06,24,20:00,XPC,HEADSHOTBG,cache,Balkan Championship Season 2,11,16,8,7,3,9,HEADSHOTBG,14,20,0.80 
+2015,05,25,21:30,HEADSHOTBG,TRICKED,mirage,Balkan Championship Season 2,16,6,13,2,3,4,HEADSHOTBG,20,13,1.36 
+2015,05,25,21:30,HEADSHOTBG,TRICKED,cobblestone,Balkan Championship Season 2,16,7,10,5,6,2,HEADSHOTBG,18,16,1.05 
+2015,05,25,21:30,HEADSHOTBG,TRICKED,inferno,Balkan Championship Season 2,8,16,8,7,0,9,HEADSHOTBG,17,18,0.99 
+2015,05,18,20:30,TRICKED,HEADSHOTBG,inferno,Balkan Superleague,16,1,14,1,2,0,HEADSHOTBG,8,16,0.44 
+2015,05,18,20:30,HEADSHOTBG,TRICKED,cache,Balkan Superleague,14,16,11,4,3,12,HEADSHOTBG,23,22,1.09 
+2015,05,18,18:15,MiA,HEADSHOTBG,inferno,Balkan Championship Season 2,9,16,7,8,2,8,HEADSHOTBG,10,15,0.71 
+2015,05,18,18:15,MiA,HEADSHOTBG,mirage,Balkan Championship Season 2,3,16,3,12,0,4,HEADSHOTBG,20,12,1.39 
+2015,05,04,22:15,GPlay,HEADSHOTBG,overpass,Balkan Superleague,16,5,13,2,3,3,HEADSHOTBG,7,19,0.38 
+2015,05,04,21:10,HEADSHOTBG,RB,inferno,Balkan Superleague,11,16,3,12,8,4,HEADSHOTBG,12,24,0.53 
+2015,05,04,20:20,HEADSHOTBG,GIANT5,inferno,Balkan Superleague,16,5,11,4,5,1,HEADSHOTBG,12,13,0.84 
+2015,04,29,20:20,HEADSHOTBG,SpaceSoldiers,cache,ESL South East Europe Champion..,11,16,6,9,5,7,HEADSHOTBG,15,22,0.70 
+2015,04,29,20:20,HEADSHOTBG,SpaceSoldiers,mirage,ESL South East Europe Champion..,7,16,6,9,1,7,HEADSHOTBG,14,20,0.82 
+2015,04,29,20:20,HEADSHOTBG,SpaceSoldiers,cobblestone,ESL South East Europe Champion..,16,8,9,6,7,2,HEADSHOTBG,22,17,1.32 
+2015,04,26,17:35,TRICKED,HEADSHOTBG,cache,ESL South East Europe Champion..,12,16,5,10,7,6,HEADSHOTBG,18,18,0.89 
+2015,04,26,17:35,TRICKED,HEADSHOTBG,cobblestone,ESL South East Europe Champion..,21,18,9,6,6,9,HEADSHOTBG,31,26,1.22 
+2015,04,26,17:35,HEADSHOTBG,TRICKED,inferno,ESL South East Europe Champion..,16,14,12,3,4,11,HEADSHOTBG,20,20,1.16 
+2015,04,25,17:10,HEADSHOTBG,KILLERFISH,mirage,Acer Predator Masters powered ..,10,16,10,5,0,11,HEADSHOTBG,22,22,1.17 
+2015,04,23,21:45,HEADSHOTBG,MASSACRE-ZONE,cache,ESL South East Europe Champion..,16,5,13,2,3,3,HEADSHOTBG,23,12,1.60 
+2015,04,23,21:45,MASSACRE-ZONE,HEADSHOTBG,cobblestone,ESL South East Europe Champion..,4,16,4,11,0,5,HEADSHOTBG,16,9,1.29 
+2015,04,19,18:00,Rock,HEADSHOTBG,inferno,ESL South East Europe Champion..,11,16,8,7,3,9,HEADSHOTBG,27,13,1.54 
+2015,04,19,18:00,Rock,HEADSHOTBG,cobblestone,ESL South East Europe Champion..,4,16,3,12,1,4,HEADSHOTBG,20,7,1.77 
+2015,04,19,18:00,Rock,HEADSHOTBG,cache,ESL South East Europe Champion..,16,8,12,3,4,5,HEADSHOTBG,20,18,1.12 
+2015,04,18,21:00,neXtPlease!,HEADSHOTBG,cache,ESL South East Europe Champion..,6,16,3,12,3,4,HEADSHOTBG,21,12,1.35 
+2015,04,18,21:00,neXtPlease!,HEADSHOTBG,inferno,ESL South East Europe Champion..,11,16,8,7,3,9,HEADSHOTBG,20,19,1.01 
+2015,04,18,18:00,HEADSHOTBG,GPlay,inferno,D!ngIT CS:GO $1000 Invitationa..,13,16,8,7,5,9,HEADSHOTBG,18,21,0.80 
+2015,04,18,18:00,HEADSHOTBG,GPlay,cache,D!ngIT CS:GO $1000 Invitationa..,2,16,2,13,0,3,HEADSHOTBG,11,18,0.64 
+2015,04,15,22:00,TRICKED,HEADSHOTBG,cache,Balkan Superleague,11,16,6,9,5,7,HEADSHOTBG,15,18,0.76 
+2015,04,15,21:15,Rock,HEADSHOTBG,inferno,Balkan Superleague,11,16,10,5,1,11,HEADSHOTBG,23,16,1.22 
+2014,05,25,23:00,iNation,HEADSHOTBG,inferno,Gaming Challenge 2014,22,20,13,2,2,13,HEADSHOTBG,27,25,1.05 
+2014,05,25,23:00,iNation,HEADSHOTBG,mirage,Gaming Challenge 2014,12,16,7,8,5,8,HEADSHOTBG,11,21,0.62 
+2014,05,25,23:00,HEADSHOTBG,iNation,nuke,Gaming Challenge 2014,12,16,10,5,2,11,HEADSHOTBG,24,19,1.14 
+2014,05,25,18:00,volgare,HEADSHOTBG,nuke,Gaming Challenge 2014,13,16,6,9,7,7,HEADSHOTBG,25,19,1.16 
+2014,05,25,18:00,HEADSHOTBG,volgare,inferno,Gaming Challenge 2014,16,4,11,4,5,0,HEADSHOTBG,16,6,1.36 
+2014,05,25,15:00,HEADSHOTBG,proWince,mirage,Gaming Challenge 2014,16,13,8,7,8,6,HEADSHOTBG,15,20,0.85 
+2014,05,25,15:00,HEADSHOTBG,proWince,inferno,Gaming Challenge 2014,10,16,7,8,3,8,HEADSHOTBG,10,19,0.59 
+2014,05,25,15:00,proWince,HEADSHOTBG,nuke,Gaming Challenge 2014,5,16,4,11,1,5,HEADSHOTBG,22,11,1.62 
+2014,05,25,14:00,HEADSHOTBG,KOH,nuke,Gaming Challenge 2014,16,2,13,2,3,0,HEADSHOTBG,18,7,1.59 
+2014,05,25,13:00,SENSEi,HEADSHOTBG,mirage,Gaming Challenge 2014,12,16,5,10,7,6,HEADSHOTBG,28,16,1.45 

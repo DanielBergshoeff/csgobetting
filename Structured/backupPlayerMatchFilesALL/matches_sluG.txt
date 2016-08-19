@@ -1,0 +1,2 @@
+2015,05,07,03:00,TempoStorm,eLevate,cache,ESL ESEA Pro League Season 1,5,16,4,11,1,5,eLevate,15,10,1.11 
+2015,05,07,02:00,Paradox,eLevate,dust2,ESL ESEA Pro League Season 1,12,16,6,9,6,7,eLevate,8,18,0.59 

@@ -1,0 +1,2 @@
+2016,07,30,16:45,FlipSid3,Aperture,train,ESWC 2016 South African Qualif..,1,16,1,14,0,2,FlipSid3,9,15,0.71 
+2016,07,30,16:45,FlipSid3,Aperture,cache,ESWC 2016 South African Qualif..,7,16,7,8,0,8,FlipSid3,13,19,0.71 

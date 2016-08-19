@@ -1,0 +1,2 @@
+2016,05,23,20:20,Relapse,QueenConsolidated,dust2,UnderDogs #3,8,16,7,8,1,8,Relapse,14,21,0.69 
+2016,05,23,20:20,Relapse,QueenConsolidated,train,UnderDogs #3,7,16,5,10,2,6,Relapse,12,19,0.83 

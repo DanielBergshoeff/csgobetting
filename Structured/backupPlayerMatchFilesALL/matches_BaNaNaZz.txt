@@ -1,0 +1,19 @@
+2016,08,15,19:20,DamageControl,FlipSid3,dust2,WESG 2016 South & East Africa,19,15,10,5,5,10,FlipSid3,18,25,0.73 
+2016,08,15,19:20,FlipSid3,DamageControl,cache,WESG 2016 South & East Africa,2,16,2,13,0,3,FlipSid3,7,15,0.49 
+2016,08,14,20:40,Bravado,FlipSid3,cobblestone,WESG 2016 South & East Africa,22,18,4,11,11,4,FlipSid3,30,32,0.91 
+2016,08,14,20:40,Bravado,FlipSid3,cache,WESG 2016 South & East Africa,16,3,12,3,4,0,FlipSid3,18,18,1.14 
+2016,07,30,16:45,FlipSid3,Aperture,train,ESWC 2016 South African Qualif..,1,16,1,14,0,2,FlipSid3,9,16,0.59 
+2016,07,30,16:45,FlipSid3,Aperture,cache,ESWC 2016 South African Qualif..,7,16,7,8,0,8,FlipSid3,13,19,0.66 
+2015,12,12,19:00,PixelHunters,Imagination,cache,BHG CS:GO Tournament,2,16,2,13,0,3,Imagination,11,11,0.89 
+2015,12,12,11:45,Imagination,Ventus,mirage,BHG CS:GO Tournament,16,13,13,2,3,11,Imagination,16,21,0.81 
+2015,12,12,11:45,Imagination,Ventus,cobblestone,BHG CS:GO Tournament,13,16,7,8,6,8,Imagination,23,21,1.19 
+2015,12,12,11:45,Ventus,Imagination,cache,BHG CS:GO Tournament,5,16,3,12,2,4,Imagination,14,11,1.06 
+2015,12,12,09:00,UbS,Imagination,cache,BHG CS:GO Tournament,4,16,2,13,2,3,Imagination,31,9,2.35 
+2015,12,12,09:00,Imagination,UbS,mirage,BHG CS:GO Tournament,16,10,9,6,7,4,Imagination,18,14,1.13 
+2015,08,09,20:00,In-Finity,Altitude,cache,Fight Night: Season I,16,5,11,4,5,1,Altitude,11,17,0.65 
+2015,08,09,20:00,In-Finity,Altitude,overpass,Fight Night: Season I,16,12,7,8,9,4,Altitude,27,21,1.26 
+2015,02,22,19:00,EternalConflict,eNergy,inferno,Battle for the Throne,6,16,5,10,1,6,Eternal Conflict,18,18,1.02 
+2015,02,22,19:00,EternalConflict,eNergy,cache,Battle for the Throne,4,16,4,11,0,5,Eternal Conflict,6,19,0.32 
+2015,02,19,20:45,EternalConflict,Bravado,cache,Battle for the Throne,21,16,8,7,7,8,Eternal Conflict,36,22,1.43 
+2015,02,19,20:45,Bravado,EternalConflict,inferno,Battle for the Throne,16,12,12,3,4,9,Eternal Conflict,19,21,0.94 
+2015,02,19,20:45,EternalConflict,Bravado,mirage,Battle for the Throne,31,28,13,2,2,13,Eternal Conflict,55,36,1.35 

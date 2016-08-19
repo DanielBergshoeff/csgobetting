@@ -1,0 +1,4 @@
+2015,09,05,12:30,Bovines,nxl,mirage,DreamHack Open Cluj-Napoca 201..,11,16,5,10,6,6,Bovines,13,21,0.67 
+2015,08,29,14:30,Singapore,SouthKorea,mirage,World Championships 2015 Asian..,15,15,10,5,5,10,Singapore,9,22,0.53 
+2015,06,06,13:00,Skyred,Bovines,inferno,FACEIT SEA Launch Cup,16,10,9,6,7,4,Bovines,10,16,0.68 
+2015,06,05,14:00,Bovines,Devious,inferno,FACEIT SEA Launch Cup,16,7,12,3,4,4,Bovines,14,11,0.98 

@@ -1,0 +1,20 @@
+2016,08,12,22:10,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,14,16,8,7,6,9,KoN Norway,20,22,0.95 
+2016,06,05,12:00,deadweight,PENTA,dust2,DreamHack ZOWIE Open Summer 20..,6,16,6,9,0,7,deadweight,10,18,0.55 
+2016,06,05,12:00,PENTA,deadweight,cache,DreamHack ZOWIE Open Summer 20..,16,12,6,9,10,3,deadweight,27,21,1.20 
+2016,06,05,12:00,PENTA,deadweight,mirage,DreamHack ZOWIE Open Summer 20..,6,16,5,10,1,6,deadweight,22,14,1.32 
+2016,06,04,18:00,deadweight,TBi,mirage,DreamHack ZOWIE Open Summer 20..,16,9,8,7,8,2,deadweight,22,13,1.27 
+2016,06,03,22:10,KoNSweden,KoNNorway,mirage,King of Nordic Season 4,9,16,1,14,8,2,KoN Norway,22,14,1.37 
+2016,05,27,22:10,KoNNorway,KoNSweden,cache,King of Nordic Season 4,16,11,7,8,9,3,KoN Norway,28,17,1.51 
+2016,05,20,22:10,KoNSweden,KoNNorway,overpass,King of Nordic Season 4,5,16,5,10,0,6,KoN Norway,12,11,1.06 
+2016,05,13,22:10,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,6,16,5,10,1,6,KoN Norway,29,11,1.85 
+2016,05,06,22:35,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,12,16,5,10,7,6,KoN Norway,19,18,0.94 
+2016,05,06,21:00,KoNNorway,KoNDenmark,overpass,King of Nordic Season 4,21,19,9,6,6,9,KoN Norway,40,29,1.41 
+2016,05,06,19:25,KoNSweden,KoNNorway,mirage,King of Nordic Season 4,13,16,6,9,7,7,KoN Norway,24,19,1.11 
+2016,04,30,18:25,deadweight,RCTIC,dust2,DreamHack Regional Minor Champ..,4,16,4,11,0,5,deadweight,12,17,0.83 
+2016,04,24,15:00,GODSENT,deadweight,inferno,DreamHack Regional Minor Champ..,19,16,11,4,4,11,deadweight,27,28,0.99 
+2016,04,24,15:00,deadweight,GODSENT,train,DreamHack Regional Minor Champ..,11,16,4,11,7,5,deadweight,14,21,0.64 
+2016,04,24,15:00,deadweight,GODSENT,mirage,DreamHack Regional Minor Champ..,16,14,6,9,10,5,deadweight,19,19,0.89 
+2016,04,23,18:50,deadweight,ENCE,dust2,DreamHack Regional Minor Champ..,8,16,4,11,4,5,deadweight,21,20,1.11 
+2016,04,23,17:20,deadweight,PANTERS,mirage,DreamHack Regional Minor Champ..,16,12,13,2,3,10,deadweight,19,18,1.02 
+2015,11,13,19:20,KoNNorway,KoNSweden,cache,King of Nordic Season 2,10,16,3,12,7,4,KoN Norway,12,18,0.66 
+2015,10,23,20:30,KoNNorway,KoNDenmark,cache,King of Nordic Season 2,9,16,7,8,2,8,KoN Norway,15,21,0.77 

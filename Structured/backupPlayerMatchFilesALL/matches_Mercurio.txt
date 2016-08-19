@@ -1,0 +1,7 @@
+2015,11,20,20:30,KoNNorway,KoNDenmark,mirage,King of Nordic Season 2,14,16,9,6,5,10,KoN Norway,14,21,0.81 
+2015,11,20,19:15,KoNNorway,KoNFinland,mirage,King of Nordic Season 2,16,12,8,7,8,5,KoN Norway,20,16,1.13 
+2015,11,06,19:15,KoNDenmark,KoNNorway,cache,King of Nordic Season 2,16,5,10,5,6,0,KoN Norway,7,19,0.38 
+2015,04,02,21:40,re:take,MnM,cache,Copenhagen Games 2015,16,19,9,6,6,9,re:take,29,26,1.17 
+2015,04,02,19:00,Lemondogs,re:take,cache,Copenhagen Games 2015,16,4,12,3,4,1,re:take,8,17,0.49 
+2015,04,02,14:00,myKPV,re:take,dust2,Copenhagen Games 2015,16,10,12,3,4,7,re:take,14,19,0.83 
+2015,04,02,14:00,myKPV,re:take,inferno,Copenhagen Games 2015,16,9,11,4,5,5,re:take,18,20,0.95 

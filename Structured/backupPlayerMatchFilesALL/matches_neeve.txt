@@ -1,0 +1,17 @@
+2016,05,24,22:00,AlienTech,Rasta,train,xfunction Challenge,16,2,13,2,3,0,Rasta,9,17,0.50 
+2016,05,24,22:00,AlienTech,Rasta,mirage,xfunction Challenge,16,5,11,4,5,1,Rasta,8,17,0.53 
+2016,05,16,23:15,RedLine,Rasta,mirage,xfunction Challenge,14,16,10,5,4,11,Rasta,30,19,1.48 
+2016,05,10,22:30,Epsilon,Rasta,overpass,xfunction Challenge,16,1,14,1,2,0,Rasta,3,17,0.15 
+2016,03,18,21:35,RedLine,3R2L,mirage,AlienTech CS:GO Invitational I,16,19,14,1,1,14,RedLine,26,22,1.11 
+2016,03,18,16:15,RedLine,AlienTech,cobblestone,AlienTech CS:GO Invitational I,3,16,3,12,0,4,RedLine,7,16,0.50 
+2015,12,05,20:00,NewSkillInfinity,Atlantis,cache,LVP Season 9 Division de Honor..,10,16,5,10,5,6,NewSkill Infinity,15,20,0.78 
+2015,12,05,20:00,NewSkillInfinity,Atlantis,mirage,LVP Season 9 Division de Honor..,16,8,12,3,4,5,NewSkill Infinity,23,15,1.49 
+2015,12,05,20:00,Atlantis,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,6,13,2,3,4,NewSkill Infinity,12,20,0.61 
+2015,12,05,15:15,NewSkillInfinity,x6tence,cobblestone,LVP Season 9 Division de Honor..,6,16,4,11,2,5,NewSkill Infinity,14,17,0.77 
+2015,12,04,19:30,KIYF,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,19,7,8,8,7,NewSkill Infinity,20,24,0.83 
+2015,11,11,21:10,KIYF,NewSkillInfinity,mirage,LVP Season 9 Division de Honor..,16,5,10,5,6,0,NewSkill Infinity,9,17,0.57 
+2015,11,11,21:10,NewSkillInfinity,KIYF,dust2,LVP Season 9 Division de Honor..,16,12,9,6,7,6,NewSkill Infinity,20,17,1.06 
+2015,11,11,21:10,KIYF,NewSkillInfinity,cobblestone,LVP Season 9 Division de Honor..,16,14,8,7,8,7,NewSkill Infinity,23,23,0.97 
+2015,10,01,21:00,KIYF,Play2Win,dust2,LVP Season 9 División de Honor..,19,16,6,9,9,6,Play2Win,31,22,1.52 
+2015,10,01,21:00,KIYF,Play2Win,cache,LVP Season 9 División de Honor..,6,16,4,11,2,5,Play2Win,21,14,1.46 
+2015,10,01,21:00,KIYF,Play2Win,mirage,LVP Season 9 División de Honor..,16,12,7,8,9,4,Play2Win,18,19,0.90 

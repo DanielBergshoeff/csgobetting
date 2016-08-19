@@ -1,0 +1,8 @@
+2016,05,20,19:15,KoNSweden,KoNDenmark,cache,King of Nordic Season 4,19,17,7,8,8,7,KoN Denmark,28,25,1.12 
+2016,03,13,13:00,dignitas,TDJSF,cobblestone,DreamHack Masters Malmö 2016 E..,16,4,12,3,4,1,TDJSF,9,19,0.45 
+2016,03,12,19:00,ENCE,TDJSF,dust2,DreamHack Masters Malmö 2016 E..,10,16,2,13,8,3,TDJSF,24,15,1.34 
+2015,04,02,22:45,Temp.no,myRevenge,inferno,Copenhagen Games 2015,16,2,13,2,3,0,myRevenge,5,16,0.32 
+2015,04,02,21:40,myRevenge,Lucidez,inferno,Copenhagen Games 2015,16,8,10,5,6,3,myRevenge,11,13,0.81 
+2015,04,02,19:00,Temp.no,myRevenge,cache,Copenhagen Games 2015,16,11,9,6,7,5,myRevenge,14,21,0.69 
+2015,04,02,14:00,myRevenge,melty,dust2,Copenhagen Games 2015,10,16,8,7,2,9,myRevenge,13,21,0.59 
+2015,04,02,14:00,myRevenge,melty,inferno,Copenhagen Games 2015,6,16,5,10,1,6,myRevenge,15,18,0.85 

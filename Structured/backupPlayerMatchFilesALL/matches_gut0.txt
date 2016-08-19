@@ -1,0 +1,39 @@
+2016,08,01,00:45,INTZ,g3x,cache,Acer ESL Brazil Premier League..,15,19,9,6,6,9,INTZ,18,24,0.75 
+2016,08,01,00:45,g3x,INTZ,cobblestone,Acer ESL Brazil Premier League..,16,10,8,7,8,3,INTZ,18,22,0.90 
+2016,08,01,00:45,INTZ,g3x,train,Acer ESL Brazil Premier League..,4,16,4,11,0,5,INTZ,11,18,0.86 
+2016,07,31,19:45,INTZ,CNB,cobblestone,Acer ESL Brazil Premier League..,16,8,9,6,7,2,INTZ,20,16,1.23 
+2016,07,31,19:45,INTZ,CNB,train,Acer ESL Brazil Premier League..,9,16,9,6,0,10,INTZ,17,20,0.87 
+2016,07,31,19:45,CNB,INTZ,mirage,Acer ESL Brazil Premier League..,14,16,8,7,6,9,INTZ,22,23,0.98 
+2016,07,02,18:25,g3x,INTZ,overpass,XLG CS:GO Season 1,16,4,13,2,3,2,INTZ,12,18,0.67 
+2016,07,02,18:25,g3x,INTZ,nuke,XLG CS:GO Season 1,16,7,9,6,7,1,INTZ,12,17,0.67 
+2016,07,02,18:25,INTZ,g3x,train,XLG CS:GO Season 1,4,16,4,11,0,5,INTZ,12,20,0.56 
+2016,06,09,23:00,g3x,INTZ,cache,Razer Rising Stars South Ameri..,16,0,15,0,1,0,INTZ,9,16,0.54 
+2016,06,09,23:00,g3x,INTZ,nuke,Razer Rising Stars South Ameri..,16,14,11,4,5,10,INTZ,22,25,0.86 
+2016,06,09,01:00,INTZ,Furious,cobblestone,Razer Rising Stars South Ameri..,16,12,11,4,5,8,INTZ,11,22,0.52 
+2016,06,09,01:00,Furious,INTZ,cache,Razer Rising Stars South Ameri..,7,16,4,11,3,5,INTZ,30,10,2.03 
+2016,06,03,00:00,INTZ,BigGods,cobblestone,Razer Rising Stars South Ameri..,16,13,11,4,5,9,INTZ,27,21,1.34 
+2016,06,03,00:00,BigGods,INTZ,cache,Razer Rising Stars South Ameri..,16,8,9,6,7,2,INTZ,9,19,0.56 
+2016,06,02,01:30,INTZ,CNB,dust2,XLG CS:GO Season 1,16,10,7,8,9,2,INTZ,14,15,0.84 
+2016,06,02,01:30,INTZ,CNB,mirage,XLG CS:GO Season 1,31,28,6,9,9,6,INTZ,44,41,1.01 
+2016,06,02,01:30,INTZ,CNB,cache,XLG CS:GO Season 1,14,16,8,7,6,9,INTZ,20,20,1.02 
+2016,06,01,02:00,CNB,INTZ,mirage,Razer Rising Stars South Ameri..,16,13,11,4,5,9,INTZ,26,22,1.29 
+2016,06,01,02:00,INTZ,CNB,cobblestone,Razer Rising Stars South Ameri..,16,3,13,2,3,1,INTZ,17,5,1.68 
+2016,05,31,00:30,Innova,INTZ,mirage,Razer Rising Stars South Ameri..,11,16,5,10,6,6,INTZ,25,19,1.27 
+2016,05,31,00:30,Innova,INTZ,cobblestone,Razer Rising Stars South Ameri..,15,19,6,9,9,6,INTZ,31,20,1.39 
+2016,05,27,02:00,INTZ,2Kill,mirage,Razer Rising Stars South Ameri..,16,7,12,3,4,4,INTZ,18,15,1.14 
+2016,05,27,02:00,2Kill,INTZ,overpass,Razer Rising Stars South Ameri..,9,16,6,9,3,7,INTZ,23,18,1.28 
+2016,05,18,02:00,INTZ,Supernova,cache,Razer Rising Stars South Ameri..,16,14,9,6,7,8,INTZ,21,21,1.02 
+2016,05,18,02:00,INTZ,Supernova,mirage,Razer Rising Stars South Ameri..,16,3,13,2,3,1,INTZ,15,11,1.16 
+2016,05,06,04:00,CNB,INTZ,mirage,Liga PRO GamersClub - APR/16,16,8,10,5,6,3,INTZ,19,17,1.09 
+2016,05,06,04:00,CNB,INTZ,cache,Liga PRO GamersClub - APR/16,16,14,7,8,9,6,INTZ,21,19,1.21 
+2016,04,27,03:15,INTZ,BigGods,dust2,MLG Regional Minor South Ameri..,5,16,4,11,1,5,INTZ,16,17,0.87 
+2016,04,27,03:15,INTZ,BigGods,cobblestone,MLG Regional Minor South Ameri..,16,10,10,5,6,5,INTZ,19,17,1.03 
+2016,04,27,03:15,INTZ,BigGods,cache,MLG Regional Minor South Ameri..,5,16,5,10,0,6,INTZ,13,17,0.89 
+2016,04,27,01:10,CNB,INTZ,dust2,MLG Regional Minor South Ameri..,10,16,6,9,4,7,INTZ,18,15,1.10 
+2016,04,27,01:10,INTZ,CNB,overpass,MLG Regional Minor South Ameri..,16,5,12,3,4,2,INTZ,17,10,1.27 
+2016,04,26,02:00,INTZ,NeedJobs,cobblestone,MLG Regional Minor South Ameri..,19,15,6,9,9,6,INTZ,21,23,0.98 
+2016,04,26,02:00,NeedJobs,INTZ,mirage,MLG Regional Minor South Ameri..,14,16,9,6,5,10,INTZ,19,21,1.03 
+2016,04,24,00:15,2Kill,INTZ,cache,Rising Stars South America Pro..,16,12,12,3,4,9,INTZ,18,21,0.93 
+2016,04,23,23:00,INTZ,KeydStars,cache,Rising Stars South America Pro..,4,16,4,11,0,5,INTZ,11,18,0.60 
+2016,03,13,03:45,DEMONIO,INTZ,train,Razer Rising Stars South Ameri..,25,31,10,5,5,10,INTZ,39,44,0.93 
+2016,03,13,01:10,INTZ,ProGaming,cobblestone,Razer Rising Stars South Ameri..,16,10,8,7,8,3,INTZ,26,20,1.34 

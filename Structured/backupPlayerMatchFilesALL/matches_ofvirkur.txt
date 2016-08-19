@@ -1,0 +1,29 @@
+2016,05,21,18:45,VECA,tropadeleet,mirage,Tuddinn Spring 2016 LAN Finals,16,14,6,9,10,5,tropadeleet ,22,22,1.02 
+2016,05,21,18:45,VECA,tropadeleet,cobblestone,Tuddinn Spring 2016 LAN Finals,16,11,6,9,10,2,tropadeleet ,15,19,0.79 
+2016,05,21,18:45,tropadeleet,VECA,dust2,Tuddinn Spring 2016 LAN Finals,16,12,11,4,5,8,tropadeleet ,28,18,1.60 
+2016,03,24,17:00,404OrgNotFound,seven,inferno,Copenhagen Games 2016 BYOC Qua..,16,11,13,2,3,9,seven,15,20,0.80 
+2016,03,24,15:30,FOXTROT,seven,cobblestone,Copenhagen Games 2016 BYOC Qua..,1,16,1,14,0,2,seven,19,8,1.81 
+2016,03,24,13:00,Alpha,seven,dust2,Copenhagen Games 2016 BYOC Qua..,16,6,11,4,5,2,seven,12,20,0.64 
+2016,01,26,22:00,neXtPlease!,seven,dust2,D!ngIT $2000 Weekly Cup #35,16,7,10,5,6,2,seven,7,20,0.41 
+2016,01,26,19:30,seven,eSuba,dust2,D!ngIT $2000 Weekly Cup #35,12,16,6,9,6,7,seven,18,20,0.89 
+2016,01,26,19:30,seven,eSuba,cache,D!ngIT $2000 Weekly Cup #35,13,16,7,8,6,8,seven,12,21,0.65 
+2016,01,25,18:30,CeX,seven,dust2,D!ngIT $2000 Weekly Cup #35,9,16,8,7,1,9,seven,24,11,1.47 
+2016,01,25,18:30,CeX,seven,mirage,D!ngIT $2000 Weekly Cup #35,16,10,12,3,4,7,seven,19,17,1.12 
+2016,01,25,18:30,CeX,seven,cache,D!ngIT $2000 Weekly Cup #35,14,16,7,8,7,8,seven,29,15,1.56 
+2016,01,10,19:50,malefiQ,seven,cache,Tuddinn 1 | 2016,16,6,14,1,2,5,seven,13,17,0.86 
+2016,01,10,19:50,malefiQ,seven,train,Tuddinn 1 | 2016,15,19,10,5,5,10,seven,30,20,1.35 
+2016,01,10,19:50,seven,malefiQ,inferno,Tuddinn 1 | 2016,8,16,7,8,1,8,seven,14,19,0.83 
+2016,01,10,15:00,seven,GODS.WIN,mirage,Tuddinn 1 | 2016,16,9,12,3,4,6,seven,22,20,1.11 
+2016,01,10,15:00,seven,GODS.WIN,cache,Tuddinn 1 | 2016,16,7,12,3,4,4,seven,23,15,1.37 
+2015,10,01,17:30,France,Iceland,dust2,World Championships 2015 Europ..,16,10,8,7,8,3,Iceland,17,23,0.84 
+2015,10,01,17:30,France,Iceland,cache,World Championships 2015 Europ..,16,12,10,5,6,7,Iceland,13,19,0.73 
+2015,09,29,21:30,Belgium,Iceland,dust2,World Championships 2015 Europ..,16,11,8,7,8,4,Iceland,12,21,0.60 
+2015,09,29,20:30,Iceland,Bosnia&Herzegovina,dust2,World Championships 2015 Europ..,16,4,14,1,2,3,Iceland,16,10,1.25 
+2015,09,29,18:30,Iceland,Norway,cache,World Championships 2015 Europ..,8,16,2,13,6,3,Iceland,24,21,1.20 
+2015,09,28,22:55,Sweden,Iceland,train,World Championships 2015 Europ..,16,12,9,6,7,6,Iceland,15,20,0.83 
+2015,09,17,18:30,Iceland,Belarus,cache,World Championships 2015 Europ..,16,14,7,8,9,6,Iceland,25,15,1.30 
+2015,08,29,16:30,Iceland,CzechRepublic,mirage,World Championships 2015 Europ..,16,13,10,5,6,8,Iceland,21,20,1.04 
+2015,08,29,16:30,CzechRepublic,Iceland,dust2,World Championships 2015 Europ..,12,16,6,9,6,7,Iceland,24,19,1.14 
+2015,08,29,16:30,Iceland,CzechRepublic,inferno,World Championships 2015 Europ..,1,16,1,14,0,2,Iceland,15,16,1.06 
+2015,08,11,17:00,Albania,Iceland,mirage,World Championships 2015 Europ..,3,16,3,12,0,4,Iceland,23,11,1.66 
+2015,08,11,17:00,Iceland,Albania,dust2,World Championships 2015 Europ..,16,3,12,3,4,0,Iceland,26,9,2.06 

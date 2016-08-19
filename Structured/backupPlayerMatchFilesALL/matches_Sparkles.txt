@@ -1,0 +1,2 @@
+2015,11,13,16:00,NoobTubers,GameShowStaff,inferno,Virtus.pro Staff Cup #3,16,0,15,0,1,0,NoobTubers,11,9,1.08 
+2015,11,13,16:00,NoobTubers,GameShowStaff,mirage,Virtus.pro Staff Cup #3,16,2,13,2,3,0,NoobTubers,8,12,0.68 

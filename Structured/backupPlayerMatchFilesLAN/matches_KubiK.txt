@@ -1,0 +1,11 @@
+2015,11,21,16:45,ImperialDragons,ALSEN,mirage,Color League by EIZO & QPAD,16,10,9,6,7,4,ALSEN,17,20,0.85 
+2015,11,21,16:45,ImperialDragons,ALSEN,train,Color League by EIZO & QPAD,11,16,5,10,6,6,ALSEN,11,20,0.59 
+2015,11,21,16:45,ALSEN,ImperialDragons,inferno,Color League by EIZO & QPAD,10,16,2,13,8,3,ALSEN,12,17,0.71 
+2015,11,21,10:40,USSR,ALSEN,mirage,Color League by EIZO & QPAD,16,5,11,4,5,1,ALSEN,10,17,0.61 
+2015,11,21,10:40,USSR,ALSEN,cache,Color League by EIZO & QPAD,16,13,6,9,10,4,ALSEN,13,20,0.67 
+2015,11,21,10:40,ALSEN,USSR,dust2,Color League by EIZO & QPAD,16,14,6,9,10,5,ALSEN,19,19,0.91 
+2015,10,03,16:00,31337,ATB,dust2,ESL Polish Championship Season..,14,16,11,4,3,12,31337,18,20,0.91 
+2015,10,03,16:00,31337,ATB,cache,ESL Polish Championship Season..,16,10,9,6,7,4,31337,9,17,0.62 
+2015,10,03,16:00,ATB,31337,mirage,ESL Polish Championship Season..,25,23,6,9,9,6,31337,28,30,0.88 
+2015,10,03,13:00,CSGL,31337,cache,ESL Polish Championship Season..,16,13,8,7,8,6,31337,10,22,0.53 
+2015,10,03,13:00,CSGL,31337,mirage,ESL Polish Championship Season..,16,5,12,3,4,2,31337,10,18,0.54 

@@ -1,0 +1,43 @@
+2016,08,06,13:00,B.O.O.T,autocracy,overpass,ESEA Open Season 22 Asia,12,16,5,10,7,6,B.O.O.T,11,22,0.54 
+2016,08,06,13:00,autocracy,B.O.O.T,dust2,ESEA Open Season 22 Asia,16,11,10,5,6,6,B.O.O.T,15,20,0.80 
+2016,08,06,13:00,B.O.O.T,autocracy,mirage,ESEA Open Season 22 Asia,16,5,11,4,5,1,B.O.O.T,22,14,1.40 
+2016,08,05,13:20,VG.CyberZen,B.O.O.T,cobblestone,SL i-League S2 China Finals,16,6,13,2,3,4,B.O.O.T,17,18,0.95 
+2016,08,05,13:20,VG.CyberZen,B.O.O.T,train,SL i-League S2 China Finals,16,2,14,1,2,1,B.O.O.T,4,17,0.26 
+2016,08,04,10:00,EHOME,B.O.O.T,mirage,SL i-League S2 China Finals,12,16,4,11,8,5,B.O.O.T,19,21,1.08 
+2016,08,04,10:00,EHOME,B.O.O.T,cobblestone,SL i-League S2 China Finals,16,2,13,2,3,0,B.O.O.T,10,17,0.67 
+2016,08,04,10:00,EHOME,B.O.O.T,cache,SL i-League S2 China Finals,18,22,7,8,8,7,B.O.O.T,37,30,1.30 
+2016,07,31,12:00,B.O.O.T,EP,cobblestone,SL i-League S2 China Qualifier,16,8,11,4,5,4,B.O.O.T,22,15,1.29 
+2016,07,31,12:00,EP,B.O.O.T,cache,SL i-League S2 China Qualifier,9,16,7,8,2,8,B.O.O.T,17,15,1.13 
+2016,07,28,12:00,B.O.O.T,MVPproject,train,MixBOT Pro-League Golden,5,16,4,11,1,5,B.O.O.T,10,18,0.57 
+2016,07,28,12:00,B.O.O.T,MVPproject,overpass,MixBOT Pro-League Golden,7,16,3,12,4,4,B.O.O.T,11,18,0.63 
+2016,07,27,15:00,AllGamers,B.O.O.T,cobblestone,SL i-League S2 China Qualifier,16,12,6,9,10,3,B.O.O.T,19,22,0.85 
+2016,07,27,15:00,B.O.O.T,AllGamers,cache,SL i-League S2 China Qualifier,14,16,8,7,6,9,B.O.O.T,19,24,0.73 
+2016,07,27,09:00,B.O.O.T,Nface,overpass,SL i-League S2 China Qualifier,7,16,6,9,1,7,B.O.O.T,9,19,0.47 
+2016,07,27,09:00,B.O.O.T,Nface,train,SL i-League S2 China Qualifier,13,16,11,4,2,12,B.O.O.T,14,21,0.67 
+2016,07,27,09:00,B.O.O.T,Nface,cache,SL i-League S2 China Qualifier,16,7,10,5,6,2,B.O.O.T,14,12,0.95 
+2016,07,24,15:00,B.O.O.T,MiTH,mirage,MixBOT Pro-League Golden,16,11,10,5,6,6,B.O.O.T,20,18,1.08 
+2016,07,24,15:00,B.O.O.T,MiTH,cobblestone,MixBOT Pro-League Golden,16,14,3,12,13,2,B.O.O.T,23,23,0.99 
+2016,07,23,15:00,Nface,B.O.O.T,cache,MixBOT Pro-League Golden,8,16,7,8,1,8,B.O.O.T,21,15,1.28 
+2016,07,23,15:00,B.O.O.T,Nface,cobblestone,MixBOT Pro-League Golden,16,2,13,2,3,0,B.O.O.T,24,8,1.89 
+2016,07,01,12:40,VG.CyberZen,B.O.O.T,cache,NEA 2016 Finals ,16,13,11,4,5,9,B.O.O.T,27,18,1.25 
+2016,07,01,12:40,VG.CyberZen,B.O.O.T,cobblestone,NEA 2016 Finals ,16,3,14,1,2,2,B.O.O.T,5,18,0.29 
+2016,07,01,04:30,B.O.O.T,BornOfFire,cache,NEA 2016 Finals ,7,16,7,8,0,8,B.O.O.T,10,19,0.53 
+2016,07,01,04:30,BornOfFire,B.O.O.T,overpass,NEA 2016 Finals ,16,2,13,2,3,0,B.O.O.T,7,17,0.40 
+2016,07,01,04:30,BornOfFire,B.O.O.T,cobblestone,NEA 2016 Finals ,22,25,7,8,8,7,B.O.O.T,40,33,1.16 
+2016,06,21,08:15,B.O.O.T,BornOfFire,cobblestone,H-Cup Season 2,11,16,6,9,5,7,B.O.O.T,15,22,0.72 
+2016,06,21,08:15,B.O.O.T,BornOfFire,overpass,H-Cup Season 2,10,16,4,11,6,5,B.O.O.T,22,19,1.15 
+2016,06,21,08:15,BornOfFire,B.O.O.T,cache,H-Cup Season 2,15,19,5,10,10,5,B.O.O.T,27,24,1.04 
+2015,12,11,13:40,inchk1ng,BOW,mirage,Fulcrum Gamers League,16,1,14,1,2,0,BOW,7,16,0.46 
+2015,12,11,13:40,inchk1ng,BOW,dust2,Fulcrum Gamers League,16,5,13,2,3,3,BOW,10,18,0.71 
+2015,12,11,12:00,BOW,TheMongolz,dust2,Fulcrum Gamers League,2,16,2,13,0,3,BOW,6,17,0.39 
+2015,12,11,12:00,TheMongolz,BOW,inferno,Fulcrum Gamers League,16,3,12,3,4,0,BOW,11,17,0.63 
+2015,12,10,13:40,FOF,BOW,mirage,Fulcrum Gamers League,13,16,5,10,8,6,BOW,18,23,0.77 
+2015,12,10,13:40,FOF,BOW,inferno,Fulcrum Gamers League,16,6,10,5,6,1,BOW,13,19,0.63 
+2015,12,06,13:40,BOW,pow,mirage,Fulcrum Gamers League,5,16,2,13,3,3,BOW,14,16,0.83 
+2015,12,06,13:40,pow,BOW,dust2,Fulcrum Gamers League,16,8,10,5,6,3,BOW,10,21,0.52 
+2015,12,06,12:00,PUZZLES,BOW,cache,Fulcrum Gamers League,16,2,13,2,3,0,BOW,11,18,0.54 
+2015,12,06,12:00,PUZZLES,BOW,inferno,Fulcrum Gamers League,16,6,10,5,6,1,BOW,12,20,0.64 
+2015,12,04,13:40,BornOfFire,BOW,mirage,Fulcrum Gamers League,16,8,13,2,3,6,BOW,12,19,0.71 
+2015,12,04,13:40,BornOfFire,BOW,dust2,Fulcrum Gamers League,16,10,7,8,9,2,BOW,13,23,0.56 
+2015,11,26,12:00,TyLoo,BOW,inferno,Fulcrum Gamers League,16,2,14,1,2,1,BOW,6,18,0.34 
+2015,11,26,12:00,TyLoo,BOW,mirage,Fulcrum Gamers League,16,3,12,3,4,0,BOW,5,18,0.26 

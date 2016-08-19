@@ -1,0 +1,15 @@
+2016,07,02,13:50,RedInstinct,Millenium,overpass,ESL National Championship Fran..,14,16,5,10,9,6,Red Instinct,20,22,0.91 
+2016,07,02,13:50,Millenium,RedInstinct,cache,ESL National Championship Fran..,16,12,11,4,5,8,Red Instinct,9,24,0.43 
+2014,10,31,16:30,CPHWolves,Platinium,inferno,ESWC 2014,16,6,10,5,6,1,Platinium,14,19,0.72 
+2014,10,31,14:30,KaBuM.TD,Platinium,dust2,ESWC 2014,16,12,10,5,6,7,Platinium,12,19,0.70 
+2014,10,31,12:50,Platinium,NiP,cobblestone,ESWC 2014,16,10,8,7,8,3,Platinium,19,17,1.03 
+2014,10,31,11:30,Platinium,Titan,mirage,ESWC 2014,8,16,8,7,0,9,Platinium,11,20,0.62 
+2014,10,31,09:45,HellRaisers,Platinium,dust2,ESWC 2014,16,12,6,9,10,3,Platinium,11,22,0.59 
+2014,10,29,13:55,LDLC,Platinium,dust2,ESWC 2014 France,16,2,14,1,2,1,Platinium,5,17,0.37 
+2014,10,29,11:35,Platinium,iGamerz,mirage,ESWC 2014 France,16,9,13,2,3,7,Platinium,9,15,0.63 
+2014,10,29,09:30,Platinium,LDLC,inferno,ESWC 2014 France,13,16,9,6,4,10,Platinium,21,22,0.96 
+2014,07,19,11:15,Platinium,k1ck,nuke,DreamHack Valencia 2014,20,22,10,5,5,10,Platinium,27,31,0.92 
+2014,07,19,11:15,Platinium,k1ck,dust2,DreamHack Valencia 2014,14,16,8,7,6,9,Platinium,17,24,0.75 
+2014,07,19,11:15,Platinium,k1ck,inferno,DreamHack Valencia 2014,16,6,10,5,6,1,Platinium,14,14,1.09 
+2014,07,18,22:30,gBots,Platinium,dust2,DreamHack Valencia 2014,6,16,4,11,2,5,Platinium,15,11,1.16 
+2014,07,18,20:25,Epsilon,Platinium,inferno,DreamHack Valencia 2014,16,13,10,5,6,8,Platinium,19,22,0.84 

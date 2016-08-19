@@ -1,0 +1,20 @@
+2016,07,11,22:10,FTW.PRO,Delete,cache,xfunction Masters 2016,11,16,10,5,1,11,FTW.PRO,20,21,0.99 
+2016,07,05,22:45,ALTERNATEaTTaX,FTW.PRO,cache,xfunction Masters 2016,16,10,10,5,6,5,FTW.PRO,12,20,0.64 
+2016,05,24,22:00,AlienTech,Rasta,train,xfunction Challenge,16,2,13,2,3,0,Rasta,5,18,0.23 
+2016,05,24,22:00,AlienTech,Rasta,mirage,xfunction Challenge,16,5,11,4,5,1,Rasta,7,17,0.46 
+2016,05,16,23:15,RedLine,Rasta,mirage,xfunction Challenge,14,16,10,5,4,11,Rasta,15,22,0.79 
+2016,05,10,22:30,Epsilon,Rasta,overpass,xfunction Challenge,16,1,14,1,2,0,Rasta,8,16,0.61 
+2016,03,20,12:30,FTW.PRO,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,15,19,8,7,7,8,FTW.PRO,17,25,0.72 
+2016,03,20,12:30,FTW.PRO,ImperioMultimedia,inferno,AlienTech CS:GO Invitational I,10,16,7,8,3,8,FTW.PRO,13,18,0.83 
+2016,03,18,19:50,3R2L,FTW.PRO,mirage,AlienTech CS:GO Invitational I,11,16,4,11,7,5,FTW.PRO,10,21,0.53 
+2016,03,18,17:40,FTW.PRO,AlienTech,inferno,AlienTech CS:GO Invitational I,19,22,9,6,6,9,FTW.PRO,24,32,0.77 
+2015,11,21,19:30,FTW.PRO,Publiclir.se,cache,AlienTech AllStars,4,16,4,11,0,5,FTW.PRO,6,20,0.28 
+2015,11,21,19:30,Publiclir.se,FTW.PRO,mirage,AlienTech AllStars,16,8,12,3,4,5,FTW.PRO,6,21,0.31 
+2015,11,21,14:05,FTW.PRO,Galatics,mirage,AlienTech AllStars,16,7,13,2,3,5,FTW.PRO,11,13,0.80 
+2015,11,21,12:30,AlienTech,FTW.PRO,inferno,AlienTech AllStars,16,8,8,7,8,1,FTW.PRO,9,18,0.54 
+2015,11,21,11:10,GameplayDNA,FTW.PRO,mirage,AlienTech AllStars,10,16,7,8,3,8,FTW.PRO,20,17,1.13 
+2015,10,20,23:00,uPGaming.hellfive,KeydStars,dust2,AlienTech CS:GO TiTans I,8,16,7,8,1,8,uPGaming.hellfive,14,20,0.84 
+2015,10,15,23:00,uPGaming.hellfive,AlienTech,inferno,AlienTech CS:GO TiTans I,9,16,4,11,5,5,uPGaming.hellfive,18,18,0.95 
+2015,10,14,22:00,KeydStars,uPGaming.hellfive,cache,AlienTech CS:GO TiTans I,11,16,6,9,5,7,uPGaming.hellfive,24,18,1.25 
+2014,04,26,20:00,SteelShock,AlienTech,inferno,1Life Fraglider Invitational,14,16,6,9,8,7,SteelShock,20,20,1.06 
+2014,04,26,19:00,Panthers,SteelShock,inferno,1Life Fraglider Invitational,16,3,12,3,4,0,SteelShock,10,18,0.51 

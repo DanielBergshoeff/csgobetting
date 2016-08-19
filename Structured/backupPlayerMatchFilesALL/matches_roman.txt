@@ -1,0 +1,67 @@
+2016,06,11,13:00,Renegades,FluffyGangsters,mirage,ESL One Cologne 2016 Main Qual..,16,11,11,4,5,7,Fluffy Gangsters,16,19,0.80 
+2016,06,10,13:00,FluffyGangsters,OpTic,train,ESL One Cologne 2016 Main Qual..,9,16,6,9,3,7,Fluffy Gangsters,6,21,0.40 
+2016,06,09,16:55,FluffyGangsters,mousesports,dust2,ESL One Cologne 2016 Main Qual..,16,19,8,7,7,8,Fluffy Gangsters,19,25,0.80 
+2016,06,05,12:00,FluffyGangsters,SpaceSoldiers,train,DreamHack ZOWIE Open Summer 20..,13,16,7,8,6,8,Fluffy Gangsters,16,21,0.77 
+2016,06,05,12:00,FluffyGangsters,SpaceSoldiers,dust2,DreamHack ZOWIE Open Summer 20..,13,16,6,9,7,7,Fluffy Gangsters,12,22,0.56 
+2016,05,29,16:30,BinaryDragons,Arcade,dust2,DreamHack ZOWIE Open Summer 20..,24,28,7,8,8,7,Binary Dragons,21,41,0.55 
+2016,05,29,16:30,BinaryDragons,Arcade,mirage,DreamHack ZOWIE Open Summer 20..,7,16,6,9,1,7,Binary Dragons,11,17,0.66 
+2016,05,29,12:15,BinaryDragons,mix123,mirage,DreamHack ZOWIE Open Summer 20..,16,13,4,11,12,2,Binary Dragons,28,17,1.44 
+2016,05,29,12:15,BinaryDragons,mix123,cobblestone,DreamHack ZOWIE Open Summer 20..,11,16,3,12,8,4,Binary Dragons,14,21,0.66 
+2016,05,29,12:15,BinaryDragons,mix123,dust2,DreamHack ZOWIE Open Summer 20..,16,4,11,4,5,0,Binary Dragons,9,6,1.12 
+2016,05,01,19:45,Empire,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,12,16,6,9,6,7,Fluffy Gangsters,17,17,0.89 
+2016,05,01,19:45,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,16,11,6,9,10,2,Fluffy Gangsters,21,16,1.09 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,16,11,7,8,9,3,Fluffy Gangsters,20,13,1.21 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,dust2,StarLadder Minor CIS - Cologne..,16,14,7,8,9,6,Fluffy Gangsters,16,18,0.91 
+2016,04,30,20:30,FluffyGangsters,Empire,train,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Fluffy Gangsters,12,22,0.57 
+2016,04,30,20:30,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,6,16,2,13,4,3,Fluffy Gangsters,13,18,0.88 
+2016,04,30,20:30,Empire,FluffyGangsters,dust2,StarLadder Minor CIS - Cologne..,3,16,3,12,0,4,Fluffy Gangsters,9,9,0.92 
+2016,04,30,13:00,ANOX,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,15,19,8,7,7,8,Fluffy Gangsters,20,21,0.89 
+2016,04,30,13:00,FluffyGangsters,ANOX,cobblestone,StarLadder Minor CIS - Cologne..,9,16,8,7,1,9,Fluffy Gangsters,10,20,0.66 
+2016,04,30,13:00,ANOX,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,3,16,2,13,1,3,Fluffy Gangsters,12,8,1.06 
+2016,04,28,15:30,FluffyGangsters,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,9,12,3,4,6,Fluffy Gangsters,15,13,1.01 
+2016,04,28,15:30,DigitalWave,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,10,16,3,12,7,4,Fluffy Gangsters,15,16,0.91 
+2016,04,28,11:55,Arcade,FluffyGangsters,train,StarLadder Minor CIS - Cologne..,13,16,7,8,6,8,Fluffy Gangsters,17,17,0.97 
+2016,04,20,20:00,Tempest,FluffyGangsters,mirage,StarLadder Regional Minor Cham..,17,19,10,5,5,10,Fluffy Gangsters,27,22,1.11 
+2016,04,20,20:00,FluffyGangsters,Tempest,dust2,StarLadder Regional Minor Cham..,19,16,5,10,10,5,Fluffy Gangsters,23,23,0.94 
+2016,03,26,19:00,FluffyGangsters,Arcade,inferno,SL I-League Invitational #1 EU..,13,16,9,6,4,10,Fluffy Gangsters,16,21,0.73 
+2016,03,26,19:00,Arcade,FluffyGangsters,mirage,SL I-League Invitational #1 EU..,16,3,13,2,3,1,Fluffy Gangsters,5,17,0.31 
+2016,03,25,19:00,FluffyGangsters,AGG,inferno,SL I-League Invitational #1 EU..,16,13,9,6,7,7,Fluffy Gangsters,11,19,0.62 
+2016,03,23,19:00,CSGL,FluffyGangsters,train,SL I-League Invitational #1 EU..,16,14,7,8,9,6,Fluffy Gangsters,20,22,0.89 
+2016,03,20,13:00,G2,FluffyGangsters,inferno,DreamHack Masters Malmö 2016 E..,16,2,13,2,3,0,Fluffy Gangsters,9,18,0.42 
+2016,03,20,13:00,G2,FluffyGangsters,dust2,DreamHack Masters Malmö 2016 E..,16,13,8,7,8,6,Fluffy Gangsters,9,23,0.45 
+2016,03,19,18:25,FluffyGangsters,Tempest,mirage,DreamHack Masters Malmö 2016 E..,16,5,11,4,5,1,Fluffy Gangsters,14,10,1.12 
+2016,03,11,20:00,LeiSuRe,FluffyGangsters,dust2,Razer Rising Stars European Le..,16,14,5,10,11,4,Fluffy Gangsters,20,17,1.10 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,mirage,Binary Dragons Cup Season 2,12,16,5,10,7,6,Fluffy Gangsters,17,24,0.75 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,dust2,Binary Dragons Cup Season 2,19,16,4,11,11,4,Fluffy Gangsters,20,23,0.82 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,train,Binary Dragons Cup Season 2,13,16,9,6,4,10,Fluffy Gangsters,17,24,0.79 
+2015,03,08,17:00,GGWP,x6tence,mirage,GamePlan Pro League,10,16,8,7,2,9,GGWP,17,18,0.89 
+2015,01,14,18:00,GGWP,NiP,cache,SLTV StarSeries XII,8,16,5,10,3,6,GGWP,14,18,0.79 
+2015,01,14,18:00,GGWP,NiP,mirage,SLTV StarSeries XII,4,16,4,11,0,5,GGWP,6,20,0.28 
+2015,01,13,21:00,dignitas,GGWP,dust2,SLTV StarSeries XII,16,2,13,2,3,0,GGWP,6,17,0.32 
+2015,01,13,21:00,dignitas,GGWP,nuke,SLTV StarSeries XII,16,1,14,1,2,0,GGWP,8,16,0.51 
+2014,12,02,18:30,97club,Nostalgie,mirage,CIS Rising League Season 1,9,16,3,12,6,4,97club,18,19,0.91 
+2014,12,02,18:30,Nostalgie,97club,cache,CIS Rising League Season 1,5,16,3,12,2,4,97club,26,11,1.81 
+2014,12,02,18:30,Nostalgie,97club,inferno,CIS Rising League Season 1,16,2,13,2,3,0,97club,13,16,0.84 
+2014,12,02,18:30,Nostalgie,97club,overpass,CIS Rising League Season 1,16,13,11,4,5,9,97club,16,23,0.71 
+2014,10,17,20:00,Poland,Belarus,dust2,European Championship 2014,16,10,10,5,6,5,Belarus,20,22,0.97 
+2014,10,10,22:30,Turkey,Belarus,nuke,European Championship 2014,10,16,4,11,6,5,Belarus,18,14,1.07 
+2014,10,01,20:00,Belarus,Norway,dust2,European Championship 2014,14,16,8,7,6,9,Belarus,12,21,0.68 
+2014,09,18,18:00,97club,es4x,cache,CIS Rising League Season 1,16,4,11,4,5,0,97club,18,9,1.58 
+2014,09,18,18:00,97club,es4x,mirage,CIS Rising League Season 1,16,4,12,3,4,1,97club,12,11,0.96 
+2014,09,18,18:00,es4x,97club,dust2,CIS Rising League Season 1,16,7,9,6,7,1,97club,10,21,0.51 
+2014,09,09,18:00,France,Belarus,mirage,European Championship 2014,16,4,11,4,5,0,Belarus,10,19,0.57 
+2014,09,02,20:00,97club,Faith,nuke,CIS Rising League Season 1,16,0,15,0,1,0,97club,11,6,1.16 
+2014,09,02,20:00,Faith,97club,mirage,CIS Rising League Season 1,10,16,4,11,6,5,97club,22,18,1.06 
+2014,09,02,20:00,Faith,97club,dust2,CIS Rising League Season 1,21,19,8,7,7,8,97club,22,32,0.77 
+2014,08,26,20:00,97club,UNNAMED,mirage,CIS Rising League Season 1,16,9,11,4,5,5,97club,19,12,1.20 
+2014,08,26,20:00,UNNAMED,97club,dust2,CIS Rising League Season 1,10,16,3,12,7,4,97club,19,16,1.08 
+2014,08,12,21:00,Croatia,Belarus,mirage,European Championship 2014 Qua..,9,16,6,9,3,7,Belarus,20,14,1.12 
+2014,08,12,21:00,Croatia,Belarus,dust2,European Championship 2014 Qua..,3,16,1,14,2,2,Belarus,19,7,1.60 
+2014,07,24,22:00,ACES,97club,nuke,CIS Rising League Season 1,9,16,7,8,2,8,97club,9,18,0.58 
+2014,07,24,22:00,ACES,97club,mirage,CIS Rising League Season 1,14,16,8,7,6,9,97club,21,17,1.17 
+2014,06,24,20:00,dAT,97club,inferno,CIS Rising League Season 1,16,6,12,3,4,3,97club,16,19,0.88 
+2014,06,24,20:00,dAT,97club,nuke,CIS Rising League Season 1,14,16,8,7,6,9,97club,20,20,0.93 
+2014,06,24,20:00,97club,dAT,mirage,CIS Rising League Season 1,13,16,10,5,3,11,97club,19,21,0.91 
+2014,04,28,18:00,USSR,97club,train,SLTV ProSeries IX,16,6,12,3,4,3,97club,9,17,0.82 
+2014,04,28,18:00,97club,USSR,mirage,SLTV ProSeries IX,16,13,5,10,11,3,97club,20,23,0.84 
+2014,04,28,18:00,97club,USSR,inferno,SLTV ProSeries IX,14,16,8,7,6,9,97club,23,21,1.06 

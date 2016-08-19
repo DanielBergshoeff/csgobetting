@@ -1,0 +1,56 @@
+2016,08,09,16:00,Kyrgyzstan,Belarus,cache,World Championships 2016 Europ..,13,16,5,10,8,6,Belarus,23,20,0.98 
+2016,08,09,16:00,Belarus,Kyrgyzstan,mirage,World Championships 2016 Europ..,16,3,13,2,3,1,Belarus,21,11,1.63 
+2016,06,11,13:00,Renegades,FluffyGangsters,mirage,ESL One Cologne 2016 Main Qual..,16,11,11,4,5,7,Fluffy Gangsters,19,20,0.91 
+2016,06,10,13:00,FluffyGangsters,OpTic,train,ESL One Cologne 2016 Main Qual..,9,16,6,9,3,7,Fluffy Gangsters,12,22,0.61 
+2016,06,09,16:55,FluffyGangsters,mousesports,dust2,ESL One Cologne 2016 Main Qual..,16,19,8,7,7,8,Fluffy Gangsters,25,25,0.96 
+2016,06,05,12:00,FluffyGangsters,SpaceSoldiers,train,DreamHack ZOWIE Open Summer 20..,13,16,7,8,6,8,Fluffy Gangsters,14,20,0.74 
+2016,06,05,12:00,FluffyGangsters,SpaceSoldiers,dust2,DreamHack ZOWIE Open Summer 20..,13,16,6,9,7,7,Fluffy Gangsters,15,19,0.75 
+2016,05,29,16:30,BinaryDragons,Arcade,dust2,DreamHack ZOWIE Open Summer 20..,24,28,7,8,8,7,Binary Dragons,33,40,0.83 
+2016,05,29,16:30,BinaryDragons,Arcade,mirage,DreamHack ZOWIE Open Summer 20..,7,16,6,9,1,7,Binary Dragons,14,20,0.77 
+2016,05,29,12:15,BinaryDragons,mix123,mirage,DreamHack ZOWIE Open Summer 20..,16,13,4,11,12,2,Binary Dragons,17,24,0.67 
+2016,05,29,12:15,BinaryDragons,mix123,cobblestone,DreamHack ZOWIE Open Summer 20..,11,16,3,12,8,4,Binary Dragons,16,18,0.85 
+2016,05,29,12:15,BinaryDragons,mix123,dust2,DreamHack ZOWIE Open Summer 20..,16,4,11,4,5,0,Binary Dragons,20,10,1.77 
+2016,05,01,19:45,Empire,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,12,16,6,9,6,7,Fluffy Gangsters,22,19,1.15 
+2016,05,01,19:45,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,16,11,6,9,10,2,Fluffy Gangsters,24,18,1.16 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,16,11,7,8,9,3,Fluffy Gangsters,17,20,0.91 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,dust2,StarLadder Minor CIS - Cologne..,16,14,7,8,9,6,Fluffy Gangsters,21,20,1.07 
+2016,04,30,20:30,FluffyGangsters,Empire,train,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Fluffy Gangsters,9,24,0.45 
+2016,04,30,20:30,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,6,16,2,13,4,3,Fluffy Gangsters,12,17,0.88 
+2016,04,30,20:30,Empire,FluffyGangsters,dust2,StarLadder Minor CIS - Cologne..,3,16,3,12,0,4,Fluffy Gangsters,12,10,1.16 
+2016,04,30,13:00,ANOX,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,15,19,8,7,7,8,Fluffy Gangsters,16,24,0.72 
+2016,04,30,13:00,FluffyGangsters,ANOX,cobblestone,StarLadder Minor CIS - Cologne..,9,16,8,7,1,9,Fluffy Gangsters,12,17,0.75 
+2016,04,30,13:00,ANOX,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,3,16,2,13,1,3,Fluffy Gangsters,15,10,1.14 
+2016,04,28,15:30,FluffyGangsters,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,9,12,3,4,6,Fluffy Gangsters,13,17,0.77 
+2016,04,28,15:30,DigitalWave,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,10,16,3,12,7,4,Fluffy Gangsters,18,12,1.15 
+2016,04,28,11:55,Arcade,FluffyGangsters,train,StarLadder Minor CIS - Cologne..,13,16,7,8,6,8,Fluffy Gangsters,13,20,0.67 
+2016,04,20,20:00,Tempest,FluffyGangsters,mirage,StarLadder Regional Minor Cham..,17,19,10,5,5,10,Fluffy Gangsters,20,22,0.86 
+2016,04,20,20:00,FluffyGangsters,Tempest,dust2,StarLadder Regional Minor Cham..,19,16,5,10,10,5,Fluffy Gangsters,28,21,1.31 
+2016,03,26,19:00,FluffyGangsters,Arcade,inferno,SL I-League Invitational #1 EU..,13,16,9,6,4,10,Fluffy Gangsters,19,22,0.90 
+2016,03,26,19:00,Arcade,FluffyGangsters,mirage,SL I-League Invitational #1 EU..,16,3,13,2,3,1,Fluffy Gangsters,12,18,0.69 
+2016,03,25,19:00,FluffyGangsters,AGG,inferno,SL I-League Invitational #1 EU..,16,13,9,6,7,7,Fluffy Gangsters,23,17,1.20 
+2016,03,23,19:00,CSGL,FluffyGangsters,train,SL I-League Invitational #1 EU..,16,14,7,8,9,6,Fluffy Gangsters,22,23,0.90 
+2016,03,20,13:00,G2,FluffyGangsters,inferno,DreamHack Masters Malmö 2016 E..,16,2,13,2,3,0,Fluffy Gangsters,7,17,0.43 
+2016,03,20,13:00,G2,FluffyGangsters,dust2,DreamHack Masters Malmö 2016 E..,16,13,8,7,8,6,Fluffy Gangsters,17,24,0.77 
+2016,03,19,18:25,FluffyGangsters,Tempest,mirage,DreamHack Masters Malmö 2016 E..,16,5,11,4,5,1,Fluffy Gangsters,15,12,1.11 
+2016,03,11,20:00,LeiSuRe,FluffyGangsters,dust2,Razer Rising Stars European Le..,16,14,5,10,11,4,Fluffy Gangsters,24,22,1.12 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,mirage,Binary Dragons Cup Season 2,12,16,5,10,7,6,Fluffy Gangsters,15,23,0.68 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,dust2,Binary Dragons Cup Season 2,19,16,4,11,11,4,Fluffy Gangsters,21,25,0.87 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,train,Binary Dragons Cup Season 2,13,16,9,6,4,10,Fluffy Gangsters,18,21,0.90 
+2016,02,06,21:20,FluffyGangsters,Revolution,dust2,Binary Dragons Hellstore Winte..,17,19,9,6,6,9,Fluffy Gangsters,26,24,0.99 
+2016,02,06,21:20,FluffyGangsters,Revolution,cache,Binary Dragons Hellstore Winte..,12,16,5,10,7,6,Fluffy Gangsters,21,19,1.12 
+2016,01,23,15:30,FluffyGangsters,Quest,mirage,StarLadder Regional Minor Cham..,14,16,6,9,8,7,Fluffy Gangsters,28,24,1.17 
+2016,01,22,12:00,FluffyGangsters,Method,overpass,StarLadder Regional Minor Cham..,10,16,6,9,4,7,Fluffy Gangsters,18,20,0.97 
+2014,10,16,19:00,Belgium,Belarus,mirage,European Championship 2014,3,16,3,12,0,4,Belarus,18,9,1.47 
+2014,10,10,22:30,Turkey,Belarus,nuke,European Championship 2014,10,16,4,11,6,5,Belarus,21,18,1.06 
+2014,09,27,21:25,Epsilon,A-Gaming,cache,SLTV StarSeries XI,16,2,14,1,2,1,A-Gaming,7,16,0.45 
+2014,09,23,23:00,LDLC,A-Gaming,dust2,SLTV StarSeries XI,16,6,12,3,4,3,A-Gaming,7,20,0.39 
+2014,09,23,22:20,TheLoneRangers,A-Gaming,cache,SLTV StarSeries XI,16,7,11,4,5,3,A-Gaming,16,18,0.86 
+2014,09,23,21:00,A-Gaming,HellRaisers,mirage,SLTV StarSeries XI,13,16,7,8,6,8,A-Gaming,26,22,1.33 
+2014,09,22,18:00,NiP,A-Gaming,nuke,SLTV StarSeries XI,16,3,12,3,4,0,A-Gaming,9,18,0.47 
+2014,09,21,22:35,myXMG,A-Gaming,dust2,SLTV StarSeries XI,16,3,14,1,2,2,A-Gaming,5,18,0.35 
+2014,09,21,20:30,A-Gaming,Orbit,mirage,SLTV StarSeries XI,13,16,8,7,5,9,A-Gaming,20,22,0.87 
+2014,09,09,18:00,France,Belarus,mirage,European Championship 2014,16,4,11,4,5,0,Belarus,15,17,0.94 
+2014,08,28,21:02,Italy,Belarus,nuke,European Championship 2014 Qua..,4,16,4,11,0,5,Belarus,16,13,1.13 
+2014,08,28,21:00,Italy,Belarus,dust2,European Championship 2014 Qua..,7,16,6,9,1,7,Belarus,10,17,0.68 
+2014,08,22,20:25,noMERCY,A-Gaming,dust2,SLTV ProSeries X,13,16,7,8,6,8,A-Gaming,19,22,0.78 
+2014,08,22,20:25,noMERCY,A-Gaming,mirage,SLTV ProSeries X,14,16,6,9,8,7,A-Gaming,21,22,0.92 

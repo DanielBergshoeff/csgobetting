@@ -1,0 +1,96 @@
+2016,07,16,21:00,AlienTech,beGenius,dust2,DreamHack Valencia 2016,16,11,8,7,8,4,AlienTech,30,15,1.74 
+2016,07,16,21:00,AlienTech,beGenius,nuke,DreamHack Valencia 2016,16,10,8,7,8,3,AlienTech,15,17,0.88 
+2016,07,16,14:45,AlienTech,gBots,dust2,DreamHack Valencia 2016,16,6,11,4,5,2,AlienTech,13,10,1.12 
+2016,07,16,14:45,AlienTech,gBots,cache,DreamHack Valencia 2016,16,6,13,2,3,4,AlienTech,17,12,1.10 
+2016,07,15,14:30,Genus,AlienTech,cobblestone,DreamHack Valencia 2016,7,16,4,11,3,5,AlienTech,18,14,1.17 
+2016,07,15,14:30,AlienTech,Genus,mirage,DreamHack Valencia 2016,16,9,9,6,7,3,AlienTech,18,12,1.21 
+2016,07,03,17:15,jA'Vi,AlienTech,dust2,AlienTech CS:GO TiTans II Fina..,19,17,12,3,3,12,AlienTech,22,24,0.93 
+2016,07,03,17:15,jA'Vi,AlienTech,cache,AlienTech CS:GO TiTans II Fina..,16,13,7,8,9,5,AlienTech,20,23,0.88 
+2016,07,03,17:15,jA'Vi,AlienTech,nuke,AlienTech CS:GO TiTans II Fina..,14,16,6,9,8,7,AlienTech,19,22,0.82 
+2016,07,03,17:15,AlienTech,jA'Vi,mirage,AlienTech CS:GO TiTans II Fina..,1,16,1,14,0,2,AlienTech,6,17,0.33 
+2016,07,02,20:45,jA'Vi,AlienTech,mirage,AlienTech CS:GO TiTans II Fina..,14,16,11,4,3,12,AlienTech,21,18,0.99 
+2016,07,02,20:45,AlienTech,jA'Vi,cache,AlienTech CS:GO TiTans II Fina..,16,11,10,5,6,6,AlienTech,14,14,0.85 
+2016,07,02,14:45,AlienTech,Phantoms,cache,AlienTech CS:GO TiTans II Fina..,16,11,7,8,9,3,AlienTech,23,13,1.31 
+2016,07,02,14:45,Phantoms,AlienTech,mirage,AlienTech CS:GO TiTans II Fina..,14,16,11,4,3,12,AlienTech,28,20,1.23 
+2016,05,28,21:15,AlienTech,jA'Vi,cache,AlienTech CS:GO Invitational I..,19,16,4,11,11,4,jA'Vi,29,22,1.23 
+2016,05,28,21:15,jA'Vi,AlienTech,dust2,AlienTech CS:GO Invitational I..,5,16,5,10,0,6,jA'Vi,12,16,0.78 
+2016,05,28,21:15,AlienTech,jA'Vi,cobblestone,AlienTech CS:GO Invitational I..,14,16,6,9,8,7,jA'Vi,20,17,1.08 
+2016,05,23,20:10,CPHWolves,k1ck,cobblestone,Operation: Kinguin #3,16,12,6,9,10,3,k1ck,9,24,0.45 
+2016,05,23,20:10,k1ck,CPHWolves,dust2,Operation: Kinguin #3,4,16,3,12,1,4,k1ck,5,18,0.32 
+2016,05,11,17:20,HeyGuys,k1ck,mirage,Operation: Kinguin #3,16,4,11,4,5,0,k1ck,10,18,0.59 
+2016,05,11,17:20,k1ck,HeyGuys,dust2,Operation: Kinguin #3,11,16,7,8,4,8,k1ck,16,19,0.84 
+2016,05,11,17:20,k1ck,HeyGuys,cobblestone,Operation: Kinguin #3,22,20,7,8,8,7,k1ck,29,31,0.94 
+2016,05,04,20:20,k1ck,DenDD,cache,Operation: Kinguin #3,19,15,9,6,6,9,k1ck,22,27,0.83 
+2016,05,04,20:20,DenDD,k1ck,cobblestone,Operation: Kinguin #3,13,16,10,5,3,11,k1ck,11,25,0.49 
+2016,04,10,17:30,k1ck,gBots,inferno,AlienTech CS:GO League Finals,16,10,11,4,5,6,k1ck,10,17,0.65 
+2016,04,10,17:30,k1ck,gBots,mirage,AlienTech CS:GO League Finals,16,14,5,10,11,4,k1ck,19,22,0.92 
+2016,04,10,17:30,k1ck,gBots,cache,AlienTech CS:GO League Finals,8,16,2,13,6,3,k1ck,15,20,0.88 
+2016,04,09,18:00,k1ck,gBots,cobblestone,AlienTech CS:GO League Finals,16,11,7,8,9,3,k1ck,15,21,0.71 
+2016,04,09,18:00,k1ck,gBots,cache,AlienTech CS:GO League Finals,16,8,9,6,7,2,k1ck,20,11,1.50 
+2016,04,09,18:00,gBots,k1ck,mirage,AlienTech CS:GO League Finals,16,4,12,3,4,1,k1ck,6,19,0.32 
+2016,04,08,18:00,k1ck,k1ck,mirage,AlienTech CS:GO League Finals,16,14,6,9,10,5,k1ck,22,20,1.12 
+2016,04,08,18:00,k1ck,k1ck,cache,AlienTech CS:GO League Finals,6,16,4,11,2,5,k1ck,21,15,1.27 
+2016,04,08,18:00,k1ck,k1ck,cobblestone,AlienTech CS:GO League Finals,6,16,4,11,2,5,k1ck,13,16,0.82 
+2016,04,08,11:20,k1ck,ImperioMultimedia,cobblestone,AlienTech CS:GO League Finals,16,5,12,3,4,2,k1ck,16,10,1.23 
+2016,04,08,11:20,ImperioMultimedia,k1ck,cache,AlienTech CS:GO League Finals,2,16,2,13,0,3,k1ck,18,7,1.50 
+2016,03,24,22:00,k1ck,Torpedo,cobblestone,Operation: Kinguin #2,10,16,8,7,2,9,k1ck,15,20,0.87 
+2016,03,24,22:00,k1ck,Torpedo,mirage,Operation: Kinguin #2,13,16,10,5,3,11,k1ck,18,21,0.98 
+2016,03,21,22:15,CSGL,k1ck,cobblestone,Operation: Kinguin #2,19,17,5,10,10,5,k1ck,25,28,0.89 
+2016,03,21,22:15,k1ck,CSGL,cache,Operation: Kinguin #2,5,16,4,11,1,5,k1ck,8,20,0.41 
+2016,03,16,21:00,k1ck,gBots,mirage,AlienTech CS:GO League,9,16,5,10,4,6,k1ck,14,19,0.78 
+2016,03,16,21:00,k1ck,gBots,cobblestone,AlienTech CS:GO League,14,16,4,11,10,5,k1ck,16,24,0.74 
+2016,03,07,23:45,k1ck,AlienTech,cache,AlienTech CS:GO League,16,12,12,3,4,9,k1ck,29,16,1.55 
+2016,03,07,23:45,k1ck,AlienTech,cobblestone,AlienTech CS:GO League,12,16,8,7,4,9,k1ck,17,22,0.79 
+2016,03,07,21:00,k1ck,nerdRage,mirage,AlienTech CS:GO League,22,19,8,7,7,8,k1ck,17,28,0.68 
+2016,03,07,21:00,k1ck,nerdRage,cobblestone,AlienTech CS:GO League,19,17,7,8,8,7,k1ck,22,24,0.93 
+2016,02,25,19:00,k1ck,LDLCWhite,cobblestone,Operation: Kinguin #2,16,12,6,9,10,3,k1ck,24,20,1.11 
+2016,02,25,19:00,LDLCWhite,k1ck,cache,Operation: Kinguin #2,16,13,8,7,8,6,k1ck,13,23,0.66 
+2016,02,25,19:00,k1ck,LDLCWhite,dust2,Operation: Kinguin #2,16,10,10,5,6,5,k1ck,22,18,1.14 
+2016,02,23,21:15,k1ck,Galatics,cache,AlienTech CS:GO League,16,9,7,8,9,1,k1ck,21,17,1.31 
+2016,02,23,21:15,k1ck,Galatics,cobblestone,AlienTech CS:GO League,16,11,9,6,7,5,k1ck,27,18,1.41 
+2016,02,21,23:00,k1ck,ImperioMultimedia,inferno,AlienTech CS:GO League,13,16,7,8,6,8,k1ck,13,23,0.60 
+2016,02,21,23:00,k1ck,ImperioMultimedia,cache,AlienTech CS:GO League,16,3,12,3,4,0,k1ck,15,8,1.41 
+2016,02,16,23:00,k1ck,Publiclir.se,cache,AlienTech CS:GO League,3,16,3,12,0,4,k1ck,7,16,0.47 
+2016,02,16,23:00,Publiclir.se,k1ck,mirage,AlienTech CS:GO League,16,9,6,9,10,0,k1ck,18,17,1.03 
+2016,01,03,21:00,k1ck,MIXCAT,cobblestone,AlienTech CS:GO European Cup I..,13,16,2,13,11,3,k1ck,12,26,0.43 
+2016,01,03,21:00,k1ck,MIXCAT,mirage,AlienTech CS:GO European Cup I..,12,16,5,10,7,6,k1ck,20,21,1.01 
+2015,12,16,21:00,k1ck,MIXCAT,dust2,AlienTech CS:GO European Cup I..,6,16,4,11,2,5,k1ck,11,17,0.71 
+2015,12,14,21:00,k1ck,Publiclir.se,cobblestone,AlienTech CS:GO European Cup I..,16,14,6,9,10,5,k1ck,21,23,0.91 
+2015,11,22,19:00,k1ck,RCTIC,cobblestone,AlienTech AllStars,13,16,6,9,7,7,k1ck,20,22,0.89 
+2015,11,22,19:00,RCTIC,k1ck,dust2,AlienTech AllStars,16,14,4,11,12,3,k1ck,14,21,0.65 
+2015,11,22,11:30,OnlineBOTS,k1ck,inferno,AlienTech AllStars,13,16,9,6,4,10,k1ck,17,20,0.80 
+2015,11,22,11:30,k1ck,OnlineBOTS,dust2,AlienTech AllStars,16,7,12,3,4,4,k1ck,19,15,1.20 
+2015,11,21,15:55,k1ck,Epsilon,dust2,AlienTech AllStars,16,10,7,8,9,2,k1ck,24,14,1.35 
+2015,11,21,15:55,k1ck,Epsilon,overpass,AlienTech AllStars,16,3,12,3,4,0,k1ck,18,7,1.70 
+2015,11,20,23:00,k1ck,RCTIC,mirage,AlienTech AllStars,16,9,8,7,8,2,k1ck,18,14,1.08 
+2015,11,20,22:10,k1ck,Equilibrium,cache,AlienTech AllStars,16,7,9,6,7,1,k1ck,21,16,1.31 
+2015,11,20,20:25,k1ck,FTW.G2A,dust2,AlienTech AllStars,16,8,12,3,4,5,k1ck,12,14,0.90 
+2015,10,24,18:30,BulletsRage.Pro,k1ck,inferno,AlienTech CS:GO TiTans I Final..,16,11,8,7,8,4,k1ck,15,20,0.87 
+2015,10,24,11:30,KeydStars,k1ck,mirage,AlienTech CS:GO TiTans I Final..,16,5,12,3,4,2,k1ck,15,16,0.93 
+2015,10,24,11:30,k1ck,KeydStars,cobblestone,AlienTech CS:GO TiTans I Final..,7,16,3,12,4,4,k1ck,13,21,0.77 
+2015,10,19,23:00,k1ck,BulletsRage.Pro,inferno,AlienTech CS:GO TiTans I,16,12,6,9,10,3,k1ck,17,18,0.90 
+2015,10,13,23:00,k1ck,3v,inferno,AlienTech CS:GO TiTans I,16,5,13,2,3,3,k1ck,20,7,1.59 
+2015,09,28,23:15,k1ck,GRS.GP,dust2,D!ngIT $2000 Weekly Cup #19,9,16,5,10,4,6,k1ck,11,18,0.64 
+2015,09,28,18:15,NoProblem!,k1ck,mirage,D!ngIT $2000 Weekly Cup #19,16,8,8,7,8,1,k1ck,16,18,0.91 
+2015,09,28,18:15,k1ck,NoProblem!,cache,D!ngIT $2000 Weekly Cup #19,9,16,5,10,4,6,k1ck,15,18,0.85 
+2015,09,28,18:15,k1ck,NoProblem!,cobblestone,D!ngIT $2000 Weekly Cup #19,16,11,11,4,5,7,k1ck,29,16,1.47 
+2015,09,16,18:00,Kazakhstan,Portugal,dust2,World Championships 2015 Europ..,3,16,2,13,1,3,Portugal,10,9,0.93 
+2015,09,16,17:00,Portugal,Romania,dust2,World Championships 2015 Europ..,16,11,6,9,10,2,Portugal,16,19,0.84 
+2015,09,14,19:00,Denmark,Portugal,cache,World Championships 2015 Europ..,16,3,14,1,2,2,Portugal,10,17,0.56 
+2015,08,27,16:30,Portugal,Switzerland,mirage,World Championships 2015 Europ..,16,3,12,3,4,0,Portugal,12,4,1.23 
+2015,08,27,16:30,Switzerland,Portugal,dust2,World Championships 2015 Europ..,8,16,7,8,1,8,Portugal,22,9,1.59 
+2015,08,17,21:00,PlayingDucks,k1ck,mirage,xfunction Masters Season III,14,16,8,7,6,9,k1ck,25,23,1.08 
+2015,08,17,21:00,PlayingDucks,k1ck,inferno,xfunction Masters Season III,17,19,7,8,8,7,k1ck,29,26,1.08 
+2015,08,11,21:45,AlienTech,OverGaming,cache,99Damage Arena #12,12,16,3,12,9,4,AlienTech,21,21,0.95 
+2015,08,11,21:45,OverGaming,AlienTech,dust2,99Damage Arena #12,16,4,11,4,5,0,AlienTech,6,16,0.41 
+2014,12,21,19:00,AlienTech,k1ck,cache,xfunction Masters by hitbox,6,16,6,9,0,7,AlienTech,13,20,0.62 
+2014,12,21,19:00,AlienTech,k1ck,nuke,xfunction Masters by hitbox,11,16,9,6,2,10,AlienTech,21,18,1.18 
+2014,12,21,19:00,k1ck,AlienTech,inferno,xfunction Masters by hitbox,20,22,13,2,2,13,AlienTech,25,28,0.89 
+2014,10,30,18:00,AlienTech,VirtualImpact,dust2,ESWC 2014,16,6,9,6,7,0,AlienTech,18,12,1.23 
+2014,10,30,16:30,Planetkey,AlienTech,nuke,ESWC 2014,16,3,12,3,4,0,AlienTech,2,18,0.13 
+2014,10,30,13:00,LDLC,AlienTech,inferno,ESWC 2014,16,3,12,3,4,0,AlienTech,5,18,0.26 
+2014,10,30,11:40,Cloud9,AlienTech,dust2,ESWC 2014,16,5,13,2,3,3,AlienTech,11,19,0.68 
+2014,10,30,11:30,Virtus.pro,AlienTech,cache,ESWC 2014,16,10,12,3,4,7,AlienTech,13,17,0.77 
+2014,04,26,23:30,AlienTech,NorthernGrade,nuke,1Life Fraglider Invitational,17,19,11,4,4,11,NorthernGrade,16,25,0.78 
+2014,04,26,21:00,Panthers,NorthernGrade,dust2,1Life Fraglider Invitational,5,16,3,12,2,4,NorthernGrade,17,12,1.25 
+2014,04,26,18:00,AlienTech,NorthernGrade,dust2,1Life Fraglider Invitational,9,16,6,9,3,7,NorthernGrade,23,12,1.47 

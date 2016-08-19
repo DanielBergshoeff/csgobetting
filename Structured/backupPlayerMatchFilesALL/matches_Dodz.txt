@@ -1,0 +1,4 @@
+2014,08,27,19:30,Latvia,Estonia,mirage,European Championship 2014 Qua..,16,12,10,5,6,7,Estonia,11,22,0.54 
+2014,08,27,19:30,Estonia,Latvia,inferno,European Championship 2014 Qua..,14,16,11,4,3,12,Estonia,15,18,0.88 
+2014,08,27,19:30,Estonia,Latvia,dust2,European Championship 2014 Qua..,16,5,11,4,5,1,Estonia,14,10,1.07 
+2014,08,11,20:00,fnatic,OnlineBOTS,dust2,SLTV StarSeries X,16,1,14,1,2,0,OnlineBOTS,6,17,0.29 

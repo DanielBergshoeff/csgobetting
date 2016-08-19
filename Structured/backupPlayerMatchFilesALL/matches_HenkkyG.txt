@@ -1,0 +1,87 @@
+2016,07,29,17:00,eSuba,DenDD,cache,Razer Rising Stars European Le..,10,16,3,12,7,4,eSuba,12,20,0.66 
+2016,07,29,17:00,DenDD,eSuba,mirage,Razer Rising Stars European Le..,19,17,10,5,5,10,eSuba,27,25,1.13 
+2016,07,20,21:00,Iwku,eSuba,cache,Razer Rising Stars European Le..,12,16,7,8,5,8,eSuba,22,18,1.16 
+2016,07,20,21:00,eSuba,Iwku,mirage,Razer Rising Stars European Le..,10,16,10,5,0,11,eSuba,19,20,0.98 
+2016,07,20,18:30,eSuba,ALTERNATEaTTaX,dust2,Razer Rising Stars European Le..,6,16,6,9,0,7,eSuba,10,19,0.60 
+2016,07,20,18:30,ALTERNATEaTTaX,eSuba,cache,Razer Rising Stars European Le..,16,6,10,5,6,1,eSuba,17,19,0.99 
+2016,07,04,20:00,eSuba,Bpro,dust2,Razer Rising Stars European Le..,7,16,4,11,3,5,eSuba,14,17,0.92 
+2016,07,04,20:00,Bpro,eSuba,train,Razer Rising Stars European Le..,16,10,10,5,6,5,eSuba,20,21,0.93 
+2016,07,03,20:45,Escape,eSuba,cache,Razer Rising Stars European Le..,19,15,7,8,8,7,eSuba,21,23,0.93 
+2016,07,03,20:45,eSuba,Escape,mirage,Razer Rising Stars European Le..,8,16,5,10,3,6,eSuba,11,20,0.57 
+2016,06,26,20:00,eXtatus,eSuba,overpass,RoG Finals 10,16,5,13,2,3,3,eSuba,8,19,0.45 
+2016,06,26,20:00,eXtatus,eSuba,mirage,RoG Finals 10,16,11,10,5,6,6,eSuba,15,22,0.68 
+2016,06,26,20:00,eXtatus,eSuba,dust2,RoG Finals 10,14,16,13,2,1,14,eSuba,26,20,1.29 
+2016,06,25,19:30,eSuba,Inside,overpass,RoG Finals 10,16,4,11,4,5,0,eSuba,14,11,1.07 
+2016,06,25,19:30,eSuba,Inside,mirage,RoG Finals 10,16,4,11,4,5,0,eSuba,17,9,1.36 
+2016,06,19,18:25,eSuba,Orbit,cache,Razer Rising Stars European Le..,4,16,3,12,1,4,eSuba,6,18,0.33 
+2016,06,19,18:25,eSuba,Orbit,dust2,Razer Rising Stars European Le..,4,16,4,11,0,5,eSuba,9,16,0.66 
+2016,06,14,20:30,LDLC,eSuba,nuke,Razer Rising Stars European Le..,16,8,10,5,6,3,eSuba,12,20,0.63 
+2016,06,14,20:30,LDLC,eSuba,dust2,Razer Rising Stars European Le..,16,2,13,2,3,0,eSuba,8,17,0.51 
+2016,06,14,17:10,eSuba,k1ck,cache,Operation: Kinguin #3,11,16,10,5,1,11,eSuba,16,22,0.78 
+2016,06,14,17:10,eSuba,k1ck,cobblestone,Operation: Kinguin #3,9,16,4,11,5,5,eSuba,26,17,1.50 
+2016,06,14,17:10,k1ck,eSuba,mirage,Operation: Kinguin #3,9,16,7,8,2,8,eSuba,27,18,1.48 
+2016,06,06,20:30,eSuba,PENTA,cache,Razer Rising Stars European Le..,8,16,7,8,1,8,eSuba,14,17,0.80 
+2016,06,01,17:30,LDLC,eSuba,cache,Operation: Kinguin #3,16,12,10,5,6,7,eSuba,22,19,1.19 
+2016,06,01,17:30,LDLC,eSuba,cobblestone,Operation: Kinguin #3,16,13,12,3,4,10,eSuba,21,22,0.88 
+2016,05,26,20:15,eSuba,SpaceSoldiers,cache,Razer Rising Stars European Le..,2,16,2,13,0,3,eSuba,7,15,0.53 
+2016,05,26,20:15,eSuba,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,8,16,5,10,3,6,eSuba,15,19,0.79 
+2016,05,23,20:00,eSuba,PLAYZONE,cache,Razer Rising Stars European Le..,9,16,6,9,3,7,eSuba,15,19,0.81 
+2016,05,23,20:00,eSuba,PLAYZONE,mirage,Razer Rising Stars European Le..,22,20,7,8,8,7,eSuba,30,28,1.03 
+2016,05,21,18:00,eSuba,GUNRUNNERS,cache,PLAYzone League I LAN Finals,16,5,11,4,5,1,eSuba,10,11,0.95 
+2016,05,21,18:00,eSuba,GUNRUNNERS,mirage,PLAYzone League I LAN Finals,16,9,13,2,3,7,eSuba,24,14,1.44 
+2016,05,21,18:00,GUNRUNNERS,eSuba,dust2,PLAYzone League I LAN Finals,16,12,9,6,7,6,eSuba,20,21,0.95 
+2016,05,21,10:45,eXtatus,eSuba,dust2,PLAYzone League I LAN Finals,16,14,9,6,7,8,eSuba,20,23,0.92 
+2016,05,21,10:45,eXtatus,eSuba,mirage,PLAYzone League I LAN Finals,16,14,5,10,11,4,eSuba,16,22,0.78 
+2016,05,04,17:10,eSuba,Arcade,mirage,Operation: Kinguin #3,13,16,7,8,6,8,eSuba,15,19,0.77 
+2016,05,04,17:10,Arcade,eSuba,inferno,Operation: Kinguin #3,16,13,10,5,6,8,eSuba,9,23,0.45 
+2016,05,02,20:55,Tricked,eSuba,mirage,Operation: Kinguin #3,16,9,10,5,6,4,eSuba,14,19,0.71 
+2016,05,02,20:55,eSuba,Tricked,cache,Operation: Kinguin #3,17,19,4,11,11,4,eSuba,22,26,0.82 
+2016,05,01,14:45,eSuba,GUNRUNNERS,mirage,TIGER MASTERS Mid-season Final..,12,16,9,6,3,10,eSuba,25,19,1.32 
+2016,05,01,14:45,GUNRUNNERS,eSuba,cache,TIGER MASTERS Mid-season Final..,16,14,5,10,11,4,eSuba,18,23,0.94 
+2016,04,28,17:00,PENTA,eSuba,cobblestone,Operation: Kinguin #3,16,5,13,2,3,3,eSuba,14,16,0.83 
+2016,04,28,17:00,eSuba,PENTA,mirage,Operation: Kinguin #3,16,13,9,6,7,7,eSuba,20,18,1.09 
+2016,04,28,17:00,eSuba,PENTA,cache,Operation: Kinguin #3,1,16,1,14,0,2,eSuba,6,16,0.38 
+2016,03,13,13:30,eSuba,G2,train,DreamHack Masters Malmö 2016 E..,12,16,6,9,6,7,eSuba,24,21,1.11 
+2016,03,13,13:30,G2,eSuba,dust2,DreamHack Masters Malmö 2016 E..,16,6,11,4,5,2,eSuba,5,20,0.26 
+2016,03,13,13:30,eSuba,G2,cache,DreamHack Masters Malmö 2016 E..,16,8,10,5,6,3,eSuba,14,12,0.99 
+2016,03,12,18:05,eSuba,BFFsIRL,cache,DreamHack Masters Malmö 2016 E..,16,9,10,5,6,4,eSuba,12,17,0.78 
+2016,03,11,23:50,eSuba,LeiSuRe,mirage,Razer Rising Stars European Le..,16,4,13,2,3,2,eSuba,23,11,1.82 
+2016,03,11,21:15,eSuba,RCTIC,cache,Razer Rising Stars European Le..,16,8,7,8,9,0,eSuba,16,13,0.98 
+2016,01,28,18:15,eSuba,Method,mirage,Uprise Champions Cup Season 4 ..,5,16,4,11,1,5,eSuba,11,17,0.68 
+2016,01,26,23:00,neXtPlease!,eSuba,mirage,D!ngIT $2000 Weekly Cup #35,16,21,7,8,8,7,eSuba,30,25,1.15 
+2016,01,26,19:30,seven,eSuba,dust2,D!ngIT $2000 Weekly Cup #35,12,16,6,9,6,7,eSuba,16,22,0.82 
+2016,01,26,19:30,seven,eSuba,cache,D!ngIT $2000 Weekly Cup #35,13,16,7,8,6,8,eSuba,34,19,1.80 
+2016,01,25,21:30,neXtPlease!,eSuba,cache,D!ngIT $2000 Weekly Cup #35,3,16,3,12,0,4,eSuba,18,12,1.31 
+2016,01,25,21:30,eSuba,neXtPlease!,mirage,D!ngIT $2000 Weekly Cup #35,16,10,12,3,4,7,eSuba,22,17,1.28 
+2015,12,20,11:30,GUNRUNNERS,eSuba,mirage,ASUS Finals 9,16,12,6,9,10,3,eSuba,25,21,1.20 
+2015,12,20,11:30,eSuba,GUNRUNNERS,cache,ASUS Finals 9,7,16,3,12,4,4,eSuba,20,18,1.23 
+2015,12,20,11:30,GUNRUNNERS,eSuba,inferno,ASUS Finals 9,3,16,3,12,0,4,eSuba,13,10,1.08 
+2015,12,19,17:30,MajesticLions,eSuba,inferno,ASUS Finals 9,22,18,6,9,9,6,eSuba,21,29,0.75 
+2015,12,19,17:30,eSuba,MajesticLions,mirage,ASUS Finals 9,12,16,10,5,2,11,eSuba,18,21,0.80 
+2015,12,19,17:30,eSuba,MajesticLions,dust2,ASUS Finals 9,16,11,8,7,8,4,eSuba,22,20,1.17 
+2015,12,15,21:15,eSuba,melty,cache,D!ngIT $2000 Weekly Cup #30,14,16,7,8,7,8,eSuba,18,22,0.83 
+2015,12,15,17:30,WRTP,eSuba,inferno,D!ngIT $2000 Weekly Cup #30,4,16,4,11,0,5,eSuba,13,13,0.94 
+2015,12,14,20:00,melty,eSuba,dust2,D!ngIT $2000 Weekly Cup #30,16,13,7,8,9,5,eSuba,16,20,0.77 
+2015,12,14,20:00,eSuba,melty,inferno,D!ngIT $2000 Weekly Cup #30,4,16,4,11,0,5,eSuba,17,14,1.10 
+2015,12,10,22:00,eSuba,YP,dust2,QuickShot Arena #18,6,16,1,14,5,2,eSuba,12,17,0.75 
+2015,12,10,20:45,eSuba,FlipSid3,inferno,QuickShot Arena #18,12,16,8,7,4,9,eSuba,21,21,1.04 
+2015,12,10,17:00,YP,eSuba,mirage,QuickShot Arena #18,14,16,9,6,5,10,eSuba,10,23,0.49 
+2015,12,04,17:00,SpaceSoldiers,eSuba,dust2,QuickShot Arena #17,16,4,12,3,4,1,eSuba,8,20,0.39 
+2015,12,04,17:00,SpaceSoldiers,eSuba,train,QuickShot Arena #17,16,4,14,1,2,3,eSuba,15,15,1.06 
+2015,12,04,17:00,eSuba,SpaceSoldiers,mirage,QuickShot Arena #17,19,17,7,8,8,7,eSuba,24,26,0.98 
+2015,12,02,22:00,GameplayDNA,eSuba,inferno,QuickShot Arena #17,8,16,4,11,4,5,eSuba,15,15,1.00 
+2015,12,02,20:45,eSuba,NoProblem!,cache,QuickShot Arena #17,9,16,4,11,5,5,eSuba,10,19,0.58 
+2015,12,02,17:00,GameplayDNA,eSuba,mirage,QuickShot Arena #17,2,16,2,13,0,3,eSuba,24,11,2.04 
+2015,11,20,22:00,LowLandLions,eSuba,inferno,QuickShot Arena #15,16,6,11,4,5,2,eSuba,10,19,0.57 
+2015,11,20,19:30,eSuba,Refuse,mirage,QuickShot Arena #15,16,5,13,2,3,3,eSuba,16,11,1.22 
+2015,11,20,18:15,LowLandLions,eSuba,mirage,QuickShot Arena #15,16,12,9,6,7,6,eSuba,24,21,1.17 
+2015,11,10,21:30,Enso,eSuba,mirage,D!ngIT $2000 Weekly Cup #25,14,16,8,7,6,9,eSuba,19,22,0.94 
+2015,11,10,21:30,Enso,eSuba,dust2,D!ngIT $2000 Weekly Cup #25,10,16,3,12,7,4,eSuba,23,17,1.31 
+2015,11,10,20:10,eSuba,neXtPlease!,cache,D!ngIT $2000 Weekly Cup #25,16,14,7,8,9,6,eSuba,27,23,1.12 
+2015,11,09,22:30,nerdRage,eSuba,mirage,D!ngIT $2000 Weekly Cup #25,12,16,9,6,3,10,eSuba,20,18,1.10 
+2015,11,09,17:30,neXtPlease!,eSuba,dust2,D!ngIT $2000 Weekly Cup #25,16,7,9,6,7,1,eSuba,10,20,0.52 
+2015,11,09,17:30,eSuba,neXtPlease!,cache,D!ngIT $2000 Weekly Cup #25,11,16,5,10,6,6,eSuba,22,22,0.96 
+2015,11,09,17:30,neXtPlease!,eSuba,inferno,D!ngIT $2000 Weekly Cup #25,10,16,7,8,3,8,eSuba,15,18,0.82 
+2015,11,07,15:30,nEophyte,eSuba,inferno,MČR 2015,16,9,8,7,8,2,eSuba,10,20,0.52 
+2015,11,07,15:30,eSuba,nEophyte,cache,MČR 2015,11,16,10,5,1,11,eSuba,19,21,0.98 
+2015,11,07,15:30,eSuba,nEophyte,mirage,MČR 2015,16,4,11,4,5,0,eSuba,22,10,1.65 

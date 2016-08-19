@@ -1,0 +1,27 @@
+2016,03,24,22:35,Alpha,Bananaboys,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,13,5,10,11,3,Bananaboys,16,20,0.87 
+2016,03,24,22:35,Alpha,Bananaboys,dust2,Copenhagen Games 2016 BYOC Qua..,16,14,6,9,10,5,Bananaboys,15,18,0.82 
+2016,03,24,22:35,Bananaboys,Alpha,overpass,Copenhagen Games 2016 BYOC Qua..,16,12,6,9,10,3,Bananaboys,25,21,1.28 
+2016,03,24,19:00,Bananaboys,naptoR.Factory,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,22,7,1.87 
+2016,03,24,19:00,Bananaboys,naptoR.Factory,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,23,7,2.08 
+2016,03,24,15:30,Bananaboys,Recursive,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,18,7,1.53 
+2016,03,24,13:00,Bananaboys,Quantaya,dust2,Copenhagen Games 2016 BYOC Qua..,19,16,7,8,8,7,Bananaboys,40,23,1.60 
+2015,08,18,18:00,LondonC,Phenomenon,dust2,Hitbox Arena Showdown Invitati..,6,16,3,12,3,4,London C,9,18,0.60 
+2015,08,14,21:15,Sweden,Norway,mirage,King of Nordic Season 1,16,8,8,7,8,1,Norway,7,20,0.40 
+2014,12,09,18:00,Clutchit.org,PENTA,dust2,99Damage Arena #2,14,16,7,8,7,8,Clutchit.org,16,23,0.69 
+2014,12,09,18:00,PENTA,Clutchit.org,mirage,99Damage Arena #2,16,13,10,5,6,8,Clutchit.org,24,19,1.18 
+2014,12,08,21:30,Clutchit.org,myXMG,inferno,99Damage Arena #2,16,2,13,2,3,0,Clutchit.org,19,7,1.70 
+2014,12,08,21:30,myXMG,Clutchit.org,cobblestone,99Damage Arena #2,16,6,12,3,4,3,Clutchit.org,7,17,0.45 
+2014,12,08,21:30,myXMG,Clutchit.org,mirage,99Damage Arena #2,17,19,9,6,6,9,Clutchit.org,17,23,0.75 
+2014,12,08,18:00,Clutchit.org,3DMAX,dust2,99Damage Arena #2,16,14,9,6,7,8,Clutchit.org,24,15,1.27 
+2014,12,08,18:00,3DMAX,Clutchit.org,mirage,99Damage Arena #2,6,16,6,9,0,7,Clutchit.org,17,12,1.17 
+2014,12,08,18:00,Clutchit.org,3DMAX,overpass,99Damage Arena #2,13,16,9,6,4,10,Clutchit.org,12,20,0.66 
+2014,11,14,22:00,Virtus.pro,LondonC,overpass,Caseking King of Kings,16,5,11,4,5,1,London C,12,15,0.79 
+2014,11,14,22:00,LondonC,Virtus.pro,cache,Caseking King of Kings,10,16,5,10,5,6,London C,13,17,0.76 
+2014,11,13,18:00,Virtus.pro,LondonC,overpass,Caseking King of Kings,14,16,7,8,7,8,London C,19,18,0.97 
+2014,11,05,19:00,Sweden,Norway,inferno,European Championship 2014,19,17,11,4,4,11,Norway,24,19,1.12 
+2014,11,05,19:00,Sweden,Norway,cache,European Championship 2014,16,14,7,8,9,6,Norway,17,24,0.75 
+2014,11,05,19:00,Norway,Sweden,mirage,European Championship 2014,22,20,11,4,4,11,Norway,32,27,1.11 
+2014,10,05,16:00,LondonC,partyastronauts,nuke,ESWC 2014 Norway,16,12,11,4,5,8,partyastronauts,18,17,0.94 
+2014,10,05,16:00,LondonC,partyastronauts,mirage,ESWC 2014 Norway,16,11,13,2,3,9,partyastronauts,16,23,0.66 
+2014,10,01,20:00,Belarus,Norway,dust2,European Championship 2014,14,16,8,7,6,9,Norway,23,20,1.07 
+2014,09,30,22:00,Turkey,Norway,inferno,European Championship 2014,14,16,9,6,5,10,Norway,24,17,1.33 

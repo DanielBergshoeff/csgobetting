@@ -1,0 +1,18 @@
+2016,07,24,07:40,AthleticoBH,Chiefs,train,ESL Australia & NZ Championshi..,16,8,9,6,7,2,Chiefs,16,18,0.95 
+2016,07,24,07:40,AthleticoBH,Chiefs,dust2,ESL Australia & NZ Championshi..,16,12,7,8,9,4,Chiefs,26,19,1.35 
+2016,07,24,04:15,Chiefs,Parallax,train,ESL Australia & NZ Championshi..,12,16,6,9,6,7,Chiefs,15,21,0.73 
+2016,07,24,04:15,Chiefs,Parallax,mirage,ESL Australia & NZ Championshi..,16,8,11,4,5,4,Chiefs,19,13,1.13 
+2016,07,24,04:15,Parallax,Chiefs,cache,ESL Australia & NZ Championshi..,16,12,10,5,6,7,Chiefs,34,20,1.79 
+2016,07,23,10:30,Exile5,Chiefs,train,ESL Australia & NZ Championshi..,13,16,9,6,4,10,Chiefs,13,21,0.64 
+2016,07,23,10:30,Chiefs,Exile5,cache,ESL Australia & NZ Championshi..,16,6,9,6,7,0,Chiefs,13,15,0.83 
+2016,01,31,04:00,TheMongolz,Chiefs,cobblestone,IEM Taipei 2016,16,9,9,6,7,3,Chiefs,15,22,0.74 
+2016,01,31,04:00,Chiefs,TheMongolz,dust2,IEM Taipei 2016,10,16,7,8,3,8,Chiefs,13,17,0.86 
+2016,01,31,04:00,Chiefs,TheMongolz,inferno,IEM Taipei 2016,16,13,12,3,4,10,Chiefs,15,18,0.80 
+2016,01,29,09:30,Risky,Chiefs,dust2,IEM Taipei 2016,9,16,7,8,2,8,Chiefs,20,15,1.27 
+2016,01,29,07:20,Chiefs,CyberZen,inferno,IEM Taipei 2016,3,16,3,12,0,4,Chiefs,4,18,0.25 
+2016,01,29,05:45,MVP.karnal,Chiefs,inferno,IEM Taipei 2016,14,16,9,6,5,10,Chiefs,26,21,1.12 
+2015,09,15,03:35,Skyfire,TRIDENT,mirage,ACL Melbourne 2015,16,14,7,8,9,6,TRIDENT,21,21,1.00 
+2015,09,15,03:34,TRIDENT,Skyfire,dust2,ACL Melbourne 2015,2,16,2,13,0,3,TRIDENT,12,15,0.85 
+2015,09,06,04:00,VoxEminor,TRIDENT,dust2,ACL Melbourne 2015,5,16,2,13,3,3,TRIDENT,16,12,1.29 
+2015,09,06,04:00,VoxEminor,TRIDENT,cache,ACL Melbourne 2015,3,16,3,12,0,4,TRIDENT,16,13,1.14 
+2015,09,06,04:00,VoxEminor,TRIDENT,cobblestone,ACL Melbourne 2015,16,11,7,8,9,3,TRIDENT,22,23,1.02 

@@ -1,0 +1,15 @@
+2015,11,06,22:30,Reason,uX,cobblestone,QuickShot Arena #13,16,14,10,5,6,9,Reason,15,19,0.81 
+2015,11,06,22:30,Reason,uX,inferno,QuickShot Arena #13,16,6,12,3,4,3,Reason,21,12,1.46 
+2015,11,06,19:30,NoProblem!,Reason,cache,QuickShot Arena #13,13,16,8,7,5,9,Reason,15,21,0.74 
+2015,11,06,19:30,Reason,NoProblem!,mirage,QuickShot Arena #13,16,5,10,5,6,0,Reason,16,13,1.11 
+2015,11,06,19:30,NoProblem!,Reason,inferno,QuickShot Arena #13,16,14,6,9,10,5,Reason,15,24,0.74 
+2015,09,29,22:30,mySemperFi,NoProblem!,mirage,D!ngIT $2000 Weekly Cup #19,1,16,1,14,0,2,mySemperFi,6,16,0.34 
+2015,09,29,21:15,GRS.GP,mySemperFi,dust2,D!ngIT $2000 Weekly Cup #19,2,16,2,13,0,3,mySemperFi,13,6,1.28 
+2015,09,29,19:00,mySemperFi,NoProblem!,cache,D!ngIT $2000 Weekly Cup #19,2,16,1,14,1,2,mySemperFi,6,17,0.36 
+2015,09,29,19:00,mySemperFi,NoProblem!,mirage,D!ngIT $2000 Weekly Cup #19,5,16,4,11,1,5,mySemperFi,9,19,0.49 
+2015,09,28,20:45,mySemperFi,GRS.GP,cache,D!ngIT $2000 Weekly Cup #19,16,5,11,4,5,1,mySemperFi,22,13,1.49 
+2015,09,28,20:45,mySemperFi,GRS.GP,dust2,D!ngIT $2000 Weekly Cup #19,16,8,9,6,7,2,mySemperFi,17,15,1.04 
+2015,04,02,23:30,FONA,Badger,dust2,Copenhagen Games 2015,5,16,5,10,0,6,FONA,11,17,0.81 
+2015,04,02,21:30,SpaceSoldiers,FONA,dust2,Copenhagen Games 2015,16,8,9,6,7,2,FONA,13,18,0.85 
+2015,04,02,19:00,FONA,Sapiens,mirage,Copenhagen Games 2015,16,8,12,3,4,5,FONA,20,16,1.10 
+2015,04,02,15:30,FONA,DENiED,dust2,Copenhagen Games 2015,22,19,10,5,5,10,FONA,28,27,0.93 

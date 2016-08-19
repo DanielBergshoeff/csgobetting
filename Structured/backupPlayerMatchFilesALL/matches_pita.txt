@@ -1,0 +1,72 @@
+2016,08,13,16:00,Armenia,Bosnia&Herzegovina,mirage,World Championships 2016 Europ..,1,16,1,14,0,2,Bosnia & Herzegovina,16,7,1.61 
+2016,08,13,16:00,Armenia,Bosnia&Herzegovina,cobblestone,World Championships 2016 Europ..,1,16,1,14,0,2,Bosnia & Herzegovina,14,7,1.34 
+2016,07,15,00:15,FaZe,CLG,dust2,ELEAGUE Season 1,22,19,7,8,8,7,CLG,19,31,0.64 
+2016,07,15,00:15,FaZe,CLG,cobblestone,ELEAGUE Season 1,14,16,7,8,7,8,CLG,21,21,1.06 
+2016,07,15,00:15,CLG,FaZe,mirage,ELEAGUE Season 1,4,16,4,11,0,5,CLG,7,18,0.40 
+2016,07,06,12:15,CLG,dignitas,cobblestone,ESL One Cologne 2016,1,16,1,14,0,2,CLG,10,15,0.66 
+2016,07,05,12:25,CLG,Gambit,dust2,ESL One Cologne 2016,13,16,7,8,6,8,CLG,21,19,1.09 
+2016,06,11,04:15,Astralis,CLG,overpass,ELEAGUE Season 1,16,11,7,8,9,3,CLG,14,23,0.62 
+2016,06,11,04:15,Astralis,CLG,dust2,ELEAGUE Season 1,16,19,9,6,6,9,CLG,28,25,1.08 
+2016,06,11,04:15,Astralis,CLG,mirage,ELEAGUE Season 1,16,7,11,4,5,3,CLG,9,21,0.45 
+2016,06,09,23:00,CLG,SK,overpass,ELEAGUE Season 1,16,14,12,3,4,11,CLG,18,20,0.89 
+2016,06,09,23:00,CLG,SK,cobblestone,ELEAGUE Season 1,16,10,7,8,9,2,CLG,13,15,0.85 
+2016,06,09,23:00,SK,CLG,train,ELEAGUE Season 1,16,6,12,3,4,3,CLG,10,20,0.56 
+2016,06,08,19:10,CLG,NRG,dust2,ELEAGUE Season 1,14,16,6,9,8,7,CLG,27,17,1.32 
+2016,06,08,18:00,CLG,NRG,train,ELEAGUE Season 1,16,7,10,5,6,2,CLG,18,12,1.27 
+2016,06,07,23:40,CLG,Astralis,dust2,ELEAGUE Season 1,6,16,6,9,0,7,CLG,5,18,0.34 
+2016,06,07,22:55,CLG,Astralis,train,ELEAGUE Season 1,2,16,2,13,0,3,CLG,12,17,0.80 
+2016,06,07,21:35,CLG,SK,overpass,ELEAGUE Season 1,16,14,12,3,4,11,CLG,13,23,0.61 
+2016,06,07,20:30,CLG,SK,nuke,ELEAGUE Season 1,3,16,3,12,0,4,CLG,5,18,0.26 
+2016,05,27,04:00,TSM,CLG,dust2,ECS Season 1,16,7,10,5,6,2,CLG,8,19,0.51 
+2016,05,27,04:00,TSM,CLG,cobblestone,ECS Season 1,16,4,11,4,5,0,CLG,9,18,0.49 
+2016,05,26,04:10,CLG,Liquid,cobblestone,ECS Season 1,7,16,2,13,5,3,CLG,9,18,0.73 
+2016,05,26,04:10,CLG,Liquid,train,ECS Season 1,2,16,2,13,0,3,CLG,6,17,0.32 
+2016,05,25,02:10,TSM,CLG,train,ECS Season 1,18,22,9,6,6,9,CLG,26,29,0.88 
+2016,05,25,02:10,TSM,CLG,cobblestone,ECS Season 1,16,14,8,7,8,7,CLG,15,22,0.73 
+2016,05,25,02:10,CLG,TSM,cache,ECS Season 1,16,1,14,1,2,0,CLG,11,11,0.90 
+2016,05,24,22:00,OpTic,CLG,overpass,ECS Season 1,19,17,9,6,6,9,CLG,19,26,0.72 
+2016,05,24,22:00,OpTic,CLG,train,ECS Season 1,8,16,7,8,1,8,CLG,12,15,0.82 
+2016,05,24,22:00,CLG,OpTic,cache,ECS Season 1,10,16,6,9,4,7,CLG,12,21,0.59 
+2016,05,24,04:00,Cloud9,CLG,dust2,ECS Season 1,16,14,8,7,8,7,CLG,18,21,0.88 
+2016,05,24,04:00,Cloud9,CLG,overpass,ECS Season 1,16,12,10,5,6,7,CLG,17,22,0.79 
+2016,05,24,04:00,CLG,Cloud9,cobblestone,ECS Season 1,16,9,13,2,3,7,CLG,21,14,1.32 
+2015,12,17,00:00,VeloX,CLG,cache,Game Show Global eSports Cup 2..,11,16,7,8,4,8,CLG,17,22,0.89 
+2015,12,17,00:00,CLG,VeloX,cobblestone,Game Show Global eSports Cup 2..,16,3,12,3,4,0,CLG,13,11,1.19 
+2015,12,17,00:00,CLG,VeloX,dust2,Game Show Global eSports Cup 2..,14,16,4,11,10,5,CLG,20,19,0.95 
+2015,12,16,03:20,CLG,HiddenPotential,cache,Game Show Global eSports Cup 2..,16,9,10,5,6,4,CLG,15,18,0.82 
+2015,12,16,03:20,CLG,HiddenPotential,mirage,Game Show Global eSports Cup 2..,16,6,14,1,2,5,CLG,12,12,0.98 
+2015,12,16,01:00,CLG,Splyce,cobblestone,ELEAGUE Road to Vegas Closed N..,11,16,9,6,2,10,CLG,17,22,0.81 
+2015,12,16,01:00,Splyce,CLG,mirage,ELEAGUE Road to Vegas Closed N..,16,6,10,5,6,1,CLG,9,21,0.41 
+2014,11,23,21:00,NiPStaff,HLTV.orgStaff,mirage,Virtus.pro Staff Cup #1,13,16,8,7,5,9,NiP Staff,34,19,1.68 
+2014,11,23,21:00,HLTV.orgStaff,NiPStaff,cache,Virtus.pro Staff Cup #1,16,7,11,4,5,3,NiP Staff,24,19,1.52 
+2014,11,23,17:00,HLTV.orgStaff,NiPStaff,overpass,Virtus.pro Staff Cup #1,16,14,10,5,6,9,NiP Staff,27,22,1.22 
+2014,10,16,22:00,Bosnia&Herzegovina,CzechRepublic,mirage,European Championship 2014,16,11,11,4,5,7,Bosnia & Herzegovina,20,20,1.02 
+2014,10,12,20:25,Netherlands,Bosnia&Herzegovina,mirage,European Championship 2014,16,2,13,2,3,0,Bosnia & Herzegovina,7,18,0.36 
+2014,10,07,22:20,Ukraine,Bosnia&Herzegovina,mirage,European Championship 2014,12,16,11,4,1,12,Bosnia & Herzegovina,27,22,1.27 
+2014,09,07,19:00,Kazakhstan,Bosnia&Herzegovina,mirage,European Championship 2014,10,16,7,8,3,8,Bosnia & Herzegovina,23,15,1.21 
+2014,07,13,20:00,ESG!,HellRaisers,mirage,SLTV StarSeries X,8,16,7,8,1,8,ESG!,6,11,0.68 
+2014,06,26,21:00,ESC,SK,train,SLTV StarSeries X,9,16,6,9,3,7,SK,10,20,0.54 
+2014,06,22,15:00,NiP,OnlineBOTS,dust2,Team Dignitas CS:GO SCAN Invit..,16,7,10,5,6,2,NiP,14,14,0.88 
+2014,06,22,15:00,NiP,OnlineBOTS,inferno,Team Dignitas CS:GO SCAN Invit..,16,4,12,3,4,1,NiP,13,12,0.96 
+2014,06,22,15:00,OnlineBOTS,NiP,cache,Team Dignitas CS:GO SCAN Invit..,16,8,12,3,4,5,NiP,9,18,0.54 
+2014,06,16,12:00,SK,HellRaisers,nuke,DreamHack Summer 2014,11,16,6,9,5,7,SK,17,20,0.87 
+2014,06,16,12:00,HellRaisers,SK,inferno,DreamHack Summer 2014,16,8,14,1,2,7,SK,16,19,0.92 
+2014,06,15,13:30,NiP,SK,train,ESPORTSM 2013/2014 Finals,16,5,11,4,5,1,SK,12,18,0.69 
+2014,06,15,13:30,SK,NiP,dust2,ESPORTSM 2013/2014 Finals,7,16,2,13,5,3,SK,12,21,0.58 
+2014,06,15,13:30,NiP,SK,inferno,ESPORTSM 2013/2014 Finals,8,16,5,10,3,6,SK,18,18,1.00 
+2014,06,15,10:00,hiGhrollers,SK,train,ESPORTSM 2013/2014 Finals,8,16,8,7,0,9,SK,18,13,1.17 
+2014,06,15,10:00,hiGhrollers,SK,mirage,ESPORTSM 2013/2014 Finals,12,16,8,7,4,9,SK,19,18,0.94 
+2014,06,14,22:45,SK,fnatic,inferno,DreamHack Summer 2014,16,10,12,3,4,7,SK,24,14,1.33 
+2014,06,14,21:35,Virtus.pro,SK,train,DreamHack Summer 2014,16,12,13,2,3,10,SK,20,19,1.11 
+2014,06,14,20:30,fnatic,SK,inferno,DreamHack Summer 2014,9,16,9,6,0,10,SK,18,19,0.98 
+2014,05,30,21:00,SK,Reason,inferno,DreamHack Summer 2014 Closed Q..,11,16,6,9,5,7,SK,18,20,0.85 
+2014,05,30,19:00,ENCE,SK,dust2,DreamHack Summer 2014 Closed Q..,23,26,8,7,7,8,SK,35,41,0.85 
+2014,05,24,15:00,GO4Bosnia,GO4Balkan,inferno,GO4Balkan Charity Tournament,14,16,8,7,6,9,GO4Bosnia,12,24,0.57 
+2014,05,24,15:00,GO4Bosnia,GO4Balkan,mirage,GO4Balkan Charity Tournament,12,16,7,8,5,8,GO4Bosnia,26,20,1.51 
+2014,05,20,22:30,TEAMGLOBAL,Team4Balkan,train,Hitbox Arena Championship,16,6,13,2,3,4,Team4Balkan,8,18,0.48 
+2014,05,20,22:30,Team4Balkan,TEAMGLOBAL,nuke,Hitbox Arena Championship,12,16,8,7,4,9,Team4Balkan,20,19,1.09 
+2014,05,20,19:00,Titan,Team4Balkan,dust2,Hitbox Arena Championship,16,13,6,9,10,4,Team4Balkan,14,22,0.76 
+2014,05,20,19:00,Titan,Team4Balkan,inferno,Hitbox Arena Championship,12,16,8,7,4,9,Team4Balkan,23,15,1.27 
+2014,05,20,19:00,Titan,Team4Balkan,mirage,Hitbox Arena Championship,16,14,5,10,11,4,Team4Balkan,13,23,0.67 
+2014,04,18,21:00,LGB,Property,mirage,Copenhagen Games 2014,22,19,5,10,10,5,Property,28,33,0.93 
+2014,04,18,21:00,LGB,Property,dust2,Copenhagen Games 2014,16,4,11,4,5,0,Property,13,18,0.74 

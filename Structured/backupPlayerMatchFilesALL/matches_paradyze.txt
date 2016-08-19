@@ -1,0 +1,4 @@
+2016,05,24,22:00,AlienTech,Rasta,train,xfunction Challenge,16,2,13,2,3,0,Rasta,10,16,0.65 
+2016,05,24,22:00,AlienTech,Rasta,mirage,xfunction Challenge,16,5,11,4,5,1,Rasta,8,16,0.54 
+2016,05,16,23:15,RedLine,Rasta,mirage,xfunction Challenge,14,16,10,5,4,11,Rasta,19,20,0.96 
+2016,05,10,22:30,Epsilon,Rasta,overpass,xfunction Challenge,16,1,14,1,2,0,Rasta,5,17,0.28 

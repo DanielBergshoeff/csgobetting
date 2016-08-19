@@ -1,0 +1,31 @@
+2015,10,01,19:30,PlayingDucks,ESC,cache,QuickShot Arena #9,12,16,4,11,8,5,Playing Ducks,14,21,0.70 
+2015,10,01,18:15,EpiphanyBolt,PlayingDucks,mirage,QuickShot Arena #9,16,14,11,4,5,10,Playing Ducks,24,23,1.09 
+2015,09,29,20:00,PENTA,PlayingDucks,mirage,99Damage League Season 1,16,8,10,5,6,3,Playing Ducks,12,20,0.72 
+2015,09,29,20:00,PENTA,PlayingDucks,cobblestone,99Damage League Season 1,16,10,8,7,8,3,Playing Ducks,15,20,0.69 
+2015,09,28,19:35,Bosnia&Herzegovina,Belgium,cobblestone,World Championships 2015 Europ..,6,16,3,12,3,4,Bosnia & Herzegovina,10,17,0.59 
+2015,09,28,18:30,Bosnia&Herzegovina,Belarus,cache,World Championships 2015 Europ..,15,15,8,7,7,8,Bosnia & Herzegovina,15,21,0.74 
+2015,09,23,19:00,PlayingDucks,Planetkey,mirage,99Damage League Season 1,19,16,9,6,6,9,Playing Ducks,20,24,0.80 
+2015,09,23,19:00,PlayingDucks,Planetkey,dust2,99Damage League Season 1,10,16,4,11,6,5,Playing Ducks,17,19,1.01 
+2015,09,16,21:00,EYESONU,PlayingDucks,dust2,99Damage League Season 1,16,6,10,5,6,1,Playing Ducks,17,17,1.04 
+2015,09,16,21:00,PlayingDucks,EYESONU,mirage,99Damage League Season 1,16,5,11,4,5,1,Playing Ducks,16,12,1.18 
+2015,09,02,19:00,PlayingDucks,KILLERFISH,mirage,99Damage League Season 1,11,16,7,8,4,8,Playing Ducks,13,21,0.65 
+2015,09,02,19:00,KILLERFISH,PlayingDucks,dust2,99Damage League Season 1,16,10,10,5,6,5,Playing Ducks,19,23,0.88 
+2015,08,29,20:30,E-frag.net,PlayingDucks,mirage,99Damage Arena #13,16,3,12,3,4,0,Playing Ducks,8,17,0.47 
+2015,08,29,20:30,E-frag.net,PlayingDucks,inferno,99Damage Arena #13,16,4,13,2,3,2,Playing Ducks,13,16,0.91 
+2015,08,29,18:00,KIYF,PlayingDucks,dust2,99Damage Arena #13,4,16,4,11,0,5,Playing Ducks,14,7,1.23 
+2015,08,29,18:00,PlayingDucks,KIYF,mirage,99Damage Arena #13,19,17,11,4,4,11,Playing Ducks,40,23,1.58 
+2015,08,25,21:45,Caseking,PlayingDucks,inferno,99Damage League Season 1,14,16,10,5,4,11,Playing Ducks,14,23,0.64 
+2015,08,25,21:45,PlayingDucks,Caseking,dust2,99Damage League Season 1,9,16,6,9,3,7,Playing Ducks,9,19,0.52 
+2015,08,17,21:00,PlayingDucks,k1ck,mirage,xfunction Masters Season III,14,16,8,7,6,9,Playing Ducks,19,23,0.80 
+2015,08,17,21:00,PlayingDucks,k1ck,inferno,xfunction Masters Season III,17,19,7,8,8,7,Playing Ducks,16,21,0.74 
+2015,08,05,19:30,PlayingDucks,uX,inferno,xfunction Masters Season III,12,16,6,9,6,7,Playing Ducks,13,17,0.73 
+2015,08,05,19:30,PlayingDucks,uX,cache,xfunction Masters Season III,7,16,2,13,5,3,Playing Ducks,12,20,0.77 
+2015,08,05,19:30,PlayingDucks,uX,dust2,xfunction Masters Season III,16,9,11,4,5,5,Playing Ducks,24,13,1.47 
+2015,07,28,20:00,PlayingDucks,EpiphanyBolt,cobblestone,xfunction Masters Season III,16,5,10,5,6,0,Playing Ducks,23,13,1.58 
+2015,07,28,20:00,PlayingDucks,EpiphanyBolt,dust2,xfunction Masters Season III,11,16,10,5,1,11,Playing Ducks,23,18,1.28 
+2015,05,26,18:00,PlayingDucks,Fraternitas,mirage,99Damage Arena #8,8,16,8,7,0,9,Playing Ducks,13,19,0.70 
+2015,05,26,18:00,Fraternitas,PlayingDucks,dust2,99Damage Arena #8,12,16,7,8,5,8,Playing Ducks,20,16,1.09 
+2015,05,26,18:00,Fraternitas,PlayingDucks,inferno,99Damage Arena #8,16,7,13,2,3,5,Playing Ducks,7,18,0.46 
+2014,11,03,22:30,Bosnia&Herzegovina,Slovakia,dust2,European Championship 2014,13,16,7,8,6,8,Bosnia & Herzegovina,25,20,1.34 
+2014,11,03,22:30,Slovakia,Bosnia&Herzegovina,mirage,European Championship 2014,16,7,10,5,6,2,Bosnia & Herzegovina,11,20,0.58 
+2014,10,16,22:00,Bosnia&Herzegovina,CzechRepublic,mirage,European Championship 2014,16,11,11,4,5,7,Bosnia & Herzegovina,18,17,1.05 

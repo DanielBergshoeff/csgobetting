@@ -1,0 +1,19 @@
+2016,06,25,20:00,Tricked,Singularity,dust2,Dust2.dk eOddset Kinguin #1,16,8,11,4,5,4,Singularity,16,19,0.82 
+2016,06,25,20:00,Tricked,Singularity,overpass,Dust2.dk eOddset Kinguin #1,16,9,12,3,4,6,Singularity,20,14,1.26 
+2016,06,25,16:00,EasternVikings,Singularity,train,Dust2.dk eOddset Kinguin #1,7,16,7,8,0,8,Singularity,18,11,1.31 
+2016,06,25,16:00,EasternVikings,Singularity,overpass,Dust2.dk eOddset Kinguin #1,12,16,7,8,5,8,Singularity,18,20,0.92 
+2016,06,25,14:30,Seven11,Singularity,overpass,Dust2.dk eOddset Kinguin #1,11,16,8,7,3,9,Singularity,25,13,1.48 
+2016,06,25,13:15,Singularity,Magistra,overpass,Dust2.dk eOddset Kinguin #1,16,6,13,2,3,4,Singularity,21,14,1.31 
+2016,06,25,12:00,übern00bz,Singularity,dust2,Dust2.dk eOddset Kinguin #1,6,16,2,13,4,3,Singularity,14,12,0.96 
+2016,05,15,20:00,Tricked,Singularity,train,CS:GO Danmark League #1,10,16,6,9,4,7,Singularity,28,11,1.75 
+2016,05,15,20:00,Singularity,Tricked,cobblestone,CS:GO Danmark League #1,16,8,13,2,3,6,Singularity,21,11,1.46 
+2016,05,15,20:00,Singularity,Tricked,mirage,CS:GO Danmark League #1,11,16,7,8,4,8,Singularity,21,20,0.97 
+2016,03,24,23:00,Iwku,Krydsild,cache,Copenhagen Games 2016 BYOC Qua..,16,5,10,5,6,0,Krydsild,16,16,1.05 
+2016,03,24,23:00,Iwku,Krydsild,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,5,13,2,3,3,Krydsild,15,16,0.90 
+2016,03,24,19:00,Krydsild,Aquiver.BLU,inferno,Copenhagen Games 2016 BYOC Qua..,19,16,11,4,4,11,Krydsild,18,21,0.81 
+2016,03,24,19:00,Krydsild,Aquiver.BLU,cache,Copenhagen Games 2016 BYOC Qua..,16,7,9,6,7,1,Krydsild,13,14,0.89 
+2016,03,24,15:30,Krydsild,OBEY,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,10,8,7,8,3,Krydsild,16,12,1.07 
+2016,03,24,13:00,Krydsild,WDHA,dust2,Copenhagen Games 2016 BYOC Qua..,16,11,10,5,6,6,Krydsild,24,11,1.46 
+2015,10,19,22:15,nerdRage,stfuNerd,inferno,D!ngIT $2000 Weekly Cup #22,12,16,7,8,5,8,nerdRage,15,20,0.74 
+2015,10,19,20:30,LondonC,nerdRage,inferno,D!ngIT $2000 Weekly Cup #22,16,3,12,3,4,0,nerdRage,7,18,0.41 
+2015,10,19,20:30,LondonC,nerdRage,cache,D!ngIT $2000 Weekly Cup #22,16,7,9,6,7,1,nerdRage,11,15,0.76 

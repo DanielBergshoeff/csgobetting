@@ -1,0 +1,27 @@
+2016,07,19,18:15,EURONICS,AGG,cobblestone,xfunction Masters 2016,7,16,3,12,4,4,EURONICS,13,20,0.68 
+2016,07,07,20:15,EURONICS,Genus,cache,xfunction Masters 2016,16,5,12,3,4,2,EURONICS,25,12,1.70 
+2016,06,28,19:15,EURONICS,Millenium,mirage,xfunction Masters 2016,2,16,2,13,0,3,EURONICS,14,15,0.98 
+2016,06,06,19:00,ALTERNATEaTTaX,EURONICS,overpass,RGN Pro Series II EU Closed Qu..,19,16,6,9,9,6,EURONICS,28,25,1.15 
+2016,06,06,19:00,EURONICS,ALTERNATEaTTaX,dust2,RGN Pro Series II EU Closed Qu..,8,16,7,8,1,8,EURONICS,10,21,0.55 
+2016,06,05,12:00,Phenomenon,EURONICS,mirage,DreamHack ZOWIE Open Summer 20..,16,8,8,7,8,1,EURONICS,21,17,1.26 
+2016,06,05,12:00,EURONICS,Phenomenon,overpass,DreamHack ZOWIE Open Summer 20..,11,16,10,5,1,11,EURONICS,11,22,0.60 
+2016,06,04,18:45,EURONICS,kriklekrakle,cache,DreamHack ZOWIE Open Summer 20..,16,13,8,7,8,6,EURONICS,35,18,1.68 
+2016,05,22,17:00,FAB,Alpha,cobblestone,RGN Pro Series II EU Closed Qu..,5,16,2,13,3,3,FAB,7,17,0.52 
+2016,05,22,17:00,Alpha,FAB,cache,RGN Pro Series II EU Closed Qu..,16,3,13,2,3,1,FAB,7,19,0.34 
+2016,05,07,17:35,LeiSuRe,FAB,train,ESL Meisterschaft Spring 2016 ..,16,7,11,4,5,3,FAB,24,18,1.28 
+2016,05,07,17:35,LeiSuRe,FAB,cobblestone,ESL Meisterschaft Spring 2016 ..,8,16,4,11,4,5,FAB,19,13,1.33 
+2016,05,07,17:35,LeiSuRe,FAB,cache,ESL Meisterschaft Spring 2016 ..,16,12,8,7,8,5,FAB,20,22,1.06 
+2016,04,27,20:15,mousesports,FAB,cache,BenQ All-Star Showmatch #8,20,22,6,9,9,6,FAB,31,30,1.04 
+2016,04,27,20:15,FAB,mousesports,train,BenQ All-Star Showmatch #8,16,14,6,9,10,5,FAB,19,22,0.84 
+2016,04,27,20:15,FAB,mousesports,mirage,BenQ All-Star Showmatch #8,11,16,8,7,3,9,FAB,20,21,0.91 
+2016,03,24,23:00,FAB,Fragsters,inferno,Copenhagen Games 2016 BYOC Qua..,7,16,5,10,2,6,FAB,13,17,0.94 
+2016,03,24,23:00,FAB,Fragsters,mirage,Copenhagen Games 2016 BYOC Qua..,7,16,6,9,1,7,FAB,24,18,1.45 
+2016,03,24,19:00,FAB,Tricked,overpass,Copenhagen Games 2016 BYOC Qua..,16,12,8,7,8,5,FAB,15,20,0.78 
+2016,03,24,19:00,FAB,Tricked,mirage,Copenhagen Games 2016 BYOC Qua..,16,6,10,5,6,1,FAB,25,12,1.77 
+2016,03,24,19:00,Tricked,FAB,inferno,Copenhagen Games 2016 BYOC Qua..,16,9,9,6,7,3,FAB,3,20,0.26 
+2016,03,24,17:15,FAB,Wicked,inferno,Copenhagen Games 2016 BYOC Qua..,16,6,9,6,7,0,FAB,19,12,1.33 
+2016,03,24,15:30,FAB,Publiclir.se,cobblestone,Copenhagen Games 2016 BYOC Qua..,15,19,7,8,8,7,FAB,22,27,0.83 
+2016,03,24,13:00,Ollebolle,FAB,dust2,Copenhagen Games 2016 BYOC Qua..,0,16,0,15,0,1,FAB,17,5,1.63 
+2015,10,20,18:00,Seelachs,uX,dust2,99Damage League Season 1,15,19,9,6,6,9,Seelachs,22,24,0.87 
+2015,10,20,18:00,Seelachs,uX,mirage,99Damage League Season 1,16,14,8,7,8,7,Seelachs,20,22,1.01 
+2015,10,20,18:00,Seelachs,uX,cache,99Damage League Season 1,7,16,5,10,2,6,Seelachs,8,20,0.45 

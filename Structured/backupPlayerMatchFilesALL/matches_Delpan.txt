@@ -1,0 +1,78 @@
+2015,11,15,19:00,NiP,Virtus.pro,cobblestone,FACEIT League 2015 Stage 3,14,16,2,13,12,3,NiP,10,5,1.26 
+2015,11,13,20:10,NiP,Virtus.pro,mirage,FACEIT League 2015 Stage 3,16,14,5,10,11,4,NiP,7,3,1.39 
+2015,08,30,21:20,AliGon,PiTER,cache,FACEIT League 2015 Stage 3 EU ..,16,21,7,8,8,7,AliGon,31,28,1.18 
+2015,03,08,19:00,AliGon,PENTA,inferno,CCS Kick-off Season Closed Qua..,12,16,8,7,4,9,AliGon,21,22,0.93 
+2015,03,08,19:00,AliGon,PENTA,dust2,CCS Kick-off Season Closed Qua..,13,16,8,7,5,9,AliGon,17,22,0.91 
+2015,03,08,19:00,AliGon,PENTA,cache,CCS Kick-off Season Closed Qua..,12,16,6,9,6,7,AliGon,25,19,1.19 
+2015,03,07,19:00,AliGon,dignitas,inferno,CCS Kick-off Season Closed Qua..,16,10,13,2,3,8,AliGon,29,14,1.84 
+2015,03,07,19:00,dignitas,AliGon,cache,CCS Kick-off Season Closed Qua..,10,16,5,10,5,6,AliGon,23,18,1.27 
+2015,03,07,19:00,AliGon,dignitas,dust2,CCS Kick-off Season Closed Qua..,7,16,2,13,5,3,AliGon,26,17,1.56 
+2015,02,17,20:07,NiP,Virtus.pro,nuke,King of Majors,11,16,8,7,3,9,NiP,17,19,0.94 
+2015,02,17,20:07,Virtus.pro,NiP,cache,King of Majors,9,16,6,9,3,7,NiP,19,16,1.01 
+2015,02,17,19:50,NiP,Virtus.pro,mirage,King of Majors,9,16,6,9,3,7,NiP,11,20,0.62 
+2015,02,17,17:00,NiP,fnatic,mirage,King of Majors,15,19,12,3,3,12,NiP,24,23,1.01 
+2015,02,17,17:00,NiP,fnatic,cache,King of Majors,12,16,7,8,5,8,NiP,15,22,0.73 
+2015,02,16,19:40,NiP,EnVyUs,dust2,King of Majors,16,14,6,9,10,5,NiP,15,23,0.67 
+2015,02,16,19:40,EnVyUs,NiP,inferno,King of Majors,6,16,6,9,0,7,NiP,20,11,1.38 
+2014,10,08,21:00,Epsilon,Property,dust2,Fragbite Masters Season 3,15,19,10,5,5,10,Property,28,17,1.32 
+2014,10,08,21:00,Property,Epsilon,cache,Fragbite Masters Season 3,1,16,1,14,0,2,Property,9,15,0.56 
+2014,10,08,20:51,Property,Epsilon,mirage,Fragbite Masters Season 3,16,4,11,4,5,0,Property,28,10,2.22 
+2014,10,08,18:00,fnatic,Property,inferno,Fragbite Masters Season 3,16,5,14,1,2,4,Property,9,19,0.52 
+2014,10,07,19:00,mousesports,Property,cobblestone,Millenium Showmatch #2,16,6,12,3,4,3,Property,17,15,1.09 
+2014,10,07,19:00,mousesports,Property,inferno,Millenium Showmatch #2,16,14,9,6,7,8,Property,18,20,0.99 
+2014,10,07,19:00,Property,mousesports,cache,Millenium Showmatch #2,16,13,9,6,7,7,Property,19,18,0.96 
+2014,10,07,19:00,Property,mousesports,dust2,Millenium Showmatch #2,10,16,8,7,2,9,Property,14,16,0.94 
+2014,09,24,18:00,HellRaisers,Property,dust2,Caseking of the Hill #9,16,11,8,7,8,4,Property,15,22,0.74 
+2014,09,23,22:10,Property,k1ck,dust2,Fragbite Masters Season 3 Qual..,16,8,10,5,6,3,Property,25,15,1.47 
+2014,09,23,22:10,k1ck,Property,inferno,Fragbite Masters Season 3 Qual..,10,16,3,12,7,4,Property,16,15,0.97 
+2014,09,23,20:10,myXMG,Property,dust2,Fragbite Masters Season 3 Qual..,10,16,5,10,5,6,Property,20,20,1.08 
+2014,08,11,22:25,ESG!,fnatic,mirage,SLTV StarSeries X,9,16,7,8,2,8,ESG!,14,18,0.79 
+2014,08,10,21:19,ESG!,OverGaming,mirage,SLTV StarSeries X,15,15,11,4,4,11,ESG!,26,22,1.17 
+2014,08,10,18:20,Berzerk,ESG!,dust2,SLTV StarSeries X,12,16,9,6,3,10,ESG!,20,21,0.99 
+2014,08,02,23:45,Titan,ESG!,mirage,Gfinity 3,16,11,9,6,7,5,ESG!,9,20,0.55 
+2014,08,02,21:45,fm-eSports,ESG!,inferno,Gfinity 3,6,16,6,9,0,7,ESG!,18,16,1.08 
+2014,08,02,18:45,mousesports,ESG!,mirage,Gfinity 3,12,16,3,12,9,4,ESG!,24,14,1.35 
+2014,08,02,17:20,dignitas,ESG!,dust2,Gfinity 3,16,7,12,3,4,4,ESG!,13,17,0.79 
+2014,08,02,14:00,ESG!,Virtus.pro,cache,Gfinity 3,12,16,8,7,4,9,ESG!,15,22,0.77 
+2014,07,31,20:15,ESG!,fnatic,cache,EIZO Challenge 2014,11,16,8,7,3,9,ESG!,23,22,1.06 
+2014,07,31,19:00,unu.AiN,ESG!,dust2,EIZO Challenge 2014,7,16,4,11,3,5,ESG!,12,14,1.01 
+2014,07,27,19:45,ESG!,NatusVincere,dust2,ESL One Cologne 2014 European ..,6,16,5,10,1,6,ESG!,8,18,0.50 
+2014,07,27,19:45,ESG!,NatusVincere,inferno,ESL One Cologne 2014 European ..,13,16,4,11,9,5,ESG!,19,25,0.78 
+2014,07,27,19:45,ESG!,NatusVincere,train,ESL One Cologne 2014 European ..,16,7,8,7,8,0,ESG!,12,14,0.87 
+2014,07,27,13:00,unu.AiN,ESG!,mirage,ESL One Cologne 2014 European ..,9,16,5,10,4,6,ESG!,14,14,0.94 
+2014,07,27,13:00,unu.AiN,ESG!,inferno,ESL One Cologne 2014 European ..,16,6,12,3,4,3,ESG!,14,19,0.92 
+2014,07,27,13:00,ESG!,unu.AiN,dust2,ESL One Cologne 2014 European ..,16,7,9,6,7,1,ESG!,35,9,2.60 
+2014,07,26,21:10,ESG!,dAT,mirage,ESL One Cologne 2014 European ..,5,16,5,10,0,6,ESG!,8,18,0.46 
+2014,07,26,21:10,dAT,ESG!,train,ESL One Cologne 2014 European ..,16,21,8,7,7,8,ESG!,32,28,1.20 
+2014,07,26,21:10,ESG!,dAT,nuke,ESL One Cologne 2014 European ..,9,16,8,7,1,9,ESG!,12,20,0.63 
+2014,07,26,13:00,ESC,ESG!,dust2,ESL One Cologne 2014 European ..,13,16,7,8,6,8,ESG!,22,20,1.05 
+2014,07,26,13:00,ESC,ESG!,mirage,ESL One Cologne 2014 European ..,16,7,9,6,7,1,ESG!,18,16,1.03 
+2014,07,26,13:00,ESC,ESG!,train,ESL One Cologne 2014 European ..,7,16,7,8,0,8,ESG!,18,13,1.19 
+2014,07,21,22:00,Epsilon,ESG!,mirage,SLTV StarSeries X,11,16,8,7,3,9,ESG!,21,17,1.15 
+2014,07,21,21:00,LDLC,ESG!,dust2,SLTV StarSeries X,15,15,4,11,11,4,ESG!,23,22,1.01 
+2014,07,21,21:00,OnlineBOTS,ESG!,mirage,SLTV StarSeries X,13,16,6,9,7,7,ESG!,21,19,1.03 
+2014,07,21,19:00,ESG!,USSR,dust2,SLTV StarSeries X,16,7,9,6,7,1,ESG!,23,16,1.42 
+2014,07,16,20:15,ESG!,AliGon,dust2,Hitbox Arena Showdown,6,16,3,12,3,4,ESG!,12,16,0.76 
+2014,07,16,20:15,AliGon,ESG!,inferno,Hitbox Arena Showdown,16,6,10,5,6,1,ESG!,11,19,0.56 
+2014,07,16,20:15,ESG!,AliGon,mirage,Hitbox Arena Showdown,16,12,6,9,10,3,ESG!,23,19,1.13 
+2014,07,13,20:00,ESG!,HellRaisers,mirage,SLTV StarSeries X,8,16,7,8,1,8,ESG!,18,19,0.94 
+2014,07,09,22:30,Reason,ESG!,train,SLTV StarSeries X,6,16,6,9,0,7,ESG!,25,16,1.41 
+2014,07,09,21:15,ESG!,Virtus.pro,train,SLTV StarSeries X,16,13,7,8,9,5,ESG!,27,19,1.26 
+2014,07,06,22:15,Titan,ESG!,mirage,SLTV StarSeries X,9,16,7,8,2,8,ESG!,14,18,0.77 
+2014,06,26,21:00,ESC,SK,train,SLTV StarSeries X,9,16,6,9,3,7,SK,17,12,1.13 
+2014,06,22,20:00,NiP,AliGon,cache,Team Dignitas CS:GO SCAN Invit..,19,17,9,6,6,9,AliGon,16,24,0.71 
+2014,06,22,20:00,NiP,AliGon,dust2,Team Dignitas CS:GO SCAN Invit..,16,11,10,5,6,6,AliGon,30,18,1.57 
+2014,06,22,16:15,AliGon,OverGaming,cache,Team Dignitas CS:GO SCAN Invit..,16,12,14,1,2,11,AliGon,24,18,1.21 
+2014,06,22,16:15,OverGaming,AliGon,inferno,Team Dignitas CS:GO SCAN Invit..,6,16,5,10,1,6,AliGon,13,12,1.02 
+2014,06,22,16:15,OverGaming,AliGon,mirage,Team Dignitas CS:GO SCAN Invit..,16,11,11,4,5,7,AliGon,29,16,1.60 
+2014,06,16,10:00,Lemondogs,Epsilon,inferno,DreamHack Summer 2014,12,16,8,7,4,9,Lemondogs,22,20,1.08 
+2014,06,16,10:00,Epsilon,Lemondogs,dust2,DreamHack Summer 2014,16,7,11,4,5,3,Lemondogs,9,20,0.48 
+2014,06,15,21:20,Lemondogs,FlipSid3,dust2,DreamHack Summer 2014,16,1,14,1,2,0,Lemondogs,17,6,1.64 
+2014,06,15,21:20,Lemondogs,Expert,mirage,DreamHack Summer 2014,19,17,11,4,4,11,Lemondogs,38,17,1.68 
+2014,05,30,22:15,Reason,AliGon,train,DreamHack Summer 2014 Closed Q..,13,16,11,4,2,12,AliGon,25,20,1.23 
+2014,05,30,20:00,AliGon,ALTERNATEaTTaX,mirage,DreamHack Summer 2014 Closed Q..,16,7,13,2,3,5,AliGon,19,13,1.20 
+2014,05,30,19:00,LondonC,AliGon,mirage,DreamHack Summer 2014 Closed Q..,7,16,6,9,1,7,AliGon,18,12,1.22 
+2014,05,24,20:30,GO4Balkan,GO4Serbia,inferno,GO4Balkan Charity Tournament,16,12,9,6,7,6,GO4Serbia,12,21,0.62 
+2014,05,24,20:30,GO4Balkan,GO4Serbia,dust2,GO4Balkan Charity Tournament,16,10,12,3,4,7,GO4Serbia,17,16,1.09 
+2014,05,24,18:30,GO4Serbia,GO4Croatia,mirage,GO4Balkan Charity Tournament,16,5,10,5,6,0,GO4Serbia,14,15,0.87 
+2014,05,24,18:30,GO4Croatia,GO4Serbia,train,GO4Balkan Charity Tournament,14,16,10,5,4,11,GO4Serbia,19,22,0.98 

@@ -1,0 +1,8 @@
+2016,05,08,18:00,uNLimited-Potential,Winterfox,cobblestone,MLG Regional Minor North Ameri..,4,16,3,12,1,4,uNLimited-Potential,11,19,0.59 
+2016,05,08,18:00,Winterfox,uNLimited-Potential,train,MLG Regional Minor North Ameri..,16,1,14,1,2,0,uNLimited-Potential,8,17,0.46 
+2016,03,25,06:35,LucendiAzolt,Insolent,overpass,Razer Rising Stars NA League Q..,7,16,6,9,1,7,Insolent,22,13,1.33 
+2016,03,23,02:00,Rhythm,Insolent,train,Razer Rising Stars NA League Q..,21,15,10,5,5,10,Insolent,25,24,1.01 
+2015,12,10,02:45,Empath,Enemy,cache,Game Show Global eSports Cup 2..,11,16,3,12,8,4,Empath,18,23,0.79 
+2015,12,10,02:45,Enemy,Empath,mirage,Game Show Global eSports Cup 2..,16,2,14,1,2,1,Empath,13,17,0.81 
+2015,12,10,00:00,Empath,Cloud9,cache,Game Show Global eSports Cup 2..,7,16,6,9,1,7,Empath,13,21,0.67 
+2015,12,10,00:00,Cloud9,Empath,cobblestone,Game Show Global eSports Cup 2..,16,2,13,2,3,0,Empath,11,18,0.64 

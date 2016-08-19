@@ -1,0 +1,5 @@
+2015,09,30,21:30,XPC,NoProblem!,inferno,QuickShot Arena #9,6,16,3,12,3,4,XPC,10,17,0.67 
+2015,09,30,19:30,XPC,LGBfe,mirage,QuickShot Arena #9,16,2,14,1,2,1,XPC,16,8,1.39 
+2015,09,23,21:45,ESC,XPC,mirage,QuickShot Arena #8,16,11,8,7,8,4,XPC,11,23,0.50 
+2015,09,23,20:00,Torpedo,XPC,cache,QuickShot Arena #8,16,5,11,4,5,1,XPC,8,20,0.41 
+2015,09,23,20:00,XPC,Torpedo,cobblestone,QuickShot Arena #8,1,16,1,14,0,2,XPC,9,16,0.56 

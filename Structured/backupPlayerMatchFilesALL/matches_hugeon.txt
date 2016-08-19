@@ -1,0 +1,5 @@
+2014,07,05,19:00,UNNAMED,Faith,season,CIS Rising League Season 1,7,16,6,9,1,7,Faith,11,11,0.95 
+2014,07,05,19:00,Faith,UNNAMED,mirage,CIS Rising League Season 1,16,11,9,6,7,5,Faith,14,14,0.87 
+2014,06,19,21:00,Faith,Nostalgie,cache,CIS Rising League Season 1,11,16,8,7,3,9,Faith,19,22,0.85 
+2014,06,19,21:00,Nostalgie,Faith,dust2,CIS Rising League Season 1,16,3,12,3,4,0,Faith,10,18,0.54 
+2014,06,19,21:00,Faith,Nostalgie,inferno,CIS Rising League Season 1,16,4,11,4,5,0,Faith,12,7,1.09 

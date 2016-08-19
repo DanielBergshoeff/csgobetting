@@ -1,0 +1,59 @@
+2016,08,05,06:00,AllGamers,LGD,cache,SL i-League S2 China Finals,16,12,9,6,7,6,LGD,22,21,1.05 
+2016,08,05,06:00,LGD,AllGamers,mirage,SL i-League S2 China Finals,7,16,4,11,3,5,LGD,8,23,0.29 
+2016,07,29,15:00,LGD,EHOME,overpass,SL i-League S2 China Qualifier,13,16,7,8,6,8,LGD,18,23,0.79 
+2016,07,29,15:00,EHOME,LGD,mirage,SL i-League S2 China Qualifier,16,2,13,2,3,0,LGD,7,16,0.51 
+2016,07,20,15:00,LGD,EDG,train,SL i-League S2 China Qualifier,16,8,9,6,7,2,LGD,22,15,1.27 
+2016,07,20,15:00,EDG,LGD,mirage,SL i-League S2 China Qualifier,16,19,6,9,9,6,LGD,24,26,0.97 
+2016,07,20,12:30,LGD,5Love.N4,cache,SL i-League S2 China Qualifier,16,9,8,7,8,2,LGD,17,18,0.91 
+2016,07,20,12:30,LGD,5Love.N4,mirage,SL i-League S2 China Qualifier,16,6,11,4,5,2,LGD,25,12,1.61 
+2016,07,07,08:00,VG.CyberZen,LGD,train,WCA Season 2 China Qualifier,16,2,13,2,3,0,LGD,2,16,0.18 
+2016,07,07,08:00,VG.CyberZen,LGD,cobblestone,WCA Season 2 China Qualifier,16,5,10,5,6,0,LGD,14,18,0.87 
+2016,06,19,10:10,LGD,MVPproject,mirage,H-Cup Season 2,13,16,3,12,10,4,LGD,20,23,0.88 
+2016,06,19,10:10,MVPproject,LGD,cache,H-Cup Season 2,16,7,11,4,5,3,LGD,22,19,1.14 
+2016,06,19,08:00,LGD,EHOME,cobblestone,WCA Season 2 China Qualifier,6,16,2,13,4,3,LGD,13,19,0.79 
+2016,06,19,08:00,LGD,EHOME,mirage,WCA Season 2 China Qualifier,16,7,11,4,5,3,LGD,19,13,1.17 
+2016,06,18,08:00,LGD,FIVE,overpass,WCA Season 2 China Qualifier,19,17,8,7,7,8,LGD,27,28,0.97 
+2016,06,18,08:00,FIVE,LGD,mirage,WCA Season 2 China Qualifier,12,16,10,5,2,11,LGD,14,18,0.77 
+2016,06,15,08:00,AllGamers,LGD,mirage,WCA Season 2 China Qualifier,14,16,7,8,7,8,LGD,19,18,1.09 
+2016,06,15,08:00,LGD,AllGamers,cache,WCA Season 2 China Qualifier,12,16,9,6,3,10,LGD,13,25,0.52 
+2016,05,27,11:00,TyLoo,LGD,cache,H-Cup Season 1,16,13,10,5,6,8,LGD,15,26,0.70 
+2016,05,27,11:00,LGD,TyLoo,mirage,H-Cup Season 1,4,16,4,11,0,5,LGD,6,19,0.29 
+2016,05,25,14:00,LGD,New4,cache,H-Cup Season 1,16,14,12,3,4,11,LGD,23,21,1.12 
+2016,05,25,14:00,New4,LGD,mirage,H-Cup Season 1,11,16,7,8,4,8,LGD,18,19,1.10 
+2016,04,23,16:15,LGD,BornOfFire,inferno,SL i-League Invitational China..,10,16,6,9,4,7,LGD,20,17,1.15 
+2016,04,23,16:15,BornOfFire,LGD,cobblestone,SL i-League Invitational China..,16,8,8,7,8,1,LGD,12,20,0.67 
+2016,04,21,15:05,LGD,MVP.karnal,cache,Rising Stars SEA Promotional C..,6,16,3,12,3,4,LGD,15,17,0.89 
+2016,04,21,11:05,nxl,LGD,mirage,Rising Stars SEA Promotional C..,16,9,9,6,7,3,LGD,16,19,0.89 
+2016,04,21,07:00,New4,LGD,mirage,SL i-League Invitational China..,10,16,9,6,1,10,LGD,35,16,1.95 
+2016,04,21,07:00,LGD,New4,cache,SL i-League Invitational China..,10,16,5,10,5,6,LGD,8,21,0.44 
+2016,04,21,07:00,New4,LGD,inferno,SL i-League Invitational China..,5,16,5,10,0,6,LGD,18,17,1.06 
+2016,04,14,15:25,AllGamers,LGD,inferno,SL i-League Invitational China..,11,16,6,9,5,7,LGD,21,15,1.21 
+2016,04,14,15:25,LGD,AllGamers,cache,SL i-League Invitational China..,16,9,7,8,9,1,LGD,23,13,1.42 
+2016,04,10,15:25,LGD,HG,mirage,SL i-League Invitational China..,16,7,12,3,4,4,LGD,16,14,1.08 
+2016,04,10,15:25,HG,LGD,inferno,SL i-League Invitational China..,19,17,5,10,10,5,LGD,22,24,0.94 
+2016,04,03,13:00,LGD,MVPproject,cobblestone,SL i-League Invitational China..,2,16,2,13,0,3,LGD,6,17,0.36 
+2016,04,03,13:00,LGD,MVPproject,cache,SL i-League Invitational China..,16,13,8,7,8,6,LGD,23,21,1.07 
+2015,12,19,09:00,BornOfFire,Wings,cache,SL i-League StarSeries XIV Chi..,9,16,2,13,7,3,Born Of Fire,14,23,0.63 
+2015,12,19,09:00,Wings,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,10,12,3,4,7,Born Of Fire,11,20,0.61 
+2015,12,18,13:30,TyLoo,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,Born Of Fire,9,17,0.53 
+2015,12,18,13:30,BornOfFire,TyLoo,cache,SL i-League StarSeries XIV Chi..,1,16,0,15,1,1,Born Of Fire,8,17,0.46 
+2015,12,17,10:40,BornOfFire,Goalie,cache,SL i-League StarSeries XIV Chi..,16,7,11,4,5,3,Born Of Fire,17,10,1.20 
+2015,12,17,10:40,BornOfFire,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,19,9,6,6,9,Born Of Fire,21,28,0.76 
+2015,12,17,10:40,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV Chi..,12,16,10,5,2,11,Born Of Fire,23,19,1.07 
+2015,12,06,12:00,FOF,BornOfFire,mirage,Fulcrum Gamers League,5,16,3,12,2,4,Born Of Fire,3,12,0.47 
+2015,12,06,12:00,FOF,BornOfFire,dust2,Fulcrum Gamers League,9,16,7,8,2,8,Born Of Fire,10,14,0.74 
+2015,12,04,13:40,BornOfFire,BOW,mirage,Fulcrum Gamers League,16,8,13,2,3,6,Born Of Fire,15,11,1.16 
+2015,12,04,13:40,BornOfFire,BOW,dust2,Fulcrum Gamers League,16,10,7,8,9,2,Born Of Fire,19,16,1.19 
+2015,12,04,12:00,PUZZLES,BornOfFire,inferno,Fulcrum Gamers League,16,10,6,9,10,1,Born Of Fire,12,20,0.71 
+2015,12,04,12:00,BornOfFire,PUZZLES,dust2,Fulcrum Gamers League,1,16,1,14,0,2,Born Of Fire,5,15,0.34 
+2015,11,29,16:00,JSG,BornOfFire,cache,SL i-League StarSeries XIV,14,16,4,11,10,5,Born Of Fire,21,20,0.97 
+2015,11,29,16:00,JSG,BornOfFire,dust2,SL i-League StarSeries XIV,8,16,7,8,1,8,Born Of Fire,13,14,0.84 
+2015,11,29,16:00,JSG,BornOfFire,mirage,SL i-League StarSeries XIV,16,10,8,7,8,3,Born Of Fire,17,17,0.90 
+2015,11,29,12:00,BornOfFire,TyLoo,cache,Fulcrum Gamers League,5,16,4,11,1,5,Born Of Fire,10,19,0.48 
+2015,11,29,12:00,TyLoo,BornOfFire,mirage,Fulcrum Gamers League,16,2,14,1,2,1,Born Of Fire,10,17,0.57 
+2015,11,28,12:00,TheMongolz,BornOfFire,mirage,Fulcrum Gamers League,16,12,7,8,9,4,Born Of Fire,12,21,0.60 
+2015,11,28,12:00,TheMongolz,BornOfFire,inferno,Fulcrum Gamers League,16,8,11,4,5,4,Born Of Fire,9,19,0.53 
+2015,11,27,12:30,YOUROWNMIRACLE,BornOfFire,inferno,SL i-League StarSeries XIV,4,16,4,11,0,5,Born Of Fire,10,10,0.94 
+2015,11,27,12:30,YOUROWNMIRACLE,BornOfFire,dust2,SL i-League StarSeries XIV,5,16,3,12,2,4,Born Of Fire,10,14,0.81 
+2015,11,25,12:30,BornOfFire,Goalie,cobblestone,SL i-League StarSeries XIV,16,12,8,7,8,5,Born Of Fire,23,17,1.13 
+2015,11,25,12:30,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV,8,16,5,10,3,6,Born Of Fire,16,12,1.13 

@@ -1,0 +1,22 @@
+2016,06,09,17:10,PLAYZONE,Alpha,train,Operation: Kinguin #3,10,16,2,13,8,3,PLAYZONE,12,21,0.68 
+2016,06,09,17:10,Alpha,PLAYZONE,mirage,Operation: Kinguin #3,16,2,14,1,2,1,PLAYZONE,8,16,0.66 
+2016,05,26,22:30,PRIDE,PLAYZONE,nuke,Razer Rising Stars European Le..,16,8,10,5,6,3,PLAYZONE,21,20,1.18 
+2016,05,26,22:30,PLAYZONE,PRIDE,mirage,Razer Rising Stars European Le..,16,9,8,7,8,2,PLAYZONE,16,17,0.89 
+2016,05,23,20:00,eSuba,PLAYZONE,cache,Razer Rising Stars European Le..,9,16,6,9,3,7,PLAYZONE,17,13,1.12 
+2016,05,23,20:00,eSuba,PLAYZONE,mirage,Razer Rising Stars European Le..,22,20,7,8,8,7,PLAYZONE,25,31,0.85 
+2016,03,24,19:00,Recursive,Iwku,overpass,Copenhagen Games 2016 BYOC Qua..,11,16,5,10,6,6,Recursive,21,22,0.97 
+2016,03,24,19:00,Iwku,Recursive,inferno,Copenhagen Games 2016 BYOC Qua..,16,5,14,1,2,4,Recursive,9,19,0.46 
+2016,03,24,17:00,Recursive,Quantaya,inferno,Copenhagen Games 2016 BYOC Qua..,16,12,13,2,3,10,Recursive,17,16,1.02 
+2016,03,24,15:30,Bananaboys,Recursive,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Recursive,10,17,0.54 
+2016,03,24,13:00,Recursive,fLYVERNE,dust2,Copenhagen Games 2016 BYOC Qua..,16,0,15,0,1,0,Recursive,10,5,1.19 
+2016,03,11,22:50,Recursive,DEEZNUTS,mirage,Razer Rising Stars European Le..,16,12,8,7,8,5,Recursive,24,20,1.18 
+2016,03,11,18:00,Recursive,CSGO2x,cache,Razer Rising Stars European Le..,16,4,11,4,5,0,Recursive,13,11,1.00 
+2015,10,30,20:00,MaxAndRelax,EuropeanMisfits,mirage,QuickShot Showmatches,16,3,14,1,2,2,European Misfits,7,17,0.45 
+2015,10,30,20:00,EuropeanMisfits,MaxAndRelax,cache,QuickShot Showmatches,16,12,7,8,9,4,European Misfits,24,21,1.13 
+2015,10,30,20:00,EuropeanMisfits,MaxAndRelax,dust2,QuickShot Showmatches,11,16,10,5,1,11,European Misfits,14,18,0.77 
+2015,10,24,20:00,EuropeanMisfits,Reaction,dust2,QuickShot Showmatches,16,14,6,9,10,5,European Misfits,27,14,1.50 
+2015,10,24,20:00,EuropeanMisfits,Reaction,cache,QuickShot Showmatches,16,5,12,3,4,2,European Misfits,8,12,0.75 
+2015,05,27,21:15,Vination,k1ck,mirage,CEVO Main Season 7,19,15,9,6,6,9,Vination,23,22,0.98 
+2015,05,24,21:00,Vination,dignitas,inferno,FACEIT League 2015 Stage 2 EU ..,5,16,3,12,2,4,Vination,7,16,0.53 
+2015,05,24,21:00,dignitas,Vination,mirage,FACEIT League 2015 Stage 2 EU ..,16,2,13,2,3,0,Vination,11,16,0.73 
+2015,05,24,21:00,Vination,dignitas,cache,FACEIT League 2015 Stage 2 EU ..,16,11,7,8,9,3,Vination,26,16,1.44 

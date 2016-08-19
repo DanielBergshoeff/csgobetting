@@ -1,0 +1,5 @@
+2014,12,06,21:25,Denial,eLevate,inferno,ESEA Invite Season 17 Global F..,16,10,10,5,6,5,eLevate,19,19,1.01 
+2014,12,06,21:25,Denial,eLevate,cache,ESEA Invite Season 17 Global F..,19,16,7,8,8,7,eLevate,21,30,0.68 
+2014,12,06,21:25,eLevate,Denial,season,ESEA Invite Season 17 Global F..,16,13,8,7,8,6,eLevate,21,19,1.09 
+2014,12,06,04:40,fnatic,eLevate,cache,ESEA Invite Season 17 Global F..,16,3,12,3,4,0,eLevate,13,17,0.87 
+2014,12,06,04:40,eLevate,fnatic,mirage,ESEA Invite Season 17 Global F..,0,16,0,15,0,1,eLevate,10,16,0.59 

@@ -1,0 +1,29 @@
+2016,04,09,11:30,Galatics,k1ck,mirage,AlienTech CS:GO League Finals,13,16,7,8,6,8,Galatics,21,21,0.93 
+2016,04,09,11:30,Galatics,k1ck,cache,AlienTech CS:GO League Finals,5,16,4,11,1,5,Galatics,17,18,0.90 
+2016,04,08,14:30,AlienTech,Galatics,cache,AlienTech CS:GO League Finals,16,7,10,5,6,2,Galatics,12,19,0.68 
+2016,04,08,14:30,Galatics,AlienTech,inferno,AlienTech CS:GO League Finals,6,16,5,10,1,6,Galatics,13,18,0.91 
+2016,03,19,16:45,Galatics,EasyMind,inferno,AlienTech CS:GO Invitational I,12,16,8,7,4,9,Galatics,21,19,1.08 
+2016,03,19,13:30,ImperioMultimedia,Galatics,inferno,AlienTech CS:GO Invitational I,16,5,10,5,6,0,Galatics,9,19,0.52 
+2016,03,13,19:00,Galatics,k1ck,inferno,AlienTech CS:GO League,11,16,10,5,1,11,Galatics,17,20,0.91 
+2016,03,13,19:00,k1ck,Galatics,cache,AlienTech CS:GO League,16,4,14,1,2,3,Galatics,10,19,0.55 
+2016,03,13,17:00,gBots,Galatics,inferno,AlienTech CS:GO League,16,11,8,7,8,4,Galatics,11,22,0.53 
+2016,03,13,17:00,gBots,Galatics,train,AlienTech CS:GO League,16,6,11,4,5,2,Galatics,7,20,0.39 
+2016,03,11,21:15,nerdRage,Galatics,cache,AlienTech CS:GO League,16,4,13,2,3,2,Galatics,7,20,0.29 
+2016,03,11,21:15,nerdRage,Galatics,dust2,AlienTech CS:GO League,16,12,9,6,7,6,Galatics,17,21,0.81 
+2016,02,28,23:00,Publiclir.se,Galatics,inferno,AlienTech CS:GO League,17,19,8,7,7,8,Galatics,28,27,1.21 
+2016,02,28,23:00,Publiclir.se,Galatics,cache,AlienTech CS:GO League,19,17,6,9,9,6,Galatics,22,29,0.78 
+2016,02,23,21:15,k1ck,Galatics,cache,AlienTech CS:GO League,16,9,7,8,9,1,Galatics,13,23,0.55 
+2016,02,23,21:15,k1ck,Galatics,cobblestone,AlienTech CS:GO League,16,11,9,6,7,5,Galatics,15,22,0.74 
+2016,02,19,21:00,AlienTech,Galatics,cache,AlienTech CS:GO League,16,9,8,7,8,2,Galatics,5,19,0.36 
+2016,02,19,21:00,AlienTech,Galatics,inferno,AlienTech CS:GO League,16,13,7,8,9,5,Galatics,19,23,0.82 
+2016,02,19,00:00,ImperioMultimedia,Galatics,inferno,AlienTech CS:GO League,4,16,4,11,0,5,Galatics,20,13,1.38 
+2016,02,19,00:00,ImperioMultimedia,Galatics,cache,AlienTech CS:GO League,13,16,6,9,7,7,Galatics,17,21,0.79 
+2015,12,11,18:00,Supreme,ELTZ,cobblestone,Game Show Global eSports Cup 2..,7,16,3,12,4,4,Supreme,10,19,0.58 
+2015,12,11,18:00,Supreme,ELTZ,train,Game Show Global eSports Cup 2..,7,16,3,12,4,4,Supreme,18,17,0.97 
+2015,12,11,18:00,Supreme,ELTZ,mirage,Game Show Global eSports Cup 2..,16,11,9,6,7,5,Supreme,22,21,1.03 
+2015,12,10,21:00,HellRaisers,Supreme,inferno,Game Show Global eSports Cup 2..,16,5,10,5,6,0,Supreme,14,18,0.76 
+2015,12,10,21:00,HellRaisers,Supreme,mirage,Game Show Global eSports Cup 2..,16,10,7,8,9,2,Supreme,17,18,1.00 
+2015,12,09,21:00,Enso,Supreme,cobblestone,Game Show Global eSports Cup 2..,17,19,8,7,7,8,Supreme,26,25,0.97 
+2015,12,09,21:00,Supreme,Enso,train,Game Show Global eSports Cup 2..,16,7,9,6,7,1,Supreme,28,13,1.83 
+2015,10,15,22:00,3v,FTW.PRO,dust2,AlienTech CS:GO TiTans I,10,16,5,10,5,6,3v,12,21,0.63 
+2015,10,13,23:00,k1ck,3v,inferno,AlienTech CS:GO TiTans I,16,5,13,2,3,3,3v,7,18,0.42 

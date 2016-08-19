@@ -1,0 +1,2 @@
+2016,08,11,12:30,F7,SYF,cache,ESEA Open Season 22 Oceania,14,16,8,7,6,9,F7,32,20,1.70 
+2016,08,11,12:30,SYF,F7,train,ESEA Open Season 22 Oceania,16,11,11,4,5,7,F7,12,21,0.64 

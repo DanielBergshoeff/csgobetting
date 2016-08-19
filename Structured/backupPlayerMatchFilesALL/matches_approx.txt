@@ -1,0 +1,30 @@
+2015,10,17,16:30,Planetkey,EYESONU,mirage,99Damage League Season 1,16,14,7,8,9,6,EYES ON U,24,20,1.15 
+2015,10,17,16:30,EYESONU,Planetkey,cache,99Damage League Season 1,16,11,6,9,10,2,EYES ON U,31,13,1.68 
+2015,10,17,16:30,EYESONU,Planetkey,dust2,99Damage League Season 1,5,16,4,11,1,5,EYES ON U,9,18,0.53 
+2015,10,17,13:20,KILLERFISH,EYESONU,overpass,99Damage League Season 1,16,13,8,7,8,6,EYES ON U,19,21,0.93 
+2015,10,17,13:20,KILLERFISH,EYESONU,mirage,99Damage League Season 1,28,24,12,3,3,12,EYES ON U,28,39,0.79 
+2014,11,11,22:05,PENTA,ALTERNATEaTTaX,dust2,ESL Pro Series Germany Winter ..,9,16,4,11,5,5,ALTERNATE aTTaX,18,13,1.07 
+2014,11,11,21:15,dotpiXels,ALTERNATEaTTaX,cache,ESL Pro Series Germany Winter ..,5,16,4,11,1,5,ALTERNATE aTTaX,13,11,0.93 
+2014,11,11,19:00,PENTA,ALTERNATEaTTaX,cache,ESL Pro Series Germany Winter ..,21,19,9,6,6,9,ALTERNATE aTTaX,24,29,0.82 
+2014,10,22,19:00,HellRaisers,ALTERNATEaTTaX,cache,DreamHack Winter 2014 EU Close..,16,14,10,5,6,9,ALTERNATE aTTaX,12,20,0.68 
+2014,10,22,19:00,HellRaisers,ALTERNATEaTTaX,dust2,DreamHack Winter 2014 EU Close..,16,14,8,7,8,7,ALTERNATE aTTaX,27,16,1.31 
+2014,10,22,01:30,ESC,ALTERNATEaTTaX,mirage,DreamHack Winter 2014 EU Close..,16,2,13,2,3,0,ALTERNATE aTTaX,4,17,0.23 
+2014,10,22,01:30,ESC,ALTERNATEaTTaX,cache,DreamHack Winter 2014 EU Close..,16,14,9,6,7,8,ALTERNATE aTTaX,20,19,0.99 
+2014,10,21,20:30,LondonC,ALTERNATEaTTaX,cobblestone,DreamHack Winter 2014 EU Close..,12,16,6,9,6,7,ALTERNATE aTTaX,23,18,1.22 
+2014,10,21,20:30,ALTERNATEaTTaX,LondonC,dust2,DreamHack Winter 2014 EU Close..,16,12,4,11,12,1,ALTERNATE aTTaX,28,14,1.49 
+2014,10,19,22:45,Katrina,ALTERNATEaTTaX,nuke,DreamHack Winter 2014 EU pre-q..,12,16,9,6,3,10,ALTERNATE aTTaX,27,17,1.37 
+2014,10,09,19:00,Virtus.pro,ALTERNATEaTTaX,inferno,Hitbox Arena Championship 3,16,4,12,3,4,1,ALTERNATE aTTaX,6,14,0.50 
+2014,10,09,19:00,Virtus.pro,ALTERNATEaTTaX,mirage,Hitbox Arena Championship 3,14,16,10,5,4,11,ALTERNATE aTTaX,15,23,0.74 
+2014,10,09,19:00,Virtus.pro,ALTERNATEaTTaX,cache,Hitbox Arena Championship 3,19,17,7,8,8,7,ALTERNATE aTTaX,22,25,0.94 
+2014,10,07,20:01,Epsilon,ALTERNATEaTTaX,cache,Hitbox Arena Championship 3,13,16,8,7,5,9,ALTERNATE aTTaX,11,20,0.63 
+2014,10,07,20:00,ALTERNATEaTTaX,Epsilon,dust2,Hitbox Arena Championship 3,19,17,10,5,5,10,ALTERNATE aTTaX,29,20,1.23 
+2014,09,25,15:45,ALTERNATEaTTaX,Titan,cache,DreamHack Stockholm CS:GO Invi..,12,16,5,10,7,6,ALTERNATE aTTaX,10,26,0.44 
+2014,09,25,12:55,NiP,ALTERNATEaTTaX,inferno,DreamHack Stockholm CS:GO Invi..,16,8,10,5,6,3,ALTERNATE aTTaX,14,18,0.75 
+2014,09,22,21:15,ALTERNATEaTTaX,myXMGfe,mirage,Hitbox Arena Championship 3,16,5,11,4,5,1,ALTERNATE aTTaX,19,10,1.43 
+2014,09,22,21:15,ALTERNATEaTTaX,myXMGfe,inferno,Hitbox Arena Championship 3,16,2,13,2,3,0,ALTERNATE aTTaX,17,6,1.72 
+2014,09,17,18:00,fnatic,ALTERNATEaTTaX,inferno,Hitbox Arena Championship 3,16,11,12,3,4,8,ALTERNATE aTTaX,15,17,0.91 
+2014,09,17,18:00,ALTERNATEaTTaX,fnatic,cache,Hitbox Arena Championship 3,7,16,4,11,3,5,ALTERNATE aTTaX,8,20,0.40 
+2014,09,15,00:10,FiMAGi,ALTERNATEaTTaX,cache,DreamHack Stockholm 2014 FACEI..,7,16,7,8,0,8,ALTERNATE aTTaX,22,13,1.51 
+2014,08,04,22:30,ALTERNATEaTTaX,PlayingDucks,dust2,ESL Pro Series Germany Summer ..,10,16,2,13,8,3,ALTERNATE aTTaX,13,18,0.70 
+2014,08,04,20:40,Planetkey,ALTERNATEaTTaX,dust2,ESL Pro Series Germany Summer ..,16,8,10,5,6,3,ALTERNATE aTTaX,16,18,0.91 
+2014,08,04,19:00,ALTERNATEaTTaX,PlayingDucks,dust2,ESL Pro Series Germany Summer ..,16,10,8,7,8,3,ALTERNATE aTTaX,9,15,0.70 

@@ -1,0 +1,61 @@
+2016,07,15,00:15,FaZe,CLG,dust2,ELEAGUE Season 1,22,19,7,8,8,7,CLG,39,30,1.28 
+2016,07,15,00:15,FaZe,CLG,cobblestone,ELEAGUE Season 1,14,16,7,8,7,8,CLG,22,20,1.06 
+2016,07,15,00:15,CLG,FaZe,mirage,ELEAGUE Season 1,4,16,4,11,0,5,CLG,11,18,0.57 
+2016,07,06,12:15,CLG,dignitas,cobblestone,ESL One Cologne 2016,1,16,1,14,0,2,CLG,6,15,0.42 
+2016,07,05,12:25,CLG,Gambit,dust2,ESL One Cologne 2016,13,16,7,8,6,8,CLG,16,21,0.97 
+2016,05,26,20:00,Liquid,Luminosity,nuke,ELEAGUE Season 1,12,16,10,5,2,11,Liquid,19,19,0.97 
+2016,05,26,20:00,Liquid,Luminosity,mirage,ELEAGUE Season 1,6,16,5,10,1,6,Liquid,11,20,0.60 
+2016,05,25,19:15,Liquid,Renegades,train,ELEAGUE Season 1,10,16,5,10,5,6,Liquid,17,18,0.91 
+2016,05,25,18:00,Liquid,Renegades,mirage,ELEAGUE Season 1,14,16,11,4,3,12,Liquid,24,20,1.10 
+2016,05,25,00:10,Luminosity,Liquid,cobblestone,ELEAGUE Season 1,16,14,3,12,13,2,Liquid,17,18,0.88 
+2016,05,24,23:15,Liquid,Luminosity,dust2,ELEAGUE Season 1,6,16,4,11,2,5,Liquid,9,18,0.62 
+2016,05,24,22:10,Cloud9,Liquid,cache,ELEAGUE Season 1,16,2,13,2,3,0,Liquid,9,16,0.67 
+2016,05,24,21:00,Cloud9,Liquid,dust2,ELEAGUE Season 1,16,11,7,8,9,3,Liquid,18,16,1.02 
+2016,05,12,20:15,Liquid,fnatic,mirage,ESL Pro League Season 3 Finals,13,16,8,7,5,9,Liquid,22,20,1.17 
+2016,05,12,20:15,Liquid,fnatic,cache,ESL Pro League Season 3 Finals,6,16,2,13,4,3,Liquid,10,18,0.69 
+2016,05,12,14:00,Liquid,Cloud9,cobblestone,ESL Pro League Season 3 Finals,16,10,10,5,6,5,Liquid,24,16,1.26 
+2016,05,12,14:00,Cloud9,Liquid,dust2,ESL Pro League Season 3 Finals,16,19,7,8,8,7,Liquid,25,18,1.18 
+2016,05,11,17:50,Liquid,NiP,dust2,ESL Pro League Season 3 Finals,18,22,13,2,2,13,Liquid,29,29,1.02 
+2016,05,08,21:55,Luminosity,Liquid,train,DreamHack Austin 2016,16,14,8,7,8,7,Liquid,11,25,0.50 
+2016,05,08,21:55,Luminosity,Liquid,dust2,DreamHack Austin 2016,16,6,10,5,6,1,Liquid,14,17,0.82 
+2016,05,08,04:05,Selfless,Liquid,train,DreamHack Austin 2016,10,16,4,11,6,5,Liquid,12,13,0.88 
+2016,05,08,04:05,Liquid,Selfless,dust2,DreamHack Austin 2016,16,3,12,3,4,0,Liquid,15,9,1.30 
+2016,05,07,06:15,Liquid,TempoStorm,cobblestone,DreamHack Austin 2016,10,16,4,11,6,5,Liquid,12,19,0.67 
+2016,05,07,02:50,Selfless,Liquid,mirage,DreamHack Austin 2016,10,16,6,9,4,7,Liquid,27,12,1.66 
+2016,04,13,11:00,TyLoo,Liquid,cobblestone,DreamHack Masters Malmö 2016,22,19,10,5,5,10,Liquid,19,30,0.71 
+2016,04,12,12:30,mousesports,Liquid,dust2,DreamHack Masters Malmö 2016,16,13,7,8,9,5,Liquid,17,17,0.99 
+2016,02,27,17:00,TempoStorm,Selfless,inferno,MLG Columbus 2016 Main Qualifi..,16,4,12,3,4,1,Selfless,9,18,0.52 
+2016,02,26,20:00,FlipSid3,Selfless,inferno,MLG Columbus 2016 Main Qualifi..,16,13,9,6,7,7,Selfless,13,22,0.63 
+2016,01,17,21:00,Splyce,Enemy,inferno,MLG Americas Minor Championshi..,9,16,7,8,2,8,Enemy,33,14,2.23 
+2016,01,17,21:00,Enemy,Splyce,cache,MLG Americas Minor Championshi..,16,7,10,5,6,2,Enemy,28,10,1.81 
+2016,01,17,16:00,Winterfox,Enemy,overpass,MLG Americas Minor Championshi..,7,16,4,11,3,5,Enemy,22,12,1.49 
+2016,01,17,16:00,Enemy,Winterfox,mirage,MLG Americas Minor Championshi..,16,8,8,7,8,1,Enemy,24,14,1.44 
+2016,01,16,19:00,Enemy,Leader-1,overpass,MLG Americas Minor Championshi..,16,4,12,3,4,1,Enemy,16,13,1.27 
+2016,01,15,23:00,Enemy,EZG,cache,MLG Americas Minor Championshi..,16,9,14,1,2,8,Enemy,26,12,1.69 
+2015,11,19,01:00,Enemy,Renegades,train,RGN Pro Series Championship,12,16,5,10,7,6,Enemy,31,19,1.50 
+2015,11,19,01:00,Enemy,Renegades,cobblestone,RGN Pro Series Championship,10,16,4,11,6,5,Enemy,17,19,0.99 
+2015,11,18,19:30,Method,Enemy,overpass,RGN Pro Series Championship,3,16,3,12,0,4,Enemy,19,6,1.64 
+2015,11,18,19:30,Enemy,Method,cache,RGN Pro Series Championship,16,12,5,10,11,2,Enemy,24,18,1.30 
+2015,11,18,05:30,Luminosity,Enemy,train,RGN Pro Series Championship,16,3,12,3,4,0,Enemy,22,14,1.52 
+2015,11,18,05:30,Enemy,Luminosity,mirage,RGN Pro Series Championship,17,19,5,10,10,5,Enemy,27,24,1.04 
+2015,11,17,01:15,Renegades,Enemy,inferno,RGN Pro Series Championship,16,14,9,6,7,8,Enemy,21,23,0.99 
+2015,11,16,23:15,CLG,Enemy,cache,RGN Pro Series Championship,7,16,6,9,1,7,Enemy,27,14,1.60 
+2015,11,16,21:45,Enemy,Nexus,cobblestone,RGN Pro Series Championship,16,2,13,2,3,0,Enemy,21,5,1.95 
+2015,10,19,05:10,Torqued,Enemy,inferno,Fragadelphia 6,16,13,7,8,9,5,Enemy,30,20,1.40 
+2015,10,19,05:10,Torqued,Enemy,overpass,Fragadelphia 6,16,8,12,3,4,5,Enemy,21,19,1.14 
+2015,10,19,04:00,Tectonic,Enemy,train,Fragadelphia 6,5,16,1,14,4,2,Enemy,16,11,1.19 
+2015,10,19,00:00,Enemy,Torqued,inferno,Fragadelphia 6,7,16,7,8,0,8,Enemy,17,17,1.03 
+2015,10,19,00:00,Enemy,Torqued,cache,Fragadelphia 6,16,13,6,9,10,4,Enemy,25,16,1.29 
+2015,10,19,00:00,Enemy,Torqued,cobblestone,Fragadelphia 6,2,16,2,13,0,3,Enemy,16,16,1.03 
+2015,10,18,22:00,Tectonic,Enemy,inferno,Fragadelphia 6,7,16,7,8,0,8,Enemy,13,13,0.98 
+2015,10,18,22:00,Enemy,Tectonic,cache,Fragadelphia 6,16,13,8,7,8,6,Enemy,14,23,0.67 
+2015,10,18,16:25,Enemy,Dynasty,train,Fragadelphia 6,16,10,13,2,3,8,Enemy,19,12,1.18 
+2015,10,18,16:25,Enemy,Dynasty,cache,Fragadelphia 6,16,2,13,2,3,0,Enemy,14,5,1.50 
+2015,09,06,16:00,Enemy,Method,cache,WinOut $20,000 CS:GO Champions..,8,16,7,8,1,8,Enemy,15,18,0.97 
+2015,09,06,16:00,Method,Enemy,inferno,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,Enemy,16,11,1.08 
+2015,09,06,16:00,Enemy,Method,dust2,WinOut $20,000 CS:GO Champions..,13,16,8,7,5,9,Enemy,21,22,1.06 
+2015,09,05,23:00,Enemy,CLG,mirage,WinOut $20,000 CS:GO Champions..,3,16,3,12,0,4,Enemy,9,17,0.54 
+2015,09,05,23:00,CLG,Enemy,cache,WinOut $20,000 CS:GO Champions..,16,1,14,1,2,0,Enemy,10,16,0.64 
+2015,09,05,08:20,Swarm,Enemy,cache,WinOut $20,000 CS:GO Champions..,9,16,7,8,2,8,Enemy,20,12,1.19 
+2015,09,05,06:00,Enemy,3sUP,dust2,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,Enemy,13,22,0.53 
+2015,09,05,05:30,Enemy,Swarm,inferno,WinOut $20,000 CS:GO Champions..,16,5,14,1,2,4,Enemy,21,10,1.76 

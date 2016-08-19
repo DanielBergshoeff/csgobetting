@@ -1,0 +1,5 @@
+2016,04,25,21:15,CETCTM,DMIT,cache,Yoggi Yalla Cup,16,13,7,8,9,5,DMIT,15,26,0.56 
+2016,04,25,21:15,CETCTM,DMIT,cobblestone,Yoggi Yalla Cup,16,14,10,5,6,9,DMIT,16,22,0.78 
+2016,02,19,18:15,Optimum,Temporaryorgless,cache,Nordic Masters Season 2 Finals,16,2,13,2,3,0,Temporary orgless,13,17,0.75 
+2016,02,19,18:15,Optimum,Temporaryorgless,mirage,Nordic Masters Season 2 Finals,16,3,13,2,3,1,Temporary orgless,11,16,0.70 
+2016,02,19,14:45,Preparation,Temporaryorgless,inferno,Nordic Masters Season 2 Finals,16,12,7,8,9,4,Temporary orgless,15,21,0.71 

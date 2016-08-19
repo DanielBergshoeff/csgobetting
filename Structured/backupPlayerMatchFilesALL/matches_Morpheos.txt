@@ -1,0 +1,4 @@
+2016,08,15,19:00,c5,Swift,overpass,WESG 2016 Middle East,23,25,11,4,4,11,Swift,36,31,1.05 
+2016,08,15,19:00,c5,Swift,dust2,WESG 2016 Middle East,12,16,9,6,3,10,Swift,31,17,1.60 
+2016,08,14,22:30,Swift,KotK,mirage,WESG 2016 Middle East,16,6,12,3,4,3,Swift,20,12,1.39 
+2016,08,14,22:30,KotK,Swift,dust2,WESG 2016 Middle East,4,16,4,11,0,5,Swift,20,11,1.64 

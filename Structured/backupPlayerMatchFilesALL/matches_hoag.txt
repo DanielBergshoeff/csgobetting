@@ -1,0 +1,7 @@
+2016,07,12,14:30,Singapore,Vietnam,mirage,World Championships 2016 Asian..,16,13,6,9,10,4,Vietnam,17,24,0.69 
+2016,07,12,14:30,Singapore,Vietnam,cobblestone,World Championships 2016 Asian..,11,16,3,12,8,4,Vietnam,15,19,0.77 
+2016,07,12,14:30,Singapore,Vietnam,dust2,World Championships 2016 Asian..,16,12,5,10,11,2,Vietnam,27,18,1.35 
+2016,07,12,12:30,China,Vietnam,cache,World Championships 2016 Asian..,16,13,12,3,4,10,Vietnam,15,19,0.73 
+2016,07,12,11:00,Vietnam,Philippines,mirage,World Championships 2016 Asian..,16,5,11,4,5,1,Vietnam,20,12,1.45 
+2015,12,04,13:00,HanoiVortex,MVP.karnal,cobblestone,SoStronk Challenger Asia #1,6,16,3,12,3,4,Hanoi Vortex,8,20,0.40 
+2015,12,04,13:00,HanoiVortex,MVP.karnal,cache,SoStronk Challenger Asia #1,12,16,6,9,6,7,Hanoi Vortex,20,22,1.08 

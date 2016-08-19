@@ -1,0 +1,67 @@
+2016,05,04,20:20,k1ck,DenDD,cache,Operation: Kinguin #3,19,15,9,6,6,9,DenDD,17,27,0.67 
+2016,05,04,20:20,DenDD,k1ck,cobblestone,Operation: Kinguin #3,13,16,10,5,3,11,DenDD,16,21,0.77 
+2016,04,25,18:30,CPHWolves,DenDD,inferno,Uprise Champions Cup Season 4,16,9,10,5,6,4,DenDD,16,19,0.96 
+2016,04,25,18:30,CPHWolves,DenDD,mirage,Uprise Champions Cup Season 4,16,5,10,5,6,0,DenDD,10,19,0.64 
+2016,04,12,21:20,PENTA,DenDD,overpass,CEVO Gfinity Professional Seas..,16,8,8,7,8,1,DenDD,20,17,1.08 
+2016,04,12,21:20,PENTA,DenDD,inferno,CEVO Gfinity Professional Seas..,16,6,12,3,4,3,DenDD,13,18,0.72 
+2016,04,12,21:20,DenDD,PENTA,cobblestone,CEVO Gfinity Professional Seas..,19,16,9,6,6,9,DenDD,22,20,0.99 
+2016,03,27,19:00,Iwku,Ancient,cobblestone,SL I-League Invitational #1 EU..,5,16,5,10,0,6,Iwku,9,19,0.46 
+2016,03,16,22:15,dignitas,DenDD,overpass,CEVO Gfinity Professional Seas..,16,11,7,8,9,3,DenDD,17,21,0.75 
+2016,03,16,22:15,DenDD,dignitas,train,CEVO Gfinity Professional Seas..,10,16,6,9,4,7,DenDD,11,24,0.44 
+2016,03,16,00:00,E-frag.net,DenDD,inferno,Uprise Champions Cup Season 4,16,10,9,6,7,4,DenDD,14,18,0.77 
+2016,03,16,00:00,DenDD,E-frag.net,overpass,Uprise Champions Cup Season 4,13,16,10,5,3,11,DenDD,27,21,1.22 
+2016,03,13,21:00,Publiclir.se,nerdRage,dust2,AlienTech CS:GO League,16,6,10,5,6,1,Publiclir.se,20,13,1.36 
+2016,03,13,21:00,nerdRage,Publiclir.se,cobblestone,AlienTech CS:GO League,9,16,5,10,4,6,Publiclir.se,21,16,1.20 
+2016,03,09,22:30,ALTERNATEaTTaX,DenDD,cache,Global Offensive Champions Lea..,16,12,8,7,8,5,DenDD,19,19,1.02 
+2016,03,09,19:25,DenDD,dignitas,mirage,Global Offensive Champions Lea..,6,16,4,11,2,5,DenDD,8,20,0.43 
+2016,03,07,23:15,DenDD,Publiclir.se,inferno,CEVO Gfinity Professional Seas..,16,4,13,2,3,2,DenDD,12,9,1.07 
+2016,03,07,23:15,DenDD,Publiclir.se,mirage,CEVO Gfinity Professional Seas..,7,16,4,11,3,5,DenDD,15,20,0.83 
+2016,03,07,23:15,Publiclir.se,DenDD,cache,CEVO Gfinity Professional Seas..,14,16,9,6,5,10,DenDD,28,21,1.53 
+2016,02,21,15:00,DenDD,Preparation,cache,Nordic Masters Season 2 Finals,14,16,3,12,11,4,DenDD,23,21,1.06 
+2016,02,21,15:00,DenDD,Preparation,mirage,Nordic Masters Season 2 Finals,19,22,8,7,7,8,DenDD,23,29,0.76 
+2016,02,20,14:30,BX3,DenDD,overpass,Nordic Masters Season 2 Finals,7,16,5,10,2,6,DenDD,22,15,1.28 
+2016,02,20,14:30,BX3,DenDD,mirage,Nordic Masters Season 2 Finals,14,16,9,6,5,10,DenDD,24,20,1.11 
+2016,02,20,13:30,Propertyfe,DenDD,mirage,Nordic Masters Season 2 Finals,4,16,4,11,0,5,DenDD,16,8,1.30 
+2016,02,14,21:30,DenDD,Publiclir.se,cache,CEVO Gfinity Professional Seas..,16,8,11,4,5,4,DenDD,16,18,0.88 
+2016,02,14,20:00,DenDD,PENTA,train,CEVO Gfinity Professional Seas..,16,8,8,7,8,1,DenDD,17,17,1.00 
+2016,02,11,19:00,DenDD,Tricked,dust2,Uprise Champions Cup Season 4 ..,16,7,10,5,6,2,DenDD,32,14,2.16 
+2016,02,11,19:00,DenDD,Tricked,cache,Uprise Champions Cup Season 4 ..,16,12,10,5,6,7,DenDD,22,18,1.22 
+2016,02,08,21:00,nerdRage,DenDD,cobblestone,Uprise Champions Cup Season 4 ..,5,16,4,11,1,5,DenDD,18,11,1.33 
+2016,01,30,20:45,PixelFire,DenDD,train,PGL Regional Minor Championshi..,16,5,13,2,3,3,DenDD,7,19,0.38 
+2016,01,30,20:45,DenDD,PixelFire,mirage,PGL Regional Minor Championshi..,38,41,11,4,4,11,DenDD,50,64,0.80 
+2016,01,30,15:00,Lemondogs,DenDD,mirage,PGL Regional Minor Championshi..,13,16,7,8,6,8,DenDD,15,26,0.64 
+2016,01,30,13:30,PixelFire,DenDD,cobblestone,PGL Regional Minor Championshi..,16,2,13,2,3,0,DenDD,11,18,0.57 
+2016,01,08,18:15,Blojexpressen,RCTIC,train,PGL Regional Minor Championshi..,16,5,10,5,6,0,Blojexpressen,15,13,1.13 
+2016,01,08,18:15,RCTIC,Blojexpressen,cache,PGL Regional Minor Championshi..,11,16,4,11,7,5,Blojexpressen,17,20,0.87 
+2015,11,03,20:30,Lions,DenDD,overpass,Fragbite Masters Season 5,14,16,6,9,8,7,DenDD,29,21,1.25 
+2015,11,03,20:30,DenDD,Lions,cache,Fragbite Masters Season 5,16,11,8,7,8,4,DenDD,17,17,0.94 
+2015,08,17,19:00,Publiclir.se,OverGaming,cache,Hitbox Arena Showdown Invitati..,13,16,9,6,4,10,Publiclir.se,18,21,0.82 
+2014,06,03,19:00,fnatic,TEAMGLOBAL,train,Hitbox Arena Championship,16,5,12,3,4,2,TEAMGLOBAL,7,19,0.38 
+2014,06,03,19:00,TEAMGLOBAL,fnatic,mirage,Hitbox Arena Championship,16,10,10,5,6,5,TEAMGLOBAL,15,17,0.83 
+2014,06,03,19:00,TEAMGLOBAL,fnatic,inferno,Hitbox Arena Championship,5,16,5,10,0,6,TEAMGLOBAL,10,18,0.50 
+2014,05,27,22:00,Titan,TEAMGLOBAL,dust2,FACEIT Spring League 2014,16,7,12,3,4,4,TEAMGLOBAL,11,18,0.68 
+2014,05,27,21:00,Virtus.pro,TEAMGLOBAL,cache,FACEIT Spring League 2014,16,8,9,6,7,2,TEAMGLOBAL,8,21,0.40 
+2014,05,27,19:00,TEAMGLOBAL,Clan-Mystik,mirage,Hitbox Arena Championship,16,2,13,2,3,0,TEAMGLOBAL,13,8,1.15 
+2014,05,27,19:00,Clan-Mystik,TEAMGLOBAL,dust2,Hitbox Arena Championship,10,16,4,11,6,5,TEAMGLOBAL,17,16,1.11 
+2014,05,27,19:00,Clan-Mystik,TEAMGLOBAL,inferno,Hitbox Arena Championship,16,6,10,5,6,1,TEAMGLOBAL,10,17,0.64 
+2014,05,22,20:30,Virtus.pro,LGB,dust2,FACEIT Spring League 2014,6,16,5,10,1,6,LGB,16,12,1.16 
+2014,05,21,22:00,LGB,Titan,mirage,FACEIT Spring League 2014,12,16,10,5,2,11,LGB,10,20,0.55 
+2014,05,20,22:30,TEAMGLOBAL,Team4Balkan,train,Hitbox Arena Championship,16,6,13,2,3,4,TEAMGLOBAL,17,12,1.15 
+2014,05,20,22:30,Team4Balkan,TEAMGLOBAL,nuke,Hitbox Arena Championship,12,16,8,7,4,9,TEAMGLOBAL,21,19,1.10 
+2014,05,20,22:30,Clan-Mystik,TEAMGLOBAL,mirage,Hitbox Arena Championship,16,13,10,5,6,8,TEAMGLOBAL,14,21,0.69 
+2014,05,20,22:30,Clan-Mystik,TEAMGLOBAL,dust2,Hitbox Arena Championship,26,23,7,8,8,7,TEAMGLOBAL,25,34,0.74 
+2014,05,15,20:25,Wizards,LGB,mirage,FACEIT Spring League 2014,11,16,9,6,2,10,LGB,16,16,0.91 
+2014,05,14,22:30,dignitas,LGB,mirage,FACEIT Spring League 2014,8,16,8,7,0,9,LGB,15,10,1.24 
+2014,05,08,21:00,LDLC,LGB,mirage,FACEIT Spring League 2014,16,9,13,2,3,7,LGB,9,16,0.64 
+2014,05,07,21:00,LGB,NiP,cache,FACEIT Spring League 2014,16,13,9,6,7,7,LGB,14,21,0.73 
+2014,04,30,19:00,fnatic,LGB,mirage,FACEIT Spring League 2014,16,7,9,6,7,1,LGB,5,21,0.25 
+2014,04,28,18:00,NiP,LGB,dust2,eSportsventure Cup,16,13,9,6,7,7,LGB,12,23,0.63 
+2014,04,28,18:00,LGB,NiP,train,eSportsventure Cup,13,16,9,6,4,10,LGB,12,25,0.56 
+2014,04,27,22:20,LGB,Virtus.pro,inferno,E-sport-bets.com 3rd Anniversa..,16,11,10,5,6,6,LGB,20,16,1.19 
+2014,04,27,20:25,Reason,LGB,mirage,E-sport-bets.com 3rd Anniversa..,7,16,7,8,0,8,LGB,10,12,0.93 
+2014,04,25,21:10,LGB,mousesports,inferno,E-sport-bets.com 3rd Anniversa..,16,5,12,3,4,2,LGB,21,14,1.30 
+2014,04,25,19:30,Clan-Mystik,LGB,dust2,E-sport-bets.com 3rd Anniversa..,13,16,6,9,7,7,LGB,19,18,1.00 
+2014,04,19,10:00,Virtus.pro,LGB,mirage,Copenhagen Games 2014,16,9,11,4,5,5,LGB,5,19,0.39 
+2014,04,19,10:00,LGB,Virtus.pro,nuke,Copenhagen Games 2014,13,16,8,7,5,9,LGB,16,19,0.86 
+2014,04,18,21:00,LGB,Property,mirage,Copenhagen Games 2014,22,19,5,10,10,5,LGB,25,31,0.83 
+2014,04,18,21:00,LGB,Property,dust2,Copenhagen Games 2014,16,4,11,4,5,0,LGB,12,12,0.97 

@@ -1,0 +1,9 @@
+2015,04,27,20:00,XPC,KnockOutStars,dust2,ESL South East Europe Champion..,16,13,11,4,5,9,KnockOutStars,11,22,0.65 
+2015,04,27,20:00,KnockOutStars,XPC,mirage,ESL South East Europe Champion..,3,16,3,12,0,4,KnockOutStars,14,17,0.82 
+2015,04,21,21:30,KnockOutStars,RB,overpass,ESL South East Europe Champion..,16,13,12,3,4,10,KnockOutStars,14,22,0.64 
+2015,04,21,21:30,KnockOutStars,RB,dust2,ESL South East Europe Champion..,9,16,6,9,3,7,KnockOutStars,13,20,0.67 
+2015,04,21,21:30,KnockOutStars,RB,cache,ESL South East Europe Champion..,16,10,9,6,7,4,KnockOutStars,31,15,1.72 
+2015,04,19,18:00,DIONAPPA,KnockOutStars,cache,ESL South East Europe Champion..,17,21,6,9,9,6,KnockOutStars,30,24,1.13 
+2015,04,19,18:00,KnockOutStars,DIONAPPA,dust2,ESL South East Europe Champion..,16,9,9,6,7,3,KnockOutStars,16,15,1.05 
+2015,04,16,18:15,SpaceSoldiers,KnockOutStars,cache,ESL South East Europe Champion..,16,12,8,7,8,5,KnockOutStars,22,22,1.00 
+2015,04,16,18:15,SpaceSoldiers,KnockOutStars,dust2,ESL South East Europe Champion..,16,10,7,8,9,2,KnockOutStars,16,18,0.88 

@@ -1,0 +1,4 @@
+2016,03,12,14:00,SavageWolves,Mahameru,mirage,DreamHack Masters Malmö 2016 A..,16,11,12,3,4,8,Mahameru,15,21,0.71 
+2015,11,04,17:30,TwistoFate,J2G,cache,MixBOT Pro-League Invite Seaso..,10,16,3,12,7,4,J2G,20,18,0.96 
+2015,10,16,16:00,m0nster,J2G,dust2,MixBOT Pro-League Invite Seaso..,10,16,4,11,6,5,J2G,15,16,0.89 
+2015,10,16,13:55,J2G,TwistoFate,cache,MixBOT Pro-League Invite Seaso..,12,16,8,7,4,9,J2G,14,22,0.70 

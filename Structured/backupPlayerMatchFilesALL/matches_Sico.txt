@@ -1,0 +1,27 @@
+2015,12,10,10:00,VoxEminor,Immunity,mirage,Counter Pit League Season 2,6,16,6,9,0,7,Vox Eminor,14,17,0.77 
+2015,12,10,10:00,Immunity,VoxEminor,inferno,Counter Pit League Season 2,16,4,11,4,5,0,Vox Eminor,7,18,0.40 
+2015,12,09,12:00,Exile5,VoxEminor,mirage,Counter Pit League Season 2,4,16,4,11,0,5,Vox Eminor,26,9,2.06 
+2015,12,09,12:00,Exile5,VoxEminor,dust2,Counter Pit League Season 2,4,16,2,13,2,3,Vox Eminor,18,10,1.45 
+2015,12,08,10:00,Chiefs,VoxEminor,dust2,Counter Pit League Season 2,9,16,3,12,6,4,Vox Eminor,26,9,1.69 
+2015,12,08,10:00,VoxEminor,Chiefs,cache,Counter Pit League Season 2,16,12,8,7,8,5,Vox Eminor,18,20,0.87 
+2015,12,07,12:00,VoxEminor,Legacy,mirage,Counter Pit League Season 2,8,16,7,8,1,8,Vox Eminor,13,19,0.70 
+2015,12,07,12:00,VoxEminor,Legacy,cobblestone,Counter Pit League Season 2,8,16,5,10,3,6,Vox Eminor,22,17,1.27 
+2015,12,02,10:00,VoxEminor,TRIDENT,mirage,Counter Pit League Season 2,16,4,11,4,5,0,Vox Eminor,15,11,1.05 
+2015,12,02,10:00,VoxEminor,TRIDENT,inferno,Counter Pit League Season 2,16,8,7,8,9,0,Vox Eminor,23,15,1.30 
+2015,10,18,12:00,AnimalSquad,fSociety,cache,FACEIT League 2015 Stage 3,21,18,6,9,9,6,fSociety,30,27,1.07 
+2015,10,17,11:00,Immunity,fSociety,cache,FACEIT League 2015 Stage 3,16,9,12,3,4,6,fSociety,21,19,1.08 
+2015,10,16,13:15,Exile5,fSociety,mirage,FACEIT League 2015 Stage 3,10,16,7,8,3,8,fSociety,12,19,0.67 
+2015,10,04,11:00,fSociety,Renegades,dust2,FACEIT League 2015 Stage 3,16,14,8,7,8,7,fSociety,29,15,1.56 
+2015,10,03,12:00,Chiefs,fSociety,mirage,FACEIT League 2015 Stage 3,13,16,6,9,7,7,fSociety,18,20,0.95 
+2015,06,21,13:00,Renegades,DireWolves,inferno,FACEIT League 2015 Stage 2,16,5,11,4,5,1,Dire Wolves,8,18,0.49 
+2015,06,20,12:00,Streamline,DireWolves,inferno,FACEIT League 2015 Stage 2,13,16,8,7,5,9,Dire Wolves,21,20,0.98 
+2015,05,31,14:00,DireWolves,AVANTGARDE,cache,FACEIT League 2015 Stage 2,16,6,12,3,4,3,Dire Wolves,17,12,1.20 
+2015,05,30,23:20,NewZealand,Australia,mirage,World Championships 2015 Ocean..,12,16,11,4,1,12,New Zealand,18,18,0.95 
+2015,05,30,23:20,Australia,NewZealand,dust2,World Championships 2015 Ocean..,16,4,12,3,4,1,New Zealand,14,17,0.79 
+2015,05,30,01:00,NewZealand,Australia,cobblestone,World Championships 2015 Ocean..,11,16,6,9,5,7,New Zealand,19,21,0.94 
+2015,05,30,01:00,Australia,NewZealand,mirage,World Championships 2015 Ocean..,16,7,12,3,4,4,New Zealand,11,21,0.52 
+2015,05,29,12:00,Steelseries,DireWolves,inferno,FACEIT League 2015 Stage 2 Oce..,14,16,8,7,6,9,Dire Wolves,24,20,1.23 
+2015,05,29,12:00,Steelseries,DireWolves,cache,FACEIT League 2015 Stage 2 Oce..,10,16,9,6,1,10,Dire Wolves,34,14,2.05 
+2015,05,27,11:00,DireWolves,Dynasty,mirage,FACEIT League 2015 Stage 2 Oce..,16,11,11,4,5,7,Dire Wolves,18,16,0.91 
+2015,05,27,11:00,Dynasty,DireWolves,dust2,FACEIT League 2015 Stage 2 Oce..,6,16,6,9,0,7,Dire Wolves,26,11,1.82 
+2015,05,27,11:00,Dynasty,DireWolves,cache,FACEIT League 2015 Stage 2 Oce..,16,11,8,7,8,4,Dire Wolves,18,23,0.76 

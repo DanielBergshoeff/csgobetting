@@ -1,0 +1,8 @@
+2015,09,24,21:00,VERYT0X1C,GdanskLions,mirage,ESL Polish Championship Season..,16,10,12,3,4,7,Gdansk Lions,17,20,0.91 
+2015,09,24,21:00,GdanskLions,VERYT0X1C,train,ESL Polish Championship Season..,8,16,4,11,4,5,Gdansk Lions,12,21,0.57 
+2015,09,15,20:00,GdanskLions,CSGL,overpass,ESL Polish Championship Season..,8,16,5,10,3,6,Gdansk Lions,15,19,0.76 
+2015,09,15,20:00,CSGL,GdanskLions,mirage,ESL Polish Championship Season..,16,2,13,2,3,0,Gdansk Lions,4,18,0.22 
+2015,09,14,18:45,GdanskLions,PiTER,mirage,Hitbox Arena Showdown Invitati..,4,16,4,11,0,5,Gdansk Lions,15,19,0.75 
+2015,09,08,20:00,GdanskLions,ESC,overpass,ESL Polish Championship Season..,16,11,10,5,6,6,Gdansk Lions,21,19,1.15 
+2015,09,08,20:00,GdanskLions,ESC,mirage,ESL Polish Championship Season..,9,16,2,13,7,3,Gdansk Lions,19,18,1.07 
+2015,09,08,20:00,GdanskLions,ESC,inferno,ESL Polish Championship Season..,16,13,8,7,8,6,Gdansk Lions,28,22,1.32 

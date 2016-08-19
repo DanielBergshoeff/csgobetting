@@ -1,0 +1,4 @@
+2014,08,26,21:30,UnitedKingdom,Malta,mirage,European Championship 2014 Qua..,16,0,15,0,1,0,Malta,3,16,0.16 
+2014,08,26,21:30,Malta,UnitedKingdom,dust2,European Championship 2014 Qua..,2,16,2,13,0,3,Malta,3,17,0.18 
+2014,08,17,20:00,Armenia,Malta,dust2,European Championship 2014 Qua..,4,16,3,12,1,4,Malta,14,9,1.21 
+2014,08,17,20:00,Armenia,Malta,inferno,European Championship 2014 Qua..,6,16,4,11,2,5,Malta,15,11,1.35 

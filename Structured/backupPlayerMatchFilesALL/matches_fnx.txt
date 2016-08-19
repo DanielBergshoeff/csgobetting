@@ -1,0 +1,220 @@
+2016,07,10,17:00,SK,Liquid,cobblestone,ESL One Cologne 2016,16,6,10,5,6,1,SK,15,15,0.91 
+2016,07,10,17:00,Liquid,SK,train,ESL One Cologne 2016,7,16,7,8,0,8,SK,19,16,1.09 
+2016,07,09,15:00,Virtus.pro,SK,mirage,ESL One Cologne 2016,12,16,9,6,3,10,SK,18,18,0.97 
+2016,07,09,15:00,SK,Virtus.pro,nuke,ESL One Cologne 2016,16,5,12,3,4,2,SK,16,12,1.23 
+2016,07,09,15:00,Virtus.pro,SK,cobblestone,ESL One Cologne 2016,19,17,9,6,6,9,SK,24,26,0.88 
+2016,07,08,13:45,SK,FlipSid3,nuke,ESL One Cologne 2016,19,17,9,6,6,9,SK,27,22,1.07 
+2016,07,08,13:45,FlipSid3,SK,mirage,ESL One Cologne 2016,7,16,3,12,4,4,SK,25,9,1.81 
+2016,07,06,18:55,SK,FaZe,cobblestone,ESL One Cologne 2016,16,6,12,3,4,3,SK,15,9,1.13 
+2016,07,05,18:45,SK,G2,cobblestone,ESL One Cologne 2016,16,11,7,8,9,3,SK,15,16,0.93 
+2016,06,26,21:00,Luminosity,G2,overpass,ECS Season 1 Finals,5,16,4,11,1,5,Luminosity,12,17,0.85 
+2016,06,26,21:00,G2,Luminosity,dust2,ECS Season 1 Finals,16,11,8,7,8,4,Luminosity,16,19,0.84 
+2016,06,26,16:30,Luminosity,TSM,cobblestone,ECS Season 1 Finals,16,14,7,8,9,6,Luminosity,24,19,1.30 
+2016,06,26,16:30,Luminosity,TSM,overpass,ECS Season 1 Finals,16,3,12,3,4,0,Luminosity,20,12,1.52 
+2016,06,24,16:10,Liquid,Luminosity,train,ECS Season 1 Finals,12,16,5,10,7,6,Luminosity,24,21,1.11 
+2016,06,24,13:15,NiP,Luminosity,train,ECS Season 1 Finals,12,16,6,9,6,7,Luminosity,19,16,1.08 
+2016,05,28,04:00,Cloud9,Luminosity,dust2,ELEAGUE Season 1,9,16,1,14,8,2,Luminosity,14,14,0.90 
+2016,05,28,04:00,Luminosity,Cloud9,cobblestone,ELEAGUE Season 1,19,16,7,8,8,7,Luminosity,19,25,0.82 
+2016,05,28,04:00,Cloud9,Luminosity,mirage,ELEAGUE Season 1,16,11,9,6,7,5,Luminosity,20,18,1.00 
+2016,05,26,20:00,Liquid,Luminosity,nuke,ELEAGUE Season 1,12,16,10,5,2,11,Luminosity,31,16,1.77 
+2016,05,26,20:00,Liquid,Luminosity,mirage,ELEAGUE Season 1,6,16,5,10,1,6,Luminosity,25,12,1.72 
+2016,05,25,21:45,Cloud9,Luminosity,train,ELEAGUE Season 1,10,16,5,10,5,6,Luminosity,14,16,0.92 
+2016,05,25,20:40,Luminosity,Cloud9,dust2,ELEAGUE Season 1,16,7,10,5,6,2,Luminosity,24,15,1.43 
+2016,05,25,00:10,Luminosity,Liquid,cobblestone,ELEAGUE Season 1,16,14,3,12,13,2,Luminosity,17,20,0.92 
+2016,05,24,23:15,Liquid,Luminosity,dust2,ELEAGUE Season 1,6,16,4,11,2,5,Luminosity,27,8,1.99 
+2016,05,24,19:50,Luminosity,Renegades,train,ELEAGUE Season 1,16,0,15,0,1,0,Luminosity,14,6,1.60 
+2016,05,24,18:00,Luminosity,Renegades,cobblestone,ELEAGUE Season 1,19,17,9,6,6,9,Luminosity,28,25,1.09 
+2016,05,15,18:00,G2,Luminosity,inferno,ESL Pro League Season 3 Finals,16,19,8,7,7,8,Luminosity,28,21,1.13 
+2016,05,15,18:00,Luminosity,G2,dust2,ESL Pro League Season 3 Finals,16,11,6,9,10,2,Luminosity,20,17,1.11 
+2016,05,15,18:00,G2,Luminosity,cobblestone,ESL Pro League Season 3 Finals,16,10,7,8,9,2,Luminosity,13,21,0.66 
+2016,05,15,18:00,Luminosity,G2,train,ESL Pro League Season 3 Finals,16,13,11,4,5,9,Luminosity,25,19,1.24 
+2016,05,15,18:00,G2,Luminosity,overpass,ESL Pro League Season 3 Finals,16,10,9,6,7,4,Luminosity,11,21,0.58 
+2016,05,14,16:00,NiP,Luminosity,cobblestone,ESL Pro League Season 3 Finals,10,16,5,10,5,6,Luminosity,24,14,1.39 
+2016,05,14,16:00,NiP,Luminosity,dust2,ESL Pro League Season 3 Finals,16,8,10,5,6,3,Luminosity,12,18,0.67 
+2016,05,14,16:00,Luminosity,NiP,overpass,ESL Pro League Season 3 Finals,16,4,13,2,3,2,Luminosity,24,9,1.97 
+2016,05,12,17:35,OpTic,Luminosity,overpass,ESL Pro League Season 3 Finals,13,16,9,6,4,10,Luminosity,21,18,1.09 
+2016,05,12,17:35,Luminosity,OpTic,inferno,ESL Pro League Season 3 Finals,16,12,7,8,9,4,Luminosity,23,16,1.16 
+2016,05,11,21:45,Astralis,Luminosity,train,ESL Pro League Season 3 Finals,13,16,9,6,4,10,Luminosity,21,21,0.97 
+2016,05,11,21:45,Astralis,Luminosity,overpass,ESL Pro League Season 3 Finals,12,16,9,6,3,10,Luminosity,17,19,0.89 
+2016,05,11,21:45,Luminosity,Astralis,dust2,ESL Pro League Season 3 Finals,9,16,8,7,1,9,Luminosity,17,20,0.85 
+2016,05,11,15:30,Luminosity,G2,train,ESL Pro League Season 3 Finals,12,16,11,4,1,12,Luminosity,18,22,0.84 
+2016,05,09,00:30,Luminosity,TempoStorm,cobblestone,DreamHack Austin 2016,16,9,9,6,7,3,Luminosity,18,14,1.03 
+2016,05,09,00:30,TempoStorm,Luminosity,mirage,DreamHack Austin 2016,9,16,6,9,3,7,Luminosity,16,15,0.95 
+2016,05,08,21:55,Luminosity,Liquid,train,DreamHack Austin 2016,16,14,8,7,8,7,Luminosity,22,16,1.13 
+2016,05,08,21:55,Luminosity,Liquid,dust2,DreamHack Austin 2016,16,6,10,5,6,1,Luminosity,20,13,1.25 
+2016,05,07,05:00,Luminosity,Cloud9,mirage,DreamHack Austin 2016,16,3,15,0,1,3,Luminosity,15,11,1.16 
+2016,05,06,22:00,Luminosity,Splyce,train,DreamHack Austin 2016,16,5,14,1,2,4,Luminosity,23,12,1.60 
+2016,05,05,04:15,Luminosity,OpTic,train,ECS Season 1,16,11,6,9,10,2,Luminosity,18,21,0.91 
+2016,05,05,04:15,OpTic,Luminosity,cobblestone,ECS Season 1,4,16,2,13,2,3,Luminosity,11,10,0.90 
+2016,05,05,01:00,Liquid,Luminosity,dust2,ECS Season 1,12,16,5,10,7,6,Luminosity,19,17,1.01 
+2016,05,05,01:00,Luminosity,Liquid,mirage,ECS Season 1,16,1,14,1,2,0,Luminosity,16,11,1.45 
+2016,05,04,04:10,Luminosity,CLG,dust2,ECS Season 1,16,9,6,9,10,0,Luminosity,18,20,0.97 
+2016,05,04,04:10,Luminosity,CLG,overpass,ECS Season 1,16,11,11,4,5,7,Luminosity,21,15,1.14 
+2016,05,02,04:00,compLexity,Luminosity,mirage,ECS Season 1,13,16,4,11,9,5,Luminosity,14,22,0.70 
+2016,05,02,04:00,Luminosity,compLexity,dust2,ECS Season 1,16,6,12,3,4,3,Luminosity,19,11,1.31 
+2016,05,01,22:00,TSM,Luminosity,train,ECS Season 1,12,16,8,7,4,9,Luminosity,19,18,1.02 
+2016,05,01,22:00,TSM,Luminosity,dust2,ECS Season 1,14,16,7,8,7,8,Luminosity,26,19,1.29 
+2016,05,01,22:00,TSM,Luminosity,cobblestone,ECS Season 1,16,13,8,7,8,6,Luminosity,25,19,1.18 
+2016,04,30,04:30,Cloud9,Luminosity,mirage,ECS Season 1,14,16,9,6,5,10,Luminosity,24,18,1.15 
+2016,04,30,04:30,Cloud9,Luminosity,dust2,ECS Season 1,7,16,5,10,2,6,Luminosity,25,10,1.70 
+2016,04,29,01:00,EchoFox,Luminosity,train,ECS Season 1,14,16,3,12,11,4,Luminosity,24,23,0.99 
+2016,04,29,01:00,Luminosity,EchoFox,dust2,ECS Season 1,16,12,9,6,7,6,Luminosity,24,20,1.22 
+2016,04,28,01:00,Luminosity,WithoutaRoof,dust2,ECS Season 1,16,6,9,6,7,0,Luminosity,16,13,1.10 
+2016,04,28,01:00,Luminosity,WithoutaRoof,mirage,ECS Season 1,16,5,11,4,5,1,Luminosity,18,13,1.44 
+2016,04,27,03:15,Selfless,Luminosity,overpass,ESL Pro League Season 3,6,16,5,10,1,6,Luminosity,15,14,1.00 
+2016,04,27,02:00,Selfless,Luminosity,inferno,ESL Pro League Season 3,14,16,11,4,3,12,Luminosity,17,20,0.86 
+2016,04,24,03:00,Luminosity,Renegades,inferno,ESL Pro League Season 3,16,13,7,8,9,5,Luminosity,23,15,1.26 
+2016,04,24,02:00,Luminosity,Renegades,train,ESL Pro League Season 3,16,3,12,3,4,0,Luminosity,15,8,1.32 
+2016,04,20,23:00,Luminosity,NRG,train,ECS Season 1,19,16,9,6,6,9,Luminosity,27,22,1.13 
+2016,04,20,23:00,NRG,Luminosity,overpass,ECS Season 1,11,16,9,6,2,10,Luminosity,29,15,1.56 
+2016,04,14,11:00,Luminosity,TyLoo,inferno,DreamHack Masters Malmö 2016,12,16,6,9,6,7,Luminosity,23,22,0.96 
+2016,04,14,11:00,TyLoo,Luminosity,overpass,DreamHack Masters Malmö 2016,7,16,4,11,3,5,Luminosity,19,14,1.16 
+2016,04,14,11:00,TyLoo,Luminosity,cache,DreamHack Masters Malmö 2016,16,14,6,9,10,5,Luminosity,26,21,1.18 
+2016,04,13,17:00,mousesports,Luminosity,cache,DreamHack Masters Malmö 2016,16,7,11,4,5,3,Luminosity,10,17,0.65 
+2016,04,12,11:00,TyLoo,Luminosity,mirage,DreamHack Masters Malmö 2016,7,16,3,12,4,4,Luminosity,14,14,0.85 
+2016,04,03,19:45,Luminosity,NatusVincere,overpass,MLG Columbus 2016,16,2,13,2,3,0,Luminosity,14,10,1.11 
+2016,04,03,19:45,NatusVincere,Luminosity,mirage,MLG Columbus 2016,17,19,11,4,4,11,Luminosity,25,27,0.91 
+2016,04,02,23:45,Liquid,Luminosity,cache,MLG Columbus 2016,16,19,9,6,6,9,Luminosity,17,25,0.67 
+2016,04,02,23:45,Liquid,Luminosity,mirage,MLG Columbus 2016,15,19,7,8,8,7,Luminosity,23,19,1.10 
+2016,04,02,16:00,Virtus.pro,Luminosity,overpass,MLG Columbus 2016,11,16,3,12,8,4,Luminosity,21,15,1.10 
+2016,04,02,16:00,Luminosity,Virtus.pro,cobblestone,MLG Columbus 2016,16,10,11,4,5,6,Luminosity,24,12,1.39 
+2016,04,02,16:00,Luminosity,Virtus.pro,cache,MLG Columbus 2016,17,19,5,10,10,5,Luminosity,22,26,0.83 
+2016,03,30,22:30,Luminosity,NiP,mirage,MLG Columbus 2016,16,5,10,5,6,0,Luminosity,29,9,2.20 
+2016,03,29,18:00,Luminosity,mousesports,mirage,MLG Columbus 2016,16,13,10,5,6,8,Luminosity,22,18,1.12 
+2016,03,24,03:30,Luminosity,KKona,mirage,ESL Pro League Season 3,16,5,12,3,4,2,Luminosity,17,14,1.03 
+2016,03,24,02:00,Luminosity,KKona,overpass,ESL Pro League Season 3,16,13,11,4,5,9,Luminosity,17,19,0.81 
+2016,03,22,01:00,Luminosity,TSM,cache,CEVO Gfinity Professional Seas..,16,2,13,2,3,0,Luminosity,21,8,1.81 
+2016,03,22,01:00,Luminosity,TSM,cobblestone,CEVO Gfinity Professional Seas..,16,6,10,5,6,1,Luminosity,16,13,1.07 
+2016,03,22,01:00,TSM,Luminosity,mirage,CEVO Gfinity Professional Seas..,16,11,5,10,11,1,Luminosity,19,19,1.00 
+2016,03,21,05:30,Splyce,Luminosity,inferno,ESL Pro League Season 3,8,16,6,9,2,7,Luminosity,13,17,0.79 
+2016,03,21,04:45,Splyce,Luminosity,train,ESL Pro League Season 3,11,16,8,7,3,9,Luminosity,15,17,0.85 
+2016,03,20,03:00,Luminosity,CLG,overpass,ESL Pro League Season 3,16,12,12,3,4,9,Luminosity,22,18,1.16 
+2016,03,20,02:00,CLG,Luminosity,cobblestone,ESL Pro League Season 3,9,16,6,9,3,7,Luminosity,22,16,1.28 
+2016,03,19,21:50,Luminosity,Selfless,overpass,iBUYPOWER Invitational Spring ..,14,16,10,5,4,11,Luminosity,20,20,0.93 
+2016,03,19,21:50,Luminosity,Selfless,cache,iBUYPOWER Invitational Spring ..,13,16,11,4,2,12,Luminosity,27,21,1.18 
+2016,03,19,21:50,Selfless,Luminosity,mirage,iBUYPOWER Invitational Spring ..,12,16,8,7,4,9,Luminosity,27,19,1.28 
+2016,03,18,05:30,Luminosity,Cloud9,cobblestone,ESL Pro League Season 3,16,7,10,5,6,2,Luminosity,21,16,1.29 
+2016,03,18,04:30,Luminosity,Cloud9,overpass,ESL Pro League Season 3,13,16,11,4,2,12,Luminosity,23,24,0.92 
+2016,03,17,04:00,ACE,Luminosity,inferno,CEVO Gfinity Professional Seas..,9,16,6,9,3,7,Luminosity,20,13,1.25 
+2016,03,17,04:00,Luminosity,ACE,cache,CEVO Gfinity Professional Seas..,16,3,12,3,4,0,Luminosity,12,7,1.13 
+2016,03,11,04:00,NRG,Luminosity,mirage,ESL Pro League Season 3,9,16,9,6,0,10,Luminosity,15,11,1.03 
+2016,03,11,03:00,Luminosity,NRG,inferno,ESL Pro League Season 3,16,3,12,3,4,0,Luminosity,19,8,1.64 
+2016,03,10,06:15,Luminosity,Winterfox,train,ESL Pro League Season 3,3,16,3,12,0,4,Luminosity,13,18,0.77 
+2016,03,10,05:15,Winterfox,Luminosity,overpass,ESL Pro League Season 3,11,16,6,9,5,7,Luminosity,23,19,1.19 
+2016,03,05,19:00,Luminosity,fnatic,inferno,IEM Katowice 2016,15,19,12,3,3,12,Luminosity,22,21,1.02 
+2016,03,05,19:00,Luminosity,fnatic,cache,IEM Katowice 2016,3,16,3,12,0,4,Luminosity,6,16,0.42 
+2016,03,05,19:00,Luminosity,fnatic,overpass,IEM Katowice 2016,17,19,12,3,3,12,Luminosity,30,26,1.25 
+2016,03,04,21:30,NatusVincere,Luminosity,inferno,IEM Katowice 2016,12,16,6,9,6,7,Luminosity,21,20,1.09 
+2016,03,04,21:30,Luminosity,NatusVincere,overpass,IEM Katowice 2016,22,19,7,8,8,7,Luminosity,25,34,0.79 
+2016,03,02,21:20,Luminosity,NiP,mirage,IEM Katowice 2016,13,16,12,3,1,13,Luminosity,16,21,0.71 
+2016,03,02,20:00,mousesports,Luminosity,cobblestone,IEM Katowice 2016,14,16,7,8,7,8,Luminosity,11,20,0.58 
+2016,03,02,18:40,Luminosity,TheMongolz,inferno,IEM Katowice 2016,16,6,12,3,4,3,Luminosity,16,12,1.08 
+2016,03,02,16:00,Luminosity,fnatic,inferno,IEM Katowice 2016,16,12,9,6,7,6,Luminosity,12,19,0.66 
+2016,03,02,14:40,Luminosity,NatusVincere,mirage,IEM Katowice 2016,16,11,9,6,7,5,Luminosity,18,18,0.98 
+2016,02,17,03:00,compLexity,Luminosity,train,ESL Pro League Season 3,9,16,5,10,4,6,Luminosity,15,16,0.96 
+2016,02,17,02:00,Luminosity,compLexity,inferno,ESL Pro League Season 3,16,2,14,1,2,1,Luminosity,19,10,1.44 
+2016,02,12,05:30,Luminosity,Liquid,cobblestone,ESL Pro League Season 3,16,11,10,5,6,6,Luminosity,25,17,1.59 
+2016,02,12,04:00,Liquid,Luminosity,overpass,ESL Pro League Season 3,13,16,7,8,6,8,Luminosity,16,21,0.73 
+2016,01,24,13:30,NatusVincere,Luminosity,cobblestone,DreamHack ZOWIE Open Leipzig 2..,19,16,5,10,10,5,Luminosity,22,22,0.93 
+2016,01,24,13:30,Luminosity,NatusVincere,train,DreamHack ZOWIE Open Leipzig 2..,16,19,9,6,6,9,Luminosity,22,26,0.87 
+2016,01,23,17:45,Astralis,Luminosity,overpass,DreamHack ZOWIE Open Leipzig 2..,12,16,6,9,6,7,Luminosity,25,18,1.31 
+2016,01,23,17:45,Astralis,Luminosity,train,DreamHack ZOWIE Open Leipzig 2..,8,16,7,8,1,8,Luminosity,16,16,0.95 
+2016,01,23,12:00,FaZe,Luminosity,cache,DreamHack ZOWIE Open Leipzig 2..,5,16,2,13,3,3,Luminosity,15,14,1.03 
+2016,01,23,12:00,FaZe,Luminosity,train,DreamHack ZOWIE Open Leipzig 2..,7,16,5,10,2,6,Luminosity,22,15,1.26 
+2016,01,22,18:40,SK,Luminosity,train,DreamHack ZOWIE Open Leipzig 2..,10,16,8,7,2,9,Luminosity,24,14,1.53 
+2016,01,22,18:40,Luminosity,SK,mirage,DreamHack ZOWIE Open Leipzig 2..,10,16,9,6,1,10,Luminosity,16,20,0.93 
+2016,01,22,18:40,SK,Luminosity,overpass,DreamHack ZOWIE Open Leipzig 2..,7,16,6,9,1,7,Luminosity,18,16,1.41 
+2016,01,22,12:00,Luminosity,FaZe,inferno,DreamHack ZOWIE Open Leipzig 2..,9,16,4,11,5,5,Luminosity,15,23,0.66 
+2016,01,16,12:00,Luminosity,fnatic,inferno,SL i-League StarSeries XIV Fin..,14,16,9,6,5,10,Luminosity,20,25,0.83 
+2016,01,16,12:00,fnatic,Luminosity,cache,SL i-League StarSeries XIV Fin..,16,7,10,5,6,2,Luminosity,7,17,0.62 
+2016,01,16,12:00,fnatic,Luminosity,mirage,SL i-League StarSeries XIV Fin..,6,16,4,11,2,5,Luminosity,17,13,1.11 
+2016,01,13,18:00,NatusVincere,Luminosity,mirage,SL i-League StarSeries XIV Fin..,9,16,8,7,1,9,Luminosity,21,16,1.20 
+2016,01,13,18:00,Luminosity,NatusVincere,train,SL i-League StarSeries XIV Fin..,16,14,8,7,8,7,Luminosity,22,21,0.95 
+2016,01,13,15:45,G2,Luminosity,inferno,SL i-League StarSeries XIV Fin..,7,16,5,10,2,6,Luminosity,25,16,1.43 
+2016,01,13,15:45,Luminosity,G2,train,SL i-League StarSeries XIV Fin..,16,9,8,7,8,2,Luminosity,21,12,1.36 
+2016,01,10,20:00,Luminosity,KeydStars,cobblestone,MAX5 Invitational,16,11,14,1,2,10,Luminosity,29,18,1.53 
+2016,01,10,20:00,KeydStars,Luminosity,mirage,MAX5 Invitational,2,16,2,13,0,3,Luminosity,10,10,0.92 
+2016,01,10,20:00,Luminosity,KeydStars,cache,MAX5 Invitational,16,4,12,3,4,1,Luminosity,17,11,1.25 
+2016,01,09,19:30,AlienTech,Luminosity,train,MAX5 Invitational,8,16,7,8,1,8,Luminosity,19,12,1.19 
+2016,01,09,19:30,Luminosity,AlienTech,mirage,MAX5 Invitational,16,1,14,1,2,0,Luminosity,14,7,1.27 
+2016,01,08,23:15,Santos.DeX,Luminosity,cobblestone,MAX5 Invitational,5,16,5,10,0,6,Luminosity,13,14,0.90 
+2016,01,08,16:30,CNB,Luminosity,mirage,MAX5 Invitational,2,16,2,13,0,3,Luminosity,13,7,1.26 
+2016,01,07,21:45,Luminosity,INTZ,cobblestone,MAX5 Invitational,16,8,13,2,3,6,Luminosity,27,12,1.76 
+2016,01,06,22:45,Luminosity,g3x,cobblestone,MAX5 Invitational,16,2,13,2,3,0,Luminosity,20,7,1.81 
+2015,12,12,22:00,NatusVincere,Luminosity,mirage,ESL ESEA Pro League Season 2 F..,16,6,10,5,6,1,Luminosity,12,18,0.71 
+2015,12,12,21:58,Luminosity,NatusVincere,train,ESL ESEA Pro League Season 2 F..,16,12,5,10,11,2,Luminosity,11,20,0.60 
+2015,12,12,21:58,Luminosity,NatusVincere,cobblestone,ESL ESEA Pro League Season 2 F..,11,16,8,7,3,9,Luminosity,14,21,0.66 
+2015,12,12,04:00,Luminosity,CLG,overpass,ESL ESEA Pro League Season 2 F..,16,12,8,7,8,5,Luminosity,16,22,0.78 
+2015,12,12,03:58,CLG,Luminosity,mirage,ESL ESEA Pro League Season 2 F..,8,16,7,8,1,8,Luminosity,26,14,1.58 
+2015,12,11,02:30,Luminosity,NatusVincere,inferno,ESL ESEA Pro League Season 2 F..,15,19,8,7,7,8,Luminosity,29,23,1.22 
+2015,12,11,02:30,NatusVincere,Luminosity,dust2,ESL ESEA Pro League Season 2 F..,16,5,10,5,6,0,Luminosity,13,17,0.78 
+2015,11,28,21:35,Luminosity,fnatic,inferno,FACEIT League 2015 Stage 3 Fin..,7,16,6,9,1,7,Luminosity,17,18,0.92 
+2015,11,28,21:35,Luminosity,fnatic,cobblestone,FACEIT League 2015 Stage 3 Fin..,11,16,6,9,5,7,Luminosity,16,18,0.85 
+2015,11,28,21:35,fnatic,Luminosity,train,FACEIT League 2015 Stage 3 Fin..,9,16,7,8,2,8,Luminosity,14,19,0.71 
+2015,11,28,17:40,TSM,Luminosity,inferno,FACEIT League 2015 Stage 3 Fin..,17,21,6,9,9,6,Luminosity,34,22,1.34 
+2015,11,28,17:32,TSM,Luminosity,overpass,FACEIT League 2015 Stage 3 Fin..,6,16,6,9,0,7,Luminosity,20,12,1.37 
+2015,11,28,17:32,TSM,Luminosity,mirage,FACEIT League 2015 Stage 3 Fin..,16,5,14,1,2,4,Luminosity,20,17,1.25 
+2015,11,27,21:00,NiP,Luminosity,cobblestone,FACEIT League 2015 Stage 3 Fin..,6,16,6,9,0,7,Luminosity,18,15,1.13 
+2015,11,27,21:00,NiP,Luminosity,cache,FACEIT League 2015 Stage 3 Fin..,21,19,6,9,9,6,Luminosity,31,28,1.10 
+2015,11,27,21:00,Luminosity,NiP,mirage,FACEIT League 2015 Stage 3 Fin..,16,10,12,3,4,7,Luminosity,18,17,0.95 
+2015,11,27,15:00,EnVyUs,Luminosity,inferno,FACEIT League 2015 Stage 3 Fin..,11,16,7,8,4,8,Luminosity,23,16,1.32 
+2015,11,27,15:00,EnVyUs,Luminosity,cobblestone,FACEIT League 2015 Stage 3 Fin..,16,8,8,7,8,1,Luminosity,16,19,0.82 
+2015,11,27,15:00,Luminosity,EnVyUs,mirage,FACEIT League 2015 Stage 3 Fin..,16,6,10,5,6,1,Luminosity,12,15,0.79 
+2015,11,26,19:00,fnatic,Luminosity,dust2,FACEIT League 2015 Stage 3 Fin..,16,0,15,0,1,0,Luminosity,6,16,0.35 
+2015,11,19,04:00,GamesAcademy,Luminosity,cache,RGN Pro Series Championship,13,16,3,12,10,4,Games Academy,19,19,0.93 
+2015,11,19,04:00,GamesAcademy,Luminosity,train,RGN Pro Series Championship,7,16,5,10,2,6,Games Academy,11,18,0.70 
+2015,11,19,04:00,Luminosity,GamesAcademy,dust2,RGN Pro Series Championship,13,16,5,10,8,6,Games Academy,20,22,0.89 
+2015,11,18,19:20,GamesAcademy,Winterfox,cobblestone,RGN Pro Series Championship,16,4,11,4,5,0,Games Academy,19,12,1.58 
+2015,11,18,19:20,GamesAcademy,Winterfox,mirage,RGN Pro Series Championship,16,5,13,2,3,3,Games Academy,23,8,1.81 
+2015,11,18,03:45,Cloud9,GamesAcademy,cache,RGN Pro Series Championship,16,14,12,3,4,11,Games Academy,25,20,1.22 
+2015,11,18,03:45,GamesAcademy,Cloud9,cobblestone,RGN Pro Series Championship,15,19,8,7,7,8,Games Academy,25,21,1.01 
+2015,11,18,03:45,GamesAcademy,Cloud9,dust2,RGN Pro Series Championship,16,14,9,6,7,8,Games Academy,22,22,1.02 
+2015,11,18,00:15,GamesAcademy,Liquid,cache,RGN Pro Series Championship,5,16,2,13,3,3,Games Academy,14,18,0.70 
+2015,11,17,23:00,GamesAcademy,CSGL,cobblestone,RGN Pro Series Championship,16,10,7,8,9,2,Games Academy,24,17,1.37 
+2015,11,17,19:00,GamesAcademy,SKDC,dust2,RGN Pro Series Championship,16,5,11,4,5,1,Games Academy,19,10,1.54 
+2015,11,13,05:15,GamesAcademy,CLG,cache,RGN Freedom Cup,12,16,6,9,6,7,Games Academy,13,20,0.72 
+2015,11,13,05:15,CLG,GamesAcademy,mirage,RGN Freedom Cup,16,14,5,10,11,4,Games Academy,23,21,1.14 
+2015,11,13,05:15,GamesAcademy,CLG,cobblestone,RGN Freedom Cup,19,17,5,10,10,5,Games Academy,36,21,1.45 
+2015,11,06,04:00,GamesAcademy,Denial,inferno,SL i-League StarSeries XIV,19,17,6,9,9,6,Games Academy,26,24,1.04 
+2015,11,06,04:00,GamesAcademy,Denial,dust2,SL i-League StarSeries XIV,16,7,11,4,5,3,Games Academy,22,13,1.53 
+2015,11,06,04:00,Denial,GamesAcademy,cache,SL i-League StarSeries XIV,16,11,12,3,4,8,Games Academy,14,20,0.69 
+2015,11,03,04:00,Enemy,GamesAcademy,cache,SL i-League StarSeries XIV,12,16,5,10,7,6,Games Academy,26,19,1.43 
+2015,11,03,04:00,Enemy,GamesAcademy,inferno,SL i-League StarSeries XIV,9,16,4,11,5,5,Games Academy,19,14,1.20 
+2015,10,10,02:00,Luminosity,GamesAcademy,cache,RGN Freedom Cup,16,14,7,8,9,6,Games Academy,21,23,0.91 
+2015,10,10,02:00,Luminosity,GamesAcademy,cobblestone,RGN Freedom Cup,16,5,12,3,4,2,Games Academy,19,19,1.05 
+2015,10,06,03:00,GamesAcademy,ex-eLevate,cobblestone,RGN Freedom Cup,16,14,8,7,8,7,Games Academy,28,17,1.52 
+2015,10,06,03:00,ex-eLevate,GamesAcademy,cache,RGN Freedom Cup,1,16,1,14,0,2,Games Academy,23,9,1.92 
+2015,09,29,03:00,Splyce,GamesAcademy,mirage,RGN Freedom Cup,11,16,7,8,4,8,Games Academy,23,19,1.15 
+2015,09,28,04:00,GamesAcademy,Method,cache,RGN Freedom Cup,16,13,8,7,8,6,Games Academy,30,18,1.41 
+2015,09,24,03:00,GamesAcademy,Splyce,mirage,RGN Freedom Cup,15,19,4,11,11,4,Games Academy,31,23,1.25 
+2015,09,23,05:00,vVv,GamesAcademy,mirage,RGN Freedom Cup,11,16,4,11,7,5,Games Academy,34,14,1.98 
+2015,09,18,01:00,GamesAcademy,Luminosity,mirage,FACEIT League 2015 Stage 3 NA ..,11,16,8,7,3,9,Games Academy,16,23,0.69 
+2015,09,18,01:00,GamesAcademy,Luminosity,cache,FACEIT League 2015 Stage 3 NA ..,19,21,10,5,5,10,Games Academy,34,26,1.31 
+2015,09,18,01:00,Luminosity,GamesAcademy,train,FACEIT League 2015 Stage 3 NA ..,13,16,4,11,9,5,Games Academy,19,18,1.04 
+2015,09,12,18:00,Mythic,GamesAcademy,mirage,iBUYPOWER Invitational Fall 20..,16,5,12,3,4,2,Games Academy,17,16,1.04 
+2015,09,12,18:00,GamesAcademy,Mythic,dust2,iBUYPOWER Invitational Fall 20..,8,16,4,11,4,5,Games Academy,14,16,0.83 
+2015,09,12,02:00,Conquest,GamesAcademy,inferno,DreamHack Open Cluj-Napoca 201..,16,14,12,3,4,11,Games Academy,20,18,1.00 
+2015,09,12,02:00,GamesAcademy,Conquest,cobblestone,DreamHack Open Cluj-Napoca 201..,1,16,1,14,0,2,Games Academy,9,13,0.67 
+2015,09,07,00:10,GamesAcademy,3sUP,dust2,WinOut $20,000 CS:GO Champions..,3,16,2,13,1,3,Games Academy,13,16,0.98 
+2015,09,07,00:10,GamesAcademy,3sUP,train,WinOut $20,000 CS:GO Champions..,5,16,5,10,0,6,Games Academy,14,17,0.80 
+2015,09,07,00:10,3sUP,GamesAcademy,inferno,WinOut $20,000 CS:GO Champions..,14,16,8,7,6,9,Games Academy,17,23,0.76 
+2015,09,06,20:50,ACE,GamesAcademy,dust2,WinOut $20,000 CS:GO Champions..,10,16,3,12,7,4,Games Academy,20,17,1.01 
+2015,09,06,20:50,ACE,GamesAcademy,cache,WinOut $20,000 CS:GO Champions..,13,16,7,8,6,8,Games Academy,26,19,1.21 
+2015,09,06,20:50,GamesAcademy,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,Games Academy,22,19,1.22 
+2015,09,06,04:30,GamesAcademy,CLG,train,WinOut $20,000 CS:GO Champions..,8,16,4,11,4,5,Games Academy,12,21,0.54 
+2015,09,06,04:30,CLG,GamesAcademy,dust2,WinOut $20,000 CS:GO Champions..,16,6,12,3,4,3,Games Academy,12,17,0.72 
+2015,09,05,23:50,Method,GamesAcademy,mirage,WinOut $20,000 CS:GO Champions..,3,16,3,12,0,4,Games Academy,19,9,1.54 
+2015,09,05,23:50,GamesAcademy,Method,cache,WinOut $20,000 CS:GO Champions..,16,7,12,3,4,4,Games Academy,25,12,1.55 
+2015,09,05,22:15,GamesAcademy,Levitate,dust2,WinOut $20,000 CS:GO Champions..,16,4,11,4,5,0,Games Academy,14,9,1.18 
+2015,09,05,21:00,GamesAcademy,Luminosity,mirage,WinOut $20,000 CS:GO Champions..,10,16,9,6,1,10,Games Academy,14,22,0.69 
+2015,09,05,19:30,Levitate,GamesAcademy,cobblestone,WinOut $20,000 CS:GO Champions..,4,16,3,12,1,4,Games Academy,16,9,1.32 
+2015,06,17,23:15,Colombia,Brazil,cache,World Championships 2015 South..,9,16,8,7,1,9,Brazil,18,13,1.11 
+2015,06,17,23:15,Colombia,Brazil,dust2,World Championships 2015 South..,12,16,3,12,9,4,Brazil,22,17,1.12 
+2014,10,31,16:30,HellRaisers,KaBuM.TD,mirage,ESWC 2014,16,5,13,2,3,3,KaBuM.TD,11,19,0.60 
+2014,10,31,14:30,KaBuM.TD,Platinium,dust2,ESWC 2014,16,12,10,5,6,7,KaBuM.TD,10,20,0.55 
+2014,10,31,13:00,CPHWolves,KaBuM.TD,inferno,ESWC 2014,16,9,12,3,4,6,KaBuM.TD,16,21,0.90 
+2014,10,31,11:50,KaBuM.TD,NiP,cache,ESWC 2014,7,16,5,10,2,6,KaBuM.TD,13,19,0.66 
+2014,10,31,10:40,Titan,KaBuM.TD,dust2,ESWC 2014,16,9,9,6,7,3,KaBuM.TD,9,17,0.61 
+2014,10,19,21:00,ProGaming.TD,KaBuM.TD,inferno,BenQ All-Star Showmatch #1,12,16,8,7,4,9,KaBuM.TD,15,19,0.77 
+2014,10,19,21:00,KaBuM.TD,ProGaming.TD,mirage,BenQ All-Star Showmatch #1,16,10,9,6,7,4,KaBuM.TD,16,17,0.91 
+2014,10,19,21:00,KaBuM.TD,ProGaming.TD,dust2,BenQ All-Star Showmatch #1,14,16,6,9,8,7,KaBuM.TD,22,20,1.04 

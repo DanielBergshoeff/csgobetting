@@ -1,0 +1,15 @@
+2016,08,12,03:15,ForceofNature,TeamOne,cache,ESEA Open Season 22 Brazil,13,16,5,10,8,6,TeamOne,17,17,0.95 
+2016,08,12,03:15,ForceofNature,TeamOne,train,ESEA Open Season 22 Brazil,10,16,6,9,4,7,TeamOne,26,14,1.66 
+2016,08,10,04:10,Innova,TeamOne,train,Liga PRO GamersClub - JUL/16,16,11,13,2,3,9,TeamOne,14,19,0.76 
+2016,08,10,04:10,Innova,TeamOne,nuke,Liga PRO GamersClub - JUL/16,7,16,7,8,0,8,TeamOne,11,14,0.77 
+2016,08,10,04:10,Innova,TeamOne,dust2,Liga PRO GamersClub - JUL/16,16,14,7,8,9,6,TeamOne,26,19,1.24 
+2016,07,14,04:15,BlackDragons,TeamOne,overpass,Liga PRO GamersClub - JUN/16,16,12,6,9,10,3,TeamOne,14,17,0.80 
+2016,07,14,04:15,TeamOne,BlackDragons,train,Liga PRO GamersClub - JUN/16,16,14,10,5,6,9,TeamOne,18,19,0.94 
+2016,07,14,04:15,TeamOne,BlackDragons,cache,Liga PRO GamersClub - JUN/16,11,16,6,9,5,7,TeamOne,15,18,0.87 
+2016,07,13,04:10,2Kill,TeamOne,train,Liga PRO GamersClub - JUN/16,11,16,8,7,3,9,TeamOne,16,18,0.90 
+2016,07,13,04:10,TeamOne,2Kill,cobblestone,Liga PRO GamersClub - JUN/16,16,12,10,5,6,7,TeamOne,20,20,1.00 
+2016,06,05,21:15,Innova,TeamOne,dust2,Liga PRO GamersClub - MAY/16,16,10,10,5,6,5,TeamOne,11,20,0.59 
+2016,06,05,21:15,Innova,TeamOne,train,Liga PRO GamersClub - MAY/16,14,16,10,5,4,11,TeamOne,14,19,0.79 
+2016,06,05,21:15,Innova,TeamOne,overpass,Liga PRO GamersClub - MAY/16,16,11,11,4,5,7,TeamOne,16,20,0.84 
+2016,06,05,02:45,NeedJobs,TeamOne,dust2,Liga PRO GamersClub - MAY/16,14,16,9,6,5,10,TeamOne,18,16,1.09 
+2016,06,05,02:45,TeamOne,NeedJobs,cache,Liga PRO GamersClub - MAY/16,16,9,9,6,7,3,TeamOne,17,17,0.88 

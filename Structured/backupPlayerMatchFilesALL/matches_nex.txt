@@ -1,0 +1,474 @@
+2016,07,30,04:00,Virtus.pro,mousesports,cache,ELEAGUE Season 1,16,10,6,9,10,1,mousesports,16,19,0.87 
+2016,07,30,04:00,mousesports,Virtus.pro,train,ELEAGUE Season 1,7,16,6,9,1,7,mousesports,11,20,0.63 
+2016,07,22,23:00,mousesports,Astralis,dust2,ELEAGUE Season 1,16,12,7,8,9,4,mousesports,19,20,0.84 
+2016,07,22,23:00,Astralis,mousesports,mirage,ELEAGUE Season 1,2,16,2,13,0,3,mousesports,13,7,1.39 
+2016,07,16,04:00,mousesports,FaZe,cache,ELEAGUE Season 1,19,17,6,9,9,6,mousesports,30,26,1.20 
+2016,07,16,04:00,FaZe,mousesports,dust2,ELEAGUE Season 1,3,16,2,13,1,3,mousesports,12,8,1.09 
+2016,07,16,04:00,FaZe,mousesports,train,ELEAGUE Season 1,16,9,9,6,7,3,mousesports,20,20,0.97 
+2016,07,14,20:00,mousesports,G2,overpass,ELEAGUE Season 1,19,17,10,5,5,10,mousesports,29,24,1.12 
+2016,07,14,20:00,G2,mousesports,cache,ELEAGUE Season 1,25,22,4,11,11,4,mousesports,29,33,0.84 
+2016,07,14,20:00,mousesports,G2,dust2,ELEAGUE Season 1,16,9,11,4,5,5,mousesports,23,14,1.36 
+2016,07,07,19:00,Liquid,mousesports,mirage,ESL One Cologne 2016,16,6,11,4,5,2,mousesports,10,17,0.67 
+2016,07,07,19:00,Liquid,mousesports,cobblestone,ESL One Cologne 2016,16,11,9,6,7,5,mousesports,19,20,0.99 
+2016,07,06,17:25,mousesports,EnVyUs,train,ESL One Cologne 2016,16,12,8,7,8,5,mousesports,16,17,0.88 
+2016,07,05,17:15,Virtus.pro,mousesports,train,ESL One Cologne 2016,16,10,7,8,9,2,mousesports,13,18,0.74 
+2016,06,23,22:30,mousesports,FlipSid3,cache,ELEAGUE Season 1,9,16,4,11,5,5,mousesports,11,21,0.66 
+2016,06,23,22:30,FlipSid3,mousesports,overpass,ELEAGUE Season 1,16,9,13,2,3,7,mousesports,13,17,0.86 
+2016,06,22,19:20,EchoFox,mousesports,train,ELEAGUE Season 1,13,16,11,4,2,12,mousesports,20,22,0.91 
+2016,06,22,18:00,mousesports,EchoFox,cobblestone,ELEAGUE Season 1,16,12,11,4,5,8,mousesports,14,17,0.86 
+2016,06,22,00:00,mousesports,NatusVincere,cobblestone,ELEAGUE Season 1,6,16,3,12,3,4,mousesports,11,17,0.66 
+2016,06,21,23:05,NatusVincere,mousesports,mirage,ELEAGUE Season 1,6,16,5,10,1,6,mousesports,18,11,1.28 
+2016,06,21,21:55,FlipSid3,mousesports,cobblestone,ELEAGUE Season 1,16,6,10,5,6,1,mousesports,8,20,0.48 
+2016,06,21,20:20,mousesports,FlipSid3,train,ELEAGUE Season 1,19,16,6,9,9,6,mousesports,26,21,1.06 
+2016,06,11,20:15,mousesports,G2,dust2,ESL One Cologne 2016 Main Qual..,16,1,14,1,2,0,mousesports,10,4,1.18 
+2016,06,10,20:15,mousesports,Cloud9,mirage,ESL One Cologne 2016 Main Qual..,16,12,11,4,5,8,mousesports,23,14,1.32 
+2016,06,09,16:55,FluffyGangsters,mousesports,dust2,ESL One Cologne 2016 Main Qual..,16,19,8,7,7,8,mousesports,36,23,1.44 
+2016,05,27,18:00,mousesports,NiP,dust2,ECS Season 1,9,16,5,10,4,6,mousesports,12,17,0.71 
+2016,05,27,18:00,mousesports,NiP,cobblestone,ECS Season 1,8,16,6,9,2,7,mousesports,17,20,0.95 
+2016,05,26,15:15,mousesports,fnatic,dust2,ECS Season 1,17,19,6,9,9,6,mousesports,27,20,1.13 
+2016,05,26,15:15,mousesports,fnatic,cobblestone,ECS Season 1,17,19,5,10,10,5,mousesports,20,25,0.79 
+2016,05,25,14:10,FaZe,mousesports,train,ECS Season 1,10,16,4,11,6,5,mousesports,21,16,1.28 
+2016,05,25,14:10,FaZe,mousesports,dust2,ECS Season 1,16,11,14,1,2,10,mousesports,24,21,1.18 
+2016,05,25,14:10,FaZe,mousesports,mirage,ECS Season 1,13,16,10,5,3,11,mousesports,24,18,1.24 
+2016,05,23,18:00,mousesports,NiP,dust2,ECS Season 1,10,16,4,11,6,5,mousesports,20,19,1.04 
+2016,05,23,18:00,mousesports,NiP,cobblestone,ECS Season 1,8,16,4,11,4,5,mousesports,27,19,1.59 
+2016,05,22,19:30,dignitas,mousesports,train,ECS Season 1,8,16,6,9,2,7,mousesports,12,13,0.82 
+2016,05,22,19:30,mousesports,dignitas,mirage,ECS Season 1,3,16,3,12,0,4,mousesports,5,17,0.31 
+2016,05,22,19:30,dignitas,mousesports,dust2,ECS Season 1,3,16,3,12,0,4,mousesports,13,12,1.09 
+2016,05,19,21:00,mousesports,fnatic,train,ECS Season 1,5,16,4,11,1,5,mousesports,12,18,0.65 
+2016,05,19,21:00,fnatic,mousesports,cache,ECS Season 1,16,13,9,6,7,7,mousesports,15,24,0.65 
+2016,05,11,21:00,mousesports,EnVyUs,dust2,ECS Season 1,16,14,8,7,8,7,mousesports,22,20,1.04 
+2016,05,11,21:00,mousesports,EnVyUs,inferno,ECS Season 1,16,11,11,4,5,7,mousesports,15,16,0.93 
+2016,05,11,21:00,mousesports,EnVyUs,mirage,ECS Season 1,5,16,1,14,4,2,mousesports,11,15,0.73 
+2016,05,05,21:00,mousesports,G2,dust2,ECS Season 1,11,16,7,8,4,8,mousesports,12,19,0.66 
+2016,05,05,21:00,mousesports,G2,cobblestone,ECS Season 1,8,16,6,9,2,7,mousesports,8,20,0.49 
+2016,05,05,21:00,mousesports,G2,cache,ECS Season 1,16,14,8,7,8,7,mousesports,19,18,0.99 
+2016,04,29,21:00,mousesports,FaZe,inferno,ECS Season 1,16,14,11,4,5,10,mousesports,26,18,1.19 
+2016,04,29,21:00,mousesports,FaZe,cache,ECS Season 1,16,2,13,2,3,0,mousesports,19,10,1.60 
+2016,04,27,20:15,mousesports,FAB,cache,BenQ All-Star Showmatch #8,20,22,6,9,9,6,mousesports,36,25,1.25 
+2016,04,27,20:15,FAB,mousesports,train,BenQ All-Star Showmatch #8,16,14,6,9,10,5,mousesports,25,20,1.24 
+2016,04,27,20:15,FAB,mousesports,mirage,BenQ All-Star Showmatch #8,11,16,8,7,3,9,mousesports,19,18,0.99 
+2016,04,26,20:00,NatusVincere,mousesports,cache,ESL Pro League Season 3,10,16,10,5,0,11,mousesports,26,16,1.53 
+2016,04,26,19:00,NatusVincere,mousesports,dust2,ESL Pro League Season 3,16,10,10,5,6,5,mousesports,23,20,1.17 
+2016,04,24,16:00,Virtus.pro,mousesports,train,ECS Season 1,13,16,9,6,4,10,mousesports,23,17,1.12 
+2016,04,24,16:00,mousesports,Virtus.pro,cache,ECS Season 1,16,4,12,3,4,1,mousesports,24,8,1.87 
+2016,04,21,22:00,Virtus.pro,mousesports,train,ESL Pro League Season 3,19,15,6,9,9,6,mousesports,27,26,1.08 
+2016,04,21,21:15,Virtus.pro,mousesports,cache,ESL Pro League Season 3,5,16,2,13,3,3,mousesports,21,14,1.44 
+2016,04,19,19:30,mousesports,EnVyUs,cache,ESL Pro League Season 3,16,8,8,7,8,1,mousesports,17,18,0.89 
+2016,04,19,18:00,mousesports,EnVyUs,inferno,ESL Pro League Season 3,22,19,9,6,6,9,mousesports,27,26,1.05 
+2016,04,16,17:00,mousesports,GODSENT,mirage,DreamHack Masters Malmö 2016,13,16,7,8,6,8,mousesports,23,21,1.07 
+2016,04,16,17:00,GODSENT,mousesports,inferno,DreamHack Masters Malmö 2016,16,10,8,7,8,3,mousesports,12,18,0.77 
+2016,04,16,17:00,mousesports,GODSENT,cache,DreamHack Masters Malmö 2016,16,7,8,7,8,0,mousesports,26,9,1.72 
+2016,04,13,17:00,mousesports,Luminosity,cache,DreamHack Masters Malmö 2016,16,7,11,4,5,3,mousesports,25,10,1.72 
+2016,04,12,12:30,mousesports,Liquid,dust2,DreamHack Masters Malmö 2016,16,13,7,8,9,5,mousesports,19,23,0.82 
+2016,04,10,13:00,mousesports,Astralis,mirage,ECS Season 1,3,16,2,13,1,3,mousesports,11,17,0.69 
+2016,04,10,13:00,mousesports,Astralis,train,ECS Season 1,13,16,6,9,7,7,mousesports,22,18,1.06 
+2016,04,10,13:00,mousesports,Astralis,dust2,ECS Season 1,16,5,10,5,6,0,mousesports,9,11,0.80 
+2016,04,08,18:00,mousesports,HellRaisers,train,ECS Season 1 Qualifier,16,9,12,3,4,6,mousesports,22,11,1.33 
+2016,04,08,18:00,mousesports,HellRaisers,dust2,ECS Season 1 Qualifier,16,8,10,5,6,3,mousesports,19,14,1.29 
+2016,04,08,18:00,HellRaisers,mousesports,inferno,ECS Season 1 Qualifier,16,11,10,5,6,6,mousesports,29,20,1.69 
+2016,04,08,18:00,mousesports,HellRaisers,cache,ECS Season 1 Qualifier,19,17,4,11,11,4,mousesports,35,26,1.23 
+2016,04,08,18:00,HellRaisers,mousesports,cobblestone,ECS Season 1 Qualifier,16,14,13,2,3,12,mousesports,22,20,1.12 
+2016,03,31,16:00,NiP,mousesports,overpass,MLG Columbus 2016,16,9,9,6,7,3,mousesports,8,20,0.43 
+2016,03,31,16:00,mousesports,NiP,cache,MLG Columbus 2016,16,12,8,7,8,5,mousesports,22,18,1.11 
+2016,03,31,16:00,mousesports,NiP,cobblestone,MLG Columbus 2016,5,16,4,11,1,5,mousesports,11,17,0.65 
+2016,03,30,16:00,FlipSid3,mousesports,cobblestone,MLG Columbus 2016,28,31,12,3,3,12,mousesports,36,45,0.82 
+2016,03,29,18:00,Luminosity,mousesports,mirage,MLG Columbus 2016,16,13,10,5,6,8,mousesports,12,20,0.68 
+2016,03,24,05:40,YoungMoneyMilitia,Grimalkin,train,Razer Rising Stars NA League Q..,16,9,11,4,5,5,Young Money Militia,22,14,1.30 
+2016,03,22,23:45,mousesports,dignitas,inferno,ESL Pro League Season 3,10,16,5,10,5,6,mousesports,18,20,0.83 
+2016,03,22,22:30,mousesports,dignitas,cobblestone,ESL Pro League Season 3,16,19,4,11,11,4,mousesports,29,25,1.16 
+2016,03,20,20:15,mousesports,FlipSid3,cobblestone,ESL Pro League Season 3,13,16,8,7,5,9,mousesports,21,22,0.90 
+2016,03,20,19:00,mousesports,FlipSid3,overpass,ESL Pro League Season 3,12,16,9,6,3,10,mousesports,23,19,1.26 
+2016,03,19,20:15,FaZe,mousesports,dust2,ESL Pro League Season 3,13,16,6,9,7,7,mousesports,29,19,1.44 
+2016,03,19,19:00,mousesports,FaZe,cache,ESL Pro League Season 3,16,14,3,12,13,2,mousesports,22,19,1.11 
+2016,03,17,23:15,SK,mousesports,cobblestone,ESL Pro League Season 3,16,11,8,7,8,4,mousesports,11,20,0.59 
+2016,03,17,22:00,SK,mousesports,mirage,ESL Pro League Season 3,8,16,6,9,2,7,mousesports,16,9,1.24 
+2016,03,14,20:30,mousesports,G2,cache,DreamHack Masters Malmö 2016 E..,16,13,11,4,5,9,mousesports,15,23,0.68 
+2016,03,14,20:30,mousesports,G2,dust2,DreamHack Masters Malmö 2016 E..,16,14,3,12,13,2,mousesports,31,19,1.49 
+2016,03,14,20:30,G2,mousesports,inferno,DreamHack Masters Malmö 2016 E..,19,16,7,8,8,7,mousesports,23,24,0.87 
+2016,03,14,00:15,mousesports,fnatic,dust2,ESL Pro League Season 3,19,17,3,12,12,3,mousesports,24,23,1.03 
+2016,03,13,23:00,fnatic,mousesports,cache,ESL Pro League Season 3,16,4,11,4,5,0,mousesports,18,16,1.06 
+2016,03,13,16:45,noKappa,mousesports,dust2,DreamHack Masters Malmö 2016 E..,3,16,3,12,0,4,mousesports,15,7,1.27 
+2016,03,13,16:45,mousesports,noKappa,cobblestone,DreamHack Masters Malmö 2016 E..,16,7,13,2,3,5,mousesports,15,13,1.00 
+2016,03,13,13:15,c5,mousesports,mirage,DreamHack Masters Malmö 2016 E..,9,16,4,11,5,5,mousesports,27,13,1.78 
+2016,03,13,13:15,c5,mousesports,cache,DreamHack Masters Malmö 2016 E..,8,16,8,7,0,9,mousesports,19,13,1.23 
+2016,03,08,21:15,Astralis,mousesports,dust2,ESL Pro League Season 3,16,4,11,4,5,0,mousesports,4,18,0.28 
+2016,03,08,20:00,Astralis,mousesports,mirage,ESL Pro League Season 3,16,12,7,8,9,4,mousesports,15,20,0.78 
+2016,03,02,21:20,mousesports,fnatic,dust2,IEM Katowice 2016,17,19,5,10,10,5,mousesports,16,27,0.67 
+2016,03,02,20:00,mousesports,Luminosity,cobblestone,IEM Katowice 2016,14,16,7,8,7,8,mousesports,25,18,1.24 
+2016,03,02,17:20,mousesports,NatusVincere,cobblestone,IEM Katowice 2016,6,16,3,12,3,4,mousesports,19,16,1.21 
+2016,03,02,14:40,mousesports,TheMongolz,dust2,IEM Katowice 2016,16,7,10,5,6,2,mousesports,16,13,1.01 
+2016,03,02,13:20,mousesports,NiP,mirage,IEM Katowice 2016,16,8,10,5,6,3,mousesports,21,11,1.39 
+2016,02,26,23:30,HellRaisers,mousesports,mirage,MLG Columbus 2016 Main Qualifi..,15,19,9,6,6,9,mousesports,28,26,1.10 
+2016,02,26,19:00,mousesports,YP,cobblestone,MLG Columbus 2016 Main Qualifi..,16,1,14,1,2,0,mousesports,22,8,1.89 
+2016,02,24,01:30,NiP,mousesports,overpass,ESL Pro League Season 3,16,14,10,5,6,9,mousesports,19,23,0.89 
+2016,02,23,23:50,NiP,mousesports,cache,ESL Pro League Season 3,19,15,7,8,8,7,mousesports,11,25,0.50 
+2016,02,23,20:15,G2,mousesports,overpass,ESL Pro League Season 3,10,16,6,9,4,7,mousesports,24,14,1.33 
+2016,02,23,19:10,G2,mousesports,dust2,ESL Pro League Season 3,16,13,7,8,9,5,mousesports,26,20,1.32 
+2016,02,14,19:00,FlipSid3,mousesports,overpass,Acer Predator Masters powered ..,9,16,8,7,1,9,mousesports,28,14,1.74 
+2016,02,14,19:00,mousesports,FlipSid3,cache,Acer Predator Masters powered ..,16,6,11,4,5,2,mousesports,27,11,2.07 
+2016,02,13,22:30,FlipSid3,mousesports,cobblestone,Acer Predator Masters powered ..,11,16,6,9,5,7,mousesports,26,16,1.35 
+2016,02,13,22:30,mousesports,FlipSid3,mirage,Acer Predator Masters powered ..,16,5,12,3,4,2,mousesports,22,9,1.62 
+2016,02,12,22:30,mousesports,E-frag.net,cobblestone,Acer Predator Masters powered ..,16,13,11,4,5,9,mousesports,20,19,0.98 
+2016,02,12,22:30,mousesports,E-frag.net,cache,Acer Predator Masters powered ..,16,5,11,4,5,1,mousesports,17,10,1.32 
+2016,02,11,19:00,mousesports,LDLCWhite,cobblestone,Acer Predator Masters powered ..,16,13,8,7,8,6,mousesports,23,18,1.19 
+2016,02,11,19:00,mousesports,LDLCWhite,dust2,Acer Predator Masters powered ..,21,18,5,10,10,5,mousesports,37,26,1.32 
+2016,01,31,18:00,mousesports,dignitas,cobblestone,Game Show Global eSports Cup 2..,3,16,3,12,0,4,mousesports,11,15,0.69 
+2016,01,31,18:00,mousesports,dignitas,cache,Game Show Global eSports Cup 2..,9,16,6,9,3,7,mousesports,17,19,0.93 
+2016,01,23,15:00,dignitas,mousesports,mirage,DreamHack ZOWIE Open Leipzig 2..,16,13,6,9,10,4,mousesports,14,23,0.61 
+2016,01,23,15:00,mousesports,dignitas,cobblestone,DreamHack ZOWIE Open Leipzig 2..,4,16,3,12,1,4,mousesports,13,17,0.81 
+2016,01,22,17:00,Astralis,mousesports,mirage,DreamHack ZOWIE Open Leipzig 2..,22,19,10,5,5,10,mousesports,22,27,0.80 
+2016,01,22,14:00,mousesports,Virtus.pro,dust2,DreamHack ZOWIE Open Leipzig 2..,16,5,10,5,6,0,mousesports,16,10,1.17 
+2016,01,14,21:00,mousesports,ALTERNATEaTTaX,overpass,Acer Predator Masters powered ..,11,16,11,4,0,12,mousesports,17,20,0.84 
+2016,01,14,21:00,ALTERNATEaTTaX,mousesports,cache,Acer Predator Masters powered ..,12,16,7,8,5,8,mousesports,28,12,1.53 
+2015,12,18,00:00,VeloX,HiddenPotential,mirage,Game Show Global eSports Cup 2..,16,4,11,4,5,0,Hidden Potential,13,18,0.65 
+2015,12,18,00:00,HiddenPotential,VeloX,cache,Game Show Global eSports Cup 2..,12,16,3,12,9,4,Hidden Potential,20,21,0.95 
+2015,12,16,21:00,mousesports,CSGL,dust2,ELEAGUE Road to Vegas Closed E..,13,16,11,4,2,12,mousesports,24,20,1.10 
+2015,12,16,21:00,CSGL,mousesports,mirage,ELEAGUE Road to Vegas Closed E..,16,1,14,1,2,0,mousesports,5,17,0.25 
+2015,12,15,21:00,mousesports,DenDD,cobblestone,Acer Predator Masters powered ..,16,10,9,6,7,4,mousesports,22,19,1.06 
+2015,12,15,21:00,mousesports,DenDD,mirage,Acer Predator Masters powered ..,21,19,7,8,8,7,mousesports,25,28,0.88 
+2015,12,13,21:00,HellRaisers,mousesports,inferno,Acer Predator Masters powered ..,14,16,11,4,3,12,mousesports,16,23,0.69 
+2015,12,13,21:00,HellRaisers,mousesports,mirage,Acer Predator Masters powered ..,21,18,3,12,12,3,mousesports,26,26,0.98 
+2015,12,03,20:00,CSGL,mousesports,cache,Acer Predator Masters powered ..,15,21,5,10,10,5,mousesports,29,25,1.13 
+2015,12,03,20:00,mousesports,CSGL,mirage,Acer Predator Masters powered ..,21,19,11,4,4,11,mousesports,20,27,0.77 
+2015,12,03,18:00,LDLCWhite,mousesports,mirage,Acer Predator Masters powered ..,6,16,3,12,3,4,mousesports,13,12,0.89 
+2015,12,03,18:00,mousesports,LDLCWhite,dust2,Acer Predator Masters powered ..,14,16,7,8,7,8,mousesports,22,21,1.07 
+2015,11,17,22:00,EnVyUs,mousesports,cache,ESL ESEA Pro League Season 2,16,12,6,9,10,3,mousesports,19,23,0.84 
+2015,11,17,21:00,HellRaisers,mousesports,train,ESL ESEA Pro League Season 2,16,13,9,6,7,7,mousesports,14,22,0.66 
+2015,11,17,20:00,mousesports,TSM,cache,ESL ESEA Pro League Season 2,7,16,4,11,3,5,mousesports,17,20,0.88 
+2015,11,16,18:00,mousesports,Virtus.pro,dust2,ESL ESEA Pro League Season 2,13,16,5,10,8,6,mousesports,16,22,0.78 
+2015,11,12,22:00,SK,mousesports,train,ESL ESEA Pro League Season 2,16,0,15,0,1,0,mousesports,4,16,0.21 
+2015,11,11,22:00,fnatic,mousesports,overpass,ESL ESEA Pro League Season 2,9,16,7,8,2,8,mousesports,24,14,1.44 
+2015,11,11,21:00,mousesports,Virtus.pro,inferno,ESL ESEA Pro League Season 2,16,2,13,2,3,0,mousesports,13,9,1.20 
+2015,11,11,20:00,PENTA,mousesports,overpass,ESL ESEA Pro League Season 2,13,16,8,7,5,9,mousesports,27,18,1.49 
+2015,11,11,19:00,NiP,mousesports,mirage,ESL ESEA Pro League Season 2,8,16,4,11,4,5,mousesports,18,14,1.18 
+2015,11,08,23:35,mousesports,Virtus.pro,cobblestone,CEVO Professional Season 8 Fin..,4,16,3,12,1,4,mousesports,11,18,0.72 
+2015,11,08,23:35,Virtus.pro,mousesports,mirage,CEVO Professional Season 8 Fin..,16,8,13,2,3,6,mousesports,11,18,0.66 
+2015,11,08,23:35,mousesports,Virtus.pro,inferno,CEVO Professional Season 8 Fin..,8,16,4,11,4,5,mousesports,11,17,0.69 
+2015,11,08,18:30,mousesports,Conquest,cache,CEVO Professional Season 8 Fin..,16,11,12,3,4,8,mousesports,34,15,1.91 
+2015,11,08,18:30,Conquest,mousesports,overpass,CEVO Professional Season 8 Fin..,16,8,10,5,6,3,mousesports,22,21,1.11 
+2015,11,08,18:30,mousesports,Conquest,inferno,CEVO Professional Season 8 Fin..,16,11,11,4,5,7,mousesports,10,19,0.59 
+2015,11,07,17:50,Luminosity,mousesports,mirage,CEVO Professional Season 8 Fin..,7,16,4,11,3,5,mousesports,17,13,1.15 
+2015,11,07,17:50,Luminosity,mousesports,dust2,CEVO Professional Season 8 Fin..,12,16,11,4,1,12,mousesports,22,17,1.29 
+2015,11,06,23:00,NatusVincere,mousesports,overpass,CEVO Professional Season 8 Fin..,7,16,4,11,3,5,mousesports,25,12,1.60 
+2015,11,06,23:00,NatusVincere,mousesports,mirage,CEVO Professional Season 8 Fin..,10,16,9,6,1,10,mousesports,17,14,1.15 
+2015,11,03,22:00,PENTA,mousesports,dust2,ESL ESEA Pro League Season 2,8,16,4,11,4,5,mousesports,32,17,1.81 
+2015,11,03,20:30,GreyFace,mousesports,overpass,Showmatch CS:GO,16,10,11,4,5,6,mousesports,21,19,1.05 
+2015,11,03,20:27,GreyFace,mousesports,cache,Showmatch CS:GO,16,11,6,9,10,2,mousesports,17,21,0.88 
+2015,10,30,13:00,G2,mousesports,cache,DreamHack Open Cluj-Napoca 201..,16,5,11,4,5,1,mousesports,15,16,0.85 
+2015,10,30,13:00,mousesports,G2,inferno,DreamHack Open Cluj-Napoca 201..,16,12,8,7,8,5,mousesports,19,18,1.02 
+2015,10,30,13:00,G2,mousesports,mirage,DreamHack Open Cluj-Napoca 201..,19,16,7,8,8,7,mousesports,22,25,0.79 
+2015,10,29,12:35,FlipSid3,mousesports,overpass,DreamHack Open Cluj-Napoca 201..,8,16,3,12,5,4,mousesports,27,14,1.84 
+2015,10,28,14:45,mousesports,G2,inferno,DreamHack Open Cluj-Napoca 201..,8,16,6,9,2,7,mousesports,15,22,0.71 
+2015,10,25,22:45,EnVyUs,mousesports,overpass,ESL ESEA Pro League Season 2,16,14,8,7,8,7,mousesports,22,22,0.98 
+2015,10,25,20:00,mousesports,NatusVincere,mirage,ESL ESEA Pro League Season 2,19,17,8,7,7,8,mousesports,26,25,0.93 
+2015,10,21,19:00,NiP,mousesports,cobblestone,ESL ESEA Pro League Season 2,16,8,8,7,8,1,mousesports,9,21,0.46 
+2015,10,15,22:00,dignitas,mousesports,train,ESL ESEA Pro League Season 2,16,13,9,6,7,7,mousesports,22,20,1.07 
+2015,10,15,20:00,TSM,mousesports,dust2,ESL ESEA Pro League Season 2,16,13,10,5,6,8,mousesports,19,20,0.90 
+2015,10,15,18:00,mousesports,CSGL,overpass,CEVO Professional Season 8,9,16,9,6,0,10,mousesports,17,18,0.94 
+2015,10,15,18:00,CSGL,mousesports,cobblestone,CEVO Professional Season 8,16,10,9,6,7,4,mousesports,25,19,1.29 
+2015,10,14,20:00,mousesports,E-frag.net,inferno,CEVO Professional Season 8,17,19,5,10,10,5,mousesports,30,26,1.23 
+2015,10,14,20:00,E-frag.net,mousesports,overpass,CEVO Professional Season 8,9,16,5,10,4,6,mousesports,21,15,1.21 
+2015,10,14,17:30,Titan,mousesports,cobblestone,CEVO Professional Season 8,15,19,9,6,6,9,mousesports,32,20,1.40 
+2015,10,14,17:30,mousesports,Titan,overpass,CEVO Professional Season 8,16,12,8,7,8,5,mousesports,19,16,0.98 
+2015,10,13,23:00,HellRaisers,mousesports,mirage,CEVO Professional Season 8,14,16,9,6,5,10,mousesports,21,20,0.99 
+2015,10,13,23:00,mousesports,HellRaisers,cobblestone,CEVO Professional Season 8,14,16,11,4,3,12,mousesports,12,22,0.57 
+2015,10,13,22:00,Titan,mousesports,mirage,ESL ESEA Pro League Season 2,8,16,5,10,3,6,mousesports,17,17,1.05 
+2015,10,13,20:15,Titan,mousesports,cache,ESL ESEA Pro League Season 2,16,10,7,8,9,2,mousesports,19,18,1.02 
+2015,10,10,21:30,France,Germany,cache,World Championships 2015,16,7,11,4,5,3,Germany,21,18,1.24 
+2015,10,10,21:30,Germany,France,cobblestone,World Championships 2015,2,16,2,13,0,3,Germany,8,18,0.44 
+2015,10,08,17:50,Germany,Sweden,cache,World Championships 2015,16,13,13,2,3,11,Germany,27,18,1.47 
+2015,10,08,15:15,Indonesia,Germany,dust2,World Championships 2015,6,16,2,13,4,3,Germany,19,12,1.28 
+2015,10,06,22:15,dignitas,mousesports,cobblestone,ESL ESEA Pro League Season 2,19,15,8,7,7,8,mousesports,22,23,0.91 
+2015,09,30,20:00,mousesports,dignitas,inferno,CEVO Professional Season 8,14,16,11,4,3,12,mousesports,29,19,1.42 
+2015,09,30,20:00,mousesports,dignitas,cobblestone,CEVO Professional Season 8,14,16,8,7,6,9,mousesports,18,25,0.71 
+2015,09,30,17:00,Spain,Germany,cobblestone,World Championships 2015 Europ..,12,16,5,10,7,6,Germany,25,20,1.21 
+2015,09,30,17:00,Spain,Germany,dust2,World Championships 2015 Europ..,14,16,6,9,8,7,Germany,30,18,1.47 
+2015,09,30,17:00,Germany,Spain,cache,World Championships 2015 Europ..,12,16,3,12,9,4,Germany,21,17,1.11 
+2015,09,29,22:15,FlipSid3,mousesports,cache,CEVO Professional Season 8,2,16,2,13,0,3,mousesports,15,8,1.28 
+2015,09,29,22:15,mousesports,FlipSid3,inferno,CEVO Professional Season 8,16,13,7,8,9,5,mousesports,26,15,1.40 
+2015,09,29,20:15,mousesports,SententiaMortis,dust2,CEVO Professional Season 8,16,4,11,4,5,0,mousesports,18,8,1.50 
+2015,09,29,20:15,SententiaMortis,mousesports,cache,CEVO Professional Season 8,2,16,2,13,0,3,mousesports,21,8,1.78 
+2015,09,29,18:00,Germany,Finland,dust2,World Championships 2015 Europ..,10,16,6,9,4,7,Germany,21,21,1.01 
+2015,09,29,17:00,Germany,UnitedKingdom,dust2,World Championships 2015 Europ..,16,7,12,3,4,4,Germany,33,14,1.90 
+2015,09,28,22:15,mousesports,Property,cache,CEVO Professional Season 8,16,12,6,9,10,3,mousesports,24,19,1.21 
+2015,09,28,22:15,Property,mousesports,cobblestone,CEVO Professional Season 8,4,16,3,12,1,4,mousesports,21,10,1.46 
+2015,09,28,20:15,mousesports,G2,dust2,CEVO Professional Season 8,4,16,3,12,1,4,mousesports,5,18,0.32 
+2015,09,28,20:15,G2,mousesports,cache,CEVO Professional Season 8,16,10,10,5,6,5,mousesports,25,19,1.38 
+2015,09,24,19:15,mousesports,Liquid,cobblestone,DreamHack Open Cluj-Napoca 201..,16,9,11,4,5,5,mousesports,23,17,1.33 
+2015,09,24,19:15,mousesports,Liquid,cache,DreamHack Open Cluj-Napoca 201..,16,10,9,6,7,4,mousesports,15,19,0.81 
+2015,09,24,12:30,Winterfox,mousesports,cobblestone,DreamHack Open Cluj-Napoca 201..,11,16,7,8,4,8,mousesports,20,18,1.06 
+2015,09,24,12:30,Winterfox,mousesports,dust2,DreamHack Open Cluj-Napoca 201..,17,19,8,7,7,8,mousesports,28,26,1.02 
+2015,09,16,22:00,SK,mousesports,inferno,ESL ESEA Pro League Season 2,11,16,6,9,5,7,mousesports,21,18,1.09 
+2015,09,16,21:00,mousesports,HellRaisers,cobblestone,ESL ESEA Pro League Season 2,16,11,11,4,5,7,mousesports,19,18,1.01 
+2015,09,15,22:00,mousesports,fnatic,inferno,ESL ESEA Pro League Season 2,8,16,7,8,1,8,mousesports,14,20,0.70 
+2015,09,15,21:15,mousesports,NatusVincere,inferno,ESL ESEA Pro League Season 2,5,16,5,10,0,6,mousesports,10,18,0.60 
+2015,09,14,20:00,PENTA,mousesports,dust2,CEVO Professional Season 8,16,12,11,4,5,8,mousesports,32,18,1.66 
+2015,09,14,20:00,mousesports,PENTA,mirage,CEVO Professional Season 8,16,8,10,5,6,3,mousesports,17,14,1.00 
+2015,09,08,16:50,NatusVincere,mousesports,cobblestone,Gaming Paradise 2015,16,13,9,6,7,7,mousesports,23,25,0.96 
+2015,09,08,03:50,mousesports,CSGO-Saloon,dust2,Gaming Paradise 2015,16,6,10,5,6,1,mousesports,19,11,1.45 
+2015,09,07,17:50,Titan,mousesports,cobblestone,Gaming Paradise 2015,16,9,11,4,5,5,mousesports,19,18,1.10 
+2015,09,07,17:50,mousesports,Titan,overpass,Gaming Paradise 2015,3,16,3,12,0,4,mousesports,7,15,0.51 
+2015,09,04,18:00,mousesports,Kinguin,train,PGL Season 1,7,16,4,11,3,5,mousesports,17,18,0.90 
+2015,09,03,23:00,Titan,mousesports,dust2,PGL Season 1,14,16,5,10,9,6,mousesports,23,21,1.14 
+2015,09,03,19:15,TSM,mousesports,overpass,PGL Season 1,16,7,14,1,2,6,mousesports,13,18,0.90 
+2015,09,02,18:00,fnatic,mousesports,dust2,PGL Season 1,16,9,7,8,9,1,mousesports,13,20,0.62 
+2015,09,02,18:00,mousesports,fnatic,train,PGL Season 1,16,9,12,3,4,6,mousesports,15,14,1.00 
+2015,09,02,18:00,fnatic,mousesports,cache,PGL Season 1,16,3,12,3,4,0,mousesports,9,17,0.54 
+2015,09,01,18:00,mousesports,dignitas,overpass,PGL Season 1,16,8,11,4,5,4,mousesports,21,13,1.40 
+2015,09,01,18:00,dignitas,mousesports,dust2,PGL Season 1,7,16,2,13,5,3,mousesports,15,15,0.98 
+2015,09,01,18:00,mousesports,dignitas,train,PGL Season 1,10,16,7,8,3,8,mousesports,16,23,0.68 
+2015,09,01,18:00,dignitas,mousesports,mirage,PGL Season 1,11,16,5,10,6,6,mousesports,18,14,1.12 
+2015,08,31,18:15,Titan,mousesports,overpass,PGL Season 1,17,21,9,6,6,9,mousesports,35,23,1.37 
+2015,08,31,18:15,mousesports,Titan,train,PGL Season 1,7,16,6,9,1,7,mousesports,13,18,0.73 
+2015,08,31,18:15,Titan,mousesports,cobblestone,PGL Season 1,9,16,8,7,1,9,mousesports,20,15,1.32 
+2015,08,31,15:00,Germany,Lithuania,mirage,World Championships 2015 Europ..,16,14,11,4,5,10,Germany,26,19,1.18 
+2015,08,31,15:00,Lithuania,Germany,dust2,World Championships 2015 Europ..,3,16,3,12,0,4,Germany,21,9,1.72 
+2015,08,30,18:00,mousesports,fnatic,overpass,PGL Season 1,9,16,5,10,4,6,mousesports,16,18,0.81 
+2015,08,30,18:00,fnatic,mousesports,cache,PGL Season 1,13,16,10,5,3,11,mousesports,39,19,1.92 
+2015,08,30,18:00,mousesports,fnatic,train,PGL Season 1,5,16,3,12,2,4,mousesports,13,19,0.79 
+2015,08,26,21:00,myKPV,mousesports,cache,99Damage League Season 1,7,16,2,13,5,3,mousesports,29,13,1.89 
+2015,08,26,21:00,mousesports,myKPV,dust2,99Damage League Season 1,31,27,7,8,8,7,mousesports,58,40,1.36 
+2015,08,26,18:00,Dobry&Gaming,mousesports,dust2,PGL Season 1 Replacement Quali..,9,16,9,6,0,10,mousesports,22,17,1.14 
+2015,08,26,18:00,mousesports,Dobry&Gaming,train,PGL Season 1 Replacement Quali..,16,11,7,8,9,3,mousesports,32,19,1.49 
+2015,08,21,20:40,mousesports,FlipSid3,cobblestone,ESL One Cologne 2015,14,16,7,8,7,8,mousesports,25,22,1.20 
+2015,08,20,19:30,mousesports,Cloud9,overpass,ESL One Cologne 2015,10,16,8,7,2,9,mousesports,13,19,0.68 
+2015,08,12,18:15,mousesports,Kinguin,train,PGL Season 1 EU Qualifiers,13,16,11,4,2,12,mousesports,27,19,1.30 
+2015,08,12,18:15,Kinguin,mousesports,dust2,PGL Season 1 EU Qualifiers,16,7,10,5,6,2,mousesports,13,20,0.73 
+2015,08,12,18:15,mousesports,Kinguin,cache,PGL Season 1 EU Qualifiers,5,16,5,10,0,6,mousesports,15,17,0.97 
+2015,08,11,18:00,mousesports,Torpedo,cache,PGL Season 1 EU Qualifiers,16,4,14,1,2,3,mousesports,21,9,1.70 
+2015,08,11,18:00,mousesports,Torpedo,dust2,PGL Season 1 EU Qualifiers,16,6,11,4,5,2,mousesports,23,17,1.45 
+2015,08,09,15:45,PENTA,mousesports,overpass,ESL Sommermeisterschaft 2015 F..,4,16,4,11,0,5,mousesports,15,9,1.19 
+2015,08,09,15:45,mousesports,PENTA,cache,ESL Sommermeisterschaft 2015 F..,16,4,11,4,5,0,mousesports,14,10,1.08 
+2015,08,09,12:45,Planetkey,mousesports,cobblestone,ESL Sommermeisterschaft 2015 F..,15,19,11,4,4,11,mousesports,31,25,1.30 
+2015,08,09,12:45,mousesports,Planetkey,dust2,ESL Sommermeisterschaft 2015 F..,16,5,11,4,5,1,mousesports,20,10,1.53 
+2015,08,09,12:45,mousesports,Planetkey,cache,ESL Sommermeisterschaft 2015 F..,11,16,7,8,4,8,mousesports,17,20,0.87 
+2015,08,07,17:15,mousesports,EnVyUs,cache,IEM Gamescom 2015,17,19,5,10,10,5,mousesports,24,28,0.93 
+2015,08,07,14:45,EnVyUs,mousesports,train,IEM Gamescom 2015,11,16,10,5,1,11,mousesports,20,19,0.97 
+2015,08,07,11:45,EnVyUs,mousesports,dust2,IEM Gamescom 2015,16,8,9,6,7,2,mousesports,19,19,0.95 
+2015,08,06,16:45,mousesports,TSM,dust2,IEM Gamescom 2015,8,16,4,11,4,5,mousesports,9,21,0.46 
+2015,08,05,16:45,EnVyUs,mousesports,inferno,IEM Gamescom 2015,16,13,10,5,6,8,mousesports,14,21,0.71 
+2015,08,05,12:15,mousesports,Renegades,dust2,IEM Gamescom 2015,16,2,13,2,3,0,mousesports,21,10,1.66 
+2015,08,02,19:20,mousesports,HellRaisers,mirage,Acer Predator Masters powered ..,10,16,8,7,2,9,mousesports,15,19,0.81 
+2015,08,02,19:20,HellRaisers,mousesports,cobblestone,Acer Predator Masters powered ..,16,10,6,9,10,1,mousesports,21,18,1.10 
+2015,08,02,19:20,mousesports,HellRaisers,train,Acer Predator Masters powered ..,13,16,7,8,6,8,mousesports,22,25,0.97 
+2015,08,02,19:20,mousesports,HellRaisers,overpass,Acer Predator Masters powered ..,16,14,3,12,13,2,mousesports,18,19,0.90 
+2015,08,02,19:20,mousesports,HellRaisers,dust2,Acer Predator Masters powered ..,9,16,4,11,5,5,mousesports,14,19,0.78 
+2015,08,02,19:20,mousesports,HellRaisers,cache,Acer Predator Masters powered ..,16,12,12,3,4,9,mousesports,31,21,1.46 
+2015,08,01,19:30,E-frag.net,mousesports,dust2,Acer Predator Masters powered ..,14,16,5,10,9,6,mousesports,39,16,1.95 
+2015,08,01,19:30,E-frag.net,mousesports,cache,Acer Predator Masters powered ..,16,11,7,8,9,3,mousesports,19,20,0.97 
+2015,08,01,19:30,mousesports,E-frag.net,overpass,Acer Predator Masters powered ..,16,7,12,3,4,4,mousesports,18,11,1.26 
+2015,07,31,22:00,SK,mousesports,dust2,Acer Predator Masters powered ..,6,16,5,10,1,6,mousesports,18,12,1.32 
+2015,07,31,22:00,mousesports,SK,train,Acer Predator Masters powered ..,16,5,11,4,5,1,mousesports,16,12,1.07 
+2015,07,31,00:00,mousesports,PENTA,cache,Acer Predator Masters powered ..,19,15,7,8,8,7,mousesports,23,21,1.01 
+2015,07,31,00:00,mousesports,PENTA,overpass,Acer Predator Masters powered ..,16,7,12,3,4,4,mousesports,24,14,1.49 
+2015,07,26,16:00,NatusVincere,mousesports,dust2,CEVO Professional Season 7 Fin..,16,14,10,5,6,9,mousesports,20,20,1.12 
+2015,07,26,16:00,NatusVincere,mousesports,overpass,CEVO Professional Season 7 Fin..,16,9,12,3,4,6,mousesports,14,21,0.69 
+2015,07,25,19:30,mousesports,Cloud9,dust2,CEVO Professional Season 7 Fin..,16,12,5,10,11,2,mousesports,21,19,1.08 
+2015,07,25,19:30,mousesports,Cloud9,cache,CEVO Professional Season 7 Fin..,16,5,12,3,4,2,mousesports,20,8,1.58 
+2015,07,25,02:00,mousesports,Liquid,overpass,CEVO Professional Season 7 Fin..,16,8,10,5,6,3,mousesports,27,16,1.49 
+2015,07,25,02:00,Liquid,mousesports,dust2,CEVO Professional Season 7 Fin..,10,16,5,10,5,6,mousesports,24,13,1.38 
+2015,06,29,23:00,EnVyUs,mousesports,train,Counter Pit League,19,15,12,3,3,12,mousesports,20,26,0.87 
+2015,06,29,23:00,mousesports,EnVyUs,cache,Counter Pit League,13,16,10,5,3,11,mousesports,20,21,0.98 
+2015,06,28,13:00,NiP,mousesports,dust2,Gfinity 2015 Summer Masters 1,16,2,13,2,3,0,mousesports,13,18,0.76 
+2015,06,28,13:00,mousesports,NiP,train,Gfinity 2015 Summer Masters 1,13,16,7,8,6,8,mousesports,22,22,1.13 
+2015,06,27,19:30,Virtus.pro,mousesports,train,Gfinity 2015 Summer Masters 1,20,22,7,8,8,7,mousesports,35,28,1.16 
+2015,06,27,19:30,mousesports,Virtus.pro,mirage,Gfinity 2015 Summer Masters 1,16,13,11,4,5,9,mousesports,25,16,1.43 
+2015,06,27,19:30,mousesports,Virtus.pro,dust2,Gfinity 2015 Summer Masters 1,15,19,11,4,4,11,mousesports,36,25,1.51 
+2015,06,27,16:15,EnVyUs,mousesports,cobblestone,Gfinity 2015 Summer Masters 1,16,9,11,4,5,5,mousesports,16,21,0.85 
+2015,06,27,16:15,mousesports,EnVyUs,cache,Gfinity 2015 Summer Masters 1,16,12,6,9,10,3,mousesports,25,19,1.26 
+2015,06,27,16:15,EnVyUs,mousesports,dust2,Gfinity 2015 Summer Masters 1,16,6,9,6,7,0,mousesports,21,16,1.39 
+2015,06,26,21:30,mousesports,Virtus.pro,cache,Gfinity 2015 Summer Masters 1,16,5,11,4,5,1,mousesports,15,15,0.94 
+2015,06,26,21:30,Virtus.pro,mousesports,cobblestone,Gfinity 2015 Summer Masters 1,20,22,4,11,11,4,mousesports,36,30,1.08 
+2015,06,25,19:00,PENTA,mousesports,dust2,CEVO Professional Season 7,3,16,2,13,1,3,mousesports,22,10,1.58 
+2015,06,25,19:00,mousesports,PENTA,mirage,CEVO Professional Season 7,16,13,9,6,7,7,mousesports,19,17,1.07 
+2015,06,24,22:45,NiP,mousesports,dust2,CEVO Professional Season 7,16,9,8,7,8,2,mousesports,17,20,0.87 
+2015,06,24,22:45,mousesports,NiP,inferno,CEVO Professional Season 7,9,16,8,7,1,9,mousesports,14,18,0.81 
+2015,06,23,18:00,NatusVincere,mousesports,dust2,CEVO Professional Season 7,6,16,6,9,0,7,mousesports,19,13,1.29 
+2015,06,23,18:00,mousesports,NatusVincere,mirage,CEVO Professional Season 7,16,5,10,5,6,0,mousesports,17,10,1.32 
+2015,06,21,19:00,mousesports,TSM,overpass,Counter Pit League,5,16,4,11,1,5,mousesports,15,15,0.94 
+2015,06,21,19:00,TSM,mousesports,cache,Counter Pit League,14,16,9,6,5,10,mousesports,27,19,1.26 
+2015,06,20,22:00,mousesports,FlipSid3,cache,ESL ESEA Pro League Season 1,16,1,14,1,2,0,mousesports,24,9,2.25 
+2015,06,18,23:15,mousesports,fnatic,inferno,ESL ESEA Pro League Season 1,7,16,4,11,3,5,mousesports,20,16,1.13 
+2015,06,18,20:00,NiP,mousesports,overpass,ESL ESEA Pro League Season 1,16,10,9,6,7,4,mousesports,26,20,1.29 
+2015,06,17,21:00,Titan,mousesports,dust2,ESL ESEA Pro League Season 1,13,16,5,10,8,6,mousesports,27,22,1.31 
+2015,06,16,22:10,mousesports,PENTA,mirage,Counter Pit League,16,13,11,4,5,9,mousesports,20,16,1.08 
+2015,06,16,22:10,mousesports,PENTA,dust2,Counter Pit League,10,16,5,10,5,6,mousesports,27,19,1.40 
+2015,06,16,21:15,Virtus.pro,mousesports,inferno,ESL ESEA Pro League Season 1,16,8,10,5,6,3,mousesports,23,21,1.05 
+2015,06,16,20:15,Virtus.pro,mousesports,train,ESL ESEA Pro League Season 1,16,14,7,8,9,6,mousesports,17,23,0.68 
+2015,06,14,18:00,mousesports,HellRaisers,cache,Counter Pit League,16,6,12,3,4,3,mousesports,21,11,1.57 
+2015,06,14,18:00,HellRaisers,mousesports,train,Counter Pit League,16,11,8,7,8,4,mousesports,24,20,1.30 
+2015,06,04,18:00,mousesports,TSM,dust2,Acer Predator Masters powered ..,16,5,12,3,4,2,mousesports,18,11,1.27 
+2015,06,04,18:00,TSM,mousesports,mirage,Acer Predator Masters powered ..,17,19,11,4,4,11,mousesports,22,25,0.82 
+2015,06,03,20:00,Virtus.pro,mousesports,cache,CEVO Professional Season 7,16,14,8,7,8,7,mousesports,21,19,1.04 
+2015,06,03,20:00,mousesports,Virtus.pro,cobblestone,CEVO Professional Season 7,16,11,8,7,8,4,mousesports,26,16,1.42 
+2015,06,02,23:00,mousesports,HellRaisers,train,CEVO Professional Season 7,16,12,10,5,6,7,mousesports,20,23,0.87 
+2015,06,02,23:00,HellRaisers,mousesports,dust2,CEVO Professional Season 7,11,16,6,9,5,7,mousesports,26,19,1.35 
+2015,06,02,19:00,mousesports,Fraternitas,cache,99Damage Arena #8,16,11,13,2,3,9,mousesports,20,22,0.96 
+2015,06,02,19:00,Fraternitas,mousesports,cobblestone,99Damage Arena #8,23,25,9,6,6,9,mousesports,45,34,1.27 
+2015,06,02,19:00,mousesports,Fraternitas,dust2,99Damage Arena #8,17,19,10,5,5,10,mousesports,32,25,1.27 
+2015,05,31,20:15,mousesports,HellRaisers,overpass,FACEIT League 2015 Stage 2 EU ..,8,16,5,10,3,6,mousesports,14,18,0.86 
+2015,05,31,20:15,mousesports,HellRaisers,dust2,FACEIT League 2015 Stage 2 EU ..,13,16,11,4,2,12,mousesports,23,19,1.18 
+2015,05,28,22:15,mousesports,1337,mirage,CEVO Professional Season 7,16,13,11,4,5,9,mousesports,16,23,0.69 
+2015,05,28,22:15,mousesports,1337,dust2,CEVO Professional Season 7,16,9,11,4,5,5,mousesports,16,15,1.05 
+2015,05,28,20:00,TSM,mousesports,cobblestone,ESL ESEA Pro League Season 1,13,16,7,8,6,8,mousesports,25,22,1.06 
+2015,05,28,19:00,NatusVincere,mousesports,train,ESL ESEA Pro League Season 1,16,4,11,4,5,0,mousesports,17,19,0.95 
+2015,05,27,22:30,mousesports,NatusVincere,cache,ESL ESEA Pro League Season 1,14,16,7,8,7,8,mousesports,25,16,1.33 
+2015,05,27,20:00,mousesports,HellRaisers,dust2,ESL ESEA Pro League Season 1,9,16,6,9,3,7,mousesports,14,20,0.77 
+2015,05,26,21:45,mousesports,GPlay,cobblestone,Acer Predator Masters powered ..,16,12,9,6,7,6,mousesports,26,17,1.37 
+2015,05,26,21:45,mousesports,GPlay,cache,Acer Predator Masters powered ..,16,14,7,8,9,6,mousesports,31,19,1.56 
+2015,05,26,20:00,mousesports,NiP,mirage,ESL ESEA Pro League Season 1,10,16,8,7,2,9,mousesports,24,17,1.30 
+2015,05,26,19:00,dignitas,mousesports,overpass,ESL ESEA Pro League Season 1,16,9,11,4,5,5,mousesports,13,21,0.73 
+2015,05,25,21:00,PENTA,mousesports,cobblestone,ESL ESEA Pro League Season 1,2,16,2,13,0,3,mousesports,27,3,2.38 
+2015,05,25,19:15,CPLAY,mousesports,cobblestone,FACEIT League 2015 Stage 2 EU ..,8,16,3,12,5,4,mousesports,32,12,2.13 
+2015,05,25,19:15,CPLAY,mousesports,overpass,FACEIT League 2015 Stage 2 EU ..,10,16,9,6,1,10,mousesports,21,17,1.15 
+2015,05,24,22:00,Acer,mousesports,overpass,Acer Predator Masters powered ..,3,16,3,12,0,4,mousesports,26,13,1.83 
+2015,05,24,22:00,Acer,mousesports,mirage,Acer Predator Masters powered ..,11,16,7,8,4,8,mousesports,25,18,1.32 
+2015,05,24,22:00,Acer,mousesports,dust2,Acer Predator Masters powered ..,16,13,7,8,9,5,mousesports,25,23,1.15 
+2015,05,20,20:15,G2,mousesports,mirage,CEVO Professional Season 7,16,2,13,2,3,0,mousesports,8,16,0.53 
+2015,05,19,22:30,mousesports,Titan,train,ESL ESEA Pro League Season 1,16,8,10,5,6,3,mousesports,27,11,1.77 
+2015,05,19,20:00,mousesports,EnVyUs,mirage,ESL ESEA Pro League Season 1,16,10,6,9,10,1,mousesports,25,12,1.56 
+2015,05,19,18:00,mousesports,G2,cache,Counter Pit League Qualifier,16,10,13,2,3,8,mousesports,27,18,1.43 
+2015,05,19,18:00,G2,mousesports,train,Counter Pit League Qualifier,14,16,12,3,2,13,mousesports,24,20,1.13 
+2015,05,18,22:15,mousesports,LGB,cache,CEVO Professional Season 7,16,10,11,4,5,6,mousesports,28,17,1.58 
+2015,05,18,22:15,LGB,mousesports,mirage,CEVO Professional Season 7,16,8,10,5,6,3,mousesports,17,19,1.03 
+2015,05,18,20:20,mousesports,FlipSid3,overpass,ESL ESEA Pro League Season 1,10,16,7,8,3,8,mousesports,24,21,1.15 
+2015,05,15,18:00,mousesports,GPlay,inferno,Counter Pit League Qualifier,25,23,5,10,10,5,mousesports,40,26,1.29 
+2015,05,15,18:00,mousesports,GPlay,overpass,Counter Pit League Qualifier,16,6,13,2,3,4,mousesports,13,11,1.06 
+2015,05,14,21:00,mousesports,Publiclir.se,mirage,CEVO Professional Season 7,16,5,13,2,3,3,mousesports,31,13,1.99 
+2015,05,14,21:00,Publiclir.se,mousesports,overpass,CEVO Professional Season 7,10,16,6,9,4,7,mousesports,22,15,1.30 
+2015,05,13,21:00,mousesports,PENTA,inferno,99Damage Arena #7,16,7,10,5,6,2,mousesports,27,10,1.90 
+2015,05,13,21:00,PENTA,mousesports,dust2,99Damage Arena #7,13,16,8,7,5,9,mousesports,17,22,0.95 
+2015,05,13,18:00,ESC,mousesports,overpass,99Damage Arena #7,5,16,5,10,0,6,mousesports,26,11,1.84 
+2015,05,13,18:00,ESC,mousesports,cobblestone,99Damage Arena #7,6,16,3,12,3,4,mousesports,23,11,1.68 
+2015,05,12,20:00,mousesports,Titan,cobblestone,CEVO Professional Season 7,9,16,7,8,2,8,mousesports,21,17,1.19 
+2015,05,12,20:00,Titan,mousesports,overpass,CEVO Professional Season 7,11,16,10,5,1,11,mousesports,18,18,0.91 
+2015,05,11,22:00,mousesports,TSM,cobblestone,ESL ESEA Pro League Season 1,10,16,10,5,0,11,mousesports,17,20,0.87 
+2015,05,11,20:00,mousesports,Property,cache,Counter Pit League Qualifier,16,6,10,5,6,1,mousesports,25,10,1.71 
+2015,05,11,20:00,Property,mousesports,cobblestone,Counter Pit League Qualifier,12,16,10,5,2,11,mousesports,26,14,1.52 
+2015,05,07,22:30,mousesports,HellRaisers,dust2,ESL ESEA Pro League Season 1,16,12,5,10,11,2,mousesports,19,18,0.94 
+2015,05,06,20:00,fnatic,mousesports,inferno,ESL ESEA Pro League Season 1,16,6,9,6,7,0,mousesports,19,16,1.23 
+2015,05,05,22:00,mousesports,dignitas,inferno,ESL ESEA Pro League Season 1,6,16,2,13,4,3,mousesports,10,15,0.69 
+2015,05,04,20:00,PENTA,mousesports,cache,ESL ESEA Pro League Season 1,16,10,12,3,4,7,mousesports,17,20,0.89 
+2015,04,22,19:00,PENTA,G2,nuke,Global Offensive Champions Lea..,5,16,5,10,0,6,PENTA,15,18,0.85 
+2015,04,22,18:00,PENTA,G2,mirage,Global Offensive Champions Lea..,4,16,4,11,0,5,PENTA,10,18,0.59 
+2015,04,20,21:15,CPHWolves,PENTA,inferno,Global Offensive Champions Lea..,7,16,6,9,1,7,PENTA,21,12,1.35 
+2015,04,20,20:00,PENTA,CPHWolves,mirage,Global Offensive Champions Lea..,14,16,7,8,7,8,PENTA,28,21,1.30 
+2015,04,19,22:00,PENTA,NatusVincere,dust2,Global Offensive Champions Lea..,18,21,8,7,7,8,PENTA,17,29,0.60 
+2015,04,19,21:00,PENTA,NatusVincere,mirage,Global Offensive Champions Lea..,16,5,10,5,6,0,PENTA,26,7,1.99 
+2015,04,16,21:00,x6tence,PENTA,inferno,99Damage Arena #5,14,16,6,9,8,7,PENTA,23,19,1.17 
+2015,04,16,21:00,x6tence,PENTA,mirage,99Damage Arena #5,23,25,9,6,6,9,PENTA,33,28,1.10 
+2015,04,06,22:15,NatusVincere,PENTA,cache,CCS Kick-off Season Last Chanc..,16,3,12,3,4,0,PENTA,11,16,0.70 
+2015,04,06,22:15,PENTA,NatusVincere,mirage,CCS Kick-off Season Last Chanc..,11,16,6,9,5,7,PENTA,16,21,0.74 
+2015,03,24,21:00,dignitas,PENTA,mirage,Global Offensive Champions Lea..,16,11,8,7,8,4,PENTA,26,20,1.27 
+2015,03,24,20:00,dignitas,PENTA,dust2,Global Offensive Champions Lea..,6,16,6,9,0,7,PENTA,26,10,1.83 
+2015,03,18,17:00,EnVyUs,PENTA,mirage,CCS Kick-off Season,16,8,8,7,8,1,PENTA,21,19,1.05 
+2015,03,18,17:00,EnVyUs,PENTA,inferno,CCS Kick-off Season,18,21,10,5,5,10,PENTA,32,25,1.20 
+2015,03,18,17:00,EnVyUs,PENTA,dust2,CCS Kick-off Season,16,14,8,7,8,7,PENTA,20,24,0.86 
+2015,03,17,19:00,PENTA,NiP,dust2,CCS Kick-off Season,10,16,6,9,4,7,PENTA,15,20,0.75 
+2015,03,17,19:00,NiP,PENTA,nuke,CCS Kick-off Season,16,13,10,5,6,8,PENTA,18,22,0.80 
+2015,03,13,17:00,fnatic,PENTA,cache,ESL One Katowice 2015,16,7,12,3,4,4,PENTA,12,21,0.53 
+2015,03,13,17:00,PENTA,fnatic,inferno,ESL One Katowice 2015,8,16,4,11,4,5,PENTA,18,19,0.84 
+2015,03,12,16:50,PENTA,LGB,dust2,ESL One Katowice 2015,16,12,8,7,8,5,PENTA,20,17,1.06 
+2015,03,12,15:30,PENTA,Titan,cache,ESL One Katowice 2015,16,4,11,4,5,0,PENTA,17,7,1.33 
+2015,03,12,14:46,LGB,PENTA,dust2,ESL One Katowice 2015,16,3,13,2,3,1,PENTA,17,17,1.02 
+2015,03,08,19:00,AliGon,PENTA,inferno,CCS Kick-off Season Closed Qua..,12,16,8,7,4,9,PENTA,24,16,1.21 
+2015,03,08,19:00,AliGon,PENTA,dust2,CCS Kick-off Season Closed Qua..,13,16,8,7,5,9,PENTA,18,17,0.91 
+2015,03,08,19:00,AliGon,PENTA,cache,CCS Kick-off Season Closed Qua..,12,16,6,9,6,7,PENTA,21,17,1.12 
+2015,03,07,22:20,PENTA,CPHWolves,dust2,CCS Kick-off Season Closed Qua..,16,5,11,4,5,1,PENTA,29,8,2.13 
+2015,03,07,22:20,CPHWolves,PENTA,inferno,CCS Kick-off Season Closed Qua..,10,16,9,6,1,10,PENTA,21,21,0.95 
+2015,01,31,18:00,PENTA,HellRaisers,dust2,ASUS ROG Winter 2015,9,16,5,10,4,6,PENTA,9,18,0.55 
+2015,01,31,18:00,HellRaisers,PENTA,mirage,ASUS ROG Winter 2015,16,13,11,4,5,9,PENTA,24,20,1.15 
+2015,01,31,11:00,Titan,PENTA,inferno,ASUS ROG Winter 2015,16,0,15,0,1,0,PENTA,8,16,0.56 
+2015,01,31,11:00,Titan,PENTA,cache,ASUS ROG Winter 2015,16,14,9,6,7,8,PENTA,21,22,0.98 
+2015,01,30,18:55,Virtus.pro,PENTA,mirage,ASUS ROG Winter 2015,9,16,7,8,2,8,PENTA,21,16,1.20 
+2015,01,30,16:00,HellRaisers,PENTA,inferno,ASUS ROG Winter 2015,13,16,8,7,5,9,PENTA,14,18,0.81 
+2015,01,21,21:45,PENTA,HellRaisers,cache,SLTV StarSeries XII,13,16,9,6,4,10,PENTA,15,17,0.83 
+2015,01,21,21:45,PENTA,HellRaisers,inferno,SLTV StarSeries XII,16,8,8,7,8,1,PENTA,17,14,1.10 
+2015,01,21,21:45,HellRaisers,PENTA,mirage,SLTV StarSeries XII,22,20,9,6,6,9,PENTA,36,30,1.14 
+2015,01,20,18:00,PENTA,Deponeret,mirage,SLTV StarSeries XII,11,16,8,7,3,9,PENTA,23,19,1.36 
+2015,01,20,18:00,Deponeret,PENTA,dust2,SLTV StarSeries XII,19,17,7,8,8,7,PENTA,31,23,1.25 
+2015,01,15,19:00,ESC,PENTA,nuke,ESL Pro League Winter 2014/15,16,14,13,2,3,12,PENTA,18,28,0.69 
+2015,01,15,19:00,ESC,PENTA,dust2,ESL Pro League Winter 2014/15,16,6,13,2,3,4,PENTA,12,17,0.75 
+2015,01,15,19:00,PENTA,ESC,mirage,ESL Pro League Winter 2014/15,16,6,10,5,6,1,PENTA,18,9,1.43 
+2015,01,13,20:30,Orbit,PENTA,inferno,99Damage Arena #4,13,16,8,7,5,9,PENTA,29,17,1.39 
+2015,01,13,20:30,PENTA,Orbit,dust2,99Damage Arena #4,16,8,10,5,6,3,PENTA,18,14,1.16 
+2015,01,13,18:00,PENTA,FlipSid3,dust2,99Damage Arena #4,16,6,9,6,7,0,PENTA,25,9,1.91 
+2015,01,13,18:00,FlipSid3,PENTA,inferno,99Damage Arena #4,20,22,7,8,8,7,PENTA,37,26,1.43 
+2015,01,11,15:20,unu.AiN,GEDUKT,overpass,ASUS ROG Winter 2015 Qualifier,9,16,6,9,3,7,GEDUKT,22,18,1.27 
+2015,01,11,15:20,unu.AiN,GEDUKT,dust2,ASUS ROG Winter 2015 Qualifier,12,16,8,7,4,9,GEDUKT,23,14,1.32 
+2015,01,11,14:15,volgare,GEDUKT,inferno,ASUS ROG Winter 2015 Qualifier,7,16,7,8,0,8,GEDUKT,27,12,1.80 
+2014,12,21,20:30,PENTA,Reason,overpass,Acer A-Split Invitational powe..,4,16,3,12,1,4,PENTA,14,16,0.89 
+2014,12,21,20:30,PENTA,Reason,overpass,Acer A-Split Invitational powe..,14,16,5,10,9,6,PENTA,18,19,0.92 
+2014,12,21,20:30,Reason,PENTA,cache,Acer A-Split Invitational powe..,3,16,3,12,0,4,PENTA,18,4,1.60 
+2014,12,21,17:15,PENTA,mousesports,mirage,Acer A-Split Invitational powe..,16,8,9,6,7,2,PENTA,17,14,1.08 
+2014,12,21,17:15,PENTA,mousesports,cache,Acer A-Split Invitational powe..,10,16,6,9,4,7,PENTA,15,17,0.90 
+2014,12,21,17:15,PENTA,mousesports,dust2,Acer A-Split Invitational powe..,16,12,11,4,5,8,PENTA,20,17,1.04 
+2014,12,21,13:00,Reason,PENTA,overpass,Acer A-Split Invitational powe..,16,14,8,7,8,7,PENTA,27,21,1.31 
+2014,12,21,13:00,Reason,PENTA,mirage,Acer A-Split Invitational powe..,16,2,13,2,3,0,PENTA,7,17,0.40 
+2014,12,20,19:25,Virtus.pro,PENTA,mirage,Acer A-Split Invitational powe..,16,11,9,6,7,5,PENTA,20,23,0.93 
+2014,12,20,19:25,PENTA,Virtus.pro,cache,Acer A-Split Invitational powe..,8,16,4,11,4,5,PENTA,16,17,1.04 
+2014,12,20,19:25,Virtus.pro,PENTA,dust2,Acer A-Split Invitational powe..,11,16,9,6,2,10,PENTA,25,17,1.30 
+2014,12,20,17:20,PENTA,myKPV,mirage,Acer A-Split Invitational powe..,16,4,11,4,5,0,PENTA,26,10,2.02 
+2014,12,20,17:20,PENTA,myKPV,inferno,Acer A-Split Invitational powe..,16,1,14,1,2,0,PENTA,17,7,1.73 
+2014,12,20,15:15,PENTA,dotpiXels,cache,Acer A-Split Invitational powe..,16,11,12,3,4,8,PENTA,17,17,1.00 
+2014,12,20,15:15,dotpiXels,PENTA,dust2,Acer A-Split Invitational powe..,8,16,5,10,3,6,PENTA,20,11,1.26 
+2014,12,19,19:30,Planetkey,mousesports,dust2,Acer A-Split Invitational powe..,11,16,5,10,6,6,Planetkey,12,14,0.83 
+2014,12,19,19:30,mousesports,Planetkey,cache,Acer A-Split Invitational powe..,16,11,13,2,3,9,Planetkey,19,18,1.01 
+2014,12,19,19:30,mousesports,Planetkey,overpass,Acer A-Split Invitational powe..,13,16,8,7,5,9,Planetkey,25,16,1.33 
+2014,12,19,16:15,Planetkey,Reason,inferno,Acer A-Split Invitational powe..,8,16,5,10,3,6,Planetkey,16,20,0.84 
+2014,12,19,16:15,Planetkey,Reason,dust2,Acer A-Split Invitational powe..,16,9,8,7,8,2,Planetkey,17,16,0.95 
+2014,12,19,16:15,Reason,Planetkey,overpass,Acer A-Split Invitational powe..,16,11,12,3,4,8,Planetkey,18,17,1.01 
+2014,12,17,19:02,Planetkey,CPHWolves,inferno,ESL Pro League Winter 2014/15,5,16,5,10,0,6,Planetkey,11,15,0.70 
+2014,12,17,19:00,Planetkey,CPHWolves,dust2,ESL Pro League Winter 2014/15,13,16,8,7,5,9,Planetkey,25,19,1.34 
+2014,12,13,18:05,mousesports,Planetkey,mirage,ESL Pro Series Germany Winter ..,3,16,3,12,0,4,Planetkey,21,9,1.73 
+2014,12,13,18:05,Planetkey,mousesports,dust2,ESL Pro Series Germany Winter ..,12,16,7,8,5,8,Planetkey,17,19,0.89 
+2014,12,13,18:05,Planetkey,mousesports,overpass,ESL Pro Series Germany Winter ..,21,18,6,9,9,6,Planetkey,35,25,1.31 
+2014,12,13,13:15,Planetkey,dotpiXels,inferno,ESL Pro Series Germany Winter ..,16,9,9,6,7,3,Planetkey,30,16,1.78 
+2014,12,13,13:15,Planetkey,dotpiXels,dust2,ESL Pro Series Germany Winter ..,16,3,12,3,4,0,Planetkey,21,8,1.85 
+2014,11,27,22:35,Planetkey,ESC,mirage,DreamHack Winter 2014,13,16,6,9,7,7,Planetkey,17,22,0.73 
+2014,11,27,20:15,NiP,Planetkey,overpass,DreamHack Winter 2014,16,2,13,2,3,0,Planetkey,7,17,0.37 
+2014,11,24,20:30,Planetkey,CPHWolves,nuke,99Damage Arena #1,12,16,6,9,6,7,Planetkey,16,18,0.87 
+2014,11,24,20:30,Planetkey,CPHWolves,inferno,99Damage Arena #1,11,16,9,6,2,10,Planetkey,9,18,0.58 
+2014,11,24,18:30,Planetkey,k1ck,nuke,99Damage Arena #1,16,3,13,2,3,1,Planetkey,12,7,1.17 
+2014,11,24,17:55,Planetkey,k1ck,dust2,99Damage Arena #1,16,9,8,7,8,2,Planetkey,20,17,1.03 
+2014,11,12,18:00,Planetkey,Cloud9,mirage,Caseking King of Kings,12,16,6,9,6,7,Planetkey,24,19,1.16 
+2014,11,12,18:00,Planetkey,Cloud9,dust2,Caseking King of Kings,14,16,9,6,5,10,Planetkey,18,17,0.93 
+2014,11,11,18:15,NiP,Planetkey,dust2,Caseking King of Kings,16,5,13,2,3,3,Planetkey,13,19,0.68 
+2014,11,10,20:30,PlayingDucks,Planetkey,dust2,ESL Pro Series Germany Winter ..,8,16,4,11,4,5,Planetkey,26,12,1.65 
+2014,11,10,19:10,myKPV,Planetkey,nuke,ESL Pro Series Germany Winter ..,5,16,4,11,1,5,Planetkey,22,11,1.60 
+2014,10,30,18:00,Virtus.pro,Planetkey,nuke,ESWC 2014,16,5,14,1,2,4,Planetkey,10,20,0.49 
+2014,10,30,16:30,Planetkey,AlienTech,nuke,ESWC 2014,16,3,12,3,4,0,Planetkey,13,10,0.99 
+2014,10,30,13:00,Planetkey,VirtualImpact,mirage,ESWC 2014,16,6,11,4,5,2,Planetkey,18,12,1.45 
+2014,10,30,11:50,Planetkey,LDLC,overpass,ESWC 2014,9,16,6,9,3,7,Planetkey,20,19,1.03 
+2014,10,30,09:55,Planetkey,Cloud9,inferno,ESWC 2014,10,16,5,10,5,6,Planetkey,14,20,0.75 
+2014,10,21,23:00,Planetkey,FlipSid3,dust2,DreamHack Winter 2014 EU Close..,16,5,10,5,6,0,Planetkey,26,10,1.79 
+2014,10,21,23:00,Planetkey,FlipSid3,inferno,DreamHack Winter 2014 EU Close..,16,4,13,2,3,2,Planetkey,18,12,1.31 
+2014,10,21,18:00,Planetkey,mousesports,overpass,DreamHack Winter 2014 EU Close..,16,9,13,2,3,7,Planetkey,24,13,1.38 
+2014,10,21,18:00,Planetkey,mousesports,mirage,DreamHack Winter 2014 EU Close..,16,14,7,8,9,6,Planetkey,20,19,0.98 
+2014,10,19,21:00,Planetkey,MTW,inferno,DreamHack Winter 2014 EU pre-q..,16,9,7,8,9,1,Planetkey,17,14,1.07 
+2014,09,28,20:40,Planetkey,Orbit,inferno,Fragbite Masters Season 3 Qual..,16,7,10,5,6,2,Planetkey,16,14,1.03 
+2014,09,28,20:40,Planetkey,Orbit,mirage,Fragbite Masters Season 3 Qual..,16,7,9,6,7,1,Planetkey,14,12,0.95 
+2014,09,28,18:00,Outbreak,Planetkey,inferno,Fragbite Masters Season 3 Qual..,12,16,9,6,3,10,Planetkey,29,18,1.43 
+2014,09,17,21:20,3DMAX,Planetkey,nuke,Game Show CS:GO League,16,14,8,7,8,7,Planetkey,22,19,1.05 
+2014,09,17,20:00,Planetkey,dAT,nuke,Game Show CS:GO League,14,16,10,5,4,11,Planetkey,26,22,1.15 
+2014,09,16,21:15,HellRaisers,Planetkey,mirage,Game Show CS:GO League,22,19,9,6,6,9,Planetkey,30,31,0.99 
+2014,09,06,18:00,mousesports,Planetkey,mirage,ESL Pro Series Germany Summer ..,12,16,10,5,2,11,Planetkey,24,16,1.45 
+2014,09,06,18:00,Planetkey,mousesports,inferno,ESL Pro Series Germany Summer ..,14,16,10,5,4,11,Planetkey,24,16,1.33 
+2014,09,06,18:00,mousesports,Planetkey,dust2,ESL Pro Series Germany Summer ..,13,16,7,8,6,8,Planetkey,20,17,0.95 
+2014,09,06,13:00,Planetkey,MTW,nuke,ESL Pro Series Germany Summer ..,16,5,11,4,5,1,Planetkey,23,9,1.71 
+2014,09,06,13:00,Planetkey,MTW,dust2,ESL Pro Series Germany Summer ..,16,12,12,3,4,9,Planetkey,19,15,1.15 
+2014,08,04,20:40,Planetkey,ALTERNATEaTTaX,dust2,ESL Pro Series Germany Summer ..,16,8,10,5,6,3,Planetkey,9,16,0.63 
+2014,08,04,19:00,team,Planetkey,inferno,ESL Pro Series Germany Summer ..,12,16,6,9,6,7,Planetkey,20,18,1.05 
+2014,07,27,13:00,Planetkey,NatusVincere,mirage,ESL One Cologne 2014 European ..,22,26,10,5,5,10,Planetkey,34,33,0.96 
+2014,07,27,13:00,Planetkey,NatusVincere,inferno,ESL One Cologne 2014 European ..,10,16,7,8,3,8,Planetkey,13,20,0.67 
+2014,07,26,18:00,Planetkey,tomtebloss,dust2,ESL One Cologne 2014 European ..,16,2,13,2,3,0,Planetkey,17,5,1.86 
+2014,07,26,18:00,Planetkey,tomtebloss,inferno,ESL One Cologne 2014 European ..,16,7,10,5,6,2,Planetkey,16,9,1.31 
+2014,07,26,15:45,Planetkey,ENCORE,inferno,ESL One Cologne 2014 European ..,13,16,8,7,5,9,Planetkey,24,21,1.18 
+2014,07,26,15:45,ENCORE,Planetkey,nuke,ESL One Cologne 2014 European ..,16,11,10,5,6,6,Planetkey,18,20,0.88 
+2014,07,19,11:50,LDLC,Planetkey,inferno,DreamHack Valencia 2014,16,10,11,4,5,6,Planetkey,17,21,0.81 
+2014,07,19,11:50,LDLC,Planetkey,dust2,DreamHack Valencia 2014,16,12,10,5,6,7,Planetkey,25,19,1.44 
+2014,07,19,11:50,LDLC,Planetkey,nuke,DreamHack Valencia 2014,14,16,12,3,2,13,Planetkey,21,19,1.08 
+2014,07,18,16:15,Planetkey,Hybrid,mirage,DreamHack Valencia 2014,16,13,6,9,10,4,Planetkey,29,20,1.57 
+2014,07,18,14:00,Planetkey,HellRaisers,nuke,DreamHack Valencia 2014,14,16,9,6,5,10,Planetkey,19,21,0.83 
+2014,07,18,12:25,Planetkey,Hybrid,nuke,DreamHack Valencia 2014,16,2,13,2,3,0,Planetkey,20,8,1.67 

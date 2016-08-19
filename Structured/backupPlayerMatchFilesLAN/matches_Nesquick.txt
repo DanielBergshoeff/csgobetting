@@ -1,0 +1,3 @@
+2016,03,24,17:00,EasternVikings,Isak,inferno,Copenhagen Games 2016 BYOC Qua..,14,16,6,9,8,7,Eastern Vikings,16,20,0.79 
+2016,03,24,15:30,WarMonkeys,EasternVikings,cobblestone,Copenhagen Games 2016 BYOC Qua..,12,16,7,8,5,8,Eastern Vikings,28,15,1.48 
+2016,03,24,13:00,EasternVikings,Fragsters,dust2,Copenhagen Games 2016 BYOC Qua..,13,16,5,10,8,6,Eastern Vikings,12,18,0.72 

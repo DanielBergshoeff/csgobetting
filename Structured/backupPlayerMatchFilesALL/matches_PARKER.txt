@@ -1,0 +1,5 @@
+2016,03,25,04:30,DSS,BootyClappers,train,Razer Rising Stars NA League Q..,11,16,9,6,2,10,DSS,20,22,0.88 
+2015,09,17,20:15,Russia,Turkey,mirage,World Championships 2015 Europ..,3,16,3,12,0,4,Turkey,23,7,2.11 
+2015,09,17,19:15,Turkey,UnitedKingdom,mirage,World Championships 2015 Europ..,16,9,8,7,8,2,Turkey,20,12,1.32 
+2015,09,17,18:00,Turkey,Germany,cache,World Championships 2015 Europ..,10,16,9,6,1,10,Turkey,7,20,0.46 
+2014,10,12,23:15,France,Turkey,dust2,European Championship 2014,16,5,10,5,6,0,Turkey,18,18,1.11 

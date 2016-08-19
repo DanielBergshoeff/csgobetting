@@ -1,0 +1,2 @@
+2015,12,12,15:00,UbS,Ventus,inferno,BHG CS:GO Tournament,6,16,4,11,2,5,UbS,11,22,0.47 
+2015,12,12,15:00,Ventus,UbS,mirage,BHG CS:GO Tournament,16,1,15,0,1,1,UbS,3,15,0.24 

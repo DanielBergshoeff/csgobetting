@@ -1,0 +1,26 @@
+2016,02,06,16:40,EYESONU,EURONICS,overpass,99Damage League Season 2,16,5,10,5,6,0,EYES ON U,15,14,1.06 
+2016,02,06,16:40,EURONICS,EYESONU,inferno,99Damage League Season 2,13,16,3,12,10,4,EYES ON U,19,15,1.04 
+2016,02,06,16:40,EYESONU,EURONICS,dust2,99Damage League Season 2,13,16,7,8,6,8,EYES ON U,16,22,0.76 
+2016,02,06,14:00,PENTA,EYESONU,dust2,99Damage League Season 2,16,7,9,6,7,1,EYES ON U,15,19,0.84 
+2016,02,06,14:00,PENTA,EYESONU,mirage,99Damage League Season 2,16,10,9,6,7,4,EYES ON U,13,22,0.72 
+2016,01,20,18:30,EYESONU,ELTZ,mirage,D!ngIT $2000 Weekly Cup #34,10,16,7,8,3,8,EYES ON U,11,21,0.60 
+2016,01,19,18:30,AlienTech,EYESONU,cobblestone,D!ngIT $2000 Weekly Cup #34,16,8,8,7,8,1,EYES ON U,9,19,0.51 
+2016,01,19,18:30,AlienTech,EYESONU,cache,D!ngIT $2000 Weekly Cup #34,16,8,9,6,7,2,EYES ON U,17,21,0.84 
+2016,01,19,18:30,EYESONU,AlienTech,inferno,D!ngIT $2000 Weekly Cup #34,16,12,12,3,4,9,EYES ON U,13,17,0.85 
+2015,12,22,22:15,EYESONU,enable,inferno,D!ngIT $2000 Weekly Cup #31,9,16,8,7,1,9,EYES ON U,18,20,0.93 
+2015,12,21,22:00,Nostalgie,EYESONU,mirage,D!ngIT $2000 Weekly Cup #31,14,16,5,10,9,6,EYES ON U,22,19,1.07 
+2015,12,17,21:00,EURONICS,EYESONU,dust2,99Damage League Season 2,6,16,3,12,3,4,EYES ON U,9,11,0.86 
+2015,12,17,21:00,EURONICS,EYESONU,cobblestone,99Damage League Season 2,16,9,8,7,8,2,EYES ON U,15,19,0.84 
+2015,12,16,19:00,PENTA,EYESONU,dust2,99Damage League Season 2,16,12,9,6,7,6,EYES ON U,12,22,0.66 
+2015,12,16,19:00,PENTA,EYESONU,mirage,99Damage League Season 2,13,16,9,6,4,10,EYES ON U,30,22,1.46 
+2015,12,08,19:00,EYESONU,LDLCBlue,overpass,99Damage Arena #17,14,16,10,5,4,11,EYES ON U,22,22,1.02 
+2015,12,08,19:00,LDLCBlue,EYESONU,mirage,99Damage Arena #17,2,16,2,13,0,3,EYES ON U,16,7,1.40 
+2015,12,08,19:00,LDLCBlue,EYESONU,cobblestone,99Damage Arena #17,16,2,13,2,3,0,EYES ON U,9,17,0.53 
+2015,12,07,18:00,EYESONU,Expert,dust2,99Damage Arena #17,16,12,9,6,7,6,EYES ON U,17,13,1.07 
+2015,12,07,18:00,Expert,EYESONU,mirage,99Damage Arena #17,16,14,9,6,7,8,EYES ON U,31,15,1.70 
+2015,12,07,18:00,Expert,EYESONU,cobblestone,99Damage Arena #17,11,16,7,8,4,8,EYES ON U,17,13,1.08 
+2015,11,25,19:00,PlayingDucks,EYESONU,cobblestone,99Damage League Season 2,10,16,3,12,7,4,EYES ON U,23,12,1.47 
+2015,11,25,19:00,PlayingDucks,EYESONU,mirage,99Damage League Season 2,16,19,5,10,10,5,EYES ON U,32,20,1.45 
+2015,09,13,12:00,NightRaid,SK,overpass,DreamHack Open Cluj-Napoca 201..,10,16,7,8,3,8,Night Raid,13,24,0.55 
+2015,09,13,12:00,NightRaid,SK,inferno,DreamHack Open Cluj-Napoca 201..,4,16,2,13,2,3,Night Raid,5,17,0.36 
+2015,09,12,19:45,KappaKappa,NightRaid,inferno,DreamHack Open Cluj-Napoca 201..,13,16,4,) (,:,),Night Raid,25,19,1.20 

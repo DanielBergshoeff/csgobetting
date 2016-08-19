@@ -1,0 +1,5 @@
+2014,11,12,20:30,Cloud9,Epsilon,dust2,Caseking King of Kings,16,9,11,4,5,5,Epsilon,11,19,0.61 
+2014,11,12,20:30,Cloud9,Epsilon,inferno,Caseking King of Kings,16,14,10,5,6,9,Epsilon,15,18,0.88 
+2014,11,11,20:50,NiP,Epsilon,cache,Caseking King of Kings,19,16,10,5,5,10,Epsilon,17,27,0.66 
+2014,11,11,20:50,NiP,Epsilon,dust2,Caseking King of Kings,16,3,13,2,3,1,Epsilon,4,17,0.26 
+2014,11,11,20:34,Cloud9,Epsilon,inferno,Caseking King of Kings,10,16,8,7,2,9,Epsilon,15,17,0.83 

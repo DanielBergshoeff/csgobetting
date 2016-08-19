@@ -1,0 +1,3 @@
+2014,10,19,21:00,ProGaming.TD,KaBuM.TD,inferno,BenQ All-Star Showmatch #1,12,16,8,7,4,9,ProGaming.TD,18,17,1.01 
+2014,10,19,21:00,KaBuM.TD,ProGaming.TD,mirage,BenQ All-Star Showmatch #1,16,10,9,6,7,4,ProGaming.TD,14,22,0.64 
+2014,10,19,21:00,KaBuM.TD,ProGaming.TD,dust2,BenQ All-Star Showmatch #1,14,16,6,9,8,7,ProGaming.TD,20,19,0.99 

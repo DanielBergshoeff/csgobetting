@@ -1,0 +1,20 @@
+2016,07,02,11:15,WEGOTGAME,LDLC,dust2,ESL National Championship Fran..,10,16,4,11,6,5,WE GOT GAME,18,19,0.95 
+2016,07,02,11:15,LDLC,WEGOTGAME,cache,ESL National Championship Fran..,16,12,4,11,12,1,WE GOT GAME,26,19,1.39 
+2016,06,09,18:00,Tricked,WEGOTGAME,dust2,owayo Masters I,16,12,7,8,9,4,WE GOT GAME,14,17,0.78 
+2016,06,09,18:00,Tricked,WEGOTGAME,cobblestone,owayo Masters I,8,16,2,13,6,3,WE GOT GAME,17,13,1.21 
+2016,06,09,18:00,WEGOTGAME,Tricked,train,owayo Masters I,14,16,12,3,2,13,WE GOT GAME,25,20,1.28 
+2016,06,06,20:00,MeMyself&I,WeGotGame,mirage,UnderDogs #3,16,5,11,4,5,1,WeGotGame,9,17,0.57 
+2016,06,06,20:00,WeGotGame,MeMyself&I,cobblestone,UnderDogs #3,11,16,4,11,7,5,WeGotGame,14,24,0.57 
+2016,05,30,20:30,WeGotGame,E-Corp,mirage,UnderDogs #3,16,10,10,5,6,5,WeGotGame,22,18,1.09 
+2016,05,30,20:30,WeGotGame,E-Corp,train,UnderDogs #3,16,5,11,4,5,1,WeGotGame,24,12,1.72 
+2016,04,30,18:05,WEGOTGAME,GameAgents,mirage,DreamHack Regional Minor Champ..,12,16,5,10,7,6,WE GOT GAME,21,19,1.03 
+2016,03,20,13:00,FlipSid3,WEGOTGAME,cobblestone,DreamHack Masters Malmö 2016 E..,16,4,12,3,4,1,WE GOT GAME,10,19,0.52 
+2016,03,20,13:00,WEGOTGAME,FlipSid3,train,DreamHack Masters Malmö 2016 E..,8,16,3,12,5,4,WE GOT GAME,8,21,0.48 
+2016,03,19,18:45,Tricked,WEGOTGAME,mirage,DreamHack Masters Malmö 2016 E..,13,16,8,7,5,9,WE GOT GAME,19,17,1.01 
+2016,03,09,20:15,miMo,WEGOTGAME,train,Razer Rising Stars European Le..,16,13,12,3,4,10,WE GOT GAME,21,23,0.93 
+2015,09,18,21:30,WEGOTGAME,DeadPixels,cache,LevelDown Championship,22,19,11,4,4,11,WE GOT GAME,40,27,1.39 
+2015,09,18,21:30,DeadPixels,WEGOTGAME,dust2,LevelDown Championship,4,16,2,13,2,3,WE GOT GAME,19,11,1.39 
+2015,09,17,19:30,WEGOTGAME,melty,dust2,LevelDown Championship,16,12,13,2,3,10,WE GOT GAME,14,18,0.77 
+2015,09,17,19:30,melty,WEGOTGAME,inferno,LevelDown Championship,12,16,9,6,3,10,WE GOT GAME,16,18,0.83 
+2015,09,16,21:30,RedInstinct,WEGOTGAME,cobblestone,LevelDown Championship,13,16,4,11,9,5,WE GOT GAME,15,19,0.81 
+2014,08,24,22:15,Imaginary,ttc,mirage,FACEIT League 2 EU pre-qualifi..,13,16,7,8,6,8,Imaginary,22,23,1.02 

@@ -1,0 +1,18 @@
+2016,06,26,20:00,eXtatus,eSuba,overpass,RoG Finals 10,16,5,13,2,3,3,eSuba,10,19,0.56 
+2016,06,26,20:00,eXtatus,eSuba,mirage,RoG Finals 10,16,11,10,5,6,6,eSuba,28,21,1.43 
+2016,06,26,20:00,eXtatus,eSuba,dust2,RoG Finals 10,14,16,13,2,1,14,eSuba,24,20,1.19 
+2016,06,25,19:30,eSuba,Inside,overpass,RoG Finals 10,16,4,11,4,5,0,eSuba,24,8,1.81 
+2016,06,25,19:30,eSuba,Inside,mirage,RoG Finals 10,16,4,11,4,5,0,eSuba,21,9,1.53 
+2016,05,21,18:00,eSuba,GUNRUNNERS,cache,PLAYzone League I LAN Finals,16,5,11,4,5,1,eSuba,23,10,1.65 
+2016,05,21,18:00,eSuba,GUNRUNNERS,mirage,PLAYzone League I LAN Finals,16,9,13,2,3,7,eSuba,27,11,1.75 
+2016,05,21,18:00,GUNRUNNERS,eSuba,dust2,PLAYzone League I LAN Finals,16,12,9,6,7,6,eSuba,22,19,1.13 
+2016,05,21,10:45,eXtatus,eSuba,dust2,PLAYzone League I LAN Finals,16,14,9,6,7,8,eSuba,25,22,1.09 
+2016,05,21,10:45,eXtatus,eSuba,mirage,PLAYzone League I LAN Finals,16,14,5,10,11,4,eSuba,22,20,1.04 
+2016,05,01,14:45,eSuba,GUNRUNNERS,mirage,TIGER MASTERS Mid-season Final..,12,16,9,6,3,10,eSuba,17,19,0.87 
+2016,05,01,14:45,GUNRUNNERS,eSuba,cache,TIGER MASTERS Mid-season Final..,16,14,5,10,11,4,eSuba,22,22,1.10 
+2015,12,20,19:00,MajesticLions,nEophyte,overpass,ASUS Finals 9,6,16,3,12,3,4,Majestic Lions,18,17,1.03 
+2015,12,20,19:00,MajesticLions,nEophyte,inferno,ASUS Finals 9,16,13,8,7,8,6,Majestic Lions,23,20,1.22 
+2015,12,20,19:00,nEophyte,MajesticLions,cache,ASUS Finals 9,16,7,11,4,5,3,Majestic Lions,18,18,1.03 
+2015,12,19,17:30,MajesticLions,eSuba,inferno,ASUS Finals 9,22,18,6,9,9,6,Majestic Lions,32,26,1.20 
+2015,12,19,17:30,eSuba,MajesticLions,mirage,ASUS Finals 9,12,16,10,5,2,11,Majestic Lions,29,16,1.57 
+2015,12,19,17:30,eSuba,MajesticLions,dust2,ASUS Finals 9,16,11,8,7,8,4,Majestic Lions,28,17,1.53 

@@ -1,0 +1,8 @@
+2016,08,07,12:00,nGse,Emc,dust2,ROG CS:GO Hong Kong Tournament,6,16,6,9,0,7,nGse,16,20,0.87 
+2016,08,07,12:00,nGse,Emc,mirage,ROG CS:GO Hong Kong Tournament,5,16,5,10,0,6,nGse,14,18,0.78 
+2016,08,07,09:55,nGse,PewPewX,overpass,ROG CS:GO Hong Kong Tournament,16,14,8,7,8,7,nGse,33,19,1.59 
+2016,08,07,09:55,nGse,PewPewX,mirage,ROG CS:GO Hong Kong Tournament,16,7,13,2,3,5,nGse,24,12,1.56 
+2016,08,07,09:55,nGse,PewPewX,nuke,ROG CS:GO Hong Kong Tournament,9,16,5,10,4,6,nGse,19,20,0.96 
+2015,09,18,16:50,MiraculousHawks,Insidious,dust2,MixBOT Pro-League Invite Seaso..,9,16,6,9,3,7,Miraculous Hawks,21,19,1.04 
+2015,09,18,15:30,inchk1ng,MiraculousHawks,dust2,MixBOT Pro-League Invite Seaso..,8,16,6,9,2,7,Miraculous Hawks,24,15,1.41 
+2015,09,11,17:30,AbsoluteTerror,MiraculousHawks,dust2,MixBOT Pro-League Invite Seaso..,16,1,14,1,2,0,Miraculous Hawks,4,17,0.23 

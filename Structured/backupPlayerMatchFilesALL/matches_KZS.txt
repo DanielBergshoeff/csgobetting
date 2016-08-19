@@ -1,0 +1,5 @@
+2016,05,23,22:00,beGenius,Evokate,train,UnderDogs #3,16,11,11,4,5,7,Evokate,16,22,0.78 
+2016,05,23,22:00,Evokate,beGenius,dust2,UnderDogs #3,13,16,5,10,8,6,Evokate,25,20,1.37 
+2015,09,18,19:30,RedInstinct,melty,cache,LevelDown Championship,16,12,10,5,6,7,melty,17,21,0.86 
+2015,09,17,19:30,WEGOTGAME,melty,dust2,LevelDown Championship,16,12,13,2,3,10,melty,11,20,0.60 
+2015,09,17,19:30,melty,WEGOTGAME,inferno,LevelDown Championship,12,16,9,6,3,10,melty,20,20,0.95 

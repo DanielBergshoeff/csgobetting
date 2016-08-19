@@ -1,0 +1,4 @@
+2016,08,11,16:00,Latvia,Albania,dust2,World Championships 2016 Europ..,16,7,13,2,3,5,Albania,18,18,1.03 
+2016,08,11,16:00,Albania,Latvia,cache,World Championships 2016 Europ..,10,16,6,9,4,7,Albania,13,20,0.65 
+2015,08,11,17:00,Albania,Iceland,mirage,World Championships 2015 Europ..,3,16,3,12,0,4,Albania,8,15,0.55 
+2015,08,11,17:00,Iceland,Albania,dust2,World Championships 2015 Europ..,16,3,12,3,4,0,Albania,5,16,0.38 

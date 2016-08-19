@@ -1,0 +1,5 @@
+2015,08,14,15:00,SouthAfrica,Libya,cobblestone,World Championships 2015 Afric..,6,16,6,9,0,7,South Africa,17,18,1.11 
+2015,08,14,14:00,SouthAfrica,Algeria,dust2,World Championships 2015 Afric..,1,16,1,14,0,2,South Africa,6,16,0.38 
+2015,08,14,13:00,Morocco,SouthAfrica,dust2,World Championships 2015 Afric..,16,2,13,2,3,0,South Africa,6,17,0.42 
+2015,08,13,15:00,Tunisia,SouthAfrica,inferno,World Championships 2015 Afric..,16,1,14,1,2,0,South Africa,4,16,0.24 
+2015,08,13,14:00,SouthAfrica,Egypt,cache,World Championships 2015 Afric..,3,16,3,12,0,4,South Africa,12,16,0.75 

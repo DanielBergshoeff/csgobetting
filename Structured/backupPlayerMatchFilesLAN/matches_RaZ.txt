@@ -1,0 +1,17 @@
+2016,07,24,09:50,Parallax,AthleticoBH,dust2,ESL Australia & NZ Championshi..,9,16,5,10,4,6,Parallax,20,16,1.24 
+2016,07,24,09:50,Parallax,AthleticoBH,mirage,ESL Australia & NZ Championshi..,11,16,4,11,7,5,Parallax,18,18,0.96 
+2016,07,24,04:15,Chiefs,Parallax,train,ESL Australia & NZ Championshi..,12,16,6,9,6,7,Parallax,25,19,1.15 
+2016,07,24,04:15,Chiefs,Parallax,mirage,ESL Australia & NZ Championshi..,16,8,11,4,5,4,Parallax,21,15,1.23 
+2016,07,24,04:15,Parallax,Chiefs,cache,ESL Australia & NZ Championshi..,16,12,10,5,6,7,Parallax,16,18,0.85 
+2016,07,23,08:00,Parallax,AthleticoBH,overpass,ESL Australia & NZ Championshi..,16,1,14,1,2,0,Parallax,16,8,1.49 
+2016,07,23,08:00,AthleticoBH,Parallax,cache,ESL Australia & NZ Championshi..,2,16,2,13,0,3,Parallax,17,10,1.51 
+2015,11,27,12:00,Legacy,Liquid,cache,FACEIT League 2015 Stage 3 Fin..,11,16,7,8,4,8,Legacy,15,21,0.77 
+2015,11,27,12:00,Legacy,Liquid,cobblestone,FACEIT League 2015 Stage 3 Fin..,8,16,3,12,5,4,Legacy,13,17,0.76 
+2015,11,26,13:00,Virtus.pro,Legacy,cobblestone,FACEIT League 2015 Stage 3 Fin..,16,12,9,6,7,6,Legacy,15,20,0.83 
+2015,10,19,00:35,SetToDestroyX,SuckBrickKids,mirage,Fragadelphia 6,13,16,10,5,3,11,SetToDestroyX,19,25,0.80 
+2015,10,18,22:00,SetToDestroyX,Forbidden,cobblestone,Fragadelphia 6,16,12,11,4,5,8,SetToDestroyX,17,18,1.13 
+2015,10,18,18:40,SetToDestroyX,WinOut.net,overpass,Fragadelphia 6,13,16,6,9,7,7,SetToDestroyX,28,22,1.26 
+2015,10,18,18:40,SetToDestroyX,WinOut.net,cobblestone,Fragadelphia 6,25,22,7,8,8,7,SetToDestroyX,39,35,1.17 
+2015,10,18,18:40,WinOut.net,SetToDestroyX,mirage,Fragadelphia 6,16,3,14,1,2,2,SetToDestroyX,11,18,0.59 
+2015,10,18,03:55,ReapWhatYouSow,SetToDestroyX,dust2,Fragadelphia 6,9,16,8,7,1,9,SetToDestroyX,19,13,1.26 
+2015,10,18,03:55,SetToDestroyX,ReapWhatYouSow,cobblestone,Fragadelphia 6,16,3,13,2,3,1,SetToDestroyX,12,11,0.93 

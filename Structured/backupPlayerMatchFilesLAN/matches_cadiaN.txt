@@ -1,0 +1,97 @@
+2016,08,05,15:15,Epsilon,Escape,mirage,ASUS ROG Summer 2016,16,10,12,3,4,7,Escape,21,20,1.20 
+2016,08,05,15:15,Epsilon,Escape,nuke,ASUS ROG Summer 2016,16,8,12,3,4,5,Escape,19,22,0.90 
+2016,08,05,15:15,Epsilon,Escape,dust2,ASUS ROG Summer 2016,11,16,7,8,4,8,Escape,32,15,1.89 
+2016,08,05,13:45,Millenium,Escape,mirage,ASUS ROG Summer 2016,16,13,8,7,8,6,Escape,23,19,1.10 
+2016,08,05,11:45,Escape,LGR,cobblestone,ASUS ROG Summer 2016,16,11,9,6,7,5,Escape,18,18,0.96 
+2016,06,16,20:00,TSM,fnatic,cobblestone,ELEAGUE Season 1,6,16,1,14,5,2,TSM,11,18,0.75 
+2016,06,16,20:00,TSM,fnatic,mirage,ELEAGUE Season 1,16,11,11,4,5,7,TSM,21,17,1.15 
+2016,06,16,20:00,fnatic,TSM,cache,ELEAGUE Season 1,16,12,9,6,7,6,TSM,16,22,0.82 
+2016,06,15,23:50,dignitas,TSM,dust2,ELEAGUE Season 1,16,11,13,2,3,9,TSM,19,19,1.09 
+2016,06,15,22:30,TSM,dignitas,mirage,ELEAGUE Season 1,12,16,7,8,5,8,TSM,22,17,1.16 
+2016,06,15,19:20,FaZe,TSM,train,ELEAGUE Season 1,16,12,9,6,7,6,TSM,15,19,0.77 
+2016,06,15,18:00,TSM,FaZe,cobblestone,ELEAGUE Season 1,13,16,4,11,9,5,TSM,22,19,1.06 
+2016,06,14,19:15,fnatic,TSM,mirage,ELEAGUE Season 1,16,3,14,1,2,2,TSM,10,16,0.66 
+2016,06,14,18:00,fnatic,TSM,cache,ELEAGUE Season 1,16,13,11,4,5,9,TSM,19,20,0.92 
+2016,05,14,13:30,Epsilon,SK,overpass,DreamHack Regional Minor Champ..,16,14,8,7,8,7,SK,21,19,1.04 
+2016,05,14,12:00,Orbit,SK,cobblestone,DreamHack Regional Minor Champ..,16,6,11,4,5,2,SK,10,20,0.53 
+2016,03,25,18:30,HellRaisers,Preparation,cobblestone,Copenhagen Games 2016,16,8,9,6,7,2,Preparation,13,18,0.90 
+2016,03,25,18:30,HellRaisers,Preparation,mirage,Copenhagen Games 2016,17,19,8,7,7,8,Preparation,26,27,1.05 
+2016,03,25,18:30,HellRaisers,Preparation,dust2,Copenhagen Games 2016,16,5,11,4,5,1,Preparation,9,18,0.50 
+2016,03,25,15:45,Preparation,ALTERNATEaTTaX,cache,Copenhagen Games 2016,16,11,9,6,7,5,Preparation,28,13,1.57 
+2016,03,25,13:30,Preparation,dignitas,mirage,Copenhagen Games 2016,14,16,5,10,9,6,Preparation,17,21,0.78 
+2016,03,25,12:00,ALTERNATEaTTaX,Preparation,cobblestone,Copenhagen Games 2016,8,16,4,11,4,5,Preparation,24,14,1.37 
+2016,03,24,23:00,404OrgNotFound,Preparation,cache,Copenhagen Games 2016 BYOC Qua..,13,16,6,9,7,7,Preparation,29,19,1.42 
+2016,03,24,23:00,404OrgNotFound,Preparation,inferno,Copenhagen Games 2016 BYOC Qua..,7,16,4,11,3,5,Preparation,27,15,1.72 
+2016,03,24,15:30,Preparation,FoxStratos,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,13,6,9,10,4,Preparation,16,21,0.81 
+2016,03,24,13:00,SesiBaren,Preparation,dust2,Copenhagen Games 2016 BYOC Qua..,2,16,2,13,0,3,Preparation,22,7,1.91 
+2016,02,28,20:00,ALTERNATEaTTaX,Preparation,cache,Pantamera CS:GO Challenge 2016,12,16,7,8,5,8,Preparation,14,19,0.76 
+2016,02,28,20:00,ALTERNATEaTTaX,Preparation,mirage,Pantamera CS:GO Challenge 2016,8,16,3,12,5,4,Preparation,20,13,1.26 
+2016,02,28,15:00,Orgless,Preparation,inferno,Pantamera CS:GO Challenge 2016,16,10,14,1,2,9,Preparation,26,20,1.43 
+2016,02,28,15:00,Orgless,Preparation,mirage,Pantamera CS:GO Challenge 2016,16,14,5,10,11,4,Preparation,24,18,1.17 
+2016,02,27,15:50,Preparation,ALAMIX,inferno,Pantamera CS:GO Challenge 2016,16,3,13,2,3,1,Preparation,22,8,1.81 
+2016,02,27,14:15,ENCE,Preparation,mirage,Pantamera CS:GO Challenge 2016,17,19,9,6,6,9,Preparation,27,26,0.92 
+2016,02,27,13:00,Ancient,Preparation,cobblestone,Pantamera CS:GO Challenge 2016,1,16,1,14,0,2,Preparation,16,7,1.54 
+2016,02,21,22:45,Torpedo,Preparation,cobblestone,Nordic Masters Season 2 Finals,19,17,4,11,11,4,Preparation,33,27,1.21 
+2016,02,21,19:30,RCTIC,Preparation,cache,Nordic Masters Season 2 Finals,16,11,7,8,9,3,Preparation,25,16,1.36 
+2016,02,21,19:30,Preparation,RCTIC,mirage,Nordic Masters Season 2 Finals,11,16,7,8,4,8,Preparation,12,22,0.54 
+2016,02,21,15:00,DenDD,Preparation,cache,Nordic Masters Season 2 Finals,14,16,3,12,11,4,Preparation,29,18,1.39 
+2016,02,21,15:00,DenDD,Preparation,mirage,Nordic Masters Season 2 Finals,19,22,8,7,7,8,Preparation,30,25,1.09 
+2016,02,19,21:00,Preparation,Optimum,cache,Nordic Masters Season 2 Finals,16,11,8,7,8,4,Preparation,18,16,1.10 
+2016,02,19,21:00,Optimum,Preparation,inferno,Nordic Masters Season 2 Finals,9,16,8,7,1,9,Preparation,16,16,0.87 
+2016,02,19,15:15,Publiclir.se,Preparation,mirage,Nordic Masters Season 2 Finals,16,13,8,7,8,6,Preparation,22,19,1.18 
+2016,02,19,15:15,Publiclir.se,Preparation,cache,Nordic Masters Season 2 Finals,16,6,13,2,3,4,Preparation,13,18,0.85 
+2016,02,19,14:45,Preparation,Temporaryorgless,inferno,Nordic Masters Season 2 Finals,16,12,7,8,9,4,Preparation,19,18,0.96 
+2015,12,20,20:45,Torpedo,NoProblem!,cache,ESL Nordic Nationals Winter 20..,16,5,11,4,5,1,No Problem!,14,20,0.71 
+2015,12,20,20:45,Torpedo,NoProblem!,mirage,ESL Nordic Nationals Winter 20..,16,14,8,7,8,7,No Problem!,25,20,1.22 
+2015,12,20,20:45,NoProblem!,Torpedo,cobblestone,ESL Nordic Nationals Winter 20..,16,13,8,7,8,6,No Problem!,15,17,0.83 
+2015,12,20,15:30,CSGOBESTPOT.com,NoProblem!,inferno,ESL Nordic Nationals Winter 20..,13,16,9,6,4,10,No Problem!,21,19,1.05 
+2015,12,20,15:30,NoProblem!,CSGOBESTPOT.com,cache,ESL Nordic Nationals Winter 20..,16,13,8,7,8,6,No Problem!,18,19,0.94 
+2015,12,19,18:20,NoProblem!,Torpedo,mirage,ESL Nordic Nationals Winter 20..,16,6,9,6,7,0,No Problem!,25,10,1.74 
+2015,12,19,14:55,SkitLite,NoProblem!,mirage,ESL Nordic Nationals Winter 20..,11,16,9,6,2,10,No Problem!,34,15,1.84 
+2015,12,06,17:16,SK,fnatic,inferno,Fragbite Masters Season 5 Fina..,5,16,5,10,0,6,SK,13,13,0.91 
+2015,12,06,17:16,SK,fnatic,overpass,Fragbite Masters Season 5 Fina..,16,12,9,6,7,6,SK,15,21,0.76 
+2015,12,06,14:30,fnatic,SK,mirage,Fragbite Masters Season 5 Fina..,16,6,10,5,6,1,SK,10,21,0.47 
+2015,12,05,15:34,SK,?,cache,Fragbite Masters Season 5 Fina..,16,2,13,2,3,0,SK,16,9,1.51 
+2015,12,05,14:00,SK,?,mirage,Fragbite Masters Season 5 Fina..,16,13,8,7,8,6,SK,19,18,0.96 
+2015,12,05,14:00,?,SK,train,Fragbite Masters Season 5 Fina..,16,9,13,2,3,7,SK,16,22,0.70 
+2015,12,04,16:30,SK,NiP,mirage,Fragbite Masters Season 5 Fina..,6,16,6,9,0,7,SK,12,17,0.80 
+2015,12,04,16:30,NiP,SK,cache,Fragbite Masters Season 5 Fina..,16,2,13,2,3,0,SK,13,17,0.87 
+2015,10,10,15:00,SK,dignitas,inferno,League of Sharks,14,16,8,7,6,9,SK,19,22,0.88 
+2015,10,10,15:00,dignitas,SK,overpass,League of Sharks,16,13,9,6,7,7,SK,20,26,0.86 
+2015,10,10,15:00,dignitas,SK,mirage,League of Sharks,16,14,9,6,7,8,SK,14,27,0.49 
+2015,09,20,00:00,SK,CPHWolves,cobblestone,DreamHack Open London 2015,13,16,6,9,7,7,SK,20,23,0.88 
+2015,09,19,21:21,G2,SK,inferno,DreamHack Open London 2015,16,13,12,3,4,10,SK,23,20,1.08 
+2015,08,07,16:00,TSM,SK,overpass,IEM Gamescom 2015,16,6,12,3,4,3,SK,9,17,0.61 
+2015,08,07,13:15,SK,TSM,cobblestone,IEM Gamescom 2015,15,19,6,9,9,6,SK,20,23,0.84 
+2015,08,06,18:15,Renegades,SK,cobblestone,IEM Gamescom 2015,16,19,7,8,8,7,SK,32,20,1.49 
+2015,08,06,15:15,SK,Renegades,mirage,IEM Gamescom 2015,14,16,10,5,4,11,SK,15,20,0.79 
+2015,08,06,12:30,Renegades,SK,cache,IEM Gamescom 2015,16,10,10,5,6,5,SK,18,20,0.95 
+2015,08,05,14:00,SK,CLG,overpass,IEM Gamescom 2015,16,12,12,3,4,9,SK,13,20,0.64 
+2015,08,01,16:30,SK,HellRaisers,dust2,Acer Predator Masters powered ..,3,16,2,13,1,3,SK,12,15,0.79 
+2015,08,01,16:30,HellRaisers,SK,cobblestone,Acer Predator Masters powered ..,16,7,11,4,5,3,SK,14,21,0.68 
+2015,08,01,16:30,SK,HellRaisers,overpass,Acer Predator Masters powered ..,16,5,13,2,3,3,SK,14,10,1.04 
+2015,07,31,22:00,SK,mousesports,dust2,Acer Predator Masters powered ..,6,16,5,10,1,6,SK,8,16,0.58 
+2015,07,31,22:00,mousesports,SK,train,Acer Predator Masters powered ..,16,5,11,4,5,1,SK,10,16,0.65 
+2015,07,30,17:30,SK,KILLERFISH,mirage,Acer Predator Masters powered ..,16,5,12,3,4,2,SK,12,13,0.93 
+2015,07,30,17:30,SK,KILLERFISH,train,Acer Predator Masters powered ..,16,13,7,8,9,5,SK,25,17,1.26 
+2015,07,30,17:30,KILLERFISH,SK,cache,Acer Predator Masters powered ..,16,5,10,5,6,0,SK,17,18,0.90 
+2015,04,12,16:15,Titan,TSM,inferno,ESL Pro League Winter 2014/15 ..,16,14,10,5,6,9,TSM,17,22,0.79 
+2015,04,12,16:15,TSM,Titan,dust2,ESL Pro League Winter 2014/15 ..,16,10,8,7,8,3,TSM,13,13,0.96 
+2015,04,12,16:15,Titan,TSM,cache,ESL Pro League Winter 2014/15 ..,19,17,9,6,6,9,TSM,23,24,0.93 
+2015,04,10,21:00,TSM,dignitas,mirage,ESL Pro League Winter 2014/15 ..,16,13,9,6,7,7,TSM,18,17,0.92 
+2015,04,10,18:00,TSM,dignitas,cache,ESL Pro League Winter 2014/15 ..,9,16,7,8,2,8,TSM,14,22,0.61 
+2015,04,10,18:00,dignitas,TSM,inferno,ESL Pro League Winter 2014/15 ..,9,16,7,8,2,8,TSM,14,14,1.01 
+2015,04,10,10:30,Virtus.pro,TSM,mirage,ESL Pro League Winter 2014/15 ..,12,16,11,4,1,12,TSM,12,20,0.74 
+2015,04,10,10:30,TSM,Virtus.pro,cache,ESL Pro League Winter 2014/15 ..,14,16,11,4,3,12,TSM,20,19,1.03 
+2015,04,10,10:30,Virtus.pro,TSM,overpass,ESL Pro League Winter 2014/15 ..,12,16,6,9,6,7,TSM,15,19,0.77 
+2014,11,27,15:10,PENTA,CPHWolves,dust2,DreamHack Winter 2014,16,12,10,5,6,7,CPH Wolves,21,19,1.10 
+2014,11,27,13:15,iBUYPOWER,CPHWolves,nuke,DreamHack Winter 2014,16,4,12,3,4,1,CPH Wolves,10,17,0.63 
+2014,11,22,20:00,FlipSid3,CPHWolves,cobblestone,DreamHack Winter 2014 Last Cal..,6,16,3,12,3,4,CPH Wolves,14,13,0.92 
+2014,11,22,13:00,3DMAX,CPHWolves,dust2,DreamHack Winter 2014 Last Cal..,14,16,9,6,5,10,CPH Wolves,18,19,0.97 
+2014,11,22,13:00,3DMAX,CPHWolves,nuke,DreamHack Winter 2014 Last Cal..,12,16,6,9,6,7,CPH Wolves,12,19,0.66 
+2014,11,22,13:00,3DMAX,CPHWolves,mirage,DreamHack Winter 2014 Last Cal..,16,7,12,3,4,4,CPH Wolves,17,18,1.05 
+2014,10,31,16:30,CPHWolves,Platinium,inferno,ESWC 2014,16,6,10,5,6,1,CPH Wolves,19,15,1.30 
+2014,10,31,14:30,CPHWolves,Titan,dust2,ESWC 2014,5,16,4,11,1,5,CPH Wolves,9,18,0.50 
+2014,10,31,13:00,CPHWolves,KaBuM.TD,inferno,ESWC 2014,16,9,12,3,4,6,CPH Wolves,19,15,1.12 
+2014,10,31,11:50,HellRaisers,CPHWolves,dust2,ESWC 2014,7,16,7,8,0,8,CPH Wolves,27,11,1.73 
+2014,10,31,09:45,CPHWolves,NiP,dust2,ESWC 2014,9,16,5,10,4,6,CPH Wolves,20,18,1.11 

@@ -1,0 +1,5 @@
+2016,08,12,13:00,Supremacy,Skyfire,cache,ESEA Open Season 22 Oceania,2,16,2,13,0,3,Skyfire,14,11,1.10 
+2016,08,12,13:00,Skyfire,Supremacy,train,ESEA Open Season 22 Oceania,16,10,7,8,9,2,Skyfire,9,18,0.56 
+2016,06,30,09:00,Australia,NewZealand,cache,World Championships 2016 Ocean..,16,4,12,3,4,1,New Zealand,5,16,0.37 
+2016,06,30,09:00,NewZealand,Australia,mirage,World Championships 2016 Ocean..,2,16,2,13,0,3,New Zealand,9,16,0.57 
+2016,06,30,09:00,Australia,NewZealand,dust2,World Championships 2016 Ocean..,16,1,14,1,2,0,New Zealand,5,17,0.25 

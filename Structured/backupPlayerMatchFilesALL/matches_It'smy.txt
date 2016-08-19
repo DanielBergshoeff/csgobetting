@@ -1,0 +1,57 @@
+2016,08,05,17:15,SpaceJam,Gambit,dust2,Adrenaline Cyber League,9,16,4,11,5,5,Space Jam,17,19,0.86 
+2016,08,05,17:15,Gambit,SpaceJam,train,Adrenaline Cyber League,16,5,11,4,5,1,Space Jam,11,17,0.76 
+2016,06,09,19:00,SpaceJam,Enso,dust2,Game Show Spring Invitational ..,16,6,12,3,4,3,Space Jam,20,14,1.32 
+2016,06,09,19:00,SpaceJam,Enso,mirage,Game Show Spring Invitational ..,22,19,10,5,5,10,Space Jam,23,33,0.74 
+2016,06,05,13:00,RAGE,SpaceJam,mirage,Adrenaline Open Cyber Cup,8,16,7,8,1,8,Space Jam,18,14,1.18 
+2016,06,05,13:00,RAGE,SpaceJam,dust2,Adrenaline Open Cyber Cup,13,16,7,8,6,8,Space Jam,21,21,1.01 
+2016,05,12,19:00,eXtatus,Vesuvius,dust2,Game Show Spring Invitational ..,16,11,6,9,10,2,Vesuvius,18,20,0.94 
+2016,05,12,19:00,Vesuvius,eXtatus,mirage,Game Show Spring Invitational ..,9,16,8,7,1,9,Vesuvius,24,20,1.22 
+2016,04,29,17:30,Vesuvius,BinaryDragonsGold,dust2,StarLadder Minor CIS - Cologne..,4,16,4,11,0,5,Vesuvius,7,16,0.57 
+2016,04,28,14:30,WorstPlayers,Vesuvius,mirage,StarLadder Minor CIS - Cologne..,16,3,14,1,2,2,Vesuvius,12,16,0.90 
+2016,04,20,20:00,TEAMSWAGYOLO,Vesuvius,mirage,StarLadder Regional Minor Cham..,16,13,9,6,7,7,Vesuvius,21,24,0.93 
+2016,04,20,20:00,TEAMSWAGYOLO,Vesuvius,cobblestone,StarLadder Regional Minor Cham..,19,16,7,8,8,7,Vesuvius,27,23,1.09 
+2016,04,20,20:00,Vesuvius,TEAMSWAGYOLO,dust2,StarLadder Regional Minor Cham..,16,7,13,2,3,5,Vesuvius,19,17,1.10 
+2016,03,25,20:15,BinaryDragons,Torpedo,mirage,SL I-League Invitational #1 EU..,10,16,5,10,5,6,Binary Dragons,21,22,1.13 
+2016,03,14,19:00,BinaryDragons,Method,dust2,Game Show Spring Invitational ..,4,16,4,11,0,5,Binary Dragons,12,18,0.73 
+2016,03,14,19:00,BinaryDragons,Method,mirage,Game Show Spring Invitational ..,11,16,6,9,5,7,Binary Dragons,23,22,1.08 
+2016,03,07,19:20,Tempest,BinaryDragons,inferno,Binary Dragons Cup Season 2,16,11,11,4,5,7,Binary Dragons,18,23,0.79 
+2016,03,07,19:20,BinaryDragons,Tempest,dust2,Binary Dragons Cup Season 2,11,16,9,6,2,10,Binary Dragons,18,24,0.82 
+2016,03,07,19:20,BinaryDragons,Tempest,train,Binary Dragons Cup Season 2,16,10,7,8,9,2,Binary Dragons,18,18,1.07 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,mirage,Binary Dragons Cup Season 2,12,16,5,10,7,6,Binary Dragons,23,17,1.28 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,dust2,Binary Dragons Cup Season 2,19,16,4,11,11,4,Binary Dragons,20,25,0.76 
+2016,03,06,22:00,FluffyGangsters,BinaryDragons,train,Binary Dragons Cup Season 2,13,16,9,6,4,10,Binary Dragons,19,19,0.99 
+2016,02,24,19:00,BinaryDragons,RCTIC,dust2,Game Show Spring Invitational ..,8,16,5,10,3,6,Binary Dragons,12,19,0.68 
+2016,02,24,19:00,BinaryDragons,RCTIC,train,Game Show Spring Invitational ..,12,16,1,14,11,2,Binary Dragons,23,20,1.04 
+2016,02,22,19:15,BinaryDragons,Empire,inferno,Game Show Spring Invitational ..,16,13,9,6,7,7,Binary Dragons,13,22,0.67 
+2016,02,22,19:15,Empire,BinaryDragons,mirage,Game Show Spring Invitational ..,16,3,13,2,3,1,Binary Dragons,7,18,0.38 
+2016,02,22,19:15,BinaryDragons,Empire,cobblestone,Game Show Spring Invitational ..,16,10,13,2,3,8,Binary Dragons,14,15,0.84 
+2016,02,06,12:00,Quest,BinaryDragons,cobblestone,Binary Dragons Hellstore Winte..,31,27,5,10,10,5,Binary Dragons,46,47,1.05 
+2016,02,06,12:00,BinaryDragons,Quest,dust2,Binary Dragons Hellstore Winte..,14,16,6,9,8,7,Binary Dragons,17,27,0.71 
+2016,01,23,19:00,Rebels,BinaryDragons,mirage,StarLadder Regional Minor Cham..,16,12,8,7,8,5,Binary Dragons,20,20,0.97 
+2016,01,23,19:00,BinaryDragons,Rebels,cobblestone,StarLadder Regional Minor Cham..,11,16,7,8,4,8,Binary Dragons,18,21,0.80 
+2016,01,23,14:00,BinaryDragons,eXplosive,mirage,StarLadder Regional Minor Cham..,16,14,7,8,9,6,Binary Dragons,16,27,0.68 
+2016,01,22,14:30,BinaryDragons,Rebels,cobblestone,StarLadder Regional Minor Cham..,3,16,2,13,1,3,Binary Dragons,10,18,0.70 
+2015,12,16,21:00,Revival,PiTER,mirage,Game Show Global eSports Cup 2..,23,25,8,7,7,8,Revival,41,35,1.12 
+2015,12,16,21:00,Revival,PiTER,cobblestone,Game Show Global eSports Cup 2..,10,16,7,8,3,8,Revival,11,23,0.47 
+2015,12,15,21:15,Revival,HellRaisers,cobblestone,Game Show Global eSports Cup 2..,16,12,5,10,11,2,Revival,25,21,1.24 
+2015,12,15,21:15,Revival,HellRaisers,mirage,Game Show Global eSports Cup 2..,16,6,10,5,6,1,Revival,18,13,1.23 
+2015,12,15,21:15,HellRaisers,Revival,overpass,Game Show Global eSports Cup 2..,16,7,13,2,3,5,Revival,8,21,0.39 
+2015,12,13,21:00,Revival,eXplosive,train,Game Show Global eSports Cup 2..,22,20,9,6,6,9,Revival,33,34,1.01 
+2015,12,13,21:00,Revival,eXplosive,cobblestone,Game Show Global eSports Cup 2..,3,16,3,12,0,4,Revival,5,18,0.26 
+2015,12,13,21:00,Revival,eXplosive,mirage,Game Show Global eSports Cup 2..,16,11,9,6,7,5,Revival,18,20,0.92 
+2015,12,13,18:00,Revival,HS.GG,dust2,Game Show Global eSports Cup 2..,16,8,8,7,8,1,Revival,20,18,1.07 
+2015,12,13,18:00,Revival,HS.GG,mirage,Game Show Global eSports Cup 2..,16,3,12,3,4,0,Revival,22,12,1.85 
+2015,12,11,21:00,Revival,PiTER,cache,Game Show Global eSports Cup 2..,14,16,6,9,8,7,Revival,25,22,1.17 
+2015,12,11,21:00,Revival,PiTER,cobblestone,Game Show Global eSports Cup 2..,16,12,10,5,6,7,Revival,18,19,0.99 
+2015,12,11,21:00,Revival,PiTER,mirage,Game Show Global eSports Cup 2..,7,16,4,11,3,5,Revival,15,18,0.80 
+2015,11,08,17:30,Revival,VegaSquadron,inferno,SLTV ProSeries XIV,16,14,9,6,7,8,Revival,19,20,0.88 
+2015,11,08,17:30,VegaSquadron,Revival,dust2,SLTV ProSeries XIV,8,16,3,12,5,4,Revival,25,15,1.39 
+2015,11,08,17:30,Revival,VegaSquadron,mirage,SLTV ProSeries XIV,8,16,7,8,1,8,Revival,10,20,0.53 
+2015,11,08,15:00,CAZ,Revival,mirage,SLTV ProSeries XIV,16,8,13,2,3,6,Revival,10,20,0.51 
+2015,11,08,15:00,CAZ,Revival,inferno,SLTV ProSeries XIV,16,12,9,6,7,6,Revival,12,18,0.77 
+2015,11,06,21:30,Revival,neXtPlease!,mirage,SLTV ProSeries XIV,19,16,6,9,9,6,Revival,18,29,0.65 
+2015,11,06,21:30,neXtPlease!,Revival,cobblestone,SLTV ProSeries XIV,16,19,5,10,10,5,Revival,23,30,0.86 
+2015,09,18,16:25,PiTER,NewEra,tuscan,Rising Showmatch,10,16,4,11,6,5,New Era,21,20,0.97 
+2015,09,18,16:25,NewEra,PiTER,season,Rising Showmatch,11,16,8,7,3,9,New Era,15,19,0.81 
+2014,04,28,20:45,tmUragan,FlipSid3,train,SLTV ProSeries IX,10,16,10,5,0,11,tmUragan,10,20,0.54 
+2014,04,28,20:45,FlipSid3,tmUragan,inferno,SLTV ProSeries IX,16,3,12,3,4,0,tmUragan,8,16,0.54 

@@ -1,0 +1,19 @@
+2016,01,20,22:15,ELTZ,PlayingDucks,mirage,D!ngIT $2000 Weekly Cup #34,10,16,8,7,2,9,ELTZ,15,19,0.84 
+2016,01,20,18:30,EYESONU,ELTZ,mirage,D!ngIT $2000 Weekly Cup #34,10,16,7,8,3,8,ELTZ,22,14,1.31 
+2016,01,19,21:10,PlayingDucks,ELTZ,cache,D!ngIT $2000 Weekly Cup #34,16,7,11,4,5,3,ELTZ,16,19,0.82 
+2016,01,19,21:10,ELTZ,PlayingDucks,mirage,D!ngIT $2000 Weekly Cup #34,16,13,6,9,10,4,ELTZ,25,17,1.32 
+2016,01,19,21:10,PlayingDucks,ELTZ,dust2,D!ngIT $2000 Weekly Cup #34,16,11,9,6,7,5,ELTZ,18,18,0.96 
+2015,12,15,18:00,ELTZ,PiTER,cobblestone,Game Show Global eSports Cup 2..,15,19,5,10,10,5,ELTZ,16,26,0.69 
+2015,12,15,18:00,ELTZ,PiTER,mirage,Game Show Global eSports Cup 2..,19,16,4,11,11,4,ELTZ,29,27,1.04 
+2015,12,15,18:00,PiTER,ELTZ,train,Game Show Global eSports Cup 2..,16,7,10,5,6,2,ELTZ,10,20,0.52 
+2015,12,11,18:00,Supreme,ELTZ,cobblestone,Game Show Global eSports Cup 2..,7,16,3,12,4,4,ELTZ,12,14,0.83 
+2015,12,11,18:00,Supreme,ELTZ,train,Game Show Global eSports Cup 2..,7,16,3,12,4,4,ELTZ,13,15,0.83 
+2015,12,11,18:00,Supreme,ELTZ,mirage,Game Show Global eSports Cup 2..,16,11,9,6,7,5,ELTZ,27,18,1.39 
+2015,12,10,21:40,ELTZ,Enso,train,Game Show Global eSports Cup 2..,16,10,7,8,9,2,ELTZ,26,17,1.43 
+2015,12,10,21:40,ELTZ,Enso,dust2,Game Show Global eSports Cup 2..,16,8,9,6,7,2,ELTZ,18,19,1.06 
+2015,12,10,19:00,ELTZ,HellRaisers,overpass,Game Show Global eSports Cup 2..,4,16,3,12,1,4,ELTZ,7,17,0.44 
+2015,12,10,19:00,ELTZ,HellRaisers,mirage,Game Show Global eSports Cup 2..,10,16,6,9,4,7,ELTZ,16,19,0.89 
+2015,09,01,22:00,ESC,Team8,mirage,AlienTech CS:GO European Cup I,16,7,11,4,5,3,Team8,9,19,0.52 
+2015,09,01,20:15,Team8,AlienTech,cache,AlienTech CS:GO European Cup I,14,16,8,7,6,9,Team8,12,25,0.53 
+2015,06,13,19:15,dignitas,Team8,mirage,DreamHack Open Summer 2015 BYO..,16,12,11,4,5,8,Team8,19,24,0.77 
+2015,06,13,19:15,Team8,dignitas,dust2,DreamHack Open Summer 2015 BYO..,7,16,5,10,2,6,Team8,13,19,0.69 

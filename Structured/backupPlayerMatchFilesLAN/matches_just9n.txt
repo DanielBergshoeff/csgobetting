@@ -1,0 +1,33 @@
+2016,05,20,18:00,NRG,TSM,train,MLG Regional Minor Championshi..,10,16,7,8,3,8,NRG,17,21,0.81 
+2016,05,20,18:00,NRG,TSM,overpass,MLG Regional Minor Championshi..,16,10,9,6,7,4,NRG,32,17,1.78 
+2016,05,20,18:00,NRG,TSM,cache,MLG Regional Minor Championshi..,13,16,5,10,8,6,NRG,19,24,0.79 
+2016,05,19,23:15,TempoStorm,NRG,mirage,MLG Regional Minor Championshi..,16,13,8,7,8,6,NRG,16,19,0.86 
+2016,05,19,19:20,Kaliber,NRG,mirage,MLG Regional Minor Championshi..,13,16,9,6,4,10,NRG,22,24,0.87 
+2016,05,07,19:45,Selfless,NRG,cache,DreamHack Austin 2016,16,8,8,7,8,1,NRG,14,19,0.80 
+2016,05,07,19:45,NRG,Selfless,train,DreamHack Austin 2016,16,11,12,3,4,8,NRG,18,16,1.06 
+2016,05,07,19:45,Selfless,NRG,overpass,DreamHack Austin 2016,19,16,10,5,5,10,NRG,20,29,0.72 
+2016,05,06,23:30,TempoStorm,NRG,cache,DreamHack Austin 2016,16,5,11,4,5,1,NRG,14,18,0.92 
+2016,03,18,15:15,NRG,Astralis,train,Counter Pit League Season 2 Fi..,9,16,3,12,6,4,NRG,22,20,1.15 
+2016,03,18,15:15,Astralis,NRG,dust2,Counter Pit League Season 2 Fi..,16,3,12,3,4,0,NRG,7,18,0.38 
+2016,03,17,23:15,EnVyUs,NRG,mirage,Counter Pit League Season 2 Fi..,19,22,8,7,7,8,NRG,38,24,1.38 
+2016,03,17,23:15,EnVyUs,NRG,cobblestone,Counter Pit League Season 2 Fi..,16,3,12,3,4,0,NRG,7,17,0.45 
+2016,03,17,23:15,EnVyUs,NRG,dust2,Counter Pit League Season 2 Fi..,13,16,10,5,3,11,NRG,16,19,0.82 
+2015,12,06,04:00,Splyce,Method,mirage,Northern Arena 2015,16,14,8,7,8,7,Method,23,16,1.20 
+2015,12,06,02:45,CLGRed,Method,cache,Northern Arena 2015,11,16,2,13,9,3,Method,20,16,1.08 
+2015,12,06,01:45,compLexity,Method,train,Northern Arena 2015,16,11,11,4,5,7,Method,17,20,0.82 
+2015,11,18,19:30,Method,Enemy,overpass,RGN Pro Series Championship,3,16,3,12,0,4,Method,7,18,0.38 
+2015,11,18,19:30,Enemy,Method,cache,RGN Pro Series Championship,16,12,5,10,11,2,Method,14,23,0.69 
+2015,11,18,07:45,Liquid,Method,inferno,RGN Pro Series Championship,16,9,11,4,5,5,Method,16,18,0.86 
+2015,11,18,07:45,Method,Liquid,cache,RGN Pro Series Championship,3,16,3,12,0,4,Method,4,19,0.18 
+2015,11,17,08:00,compLexity,Method,inferno,RGN Pro Series Championship,10,16,4,11,6,5,Method,25,19,1.31 
+2015,11,17,06:15,Cloud9,Method,dust2,RGN Pro Series Championship,16,2,15,0,1,2,Method,6,17,0.39 
+2015,11,17,05:00,Method,NexusStorm,mirage,RGN Pro Series Championship,16,10,9,6,7,4,Method,19,16,1.10 
+2015,09,06,19:15,Method,3sUP,dust2,WinOut $20,000 CS:GO Champions..,7,16,4,11,3,5,Method,6,20,0.32 
+2015,09,06,19:15,3sUP,Method,train,WinOut $20,000 CS:GO Champions..,16,12,13,2,3,10,Method,25,20,1.17 
+2015,09,06,16:00,Enemy,Method,cache,WinOut $20,000 CS:GO Champions..,8,16,7,8,1,8,Method,16,17,0.99 
+2015,09,06,16:00,Method,Enemy,inferno,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,Method,13,16,0.95 
+2015,09,06,16:00,Enemy,Method,dust2,WinOut $20,000 CS:GO Champions..,13,16,8,7,5,9,Method,17,20,0.82 
+2015,09,05,23:50,Method,GamesAcademy,mirage,WinOut $20,000 CS:GO Champions..,3,16,3,12,0,4,Method,6,16,0.42 
+2015,09,05,23:50,GamesAcademy,Method,cache,WinOut $20,000 CS:GO Champions..,16,7,12,3,4,4,Method,17,19,1.01 
+2015,09,05,17:30,Nexus,Method,cache,WinOut $20,000 CS:GO Champions..,8,16,6,9,2,7,Method,20,15,1.24 
+2015,09,05,16:15,Method,ReapWhatYouSow,cache,WinOut $20,000 CS:GO Champions..,16,11,12,3,4,8,Method,24,16,1.29 

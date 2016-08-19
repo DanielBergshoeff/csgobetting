@@ -1,0 +1,13 @@
+2016,07,30,21:35,xTc,DamageControl,cobblestone,ESWC 2016 South African Qualif..,13,16,4,11,9,5,xTc,12,20,0.64 
+2016,07,30,21:35,xTc,DamageControl,cache,ESWC 2016 South African Qualif..,3,16,3,12,0,4,xTc,7,17,0.39 
+2016,07,29,21:45,xTc,Curiosity,train,ESWC 2016 South African Qualif..,16,10,10,5,6,5,xTc,21,16,1.28 
+2016,07,29,21:45,xTc,Curiosity,cobblestone,ESWC 2016 South African Qualif..,20,22,4,11,11,4,xTc,26,25,0.94 
+2016,07,29,21:45,Curiosity,xTc,cache,ESWC 2016 South African Qualif..,6,16,3,12,3,4,xTc,26,10,1.72 
+2016,07,29,14:00,xTc,WhiteRabbit,mirage,ESWC 2016 South African Qualif..,16,11,13,2,3,9,xTc,26,18,1.29 
+2016,07,29,14:00,xTc,WhiteRabbit,dust2,ESWC 2016 South African Qualif..,12,16,7,8,5,8,xTc,19,20,0.92 
+2016,07,29,14:00,WhiteRabbit,xTc,cache,ESWC 2016 South African Qualif..,6,16,5,10,1,6,xTc,13,11,1.03 
+2015,10,03,19:30,eNergy,Aperture,inferno,MWEB GameZone Masters Series,16,0,15,0,1,0,Aperture,8,15,0.58 
+2015,10,03,19:30,Aperture,eNergy,mirage,MWEB GameZone Masters Series,16,5,10,5,6,0,Aperture,17,14,1.22 
+2015,10,03,19:30,eNergy,Aperture,overpass,MWEB GameZone Masters Series,16,3,13,2,3,1,Aperture,8,16,0.54 
+2015,10,03,16:15,Aperture,carboN,inferno,MWEB GameZone Masters Series,10,16,7,8,3,8,Aperture,15,16,1.00 
+2015,10,03,16:15,Aperture,carboN,cache,MWEB GameZone Masters Series,9,16,8,7,1,9,Aperture,13,20,0.64 

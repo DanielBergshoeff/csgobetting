@@ -1,0 +1,17 @@
+2016,02,06,16:40,EYESONU,EURONICS,overpass,99Damage League Season 2,16,5,10,5,6,0,EURONICS,7,16,0.50 
+2016,02,06,16:40,EURONICS,EYESONU,inferno,99Damage League Season 2,13,16,3,12,10,4,EURONICS,21,21,0.95 
+2016,02,06,16:40,EYESONU,EURONICS,dust2,99Damage League Season 2,13,16,7,8,6,8,EURONICS,21,21,0.99 
+2016,02,06,14:00,PlayingDucks,EURONICS,inferno,99Damage League Season 2,16,6,13,2,3,4,EURONICS,10,19,0.52 
+2016,02,06,14:00,PlayingDucks,EURONICS,dust2,99Damage League Season 2,16,2,13,2,3,0,EURONICS,6,18,0.31 
+2016,02,06,14:00,EURONICS,PlayingDucks,cobblestone,99Damage League Season 2,16,8,12,3,4,5,EURONICS,22,13,1.36 
+2015,12,17,21:00,EURONICS,EYESONU,dust2,99Damage League Season 2,6,16,3,12,3,4,EURONICS,12,18,0.68 
+2015,12,17,21:00,EURONICS,EYESONU,cobblestone,99Damage League Season 2,16,9,8,7,8,2,EURONICS,21,13,1.40 
+2015,12,02,21:00,EURONICS,KILLERFISH,cobblestone,99Damage League Season 2,5,16,4,11,1,5,EURONICS,19,15,1.24 
+2015,12,02,21:00,KILLERFISH,EURONICS,overpass,99Damage League Season 2,16,7,9,6,7,1,EURONICS,17,19,0.91 
+2015,11,25,21:00,EURONICS,uX,dust2,99Damage League Season 2,16,13,7,8,9,5,EURONICS,22,17,1.19 
+2015,11,25,21:00,EURONICS,uX,cobblestone,99Damage League Season 2,16,12,8,7,8,5,EURONICS,21,18,1.15 
+2015,11,18,21:00,EURONICS,Planetkey,cobblestone,99Damage League Season 2,16,8,9,6,7,2,EURONICS,25,11,1.63 
+2015,11,18,21:00,Planetkey,EURONICS,dust2,99Damage League Season 2,16,8,10,5,6,3,EURONICS,16,19,0.94 
+2014,09,06,13:00,Planetkey,MTW,nuke,ESL Pro Series Germany Summer ..,16,5,11,4,5,1,MTW,11,16,0.85 
+2014,09,06,13:00,Planetkey,MTW,dust2,ESL Pro Series Germany Summer ..,16,12,12,3,4,9,MTW,20,21,0.93 
+2014,08,25,20:00,MTW,TMVG,mirage,FACEIT League 2 EU Closed Qual..,11,16,6,9,5,7,MTW,16,17,0.90 

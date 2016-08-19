@@ -1,0 +1,29 @@
+2015,12,09,10:00,Chiefs,Legacy,dust2,Counter Pit League Season 2,1,16,1,14,0,2,Chiefs,11,16,0.79 
+2015,12,08,12:00,Chiefs,Exile5,train,Counter Pit League Season 2,16,8,13,2,3,6,Chiefs,11,17,0.72 
+2015,12,08,12:00,Chiefs,Exile5,mirage,Counter Pit League Season 2,16,13,9,6,7,7,Chiefs,20,18,1.03 
+2015,12,08,10:00,Chiefs,VoxEminor,dust2,Counter Pit League Season 2,9,16,3,12,6,4,Chiefs,15,19,0.79 
+2015,12,08,10:00,VoxEminor,Chiefs,cache,Counter Pit League Season 2,16,12,8,7,8,5,Chiefs,11,22,0.59 
+2015,12,07,10:00,Chiefs,Immunity,mirage,Counter Pit League Season 2,8,16,6,9,2,7,Chiefs,15,22,0.71 
+2015,12,07,10:00,Immunity,Chiefs,overpass,Counter Pit League Season 2,16,7,14,1,2,6,Chiefs,11,20,0.56 
+2015,12,01,10:00,Chiefs,TRIDENT,inferno,Counter Pit League Season 2,19,17,4,11,11,4,Chiefs,24,23,1.00 
+2015,12,01,10:00,TRIDENT,Chiefs,cache,Counter Pit League Season 2,5,16,5,10,0,6,Chiefs,18,15,1.09 
+2015,10,18,11:00,Chiefs,Exile5,cobblestone,FACEIT League 2015 Stage 3,3,16,3,12,0,4,Chiefs,14,18,0.84 
+2015,10,04,12:00,Chiefs,Immunity,cache,FACEIT League 2015 Stage 3,13,16,6,9,7,7,Chiefs,18,22,0.92 
+2015,10,03,12:00,Chiefs,fSociety,mirage,FACEIT League 2015 Stage 3,13,16,6,9,7,7,Chiefs,11,22,0.55 
+2015,09,22,11:00,Chiefs,Control.VP,inferno,FACEIT League 2015 Stage 3 OCE..,16,1,15,0,1,1,Chiefs,13,8,1.28 
+2015,09,22,11:00,Control.VP,Chiefs,mirage,FACEIT League 2015 Stage 3 OCE..,16,11,8,7,8,4,Chiefs,23,17,1.16 
+2015,09,22,11:00,Chiefs,Control.VP,cache,FACEIT League 2015 Stage 3 OCE..,16,12,9,6,7,6,Chiefs,23,22,1.07 
+2015,09,21,10:00,TRIDENT,Available!,inferno,FACEIT League 2015 Stage 3 OCE..,10,16,6,9,4,7,Available!,17,18,0.89 
+2015,09,21,10:00,TRIDENT,Available!,cache,FACEIT League 2015 Stage 3 OCE..,19,21,7,8,8,7,Available!,26,34,0.90 
+2015,09,15,03:35,Skyfire,TRIDENT,mirage,ACL Melbourne 2015,16,14,7,8,9,6,Skyfire,22,17,1.10 
+2015,09,15,03:34,TRIDENT,Skyfire,dust2,ACL Melbourne 2015,2,16,2,13,0,3,Skyfire,4,12,0.46 
+2015,09,06,01:00,SYF,Skyfire,train,ACL Melbourne 2015,5,16,5,10,0,6,Skyfire,16,10,1.29 
+2015,09,06,01:00,Skyfire,SYF,cobblestone,ACL Melbourne 2015,14,16,8,7,6,9,Skyfire,22,22,1.10 
+2015,06,21,12:00,AVANTGARDE,Exile5,dust2,FACEIT League 2015 Stage 2,13,16,5,10,8,6,AVANT GARDE,28,23,1.25 
+2015,06,20,14:30,Immunity,AVANTGARDE,inferno,FACEIT League 2015 Stage 2,16,1,14,1,2,0,AVANT GARDE,10,16,0.57 
+2015,05,31,14:00,DireWolves,AVANTGARDE,cache,FACEIT League 2015 Stage 2,16,6,12,3,4,3,AVANT GARDE,12,19,0.65 
+2015,04,05,13:00,AVANTGARDE,Chiefs,mirage,FACEIT League 2015 Stage 1,12,16,4,11,8,5,AVANT GARDE,19,25,0.76 
+2015,03,29,12:00,AVANTGARDE,VoxEminor,cache,FACEIT League 2015 Stage 1,9,16,2,13,7,3,AVANT GARDE,14,21,0.78 
+2015,03,22,11:00,AVANTGARDE,Streamline,cache,FACEIT League 2015 Stage 1,8,16,2,13,6,3,AVANT GARDE,16,19,0.85 
+2015,03,01,12:00,Immunity,AVANTGARDE,mirage,FACEIT League 2015 Stage 1,16,9,9,6,7,3,AVANT GARDE,17,21,1.02 
+2015,02,22,10:00,TRIDENT,AVANTGARDE,dust2,FACEIT League 2015 Stage 1,15,21,12,3,3,12,AVANT GARDE,20,28,0.76 

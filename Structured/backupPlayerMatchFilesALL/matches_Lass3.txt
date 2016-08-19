@@ -1,0 +1,9 @@
+2016,06,25,14:30,übern00bz,Magistra,mirage,Dust2.dk eOddset Kinguin #1,6,16,3,12,3,4,über n00bz,15,15,1.01 
+2016,06,25,13:30,Seven11,übern00bz,cache,Dust2.dk eOddset Kinguin #1,16,4,12,3,4,1,über n00bz,9,18,0.57 
+2016,06,25,12:00,übern00bz,Singularity,dust2,Dust2.dk eOddset Kinguin #1,6,16,2,13,4,3,über n00bz,14,16,0.83 
+2015,09,29,20:15,mousesports,SententiaMortis,dust2,CEVO Professional Season 8,16,4,11,4,5,0,Sententia Mortis,14,18,0.87 
+2015,09,29,20:15,SententiaMortis,mousesports,cache,CEVO Professional Season 8,2,16,2,13,0,3,Sententia Mortis,9,17,0.53 
+2015,08,21,21:30,Sweden,Denmark,inferno,King of Nordic Season 1,16,12,11,4,5,8,Denmark,22,22,1.00 
+2015,08,21,20:20,Norway,Denmark,mirage,King of Nordic Season 1,8,16,7,8,1,8,Denmark,24,10,1.58 
+2015,08,21,19:20,Finland,Denmark,mirage,King of Nordic Season 1,14,16,10,5,4,11,Denmark,21,13,1.14 
+2014,10,19,22:10,uN,AliGon,cache,DreamHack Winter 2014 EU pre-q..,4,16,3,12,1,4,uN,5,18,0.32 

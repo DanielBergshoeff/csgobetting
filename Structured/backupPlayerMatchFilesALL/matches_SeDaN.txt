@@ -1,0 +1,5 @@
+2016,04,03,19:00,neXtPlease!,CS-GO.rs,inferno,Balkan Championship Season 3,16,14,3,12,13,2,neXtPlease!,16,23,0.71 
+2016,03,31,21:00,XPC,neXtPlease!,train,Balkan Championship Season 3,16,8,11,4,5,4,neXtPlease!,13,20,0.69 
+2016,03,24,20:00,neXtPlease!,aimclub,mirage,Balkan Championship Season 3,11,16,7,8,4,8,neXtPlease!,22,19,1.18 
+2015,04,21,20:00,MASSACRE-ZONE,neXtPlease!,dust2,ESL South East Europe Champion..,12,16,10,5,2,11,neXtPlease!,11,18,0.66 
+2015,04,21,20:00,MASSACRE-ZONE,neXtPlease!,cache,ESL South East Europe Champion..,7,16,4,11,3,5,neXtPlease!,8,15,0.59 

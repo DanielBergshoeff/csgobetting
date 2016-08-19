@@ -1,0 +1,6 @@
+2015,04,03,22:30,ex-meltyfe,ICYPhoenix,dust2,Copenhagen Games 2015 female,11,16,9,6,2,10,ex-melty fe,19,21,0.96 
+2015,04,03,22:30,ex-meltyfe,ICYPhoenix,inferno,Copenhagen Games 2015 female,7,16,7,8,0,8,ex-melty fe,17,17,1.03 
+2015,04,03,18:30,3DMAXfe,ex-meltyfe,inferno,Copenhagen Games 2015 female,16,13,11,4,5,9,ex-melty fe,12,23,0.61 
+2015,04,03,18:30,ex-meltyfe,3DMAXfe,dust2,Copenhagen Games 2015 female,5,16,5,10,0,6,ex-melty fe,8,19,0.40 
+2015,04,03,12:00,Propertyfe,ex-meltyfe,mirage,Copenhagen Games 2015 female,10,16,7,8,3,8,ex-melty fe,16,16,0.92 
+2015,04,03,12:00,ex-meltyfe,Propertyfe,dust2,Copenhagen Games 2015 female,16,6,9,6,7,0,ex-melty fe,27,13,1.86 

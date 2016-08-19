@@ -1,0 +1,4 @@
+2015,11,14,16:00,NoobTubers,LCStaff,mirage,Virtus.pro Staff Cup #3,16,10,7,8,9,2,LC Staff,27,20,1.30 
+2015,11,14,16:00,NoobTubers,LCStaff,cobblestone,Virtus.pro Staff Cup #3,16,6,10,5,6,1,LC Staff,12,20,0.56 
+2015,11,07,18:30,Virtus.proStaff,LCStaff,overpass,Virtus.pro Staff Cup #3,8,16,6,9,2,7,LC Staff,22,16,1.35 
+2015,11,07,18:30,Virtus.proStaff,LCStaff,cache,Virtus.pro Staff Cup #3,5,16,5,10,0,6,LC Staff,14,12,1.10 

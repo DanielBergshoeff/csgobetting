@@ -1,0 +1,6 @@
+2016,08,15,19:00,Slovenia,Azerbaijan,cache,World Championships 2016 Europ..,16,12,6,9,10,3,Slovenia,12,21,0.60 
+2016,08,15,19:00,Azerbaijan,Slovenia,train,World Championships 2016 Europ..,16,3,12,3,4,0,Slovenia,11,16,0.77 
+2016,08,15,19:00,Slovenia,Azerbaijan,mirage,World Championships 2016 Europ..,16,6,11,4,5,2,Slovenia,20,10,1.47 
+2016,08,04,14:00,Preparation,BinaryDragons,overpass,Adrenaline Cyber League,18,21,9,6,6,9,Binary Dragons,31,27,1.05 
+2016,08,04,14:00,Preparation,BinaryDragons,cobblestone,Adrenaline Cyber League,16,9,6,9,10,0,Binary Dragons,8,18,0.50 
+2016,08,04,14:00,BinaryDragons,Preparation,dust2,Adrenaline Cyber League,21,19,6,9,9,6,Binary Dragons,24,27,0.94 

@@ -1,0 +1,62 @@
+2016,08,07,15:10,Refuse,DarkPassage,cache,ECS Season 2 EU Open Qualifier..,16,12,9,6,7,6,DarkPassage,14,22,0.63 
+2016,07,31,17:00,DarkPassage,Spirit,dust2,Betway Invitational,11,16,3,12,8,4,DarkPassage,18,19,0.99 
+2016,07,31,17:00,Spirit,DarkPassage,mirage,Betway Invitational,24,28,8,7,7,8,DarkPassage,29,35,0.81 
+2016,07,31,17:00,DarkPassage,Spirit,cobblestone,Betway Invitational,14,16,4,11,10,5,DarkPassage,14,23,0.64 
+2016,07,30,17:00,DarkPassage,LGR,cobblestone,Betway Invitational,12,16,6,9,6,7,DarkPassage,13,19,0.82 
+2016,07,30,17:00,LGR,DarkPassage,dust2,Betway Invitational,16,9,11,4,5,5,DarkPassage,15,17,0.90 
+2016,07,28,20:20,DarkPassage,PENTA,cache,RGN Pro Series II EU Closed Qu..,16,10,8,7,8,3,DarkPassage,13,18,0.78 
+2016,07,28,20:20,PENTA,DarkPassage,cobblestone,RGN Pro Series II EU Closed Qu..,10,16,7,8,3,8,DarkPassage,14,14,0.98 
+2016,07,24,19:00,ArchAngels,DarkPassage,mirage,RGN Pro Series II EU Closed Qu..,16,7,9,6,7,1,DarkPassage,14,19,0.73 
+2016,07,24,19:00,DarkPassage,ArchAngels,cache,RGN Pro Series II EU Closed Qu..,22,19,7,8,8,7,DarkPassage,24,27,0.91 
+2016,07,24,19:00,ArchAngels,DarkPassage,cobblestone,RGN Pro Series II EU Closed Qu..,16,6,11,4,5,2,DarkPassage,7,19,0.40 
+2016,05,28,18:00,PRIDE,TOASTBROT,cobblestone,DreamHack ZOWIE Open Summer 20..,16,10,10,5,6,5,TOASTBROT,22,18,1.11 
+2016,02,06,16:40,EYESONU,EURONICS,overpass,99Damage League Season 2,16,5,10,5,6,0,EURONICS,10,19,0.53 
+2016,02,06,16:40,EURONICS,EYESONU,inferno,99Damage League Season 2,13,16,3,12,10,4,EURONICS,15,21,0.80 
+2016,02,06,16:40,EYESONU,EURONICS,dust2,99Damage League Season 2,13,16,7,8,6,8,EURONICS,16,21,0.75 
+2016,02,06,14:00,PlayingDucks,EURONICS,inferno,99Damage League Season 2,16,6,13,2,3,4,EURONICS,11,16,0.75 
+2016,02,06,14:00,PlayingDucks,EURONICS,dust2,99Damage League Season 2,16,2,13,2,3,0,EURONICS,10,18,0.53 
+2016,02,06,14:00,EURONICS,PlayingDucks,cobblestone,99Damage League Season 2,16,8,12,3,4,5,EURONICS,14,15,0.89 
+2015,12,17,21:00,EURONICS,EYESONU,dust2,99Damage League Season 2,6,16,3,12,3,4,EURONICS,10,21,0.44 
+2015,12,17,21:00,EURONICS,EYESONU,cobblestone,99Damage League Season 2,16,9,8,7,8,2,EURONICS,16,18,0.88 
+2015,12,02,21:00,EURONICS,KILLERFISH,cobblestone,99Damage League Season 2,5,16,4,11,1,5,EURONICS,14,19,0.77 
+2015,12,02,21:00,KILLERFISH,EURONICS,overpass,99Damage League Season 2,16,7,9,6,7,1,EURONICS,9,19,0.62 
+2015,11,25,21:00,EURONICS,uX,dust2,99Damage League Season 2,16,13,7,8,9,5,EURONICS,15,23,0.66 
+2015,11,25,21:00,EURONICS,uX,cobblestone,99Damage League Season 2,16,12,8,7,8,5,EURONICS,20,19,1.00 
+2015,11,18,21:00,EURONICS,Planetkey,cobblestone,99Damage League Season 2,16,8,9,6,7,2,EURONICS,16,15,1.01 
+2015,11,18,21:00,Planetkey,EURONICS,dust2,99Damage League Season 2,16,8,10,5,6,3,EURONICS,17,20,1.16 
+2015,09,06,15:00,MIXCAT,EURONICS,cache,DreamHack Open Cluj-Napoca 201..,16,4,11,4,5,0,EURONICS,7,19,0.36 
+2015,09,06,12:00,CPHWolves,EURONICS,dust2,DreamHack Open Cluj-Napoca 201..,16,3,12,3,4,0,EURONICS,3,17,0.22 
+2015,09,06,12:00,CPHWolves,EURONICS,cache,DreamHack Open Cluj-Napoca 201..,16,12,7,8,9,4,EURONICS,14,23,0.60 
+2015,09,05,19:15,Epsilon,EURONICS,cache,DreamHack Open Cluj-Napoca 201..,13,16,10,5,3,11,EURONICS,28,21,1.35 
+2014,11,10,21:50,myKPV,MTW,mirage,ESL Pro Series Germany Winter ..,16,5,11,4,5,1,MTW,9,17,0.62 
+2014,11,10,19:15,PlayingDucks,MTW,overpass,ESL Pro Series Germany Winter ..,16,14,10,5,6,9,MTW,21,19,1.02 
+2014,10,19,21:00,Planetkey,MTW,inferno,DreamHack Winter 2014 EU pre-q..,16,9,7,8,9,1,MTW,5,19,0.39 
+2014,10,10,20:00,MTW,dignitas,dust2,Hitbox Arena Championship 3,6,16,5,10,1,6,MTW,12,17,0.69 
+2014,10,10,20:00,MTW,dignitas,overpass,Hitbox Arena Championship 3,4,16,4,11,0,5,MTW,16,17,1.02 
+2014,09,23,21:15,MTW,NatusVincere,dust2,Hitbox Arena Championship 3,8,16,4,11,4,5,MTW,9,16,0.59 
+2014,09,23,21:15,MTW,NatusVincere,mirage,Hitbox Arena Championship 3,4,16,4,11,0,5,MTW,11,16,0.71 
+2014,08,25,20:00,MTW,TMVG,mirage,FACEIT League 2 EU Closed Qual..,11,16,6,9,5,7,MTW,12,19,0.68 
+2014,08,10,20:40,AliGon,MTW,mirage,FACEIT League 2 EU pre-qualifi..,13,16,10,5,3,11,MTW,14,21,0.75 
+2014,08,06,22:00,Epsilon,Berzerk,dust2,SLTV StarSeries X,16,9,13,2,3,7,Berzerk,13,21,0.68 
+2014,08,06,18:00,HellRaisers,Berzerk,nuke,SLTV StarSeries X,16,2,13,2,3,0,Berzerk,6,17,0.39 
+2014,08,05,22:00,Titan,Berzerk,inferno,SLTV StarSeries X,16,6,12,3,4,3,Berzerk,15,17,1.05 
+2014,08,01,22:20,PENTA,Recursive,inferno,ASUS ROG Summer 2014,20,22,8,7,7,8,PENTA,13,31,0.50 
+2014,08,01,21:20,Nostalgie,PENTA,nuke,ASUS ROG Summer 2014,16,5,12,3,4,2,PENTA,11,18,0.78 
+2014,08,01,20:00,MARVEL,PENTA,nuke,ASUS ROG Summer 2014,7,16,5,10,2,6,PENTA,17,13,1.15 
+2014,07,29,18:00,LDLC,Berzerk,dust2,SLTV StarSeries X,16,6,10,5,6,1,Berzerk,14,20,0.74 
+2014,07,28,20:00,Berzerk,NatusVincere,dust2,SLTV StarSeries X,11,16,9,6,2,10,Berzerk,11,18,0.70 
+2014,07,16,20:10,USSR,Berzerk,dust2,SLTV StarSeries X,14,16,7,8,7,8,Berzerk,20,21,1.01 
+2014,07,09,21:20,Reason,Berzerk,inferno,SLTV StarSeries X,16,9,10,5,6,4,Berzerk,13,20,0.64 
+2014,07,09,20:00,mousesports,Berzerk,dust2,SLTV StarSeries X,16,8,9,6,7,2,Berzerk,5,22,0.31 
+2014,07,09,19:00,Berzerk,Virtus.pro,inferno,SLTV StarSeries X,4,16,4,11,0,5,Berzerk,5,19,0.28 
+2014,07,09,18:00,Berzerk,fnatic,inferno,SLTV StarSeries X,4,16,4,11,0,5,Berzerk,5,18,0.29 
+2014,06,14,17:50,Epsilon,Berzerk,inferno,DreamHack Summer 2014,16,11,10,5,6,6,Berzerk,17,16,0.97 
+2014,06,14,17:00,Berzerk,Publiclir.se,inferno,DreamHack Summer 2014,16,4,14,1,2,3,Berzerk,19,8,1.49 
+2014,06,14,16:52,NiP,Berzerk,inferno,DreamHack Summer 2014,16,12,8,7,8,5,Berzerk,17,19,1.00 
+2014,05,30,20:00,AliGon,ALTERNATEaTTaX,mirage,DreamHack Summer 2014 Closed Q..,16,7,13,2,3,5,ALTERNATE aTTaX,18,17,1.17 
+2014,05,30,19:00,mousesports,ALTERNATEaTTaX,mirage,DreamHack Summer 2014 Closed Q..,9,16,5,10,4,6,ALTERNATE aTTaX,15,17,0.83 
+2014,05,10,15:40,ALTERNATEaTTaX,WildFire,inferno,ESL Pro Series Germany Spring ..,14,16,8,7,6,9,ALTERNATE aTTaX,28,21,1.35 
+2014,05,10,15:40,WildFire,ALTERNATEaTTaX,dust2,ESL Pro Series Germany Spring ..,7,16,4,11,3,5,ALTERNATE aTTaX,20,11,1.33 
+2014,05,10,15:40,WildFire,ALTERNATEaTTaX,mirage,ESL Pro Series Germany Spring ..,16,13,9,6,7,7,ALTERNATE aTTaX,17,22,0.83 
+2014,04,18,21:00,ALTERNATEaTTaX,Titan,mirage,Copenhagen Games 2014,8,16,4,11,4,5,ALTERNATE aTTaX,12,20,0.70 
+2014,04,18,21:00,Titan,ALTERNATEaTTaX,dust2,Copenhagen Games 2014,16,9,9,6,7,3,ALTERNATE aTTaX,14,19,0.73 

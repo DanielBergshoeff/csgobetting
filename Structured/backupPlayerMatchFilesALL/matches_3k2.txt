@@ -1,0 +1,5 @@
+2015,04,02,17:00,naptoR.Factory,h$fyre,nuke,Copenhagen Games 2015,9,16,9,6,0,10,naptoR.Factory,14,18,0.77 
+2015,04,02,14:00,naptoR.Factory,h$fyre,inferno,Copenhagen Games 2015,14,16,6,9,8,7,naptoR.Factory,22,21,0.98 
+2014,10,06,19:00,LDLC,dignitas,dust2,FACEIT League EU Season 2,16,13,6,9,10,4,dignitas,5,10,0.73 
+2014,10,04,20:48,dignitas,mousesports,mirage,Fragbite Masters Season 3,16,11,8,7,8,4,dignitas,10,10,0.87 
+2014,09,21,19:00,dignitas,LondonC,dust2,Hitbox Arena Championship 3,14,16,9,6,5,10,dignitas,14,24,0.59 

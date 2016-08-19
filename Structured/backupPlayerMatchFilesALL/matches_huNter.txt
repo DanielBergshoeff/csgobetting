@@ -1,0 +1,31 @@
+2016,08,13,16:00,Armenia,Bosnia&Herzegovina,mirage,World Championships 2016 Europ..,1,16,1,14,0,2,Bosnia & Herzegovina,19,7,1.79 
+2016,08,13,16:00,Armenia,Bosnia&Herzegovina,cobblestone,World Championships 2016 Europ..,1,16,1,14,0,2,Bosnia & Herzegovina,27,5,2.48 
+2016,07,16,09:35,GamePub,faithIN,cache,GamePub 2016,11,16,6,9,5,7,GamePub,20,20,0.89 
+2016,07,16,09:35,GamePub,faithIN,mirage,GamePub 2016,16,1,14,1,2,0,GamePub,17,7,1.59 
+2016,07,16,09:35,GamePub,faithIN,dust2,GamePub 2016,5,16,4,11,1,5,GamePub,8,16,0.51 
+2016,04,26,21:00,GameAgents,iNation,mirage,Balkan Championship Season 3,16,3,13,2,3,1,iNation,12,18,0.66 
+2016,04,22,21:00,iNation,Bpro,cache,Balkan Championship Season 3,13,16,7,8,6,8,iNation,16,20,0.87 
+2016,03,31,20:15,Pixel,iNation,mirage,Balkan Championship Season 3,16,11,9,6,7,5,iNation,16,19,0.84 
+2016,03,27,19:00,aimclub,iNation,cache,Balkan Championship Season 3,16,7,11,4,5,3,iNation,7,20,0.41 
+2016,03,22,21:15,iNation,SuperMassive,mirage,Balkan Championship Season 3,16,7,13,2,3,5,iNation,10,13,0.72 
+2015,11,10,19:15,LDLCWhite,GRS.GP,dust2,Counter Pit League Season 2 Qu..,16,7,13,2,3,5,GRS.GP,18,18,1.03 
+2015,11,10,19:15,LDLCWhite,GRS.GP,inferno,Counter Pit League Season 2 Qu..,16,3,12,3,4,0,GRS.GP,5,16,0.38 
+2015,09,29,21:15,GRS.GP,mySemperFi,dust2,D!ngIT $2000 Weekly Cup #19,2,16,2,13,0,3,GRS.GP,8,17,0.48 
+2015,09,29,20:30,Iceland,Bosnia&Herzegovina,dust2,World Championships 2015 Europ..,16,4,14,1,2,3,Bosnia & Herzegovina,11,18,0.60 
+2015,09,29,19:20,Bosnia&Herzegovina,Norway,cache,World Championships 2015 Europ..,16,12,8,7,8,5,Bosnia & Herzegovina,19,21,0.90 
+2015,09,28,23:15,k1ck,GRS.GP,dust2,D!ngIT $2000 Weekly Cup #19,9,16,5,10,4,6,GRS.GP,24,15,1.36 
+2015,09,28,20:45,mySemperFi,GRS.GP,cache,D!ngIT $2000 Weekly Cup #19,16,5,11,4,5,1,GRS.GP,14,18,0.73 
+2015,09,28,20:45,mySemperFi,GRS.GP,dust2,D!ngIT $2000 Weekly Cup #19,16,8,9,6,7,2,GRS.GP,18,21,0.85 
+2015,09,28,19:35,Bosnia&Herzegovina,Belgium,cobblestone,World Championships 2015 Europ..,6,16,3,12,3,4,Bosnia & Herzegovina,13,19,0.74 
+2015,09,28,18:30,Bosnia&Herzegovina,Belarus,cache,World Championships 2015 Europ..,15,15,8,7,7,8,Bosnia & Herzegovina,20,21,0.86 
+2015,09,17,22:30,Bosnia&Herzegovina,Sweden,dust2,World Championships 2015 Europ..,2,16,2,13,0,3,Bosnia & Herzegovina,10,16,0.68 
+2015,08,17,17:30,Games4ufe,GamePub,dust2,D!ngIT $2000 Weekly Cup #13,16,14,7,8,9,6,GamePub,23,19,1.23 
+2015,08,17,17:30,Games4ufe,GamePub,mirage,D!ngIT $2000 Weekly Cup #13,16,7,13,2,3,5,GamePub,17,20,1.08 
+2015,08,17,17:30,Games4ufe,GamePub,cache,D!ngIT $2000 Weekly Cup #13,9,16,3,12,6,4,GamePub,25,14,1.50 
+2015,06,03,21:00,TRICKED,JakeBube,mirage,Balkan Championship Season 2,16,7,11,4,5,3,Jake Bube,18,21,0.93 
+2015,06,03,21:00,JakeBube,TRICKED,cache,Balkan Championship Season 2,6,16,3,12,3,4,Jake Bube,13,20,0.70 
+2015,05,19,18:00,JakeBube,MiA,dust2,Balkan Championship Season 2,16,14,5,10,11,4,Jake Bube,21,21,0.91 
+2015,05,19,18:00,MiA,JakeBube,cache,Balkan Championship Season 2,16,8,11,4,5,4,Jake Bube,18,17,1.08 
+2015,05,19,18:00,MiA,JakeBube,inferno,Balkan Championship Season 2,11,16,7,8,4,8,Jake Bube,23,17,1.19 
+2015,05,17,19:00,TRICKED,JakeBube,mirage,Balkan Championship Season 2,16,12,9,6,7,6,Jake Bube,20,20,0.97 
+2015,05,17,19:00,JakeBube,TRICKED,inferno,Balkan Championship Season 2,6,16,6,9,0,7,Jake Bube,11,22,0.47 

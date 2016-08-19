@@ -1,0 +1,38 @@
+2015,12,07,22:00,EZskins.com,LondonC,inferno,Acer Predator Masters powered ..,16,12,10,5,6,7,EZskins.com,20,20,1.02 
+2015,12,07,22:00,LondonC,EZskins.com,overpass,Acer Predator Masters powered ..,16,3,13,2,3,1,EZskins.com,6,17,0.35 
+2015,11,21,18:00,Infused,EZskins.com,overpass,Gfinity CS:GO UK Championship ..,3,16,3,12,0,4,EZskins.com,12,10,0.94 
+2015,11,21,18:00,EZskins.com,Infused,inferno,Gfinity CS:GO UK Championship ..,16,7,11,4,5,3,EZskins.com,18,17,1.12 
+2015,11,21,18:00,EZskins.com,Infused,mirage,Gfinity CS:GO UK Championship ..,16,8,10,5,6,3,EZskins.com,20,14,1.16 
+2015,11,21,18:00,Infused,EZskins.com,cache,Gfinity CS:GO UK Championship ..,16,7,10,5,6,2,EZskins.com,13,19,0.74 
+2015,11,21,18:00,Infused,EZskins.com,train,Gfinity CS:GO UK Championship ..,16,14,9,6,7,8,EZskins.com,25,23,1.06 
+2015,11,12,22:15,PENTA,EZskins.com,cache,Acer Predator Masters powered ..,16,7,9,6,7,1,EZskins.com,8,20,0.42 
+2015,11,12,22:15,PENTA,EZskins.com,mirage,Acer Predator Masters powered ..,16,6,12,3,4,3,EZskins.com,12,18,0.76 
+2015,11,04,20:00,EZskins.com,E-frag.net,mirage,Acer Predator Masters powered ..,13,16,9,6,4,10,EZskins.com,20,22,0.85 
+2015,11,04,20:00,E-frag.net,EZskins.com,dust2,Acer Predator Masters powered ..,16,4,12,3,4,1,EZskins.com,14,17,0.88 
+2015,09,28,21:20,UnitedKingdom,Russia,mirage,World Championships 2015 Europ..,4,16,1,14,3,2,United Kingdom,18,16,1.18 
+2015,09,19,18:30,EZskins.com,dignitas,mirage,DreamHack Open London 2015,2,16,2,13,0,3,EZskins.com,6,16,0.37 
+2015,09,19,17:15,Renegades,EZskins.com,dust2,DreamHack Open London 2015,11,16,7,8,4,8,EZskins.com,24,22,1.17 
+2015,09,19,13:00,EZskins.com,EnVyUs,inferno,DreamHack Open London 2015,2,16,1,14,1,2,EZskins.com,12,16,0.74 
+2015,09,17,19:15,Turkey,UnitedKingdom,mirage,World Championships 2015 Europ..,16,9,8,7,8,2,United Kingdom,14,20,0.70 
+2015,08,30,21:30,Choke,EZskins.com,overpass,Multiplay i55,11,16,7,8,4,8,EZskins.com,20,19,1.05 
+2015,08,30,21:30,EZskins.com,Choke,inferno,Multiplay i55,16,8,14,1,2,7,EZskins.com,30,13,1.81 
+2015,04,21,23:00,MALIK,XENEX,inferno,ESL UK Premiership Season 1,8,16,2,13,6,3,XENEX,17,14,1.10 
+2015,04,21,20:00,MALIK,XENEX,cache,ESL UK Premiership Season 1,14,16,8,7,6,9,XENEX,21,22,0.94 
+2015,04,20,20:00,exceL,XENEX,cache,ESL UK Premiership Season 1,18,21,10,5,5,10,XENEX,32,25,1.14 
+2015,04,20,20:00,XENEX,exceL,inferno,ESL UK Premiership Season 1,46,42,10,5,5,10,XENEX,62,60,1.06 
+2014,09,28,23:14,TheLoneRangers,Virtus.pro,cache,SLTV StarSeries XI,5,16,4,11,1,5,The Lone Rangers,23,17,1.48 
+2014,09,27,20:25,Epsilon,TheLoneRangers,cache,SLTV StarSeries XI,15,15,7,8,8,7,The Lone Rangers,22,23,1.04 
+2014,09,26,14:00,HellRaisers,TheLoneRangers,dust2,SLTV StarSeries XI,16,3,13,2,3,1,The Lone Rangers,7,18,0.38 
+2014,09,23,23:20,NiP,TheLoneRangers,cache,SLTV StarSeries XI,16,3,13,2,3,1,The Lone Rangers,9,18,0.56 
+2014,09,23,22:20,TheLoneRangers,A-Gaming,cache,SLTV StarSeries XI,16,7,11,4,5,3,The Lone Rangers,19,16,1.12 
+2014,09,21,22:45,Russia,UnitedKingdom,dust2,European Championship 2014,16,5,10,5,6,0,United Kingdom,10,20,0.52 
+2014,09,19,23:29,Orbit,TheLoneRangers,dust2,SLTV StarSeries XI,8,16,7,8,1,8,The Lone Rangers,21,15,1.33 
+2014,09,19,19:09,TheLoneRangers,myXMG,dust2,SLTV StarSeries XI,8,16,3,12,5,4,The Lone Rangers,16,17,0.92 
+2014,09,16,22:00,LDLC,TheLoneRangers,dust2,SLTV StarSeries XI,16,4,11,4,5,0,The Lone Rangers,5,19,0.34 
+2014,09,07,22:00,UnitedKingdom,Denmark,nuke,European Championship 2014,10,16,10,5,0,11,United Kingdom,13,22,0.57 
+2014,08,26,21:30,UnitedKingdom,Malta,mirage,European Championship 2014 Qua..,16,0,15,0,1,0,United Kingdom,16,4,1.67 
+2014,08,26,21:30,Malta,UnitedKingdom,dust2,European Championship 2014 Qua..,2,16,2,13,0,3,United Kingdom,24,5,2.22 
+2014,05,14,21:25,fm-eSports,Wizards,nuke,Hitbox Arena Championship,14,16,9,6,5,10,fm-eSports,17,23,0.82 
+2014,05,14,21:25,fm-eSports,Wizards,mirage,Hitbox Arena Championship,13,16,7,8,6,8,fm-eSports,29,22,1.41 
+2014,05,13,21:09,mousesports,fm-eSports,dust2,Hitbox Arena Championship,16,6,9,6,7,0,fm-eSports,13,18,0.72 
+2014,05,13,21:00,mousesports,fm-eSports,inferno,Hitbox Arena Championship,16,10,9,6,7,4,fm-eSports,19,17,0.96 

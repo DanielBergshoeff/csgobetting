@@ -1,0 +1,5 @@
+2016,03,10,20:45,AR8,BLUEJAYS,inferno,Razer Rising Stars European Le..,16,2,13,2,3,0,BLUEJAYS,13,16,0.76 
+2016,01,10,12:00,dignitas,BLUEJAYS,cobblestone,DreamHack Open Leipzig 2016 Cl..,16,6,9,6,7,0,BLUEJAYS,15,18,0.93 
+2016,01,10,12:00,dignitas,BLUEJAYS,cache,DreamHack Open Leipzig 2016 Cl..,16,3,12,3,4,0,BLUEJAYS,11,17,0.75 
+2015,12,05,14:00,KILLERFISH,BLUEJAYS,cobblestone,ESL Meisterschaft Winter 2015 ..,16,8,12,3,4,5,BLUEJAYS,12,18,0.74 
+2015,12,05,14:00,BLUEJAYS,KILLERFISH,cache,ESL Meisterschaft Winter 2015 ..,9,16,2,13,7,3,BLUEJAYS,14,21,0.71 

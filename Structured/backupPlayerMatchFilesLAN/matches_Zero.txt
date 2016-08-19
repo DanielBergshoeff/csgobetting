@@ -1,0 +1,91 @@
+2016,08,07,09:55,nGse,PewPewX,overpass,ROG CS:GO Hong Kong Tournament,16,14,8,7,8,7,PewPewX,17,21,0.81 
+2016,08,07,09:55,nGse,PewPewX,mirage,ROG CS:GO Hong Kong Tournament,16,7,13,2,3,5,PewPewX,16,20,0.81 
+2016,08,07,09:55,nGse,PewPewX,nuke,ROG CS:GO Hong Kong Tournament,9,16,5,10,4,6,PewPewX,20,15,1.13 
+2016,06,19,15:00,Epsilon,HellRaisers,mirage,DreamHack ZOWIE Open Summer 20..,16,13,12,3,4,10,HellRaisers,17,19,0.91 
+2016,06,19,15:00,Epsilon,HellRaisers,nuke,DreamHack ZOWIE Open Summer 20..,16,10,11,4,5,6,HellRaisers,17,21,0.79 
+2016,06,18,19:30,HellRaisers,GODSENT,cobblestone,DreamHack ZOWIE Open Summer 20..,7,16,3,12,4,4,HellRaisers,11,15,0.78 
+2016,06,12,22:00,FlipSid3,HellRaisers,overpass,ESL One Cologne 2016 Main Qual..,16,9,9,6,7,3,HellRaisers,24,17,1.36 
+2016,06,12,17:00,HellRaisers,OpTic,cache,ESL One Cologne 2016 Main Qual..,14,16,10,5,4,11,HellRaisers,18,20,0.91 
+2016,06,11,15:20,dignitas,HellRaisers,nuke,ESL One Cologne 2016 Main Qual..,10,16,4,11,6,5,HellRaisers,15,14,0.95 
+2016,06,10,18:00,G2,HellRaisers,dust2,ESL One Cologne 2016 Main Qual..,16,8,13,2,3,6,HellRaisers,9,17,0.60 
+2016,06,09,14:20,HellRaisers,Splyce,cobblestone,ESL One Cologne 2016 Main Qual..,16,9,9,6,7,3,HellRaisers,14,18,0.79 
+2016,05,21,13:45,HellRaisers,NatusVincere,mirage,SL i-League Invitational #1,13,16,10,5,3,11,HellRaisers,21,18,1.05 
+2016,05,21,13:45,HellRaisers,NatusVincere,overpass,SL i-League Invitational #1,8,16,7,8,1,8,HellRaisers,9,16,0.61 
+2016,05,20,14:30,HellRaisers,Virtus.pro,cache,SL i-League Invitational #1,12,16,11,4,1,12,HellRaisers,14,20,0.78 
+2016,05,20,14:30,HellRaisers,Virtus.pro,mirage,SL i-League Invitational #1,6,16,6,9,0,7,HellRaisers,11,18,0.62 
+2016,05,19,09:00,HellRaisers,SK,overpass,SL i-League Invitational #1,16,5,12,3,4,2,HellRaisers,12,10,1.02 
+2016,05,19,09:00,HellRaisers,SK,cache,SL i-League Invitational #1,16,5,13,2,3,3,HellRaisers,14,10,1.12 
+2016,05,16,19:30,HellRaisers,dignitas,overpass,DreamHack Regional Minor Champ..,7,16,4,11,3,5,HellRaisers,8,20,0.47 
+2016,05,16,19:30,dignitas,HellRaisers,mirage,DreamHack Regional Minor Champ..,16,8,9,6,7,2,HellRaisers,10,20,0.56 
+2016,05,16,19:30,dignitas,HellRaisers,dust2,DreamHack Regional Minor Champ..,13,16,9,6,4,10,HellRaisers,22,17,1.15 
+2016,05,16,15:30,Orbit,HellRaisers,mirage,DreamHack Regional Minor Champ..,5,16,4,11,1,5,HellRaisers,14,10,1.12 
+2016,05,16,15:30,Orbit,HellRaisers,cache,DreamHack Regional Minor Champ..,3,16,3,12,0,4,HellRaisers,12,6,1.21 
+2016,05,16,15:30,HellRaisers,Orbit,dust2,DreamHack Regional Minor Champ..,10,16,8,7,2,9,HellRaisers,13,19,0.73 
+2016,05,15,18:00,HellRaisers,ENCE,dust2,DreamHack Regional Minor Champ..,16,11,10,5,6,6,HellRaisers,18,14,1.08 
+2016,05,15,18:00,HellRaisers,ENCE,mirage,DreamHack Regional Minor Champ..,16,3,13,2,3,1,HellRaisers,17,11,1.40 
+2016,05,15,12:00,HellRaisers,Orbit,cache,DreamHack Regional Minor Champ..,10,16,5,10,5,6,HellRaisers,15,18,0.82 
+2016,05,15,12:00,Orbit,HellRaisers,dust2,DreamHack Regional Minor Champ..,16,14,10,5,6,9,HellRaisers,19,18,0.97 
+2016,05,14,18:30,ENCE,HellRaisers,dust2,DreamHack Regional Minor Champ..,9,16,3,12,6,4,HellRaisers,11,16,0.71 
+2016,05,14,16:15,cooL,neXtPlease!,mirage,PC Garage Clutch Masters by St..,2,16,2,13,0,3,cooL,10,18,0.59 
+2016,05,14,16:00,HellRaisers,CSGL,mirage,DreamHack Regional Minor Champ..,16,10,7,8,9,2,HellRaisers,25,13,1.48 
+2016,05,14,15:00,cooL,XPC,cache,PC Garage Clutch Masters by St..,9,16,4,11,5,5,cooL,19,20,0.98 
+2016,05,14,10:00,IGG,cooL,train,PC Garage Clutch Masters by St..,9,16,5,10,4,6,cooL,15,14,0.95 
+2016,05,07,17:35,HellRaisers,PENTA,overpass,ESEA Premier Season 21 Europe ..,16,10,14,1,2,9,HellRaisers,13,17,0.77 
+2016,05,07,17:35,PENTA,HellRaisers,inferno,ESEA Premier Season 21 Europe ..,20,22,9,6,6,9,HellRaisers,23,23,0.94 
+2016,05,07,11:25,HellRaisers,MK,mirage,ESEA Premier Season 21 Europe ..,19,15,9,6,6,9,HellRaisers,24,22,0.98 
+2016,05,07,11:25,HellRaisers,MK,cobblestone,ESEA Premier Season 21 Europe ..,11,16,6,9,5,7,HellRaisers,17,19,1.05 
+2016,05,07,11:25,HellRaisers,MK,cache,ESEA Premier Season 21 Europe ..,16,9,14,1,2,8,HellRaisers,24,12,1.50 
+2016,04,30,13:00,SK,HellRaisers,cobblestone,CEVO Gfinity Professional Seas..,16,3,13,2,3,1,HellRaisers,5,17,0.31 
+2016,04,30,13:00,HellRaisers,SK,overpass,CEVO Gfinity Professional Seas..,14,16,8,7,6,9,HellRaisers,27,18,1.27 
+2016,04,30,13:00,HellRaisers,SK,dust2,CEVO Gfinity Professional Seas..,10,16,3,12,7,4,HellRaisers,18,21,0.91 
+2016,04,29,17:30,HellRaisers,Virtus.pro,cobblestone,CEVO Gfinity Professional Seas..,16,11,7,8,9,3,HellRaisers,13,14,0.86 
+2016,04,29,17:30,HellRaisers,Virtus.pro,mirage,CEVO Gfinity Professional Seas..,16,14,10,5,6,9,HellRaisers,21,22,0.92 
+2016,04,28,19:00,OpTic,HellRaisers,overpass,CEVO Gfinity Professional Seas..,3,16,2,13,1,3,HellRaisers,13,10,1.17 
+2016,04,28,19:00,HellRaisers,OpTic,cache,CEVO Gfinity Professional Seas..,16,8,10,5,6,3,HellRaisers,16,13,1.03 
+2016,04,28,19:00,HellRaisers,OpTic,cobblestone,CEVO Gfinity Professional Seas..,8,16,5,10,3,6,HellRaisers,17,18,0.99 
+2016,03,26,21:00,E-frag.net,HellRaisers,dust2,Copenhagen Games 2016,5,16,4,11,1,5,HellRaisers,19,15,1.24 
+2016,03,26,21:00,E-frag.net,HellRaisers,inferno,Copenhagen Games 2016,23,25,7,8,8,7,HellRaisers,36,32,1.01 
+2016,03,26,13:00,Publiclir.se,HellRaisers,cache,Copenhagen Games 2016,10,16,7,8,3,8,HellRaisers,17,17,0.98 
+2016,03,26,13:00,HellRaisers,Publiclir.se,dust2,Copenhagen Games 2016,16,12,8,7,8,5,HellRaisers,21,16,1.16 
+2016,03,25,18:30,HellRaisers,Preparation,cobblestone,Copenhagen Games 2016,16,8,9,6,7,2,HellRaisers,21,16,1.17 
+2016,03,25,18:30,HellRaisers,Preparation,mirage,Copenhagen Games 2016,17,19,8,7,7,8,HellRaisers,21,23,0.89 
+2016,03,25,18:30,HellRaisers,Preparation,dust2,Copenhagen Games 2016,16,5,11,4,5,1,HellRaisers,17,8,1.43 
+2016,03,25,13:00,Iwku,HellRaisers,cache,Copenhagen Games 2016,11,16,8,7,3,9,HellRaisers,28,13,1.59 
+2016,03,25,11:50,SpaceSoldiers,HellRaisers,cache,Copenhagen Games 2016,6,16,6,9,0,7,HellRaisers,20,10,1.39 
+2016,02,28,00:10,Liquid,HellRaisers,dust2,MLG Columbus 2016 Main Qualifi..,16,14,6,9,10,5,HellRaisers,15,19,0.83 
+2016,02,28,00:10,Liquid,HellRaisers,overpass,MLG Columbus 2016 Main Qualifi..,7,16,6,9,1,7,HellRaisers,8,14,0.66 
+2016,02,28,00:10,HellRaisers,Liquid,cache,MLG Columbus 2016 Main Qualifi..,4,16,4,11,0,5,HellRaisers,9,15,0.67 
+2016,02,26,23:30,HellRaisers,mousesports,mirage,MLG Columbus 2016 Main Qualifi..,15,19,9,6,6,9,HellRaisers,26,26,1.00 
+2016,02,26,17:00,HellRaisers,Liquid,dust2,MLG Columbus 2016 Main Qualifi..,22,20,8,7,7,8,HellRaisers,24,29,0.80 
+2016,02,13,15:30,ALTERNATEaTTaX,HellRaisers,cache,Acer Predator Masters powered ..,21,17,8,7,7,8,HellRaisers,28,24,1.04 
+2016,02,13,15:30,ALTERNATEaTTaX,HellRaisers,overpass,Acer Predator Masters powered ..,8,16,6,9,2,7,HellRaisers,19,15,1.21 
+2016,02,13,15:30,ALTERNATEaTTaX,HellRaisers,cobblestone,Acer Predator Masters powered ..,16,2,14,1,2,1,HellRaisers,8,17,0.45 
+2016,02,13,01:55,FlipSid3,HellRaisers,overpass,Acer Predator Masters powered ..,16,13,7,8,9,5,HellRaisers,18,16,1.00 
+2016,02,13,01:55,HellRaisers,FlipSid3,cobblestone,Acer Predator Masters powered ..,6,16,6,9,0,7,HellRaisers,19,18,1.03 
+2016,02,11,23:30,Vexed,HellRaisers,cobblestone,Acer Predator Masters powered ..,14,16,7,8,7,8,HellRaisers,16,17,0.88 
+2016,02,11,23:30,HellRaisers,Vexed,inferno,Acer Predator Masters powered ..,16,14,8,7,8,7,HellRaisers,24,16,1.34 
+2016,01,31,21:30,HellRaisers,E-frag.net,cobblestone,PGL Regional Minor Championshi..,16,6,10,5,6,1,HellRaisers,20,11,1.43 
+2016,01,31,21:30,E-frag.net,HellRaisers,inferno,PGL Regional Minor Championshi..,16,6,9,6,7,0,HellRaisers,12,16,0.70 
+2016,01,31,21:30,HellRaisers,E-frag.net,dust2,PGL Regional Minor Championshi..,16,11,9,6,7,5,HellRaisers,13,19,0.69 
+2016,01,31,12:00,HellRaisers,PENTA,dust2,PGL Regional Minor Championshi..,16,10,11,4,5,6,HellRaisers,10,15,0.71 
+2016,01,31,12:00,PENTA,HellRaisers,inferno,PGL Regional Minor Championshi..,16,11,6,9,10,2,HellRaisers,17,20,0.84 
+2016,01,31,12:00,HellRaisers,PENTA,mirage,PGL Regional Minor Championshi..,21,15,12,3,3,12,HellRaisers,33,25,1.31 
+2016,01,30,16:45,PixelFire,HellRaisers,overpass,PGL Regional Minor Championshi..,14,16,8,7,6,9,HellRaisers,20,18,1.04 
+2016,01,30,16:45,PixelFire,HellRaisers,inferno,PGL Regional Minor Championshi..,14,16,6,9,8,7,HellRaisers,26,16,1.39 
+2016,01,30,16:45,HellRaisers,PixelFire,mirage,PGL Regional Minor Championshi..,9,16,9,6,0,10,HellRaisers,20,21,0.98 
+2016,01,30,12:00,HellRaisers,Lemondogs,dust2,PGL Regional Minor Championshi..,16,14,7,8,9,6,HellRaisers,15,20,0.77 
+2015,11,28,16:30,Revolte,E-frag.net,cobblestone,ESL South East Europe Champion..,16,13,10,5,6,8,Revolte,26,24,1.19 
+2015,11,28,16:30,Revolte,E-frag.net,inferno,ESL South East Europe Champion..,16,13,8,7,8,6,Revolte,31,22,1.43 
+2015,11,28,11:45,CSGO.one,Revolte,dust2,ESL South East Europe Champion..,10,16,4,11,6,5,Revolte,24,13,1.38 
+2015,11,28,10:00,E-frag.net,Revolte,cache,ESL South East Europe Champion..,6,16,2,13,4,3,Revolte,24,14,1.63 
+2015,04,03,22:30,Fraternitas,malefiQ,inferno,Copenhagen Games 2015,6,16,5,10,1,6,Fraternitas,13,17,0.68 
+2015,04,03,19:00,FlipSid3,Fraternitas,inferno,Copenhagen Games 2015,16,10,5,10,11,0,Fraternitas,19,18,1.00 
+2015,04,03,19:00,Fraternitas,FlipSid3,nuke,Copenhagen Games 2015,14,16,8,7,6,9,Fraternitas,16,22,0.80 
+2015,04,03,15:30,Temp.no,Fraternitas,mirage,Copenhagen Games 2015,14,16,6,9,8,7,Fraternitas,13,21,0.65 
+2015,04,03,15:30,Fraternitas,Temp.no,inferno,Copenhagen Games 2015,16,7,10,5,6,2,Fraternitas,19,11,1.24 
+2015,04,03,12:00,CPLAY,Fraternitas,nuke,Copenhagen Games 2015,16,3,12,3,4,0,Fraternitas,8,17,0.50 
+2015,04,03,12:00,Fraternitas,CPLAY,inferno,Copenhagen Games 2015,16,3,13,2,3,1,Fraternitas,22,10,1.72 
+2015,04,03,12:00,Fraternitas,CPLAY,mirage,Copenhagen Games 2015,4,16,3,12,1,4,Fraternitas,11,17,0.67 
+2014,10,04,10:00,CyborgFactory,Fraternitas,mirage,MČR 2014,5,16,4,11,1,5,Fraternitas,17,14,1.11 
+2014,10,04,10:00,Fraternitas,CyborgFactory,dust2,MČR 2014,16,2,13,2,3,0,Fraternitas,15,6,1.50 
+2014,10,04,10:00,Fraternitas,CyborgFactory,season,MČR 2014,16,8,9,6,7,2,Fraternitas,20,11,1.31 

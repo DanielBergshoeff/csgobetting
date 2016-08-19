@@ -1,0 +1,15 @@
+2016,08,15,19:20,DamageControl,FlipSid3,dust2,WESG 2016 South & East Africa,19,15,10,5,5,10,Damage Control,27,25,1.20 
+2016,08,15,19:20,FlipSid3,DamageControl,cache,WESG 2016 South & East Africa,2,16,2,13,0,3,Damage Control,20,8,1.74 
+2016,08,14,21:30,DamageControl,carboN,dust2,WESG 2016 South & East Africa,2,16,2,13,0,3,Damage Control,10,16,0.65 
+2016,08,14,21:30,carboN,DamageControl,cobblestone,WESG 2016 South & East Africa,16,14,8,7,8,7,Damage Control,15,21,0.84 
+2016,08,13,18:00,carboN,DamageControl,inferno,ESEA Open Season 22 South Afri..,16,4,11,4,5,0,Damage Control,8,16,0.50 
+2016,08,13,18:00,carboN,DamageControl,cache,ESEA Open Season 22 South Afri..,17,19,7,8,8,7,Damage Control,23,20,1.07 
+2016,08,13,18:00,DamageControl,carboN,train,ESEA Open Season 22 South Afri..,5,16,5,10,0,6,Damage Control,10,18,0.62 
+2016,08,08,20:00,DamageControl,eNergy,overpass,ESEA Open Season 22 South Afri..,16,10,9,6,7,4,Damage Control,20,15,1.17 
+2016,08,08,20:00,DamageControl,eNergy,dust2,ESEA Open Season 22 South Afri..,4,16,2,13,2,3,Damage Control,7,18,0.40 
+2016,08,08,20:00,DamageControl,eNergy,mirage,ESEA Open Season 22 South Afri..,16,11,7,8,9,3,Damage Control,17,16,1.01 
+2016,07,31,14:45,carboN,DamageControl,cache,ESWC 2016 South African Qualif..,16,9,9,6,7,3,Damage Control,16,20,0.88 
+2016,07,31,14:45,DamageControl,carboN,dust2,ESWC 2016 South African Qualif..,16,14,5,10,11,4,Damage Control,18,18,0.91 
+2016,07,31,14:45,DamageControl,carboN,train,ESWC 2016 South African Qualif..,3,16,3,12,0,4,Damage Control,7,15,0.51 
+2016,07,30,21:35,xTc,DamageControl,cobblestone,ESWC 2016 South African Qualif..,13,16,4,11,9,5,Damage Control,19,10,1.20 
+2016,07,30,21:35,xTc,DamageControl,cache,ESWC 2016 South African Qualif..,3,16,3,12,0,4,Damage Control,15,5,1.41 

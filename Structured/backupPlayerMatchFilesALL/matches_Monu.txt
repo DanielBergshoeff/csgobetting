@@ -1,0 +1,45 @@
+2016,07,28,19:10,LowLandLions,ANOX,overpass,Game Show Spring Invitational ..,14,16,6,9,8,7,LowLandLions,12,23,0.54 
+2016,07,28,19:10,LowLandLions,ANOX,cobblestone,Game Show Spring Invitational ..,7,16,4,11,3,5,LowLandLions,12,20,0.67 
+2016,07,03,22:00,LowLandLions,ALTERNATEaTTaX,overpass,Operation: Kinguin #3,11,16,10,5,1,11,LowLandLions,12,20,0.67 
+2016,07,03,22:00,LowLandLions,ALTERNATEaTTaX,cache,Operation: Kinguin #3,22,18,8,7,7,8,LowLandLions,29,26,1.07 
+2016,07,03,22:00,ALTERNATEaTTaX,LowLandLions,dust2,Operation: Kinguin #3,16,5,13,2,3,3,LowLandLions,11,18,0.69 
+2016,06,30,20:15,Epsilon,LowLandLions,overpass,Operation: Kinguin #3,16,6,12,3,4,3,LowLandLions,13,17,0.73 
+2016,06,30,20:15,Epsilon,LowLandLions,dust2,Operation: Kinguin #3,16,14,11,4,5,10,LowLandLions,28,22,1.27 
+2016,06,24,18:25,LowLandLions,AGG,overpass,Operation: Kinguin #3,8,16,8,7,0,9,LowLandLions,11,24,0.46 
+2016,06,24,18:25,AGG,LowLandLions,cache,Operation: Kinguin #3,7,16,1,14,6,2,LowLandLions,22,15,1.34 
+2016,06,24,18:25,AGG,LowLandLions,dust2,Operation: Kinguin #3,16,12,8,7,8,5,LowLandLions,13,21,0.61 
+2016,06,21,20:00,LowLandLions,LGR,inferno,Operation: Kinguin #3,19,17,11,4,4,11,LowLandLions,18,25,0.76 
+2016,06,21,20:00,LGR,LowLandLions,mirage,Operation: Kinguin #3,16,6,11,4,5,2,LowLandLions,12,19,0.70 
+2016,06,21,20:00,LowLandLions,LGR,dust2,Operation: Kinguin #3,16,8,8,7,8,1,LowLandLions,15,12,0.98 
+2016,06,15,19:00,Orbit,LowLandLions,overpass,Game Show Spring Invitational ..,4,16,4,11,0,5,LowLandLions,13,13,1.00 
+2016,06,15,19:00,Orbit,LowLandLions,mirage,Game Show Spring Invitational ..,12,16,3,12,9,4,LowLandLions,20,16,1.01 
+2016,06,15,19:00,Orbit,LowLandLions,dust2,Game Show Spring Invitational ..,16,7,11,4,5,3,LowLandLions,13,18,0.78 
+2016,06,06,20:00,LowLandLions,Secretfe,mirage,Operation: Kinguin #3,16,14,7,8,9,6,LowLandLions,7,17,0.57 
+2016,06,06,20:00,Secretfe,LowLandLions,dust2,Operation: Kinguin #3,6,16,5,10,1,6,LowLandLions,15,13,1.06 
+2016,05,03,19:15,TBi,RCTIC,dust2,Game Show Spring Invitational ..,16,14,5,10,11,4,TBi,23,17,1.23 
+2016,05,03,19:15,TBi,RCTIC,cobblestone,Game Show Spring Invitational ..,16,10,6,9,10,1,TBi,15,15,0.92 
+2016,05,01,15:00,RCTIC,nerdRage,dust2,DreamHack Regional Minor Champ..,16,13,5,10,11,3,nerdRage,23,18,1.15 
+2016,05,01,15:00,nerdRage,RCTIC,train,DreamHack Regional Minor Champ..,5,16,3,12,2,4,nerdRage,9,17,0.62 
+2016,05,01,15:00,RCTIC,nerdRage,cobblestone,DreamHack Regional Minor Champ..,6,16,5,10,1,6,nerdRage,21,15,1.32 
+2016,04,28,19:30,eXtatus,nerdRage,dust2,Game Show Spring Invitational ..,10,16,6,9,4,7,nerdRage,13,16,0.82 
+2016,04,28,19:30,nerdRage,eXtatus,mirage,Game Show Spring Invitational ..,16,10,11,4,5,6,nerdRage,15,15,1.01 
+2016,04,24,18:25,SK,nerdRage,dust2,DreamHack Regional Minor Champ..,16,12,6,9,10,3,nerdRage,10,23,0.49 
+2016,04,24,18:25,SK,nerdRage,overpass,DreamHack Regional Minor Champ..,16,7,10,5,6,2,nerdRage,9,17,0.62 
+2016,04,24,15:00,E-frag.net,nerdRage,dust2,DreamHack Regional Minor Champ..,13,16,3,12,10,4,nerdRage,15,15,0.87 
+2016,04,24,15:00,E-frag.net,nerdRage,cobblestone,DreamHack Regional Minor Champ..,14,16,4,11,10,5,nerdRage,28,20,1.42 
+2016,04,23,20:40,nerdRage,CPHWolves,dust2,DreamHack Regional Minor Champ..,0,16,0,15,0,1,nerdRage,5,16,0.26 
+2016,04,23,18:50,nerdRage,Metapods,overpass,DreamHack Regional Minor Champ..,16,13,9,6,7,7,nerdRage,15,15,0.97 
+2016,04,23,17:20,GameAgents,nerdRage,cobblestone,DreamHack Regional Minor Champ..,5,16,5,10,0,6,nerdRage,12,13,0.87 
+2016,04,17,19:15,nerdRage,Epsilon,cobblestone,CEVO Gfinity Professional Seas..,6,16,6,9,0,7,nerdRage,16,21,0.72 
+2016,04,17,19:15,nerdRage,Epsilon,dust2,CEVO Gfinity Professional Seas..,14,16,8,7,6,9,nerdRage,16,20,0.79 
+2016,04,07,19:00,nerdRage,Method,overpass,Game Show Spring Invitational ..,16,5,11,4,5,1,nerdRage,22,11,1.40 
+2016,04,07,19:00,Method,nerdRage,cobblestone,Game Show Spring Invitational ..,16,11,11,4,5,7,nerdRage,17,20,0.97 
+2016,04,07,19:00,nerdRage,Method,dust2,Game Show Spring Invitational ..,16,9,9,6,7,3,nerdRage,21,11,1.32 
+2015,06,25,18:30,PiTER,Orbit,cobblestone,D!ngIT $2000 Weekly Cup #6,16,14,5,10,11,4,Orbit,19,21,0.91 
+2015,06,25,18:30,PiTER,Orbit,cache,D!ngIT $2000 Weekly Cup #6,21,18,9,6,6,9,Orbit,25,29,0.88 
+2015,06,25,18:30,PiTER,Orbit,inferno,D!ngIT $2000 Weekly Cup #6,9,16,5,10,4,6,Orbit,18,12,1.28 
+2015,05,21,21:00,Orbit,PiTER,cobblestone,CEVO Main Season 7,11,16,8,7,3,9,Orbit,14,21,0.68 
+2015,05,12,21:30,ESC,Orbit,mirage,99Damage Arena #7,16,12,9,6,7,6,Orbit,21,19,1.05 
+2015,05,12,21:30,ESC,Orbit,dust2,99Damage Arena #7,16,12,9,6,7,6,Orbit,17,20,0.89 
+2015,05,12,21:30,PiTER,Orbit,cobblestone,99Damage Arena #7,16,19,9,6,6,9,Orbit,26,15,1.53 
+2015,05,12,18:15,Orbit,PiTER,inferno,99Damage Arena #7,16,14,9,6,7,8,Orbit,21,22,1.00 

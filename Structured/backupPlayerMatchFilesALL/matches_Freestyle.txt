@@ -1,0 +1,28 @@
+2016,08,07,16:25,aimclub,passions,mirage,ECS Season 2 EU Open Qualifier..,11,16,8,7,3,9,aimclub,27,19,1.29 
+2016,08,07,15:05,aimclub,WWGGKTA,mirage,ECS Season 2 EU Open Qualifier..,16,8,11,4,5,4,aimclub,24,12,1.61 
+2016,06,01,19:00,Bpro,aimclub,dust2,Balkan Championship Season 3,16,6,11,4,5,2,aimclub,12,16,0.76 
+2016,06,01,19:00,Bpro,aimclub,cobblestone,Balkan Championship Season 3,8,16,6,9,2,7,aimclub,22,15,1.29 
+2016,06,01,19:00,aimclub,Bpro,mirage,Balkan Championship Season 3,8,16,8,7,0,9,aimclub,8,21,0.43 
+2016,05,29,15:55,aimclub,XPC,cache,ESL South East Europe Champion..,8,16,5,10,3,6,aimclub,15,18,0.85 
+2016,05,29,15:55,XPC,aimclub,cobblestone,ESL South East Europe Champion..,12,16,9,6,3,10,aimclub,23,18,1.21 
+2016,05,29,15:55,XPC,aimclub,mirage,ESL South East Europe Champion..,16,7,11,4,5,3,aimclub,8,18,0.54 
+2016,05,29,11:30,Bpro,aimclub,cache,ESL South East Europe Champion..,7,16,4,11,3,5,aimclub,15,15,0.95 
+2016,05,29,09:25,aimclub,neXtPlease!,cobblestone,ESL South East Europe Champion..,22,20,8,7,7,8,aimclub,26,27,0.93 
+2016,05,10,20:00,GameAgents,aimclub,cache,Balkan Championship Season 3,19,16,9,6,6,9,aimclub,37,27,1.43 
+2016,05,03,20:00,aimclub,Bpro,overpass,Balkan Championship Season 3,16,5,14,1,2,4,aimclub,22,9,1.73 
+2016,04,27,21:45,aimclub,XPC,cache,Balkan Championship Season 3,22,20,8,7,7,8,aimclub,34,32,1.04 
+2016,04,25,22:00,RB,aimclub,mirage,Balkan Championship Season 3,3,16,3,12,0,4,aimclub,19,8,1.52 
+2016,04,19,19:00,aimclub,CS-GO.rs,cache,Balkan Championship Season 3,16,7,13,2,3,5,aimclub,23,12,1.48 
+2016,04,07,20:15,aimclub,Pixel,mirage,Balkan Championship Season 3,16,10,8,7,8,3,aimclub,24,14,1.44 
+2016,04,05,19:00,aimclub,SuperMassive,cache,Balkan Championship Season 3,9,16,4,11,5,5,aimclub,20,16,1.08 
+2016,04,04,21:00,aimclub,Deathtrap,cache,Balkan Championship Season 3,16,12,6,9,10,3,aimclub,18,15,1.04 
+2016,03,27,19:00,aimclub,iNation,cache,Balkan Championship Season 3,16,7,11,4,5,3,aimclub,19,14,1.24 
+2016,03,24,20:00,neXtPlease!,aimclub,mirage,Balkan Championship Season 3,11,16,7,8,4,8,aimclub,28,17,1.43 
+2015,06,03,21:00,k1ck,uX,overpass,CEVO Main Season 7,8,16,8,7,0,9,uX,15,15,0.95 
+2015,04,02,23:25,MnM,Lemondogs,cache,Copenhagen Games 2015,13,16,11,4,2,12,MnM,16,21,0.79 
+2015,04,02,21:40,re:take,MnM,cache,Copenhagen Games 2015,16,19,9,6,6,9,MnM,19,22,0.86 
+2015,04,02,19:00,Menace,MnM,cache,Copenhagen Games 2015,16,2,13,2,3,0,MnM,8,16,0.59 
+2015,04,02,17:00,e9,MnM,nuke,Copenhagen Games 2015,13,16,8,7,5,9,MnM,20,17,1.07 
+2015,04,02,15:30,MnM,no_rhythm,dust2,Copenhagen Games 2015,10,16,7,8,3,8,MnM,11,21,0.60 
+2014,05,10,13:00,mousesports,EnRoGRIFFINS,dust2,ESL Pro Series Germany Spring ..,16,7,10,5,6,2,EnRo GRIFFINS,9,18,0.53 
+2014,05,10,13:00,EnRoGRIFFINS,mousesports,inferno,ESL Pro Series Germany Spring ..,12,16,8,7,4,9,EnRo GRIFFINS,21,18,1.15 

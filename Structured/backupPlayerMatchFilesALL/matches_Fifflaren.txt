@@ -1,0 +1,160 @@
+2014,10,31,16:30,Titan,NiP,dust2,ESWC 2014,16,1,14,1,2,0,NiP,5,16,0.33 
+2014,10,31,14:30,NiP,HellRaisers,overpass,ESWC 2014,10,16,9,6,1,10,NiP,10,21,0.57 
+2014,10,31,12:50,Platinium,NiP,cobblestone,ESWC 2014,16,10,8,7,8,3,NiP,13,20,0.70 
+2014,10,31,11:50,KaBuM.TD,NiP,cache,ESWC 2014,7,16,5,10,2,6,NiP,17,11,1.27 
+2014,10,31,09:45,CPHWolves,NiP,dust2,ESWC 2014,9,16,5,10,4,6,NiP,16,13,1.02 
+2014,10,28,21:00,NiP,fnatic,inferno,Fragbite Masters Season 3,13,16,7,8,6,8,NiP,11,23,0.52 
+2014,10,28,21:00,fnatic,NiP,cobblestone,Fragbite Masters Season 3,5,16,5,10,0,6,NiP,12,12,0.91 
+2014,10,28,21:00,NiP,fnatic,dust2,Fragbite Masters Season 3,4,16,3,12,1,4,NiP,7,17,0.41 
+2014,10,28,20:00,NiP,CPHWolves,cache,Fragbite Masters Season 3,16,10,12,3,4,7,NiP,9,16,0.65 
+2014,10,28,20:00,NiP,CPHWolves,dust2,Fragbite Masters Season 3,14,16,5,10,9,6,NiP,16,25,0.70 
+2014,10,28,20:00,CPHWolves,NiP,nuke,Fragbite Masters Season 3,14,16,11,4,3,12,NiP,11,16,0.73 
+2014,10,21,21:00,NiP,Epsilon,inferno,Fragbite Masters Season 3,16,7,10,5,6,2,NiP,20,14,1.30 
+2014,10,21,21:00,NiP,Epsilon,cache,Fragbite Masters Season 3,19,15,11,4,4,11,NiP,14,21,0.67 
+2014,10,14,21:10,NiP,dignitas,dust2,Fragbite Masters Season 3,3,16,3,12,0,4,NiP,9,17,0.54 
+2014,10,14,21:10,NiP,dignitas,inferno,Fragbite Masters Season 3,14,16,10,5,4,11,NiP,16,21,0.79 
+2014,10,09,20:00,NiP,LDLC,inferno,FACEIT League EU Season 2,9,16,7,8,2,8,NiP,14,19,0.80 
+2014,10,08,21:00,NiP,HellRaisers,mirage,FACEIT League EU Season 2,12,16,5,10,7,6,NiP,15,22,0.73 
+2014,10,07,21:20,NiP,fnatic,dust2,FACEIT League EU Season 2,13,16,7,8,6,8,NiP,19,18,1.02 
+2014,10,02,22:10,Epsilon,NiP,dust2,FACEIT League EU Season 2,11,16,6,9,5,7,NiP,21,15,1.31 
+2014,10,02,20:15,CPHWolves,NiP,nuke,Fragbite Masters Season 3,14,16,10,5,4,11,NiP,16,22,0.80 
+2014,10,02,20:12,CPHWolves,NiP,dust2,Fragbite Masters Season 3,9,16,6,9,3,7,NiP,19,14,1.23 
+2014,10,02,18:00,NiP,LDLC,inferno,Fragbite Masters Season 3,9,16,8,7,1,9,NiP,10,20,0.54 
+2014,10,02,18:00,NiP,LDLC,overpass,Fragbite Masters Season 3,13,16,12,3,1,13,NiP,19,24,0.79 
+2014,10,01,22:00,Titan,NiP,inferno,FACEIT League EU Season 2,16,5,11,4,5,1,NiP,6,17,0.42 
+2014,10,01,20:30,Isak,NiP,dust2,Fragbite Masters Season 3,8,16,7,8,1,8,NiP,9,12,0.77 
+2014,10,01,18:50,NiP,Virtus.pro,season,FACEIT League EU Season 2,16,12,9,6,7,6,NiP,14,21,0.68 
+2014,09,30,21:30,NiP,Titan,inferno,SLTV StarSeries XI,16,19,8,7,7,8,NiP,14,26,0.56 
+2014,09,30,21:13,NiP,Titan,cache,SLTV StarSeries XI,7,16,4,11,3,5,NiP,7,20,0.41 
+2014,09,29,22:10,NiP,LDLC,cache,SLTV StarSeries XI,8,16,5,10,3,6,NiP,15,20,0.73 
+2014,09,29,22:00,NiP,LDLC,inferno,SLTV StarSeries XI,10,16,9,6,1,10,NiP,16,19,0.78 
+2014,09,28,20:00,NiP,OverGaming,inferno,SLTV StarSeries XI,16,2,13,2,3,0,NiP,15,11,1.14 
+2014,09,28,17:00,Virtus.pro,NiP,inferno,FACEIT League EU Season 2,16,7,11,4,5,3,NiP,7,17,0.49 
+2014,09,27,22:00,Epsilon,NiP,dust2,SLTV StarSeries XI,16,8,9,6,7,2,NiP,13,18,0.70 
+2014,09,25,17:05,NiP,Titan,dust2,DreamHack Stockholm CS:GO Invi..,13,16,7,8,6,8,NiP,12,22,0.66 
+2014,09,25,15:00,LDLC,NiP,inferno,DreamHack Stockholm CS:GO Invi..,16,3,12,3,4,0,NiP,9,19,0.46 
+2014,09,25,12:55,NiP,ALTERNATEaTTaX,inferno,DreamHack Stockholm CS:GO Invi..,16,8,10,5,6,3,NiP,14,15,0.89 
+2014,09,23,23:20,NiP,TheLoneRangers,cache,SLTV StarSeries XI,16,3,13,2,3,1,NiP,14,11,1.11 
+2014,09,23,21:15,LDLC,NiP,cache,SLTV StarSeries XI,15,15,11,4,4,11,NiP,15,19,0.77 
+2014,09,23,20:00,HellRaisers,NiP,overpass,SLTV StarSeries XI,11,16,6,9,5,7,NiP,20,20,1.02 
+2014,09,22,18:00,NiP,A-Gaming,nuke,SLTV StarSeries XI,16,3,12,3,4,0,NiP,15,5,1.35 
+2014,09,21,23:25,NiP,myXMG,overpass,SLTV StarSeries XI,16,13,9,6,7,7,NiP,19,17,1.11 
+2014,09,18,21:00,dignitas,NiP,dust2,FACEIT League EU Season 2,16,4,11,4,5,0,NiP,9,18,0.54 
+2014,09,17,21:00,NiP,fnatic,inferno,FACEIT League EU Season 2,16,12,6,9,10,3,NiP,11,22,0.54 
+2014,09,16,18:40,LDLC,NiP,dust2,Hitbox Arena Championship 3,16,14,8,7,8,7,NiP,13,26,0.49 
+2014,09,16,18:40,LDLC,NiP,inferno,Hitbox Arena Championship 3,16,12,11,4,5,8,NiP,10,20,0.59 
+2014,09,15,22:00,Orbit,NiP,dust2,SLTV StarSeries XI,10,16,3,12,7,4,NiP,12,15,0.80 
+2014,09,10,20:00,NiP,LDLC,inferno,FACEIT League EU Season 2,16,5,10,5,6,0,NiP,9,12,0.76 
+2014,09,10,19:00,HellRaisers,NiP,overpass,FACEIT League EU Season 2,2,16,2,13,0,3,NiP,12,9,1.16 
+2014,09,09,20:30,NiP,fnatic,inferno,Caseking of the Hill #7,7,16,5,10,2,6,NiP,9,18,0.61 
+2014,09,09,20:30,fnatic,NiP,dust2,Caseking of the Hill #7,16,0,15,0,1,0,NiP,7,16,0.37 
+2014,09,04,22:00,Titan,NiP,nuke,FACEIT League EU Season 2,11,16,9,6,2,10,NiP,18,17,0.97 
+2014,09,03,23:40,Epsilon,NiP,inferno,FACEIT League EU Season 2,12,16,11,4,1,12,NiP,18,17,0.92 
+2014,09,01,18:45,NiP,Virtus.pro,dust2,CS:GO Legends Series #1,13,16,9,6,4,10,NiP,14,21,0.69 
+2014,09,01,18:45,NiP,Virtus.pro,inferno,CS:GO Legends Series #1,19,16,10,5,5,10,NiP,14,27,0.55 
+2014,09,01,18:45,NiP,Virtus.pro,overpass,CS:GO Legends Series #1,16,11,8,7,8,4,NiP,9,18,0.62 
+2014,09,01,18:45,Virtus.pro,NiP,mirage,CS:GO Legends Series #1,16,1,14,1,2,0,NiP,6,17,0.29 
+2014,09,01,18:45,NiP,Virtus.pro,nuke,CS:GO Legends Series #1,9,16,8,7,1,9,NiP,12,19,0.67 
+2014,08,27,21:00,NiP,HellRaisers,dust2,Caseking of the Hill #6,16,6,10,5,6,1,NiP,18,11,1.30 
+2014,08,27,21:00,NiP,HellRaisers,inferno,Caseking of the Hill #6,13,16,9,6,4,10,NiP,14,19,0.74 
+2014,08,27,21:00,NiP,HellRaisers,nuke,Caseking of the Hill #6,16,4,11,4,5,0,NiP,14,10,1.11 
+2014,08,22,00:00,mousesports,NiP,dust2,Caseking of the Hill #5,10,16,4,11,6,5,NiP,17,15,0.98 
+2014,08,22,00:00,mousesports,NiP,overpass,Caseking of the Hill #5,9,16,7,8,2,8,NiP,15,12,1.02 
+2014,08,21,18:00,NiP,ENCORE,dust2,Caseking of the Hill #5,19,17,2,13,13,2,NiP,26,21,1.00 
+2014,08,21,18:00,NiP,ENCORE,nuke,Caseking of the Hill #5,16,3,14,1,2,2,NiP,18,6,1.59 
+2014,08,17,16:00,fnatic,NiP,inferno,ESL One Cologne 2014,13,16,9,6,4,10,NiP,19,20,0.95 
+2014,08,17,16:00,fnatic,NiP,cache,ESL One Cologne 2014,16,8,11,4,5,4,NiP,12,21,0.59 
+2014,08,17,16:00,fnatic,NiP,cobblestone,ESL One Cologne 2014,11,16,11,4,0,12,NiP,12,20,0.67 
+2014,08,17,11:55,LDLC,NiP,cobblestone,ESL One Cologne 2014,14,16,8,7,6,9,NiP,5,19,0.46 
+2014,08,17,11:55,LDLC,NiP,nuke,ESL One Cologne 2014,6,16,6,9,0,7,NiP,11,14,0.79 
+2014,08,17,11:55,NiP,LDLC,inferno,ESL One Cologne 2014,10,16,4,11,6,5,NiP,14,19,0.78 
+2014,08,16,18:30,Cloud9,NiP,cobblestone,ESL One Cologne 2014,14,16,8,7,6,9,NiP,15,23,0.70 
+2014,08,16,18:30,Cloud9,NiP,dust2,ESL One Cologne 2014,14,16,7,8,7,8,NiP,12,20,0.64 
+2014,08,16,18:30,Cloud9,NiP,nuke,ESL One Cologne 2014,16,8,8,7,8,1,NiP,10,18,0.64 
+2014,08,15,10:50,NiP,HellRaisers,overpass,ESL One Cologne 2014,16,11,10,5,6,6,NiP,13,12,0.93 
+2014,08,15,09:30,NiP,Epsilon,cobblestone,ESL One Cologne 2014,6,16,6,9,0,7,NiP,12,19,0.62 
+2014,08,14,09:00,Wolf,NiP,dust2,ESL One Cologne 2014,7,16,4,11,3,5,NiP,10,12,0.80 
+2014,08,03,14:30,NiP,dignitas,inferno,Gfinity 3,11,16,6,9,5,7,NiP,11,19,0.63 
+2014,08,03,14:30,dignitas,NiP,cache,Gfinity 3,16,4,12,3,4,1,NiP,9,17,0.56 
+2014,08,02,22:45,NiP,LondonC,dust2,Gfinity 3,16,11,5,10,11,1,NiP,13,17,0.73 
+2014,08,02,20:15,NiP,iBUYPOWER,inferno,Gfinity 3,10,16,9,6,1,10,NiP,10,19,0.59 
+2014,08,02,17:25,Infused,NiP,cache,Gfinity 3,12,16,5,10,7,6,NiP,19,17,0.99 
+2014,08,02,15:30,NiP,fnatic,dust2,Gfinity 3,14,16,9,6,5,10,NiP,19,21,0.91 
+2014,08,02,11:15,Epsilon,NiP,dust2,Gfinity 3,16,14,4,11,12,3,NiP,13,22,0.60 
+2014,07,30,20:35,NatusVincere,NiP,cache,Caseking of the Hill #3,11,16,10,5,1,11,NiP,21,20,1.02 
+2014,07,30,20:35,NiP,NatusVincere,dust2,Caseking of the Hill #3,1,16,1,14,0,2,NiP,9,16,0.52 
+2014,07,30,18:00,LDLC,NiP,dust2,Caseking of the Hill #3,2,16,2,13,0,3,NiP,9,9,0.87 
+2014,07,30,18:00,NiP,LDLC,nuke,Caseking of the Hill #3,16,9,12,3,4,6,NiP,15,17,0.86 
+2014,07,30,18:00,LDLC,NiP,inferno,Caseking of the Hill #3,16,9,11,4,5,5,NiP,8,20,0.50 
+2014,06,29,06:00,NiP,Virtus.pro,cache,ESEA Invite Season 16 Global F..,8,16,4,11,4,5,NiP,15,17,0.83 
+2014,06,29,06:00,NiP,Virtus.pro,train,ESEA Invite Season 16 Global F..,16,12,8,7,8,5,NiP,14,17,0.77 
+2014,06,29,06:00,Virtus.pro,NiP,inferno,ESEA Invite Season 16 Global F..,16,14,9,6,7,8,NiP,20,21,0.96 
+2014,06,28,22:00,NiP,Manajuma,cache,ESEA Invite Season 16 Global F..,16,8,13,2,3,6,NiP,16,15,1.06 
+2014,06,28,22:00,Manajuma,NiP,nuke,ESEA Invite Season 16 Global F..,8,16,6,9,2,7,NiP,15,15,1.05 
+2014,06,28,01:30,NiP,compLexity,dust2,ESEA Invite Season 16 Global F..,6,16,3,12,3,4,NiP,5,17,0.40 
+2014,06,28,01:30,NiP,compLexity,cache,ESEA Invite Season 16 Global F..,16,7,9,6,7,1,NiP,12,14,0.81 
+2014,06,28,01:30,compLexity,NiP,inferno,ESEA Invite Season 16 Global F..,16,13,9,6,7,7,NiP,17,21,0.79 
+2014,06,22,22:00,dignitas,NiP,dust2,Team Dignitas CS:GO SCAN Invit..,16,5,11,4,5,1,NiP,12,17,0.74 
+2014,06,22,22:00,NiP,dignitas,nuke,Team Dignitas CS:GO SCAN Invit..,16,7,9,6,7,1,NiP,20,13,1.31 
+2014,06,22,22:00,dignitas,NiP,season,Team Dignitas CS:GO SCAN Invit..,16,10,10,5,6,5,NiP,9,22,0.44 
+2014,06,22,20:00,NiP,AliGon,cache,Team Dignitas CS:GO SCAN Invit..,19,17,9,6,6,9,NiP,27,24,1.07 
+2014,06,22,20:00,NiP,AliGon,dust2,Team Dignitas CS:GO SCAN Invit..,16,11,10,5,6,6,NiP,26,15,1.53 
+2014,06,22,15:00,NiP,OnlineBOTS,dust2,Team Dignitas CS:GO SCAN Invit..,16,7,10,5,6,2,NiP,19,11,1.42 
+2014,06,22,15:00,NiP,OnlineBOTS,inferno,Team Dignitas CS:GO SCAN Invit..,16,4,12,3,4,1,NiP,17,9,1.39 
+2014,06,22,15:00,OnlineBOTS,NiP,cache,Team Dignitas CS:GO SCAN Invit..,16,8,12,3,4,5,NiP,15,21,0.74 
+2014,06,16,23:30,NiP,NatusVincere,train,DreamHack Summer 2014,19,16,8,7,7,8,NiP,20,23,0.89 
+2014,06,16,23:30,NatusVincere,NiP,inferno,DreamHack Summer 2014,5,16,5,10,0,6,NiP,18,10,1.39 
+2014,06,16,18:00,NiP,HellRaisers,dust2,DreamHack Summer 2014,16,13,11,4,5,9,NiP,13,17,0.79 
+2014,06,16,18:00,NiP,HellRaisers,inferno,DreamHack Summer 2014,11,16,4,11,7,5,NiP,15,18,0.84 
+2014,06,16,18:00,NiP,HellRaisers,nuke,DreamHack Summer 2014,16,9,9,6,7,3,NiP,20,15,1.20 
+2014,06,16,12:00,Titan,NiP,dust2,DreamHack Summer 2014,9,16,7,8,2,8,NiP,17,15,0.99 
+2014,06,16,12:00,NiP,Titan,inferno,DreamHack Summer 2014,9,16,5,10,4,6,NiP,16,16,0.94 
+2014,06,16,12:00,Titan,NiP,nuke,DreamHack Summer 2014,12,16,10,5,2,11,NiP,14,19,0.72 
+2014,06,16,01:00,NiP,fnatic,dust2,ESPORTSM 2013/2014 Finals,7,16,3,12,4,4,NiP,12,16,0.73 
+2014,06,16,01:00,fnatic,NiP,train,ESPORTSM 2013/2014 Finals,16,14,8,7,8,7,NiP,16,19,0.77 
+2014,06,15,13:30,NiP,SK,train,ESPORTSM 2013/2014 Finals,16,5,11,4,5,1,NiP,13,10,1.00 
+2014,06,15,13:30,SK,NiP,dust2,ESPORTSM 2013/2014 Finals,7,16,2,13,5,3,NiP,12,11,0.91 
+2014,06,15,13:30,NiP,SK,inferno,ESPORTSM 2013/2014 Finals,8,16,5,10,3,6,NiP,12,17,0.70 
+2014,06,15,10:00,NiP,PangaFett,train,ESPORTSM 2013/2014 Finals,16,0,15,0,1,0,NiP,11,2,1.47 
+2014,06,15,10:00,PangaFett,NiP,inferno,ESPORTSM 2013/2014 Finals,7,16,7,8,0,8,NiP,20,15,1.24 
+2014,06,14,17:00,NiP,Epsilon,dust2,DreamHack Summer 2014,16,5,11,4,5,1,NiP,12,9,1.00 
+2014,06,14,16:52,NiP,Berzerk,inferno,DreamHack Summer 2014,16,12,8,7,8,5,NiP,7,17,0.57 
+2014,05,24,18:30,GO4Serbia,GO4Croatia,mirage,GO4Balkan Charity Tournament,16,5,10,5,6,0,GO4Croatia,13,18,0.85 
+2014,05,24,18:30,GO4Croatia,GO4Serbia,train,GO4Balkan Charity Tournament,14,16,10,5,4,11,GO4Croatia,24,20,1.11 
+2014,05,22,22:15,NiP,Titan,nuke,FACEIT Spring League 2014,16,6,13,2,3,4,NiP,14,14,0.93 
+2014,05,21,20:15,NiP,Virtus.pro,dust2,FACEIT Spring League 2014,10,16,2,13,8,3,NiP,8,20,0.51 
+2014,05,19,21:15,NiP,dignitas,inferno,Mikz Challenge,16,9,10,5,6,4,NiP,17,13,1.19 
+2014,05,19,21:15,NiP,dignitas,dust2,Mikz Challenge,16,1,14,1,2,0,NiP,13,4,1.33 
+2014,05,18,20:20,NiP,dignitas,dust2,Mikz Challenge,16,6,11,4,5,2,NiP,17,13,1.19 
+2014,05,18,20:20,NiP,dignitas,nuke,Mikz Challenge,10,16,5,10,5,6,NiP,13,19,0.73 
+2014,05,18,20:20,dignitas,NiP,inferno,Mikz Challenge,11,16,10,5,1,11,NiP,13,15,0.85 
+2014,05,18,18:15,NiP,fnatic,dust2,Mikz Challenge,16,6,9,6,7,0,NiP,19,13,1.27 
+2014,05,15,22:25,NiP,fnatic,dust2,FACEIT Spring League 2014,16,8,11,4,5,4,NiP,19,12,1.21 
+2014,05,14,19:00,NiP,Wizards,nuke,FACEIT Spring League 2014,16,2,14,1,2,1,NiP,11,8,1.00 
+2014,05,08,19:00,dignitas,NiP,inferno,FACEIT Spring League 2014,16,12,11,4,5,8,NiP,14,19,0.80 
+2014,05,07,21:00,LGB,NiP,cache,FACEIT Spring League 2014,16,13,9,6,7,7,NiP,14,23,0.65 
+2014,05,04,18:00,NiP,NatusVincere,inferno,SLTV StarSeries IX Finals,8,16,7,8,1,8,NiP,14,18,0.80 
+2014,05,04,18:00,NiP,NatusVincere,dust2,SLTV StarSeries IX Finals,13,16,8,7,5,9,NiP,14,18,0.87 
+2014,05,04,14:00,Titan,NiP,inferno,SLTV StarSeries IX Finals,3,16,3,12,0,4,NiP,19,11,1.73 
+2014,05,04,14:00,Titan,NiP,nuke,SLTV StarSeries IX Finals,12,16,7,8,5,8,NiP,19,18,0.98 
+2014,05,04,14:00,NiP,Titan,dust2,SLTV StarSeries IX Finals,8,16,3,12,5,4,NiP,13,19,0.72 
+2014,05,03,15:00,NiP,Virtus.pro,dust2,SLTV StarSeries IX Finals,16,12,12,3,4,9,NiP,23,17,1.21 
+2014,05,03,15:00,NiP,Virtus.pro,train,SLTV StarSeries IX Finals,10,16,8,7,2,9,NiP,17,19,0.92 
+2014,05,03,15:00,NiP,Virtus.pro,inferno,SLTV StarSeries IX Finals,16,14,6,9,10,5,NiP,14,21,0.63 
+2014,05,02,15:00,NiP,NatusVincere,train,SLTV StarSeries IX Finals,15,19,7,8,8,7,NiP,14,28,0.52 
+2014,05,02,15:00,NiP,NatusVincere,dust2,SLTV StarSeries IX Finals,3,16,3,12,0,4,NiP,7,18,0.47 
+2014,04,30,22:00,NiP,LDLC,dust2,FACEIT Spring League 2014,9,16,6,9,3,7,NiP,17,20,0.82 
+2014,04,28,23:40,dignitas,NiP,dust2,eSportsventure Cup,6,16,6,9,0,7,NiP,10,9,0.89 
+2014,04,28,23:40,NiP,dignitas,inferno,eSportsventure Cup,11,16,8,7,3,9,NiP,10,21,0.53 
+2014,04,28,23:40,dignitas,NiP,nuke,eSportsventure Cup,7,16,4,11,3,5,NiP,12,13,0.87 
+2014,04,28,18:00,NiP,LGB,dust2,eSportsventure Cup,16,13,9,6,7,7,NiP,16,19,0.80 
+2014,04,28,18:00,LGB,NiP,train,eSportsventure Cup,13,16,9,6,4,10,NiP,22,17,1.07 
+2014,04,19,19:00,NiP,Virtus.pro,dust2,Copenhagen Games 2014,16,13,7,8,9,5,NiP,17,17,0.95 
+2014,04,19,19:00,NiP,Virtus.pro,inferno,Copenhagen Games 2014,16,6,9,6,7,0,NiP,15,10,1.12 
+2014,04,19,19:00,NiP,Virtus.pro,train,Copenhagen Games 2014,12,16,4,11,8,5,NiP,9,23,0.41 
+2014,04,19,14:00,NiP,dignitas,nuke,Copenhagen Games 2014,16,11,12,3,4,8,NiP,14,16,0.87 
+2014,04,19,14:00,dignitas,NiP,inferno,Copenhagen Games 2014,15,19,11,4,4,11,NiP,15,23,0.77 
+2014,04,19,10:00,Reason,NiP,train,Copenhagen Games 2014,7,16,6,9,1,7,NiP,15,11,1.10 
+2014,04,19,10:00,Reason,NiP,inferno,Copenhagen Games 2014,12,16,7,8,5,8,NiP,15,20,0.74 
+2014,04,18,21:00,NiP,ENCE,dust2,Copenhagen Games 2014,16,4,12,3,4,1,NiP,13,8,1.12 
+2014,04,18,21:00,ENCE,NiP,train,Copenhagen Games 2014,10,16,7,8,3,8,NiP,13,17,0.77 

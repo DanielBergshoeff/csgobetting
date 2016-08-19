@@ -1,0 +1,27 @@
+2016,06,02,20:00,Selfless,G2,train,ELEAGUE Season 1,8,16,5,10,3,6,Selfless,11,20,0.54 
+2016,06,02,20:00,G2,Selfless,cache,ELEAGUE Season 1,16,2,13,2,3,0,Selfless,11,17,0.78 
+2016,06,01,23:40,OpTic,Selfless,mirage,ELEAGUE Season 1,16,14,8,7,8,7,Selfless,23,20,1.13 
+2016,06,01,22:40,Selfless,OpTic,cobblestone,ELEAGUE Season 1,1,16,1,14,0,2,Selfless,10,15,0.69 
+2016,06,01,21:20,Selfless,NiP,cache,ELEAGUE Season 1,12,16,8,7,4,9,Selfless,20,18,1.03 
+2016,06,01,20:20,Selfless,NiP,cobblestone,ELEAGUE Season 1,9,16,6,9,3,7,Selfless,9,18,0.58 
+2016,05,31,21:45,G2,Selfless,cobblestone,ELEAGUE Season 1,16,12,7,8,9,4,Selfless,20,18,1.12 
+2016,05,31,20:25,Selfless,G2,cache,ELEAGUE Season 1,12,16,5,10,7,6,Selfless,20,21,1.01 
+2016,05,21,20:05,TSM,Selfless,cobblestone,MLG Regional Minor Championshi..,19,17,5,10,10,5,Selfless,27,23,1.07 
+2016,05,21,20:05,TSM,Selfless,train,MLG Regional Minor Championshi..,16,13,10,5,6,8,Selfless,16,22,0.78 
+2016,05,21,18:00,TempoStorm,Selfless,cobblestone,MLG Regional Minor Championshi..,16,5,10,5,6,0,Selfless,15,17,0.81 
+2016,05,21,18:00,TempoStorm,Selfless,cache,MLG Regional Minor Championshi..,16,4,13,2,3,2,Selfless,2,18,0.19 
+2016,05,20,21:30,Selfless,WinOut,cobblestone,MLG Regional Minor Championshi..,16,14,6,9,10,5,Selfless,16,19,0.88 
+2016,05,20,21:30,WinOut,Selfless,cache,MLG Regional Minor Championshi..,16,6,9,6,7,0,Selfless,12,17,0.80 
+2016,05,20,21:30,WinOut,Selfless,dust2,MLG Regional Minor Championshi..,6,16,3,12,3,4,Selfless,12,11,0.89 
+2016,05,20,01:40,OpTic,Selfless,train,MLG Regional Minor Championshi..,16,1,14,1,2,0,Selfless,13,16,0.89 
+2016,05,19,21:30,Selfless,Winterfox,cache,MLG Regional Minor Championshi..,16,4,11,4,5,0,Selfless,16,8,1.48 
+2016,05,08,04:05,Selfless,Liquid,train,DreamHack Austin 2016,10,16,4,11,6,5,Selfless,17,16,1.06 
+2016,05,08,04:05,Liquid,Selfless,dust2,DreamHack Austin 2016,16,3,12,3,4,0,Selfless,7,15,0.51 
+2016,05,07,19:45,Selfless,NRG,cache,DreamHack Austin 2016,16,8,8,7,8,1,Selfless,14,13,0.93 
+2016,05,07,19:45,NRG,Selfless,train,DreamHack Austin 2016,16,11,12,3,4,8,Selfless,11,21,0.61 
+2016,05,07,19:45,Selfless,NRG,overpass,DreamHack Austin 2016,19,16,10,5,5,10,Selfless,28,23,1.11 
+2016,05,07,02:50,Selfless,Liquid,mirage,DreamHack Austin 2016,10,16,6,9,4,7,Selfless,20,15,1.14 
+2016,04,28,22:15,SK,Selfless,cache,CEVO Gfinity Professional Seas..,16,1,14,1,2,0,Selfless,11,16,0.69 
+2016,04,28,22:15,Selfless,SK,overpass,CEVO Gfinity Professional Seas..,3,16,3,12,0,4,Selfless,9,17,0.60 
+2016,04,28,17:15,Selfless,dignitas,mirage,CEVO Gfinity Professional Seas..,5,16,2,13,3,3,Selfless,8,18,0.46 
+2016,04,28,17:15,dignitas,Selfless,inferno,CEVO Gfinity Professional Seas..,16,6,9,6,7,0,Selfless,15,18,0.90 

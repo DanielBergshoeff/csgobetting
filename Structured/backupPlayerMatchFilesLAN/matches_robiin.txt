@@ -1,0 +1,17 @@
+2016,07,03,20:45,TheWorkingMen,Reason,cache,ESL UK Premiership Spring 2016..,16,13,6,9,10,4,The Working Men,25,18,1.23 
+2016,07,03,20:45,TheWorkingMen,Reason,mirage,ESL UK Premiership Spring 2016..,16,9,9,6,7,3,The Working Men,27,15,1.53 
+2016,07,03,20:45,TheWorkingMen,Reason,cobblestone,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,The Working Men,14,21,0.77 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,mirage,ESL UK Premiership Spring 2016..,16,9,13,2,3,7,The Working Men,32,15,1.91 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,cache,ESL UK Premiership Spring 2016..,16,13,8,7,8,6,The Working Men,27,23,1.29 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,dust2,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,The Working Men,25,25,1.07 
+2016,03,28,00:30,PRIDE,Rasta,cobblestone,Insomnia 57,5,16,2,13,3,3,Rasta,27,13,1.94 
+2016,03,28,00:30,PRIDE,Rasta,mirage,Insomnia 57,12,16,8,7,4,9,Rasta,27,19,1.42 
+2016,03,28,00:30,PRIDE,Rasta,cache,Insomnia 57,16,14,11,4,5,10,Rasta,19,26,0.73 
+2016,02,21,15:00,DenDD,Preparation,cache,Nordic Masters Season 2 Finals,14,16,3,12,11,4,DenDD,20,22,0.95 
+2016,02,21,15:00,DenDD,Preparation,mirage,Nordic Masters Season 2 Finals,19,22,8,7,7,8,DenDD,29,31,0.95 
+2016,02,20,14:30,BX3,DenDD,overpass,Nordic Masters Season 2 Finals,7,16,5,10,2,6,DenDD,22,16,1.30 
+2016,02,20,14:30,BX3,DenDD,mirage,Nordic Masters Season 2 Finals,14,16,9,6,5,10,DenDD,28,22,1.27 
+2016,02,20,13:30,Propertyfe,DenDD,mirage,Nordic Masters Season 2 Finals,4,16,4,11,0,5,DenDD,21,7,1.67 
+2015,08,30,16:16,Infused,Choke,cache,Multiplay i55,14,16,7,8,7,8,Infused,34,24,1.42 
+2015,08,30,16:15,Infused,Choke,dust2,Multiplay i55,16,9,10,5,6,4,Infused,23,14,1.34 
+2015,08,30,16:15,Infused,Choke,overpass,Multiplay i55,19,21,8,7,7,8,Infused,30,28,1.02 

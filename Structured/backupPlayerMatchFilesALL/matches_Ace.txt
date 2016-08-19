@@ -1,0 +1,10 @@
+2016,07,01,11:00,India,HongKong,cache,World Championships 2016 Asian..,6,16,4,11,2,5,India,10,17,0.67 
+2016,07,01,11:00,HongKong,India,mirage,World Championships 2016 Asian..,16,8,9,6,7,2,India,8,18,0.51 
+2016,04,29,19:00,ANOX,BinaryDragonsGold,train,StarLadder Minor CIS - Cologne..,16,2,13,2,3,0,Binary Dragons Gold,7,18,0.39 
+2016,04,29,19:00,BinaryDragonsGold,ANOX,mirage,StarLadder Minor CIS - Cologne..,8,16,5,10,3,6,Binary Dragons Gold,13,17,0.81 
+2016,04,29,17:30,Vesuvius,BinaryDragonsGold,dust2,StarLadder Minor CIS - Cologne..,4,16,4,11,0,5,Binary Dragons Gold,13,12,1.04 
+2016,04,28,13:15,ANOX,BinaryDragonsGold,cache,StarLadder Minor CIS - Cologne..,16,5,11,4,5,1,Binary Dragons Gold,14,18,0.76 
+2016,04,20,17:00,eXplosive,BinaryDragonsGold,dust2,StarLadder Regional Minor Cham..,16,8,7,8,9,0,Binary Dragons Gold,7,20,0.40 
+2016,04,20,17:00,BinaryDragonsGold,eXplosive,cache,StarLadder Regional Minor Cham..,1,16,1,14,0,2,Binary Dragons Gold,6,17,0.29 
+2014,08,14,10:30,HellRaisers,Wolf,mirage,ESL One Cologne 2014,16,4,11,4,5,0,Wolf,12,18,0.76 
+2014,08,14,09:00,Wolf,NiP,dust2,ESL One Cologne 2014,7,16,4,11,3,5,Wolf,13,19,0.71 

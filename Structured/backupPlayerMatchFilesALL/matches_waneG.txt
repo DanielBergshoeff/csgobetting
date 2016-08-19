@@ -1,0 +1,25 @@
+2016,07,26,21:00,Awsomniac,E-Corp,overpass,UnderDogs #4,16,9,8,7,8,2,E-Corp,14,18,0.84 
+2016,07,26,21:00,E-Corp,Awsomniac,cache,UnderDogs #4,16,14,11,4,5,10,E-Corp,31,15,1.54 
+2016,07,26,21:00,Awsomniac,E-Corp,dust2,UnderDogs #4,16,2,13,2,3,0,E-Corp,14,17,0.82 
+2016,07,25,20:00,E-Corp,beGenius,cache,UnderDogs #4,16,3,12,3,4,0,E-Corp,14,7,1.25 
+2016,07,25,20:00,beGenius,E-Corp,mirage,UnderDogs #4,12,16,5,10,7,6,E-Corp,16,16,0.89 
+2016,05,30,20:30,WeGotGame,E-Corp,mirage,UnderDogs #3,16,10,10,5,6,5,E-Corp,17,20,0.89 
+2016,05,30,20:30,WeGotGame,E-Corp,train,UnderDogs #3,16,5,11,4,5,1,E-Corp,13,17,0.78 
+2016,03,08,00:00,LPDC,Platinium,inferno,UnderDogs #2,14,16,11,4,3,12,LPDC,11,20,0.64 
+2016,03,08,00:00,Platinium,LPDC,train,UnderDogs #2,16,1,14,1,2,0,LPDC,6,16,0.38 
+2016,01,10,12:00,E-frag.net,DeadPixels,dust2,DreamHack Open Leipzig 2016 Cl..,16,7,10,5,6,2,Dead Pixels,9,19,0.52 
+2016,01,10,12:00,DeadPixels,E-frag.net,cache,DreamHack Open Leipzig 2016 Cl..,3,16,3,12,0,4,Dead Pixels,9,18,0.50 
+2015,12,14,18:00,DeadPixels,NoProblem!,mirage,Game On European Invitational,3,16,3,12,0,4,Dead Pixels,8,17,0.50 
+2015,12,14,18:00,NoProblem!,DeadPixels,train,Game On European Invitational,16,10,8,7,8,3,Dead Pixels,12,22,0.53 
+2015,11,24,20:00,Vexed,DeadPixels,cobblestone,Red Dot Closed Qualifier,16,11,7,8,9,3,Dead Pixels,21,21,1.07 
+2015,11,24,20:00,DeadPixels,Vexed,overpass,Red Dot Closed Qualifier,14,16,7,8,7,8,Dead Pixels,16,20,0.76 
+2015,11,16,23:00,GreyFace,DeadPixels,overpass,Red Dot Closed Qualifier,2,16,2,13,0,3,Dead Pixels,20,9,1.69 
+2015,11,16,22:00,DeadPixels,Legacy,mirage,Red Dot Closed Qualifier,16,7,9,6,7,1,Dead Pixels,13,9,1.17 
+2015,11,16,20:00,GreyFace,DeadPixels,cache,Red Dot Closed Qualifier,16,6,9,6,7,0,Dead Pixels,9,18,0.49 
+2015,09,18,21:30,WEGOTGAME,DeadPixels,cache,LevelDown Championship,22,19,11,4,4,11,Dead Pixels,23,29,0.81 
+2015,09,18,21:30,DeadPixels,WEGOTGAME,dust2,LevelDown Championship,4,16,2,13,2,3,Dead Pixels,12,15,0.85 
+2015,09,17,22:15,DeadPixels,RedInstinct,mirage,LevelDown Championship,16,1,14,1,2,0,Dead Pixels,23,8,2.04 
+2015,09,17,22:15,RedInstinct,DeadPixels,cobblestone,LevelDown Championship,16,11,7,8,9,3,Dead Pixels,8,20,0.46 
+2015,09,17,22:15,RedInstinct,DeadPixels,dust2,LevelDown Championship,5,16,5,10,0,6,Dead Pixels,10,11,0.84 
+2015,09,15,22:15,DeadPixels,melty,cache,LevelDown Championship,16,10,8,7,8,3,Dead Pixels,14,19,0.67 
+2015,09,15,21:15,AsusROG,DeadPixels,mirage,LevelDown Championship,4,16,3,12,1,4,Dead Pixels,18,8,1.50 

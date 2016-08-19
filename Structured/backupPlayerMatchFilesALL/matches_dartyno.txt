@@ -1,0 +1,6 @@
+2015,10,15,22:00,ExAequo,iDomina,cache,Milan Games Week 2015 League b..,16,5,11,4,5,1,iDomina,4,20,0.20 
+2015,10,15,22:00,ExAequo,iDomina,dust2,Milan Games Week 2015 League b..,16,2,14,1,2,1,iDomina,9,17,0.53 
+2015,10,06,21:00,TES,iDomina,cobblestone,Milan Games Week 2015 League b..,16,8,8,7,8,1,iDomina,6,20,0.42 
+2015,10,06,21:00,iDomina,TES,mirage,Milan Games Week 2015 League b..,8,16,4,11,4,5,iDomina,11,17,0.77 
+2015,10,01,21:00,EasyFix,iDomina,dust2,Milan Games Week 2015 League b..,16,0,15,0,1,0,iDomina,5,16,0.30 
+2015,10,01,21:00,EasyFix,iDomina,cache,Milan Games Week 2015 League b..,16,5,10,5,6,0,iDomina,7,19,0.36 

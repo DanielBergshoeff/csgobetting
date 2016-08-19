@@ -1,0 +1,39 @@
+2016,07,24,07:40,AthleticoBH,Chiefs,train,ESL Australia & NZ Championshi..,16,8,9,6,7,2,Chiefs,16,17,0.89 
+2016,07,24,07:40,AthleticoBH,Chiefs,dust2,ESL Australia & NZ Championshi..,16,12,7,8,9,4,Chiefs,21,21,1.12 
+2016,07,24,04:15,Chiefs,Parallax,train,ESL Australia & NZ Championshi..,12,16,6,9,6,7,Chiefs,26,19,1.33 
+2016,07,24,04:15,Chiefs,Parallax,mirage,ESL Australia & NZ Championshi..,16,8,11,4,5,4,Chiefs,27,16,1.74 
+2016,07,24,04:15,Parallax,Chiefs,cache,ESL Australia & NZ Championshi..,16,12,10,5,6,7,Chiefs,13,21,0.65 
+2016,07,23,10:30,Exile5,Chiefs,train,ESL Australia & NZ Championshi..,13,16,9,6,4,10,Chiefs,23,23,0.95 
+2016,07,23,10:30,Chiefs,Exile5,cache,ESL Australia & NZ Championshi..,16,6,9,6,7,0,Chiefs,25,14,1.59 
+2016,05,20,21:30,Selfless,WinOut,cobblestone,MLG Regional Minor Championshi..,16,14,6,9,10,5,WinOut,20,22,0.93 
+2016,05,20,21:30,WinOut,Selfless,cache,MLG Regional Minor Championshi..,16,6,9,6,7,0,WinOut,24,11,1.64 
+2016,05,20,21:30,WinOut,Selfless,dust2,MLG Regional Minor Championshi..,6,16,3,12,3,4,WinOut,12,18,0.68 
+2016,05,20,00:20,Winterfox,WinOut,cobblestone,MLG Regional Minor Championshi..,12,16,7,8,5,8,WinOut,20,17,1.04 
+2016,05,19,20:30,WinOut,OpTic,train,MLG Regional Minor Championshi..,2,16,2,13,0,3,WinOut,11,17,0.68 
+2016,01,10,20:00,Luminosity,KeydStars,cobblestone,MAX5 Invitational,16,11,14,1,2,10,Keyd Stars,22,19,1.07 
+2016,01,10,20:00,KeydStars,Luminosity,mirage,MAX5 Invitational,2,16,2,13,0,3,Keyd Stars,14,17,0.79 
+2016,01,10,20:00,Luminosity,KeydStars,cache,MAX5 Invitational,16,4,12,3,4,1,Keyd Stars,6,18,0.33 
+2016,01,09,14:45,KeydStars,g3x,cobblestone,MAX5 Invitational,16,10,9,6,7,4,Keyd Stars,21,17,1.14 
+2016,01,09,14:45,g3x,KeydStars,inferno,MAX5 Invitational,16,12,12,3,4,9,Keyd Stars,22,20,1.06 
+2016,01,09,14:45,KeydStars,g3x,cache,MAX5 Invitational,16,14,8,7,8,7,Keyd Stars,23,22,1.15 
+2016,01,08,21:45,Gathers,KeydStars,cache,MAX5 Invitational,11,16,9,6,2,10,Keyd Stars,25,16,1.41 
+2016,01,08,14:30,GamesAcademy,KeydStars,dust2,MAX5 Invitational,15,15,5,10,10,5,Keyd Stars,21,21,1.06 
+2016,01,07,20:15,KeydStars,AlienTech,cache,MAX5 Invitational,16,8,10,5,6,3,Keyd Stars,14,17,0.87 
+2016,01,06,21:00,NTN,KeydStars,inferno,MAX5 Invitational,9,16,4,11,5,5,Keyd Stars,27,15,1.48 
+2015,11,21,16:00,RCTIC,KeydStars,train,AlienTech AllStars,16,5,11,4,5,1,Keyd Stars,8,17,0.53 
+2015,11,21,16:00,KeydStars,RCTIC,overpass,AlienTech AllStars,16,8,10,5,6,3,Keyd Stars,21,12,1.45 
+2015,11,21,16:00,KeydStars,RCTIC,mirage,AlienTech AllStars,13,16,8,7,5,9,Keyd Stars,16,22,0.74 
+2015,11,20,14:10,Epsilon,KeydStars,train,AlienTech AllStars,12,16,4,11,8,5,Keyd Stars,24,19,1.23 
+2015,11,20,12:45,IHAVEADREAM,KeydStars,cobblestone,AlienTech AllStars,9,16,2,13,7,3,Keyd Stars,23,18,1.18 
+2015,11,20,11:30,KeydStars,uPGaming.hellfive,mirage,AlienTech AllStars,16,1,14,1,2,0,Keyd Stars,23,9,1.96 
+2015,10,25,17:40,AlienTech,KeydStars,mirage,AlienTech CS:GO TiTans I Final..,16,12,11,4,5,8,Keyd Stars,14,19,0.74 
+2015,10,25,17:40,AlienTech,KeydStars,train,AlienTech CS:GO TiTans I Final..,26,28,7,8,8,7,Keyd Stars,49,36,1.30 
+2015,10,25,17:40,AlienTech,KeydStars,inferno,AlienTech CS:GO TiTans I Final..,19,16,5,10,10,5,Keyd Stars,26,22,1.06 
+2015,10,25,12:00,KeydStars,BulletsRage.Pro,mirage,AlienTech CS:GO TiTans I Final..,16,14,8,7,8,7,Keyd Stars,22,22,1.06 
+2015,10,25,12:00,BulletsRage.Pro,KeydStars,overpass,AlienTech CS:GO TiTans I Final..,14,16,5,10,9,6,Keyd Stars,26,21,1.18 
+2015,10,25,12:00,BulletsRage.Pro,KeydStars,inferno,AlienTech CS:GO TiTans I Final..,22,19,12,3,3,12,Keyd Stars,25,25,1.03 
+2015,10,24,20:30,AlienTech,KeydStars,mirage,AlienTech CS:GO TiTans I Final..,25,22,9,6,6,9,Keyd Stars,38,38,1.00 
+2015,10,24,20:30,KeydStars,AlienTech,inferno,AlienTech CS:GO TiTans I Final..,15,19,7,8,8,7,Keyd Stars,29,25,1.18 
+2015,10,24,20:30,AlienTech,KeydStars,train,AlienTech CS:GO TiTans I Final..,12,16,6,9,6,7,Keyd Stars,25,19,1.30 
+2015,10,24,11:30,KeydStars,k1ck,mirage,AlienTech CS:GO TiTans I Final..,16,5,12,3,4,2,Keyd Stars,15,12,1.11 
+2015,10,24,11:30,k1ck,KeydStars,cobblestone,AlienTech CS:GO TiTans I Final..,7,16,3,12,4,4,Keyd Stars,20,15,1.16 

@@ -1,0 +1,47 @@
+2016,04,19,13:00,MVP.karnal,Threats,inferno,WCA 2016 APAC Qualifier,16,11,10,5,6,6,Threats,12,20,0.65 
+2016,04,19,13:00,Threats,MVP.karnal,cobblestone,WCA 2016 APAC Qualifier,16,19,8,7,7,8,Threats,19,21,0.86 
+2016,04,16,13:00,Threats,DeToNator,inferno,WCA 2016 APAC Qualifier,16,13,11,4,5,9,Threats,19,16,1.07 
+2016,04,16,13:00,Threats,DeToNator,cache,WCA 2016 APAC Qualifier,16,6,9,6,7,0,Threats,18,11,1.33 
+2016,03,13,06:25,VG.CyberZen,Threats,overpass,DreamHack Masters Malmö 2016 A..,16,4,12,3,4,1,Threats,12,18,0.67 
+2016,03,13,06:25,Threats,VG.CyberZen,dust2,DreamHack Masters Malmö 2016 A..,13,16,7,8,6,8,Threats,13,20,0.67 
+2016,03,12,14:00,7GU6,Threats,inferno,DreamHack Masters Malmö 2016 A..,8,16,7,8,1,8,Threats,17,12,1.12 
+2016,02,23,14:00,J2G,Threats,mirage,Born To Win Invitational Leagu..,16,12,12,3,4,9,Threats,18,20,0.83 
+2016,02,21,17:00,Threats,Expendables,inferno,Born To Win Invitational Leagu..,16,12,13,2,3,10,Threats,17,15,0.99 
+2016,02,21,12:00,Threats,MVP.karnal,cache,Born To Win Invitational Leagu..,7,16,3,12,4,4,Threats,14,17,0.80 
+2015,12,12,14:00,Skyred,nxl,mirage,D!ngIT CS:GO Asia Invitational..,16,14,4,11,12,3,Skyred,26,17,1.46 
+2015,12,11,15:00,Skyred,MVPproject,inferno,D!ngIT CS:GO Asia Invitational..,11,16,8,7,3,9,Skyred,20,17,1.11 
+2015,12,11,13:00,Insidious,Skyred,mirage,D!ngIT CS:GO Asia Invitational..,2,16,2,13,0,3,Skyred,15,8,1.47 
+2015,11,08,10:00,Puzzle,Secret,dust2,SoStronk KOTH Asia #1,6,16,3,12,3,4,Secret,16,12,1.19 
+2015,11,08,10:00,Puzzle,Secret,mirage,SoStronk KOTH Asia #1,7,16,6,9,1,7,Secret,22,13,1.43 
+2015,11,08,10:00,Secret,Puzzle,inferno,SoStronk KOTH Asia #1,4,16,3,12,1,4,Secret,13,18,0.74 
+2015,11,08,10:00,Secret,Puzzle,cache,SoStronk KOTH Asia #1,11,16,6,9,5,7,Secret,16,23,0.77 
+2015,11,05,10:00,Secret,nxl,cache,SoStronk KOTH Asia #1,16,11,7,8,9,3,Secret,27,13,1.49 
+2015,11,05,10:00,Secret,nxl,inferno,SoStronk KOTH Asia #1,16,14,10,5,6,9,Secret,23,21,1.02 
+2015,11,04,13:00,Secret,Puzzle,train,SoStronk KOTH Asia #1,16,14,10,5,6,9,Secret,26,17,1.33 
+2015,11,04,13:00,Secret,Puzzle,cache,SoStronk KOTH Asia #1,9,16,8,7,1,9,Secret,11,19,0.59 
+2015,11,04,13:00,Secret,Puzzle,inferno,SoStronk KOTH Asia #1,16,9,10,5,6,4,Secret,20,14,1.31 
+2015,09,12,19:00,Insidious,Skyred,mirage,MixBOT Pro-League Invite Seaso..,5,16,4,11,1,5,Skyred,16,11,1.19 
+2015,09,12,15:40,Skyred,Brutality,dust2,MixBOT Pro-League Invite Seaso..,16,9,8,7,8,2,Skyred,19,12,1.18 
+2015,09,06,15:00,Skyred,QeeYou,inferno,DreamHack Open Cluj-Napoca 201..,11,16,8,7,3,9,Skyred,17,19,1.00 
+2015,09,06,15:00,QeeYou,Skyred,cobblestone,DreamHack Open Cluj-Napoca 201..,16,10,9,6,7,4,Skyred,23,19,1.18 
+2015,09,06,12:20,Skyred,TyLoo,mirage,DreamHack Open Cluj-Napoca 201..,16,5,12,3,4,2,Skyred,15,10,1.13 
+2015,09,06,12:20,Skyred,TyLoo,inferno,DreamHack Open Cluj-Napoca 201..,16,11,8,7,8,4,Skyred,21,19,1.17 
+2015,09,06,09:00,Skyred,nxl,dust2,DreamHack Open Cluj-Napoca 201..,16,8,12,3,4,5,Skyred,16,12,1.11 
+2015,09,06,09:00,nxl,Skyred,mirage,DreamHack Open Cluj-Napoca 201..,16,12,9,6,7,6,Skyred,12,17,0.70 
+2015,09,06,09:00,nxl,Skyred,cobblestone,DreamHack Open Cluj-Napoca 201..,12,16,8,7,4,9,Skyred,22,20,1.06 
+2015,09,03,12:00,Indonesia,Vietnam,dust2,World Championships 2015 Asian..,13,16,8,7,5,9,Vietnam,14,16,0.81 
+2015,09,03,12:00,Indonesia,Vietnam,mirage,World Championships 2015 Asian..,11,16,7,8,4,8,Vietnam,20,16,1.14 
+2015,09,02,12:00,Kyrgyzstan,Vietnam,cache,World Championships 2015 Asian..,0,16,0,15,0,1,Vietnam,12,2,1.45 
+2015,09,02,12:00,Vietnam,Kyrgyzstan,inferno,World Championships 2015 Asian..,16,5,13,2,3,3,Vietnam,10,10,0.88 
+2015,08,30,13:00,Vietnam,Singapore,inferno,World Championships 2015 Asian..,16,1,14,1,2,0,Vietnam,6,3,1.04 
+2015,08,29,13:00,SouthKorea,Vietnam,mirage,World Championships 2015 Asian..,7,16,3,12,4,4,Vietnam,13,13,0.90 
+2015,08,29,12:00,Vietnam,Japan,cache,World Championships 2015 Asian..,16,12,5,10,11,2,Vietnam,18,18,0.99 
+2015,07,19,05:00,myRevenge,Skyred,dust2,ESL One Cologne 2015 Asian Qua..,16,14,6,9,10,5,Skyred,24,20,1.08 
+2015,07,18,08:50,Skyred,Immunity,inferno,ESL One Cologne 2015 Asian Qua..,8,16,7,8,1,8,Skyred,15,16,0.87 
+2015,07,18,07:35,Skyred,myRevenge,cache,ESL One Cologne 2015 Asian Qua..,16,9,10,5,6,4,Skyred,15,12,1.04 
+2015,06,06,13:00,Skyred,Bovines,inferno,FACEIT SEA Launch Cup,16,10,9,6,7,4,Skyred,19,14,1.17 
+2015,06,05,15:00,myRevenge,Skyred,inferno,FACEIT SEA Launch Cup,11,16,9,6,2,10,Skyred,11,14,0.73 
+2015,04,19,18:30,Skyred,TyLoo,cache,Rising Stars Asia #1,16,3,13,2,3,1,Skyred,23,6,1.98 
+2015,04,19,18:30,TyLoo,Skyred,dust2,Rising Stars Asia #1,11,16,7,8,4,8,Skyred,21,14,1.28 
+2015,04,19,17:15,Skyred,ZZCY,inferno,Rising Stars Asia #1,16,4,12,3,4,1,Skyred,23,7,1.87 
+2015,04,18,16:53,Skyred,Puzzle,cache,Rising Stars Asia #1,19,16,9,6,6,9,Skyred,30,21,1.27 

@@ -1,0 +1,15 @@
+2016,07,26,21:00,Awsomniac,E-Corp,overpass,UnderDogs #4,16,9,8,7,8,2,E-Corp,16,17,0.91 
+2016,07,26,21:00,E-Corp,Awsomniac,cache,UnderDogs #4,16,14,11,4,5,10,E-Corp,24,19,1.08 
+2016,07,26,21:00,Awsomniac,E-Corp,dust2,UnderDogs #4,16,2,13,2,3,0,E-Corp,11,17,0.75 
+2016,07,25,20:00,E-Corp,beGenius,cache,UnderDogs #4,16,3,12,3,4,0,E-Corp,23,8,1.82 
+2016,07,25,20:00,beGenius,E-Corp,mirage,UnderDogs #4,12,16,5,10,7,6,E-Corp,16,15,0.92 
+2016,04,30,17:50,visomvet,RedInstinctRS,overpass,DreamHack Regional Minor Champ..,16,11,10,5,6,6,Red Instinct RS,13,19,0.71 
+2016,04,23,16:45,Escape,WiC,mirage,DreamHack Regional Minor Champ..,16,1,14,1,2,0,WiC,8,16,0.54 
+2016,03,12,17:50,Platinium,CPHWolves,inferno,DreamHack Masters Malmö 2016 E..,13,16,6,9,7,7,Platinium,24,19,1.15 
+2016,02,22,23:00,WaRLegenD,DeadPixels,dust2,UnderDogs #2,11,16,6,9,5,7,WaRLegenD,16,23,0.70 
+2016,02,22,23:00,WaRLegenD,DeadPixels,overpass,UnderDogs #2,12,16,6,9,6,7,WaRLegenD,28,18,1.35 
+2015,09,28,21:30,AsusROG,TeamLessNana,cache,UnderDogs #1,16,11,8,7,8,4,Asus ROG,11,19,0.63 
+2015,09,28,21:30,AsusROG,TeamLessNana,dust2,UnderDogs #1,17,19,8,7,7,8,Asus ROG,22,22,1.02 
+2015,09,16,23:45,RedInstinct,TS-Netteux,dust2,LevelDown Championship,16,14,5,10,11,4,TS-Netteux,17,21,0.76 
+2015,09,16,23:00,TS-Netteux,WEGOTGAME,train,LevelDown Championship,3,16,3,12,0,4,TS-Netteux,7,16,0.47 
+2015,09,16,19:30,TS-Netteux,LDLCBlue,mirage,LevelDown Championship,16,13,10,5,6,8,TS-Netteux,15,19,0.85 

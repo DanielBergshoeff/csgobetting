@@ -1,0 +1,2 @@
+2016,08,11,13:00,Erase,ASDF,cache,ESEA Open Season 22 Oceania,7,16,4,11,3,5,Erase,19,18,1.02 
+2016,08,11,13:00,Erase,ASDF,train,ESEA Open Season 22 Oceania,7,16,6,9,1,7,Erase,9,21,0.42 

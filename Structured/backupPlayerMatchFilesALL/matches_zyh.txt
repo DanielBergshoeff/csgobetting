@@ -1,0 +1,24 @@
+2016,08,07,16:25,aimclub,passions,mirage,ECS Season 2 EU Open Qualifier..,11,16,8,7,3,9,aimclub,14,19,0.80 
+2016,08,07,15:05,aimclub,WWGGKTA,mirage,ECS Season 2 EU Open Qualifier..,16,8,11,4,5,4,aimclub,18,14,1.14 
+2016,03,24,19:00,Isak,PlayingDucks,mirage,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,Playing Ducks,10,20,0.54 
+2016,03,24,19:00,Isak,PlayingDucks,cache,Copenhagen Games 2016 BYOC Qua..,16,11,11,4,5,7,Playing Ducks,18,18,1.00 
+2016,03,24,15:30,PlayingDucks,Aquiver.BLU,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,12,6,9,10,3,Playing Ducks,16,17,0.94 
+2016,03,24,13:00,PlayingDucks,VacuousBaboons,dust2,Copenhagen Games 2016 BYOC Qua..,16,4,14,1,2,3,Playing Ducks,17,8,1.34 
+2016,01,29,19:00,Granted,EasternVikings,cobblestone,Uprise Champions Cup Season 4 ..,16,10,9,6,7,4,Eastern Vikings,12,20,0.64 
+2015,10,27,21:30,ggrabb,übern00bz,cache,RGN European Open,19,17,5,10,10,5,über n00bz,18,26,0.71 
+2015,10,08,19:30,Torpedo,EuropeanMisfits,cache,QuickShot Arena #10,16,3,12,3,4,0,European Misfits,7,16,0.65 
+2015,10,08,17:00,WorstPlayers,EuropeanMisfits,mirage,QuickShot Arena #10,16,7,13,2,3,5,European Misfits,10,18,0.62 
+2015,04,04,10:00,myKPV,SpaceSoldiers,nuke,Copenhagen Games 2015,13,16,12,3,1,13,myKPV,15,18,0.88 
+2015,04,03,22:30,myKPV,FUGL?,nuke,Copenhagen Games 2015,16,3,12,3,4,0,myKPV,19,7,1.81 
+2015,04,03,19:00,Publiclir.se,myKPV,inferno,Copenhagen Games 2015,16,14,9,6,7,8,myKPV,21,19,1.04 
+2015,04,03,19:00,Publiclir.se,myKPV,cache,Copenhagen Games 2015,16,14,9,6,7,8,myKPV,21,21,0.93 
+2015,04,03,15:30,Lions,myKPV,mirage,Copenhagen Games 2015,8,16,8,7,0,9,myKPV,16,14,0.97 
+2015,04,03,15:30,myKPV,Lions,inferno,Copenhagen Games 2015,16,14,5,10,11,4,myKPV,21,16,1.13 
+2015,04,03,12:00,Publiclir.se,myKPV,mirage,Copenhagen Games 2015,16,12,9,6,7,6,myKPV,15,20,0.76 
+2015,04,03,12:00,myKPV,Publiclir.se,cache,Copenhagen Games 2015,10,16,7,8,3,8,myKPV,11,19,0.63 
+2015,04,03,12:00,myKPV,Publiclir.se,inferno,Copenhagen Games 2015,16,11,11,4,5,7,myKPV,18,15,1.05 
+2015,04,02,20:30,myKPV,Lions,cache,Copenhagen Games 2015,16,6,10,5,6,1,myKPV,18,15,1.13 
+2015,04,02,19:00,myKPV,partyastronauts,inferno,Copenhagen Games 2015,16,4,12,3,4,1,myKPV,10,10,0.91 
+2015,04,02,14:00,myKPV,re:take,dust2,Copenhagen Games 2015,16,10,12,3,4,7,myKPV,17,16,0.95 
+2015,04,02,14:00,myKPV,re:take,inferno,Copenhagen Games 2015,16,9,11,4,5,5,myKPV,12,9,1.02 
+2014,08,23,21:15,PENTA,Cursive,inferno,FACEIT League 2 EU pre-qualifi..,16,7,12,3,4,4,Cursive,24,19,1.37 

@@ -34,15 +34,9 @@ sys.path.append('/usr/local/lib/python2.7/site-packages')
 from lxml import html
 import requests
 
-# import player ID's
-if platform == "darwin":
-    # OS X
-    with open(root+ 'idFiles/HLTV_players.txt', "r") as text_file:
-        allPlayersHLTV = text_file.read().split('\n')
-elif platform == "win32" or platform == "cygwin":
-    # Windows
-    with open(root+ 'idFiles\\HLTV_players.txt', "r") as text_file:
-        allPlayersHLTV = text_file.read().split('\n')
+import csv
+import numpy as np
+import matplotlib.pyplot as plt
 
 # import ID files
 if platform == "darwin":
@@ -61,95 +55,48 @@ elif platform == "win32" or platform == "cygwin":
         mapIDs = text_file.readline().split()
     with open(root+ 'idFiles\\eventIDs.txt', "r") as text_file:
         eventIDs = text_file.readline().split()
-        
-    
-for l in range(0,len(allPlayersHLTV)):
-    linkToPlayerPage = 'http://www.hltv.org/?pageid=246&playerid='
-    playerID = allPlayersHLTV[l].replace(" ", "").split(",")
-    linkToPlayerPage += str(playerID[1])
-    
-    # download page
-    page = requests.get(linkToPlayerPage)
-    tree = html.fromstring(page.content)
-    
-    # this will create a list of the extracted text
-    datesAndTeams = tree.xpath('//div[@class="covSmallHeadline"]/a/text()')
-    rest = tree.xpath('//div[@class="covSmallHeadline"]//text()')
-    
-    # create lists
-    dates = list()
-    date_year = list ()
-    date_month = list ()
-    date_day = list ()
-    
-    homeTeam = list()
-    homeTeamName = list()
-    homeTeamScore = list()
-    
-    outTeam = list()
-    outTeamName = list()
-    outTeamScore = list()
-    
-    map = list()
-    
-    kills = list()
-    deaths = list()
-    rating = list()
-    
-    # split and process collected list to individual lists
-    for i in range(10,len(rest)):
-        currentI = (i - 10) % 9
-        if (currentI == 0):
-            dates.append(rest[i].replace(" ","/20"))
-        if (currentI == 1):
-            homeTeam.append(rest[i].replace(" ",""))
-        if (currentI == 2):
-            outTeam.append(rest[i].replace(" ",""))
-        if (currentI == 3):
-            map.append(rest[i])
-        if (currentI == 4):
-            kills.append(rest[i])
-        if (currentI == 6):
-            deaths.append(rest[i])
-        if (currentI == 8):
-            rating.append(rest[i])
-            
-    # split date
-    for i in range(0,len(dates)):
-        date_year.append(dates[i].split("/")[2])
-        date_month.append(dates[i].split("/")[1])
-        date_day.append(dates[i].split("/")[0])
-        
-    # split scores from teamnames
-    for i in range(0,len(homeTeam)):
-        homeTeamName.append(homeTeam[i].split("(")[0])
-        homeTeamScore.append(homeTeam[i].split("(")[1].replace(")",""))
-        outTeamName.append(outTeam[i].split("(")[0])
-        outTeamScore.append(outTeam[i].split("(")[1].replace(")",""))
-            
-    # write everything to file
-    playerName = playerID[0]
-    playerName += '.txt'
-    
-    if platform == "darwin":
-        # OS X
-        filename = root + 'playerMatchFiles/matches_'
-    elif platform == "win32" or platform == "cygwin":
-        # Windows
-        filename = root + 'playerMatchFiles\\matches_'
 
-    filename += playerName
-    with open(filename, "w+") as text_file:
-        for i in range(0,len(dates)):
-            text_file.write("{0},{1},{2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10} \n".format(
-                date_year[i], str(date_month[i]).zfill(2), str(date_day[i]).zfill(2),
-                str(homeTeamName[i]).zfill(3),
-                str(homeTeamScore[i]).zfill(2),
-                str(outTeamName[i]).zfill(3),
-                str(outTeamScore[i]).zfill(2),
-                str(map[i]).zfill(2),
-                str(kills[i]).zfill(2),
-                str(deaths[i]).zfill(2),
-                str(rating[i]).zfill(3)))                
+linkToMatchesPage = 'http://www.hltv.org/match/2304000-virtuspro-nip-esl-pro-league-season-4-europe'
+# download page
+page = requests.get(linkToMatchesPage)
+tree = html.fromstring(page.content)
+    
+# this will create a list of the extracted text    
+rest = tree.xpath('//div[@class="text-center"]//text()')
 
-print('DONE')    
+players = [rest[1], rest[3], rest[5], rest[7], rest[9], rest[11], rest[13], rest[15], rest[17], rest[19]]
+import_data = list()
+
+print(players[3])
+
+for i in range(0, len(players)):
+    importfile = root + "playerMatchFiles\\matches_"
+    playerfile =  players[i].replace(" ", "") + ".txt"
+    matchfile = importfile + playerfile
+
+    import_data.append(np.genfromtxt(matchfile, delimiter = ','))
+    
+import_dates = import_data[0][:,][:,0:3]
+import_times = import_data[0][:,][:,3]
+import_homeTeamID = import_data[0][:,][:,4]
+import_outTeamID = import_data[0][:,][:,5]
+import_mapID = import_data[0][:,][:,6]
+import_eventID = import_data[0][:,][:,7]
+import_homeTeamScore = import_data[0][:,][:,8]
+import_outTeamScore = import_data[0][:,][:,9]
+import_homeTeamCTRounds = import_data[0][:,][:,10]
+import_outTeamTRounds = import_data[0][:,][:,11]
+import_homeTeamTRounds = import_data[0][:,][:,12]
+import_outTeamCTRounds = import_data[0][:,][:,13]
+import_playerTeamID = import_data[0][:,][:,14]
+import_playerKills = import_data[0][:,][:,15]
+import_playerDeaths = import_data[0][:,][:,16]
+import_playerRating = import_data[0][:,][:,17]
+
+print(import_playerRating[0])
+
+'''plt.plot(import_playerKills, import_playerDeaths)
+plt.show()'''
+
+        
+print('DONE')

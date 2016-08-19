@@ -1,0 +1,13 @@
+2016,07,30,19:30,Curiosity,carboN,train,ESWC 2016 South African Qualif..,5,16,4,11,1,5,Curiosity,12,17,0.72 
+2016,07,30,19:30,Curiosity,carboN,cobblestone,ESWC 2016 South African Qualif..,6,16,6,9,0,7,Curiosity,17,17,1.02 
+2016,07,30,09:55,Veneration,Curiosity,mirage,ESWC 2016 South African Qualif..,12,16,9,6,3,10,Curiosity,27,16,1.47 
+2016,07,29,21:45,xTc,Curiosity,train,ESWC 2016 South African Qualif..,16,10,10,5,6,5,Curiosity,19,20,1.04 
+2016,07,29,21:45,xTc,Curiosity,cobblestone,ESWC 2016 South African Qualif..,20,22,4,11,11,4,Curiosity,24,29,0.79 
+2016,07,29,21:45,Curiosity,xTc,cache,ESWC 2016 South African Qualif..,6,16,3,12,3,4,Curiosity,12,18,0.74 
+2015,12,12,19:00,Ventus,Bravado,inferno,BHG CS:GO Tournament,6,16,6,9,0,7,Ventus,15,18,0.88 
+2015,12,12,19:00,Bravado,Ventus,overpass,BHG CS:GO Tournament,16,3,12,3,4,0,Ventus,3,17,0.22 
+2015,12,12,15:00,UbS,Ventus,inferno,BHG CS:GO Tournament,6,16,4,11,2,5,Ventus,22,12,1.63 
+2015,12,12,15:00,Ventus,UbS,mirage,BHG CS:GO Tournament,16,1,15,0,1,1,Ventus,20,5,2.04 
+2015,12,12,11:45,Imagination,Ventus,mirage,BHG CS:GO Tournament,16,13,13,2,3,11,Ventus,27,22,1.33 
+2015,12,12,11:45,Imagination,Ventus,cobblestone,BHG CS:GO Tournament,13,16,7,8,6,8,Ventus,17,18,0.88 
+2015,12,12,11:45,Ventus,Imagination,cache,BHG CS:GO Tournament,5,16,3,12,2,4,Ventus,16,16,1.02 

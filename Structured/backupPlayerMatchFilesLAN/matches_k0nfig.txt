@@ -1,0 +1,78 @@
+2016,07,07,11:00,Astralis,dignitas,cache,ESL One Cologne 2016,16,14,9,6,7,8,dignitas,13,23,0.71 
+2016,07,07,11:00,dignitas,Astralis,mirage,ESL One Cologne 2016,10,16,2,13,8,3,dignitas,15,19,0.79 
+2016,07,07,11:00,Astralis,dignitas,cobblestone,ESL One Cologne 2016,16,19,10,5,5,10,dignitas,33,22,1.37 
+2016,07,06,12:15,CLG,dignitas,cobblestone,ESL One Cologne 2016,1,16,1,14,0,2,dignitas,12,9,1.25 
+2016,07,05,11:00,dignitas,Astralis,overpass,ESL One Cologne 2016,12,16,7,8,5,8,dignitas,25,19,1.38 
+2016,06,16,23:30,FaZe,dignitas,mirage,ELEAGUE Season 1,16,14,7,8,9,6,dignitas,27,24,1.22 
+2016,06,16,23:30,FaZe,dignitas,overpass,ELEAGUE Season 1,14,16,11,4,3,12,dignitas,19,22,0.90 
+2016,06,16,23:30,dignitas,FaZe,cache,ELEAGUE Season 1,10,16,3,12,7,4,dignitas,15,21,0.77 
+2016,06,15,23:50,dignitas,TSM,dust2,ELEAGUE Season 1,16,11,13,2,3,9,dignitas,20,16,1.04 
+2016,06,15,22:30,TSM,dignitas,mirage,ELEAGUE Season 1,12,16,7,8,5,8,dignitas,21,19,1.08 
+2016,06,15,21:30,dignitas,fnatic,dust2,ELEAGUE Season 1,6,16,5,10,1,6,dignitas,8,19,0.44 
+2016,06,15,20:20,fnatic,dignitas,cobblestone,ELEAGUE Season 1,16,9,11,4,5,5,dignitas,19,19,0.97 
+2016,06,14,21:20,FaZe,dignitas,mirage,ELEAGUE Season 1,16,6,9,6,7,0,dignitas,13,19,0.76 
+2016,06,14,20:00,FaZe,dignitas,cobblestone,ELEAGUE Season 1,16,5,10,5,6,0,dignitas,16,19,0.91 
+2016,06,12,21:00,TyLoo,dignitas,cobblestone,ESL One Cologne 2016 Main Qual..,3,16,3,12,0,4,dignitas,19,12,1.41 
+2016,06,12,14:10,dignitas,Renegades,dust2,ESL One Cologne 2016 Main Qual..,16,12,6,9,10,3,dignitas,27,18,1.43 
+2016,06,11,15:20,dignitas,HellRaisers,nuke,ESL One Cologne 2016 Main Qual..,10,16,4,11,6,5,dignitas,22,21,1.15 
+2016,06,10,17:00,Empire,dignitas,nuke,ESL One Cologne 2016 Main Qual..,13,16,11,4,2,12,dignitas,17,17,1.01 
+2016,06,09,21:00,FaZe,dignitas,mirage,ESL One Cologne 2016 Main Qual..,16,8,10,5,6,3,dignitas,16,19,0.94 
+2016,05,16,19:30,HellRaisers,dignitas,overpass,DreamHack Regional Minor Champ..,7,16,4,11,3,5,dignitas,27,12,1.82 
+2016,05,16,19:30,dignitas,HellRaisers,mirage,DreamHack Regional Minor Champ..,16,8,9,6,7,2,dignitas,19,15,1.21 
+2016,05,16,19:30,dignitas,HellRaisers,dust2,DreamHack Regional Minor Champ..,13,16,9,6,4,10,dignitas,24,20,1.14 
+2016,05,16,12:00,dignitas,Orbit,cobblestone,DreamHack Regional Minor Champ..,16,11,5,10,11,1,dignitas,12,14,0.83 
+2016,05,16,12:00,Orbit,dignitas,cache,DreamHack Regional Minor Champ..,16,10,8,7,8,3,dignitas,20,21,1.04 
+2016,05,16,12:00,dignitas,Orbit,mirage,DreamHack Regional Minor Champ..,16,11,8,7,8,4,dignitas,17,13,1.06 
+2016,05,15,15:00,dignitas,ENCE,cobblestone,DreamHack Regional Minor Champ..,16,8,8,7,8,1,dignitas,15,15,0.95 
+2016,05,15,15:00,ENCE,dignitas,train,DreamHack Regional Minor Champ..,11,16,9,6,2,10,dignitas,27,19,1.44 
+2016,05,14,13:30,dignitas,Orbit,cobblestone,DreamHack Regional Minor Champ..,16,13,6,9,10,4,dignitas,27,20,1.29 
+2016,05,14,12:00,Epsilon,dignitas,overpass,DreamHack Regional Minor Champ..,11,16,4,11,7,5,dignitas,20,17,1.09 
+2016,04,29,20:15,dignitas,SK,overpass,CEVO Gfinity Professional Seas..,11,16,4,11,7,5,dignitas,14,19,0.83 
+2016,04,29,20:15,SK,dignitas,cobblestone,CEVO Gfinity Professional Seas..,16,3,12,3,4,0,dignitas,2,17,0.20 
+2016,04,29,13:45,dignitas,TempoStorm,cache,CEVO Gfinity Professional Seas..,14,16,10,5,4,11,dignitas,27,20,1.29 
+2016,04,29,13:45,TempoStorm,dignitas,cobblestone,CEVO Gfinity Professional Seas..,12,16,8,7,4,9,dignitas,17,19,0.87 
+2016,04,29,13:45,TempoStorm,dignitas,mirage,CEVO Gfinity Professional Seas..,16,12,9,6,7,6,dignitas,22,21,1.09 
+2016,04,28,17:15,Selfless,dignitas,mirage,CEVO Gfinity Professional Seas..,5,16,2,13,3,3,dignitas,22,9,1.59 
+2016,04,28,17:15,dignitas,Selfless,inferno,CEVO Gfinity Professional Seas..,16,6,9,6,7,0,dignitas,26,14,1.65 
+2016,04,16,14:00,EnVyUs,dignitas,mirage,DreamHack Masters Malmö 2016,16,8,14,1,2,7,dignitas,7,19,0.46 
+2016,04,16,14:00,dignitas,EnVyUs,inferno,DreamHack Masters Malmö 2016,12,16,10,5,2,11,dignitas,12,24,0.58 
+2016,04,13,20:00,dignitas,Astralis,cache,DreamHack Masters Malmö 2016,16,9,9,6,7,3,dignitas,22,19,1.19 
+2016,04,12,18:30,NiP,dignitas,overpass,DreamHack Masters Malmö 2016,2,16,2,13,0,3,dignitas,24,13,2.11 
+2016,03,25,19:00,E-frag.net,dignitas,overpass,Copenhagen Games 2016,16,14,5,10,11,4,dignitas,27,22,1.22 
+2016,03,25,19:00,E-frag.net,dignitas,mirage,Copenhagen Games 2016,8,16,4,11,4,5,dignitas,16,18,0.93 
+2016,03,25,19:00,dignitas,E-frag.net,cache,Copenhagen Games 2016,6,16,5,10,1,6,dignitas,7,18,0.49 
+2016,03,25,13:30,Preparation,dignitas,mirage,Copenhagen Games 2016,14,16,5,10,9,6,dignitas,30,16,1.68 
+2016,03,25,12:00,Fragsters,dignitas,overpass,Copenhagen Games 2016,7,16,2,13,5,3,dignitas,27,9,1.98 
+2016,02,27,21:40,Cloud9,dignitas,cache,MLG Columbus 2016 Main Qualifi..,16,13,11,4,5,9,dignitas,19,21,0.89 
+2016,02,27,04:20,Renegades,dignitas,inferno,MLG Columbus 2016 Main Qualifi..,16,9,9,6,7,3,dignitas,13,19,0.70 
+2016,02,21,12:20,Astralis,dignitas,overpass,ESL Barcelona CS:GO Invitation..,16,12,6,9,10,3,dignitas,19,21,1.00 
+2016,02,21,10:30,dignitas,Astralis,mirage,ESL Barcelona CS:GO Invitation..,11,16,8,7,3,9,dignitas,19,20,0.97 
+2016,02,20,18:00,dignitas,Vexed,cobblestone,ESL Barcelona CS:GO Invitation..,16,5,12,3,4,2,dignitas,26,14,1.83 
+2016,02,20,14:55,fnatic,dignitas,cobblestone,ESL Barcelona CS:GO Invitation..,19,17,8,7,7,8,dignitas,25,28,0.91 
+2016,02,19,19:05,dignitas,Vexed,mirage,ESL Barcelona CS:GO Invitation..,16,7,9,6,7,1,dignitas,10,11,0.84 
+2016,02,19,17:15,dignitas,gBots,cobblestone,ESL Barcelona CS:GO Invitation..,16,14,9,6,7,8,dignitas,20,18,1.08 
+2016,02,07,16:00,dignitas,EnVyUs,inferno,Game Show Global eSports Cup 2..,13,16,7,8,6,8,dignitas,17,17,0.89 
+2016,02,07,15:54,dignitas,EnVyUs,mirage,Game Show Global eSports Cup 2..,7,16,6,9,1,7,dignitas,18,19,1.00 
+2016,02,07,15:54,dignitas,EnVyUs,cobblestone,Game Show Global eSports Cup 2..,4,16,4,11,0,5,dignitas,10,19,0.55 
+2016,02,06,21:15,dignitas,CLG,overpass,Game Show Global eSports Cup 2..,16,10,9,6,7,4,dignitas,27,17,1.51 
+2016,02,06,22:15,dignitas,CLG,cobblestone,Game Show Global eSports Cup 2..,16,14,8,7,8,7,dignitas,24,22,1.12 
+2016,02,04,16:30,dignitas,EnVyUs,inferno,Game Show Global eSports Cup 2..,16,5,11,4,5,1,dignitas,16,11,1.22 
+2016,02,04,16:30,dignitas,EnVyUs,cobblestone,Game Show Global eSports Cup 2..,16,9,7,8,9,1,dignitas,26,14,1.48 
+2016,02,04,14:00,dignitas,FlipSid3,cobblestone,Game Show Global eSports Cup 2..,16,12,13,2,3,10,dignitas,23,14,1.28 
+2016,02,04,14:00,dignitas,FlipSid3,inferno,Game Show Global eSports Cup 2..,16,13,13,2,3,11,dignitas,23,15,1.24 
+2016,01,23,20:40,NatusVincere,dignitas,train,DreamHack ZOWIE Open Leipzig 2..,16,9,12,3,4,6,dignitas,18,22,0.79 
+2016,01,23,20:40,NatusVincere,dignitas,cobblestone,DreamHack ZOWIE Open Leipzig 2..,16,13,6,9,10,4,dignitas,23,20,1.08 
+2016,01,23,15:00,dignitas,mousesports,mirage,DreamHack ZOWIE Open Leipzig 2..,16,13,6,9,10,4,dignitas,15,22,0.75 
+2016,01,23,15:00,mousesports,dignitas,cobblestone,DreamHack ZOWIE Open Leipzig 2..,4,16,3,12,1,4,dignitas,18,13,1.27 
+2016,01,22,22:00,dignitas,Virtus.pro,cobblestone,DreamHack ZOWIE Open Leipzig 2..,22,20,7,8,8,7,dignitas,37,28,1.24 
+2016,01,22,22:00,dignitas,Virtus.pro,mirage,DreamHack ZOWIE Open Leipzig 2..,16,7,8,7,8,0,dignitas,15,12,1.04 
+2016,01,22,22:00,dignitas,Virtus.pro,cache,DreamHack ZOWIE Open Leipzig 2..,11,16,8,7,3,9,dignitas,15,21,0.77 
+2016,01,22,14:30,dignitas,Astralis,overpass,DreamHack ZOWIE Open Leipzig 2..,9,16,4,11,5,5,dignitas,13,21,0.61 
+2015,10,30,14:00,Publiclir.se,HS.GG,overpass,ASUS ROG Nordic Challenge,16,12,5,10,11,2,HS.GG,27,16,1.36 
+2015,10,30,14:00,HS.GG,Publiclir.se,cobblestone,ASUS ROG Nordic Challenge,16,7,8,7,8,0,HS.GG,12,13,1.02 
+2015,10,30,14:00,Publiclir.se,HS.GG,mirage,ASUS ROG Nordic Challenge,16,6,10,5,6,1,HS.GG,17,21,0.84 
+2015,10,10,15:00,SK,dignitas,inferno,League of Sharks,14,16,8,7,6,9,SK,25,16,1.25 
+2015,10,10,15:00,dignitas,SK,overpass,League of Sharks,16,13,9,6,7,7,SK,15,22,0.73 
+2015,10,10,15:00,dignitas,SK,mirage,League of Sharks,16,14,9,6,7,8,SK,25,23,1.06 
+2015,09,20,00:00,SK,CPHWolves,cobblestone,DreamHack Open London 2015,13,16,6,9,7,7,SK,22,17,1.09 
+2015,09,19,21:21,G2,SK,inferno,DreamHack Open London 2015,16,13,12,3,4,10,SK,28,20,1.42 

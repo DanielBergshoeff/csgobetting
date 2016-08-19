@@ -1,0 +1,15 @@
+2016,03,13,06:45,Immunity,xqR,overpass,DreamHack Masters Malmö 2016 A..,16,3,13,2,3,1,xqR,12,17,0.77 
+2016,03,13,06:45,Immunity,xqR,mirage,DreamHack Masters Malmö 2016 A..,16,2,13,2,3,0,xqR,7,18,0.36 
+2016,03,13,06:45,Immunity,xqR,cache,DreamHack Masters Malmö 2016 A..,15,19,4,11,11,4,xqR,20,24,0.82 
+2016,03,12,14:50,xqR,TitaNs,inferno,DreamHack Masters Malmö 2016 A..,16,12,5,10,11,2,xqR,14,17,0.80 
+2015,12,05,11:00,MVP.karnal,xqR,inferno,SoStronk Challenger Asia #1,16,5,12,3,4,2,xqR,6,18,0.44 
+2015,12,05,11:00,MVP.karnal,xqR,cache,SoStronk Challenger Asia #1,18,22,10,5,5,10,xqR,24,28,0.85 
+2015,12,05,11:00,xqR,MVP.karnal,cobblestone,SoStronk Challenger Asia #1,14,16,7,8,7,8,xqR,13,22,0.66 
+2015,12,04,15:00,xqR,nxl,mirage,SoStronk Challenger Asia #1,16,13,9,6,7,7,xqR,14,24,0.56 
+2015,12,04,15:00,nxl,xqR,cobblestone,SoStronk Challenger Asia #1,16,13,8,7,8,6,xqR,16,22,0.80 
+2015,12,04,15:00,xqR,nxl,overpass,SoStronk Challenger Asia #1,16,14,11,4,5,10,xqR,17,21,0.80 
+2015,09,06,12:00,QeeYou,xqR,mirage,DreamHack Open Cluj-Napoca 201..,16,6,12,3,4,3,xqR,6,19,0.37 
+2015,09,06,12:00,QeeYou,xqR,inferno,DreamHack Open Cluj-Napoca 201..,16,4,11,4,5,0,xqR,3,19,0.20 
+2015,09,06,09:00,m0nster,xqR,cobblestone,DreamHack Open Cluj-Napoca 201..,12,16,4,11,8,5,xqR,20,16,1.09 
+2015,09,06,09:00,m0nster,xqR,cache,DreamHack Open Cluj-Napoca 201..,11,16,7,8,4,8,xqR,20,21,0.97 
+2015,09,05,12:05,xqR,b2W,inferno,DreamHack Open Cluj-Napoca 201..,16,2,13,2,3,0,xqR,11,5,1.20 

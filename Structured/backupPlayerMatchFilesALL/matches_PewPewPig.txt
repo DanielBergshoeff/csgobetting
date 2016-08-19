@@ -1,0 +1,2 @@
+2016,02,21,20:00,OpTic,Torment,inferno,DreamHack Masters Malmö 2016 N..,16,3,12,3,4,0,Torment,7,18,0.44 
+2016,02,21,20:00,Torment,OpTic,cobblestone,DreamHack Masters Malmö 2016 N..,9,16,8,7,1,9,Torment,26,23,1.21 

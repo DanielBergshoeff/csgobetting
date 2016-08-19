@@ -1,0 +1,5 @@
+2016,05,19,22:20,Kaliber,TSM,overpass,MLG Regional Minor Championshi..,4,16,3,12,1,4,Kaliber,8,16,0.58 
+2016,05,19,19:20,Kaliber,NRG,mirage,MLG Regional Minor Championshi..,13,16,9,6,4,10,Kaliber,18,21,0.90 
+2015,11,18,02:00,SKDC,CSGL,train,RGN Pro Series Championship,11,16,7,8,4,8,SKDC,11,21,0.54 
+2015,11,17,21:20,Liquid,SKDC,overpass,RGN Pro Series Championship,16,10,10,5,6,5,SKDC,13,21,0.66 
+2015,11,17,19:00,GamesAcademy,SKDC,dust2,RGN Pro Series Championship,16,5,11,4,5,1,SKDC,6,19,0.37 

@@ -1,0 +1,9 @@
+2016,05,09,03:00,RivaL,Detonate,mirage,MLG Regional Minor North Ameri..,16,11,8,7,8,4,Detonate,18,24,0.82 
+2016,05,09,01:00,Winterfox,Detonate,mirage,MLG Regional Minor North Ameri..,16,13,7,8,9,5,Detonate,19,23,0.86 
+2016,05,09,01:00,Detonate,Winterfox,overpass,MLG Regional Minor North Ameri..,5,16,4,11,1,5,Detonate,15,18,0.93 
+2016,05,08,20:40,EchoFox,Detonate,cache,MLG Regional Minor North Ameri..,8,16,4,11,4,5,Detonate,17,11,1.18 
+2016,05,08,20:40,EchoFox,Detonate,overpass,MLG Regional Minor North Ameri..,16,11,5,10,11,1,Detonate,11,23,0.50 
+2016,05,08,20:40,Detonate,EchoFox,mirage,MLG Regional Minor North Ameri..,16,11,10,5,6,6,Detonate,24,21,1.12 
+2015,10,25,01:00,Leader-1Red,Quintic,inferno,Ascendancy Cup #1,16,8,9,6,7,2,Quintic,14,20,0.74 
+2015,10,24,05:00,Gosu,Quintic,mirage,Ascendancy Cup #1,16,6,9,6,7,0,Quintic,10,19,0.62 
+2015,10,24,05:00,Quintic,Gosu,cache,Ascendancy Cup #1,6,16,4,11,2,5,Quintic,10,16,0.66 

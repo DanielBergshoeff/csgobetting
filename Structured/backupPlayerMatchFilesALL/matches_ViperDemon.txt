@@ -1,0 +1,22 @@
+2016,08,08,15:00,Signature,MiTH,overpass,ESEA Open Season 22 Asia,16,12,13,2,3,10,MiTH,11,20,0.60 
+2016,08,08,15:00,Signature,MiTH,dust2,ESEA Open Season 22 Asia,14,16,5,10,9,6,MiTH,22,15,1.19 
+2016,08,08,15:00,MiTH,Signature,mirage,ESEA Open Season 22 Asia,14,16,5,10,9,6,MiTH,11,23,0.57 
+2016,08,02,13:00,EDG,MiTH,cobblestone,E-Sports Festival CS:GO Tourna..,16,13,6,9,10,4,MiTH,28,21,1.15 
+2016,08,02,13:00,EDG,MiTH,mirage,E-Sports Festival CS:GO Tourna..,16,7,13,2,3,5,MiTH,11,21,0.50 
+2016,07,27,15:00,dream[S]cape,MiTH,mirage,MixBOT Pro-League Golden,16,10,8,7,8,3,MiTH,14,21,0.63 
+2016,07,27,15:00,dream[S]cape,MiTH,train,MixBOT Pro-League Golden,19,17,11,4,4,11,MiTH,31,22,1.31 
+2016,07,24,15:00,B.O.O.T,MiTH,mirage,MixBOT Pro-League Golden,16,11,10,5,6,6,MiTH,20,20,0.94 
+2016,07,24,15:00,B.O.O.T,MiTH,cobblestone,MixBOT Pro-League Golden,16,14,3,12,13,2,MiTH,16,22,0.74 
+2016,06,18,12:00,Signature,MiTH,nuke,MixBOT Pro-League Golden,16,11,10,5,6,6,MiTH,16,23,0.72 
+2016,06,18,12:00,MiTH,Signature,mirage,MixBOT Pro-League Golden,19,16,13,2,2,13,MiTH,20,27,0.81 
+2016,06,16,15:20,MiTH,MVP.karnal,cobblestone,MixBOT Pro-League Golden,8,16,7,8,1,8,MiTH,9,20,0.52 
+2016,06,16,15:20,MVP.karnal,MiTH,dust2,MixBOT Pro-League Golden,16,12,6,9,10,3,MiTH,18,19,0.92 
+2015,11,18,16:00,Emc,MiTH,overpass,MixBOT Pro-League Invite Seaso..,16,9,11,4,5,5,MiTH,13,22,0.63 
+2015,11,04,14:30,MiTH,MVP.karnal,dust2,D!ngIT CS:GO Asia Invitational..,6,16,2,13,4,3,MiTH,15,19,1.00 
+2015,10,31,08:50,m0nster,MiTH,train,D!ngIT CS:GO Asia Invitational..,16,8,10,5,6,3,MiTH,18,20,0.96 
+2015,09,18,14:45,MiTH,MVP.karnal,cobblestone,MixBOT Pro-League Invite Seaso..,6,16,3,12,3,4,MiTH,13,17,0.73 
+2015,09,18,13:00,MiTH,DeToNator,dust2,MixBOT Pro-League Invite Seaso..,16,14,6,9,10,5,MiTH,23,21,0.98 
+2015,09,12,13:00,MiTH,nxl,cache,MixBOT Pro-League Invite Seaso..,2,16,2,13,0,3,MiTH,9,17,0.53 
+2015,08,28,14:00,China,Thailand,mirage,World Championships 2015 Asian..,16,9,11,4,5,5,Thailand,16,19,0.87 
+2015,08,28,13:00,SriLanka,Thailand,cache,World Championships 2015 Asian..,7,16,5,10,2,6,Thailand,26,11,1.82 
+2015,08,27,14:15,Thailand,Malaysia,mirage,World Championships 2015 Asian..,16,12,8,7,8,5,Thailand,15,20,0.78 

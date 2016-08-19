@@ -1,0 +1,171 @@
+2016,08,14,16:50,Entropy,ALTERNATEaTTaX,cobblestone,ECS Season 2 EU Open Qualifier..,16,12,7,8,9,4,ALTERNATE aTTaX,13,20,0.64 
+2016,08,14,15:40,Epsilon,ALTERNATEaTTaX,overpass,ECS Season 2 EU Open Qualifier..,14,16,10,5,4,11,ALTERNATE aTTaX,21,20,0.97 
+2016,08,11,21:10,ALTERNATEaTTaX,HellRaisers,cache,SL i-League S2 Europe Qualifie..,11,16,7,8,4,8,ALTERNATE aTTaX,14,21,0.72 
+2016,08,11,21:10,HellRaisers,ALTERNATEaTTaX,nuke,SL i-League S2 Europe Qualifie..,16,4,11,4,5,0,ALTERNATE aTTaX,9,18,0.52 
+2016,08,09,21:00,MK,ALTERNATEaTTaX,dust2,ESEA Premier Season 22 Europe,16,12,7,8,9,4,ALTERNATE aTTaX,17,17,0.97 
+2016,08,09,21:00,MK,ALTERNATEaTTaX,overpass,ESEA Premier Season 22 Europe,16,9,9,6,7,3,ALTERNATE aTTaX,14,22,0.66 
+2016,08,09,21:00,ALTERNATEaTTaX,MK,cobblestone,ESEA Premier Season 22 Europe,16,11,7,8,9,3,ALTERNATE aTTaX,23,16,1.28 
+2016,08,04,21:00,ALTERNATEaTTaX,OsloLions,cache,ESEA Premier Season 22 Europe,16,12,7,8,9,4,ALTERNATE aTTaX,21,18,1.10 
+2016,08,04,21:00,ALTERNATEaTTaX,OsloLions,nuke,ESEA Premier Season 22 Europe,6,16,3,12,3,4,ALTERNATE aTTaX,13,21,0.58 
+2016,08,04,21:00,ALTERNATEaTTaX,OsloLions,cobblestone,ESEA Premier Season 22 Europe,16,13,7,8,9,5,ALTERNATE aTTaX,18,20,0.91 
+2016,08,03,19:15,ALTERNATEaTTaX,Spirit,overpass,xfunction Masters 2016,2,16,2,13,0,3,ALTERNATE aTTaX,12,15,0.85 
+2016,08,03,19:15,ALTERNATEaTTaX,Spirit,cobblestone,xfunction Masters 2016,8,16,3,12,5,4,ALTERNATE aTTaX,15,20,0.73 
+2016,07,31,18:00,MK,ALTERNATEaTTaX,dust2,SL i-League S2 Europe Qualifie..,16,12,6,9,10,3,ALTERNATE aTTaX,16,22,0.74 
+2016,07,30,20:00,ALTERNATEaTTaX,ENCE,cobblestone,SL i-League S2 Europe Qualifie..,16,5,10,5,6,0,ALTERNATE aTTaX,12,13,0.93 
+2016,07,30,20:00,ENCE,ALTERNATEaTTaX,dust2,SL i-League S2 Europe Qualifie..,13,16,8,7,5,9,ALTERNATE aTTaX,16,17,0.86 
+2016,07,28,21:45,Tricked,ALTERNATEaTTaX,cobblestone,Hitbox Challenger Cup #2,6,16,3,12,3,4,ALTERNATE aTTaX,13,13,0.88 
+2016,07,28,18:30,Epsilon,ALTERNATEaTTaX,nuke,SL i-League S2 Europe Qualifie..,15,19,10,5,5,10,ALTERNATE aTTaX,26,18,1.24 
+2016,07,28,18:30,ALTERNATEaTTaX,Epsilon,cobblestone,SL i-League S2 Europe Qualifie..,9,16,4,11,5,5,ALTERNATE aTTaX,14,16,0.90 
+2016,07,24,21:15,ANOX,ALTERNATEaTTaX,nuke,xfunction Masters 2016,6,16,4,11,2,5,ALTERNATE aTTaX,21,10,1.48 
+2016,07,21,21:30,Tricked,ALTERNATEaTTaX,dust2,BlasterX INETKOX League Season..,12,16,6,9,6,7,ALTERNATE aTTaX,14,18,0.77 
+2016,07,21,21:30,Tricked,ALTERNATEaTTaX,train,BlasterX INETKOX League Season..,16,9,8,7,8,2,ALTERNATE aTTaX,17,19,0.95 
+2016,07,20,18:30,eSuba,ALTERNATEaTTaX,dust2,Razer Rising Stars European Le..,6,16,6,9,0,7,ALTERNATE aTTaX,16,9,1.27 
+2016,07,20,18:30,ALTERNATEaTTaX,eSuba,cache,Razer Rising Stars European Le..,16,6,10,5,6,1,ALTERNATE aTTaX,15,12,1.07 
+2016,07,18,21:30,SpaceSoldiers,ALTERNATEaTTaX,cache,Operation: Kinguin #3,16,11,7,8,9,3,ALTERNATE aTTaX,16,19,0.84 
+2016,07,18,21:30,ALTERNATEaTTaX,SpaceSoldiers,mirage,Operation: Kinguin #3,15,19,7,8,8,7,ALTERNATE aTTaX,23,22,0.94 
+2016,07,14,23:00,ALTERNATEaTTaX,SpaceSoldiers,dust2,BlasterX INETKOX League Season..,16,7,13,2,3,5,ALTERNATE aTTaX,18,14,1.20 
+2016,07,14,23:00,ALTERNATEaTTaX,SpaceSoldiers,cobblestone,BlasterX INETKOX League Season..,16,19,3,12,12,3,ALTERNATE aTTaX,31,27,1.16 
+2016,07,06,19:30,ALTERNATEaTTaX,iNETKOXTV,cache,BlasterX INETKOX League Season..,10,16,5,10,5,6,ALTERNATE aTTaX,14,21,0.74 
+2016,07,06,19:30,iNETKOXTV,ALTERNATEaTTaX,train,BlasterX INETKOX League Season..,9,16,6,9,3,7,ALTERNATE aTTaX,18,17,1.00 
+2016,07,05,22:45,ALTERNATEaTTaX,FTW.PRO,cache,xfunction Masters 2016,16,10,10,5,6,5,ALTERNATE aTTaX,18,19,0.93 
+2016,07,03,22:00,LowLandLions,ALTERNATEaTTaX,overpass,Operation: Kinguin #3,11,16,10,5,1,11,ALTERNATE aTTaX,22,19,1.16 
+2016,07,03,22:00,LowLandLions,ALTERNATEaTTaX,cache,Operation: Kinguin #3,22,18,8,7,7,8,ALTERNATE aTTaX,31,34,0.94 
+2016,07,03,22:00,ALTERNATEaTTaX,LowLandLions,dust2,Operation: Kinguin #3,16,5,13,2,3,3,ALTERNATE aTTaX,14,14,0.91 
+2016,07,01,19:00,ALTERNATEaTTaX,Spirit,overpass,Hitbox Challenger Cup #2,16,10,13,2,3,8,ALTERNATE aTTaX,22,15,1.34 
+2016,07,01,19:00,Spirit,ALTERNATEaTTaX,cache,Hitbox Challenger Cup #2,14,16,6,9,8,7,ALTERNATE aTTaX,18,24,0.80 
+2016,06,29,18:00,PRIDE,ALTERNATEaTTaX,overpass,Hitbox Challenger Cup #2,12,16,9,6,3,10,ALTERNATE aTTaX,19,21,0.90 
+2016,06,29,18:00,ALTERNATEaTTaX,PRIDE,cache,Hitbox Challenger Cup #2,16,3,13,2,3,1,ALTERNATE aTTaX,12,12,1.07 
+2016,06,29,18:00,PRIDE,ALTERNATEaTTaX,mirage,Hitbox Challenger Cup #2,16,7,14,1,2,6,ALTERNATE aTTaX,17,17,1.03 
+2016,06,28,21:00,LGR,ALTERNATEaTTaX,dust2,Operation: Kinguin #3,6,16,3,12,3,4,ALTERNATE aTTaX,19,9,1.34 
+2016,06,28,21:00,ALTERNATEaTTaX,LGR,train,Operation: Kinguin #3,19,17,3,12,12,3,ALTERNATE aTTaX,23,26,0.92 
+2016,06,26,20:00,ALTERNATEaTTaX,Epsilon,train,Operation: Kinguin #3,16,13,9,6,7,7,ALTERNATE aTTaX,14,19,0.78 
+2016,06,26,20:00,ALTERNATEaTTaX,Epsilon,overpass,Operation: Kinguin #3,16,4,11,4,5,0,ALTERNATE aTTaX,20,10,1.56 
+2016,06,26,20:00,Epsilon,ALTERNATEaTTaX,cache,Operation: Kinguin #3,16,14,9,6,7,8,ALTERNATE aTTaX,17,21,0.87 
+2016,06,23,21:15,ALTERNATEaTTaX,Kinguin,cache,BlasterX INETKOX League Season..,5,16,5,10,0,6,ALTERNATE aTTaX,10,20,0.49 
+2016,06,23,21:15,ALTERNATEaTTaX,Kinguin,train,BlasterX INETKOX League Season..,13,16,8,7,5,9,ALTERNATE aTTaX,13,26,0.52 
+2016,06,21,20:00,Orbit,ALTERNATEaTTaX,dust2,BlasterX INETKOX League Season..,11,16,10,5,1,11,ALTERNATE aTTaX,17,18,0.93 
+2016,06,21,20:00,ALTERNATEaTTaX,Orbit,overpass,BlasterX INETKOX League Season..,8,16,4,11,4,5,ALTERNATE aTTaX,11,18,0.71 
+2016,06,16,22:00,ALTERNATEaTTaX,PENTA,overpass,Razer Rising Stars European Le..,16,8,10,5,6,3,ALTERNATE aTTaX,16,17,0.92 
+2016,06,16,22:00,PENTA,ALTERNATEaTTaX,cache,Razer Rising Stars European Le..,1,16,1,14,0,2,ALTERNATE aTTaX,17,9,1.36 
+2016,06,15,18:15,ALTERNATEaTTaX,Spirit,cache,owayo Masters I,13,16,3,12,10,4,ALTERNATE aTTaX,14,23,0.69 
+2016,06,15,18:15,Spirit,ALTERNATEaTTaX,cobblestone,owayo Masters I,16,6,10,5,6,1,ALTERNATE aTTaX,13,17,0.81 
+2016,06,14,21:30,ALTERNATEaTTaX,CSatse,mirage,owayo Masters I,19,16,9,6,6,9,ALTERNATE aTTaX,21,23,0.93 
+2016,06,14,21:30,CSatse,ALTERNATEaTTaX,dust2,owayo Masters I,7,16,7,8,0,8,ALTERNATE aTTaX,19,14,1.21 
+2016,06,13,20:15,ALTERNATEaTTaX,Alpha,mirage,RGN Pro Series II EU Closed Qu..,7,16,6,9,1,7,ALTERNATE aTTaX,11,17,0.66 
+2016,06,13,20:15,ALTERNATEaTTaX,Alpha,train,RGN Pro Series II EU Closed Qu..,16,7,10,5,6,2,ALTERNATE aTTaX,18,16,1.05 
+2016,06,13,20:15,Alpha,ALTERNATEaTTaX,cache,RGN Pro Series II EU Closed Qu..,16,8,8,7,8,1,ALTERNATE aTTaX,9,20,0.47 
+2016,06,07,20:00,RCTIC,ALTERNATEaTTaX,cache,owayo Masters I,9,16,8,7,1,9,ALTERNATE aTTaX,19,17,1.15 
+2016,06,07,20:00,RCTIC,ALTERNATEaTTaX,cobblestone,owayo Masters I,13,16,5,10,8,6,ALTERNATE aTTaX,25,20,1.15 
+2016,06,06,19:00,ALTERNATEaTTaX,EURONICS,overpass,RGN Pro Series II EU Closed Qu..,19,16,6,9,9,6,ALTERNATE aTTaX,24,21,1.00 
+2016,06,06,19:00,EURONICS,ALTERNATEaTTaX,dust2,RGN Pro Series II EU Closed Qu..,8,16,7,8,1,8,ALTERNATE aTTaX,6,17,0.47 
+2016,06,05,12:00,ALTERNATEaTTaX,Dobry&Gaming,dust2,DreamHack ZOWIE Open Summer 20..,14,16,10,5,4,11,ALTERNATE aTTaX,10,18,0.64 
+2016,06,05,12:00,ALTERNATEaTTaX,Dobry&Gaming,cache,DreamHack ZOWIE Open Summer 20..,14,16,10,5,4,11,ALTERNATE aTTaX,20,18,0.96 
+2016,06,04,18:30,SlashCry,ALTERNATEaTTaX,overpass,DreamHack ZOWIE Open Summer 20..,9,16,7,8,2,8,ALTERNATE aTTaX,20,14,1.26 
+2016,06,02,22:00,ALTERNATEaTTaX,Bpro,cache,Razer Rising Stars European Le..,16,13,10,5,6,8,ALTERNATE aTTaX,19,20,0.88 
+2016,06,02,22:00,ALTERNATEaTTaX,Bpro,dust2,Razer Rising Stars European Le..,16,7,13,2,3,5,ALTERNATE aTTaX,15,14,1.02 
+2016,06,01,17:00,ALTERNATEaTTaX,Dobry&Gaming,cobblestone,Uprise Champions Cup Season 4,3,16,2,13,1,3,ALTERNATE aTTaX,6,16,0.39 
+2016,06,01,17:00,Dobry&Gaming,ALTERNATEaTTaX,cache,Uprise Champions Cup Season 4,16,12,7,8,9,4,ALTERNATE aTTaX,14,20,0.75 
+2016,05,31,20:10,AGG,ALTERNATEaTTaX,dust2,Operation: Kinguin #3,8,16,3,12,5,4,ALTERNATE aTTaX,16,14,0.99 
+2016,05,31,20:10,ALTERNATEaTTaX,AGG,mirage,Operation: Kinguin #3,16,6,13,2,3,4,ALTERNATE aTTaX,21,13,1.37 
+2016,05,30,22:00,ALTERNATEaTTaX,AGG,overpass,BlasterX INETKOX League Season..,16,6,10,5,6,1,ALTERNATE aTTaX,19,13,1.40 
+2016,05,30,22:00,ALTERNATEaTTaX,AGG,cobblestone,BlasterX INETKOX League Season..,16,7,8,7,8,0,ALTERNATE aTTaX,10,12,0.83 
+2016,05,29,12:15,AGG,ALTERNATEaTTaX,mirage,DreamHack ZOWIE Open Summer 20..,16,7,9,6,7,1,ALTERNATE aTTaX,5,19,0.35 
+2016,05,29,12:15,ALTERNATEaTTaX,AGG,train,DreamHack ZOWIE Open Summer 20..,5,16,4,11,1,5,ALTERNATE aTTaX,10,17,0.72 
+2016,05,29,12:15,ALTERNATEaTTaX,AGG,cobblestone,DreamHack ZOWIE Open Summer 20..,16,11,7,8,9,3,ALTERNATE aTTaX,14,17,0.84 
+2016,05,28,18:00,SlashCry,ALTERNATEaTTaX,cache,DreamHack ZOWIE Open Summer 20..,7,16,6,9,1,7,ALTERNATE aTTaX,21,12,1.28 
+2016,05,26,20:45,PRIDE,ALTERNATEaTTaX,train,BlasterX INETKOX League Season..,16,14,7,8,9,6,ALTERNATE aTTaX,15,22,0.75 
+2016,05,26,20:45,ALTERNATEaTTaX,PRIDE,cache,BlasterX INETKOX League Season..,16,5,12,3,4,2,ALTERNATE aTTaX,17,15,1.13 
+2016,05,25,20:00,Iwku,ALTERNATEaTTaX,dust2,Razer Rising Stars European Le..,11,16,9,6,2,10,ALTERNATE aTTaX,12,17,0.74 
+2016,05,25,20:00,ALTERNATEaTTaX,Iwku,cache,Razer Rising Stars European Le..,16,11,13,2,3,9,ALTERNATE aTTaX,24,18,1.16 
+2016,05,24,20:00,ALTERNATEaTTaX,AGG,dust2,Razer Rising Stars European Le..,16,12,9,6,7,6,ALTERNATE aTTaX,15,18,0.88 
+2016,05,24,20:00,ALTERNATEaTTaX,AGG,overpass,Razer Rising Stars European Le..,7,16,6,9,1,7,ALTERNATE aTTaX,10,21,0.51 
+2016,05,22,20:00,CPHWolves,ALTERNATEaTTaX,inferno,RGN Pro Series II EU Closed Qu..,16,5,10,5,6,0,ALTERNATE aTTaX,12,17,0.80 
+2016,05,22,20:00,ALTERNATEaTTaX,CPHWolves,overpass,RGN Pro Series II EU Closed Qu..,16,6,10,5,6,1,ALTERNATE aTTaX,14,10,1.03 
+2016,05,22,20:00,CPHWolves,ALTERNATEaTTaX,cobblestone,RGN Pro Series II EU Closed Qu..,16,8,11,4,5,4,ALTERNATE aTTaX,16,17,0.99 
+2016,05,17,20:00,ALTERNATEaTTaX,LDLC,dust2,Razer Rising Stars European Le..,9,16,3,12,6,4,ALTERNATE aTTaX,15,18,0.85 
+2016,05,17,20:00,ALTERNATEaTTaX,LDLC,cache,Razer Rising Stars European Le..,12,16,10,5,2,11,ALTERNATE aTTaX,18,23,0.79 
+2016,03,31,18:15,ALTERNATEaTTaX,Torpedo,cobblestone,Operation: Kinguin #2,15,19,4,11,11,4,ALTERNATE aTTaX,28,24,1.12 
+2016,03,31,18:15,Torpedo,ALTERNATEaTTaX,inferno,Operation: Kinguin #2,16,4,11,4,5,0,ALTERNATE aTTaX,4,19,0.24 
+2016,03,31,18:15,ALTERNATEaTTaX,Torpedo,mirage,Operation: Kinguin #2,19,17,8,7,7,8,ALTERNATE aTTaX,19,24,0.81 
+2016,03,29,18:50,CSGL,ALTERNATEaTTaX,train,Operation: Kinguin #2,16,1,14,1,2,0,ALTERNATE aTTaX,4,16,0.28 
+2016,03,29,18:50,CSGL,ALTERNATEaTTaX,cobblestone,Operation: Kinguin #2,14,16,10,5,4,11,ALTERNATE aTTaX,13,22,0.66 
+2016,03,29,18:50,ALTERNATEaTTaX,CSGL,cache,Operation: Kinguin #2,8,16,5,10,3,6,ALTERNATE aTTaX,15,19,0.76 
+2016,01,10,18:00,unu.AiN,PENTA,inferno,Game Show Global eSports Cup 2..,16,7,10,5,6,2,PENTA,12,18,0.74 
+2016,01,10,18:00,unu.AiN,PENTA,cache,Game Show Global eSports Cup 2..,16,11,10,5,6,6,PENTA,22,20,1.15 
+2015,12,05,16:30,PENTA,Planetkey,mirage,ESL Meisterschaft Winter 2015 ..,19,15,10,5,5,10,Planetkey,23,26,1.03 
+2015,12,05,16:30,Planetkey,PENTA,cache,ESL Meisterschaft Winter 2015 ..,3,16,3,12,0,4,Planetkey,7,17,0.42 
+2015,11,24,21:00,KILLERFISH,Planetkey,cache,99Damage League Season 2,16,4,11,4,5,0,Planetkey,12,18,0.64 
+2015,11,24,21:00,Planetkey,KILLERFISH,inferno,99Damage League Season 2,16,11,8,7,8,4,Planetkey,34,21,1.56 
+2015,11,18,21:00,EURONICS,Planetkey,cobblestone,99Damage League Season 2,16,8,9,6,7,2,Planetkey,14,22,0.60 
+2015,11,18,21:00,Planetkey,EURONICS,dust2,99Damage League Season 2,16,8,10,5,6,3,Planetkey,19,15,1.23 
+2015,11,12,20:00,LondonC,Planetkey,mirage,Acer Predator Masters powered ..,16,7,10,5,6,2,Planetkey,14,21,0.73 
+2015,11,12,20:00,LondonC,Planetkey,dust2,Acer Predator Masters powered ..,16,5,12,3,4,2,Planetkey,14,18,0.81 
+2015,11,10,18:10,PENTA,Planetkey,mirage,Acer Predator Masters powered ..,16,10,8,7,8,3,Planetkey,20,19,1.09 
+2015,11,10,18:10,PENTA,Planetkey,dust2,Acer Predator Masters powered ..,12,16,8,7,4,9,Planetkey,16,21,0.81 
+2015,10,20,22:50,Vexed,Planetkey,train,Acer Predator Masters powered ..,9,16,4,11,5,5,Planetkey,23,13,1.46 
+2015,10,20,22:50,Vexed,Planetkey,dust2,Acer Predator Masters powered ..,8,16,4,11,4,5,Planetkey,15,16,0.96 
+2015,10,17,16:30,Planetkey,EYESONU,mirage,99Damage League Season 1,16,14,7,8,9,6,Planetkey,18,24,0.86 
+2015,10,17,16:30,EYESONU,Planetkey,cache,99Damage League Season 1,16,11,6,9,10,2,Planetkey,20,20,1.05 
+2015,10,17,16:30,EYESONU,Planetkey,dust2,99Damage League Season 1,5,16,4,11,1,5,Planetkey,17,7,1.36 
+2015,10,17,13:15,PENTA,Planetkey,cache,99Damage League Season 1,16,12,7,8,9,4,Planetkey,12,21,0.56 
+2015,10,17,13:15,PENTA,Planetkey,dust2,99Damage League Season 1,16,7,9,6,7,1,Planetkey,10,20,0.49 
+2015,10,17,13:15,PENTA,Planetkey,mirage,99Damage League Season 1,12,16,5,10,7,6,Planetkey,28,18,1.40 
+2015,10,15,19:00,E-frag.net,Planetkey,cache,Acer Predator Masters powered ..,16,4,12,3,4,1,Planetkey,10,18,0.67 
+2015,10,15,19:00,E-frag.net,Planetkey,dust2,Acer Predator Masters powered ..,16,6,11,4,5,2,Planetkey,8,20,0.40 
+2015,09,30,20:15,Planetkey,EYESONU,mirage,99Damage League Season 1,16,9,10,5,6,4,Planetkey,21,16,1.16 
+2015,09,30,20:15,Planetkey,EYESONU,dust2,99Damage League Season 1,16,7,9,6,7,1,Planetkey,18,17,1.09 
+2015,09,30,17:00,Spain,Germany,cobblestone,World Championships 2015 Europ..,12,16,5,10,7,6,Germany,23,17,1.26 
+2015,09,30,17:00,Spain,Germany,dust2,World Championships 2015 Europ..,14,16,6,9,8,7,Germany,21,19,1.08 
+2015,09,30,17:00,Germany,Spain,cache,World Championships 2015 Europ..,12,16,3,12,9,4,Germany,15,24,0.67 
+2015,09,29,20:00,Caseking,Planetkey,cache,99Damage League Season 1,16,10,7,8,9,2,Planetkey,23,20,1.15 
+2015,09,29,20:00,Planetkey,Caseking,cobblestone,99Damage League Season 1,6,16,4,11,2,5,Planetkey,13,18,0.75 
+2015,09,28,23:00,Germany,Russia,mirage,World Championships 2015 Europ..,14,16,8,7,6,9,Germany,17,20,0.88 
+2015,09,23,19:00,PlayingDucks,Planetkey,mirage,99Damage League Season 1,19,16,9,6,6,9,Planetkey,31,26,1.20 
+2015,09,23,19:00,PlayingDucks,Planetkey,dust2,99Damage League Season 1,10,16,4,11,6,5,Planetkey,15,19,0.86 
+2015,09,21,22:15,Planetkey,LANDODGERS,cache,D!ngIT $2000 Weekly Cup #18,6,16,4,11,2,5,Planetkey,9,17,0.58 
+2015,09,21,20:30,Publiclir.se,Planetkey,mirage,D!ngIT $2000 Weekly Cup #18,16,5,10,5,6,0,Planetkey,7,21,0.36 
+2015,09,21,20:30,Planetkey,Publiclir.se,cache,D!ngIT $2000 Weekly Cup #18,10,16,4,11,6,5,Planetkey,14,21,0.70 
+2015,09,15,19:00,PENTA,Planetkey,cache,99Damage League Season 1,16,5,11,4,5,1,Planetkey,6,19,0.43 
+2015,09,15,19:00,PENTA,Planetkey,dust2,99Damage League Season 1,13,16,6,9,7,7,Planetkey,23,22,1.00 
+2015,09,08,19:00,Planetkey,uX,cache,99Damage League Season 1,16,11,11,4,5,7,Planetkey,20,15,1.13 
+2015,08,26,19:00,KILLERFISH,Planetkey,cache,99Damage League Season 1,16,6,11,4,5,2,Planetkey,8,20,0.43 
+2015,08,26,19:00,KILLERFISH,Planetkey,dust2,99Damage League Season 1,11,16,7,8,4,8,Planetkey,17,17,1.02 
+2015,08,09,12:45,Planetkey,mousesports,cobblestone,ESL Sommermeisterschaft 2015 F..,15,19,11,4,4,11,Planetkey,28,26,1.19 
+2015,08,09,12:45,mousesports,Planetkey,dust2,ESL Sommermeisterschaft 2015 F..,16,5,11,4,5,1,Planetkey,6,18,0.36 
+2015,08,09,12:45,mousesports,Planetkey,cache,ESL Sommermeisterschaft 2015 F..,11,16,7,8,4,8,Planetkey,23,18,1.20 
+2015,06,28,15:45,PiTER,Planetkey,cobblestone,ESL One Cologne 2015 EU pre-qu..,16,9,11,4,5,5,Planetkey,22,17,1.16 
+2015,06,28,15:45,PiTER,Planetkey,mirage,ESL One Cologne 2015 EU pre-qu..,16,4,12,3,4,1,Planetkey,10,17,0.71 
+2015,06,28,15:45,Planetkey,PiTER,cache,ESL One Cologne 2015 EU pre-qu..,19,17,11,4,4,11,Planetkey,34,22,1.40 
+2015,06,25,21:45,Planetkey,Infused,cobblestone,D!ngIT $2000 Weekly Cup #6,8,16,7,8,1,8,Planetkey,11,21,0.51 
+2015,06,25,21:45,Planetkey,Infused,dust2,D!ngIT $2000 Weekly Cup #6,5,16,4,11,1,5,Planetkey,18,15,1.16 
+2015,05,13,21:00,mousesports,PENTA,inferno,99Damage Arena #7,16,7,10,5,6,2,PENTA,13,17,0.71 
+2015,05,12,18:00,PENTA,G2,dust2,Acer Predator Masters powered ..,16,8,12,3,4,5,PENTA,7,2,1.91 
+2015,05,10,22:55,G2,PENTA,dust2,CEVO Professional Season 7,16,12,10,5,6,7,PENTA,15,19,0.83 
+2015,05,10,22:55,PENTA,G2,mirage,CEVO Professional Season 7,13,16,12,3,1,13,PENTA,19,22,0.92 
+2015,04,29,20:30,PENTA,G2,cobblestone,99Damage Arena #6,16,11,10,5,6,6,PENTA,10,17,0.72 
+2015,04,29,20:30,G2,PENTA,cache,99Damage Arena #6,13,16,9,6,4,10,PENTA,20,23,0.88 
+2015,04,29,20:30,PENTA,G2,mirage,99Damage Arena #6,21,25,8,7,7,8,PENTA,29,35,0.87 
+2015,04,29,18:00,PENTA,dignitas,dust2,Fragbite Masters Season 4,7,16,5,10,2,6,PENTA,7,19,0.42 
+2015,04,29,18:00,dignitas,PENTA,inferno,Fragbite Masters Season 4,16,3,12,3,4,0,PENTA,9,18,0.65 
+2015,04,28,21:00,NatusVincere,PENTA,cobblestone,Fragbite Masters Season 4,16,8,10,5,6,3,PENTA,10,21,0.55 
+2015,04,28,21:00,NatusVincere,PENTA,dust2,Fragbite Masters Season 4,16,11,6,9,10,2,PENTA,18,20,0.88 
+2015,04,27,20:00,Property,PENTA,mirage,CEVO Professional Season 7,16,1,14,1,2,0,PENTA,11,16,0.72 
+2015,04,27,20:00,PENTA,Property,cache,CEVO Professional Season 7,22,19,9,6,6,9,PENTA,28,30,0.95 
+2015,04,15,20:30,PENTA,FlipSid3,inferno,Global Offensive Champions Lea..,6,16,6,9,0,7,PENTA,14,18,0.84 
+2015,04,15,19:30,FlipSid3,PENTA,nuke,Global Offensive Champions Lea..,16,8,13,2,3,6,PENTA,14,19,0.80 
+2015,01,12,20:40,FlipSid3,ALTERNATEaTTaX,mirage,99Damage Arena #4,16,3,12,3,4,0,ALTERNATE aTTaX,7,18,0.38 
+2015,01,12,20:40,FlipSid3,ALTERNATEaTTaX,cache,99Damage Arena #4,16,9,11,4,5,5,ALTERNATE aTTaX,20,20,1.11 
+2015,01,12,18:00,iNation,ALTERNATEaTTaX,mirage,99Damage Arena #4,14,16,8,7,6,9,ALTERNATE aTTaX,26,22,1.25 
+2015,01,12,18:00,ALTERNATEaTTaX,iNation,cache,99Damage Arena #4,19,17,8,7,7,8,ALTERNATE aTTaX,27,24,1.12 
+2014,12,20,01:30,Reason,ALTERNATEaTTaX,dust2,Acer A-Split Invitational powe..,16,11,8,7,8,4,ALTERNATE aTTaX,25,19,1.29 
+2014,12,20,01:30,ALTERNATEaTTaX,Reason,overpass,Acer A-Split Invitational powe..,5,16,2,13,3,3,ALTERNATE aTTaX,13,17,0.69 
+2014,12,19,23:30,ALTERNATEaTTaX,mousesports,cache,Acer A-Split Invitational powe..,14,16,10,5,4,11,ALTERNATE aTTaX,29,19,1.32 
+2014,12,19,23:30,ALTERNATEaTTaX,mousesports,inferno,Acer A-Split Invitational powe..,6,16,5,10,1,6,ALTERNATE aTTaX,11,20,0.76 
+2014,11,10,21:50,myKPV,MTW,mirage,ESL Pro Series Germany Winter ..,16,5,11,4,5,1,MTW,13,19,0.73 
+2014,11,10,19:15,PlayingDucks,MTW,overpass,ESL Pro Series Germany Winter ..,16,14,10,5,6,9,MTW,23,21,1.14 
+2014,07,27,13:00,Planetkey,NatusVincere,mirage,ESL One Cologne 2014 European ..,22,26,10,5,5,10,Planetkey,19,39,0.51 
+2014,07,27,13:00,Planetkey,NatusVincere,inferno,ESL One Cologne 2014 European ..,10,16,7,8,3,8,Planetkey,14,16,0.81 
+2014,07,26,18:00,Planetkey,tomtebloss,dust2,ESL One Cologne 2014 European ..,16,2,13,2,3,0,Planetkey,15,9,1.30 
+2014,07,26,18:00,Planetkey,tomtebloss,inferno,ESL One Cologne 2014 European ..,16,7,10,5,6,2,Planetkey,14,12,1.08 
+2014,07,26,15:45,Planetkey,ENCORE,inferno,ESL One Cologne 2014 European ..,13,16,8,7,5,9,Planetkey,18,20,0.83 
+2014,07,26,15:45,ENCORE,Planetkey,nuke,ESL One Cologne 2014 European ..,16,11,10,5,6,6,Planetkey,19,18,1.03 

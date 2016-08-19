@@ -1,0 +1,11 @@
+2016,07,13,14:30,Thailand,Mongolia,cache,World Championships 2016 Asian..,15,19,5,10,10,5,Mongolia,25,24,1.02 
+2016,07,13,14:30,Thailand,Mongolia,dust2,World Championships 2016 Asian..,9,16,4,11,5,5,Mongolia,9,18,0.62 
+2016,07,13,14:30,Mongolia,Thailand,mirage,World Championships 2016 Asian..,8,16,5,10,3,6,Mongolia,10,19,0.57 
+2016,07,13,12:15,Indonesia,Mongolia,cobblestone,World Championships 2016 Asian..,16,10,11,4,5,6,Mongolia,15,19,0.79 
+2016,07,13,11:00,Thailand,Mongolia,dust2,World Championships 2016 Asian..,12,16,6,9,6,7,Mongolia,14,14,0.87 
+2016,07,02,14:00,Malaysia,Mongolia,cache,World Championships 2016 Asian..,2,16,2,13,0,3,Mongolia,19,6,1.72 
+2016,07,02,14:00,Malaysia,Mongolia,dust2,World Championships 2016 Asian..,4,16,3,12,1,4,Mongolia,18,8,1.53 
+2016,06,28,11:00,Mongolia,Lebanon,mirage,World Championships 2016 Asian..,16,14,10,5,6,9,Mongolia,29,18,1.33 
+2016,06,28,11:00,Mongolia,Lebanon,cache,World Championships 2016 Asian..,16,11,11,4,5,7,Mongolia,25,17,1.33 
+2016,04,21,11:00,Immunity,Corvidae,mirage,PGL KeSPA Minor Oceania Qualif..,16,5,14,1,2,4,Corvidae,10,17,0.58 
+2016,04,21,11:00,Corvidae,Immunity,overpass,PGL KeSPA Minor Oceania Qualif..,14,16,6,9,8,7,Corvidae,25,22,1.15 

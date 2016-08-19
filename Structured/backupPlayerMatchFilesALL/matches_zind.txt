@@ -1,0 +1,3 @@
+2016,06,25,14:45,Tricked,OnlineRol,dust2,Dust2.dk eOddset Kinguin #1,16,6,12,3,4,3,OnlineRol,7,20,0.34 
+2016,06,25,13:30,EasternVikings,OnlineRol,train,Dust2.dk eOddset Kinguin #1,16,13,6,9,10,4,OnlineRol,18,22,0.82 
+2016,06,25,12:30,Alpha,OnlineRol,dust2,Dust2.dk eOddset Kinguin #1,16,14,7,8,9,6,OnlineRol,13,21,0.65 

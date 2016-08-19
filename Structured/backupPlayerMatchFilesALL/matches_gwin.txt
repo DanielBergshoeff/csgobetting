@@ -1,0 +1,5 @@
+2015,12,05,12:00,autocracy,T5,mirage,D!ngIT & NCSC Korea S1 Qualifi..,10,16,8,7,2,9,autocracy,10,18,0.59 
+2015,12,05,12:00,T5,autocracy,inferno,D!ngIT & NCSC Korea S1 Qualifi..,16,12,11,4,5,8,autocracy,19,21,0.92 
+2015,12,05,12:00,T5,autocracy,cobblestone,D!ngIT & NCSC Korea S1 Qualifi..,10,16,7,8,3,8,autocracy,17,18,0.89 
+2015,11,28,14:00,autocracy,Player5,mirage,D!ngIT & NCSC Korea S1 Qualifi..,16,3,12,3,4,0,autocracy,17,9,1.42 
+2015,11,27,12:00,autocracy,WHYSchwyz,overpass,D!ngIT & NCSC Korea S1 Qualifi..,16,0,15,0,1,0,autocracy,12,6,1.32 

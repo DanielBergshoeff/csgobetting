@@ -1,0 +1,74 @@
+2016,06,20,11:00,Immortals,GODSENT,train,DreamHack ZOWIE Open Summer 20..,16,8,9,6,7,2,GODSENT,12,15,0.80 
+2016,06,20,11:00,Immortals,GODSENT,mirage,DreamHack ZOWIE Open Summer 20..,12,16,5,10,7,6,GODSENT,21,11,1.29 
+2016,06,20,11:00,Immortals,GODSENT,cache,DreamHack ZOWIE Open Summer 20..,16,11,9,6,7,5,GODSENT,15,20,0.78 
+2016,06,18,22:30,GODSENT,NiP,mirage,DreamHack ZOWIE Open Summer 20..,16,8,12,3,4,5,GODSENT,19,9,1.34 
+2016,06,18,19:30,HellRaisers,GODSENT,cobblestone,DreamHack ZOWIE Open Summer 20..,7,16,3,12,4,4,GODSENT,8,14,0.61 
+2016,05,21,17:15,GODSENT,NatusVincere,mirage,SL i-League Invitational #1,14,16,5,10,9,6,GODSENT,25,19,1.17 
+2016,05,21,17:15,NatusVincere,GODSENT,cobblestone,SL i-League Invitational #1,16,12,6,9,10,3,GODSENT,18,20,0.92 
+2016,05,21,09:00,GODSENT,WorstPlayers,overpass,SL i-League Invitational #1,16,6,9,6,7,0,GODSENT,20,13,1.46 
+2016,05,21,09:00,GODSENT,WorstPlayers,cobblestone,SL i-League Invitational #1,11,16,6,9,5,7,GODSENT,20,18,1.11 
+2016,05,21,09:00,WorstPlayers,GODSENT,mirage,SL i-League Invitational #1,14,16,4,11,10,5,GODSENT,11,21,0.57 
+2016,05,20,21:00,Dobry&Gaming,GODSENT,cache,SL i-League Invitational #1,16,5,11,4,5,1,GODSENT,14,17,0.80 
+2016,05,20,21:00,Dobry&Gaming,GODSENT,train,SL i-League Invitational #1,16,1,14,1,2,0,GODSENT,3,17,0.18 
+2016,05,19,16:30,GODSENT,FlipSid3,inferno,SL i-League Invitational #1,16,13,11,4,5,9,GODSENT,18,18,0.93 
+2016,05,19,16:30,FlipSid3,GODSENT,cobblestone,SL i-League Invitational #1,3,16,3,12,0,4,GODSENT,11,9,1.07 
+2016,05,14,19:45,ENCE,GODSENT,mirage,DreamHack Regional Minor Champ..,16,13,11,4,5,9,GODSENT,21,23,0.91 
+2016,05,14,19:45,GODSENT,ENCE,cache,DreamHack Regional Minor Champ..,16,6,10,5,6,1,GODSENT,8,9,0.81 
+2016,05,14,19:45,ENCE,GODSENT,train,DreamHack Regional Minor Champ..,16,6,10,5,6,1,GODSENT,12,17,0.67 
+2016,05,14,18:00,CSGL,GODSENT,cobblestone,DreamHack Regional Minor Champ..,6,16,5,10,1,6,GODSENT,13,12,1.02 
+2016,05,14,16:00,ENCE,GODSENT,mirage,DreamHack Regional Minor Champ..,19,17,8,7,7,8,GODSENT,28,24,1.10 
+2016,04,17,15:00,GODSENT,NiP,mirage,DreamHack Masters Malmö 2016,10,16,9,6,1,10,GODSENT,17,19,0.86 
+2016,04,17,15:00,GODSENT,NiP,train,DreamHack Masters Malmö 2016,19,16,8,7,7,8,GODSENT,23,20,1.08 
+2016,04,17,15:00,GODSENT,NiP,cobblestone,DreamHack Masters Malmö 2016,14,16,8,7,6,9,GODSENT,17,21,0.89 
+2016,04,16,17:00,mousesports,GODSENT,mirage,DreamHack Masters Malmö 2016,13,16,7,8,6,8,GODSENT,18,19,0.92 
+2016,04,16,17:00,GODSENT,mousesports,inferno,DreamHack Masters Malmö 2016,16,10,8,7,8,3,GODSENT,16,14,1.02 
+2016,04,16,17:00,mousesports,GODSENT,cache,DreamHack Masters Malmö 2016,16,7,8,7,8,0,GODSENT,9,20,0.46 
+2016,04,14,14:30,GODSENT,CLG,cache,DreamHack Masters Malmö 2016,16,8,8,7,8,1,GODSENT,15,15,0.95 
+2016,04,14,14:30,CLG,GODSENT,overpass,DreamHack Masters Malmö 2016,16,19,12,3,3,12,GODSENT,25,23,1.08 
+2016,04,13,12:45,GODSENT,G2,train,DreamHack Masters Malmö 2016,16,8,7,8,9,0,GODSENT,19,15,1.16 
+2016,04,12,14:00,NatusVincere,GODSENT,train,DreamHack Masters Malmö 2016,16,11,13,2,3,9,GODSENT,17,20,0.84 
+2016,02,28,21:00,Ancient,Orgless,inferno,Pantamera CS:GO Challenge 2016,16,11,6,9,10,2,Ancient,19,15,1.14 
+2016,02,28,21:00,Ancient,Orgless,overpass,Pantamera CS:GO Challenge 2016,16,6,12,3,4,3,Ancient,16,13,1.07 
+2016,02,28,18:00,ALTERNATEaTTaX,Ancient,cobblestone,Pantamera CS:GO Challenge 2016,3,16,3,12,0,4,Ancient,21,8,1.95 
+2016,02,28,18:00,ALTERNATEaTTaX,Ancient,overpass,Pantamera CS:GO Challenge 2016,5,16,2,13,3,3,Ancient,19,12,1.19 
+2016,02,27,15:50,ENCE,Ancient,train,Pantamera CS:GO Challenge 2016,14,16,11,4,3,12,Ancient,28,17,1.46 
+2016,02,27,14:15,ALAMIX,Ancient,inferno,Pantamera CS:GO Challenge 2016,6,16,5,10,1,6,Ancient,28,12,1.78 
+2016,02,27,13:00,Ancient,Preparation,cobblestone,Pantamera CS:GO Challenge 2016,1,16,1,14,0,2,Ancient,11,15,0.77 
+2015,10,11,10:45,Poland,Sweden,dust2,World Championships 2015,16,10,6,9,10,1,Sweden,12,18,0.70 
+2015,10,11,10:45,Sweden,Poland,train,World Championships 2015,7,16,6,9,1,7,Sweden,14,20,0.69 
+2015,10,11,10:45,Poland,Sweden,cobblestone,World Championships 2015,14,16,6,9,8,7,Sweden,20,17,0.99 
+2015,10,10,13:25,Sweden,Canada,cobblestone,World Championships 2015,16,11,7,8,9,3,Sweden,21,14,1.30 
+2015,10,10,13:25,Canada,Sweden,inferno,World Championships 2015,17,19,7,8,8,7,Sweden,27,22,1.19 
+2015,10,08,20:45,Indonesia,Sweden,dust2,World Championships 2015,4,16,2,13,2,3,Sweden,19,9,1.47 
+2015,10,08,20:45,Sweden,Indonesia,mirage,World Championships 2015,16,2,13,2,3,0,Sweden,15,6,1.43 
+2015,10,08,17:50,Germany,Sweden,cache,World Championships 2015,16,13,13,2,3,11,Sweden,19,23,0.90 
+2015,10,08,13:30,Sweden,Serbia,inferno,World Championships 2015,16,7,11,4,5,3,Sweden,22,14,1.29 
+2015,04,04,13:30,Property,3DMAX,dust2,Copenhagen Games 2015,5,16,2,13,3,3,Property,9,18,0.53 
+2015,04,04,10:00,Property,G2,nuke,Copenhagen Games 2015,10,16,6,9,4,7,Property,16,18,0.92 
+2015,04,04,10:00,Property,G2,mirage,Copenhagen Games 2015,16,9,10,5,6,4,Property,23,13,1.46 
+2015,04,04,10:00,Property,G2,overpass,Copenhagen Games 2015,6,16,3,12,3,4,Property,18,18,0.94 
+2015,04,03,22:30,Property,Publiclir.se,dust2,Copenhagen Games 2015,16,2,13,2,3,0,Property,20,9,1.66 
+2015,04,03,22:30,Publiclir.se,Property,cache,Copenhagen Games 2015,7,16,6,9,1,7,Property,22,10,1.51 
+2015,04,03,22:30,Publiclir.se,Property,inferno,Copenhagen Games 2015,16,5,13,2,3,3,Property,7,17,0.43 
+2015,04,03,15:30,PlayingDucks,Property,cache,Copenhagen Games 2015,9,16,4,11,5,5,Property,26,14,1.72 
+2015,04,03,15:30,PlayingDucks,Property,mirage,Copenhagen Games 2015,10,16,4,11,6,5,Property,19,17,1.09 
+2015,04,03,12:00,Property,Lemondogs,cache,Copenhagen Games 2015,16,3,12,3,4,0,Property,21,5,1.74 
+2015,04,03,12:00,Property,Lemondogs,inferno,Copenhagen Games 2015,16,0,15,0,1,0,Property,7,7,0.93 
+2015,03,28,12:00,Property,Orbit,inferno,Dustin March Madness 2015,13,16,6,9,7,7,Property,21,17,1.10 
+2015,03,28,12:00,Orbit,Property,cache,Dustin March Madness 2015,16,8,10,5,6,3,Property,15,21,0.77 
+2015,03,21,18:45,Property,NiP,mirage,Gfinity 2015 Spring Masters 1,10,16,4,11,6,5,Property,16,19,0.90 
+2015,03,21,18:45,Property,NiP,inferno,Gfinity 2015 Spring Masters 1,13,16,7,8,6,8,Property,16,22,0.74 
+2015,03,21,18:45,NiP,Property,cache,Gfinity 2015 Spring Masters 1,13,16,3,12,10,4,Property,27,16,1.26 
+2015,03,21,13:45,Property,G2,cache,Gfinity 2015 Spring Masters 1,16,10,12,3,4,7,Property,20,12,1.22 
+2015,03,21,13:45,Property,G2,mirage,Gfinity 2015 Spring Masters 1,16,11,12,3,4,8,Property,13,16,0.80 
+2015,03,21,11:00,EnVyUs,Property,cache,Gfinity 2015 Spring Masters 1,16,0,15,0,1,0,Property,7,16,0.51 
+2015,03,21,11:00,Property,EnVyUs,dust2,Gfinity 2015 Spring Masters 1,11,16,6,9,5,7,Property,16,16,0.88 
+2014,12,15,14:30,Sweden,Poland,overpass,European Championship 2014 LAN..,11,16,8,7,3,9,Sweden,13,22,0.70 
+2014,12,15,14:30,Sweden,Poland,mirage,European Championship 2014 LAN..,14,16,6,9,8,7,Sweden,23,23,1.00 
+2014,12,15,14:30,Poland,Sweden,cache,European Championship 2014 LAN..,10,16,8,7,2,9,Sweden,22,16,1.24 
+2014,12,15,13:00,Availer'sStars,kassad'sLegends,mirage,European Legends Showmatch 201..,7,16,3,12,4,4,Availer's Stars,12,18,0.79 
+2014,12,14,19:15,Finland,Sweden,mirage,European Championship 2014 LAN..,8,16,7,8,1,8,Sweden,21,15,1.23 
+2014,12,14,19:15,Finland,Sweden,cache,European Championship 2014 LAN..,5,16,5,10,0,6,Sweden,17,11,1.26 
+2014,12,14,15:20,Sweden,France,nuke,European Championship 2014 LAN..,10,16,8,7,2,9,Sweden,23,18,1.30 
+2014,12,14,15:20,France,Sweden,dust2,European Championship 2014 LAN..,14,16,11,4,3,12,Sweden,26,20,1.25 
+2014,12,14,15:20,France,Sweden,inferno,European Championship 2014 LAN..,16,11,12,3,4,8,Sweden,28,18,1.53 

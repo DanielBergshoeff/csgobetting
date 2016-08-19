@@ -1,0 +1,11 @@
+2016,07,16,21:00,AlienTech,beGenius,dust2,DreamHack Valencia 2016,16,11,8,7,8,4,beGenius,17,18,0.97 
+2016,07,16,21:00,AlienTech,beGenius,nuke,DreamHack Valencia 2016,16,10,8,7,8,3,beGenius,14,21,0.63 
+2016,07,16,11:00,Wololos,beGenius,train,DreamHack Valencia 2016,11,16,9,6,2,10,beGenius,13,14,0.95 
+2016,07,16,11:00,Wololos,beGenius,mirage,DreamHack Valencia 2016,16,6,14,1,2,5,beGenius,13,17,0.81 
+2016,07,16,11:00,beGenius,Wololos,cache,DreamHack Valencia 2016,16,14,9,6,7,8,beGenius,19,19,0.94 
+2016,07,15,21:00,beGenius,k1ck,cache,DreamHack Valencia 2016,16,7,12,3,4,4,beGenius,17,10,1.28 
+2016,07,15,21:00,beGenius,k1ck,nuke,DreamHack Valencia 2016,17,19,10,5,5,10,beGenius,19,29,0.65 
+2016,07,15,21:00,k1ck,beGenius,overpass,DreamHack Valencia 2016,8,16,5,10,3,6,beGenius,22,15,1.27 
+2015,05,09,00:00,Awsomniac,LDLCBlue,overpass,DreamHack Open Tours 2015 BYOC..,16,13,9,6,7,7,LDLC Blue,19,20,0.90 
+2015,05,08,20:30,LDLCBlue,LDLCWhite,cobblestone,DreamHack Open Tours 2015 BYOC..,8,16,7,8,1,8,LDLC Blue,18,17,1.01 
+2015,05,08,19:35,Awsomniac,LDLCBlue,dust2,DreamHack Open Tours 2015 BYOC..,12,16,4,11,8,5,LDLC Blue,15,21,0.73 

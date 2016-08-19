@@ -1,0 +1,17 @@
+2016,07,17,11:30,Reasonfe,EYESportsfe,overpass,StarLadder Female Stars Champi..,16,8,8,7,8,1,EYESports fe,14,22,0.68 
+2016,07,17,11:30,EYESportsfe,Reasonfe,cobblestone,StarLadder Female Stars Champi..,6,16,4,11,2,5,EYESports fe,15,18,0.85 
+2016,07,17,11:30,EYESportsfe,Reasonfe,train,StarLadder Female Stars Champi..,16,10,13,2,3,8,EYESports fe,18,19,0.89 
+2016,07,16,14:45,Secretfe,EYESportsfe,train,StarLadder Female Stars Champi..,16,9,12,3,4,6,EYESports fe,13,22,0.67 
+2016,07,16,14:45,EYESportsfe,Secretfe,cobblestone,StarLadder Female Stars Champi..,8,16,3,12,5,4,EYESports fe,10,21,0.55 
+2016,07,16,14:45,Secretfe,EYESportsfe,mirage,StarLadder Female Stars Champi..,14,16,8,7,6,9,EYESports fe,17,24,0.71 
+2016,03,26,14:15,YPLadies,Secretfe,cache,Copenhagen Games 2016 female,3,16,3,12,0,4,YP Ladies,4,17,0.29 
+2016,03,26,14:15,YPLadies,Secretfe,inferno,Copenhagen Games 2016 female,9,16,5,10,4,6,YP Ladies,7,21,0.39 
+2016,03,26,11:00,YPLadies,ALSENfe,train,Copenhagen Games 2016 female,16,6,12,3,4,3,YP Ladies,20,14,1.29 
+2016,03,26,11:00,ALSENfe,YPLadies,mirage,Copenhagen Games 2016 female,16,11,7,8,9,3,YP Ladies,13,20,0.72 
+2016,03,26,11:00,YPLadies,ALSENfe,cobblestone,Copenhagen Games 2016 female,16,5,10,5,6,0,YP Ladies,20,11,1.43 
+2016,03,26,00:30,YPLadies,mConfe,inferno,Copenhagen Games 2016 female,16,11,10,5,6,6,YP Ladies,16,18,0.85 
+2016,03,26,00:30,YPLadies,mConfe,cache,Copenhagen Games 2016 female,16,8,10,5,6,3,YP Ladies,18,16,1.02 
+2016,03,25,19:20,CLGRed,YPLadies,cobblestone,Copenhagen Games 2016 female,16,4,11,4,5,0,YP Ladies,10,18,0.64 
+2016,03,25,19:20,YPLadies,CLGRed,dust2,Copenhagen Games 2016 female,13,16,6,9,7,7,YP Ladies,24,19,1.27 
+2016,03,25,16:30,YPLadies,Rizefe,dust2,Copenhagen Games 2016 female,16,3,12,3,4,0,YP Ladies,18,11,1.41 
+2016,03,25,16:30,YPLadies,Rizefe,cobblestone,Copenhagen Games 2016 female,16,2,14,1,2,1,YP Ladies,18,6,1.70 

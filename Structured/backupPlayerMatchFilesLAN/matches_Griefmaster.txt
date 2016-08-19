@@ -1,0 +1,10 @@
+2015,04,04,10:00,3DMAX,Lemondogs,cache,Copenhagen Games 2015,16,6,11,4,5,2,Lemondogs,15,21,0.79 
+2015,04,03,22:30,Sharkgaming,Lemondogs,cobblestone,Copenhagen Games 2015,11,16,6,9,5,7,Lemondogs,21,18,1.09 
+2015,04,03,15:30,Lemondogs,SpaceSoldiers,cobblestone,Copenhagen Games 2015,8,16,7,8,1,8,Lemondogs,12,21,0.62 
+2015,04,03,15:30,SpaceSoldiers,Lemondogs,nuke,Copenhagen Games 2015,16,9,11,4,5,5,Lemondogs,11,21,0.52 
+2015,04,03,12:00,Property,Lemondogs,cache,Copenhagen Games 2015,16,3,12,3,4,0,Lemondogs,16,18,0.93 
+2015,04,03,12:00,Property,Lemondogs,inferno,Copenhagen Games 2015,16,0,15,0,1,0,Lemondogs,7,16,0.40 
+2015,04,02,23:25,MnM,Lemondogs,cache,Copenhagen Games 2015,13,16,11,4,2,12,Lemondogs,27,17,1.38 
+2015,04,02,20:30,Menace,Lemondogs,cache,Copenhagen Games 2015,16,13,8,7,8,6,Lemondogs,18,21,0.82 
+2015,04,02,19:00,Lemondogs,re:take,cache,Copenhagen Games 2015,16,4,12,3,4,1,Lemondogs,10,9,0.95 
+2015,04,02,15:30,eSpuma,Lemondogs,dust2,Copenhagen Games 2015,1,16,1,14,0,2,Lemondogs,8,9,0.81 

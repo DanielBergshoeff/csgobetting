@@ -1,0 +1,43 @@
+2015,08,12,17:30,ROCCAT,Nostalgie,mirage,Uprise Champions Cup Season 3,11,16,8,7,3,9,ROCCAT,16,24,0.69 
+2015,08,12,17:30,Nostalgie,ROCCAT,inferno,Uprise Champions Cup Season 3,16,13,10,5,6,8,ROCCAT,18,18,0.93 
+2015,08,12,17:30,ROCCAT,Nostalgie,dust2,Uprise Champions Cup Season 3,16,4,12,3,4,1,ROCCAT,17,10,1.44 
+2015,08,11,22:15,PiTER,ROCCAT,mirage,D!ngIT $2000 Weekly Cup #12,16,13,7,8,9,5,ROCCAT,24,19,1.11 
+2015,08,10,22:00,ROCCAT,Phenomenon,cache,D!ngIT $2000 Weekly Cup #12,18,21,8,7,7,8,ROCCAT,26,31,0.84 
+2015,08,10,22:00,Phenomenon,ROCCAT,dust2,D!ngIT $2000 Weekly Cup #12,16,14,11,4,5,10,ROCCAT,21,24,0.83 
+2015,08,10,20:00,ROCCAT,CAZ,dust2,D!ngIT $2000 Weekly Cup #12,16,6,10,5,6,1,ROCCAT,18,13,1.20 
+2015,08,10,20:00,CAZ,ROCCAT,cache,D!ngIT $2000 Weekly Cup #12,11,16,4,11,7,5,ROCCAT,22,18,1.23 
+2015,08,07,17:00,PiTER,ROCCAT,mirage,Uprise Champions Cup Season 3,16,5,11,4,5,1,ROCCAT,16,17,1.10 
+2015,08,07,17:00,ROCCAT,PiTER,cache,Uprise Champions Cup Season 3,16,19,9,6,6,9,ROCCAT,24,21,1.02 
+2015,08,01,20:15,ROCCAT,eBettle,mirage,Assembly Summer 2015 AMD CS:GO..,12,16,9,6,3,10,ROCCAT,20,19,1.13 
+2015,08,01,20:15,eBettle,ROCCAT,dust2,Assembly Summer 2015 AMD CS:GO..,7,16,7,8,0,8,ROCCAT,15,10,1.13 
+2015,08,01,20:15,ROCCAT,eBettle,cobblestone,Assembly Summer 2015 AMD CS:GO..,18,22,10,5,5,10,ROCCAT,21,27,0.77 
+2015,08,01,13:00,Jynttä,ROCCAT,inferno,Assembly Summer 2015 AMD CS:GO..,13,16,7,8,6,8,ROCCAT,11,20,0.59 
+2015,08,01,13:00,ROCCAT,Jynttä,dust2,Assembly Summer 2015 AMD CS:GO..,16,4,11,4,5,0,ROCCAT,20,9,1.69 
+2015,07,30,20:00,SkitLite,ROCCAT,cache,Assembly Summer 2015 AMD CS:GO..,8,16,5,10,3,6,ROCCAT,11,14,0.77 
+2015,07,30,18:00,ROCCAT,eBettle,dust2,Assembly Summer 2015 AMD CS:GO..,13,16,4,11,9,5,ROCCAT,23,15,1.20 
+2015,07,30,16:00,ROCCAT,KappaKappa,mirage,Assembly Summer 2015 AMD CS:GO..,16,4,14,1,2,3,ROCCAT,21,9,1.59 
+2015,07,26,16:35,ROCCAT,G2,cache,ESL One Cologne 2015 European ..,5,16,2,13,3,3,ROCCAT,15,18,0.88 
+2015,07,26,14:15,ROCCAT,k1ck,cobblestone,ESL One Cologne 2015 European ..,9,16,3,12,6,4,ROCCAT,19,19,1.09 
+2015,06,28,15:30,ENCORE,SihirdarRehberi,inferno,ESL One Cologne 2015 EU pre-qu..,16,4,11,4,5,0,ENCORE,16,9,1.23 
+2015,06,28,15:30,ENCORE,SihirdarRehberi,cache,ESL One Cologne 2015 EU pre-qu..,16,11,9,6,7,5,ENCORE,13,14,0.86 
+2015,04,04,10:00,FlipSid3,Menace,mirage,Copenhagen Games 2015,16,11,11,4,5,7,Menace,15,19,0.81 
+2015,04,03,22:30,Menace,Badger,dust2,Copenhagen Games 2015,16,10,11,4,5,6,Menace,25,16,1.43 
+2015,04,03,19:00,Menace,CPHWolves,dust2,Copenhagen Games 2015,12,16,9,6,3,10,Menace,19,20,0.97 
+2015,04,03,19:00,CPHWolves,Menace,overpass,Copenhagen Games 2015,16,10,8,7,8,3,Menace,12,21,0.59 
+2015,04,03,15:30,schlaegeros,Menace,mirage,Copenhagen Games 2015,5,16,5,10,0,6,Menace,17,9,1.20 
+2015,04,03,15:30,Menace,schlaegeros,cache,Copenhagen Games 2015,16,4,13,2,3,2,Menace,8,10,0.80 
+2015,04,03,12:00,Menace,CPHWolves,dust2,Copenhagen Games 2015,13,16,5,10,8,6,Menace,19,22,0.80 
+2015,04,03,12:00,Menace,CPHWolves,overpass,Copenhagen Games 2015,9,16,8,7,1,9,Menace,17,18,1.03 
+2015,04,02,20:30,Menace,Lemondogs,cache,Copenhagen Games 2015,16,13,8,7,8,6,Menace,23,22,1.14 
+2015,04,02,19:00,Menace,MnM,cache,Copenhagen Games 2015,16,2,13,2,3,0,Menace,17,11,1.36 
+2015,04,02,14:00,Menace,Lions,dust2,Copenhagen Games 2015,16,5,13,2,3,3,Menace,24,11,1.92 
+2015,04,02,14:00,Menace,Lions,inferno,Copenhagen Games 2015,16,5,13,2,3,3,Menace,17,16,1.04 
+2014,10,04,16:50,Hanatauki,GLSHAKER,cache,Areena #5 by ROCCAT,15,15,8,7,7,8,GL SHAKER,19,24,0.81 
+2014,10,04,15:45,GLSHAKER,Menace,inferno,Areena #5 by ROCCAT,13,16,8,7,5,9,GL SHAKER,24,22,1.13 
+2014,10,04,14:15,ROTY,GLSHAKER,cache,Areena #5 by ROCCAT,16,6,9,6,7,0,GL SHAKER,14,17,0.82 
+2014,10,04,14:00,GLSHAKER,Jynttä,inferno,Areena #5 by ROCCAT,13,16,9,6,4,10,GL SHAKER,20,19,1.02 
+2014,10,04,12:00,GLSHAKER,myMDL,mirage,Areena #5 by ROCCAT,16,13,9,6,7,7,GL SHAKER,20,20,1.05 
+2014,10,04,10:55,GLSHAKER,Superstars,dust2,Areena #5 by ROCCAT,6,16,5,10,1,6,GL SHAKER,25,18,1.44 
+2014,07,31,19:35,Menace,TMVG,mirage,ASUS ROG Summer 2014,19,15,9,6,6,9,TMVG,35,22,1.59 
+2014,07,31,18:30,Joutsenlaulu,TMVG,dust2,ASUS ROG Summer 2014,13,16,8,7,5,9,TMVG,16,20,0.75 
+2014,07,31,16:00,Menace,TMVG,dust2,ASUS ROG Summer 2014,19,16,8,7,7,8,TMVG,28,21,1.16 

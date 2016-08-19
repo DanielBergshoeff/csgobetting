@@ -1,0 +1,17 @@
+2015,11,20,19:15,KoNNorway,KoNFinland,mirage,King of Nordic Season 2,16,12,8,7,8,5,KoN Finland,13,20,0.77 
+2015,10,17,18:30,Recursive,JDWI,overpass,Jimm's CS:GO Challenge,16,10,9,6,7,4,JDWI,15,20,0.83 
+2015,10,17,18:30,JDWI,Recursive,cache,Jimm's CS:GO Challenge,16,13,8,7,8,6,JDWI,25,17,1.28 
+2015,10,17,18:30,JDWI,Recursive,mirage,Jimm's CS:GO Challenge,1,16,1,14,0,2,JDWI,9,16,0.52 
+2015,10,17,16:30,TMVG,JDWI,dust2,Jimm's CS:GO Challenge,16,9,10,5,6,4,JDWI,17,20,0.87 
+2015,10,17,16:30,TMVG,JDWI,inferno,Jimm's CS:GO Challenge,16,4,12,3,4,1,JDWI,6,17,0.40 
+2014,06,28,18:30,dRiim'steam,KIPSIk'steam,nuke,Areena #4 by SteelSeries,12,16,7,8,5,8,dRiim's team,13,23,0.64 
+2014,06,28,18:30,dRiim'steam,KIPSIk'steam,inferno,Areena #4 by SteelSeries,19,17,10,5,5,10,dRiim's team,33,24,1.55 
+2014,06,28,18:30,dRiim'steam,KIPSIk'steam,mirage,Areena #4 by SteelSeries,10,16,9,6,1,10,dRiim's team,18,19,0.95 
+2014,06,28,16:35,dRiim'steam,duffman'steam,nuke,Areena #4 by SteelSeries,16,11,12,3,4,8,dRiim's team,21,17,1.21 
+2014,06,28,16:35,duffman'steam,dRiim'steam,mirage,Areena #4 by SteelSeries,8,16,7,8,1,8,dRiim's team,20,13,1.26 
+2014,06,28,14:45,dRiim'steam,suNny'steam,dust2,Areena #4 by SteelSeries,10,16,9,6,1,10,dRiim's team,24,21,1.17 
+2014,06,28,14:05,KIPSIk'steam,dRiim'steam,dust2,Areena #4 by SteelSeries,5,16,1,14,4,2,dRiim's team,19,13,1.40 
+2014,06,28,12:40,dRiim'steam,duffman'steam,dust2,Areena #4 by SteelSeries,16,11,8,7,8,4,dRiim's team,21,18,1.05 
+2014,06,28,11:40,dRiim'steam,allu'steam,dust2,Areena #4 by SteelSeries,16,13,6,9,10,4,dRiim's team,24,14,1.37 
+2014,06,28,10:35,dRiim'steam,shaker'steam,mirage,Areena #4 by SteelSeries,16,8,12,3,4,5,dRiim's team,17,12,1.14 
+2014,06,28,09:50,Twista'steam,dRiim'steam,dust2,Areena #4 by SteelSeries,5,16,2,13,3,3,dRiim's team,18,12,1.31 

@@ -1,0 +1,22 @@
+2015,12,21,22:00,Nostalgie,EYESONU,mirage,D!ngIT $2000 Weekly Cup #31,14,16,5,10,9,6,Nostalgie,14,21,0.77 
+2015,12,09,17:00,Vexed,Nostalgie,train,Uprise Champions Cup: Europe,14,16,10,5,4,11,Nostalgie,13,18,0.75 
+2015,09,29,11:00,VegaSquadron,Nostalgie,dust2,Uprise Champions Cup Season 3 ..,16,14,4,11,12,3,Nostalgie,14,17,0.84 
+2015,09,29,11:00,VegaSquadron,Nostalgie,mirage,Uprise Champions Cup Season 3 ..,16,7,13,2,3,5,Nostalgie,13,18,0.75 
+2015,09,28,18:50,Enervate,Nostalgie,mirage,Uprise Champions Cup Season 3 ..,19,16,8,7,7,8,Nostalgie,12,29,0.54 
+2015,09,28,18:50,Enervate,Nostalgie,cobblestone,Uprise Champions Cup Season 3 ..,16,11,6,9,10,2,Nostalgie,13,20,0.66 
+2015,09,11,19:15,VegaSquadron,Nostalgie,mirage,Uprise Champions Cup Season 3,16,6,10,5,6,1,Nostalgie,2,17,0.26 
+2015,09,11,19:15,Nostalgie,VegaSquadron,cache,Uprise Champions Cup Season 3,3,16,2,13,1,3,Nostalgie,3,16,0.29 
+2015,09,11,16:00,Nostalgie,E-frag.net,dust2,Uprise Champions Cup Season 3,8,16,7,8,1,8,Nostalgie,8,22,0.35 
+2015,09,11,16:00,Nostalgie,E-frag.net,mirage,Uprise Champions Cup Season 3,16,4,11,4,5,0,Nostalgie,9,8,0.89 
+2015,09,11,16:00,E-frag.net,Nostalgie,overpass,Uprise Champions Cup Season 3,16,8,8,7,8,1,Nostalgie,6,22,0.28 
+2014,09,19,22:00,Nostalgie,myXMG,dust2,Game Show CS:GO League,16,19,7,8,8,7,Nostalgie,12,24,0.61 
+2014,09,17,18:00,Orbit,Nostalgie,mirage,Game Show CS:GO League,16,13,7,8,9,5,Nostalgie,14,22,0.66 
+2014,09,15,19:15,Nostalgie,Virtus.pro,mirage,Game Show CS:GO League,6,16,5,10,1,6,Nostalgie,7,19,0.43 
+2014,08,02,18:00,Nostalgie,ENCORE,dust2,ASUS ROG Summer 2014,17,19,6,9,9,6,Nostalgie,13,28,0.50 
+2014,08,02,18:00,Nostalgie,ENCORE,inferno,ASUS ROG Summer 2014,16,2,13,2,3,0,Nostalgie,8,8,0.82 
+2014,08,02,18:00,ENCORE,Nostalgie,nuke,ASUS ROG Summer 2014,16,10,11,4,5,6,Nostalgie,8,20,0.49 
+2014,08,02,12:30,Menace,Nostalgie,nuke,ASUS ROG Summer 2014,12,16,11,4,1,12,Nostalgie,13,17,0.77 
+2014,08,02,12:30,Menace,Nostalgie,mirage,ASUS ROG Summer 2014,16,9,10,5,6,4,Nostalgie,6,19,0.40 
+2014,08,02,12:30,Menace,Nostalgie,dust2,ASUS ROG Summer 2014,10,16,9,6,1,10,Nostalgie,8,16,0.57 
+2014,08,01,21:20,Nostalgie,PENTA,nuke,ASUS ROG Summer 2014,16,5,12,3,4,2,Nostalgie,11,11,0.88 
+2014,08,01,20:00,Nostalgie,Recursive,inferno,ASUS ROG Summer 2014,16,6,13,2,3,4,Nostalgie,9,14,0.77 

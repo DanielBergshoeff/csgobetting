@@ -1,0 +1,16 @@
+2016,03,12,17:15,n1ce,GameAgents,inferno,EsportFest 2016,15,19,6,9,9,6,n1ce,26,24,1.07 
+2016,03,12,17:15,n1ce,GameAgents,dust2,EsportFest 2016,16,8,12,3,4,5,n1ce,22,17,1.17 
+2016,03,12,17:15,n1ce,GameAgents,cache,EsportFest 2016,13,16,8,7,5,9,n1ce,13,21,0.64 
+2015,07,26,18:00,LGB,k1ck,overpass,ESL One Cologne 2015 European ..,16,9,10,5,6,4,k1ck,13,20,0.69 
+2015,07,26,15:45,Titan,k1ck,train,ESL One Cologne 2015 European ..,16,8,13,2,3,6,k1ck,17,17,1.02 
+2015,07,26,14:15,ROCCAT,k1ck,cobblestone,ESL One Cologne 2015 European ..,9,16,3,12,6,4,k1ck,23,14,1.36 
+2015,06,25,12:30,G2,Rock,overpass,Gaming Paradise Inhouse Qualif..,16,12,11,4,5,8,Rock,12,22,0.55 
+2015,06,25,12:30,G2,Rock,cache,Gaming Paradise Inhouse Qualif..,16,12,6,9,10,3,Rock,17,19,0.89 
+2015,06,25,12:30,Rock,G2,cobblestone,Gaming Paradise Inhouse Qualif..,16,6,10,5,6,1,Rock,24,11,1.77 
+2015,06,24,20:30,Kinguin,Rock,cache,Gaming Paradise Inhouse Qualif..,16,10,13,2,3,8,Rock,20,19,1.09 
+2015,06,24,20:30,Rock,Kinguin,overpass,Gaming Paradise Inhouse Qualif..,14,16,10,5,4,11,Rock,16,27,0.59 
+2015,05,09,16:00,Rock,GPlay,inferno,ESL South East Europe Champion..,13,16,9,6,4,10,Rock,16,23,0.69 
+2015,05,09,16:00,GPlay,Rock,cache,ESL South East Europe Champion..,16,8,13,2,3,6,Rock,14,18,0.88 
+2015,05,08,10:00,GPlay,Rock,dust2,ESL South East Europe Champion..,14,16,6,9,8,7,Rock,26,23,1.09 
+2015,05,08,10:00,GPlay,Rock,inferno,ESL South East Europe Champion..,13,16,7,8,6,8,Rock,26,19,1.19 
+2015,05,08,10:00,Rock,GPlay,cache,ESL South East Europe Champion..,11,16,2,13,9,3,Rock,25,18,1.25 

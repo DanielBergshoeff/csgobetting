@@ -1,0 +1,3 @@
+2016,08,15,19:00,Slovenia,Azerbaijan,cache,World Championships 2016 Europ..,16,12,6,9,10,3,Azerbaijan,13,22,0.67 
+2016,08,15,19:00,Azerbaijan,Slovenia,train,World Championships 2016 Europ..,16,3,12,3,4,0,Azerbaijan,16,13,1.11 
+2016,08,15,19:00,Slovenia,Azerbaijan,mirage,World Championships 2016 Europ..,16,6,11,4,5,2,Azerbaijan,12,19,0.65 

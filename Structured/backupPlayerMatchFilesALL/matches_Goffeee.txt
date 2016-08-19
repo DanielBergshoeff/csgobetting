@@ -1,0 +1,5 @@
+2016,05,23,21:15,Portvakterna,KAPOW,inferno,Yoggi Yalla Cup,14,16,11,4,3,12,KAPOW,18,22,0.83 
+2016,05,23,21:15,Portvakterna,KAPOW,dust2,Yoggi Yalla Cup,3,16,1,14,2,2,KAPOW,20,9,1.61 
+2016,05,23,21:15,KAPOW,Portvakterna,mirage,Yoggi Yalla Cup,10,16,5,10,5,6,KAPOW,21,19,1.16 
+2016,03,12,18:05,eSuba,BFFsIRL,cache,DreamHack Masters Malmö 2016 E..,16,9,10,5,6,4,BFFsIRL,14,16,0.81 
+2016,02,04,21:00,SineMetu,Platinium,mirage,Uprise Champions Cup Season 4 ..,14,16,9,6,5,10,Sine Metu,17,18,0.92 

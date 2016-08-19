@@ -1,0 +1,60 @@
+2016,03,13,09:00,Signature,TheMongolz,dust2,DreamHack Masters Malmö 2016 A..,16,12,9,6,7,6,TheMongolz,16,18,0.96 
+2016,03,13,09:00,Signature,TheMongolz,cobblestone,DreamHack Masters Malmö 2016 A..,5,16,4,11,1,5,TheMongolz,20,12,1.28 
+2016,03,13,09:00,Signature,TheMongolz,mirage,DreamHack Masters Malmö 2016 A..,16,8,8,7,8,1,TheMongolz,16,22,0.72 
+2016,03,13,06:40,SavageWolves,TheMongolz,dust2,DreamHack Masters Malmö 2016 A..,3,16,0,15,3,1,TheMongolz,17,10,1.29 
+2016,03,13,06:40,SavageWolves,TheMongolz,mirage,DreamHack Masters Malmö 2016 A..,5,16,4,11,1,5,TheMongolz,14,11,1.11 
+2016,03,02,21:20,NatusVincere,TheMongolz,cobblestone,IEM Katowice 2016,16,6,9,6,7,0,TheMongolz,8,22,0.33 
+2016,03,02,20:30,fnatic,TheMongolz,cache,IEM Katowice 2016,16,4,13,2,3,2,TheMongolz,9,18,0.49 
+2016,03,02,18:40,Luminosity,TheMongolz,inferno,IEM Katowice 2016,16,6,12,3,4,3,TheMongolz,11,17,0.66 
+2016,03,02,17:00,TheMongolz,NiP,mirage,IEM Katowice 2016,5,16,2,13,3,3,TheMongolz,8,17,0.50 
+2016,03,02,14:40,mousesports,TheMongolz,dust2,IEM Katowice 2016,16,7,10,5,6,2,TheMongolz,11,20,0.56 
+2016,02,01,06:30,TheMongolz,Renegades,inferno,IEM Taipei 2016,16,2,13,2,3,0,TheMongolz,18,9,1.53 
+2016,02,01,06:30,TheMongolz,Renegades,cobblestone,IEM Taipei 2016,16,9,8,7,8,2,TheMongolz,21,15,1.24 
+2016,01,31,04:00,TheMongolz,Chiefs,cobblestone,IEM Taipei 2016,16,9,9,6,7,3,TheMongolz,20,16,1.12 
+2016,01,31,04:00,Chiefs,TheMongolz,dust2,IEM Taipei 2016,10,16,7,8,3,8,TheMongolz,14,16,0.83 
+2016,01,31,04:00,Chiefs,TheMongolz,inferno,IEM Taipei 2016,16,13,12,3,4,10,TheMongolz,14,16,0.91 
+2016,01,30,05:10,Renegades,TheMongolz,cache,IEM Taipei 2016,13,16,4,11,9,5,TheMongolz,19,21,0.83 
+2016,01,09,11:00,TheMongolz,Wings,inferno,Fulcrum Gamers League Finals,4,16,4,11,0,5,TheMongolz,8,16,0.58 
+2016,01,09,11:00,Wings,TheMongolz,cache,Fulcrum Gamers League Finals,16,14,4,11,12,3,TheMongolz,21,22,0.96 
+2016,01,09,06:00,TheMongolz,TyLoo,cobblestone,Fulcrum Gamers League Finals,14,16,5,10,9,6,TheMongolz,15,22,0.73 
+2016,01,09,06:00,TheMongolz,TyLoo,mirage,Fulcrum Gamers League Finals,4,16,4,11,0,5,TheMongolz,15,17,0.95 
+2016,01,09,06:00,TheMongolz,TyLoo,dust2,Fulcrum Gamers League Finals,16,11,5,10,11,1,TheMongolz,19,17,1.04 
+2015,12,18,13:00,MVPproject,TheMongolz,inferno,D!ngIT CS:GO Asia Invitational..,15,19,7,8,8,7,TheMongolz,20,21,0.99 
+2015,12,18,13:00,TheMongolz,MVPproject,cobblestone,D!ngIT CS:GO Asia Invitational..,16,8,10,5,6,3,TheMongolz,25,14,1.50 
+2015,12,13,12:00,TheMongolz,FOF,inferno,Fulcrum Gamers League,16,1,14,1,2,0,TheMongolz,17,6,1.67 
+2015,12,13,12:00,TheMongolz,FOF,dust2,Fulcrum Gamers League,16,1,15,0,1,1,TheMongolz,18,6,1.82 
+2015,12,12,13:40,AllGamers,TheMongolz,mirage,Fulcrum Gamers League,14,16,9,6,5,10,TheMongolz,26,23,1.15 
+2015,12,12,13:40,TheMongolz,AllGamers,inferno,Fulcrum Gamers League,13,16,3,12,10,4,TheMongolz,19,17,1.01 
+2015,12,11,12:00,BOW,TheMongolz,dust2,Fulcrum Gamers League,2,16,2,13,0,3,TheMongolz,16,6,1.42 
+2015,12,11,12:00,TheMongolz,BOW,inferno,Fulcrum Gamers League,16,3,12,3,4,0,TheMongolz,15,6,1.34 
+2015,12,10,14:05,PUZZLES,TheMongolz,dust2,Fulcrum Gamers League,9,16,8,7,1,9,TheMongolz,24,18,1.22 
+2015,12,10,14:05,PUZZLES,TheMongolz,mirage,Fulcrum Gamers League,9,16,7,8,2,8,TheMongolz,13,17,0.72 
+2015,12,09,16:00,TheMongolz,J2G,mirage,D!ngIT CS:GO Asia Invitational..,16,8,10,5,6,3,TheMongolz,19,14,1.19 
+2015,12,09,13:00,inchk1ng,TheMongolz,dust2,D!ngIT CS:GO Asia Invitational..,16,14,7,8,9,6,TheMongolz,26,20,1.23 
+2015,12,07,13:00,J2G,TheMongolz,inferno,D!ngIT CS:GO Asia Invitational..,3,16,3,12,0,4,TheMongolz,19,7,1.56 
+2015,12,04,12:00,TyLoo,TheMongolz,train,Fulcrum Gamers League,16,3,12,3,4,0,TheMongolz,11,18,0.68 
+2015,12,04,12:00,TheMongolz,TyLoo,inferno,Fulcrum Gamers League,6,16,2,13,4,3,TheMongolz,9,20,0.47 
+2015,12,03,13:00,CyberZen,TheMongolz,cache,SoStronk Challenger Asia #1,16,13,9,6,7,7,TheMongolz,19,19,0.95 
+2015,12,03,13:00,CyberZen,TheMongolz,inferno,SoStronk Challenger Asia #1,16,11,9,6,7,5,TheMongolz,18,17,1.07 
+2015,11,28,12:00,TheMongolz,BornOfFire,mirage,Fulcrum Gamers League,16,12,7,8,9,4,TheMongolz,21,19,1.12 
+2015,11,28,12:00,TheMongolz,BornOfFire,inferno,Fulcrum Gamers League,16,8,11,4,5,4,TheMongolz,10,10,0.92 
+2015,11,27,12:00,inchk1ng,TheMongolz,dust2,Fulcrum Gamers League,16,9,11,4,5,5,TheMongolz,19,19,0.99 
+2015,11,27,12:00,inchk1ng,TheMongolz,cache,Fulcrum Gamers League,16,5,13,2,3,3,TheMongolz,4,19,0.24 
+2015,11,21,11:00,TheMongolz,TyLoo,inferno,D!ngIT CS:GO Asia Invitational..,8,16,5,10,3,6,TheMongolz,10,22,0.46 
+2015,11,21,11:00,TyLoo,TheMongolz,cache,D!ngIT CS:GO Asia Invitational..,16,5,13,2,3,3,TheMongolz,8,19,0.45 
+2015,11,14,11:00,TheMongolz,m0nster,mirage,D!ngIT CS:GO Asia Invitational..,16,10,9,6,7,4,TheMongolz,22,20,1.03 
+2015,11,14,11:00,TheMongolz,m0nster,cache,D!ngIT CS:GO Asia Invitational..,19,16,7,8,8,7,TheMongolz,29,28,0.99 
+2015,11,08,12:00,TheMongolz,nxl,dust2,D!ngIT CS:GO Asia Invitational..,16,3,12,3,4,0,TheMongolz,10,8,1.00 
+2015,11,08,11:00,TheMongolz,Insidious,cache,D!ngIT CS:GO Asia Invitational..,16,2,13,2,3,0,TheMongolz,16,12,1.21 
+2015,11,07,12:00,TheMongolz,nxl,mirage,D!ngIT CS:GO Asia Invitational..,8,16,2,13,6,3,TheMongolz,9,20,0.50 
+2015,10,16,17:20,TheMongolz,TwistoFate,cache,MixBOT Pro-League Invite Seaso..,16,4,11,4,5,0,TheMongolz,17,10,1.38 
+2015,10,16,14:45,TheMongolz,m0nster,inferno,MixBOT Pro-League Invite Seaso..,16,3,13,2,3,1,TheMongolz,14,8,1.30 
+2015,10,05,14:30,nxl,TheMongolz,train,MixBOT Pro-League Invite Seaso..,16,9,8,7,8,2,TheMongolz,13,21,0.61 
+2015,10,05,14:30,TheMongolz,nxl,mirage,MixBOT Pro-League Invite Seaso..,6,16,5,10,1,6,TheMongolz,9,20,0.50 
+2015,10,05,14:30,nxl,TheMongolz,dust2,MixBOT Pro-League Invite Seaso..,16,8,7,8,9,0,TheMongolz,20,15,1.36 
+2015,10,05,14:30,TheMongolz,nxl,cache,MixBOT Pro-League Invite Seaso..,16,6,11,4,5,2,TheMongolz,18,11,1.22 
+2015,10,05,14:30,nxl,TheMongolz,inferno,MixBOT Pro-League Invite Seaso..,23,25,9,6,6,9,TheMongolz,36,33,1.07 
+2015,10,04,13:30,TyLoo,TheMongolz,inferno,MixBOT Pro-League Invite Seaso..,11,16,6,9,5,7,TheMongolz,9,19,0.54 
+2015,10,04,13:30,TheMongolz,TyLoo,cache,MixBOT Pro-League Invite Seaso..,22,20,9,6,6,9,TheMongolz,32,30,1.05 
+2015,10,02,15:30,TheMongolz,Insidious,cobblestone,MixBOT Pro-League Invite Seaso..,16,3,12,3,4,0,TheMongolz,16,10,1.27 
+2015,10,02,15:30,Insidious,TheMongolz,inferno,MixBOT Pro-League Invite Seaso..,6,16,4,11,2,5,TheMongolz,19,8,1.56 

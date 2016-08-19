@@ -1,0 +1,2 @@
+2015,06,13,19:00,Kinguin,Wyvern,train,DreamHack Open Summer 2015 BYO..,16,10,8,7,8,3,Wyvern,15,22,0.74 
+2015,06,13,19:00,Kinguin,Wyvern,overpass,DreamHack Open Summer 2015 BYO..,16,4,12,3,4,1,Wyvern,4,17,0.35 

@@ -1,0 +1,53 @@
+2016,04,10,12:00,gBots,AlienTech,inferno,AlienTech CS:GO League Finals,16,9,9,6,7,3,AlienTech,12,19,0.69 
+2016,04,10,12:00,gBots,AlienTech,cache,AlienTech CS:GO League Finals,16,10,7,8,9,2,AlienTech,14,19,0.78 
+2016,04,09,22:10,AlienTech,k1ck,cache,AlienTech CS:GO League Finals,16,12,10,5,6,7,AlienTech,19,16,0.98 
+2016,04,09,22:10,k1ck,AlienTech,inferno,AlienTech CS:GO League Finals,9,16,5,10,4,6,AlienTech,16,14,0.96 
+2016,04,09,14:45,AlienTech,ImperioMultimedia,inferno,AlienTech CS:GO League Finals,16,2,14,1,2,1,AlienTech,15,7,1.45 
+2016,04,09,14:45,AlienTech,ImperioMultimedia,cobblestone,AlienTech CS:GO League Finals,16,2,13,2,3,0,AlienTech,17,5,1.54 
+2016,04,08,21:30,gBots,AlienTech,inferno,AlienTech CS:GO League Finals,16,5,12,3,4,2,AlienTech,6,18,0.36 
+2016,04,08,21:30,gBots,AlienTech,cache,AlienTech CS:GO League Finals,16,12,10,5,6,7,AlienTech,18,21,0.82 
+2016,04,08,21:30,gBots,AlienTech,cobblestone,AlienTech CS:GO League Finals,15,19,11,4,4,11,AlienTech,17,23,0.77 
+2016,04,08,14:30,AlienTech,Galatics,cache,AlienTech CS:GO League Finals,16,7,10,5,6,2,AlienTech,26,14,1.69 
+2016,04,08,14:30,Galatics,AlienTech,inferno,AlienTech CS:GO League Finals,6,16,5,10,1,6,AlienTech,10,13,0.82 
+2016,03,20,17:00,AlienTech,ImperioMultimedia,cobblestone,AlienTech CS:GO Invitational I,16,14,6,9,10,5,AlienTech,23,18,1.16 
+2016,03,20,17:00,AlienTech,ImperioMultimedia,cache,AlienTech CS:GO Invitational I,16,12,7,8,9,4,AlienTech,11,15,0.79 
+2016,03,20,17:00,ImperioMultimedia,AlienTech,inferno,AlienTech CS:GO Invitational I,9,16,6,9,3,7,AlienTech,11,15,0.81 
+2016,03,19,22:00,FTW.EvoPrinfor,AlienTech,inferno,AlienTech CS:GO Invitational I,4,16,4,11,0,5,AlienTech,12,10,1.00 
+2016,03,19,22:00,FTW.EvoPrinfor,AlienTech,cache,AlienTech CS:GO Invitational I,11,16,6,9,5,7,AlienTech,16,16,0.96 
+2016,03,18,23:45,3R2L,AlienTech,inferno,AlienTech CS:GO Invitational I,8,16,6,9,2,7,AlienTech,16,14,1.14 
+2016,03,18,17:40,FTW.PRO,AlienTech,inferno,AlienTech CS:GO Invitational I,19,22,9,6,6,9,AlienTech,18,28,0.70 
+2016,03,18,16:15,RedLine,AlienTech,cobblestone,AlienTech CS:GO Invitational I,3,16,3,12,0,4,AlienTech,10,10,0.86 
+2016,03,10,23:00,Publiclir.se,AlienTech,cobblestone,AlienTech CS:GO League,16,14,7,8,9,6,AlienTech,18,21,0.86 
+2016,03,10,23:00,AlienTech,Publiclir.se,cache,AlienTech CS:GO League,17,19,8,7,7,8,AlienTech,17,23,0.74 
+2016,03,09,22:45,Bpro,AlienTech,overpass,Razer Rising Stars European Le..,16,6,10,5,6,1,AlienTech,5,17,0.40 
+2016,03,09,19:15,Nordics,AlienTech,train,Razer Rising Stars European Le..,9,16,6,9,3,7,AlienTech,14,16,0.92 
+2016,03,07,23:45,k1ck,AlienTech,cache,AlienTech CS:GO League,16,12,12,3,4,9,AlienTech,22,20,1.08 
+2016,03,07,23:45,k1ck,AlienTech,cobblestone,AlienTech CS:GO League,12,16,8,7,4,9,AlienTech,20,16,1.11 
+2016,03,02,21:00,AlienTech,k1ck,train,AlienTech CS:GO League,4,16,4,11,0,5,AlienTech,6,18,0.39 
+2016,03,02,21:00,k1ck,AlienTech,inferno,AlienTech CS:GO League,16,14,8,7,8,7,AlienTech,18,18,0.91 
+2016,02,25,00:00,AlienTech,ImperioMultimedia,overpass,AlienTech CS:GO League,16,9,9,6,7,3,AlienTech,14,16,0.83 
+2016,02,25,00:00,AlienTech,ImperioMultimedia,inferno,AlienTech CS:GO League,16,11,8,7,8,4,AlienTech,12,13,0.86 
+2016,02,24,20:00,AlienTech,gBots,inferno,AlienTech CS:GO League,8,16,5,10,3,6,AlienTech,13,21,0.58 
+2016,02,24,20:00,AlienTech,gBots,train,AlienTech CS:GO League,15,19,11,4,4,11,AlienTech,14,26,0.57 
+2016,02,19,21:00,AlienTech,Galatics,cache,AlienTech CS:GO League,16,9,8,7,8,2,AlienTech,17,16,1.00 
+2016,02,19,21:00,AlienTech,Galatics,inferno,AlienTech CS:GO League,16,13,7,8,9,5,AlienTech,11,15,0.75 
+2016,02,18,23:32,nerdRage,AlienTech,cobblestone,AlienTech CS:GO League,16,3,12,3,4,0,AlienTech,6,19,0.29 
+2016,02,18,23:32,AlienTech,nerdRage,cache,AlienTech CS:GO League,10,16,8,7,2,9,AlienTech,13,19,0.77 
+2016,01,20,23:15,AlienTech,PlayingDucks,inferno,D!ngIT $2000 Weekly Cup #34,16,4,11,4,5,0,AlienTech,13,8,1.21 
+2016,01,20,19:30,AlienTech,PlayingDucks,cache,D!ngIT $2000 Weekly Cup #34,16,9,7,8,9,1,AlienTech,7,15,0.56 
+2016,01,20,19:30,PlayingDucks,AlienTech,dust2,D!ngIT $2000 Weekly Cup #34,16,11,11,4,5,7,AlienTech,9,21,0.50 
+2016,01,20,19:30,PlayingDucks,AlienTech,inferno,D!ngIT $2000 Weekly Cup #34,9,16,6,9,3,7,AlienTech,21,14,1.34 
+2016,01,19,18:30,AlienTech,EYESONU,cobblestone,D!ngIT $2000 Weekly Cup #34,16,8,8,7,8,1,AlienTech,20,12,1.27 
+2016,01,19,18:30,AlienTech,EYESONU,cache,D!ngIT $2000 Weekly Cup #34,16,8,9,6,7,2,AlienTech,18,16,1.09 
+2016,01,19,18:30,EYESONU,AlienTech,inferno,D!ngIT $2000 Weekly Cup #34,16,12,12,3,4,9,AlienTech,11,19,0.63 
+2015,12,17,18:15,EpiphanyBolt,AlienTech,cache,Game On European Invitational,16,11,10,5,6,6,AlienTech,10,20,0.56 
+2015,12,17,18:15,EpiphanyBolt,AlienTech,cobblestone,Game On European Invitational,16,10,9,6,7,4,AlienTech,19,18,1.08 
+2015,12,16,21:00,AlienTech,DEEZNUTS,train,Game On European Invitational,16,10,12,3,4,7,AlienTech,24,16,1.42 
+2015,12,16,21:00,DEEZNUTS,AlienTech,cache,Game On European Invitational,11,16,4,11,7,5,AlienTech,17,16,0.94 
+2015,12,16,20:00,AlienTech,PlayingDucks,cache,AlienTech CS:GO European Cup I..,13,16,6,9,7,7,AlienTech,20,20,1.07 
+2015,12,15,23:00,EpiphanyBolt,AlienTech,cobblestone,AlienTech CS:GO European Cup I..,16,4,11,4,5,0,AlienTech,7,16,0.51 
+2015,12,15,18:00,dope,AlienTech,cobblestone,Game On European Invitational,14,16,9,6,5,10,AlienTech,23,15,1.22 
+2015,12,15,18:00,AlienTech,dope,inferno,Game On European Invitational,16,12,7,8,9,4,AlienTech,19,15,1.11 
+2015,11,20,23:00,FTW.G2A,Equilibrium,inferno,AlienTech AllStars,5,16,3,12,2,4,FTW.G2A,10,16,0.73 
+2015,11,20,22:00,RCTIC,FTW.G2A,dust2,AlienTech AllStars,16,8,10,5,6,3,FTW.G2A,17,18,0.89 
+2015,11,20,20:25,k1ck,FTW.G2A,dust2,AlienTech AllStars,16,8,12,3,4,5,FTW.G2A,13,17,0.76 

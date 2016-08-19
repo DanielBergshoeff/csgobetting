@@ -1,0 +1,4 @@
+2015,11,14,11:00,GameShowStaff,Na`ViStaff,mirage,Virtus.pro Staff Cup #3,0,16,0,15,0,1,Game Show Staff,13,16,0.79 
+2015,11,14,11:00,Na`ViStaff,GameShowStaff,train,Virtus.pro Staff Cup #3,16,1,14,1,2,0,Game Show Staff,14,17,0.89 
+2015,11,13,16:00,NoobTubers,GameShowStaff,inferno,Virtus.pro Staff Cup #3,16,0,15,0,1,0,Game Show Staff,15,16,1.07 
+2015,11,13,16:00,NoobTubers,GameShowStaff,mirage,Virtus.pro Staff Cup #3,16,2,13,2,3,0,Game Show Staff,18,14,1.44 

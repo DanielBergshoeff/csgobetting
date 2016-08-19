@@ -1,0 +1,34 @@
+2016,07,03,20:45,TheWorkingMen,Reason,cache,ESL UK Premiership Spring 2016..,16,13,6,9,10,4,Reason,17,19,0.85 
+2016,07,03,20:45,TheWorkingMen,Reason,mirage,ESL UK Premiership Spring 2016..,16,9,9,6,7,3,Reason,17,20,1.06 
+2016,07,03,20:45,TheWorkingMen,Reason,cobblestone,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,Reason,28,18,1.30 
+2016,07,03,15:30,Reason,Infused,cache,ESL UK Premiership Spring 2016..,16,11,9,6,7,5,Reason,15,16,0.88 
+2016,07,03,15:30,Infused,Reason,mirage,ESL UK Premiership Spring 2016..,7,16,6,9,1,7,Reason,11,15,0.71 
+2016,07,03,15:30,Reason,Infused,cobblestone,ESL UK Premiership Spring 2016..,13,16,4,11,9,5,Reason,15,24,0.63 
+2016,06,04,18:00,deadweight,TBi,mirage,DreamHack ZOWIE Open Summer 20..,16,9,8,7,8,2,TBi,11,19,0.61 
+2016,04,30,17:45,Reason,Orbit,inferno,DreamHack Regional Minor Champ..,13,16,7,8,6,8,Reason,16,25,0.71 
+2016,03,24,15:30,BX3,thepickles,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,4,11,4,5,0,the pickles,7,17,0.47 
+2016,03,24,13:00,WinOut,thepickles,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,the pickles,6,17,0.36 
+2016,02,21,13:00,Barrage,Infused,mirage,epic.SEVENTEEN,16,6,9,6,7,0,Infused,13,19,0.71 
+2016,02,21,13:00,Infused,Barrage,cache,epic.SEVENTEEN,6,16,3,12,3,4,Infused,19,17,1.12 
+2015,11,08,20:30,Enso,CAZ,dust2,SLTV ProSeries XIV,22,25,4,11,11,4,CAZ,30,32,0.93 
+2015,11,08,20:30,CAZ,Enso,mirage,SLTV ProSeries XIV,16,14,8,7,8,7,CAZ,19,19,1.00 
+2015,11,08,15:00,CAZ,Revival,mirage,SLTV ProSeries XIV,16,8,13,2,3,6,CAZ,22,12,1.46 
+2015,11,08,15:00,CAZ,Revival,inferno,SLTV ProSeries XIV,16,12,9,6,7,6,CAZ,18,16,1.11 
+2015,09,28,22:00,Choke,fish123,mirage,ESL UK Premiership Season 2,8,16,5,10,3,6,fish123,20,14,1.28 
+2015,09,21,23:00,UnitedEstonia,fish123,mirage,ESL UK Premiership Season 2,16,12,11,4,5,8,fish123,12,23,0.59 
+2015,09,14,23:00,fish123,GLG,dust2,ESL UK Premiership Season 2,16,13,12,3,4,10,fish123,20,21,0.96 
+2015,09,07,22:00,fm-eSports,fish123,dust2,ESL UK Premiership Season 2,10,16,9,6,1,10,fish123,30,17,1.60 
+2015,08,31,21:15,fish123,Infused,overpass,ESL UK Premiership Season 2,11,16,9,6,2,10,fish123,13,23,0.59 
+2015,08,25,23:15,fish123,CeX,cache,ESL UK Premiership Season 2,16,11,10,5,6,6,fish123,22,20,1.04 
+2015,08,17,23:15,CSGOCasino.net,fish123,dust2,ESL UK Premiership Season 2,16,7,10,5,6,2,fish123,15,15,1.03 
+2015,08,11,19:00,CAZ,PiTER,cache,D!ngIT $2000 Weekly Cup #12,12,16,8,7,4,9,CAZ,10,23,0.53 
+2015,08,10,20:00,ROCCAT,CAZ,dust2,D!ngIT $2000 Weekly Cup #12,16,6,10,5,6,1,CAZ,12,14,0.86 
+2015,08,10,20:00,CAZ,ROCCAT,cache,D!ngIT $2000 Weekly Cup #12,11,16,4,11,7,5,CAZ,12,22,0.54 
+2015,08,08,23:15,CAZ,nerdRage,cache,Multifrags Invitational 2015,14,16,4,11,10,5,CAZ,20,18,0.96 
+2015,08,08,23:15,CAZ,nerdRage,dust2,Multifrags Invitational 2015,4,16,3,12,1,4,CAZ,13,15,0.95 
+2015,08,08,20:00,CAZ,k1ck,dust2,Multifrags Invitational 2015,16,14,8,7,8,7,CAZ,28,19,1.39 
+2015,08,08,20:00,CAZ,k1ck,inferno,Multifrags Invitational 2015,10,16,3,12,7,4,CAZ,16,17,0.93 
+2015,08,08,20:00,CAZ,k1ck,cache,Multifrags Invitational 2015,16,13,6,9,10,4,CAZ,17,20,0.80 
+2015,08,07,23:00,Publiclir.se,CAZ,cache,Multifrags Invitational 2015,11,16,5,10,6,6,CAZ,27,16,1.43 
+2015,08,07,23:00,CAZ,Publiclir.se,inferno,Multifrags Invitational 2015,11,16,8,7,3,9,CAZ,15,22,0.72 
+2015,08,07,23:00,Publiclir.se,CAZ,dust2,Multifrags Invitational 2015,8,16,3,12,5,4,CAZ,12,11,1.03 

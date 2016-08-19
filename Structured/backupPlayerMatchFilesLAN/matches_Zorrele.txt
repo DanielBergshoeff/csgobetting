@@ -1,0 +1,4 @@
+2016,07,15,11:30,KIYF,Wololos,mirage,DreamHack Valencia 2016,3,16,2,13,1,3,KIYF,7,18,0.38 
+2016,07,15,11:30,KIYF,Wololos,train,DreamHack Valencia 2016,6,16,3,12,3,4,KIYF,4,21,0.19 
+2015,12,05,14:00,KIYF,Atlantis,inferno,LVP Season 9 Division de Honor..,2,16,1,14,1,2,KIYF,9,16,0.54 
+2015,12,04,19:30,KIYF,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,19,7,8,8,7,KIYF,28,24,1.09 

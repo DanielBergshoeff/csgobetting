@@ -1,0 +1,12 @@
+2015,09,14,22:00,Choke,UnitedEstonia,inferno,ESL UK Premiership Season 2,8,16,8,7,0,9,United Estonia,7,20,0.52 
+2015,09,07,21:00,UnitedEstonia,Infused,overpass,ESL UK Premiership Season 2,10,16,8,7,2,9,United Estonia,16,20,0.90 
+2015,08,31,22:15,UnitedEstonia,fm-eSports,cache,ESL UK Premiership Season 2,16,8,9,6,7,2,United Estonia,10,17,0.63 
+2015,08,25,20:00,CSGOCasino.net,UnitedEstonia,dust2,ESL UK Premiership Season 2,16,2,13,2,3,0,United Estonia,12,17,0.73 
+2015,08,17,20:00,UnitedEstonia,CeX,cache,ESL UK Premiership Season 2,16,12,11,4,5,8,United Estonia,23,21,1.16 
+2015,04,28,22:30,fm-eSports,UnitedEstonia,dust2,ESL UK Premiership Season 1,16,14,8,7,8,7,United Estonia,8,22,0.44 
+2015,04,28,22:30,UnitedEstonia,fm-eSports,inferno,ESL UK Premiership Season 1,12,16,10,5,2,11,United Estonia,12,20,0.63 
+2015,04,28,20:00,UnitedEstonia,GLG,inferno,ESL UK Premiership Season 1,16,14,7,8,9,6,United Estonia,12,22,0.61 
+2015,04,28,20:00,GLG,UnitedEstonia,cache,ESL UK Premiership Season 1,7,16,5,10,2,6,United Estonia,14,16,0.83 
+2015,04,27,20:00,UnitedEstonia,fm-eSports,cobblestone,ESL UK Premiership Season 1,11,16,3,12,8,4,United Estonia,12,21,0.64 
+2015,04,27,20:00,fm-eSports,UnitedEstonia,inferno,ESL UK Premiership Season 1,11,16,8,7,3,9,United Estonia,11,16,0.72 
+2015,04,27,20:00,UnitedEstonia,fm-eSports,nuke,ESL UK Premiership Season 1,5,16,4,11,1,5,United Estonia,7,20,0.37 

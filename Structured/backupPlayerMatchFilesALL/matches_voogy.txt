@@ -1,0 +1,2 @@
+2015,10,16,16:00,m0nster,J2G,dust2,MixBOT Pro-League Invite Seaso..,10,16,4,11,6,5,J2G,19,14,1.17 
+2015,10,16,13:55,J2G,TwistoFate,cache,MixBOT Pro-League Invite Seaso..,12,16,8,7,4,9,J2G,14,19,0.78 

@@ -1,0 +1,16 @@
+2015,11,14,11:00,GameShowStaff,Na`ViStaff,mirage,Virtus.pro Staff Cup #3,0,16,0,15,0,1,Na`Vi Staff,15,9,1.43 
+2015,11,14,11:00,Na`ViStaff,GameShowStaff,train,Virtus.pro Staff Cup #3,16,1,14,1,2,0,Na`Vi Staff,20,15,1.35 
+2015,11,13,18:30,Na`ViStaff,myXMGStaff,inferno,Virtus.pro Staff Cup #3,7,16,4,11,3,5,Na`Vi Staff,17,18,0.92 
+2015,11,13,18:30,myXMGStaff,Na`ViStaff,cache,Virtus.pro Staff Cup #3,16,3,12,3,4,0,Na`Vi Staff,6,17,0.38 
+2015,11,13,18:30,myXMGStaff,Na`ViStaff,cobblestone,Virtus.pro Staff Cup #3,10,16,4,11,6,5,Na`Vi Staff,23,18,1.15 
+2014,11,15,20:10,Na`ViStaff,GameShowStaff,mirage,Virtus.pro Staff Cup #1,16,12,9,6,7,6,Na`Vi Staff,25,21,1.16 
+2014,11,15,19:15,Na`ViStaff,Hitbox.tvStaff,mirage,Virtus.pro Staff Cup #1,16,3,12,3,4,0,Na`Vi Staff,19,7,1.75 
+2014,06,29,16:00,Virtus.pro,NatusVincere,train,ESEA Invite Season 16 Global F..,16,9,9,6,7,3,Natus Vincere,8,23,0.38 
+2014,06,29,16:00,Virtus.pro,NatusVincere,mirage,ESEA Invite Season 16 Global F..,14,16,10,5,4,11,Natus Vincere,15,22,0.71 
+2014,06,29,16:00,NatusVincere,Virtus.pro,season,ESEA Invite Season 16 Global F..,10,16,7,8,3,8,Natus Vincere,13,20,0.67 
+2014,06,29,05:00,NetcodeGuides.com,NatusVincere,dust2,ESEA Invite Season 16 Global F..,12,16,2,13,10,3,Natus Vincere,18,22,0.84 
+2014,06,29,05:00,NatusVincere,NetcodeGuides.com,season,ESEA Invite Season 16 Global F..,16,7,10,5,6,2,Natus Vincere,17,14,1.11 
+2014,06,28,19:30,NatusVincere,compLexity,inferno,ESEA Invite Season 16 Global F..,10,16,5,10,5,6,Natus Vincere,8,20,0.51 
+2014,06,28,19:30,NatusVincere,compLexity,dust2,ESEA Invite Season 16 Global F..,14,16,8,7,6,9,Natus Vincere,12,23,0.58 
+2014,06,28,17:30,NatusVincere,Manajuma,dust2,ESEA Invite Season 16 Global F..,16,8,13,2,3,6,Natus Vincere,21,12,1.40 
+2014,06,28,17:30,NatusVincere,Manajuma,season,ESEA Invite Season 16 Global F..,16,12,8,7,8,5,Natus Vincere,19,18,1.00 

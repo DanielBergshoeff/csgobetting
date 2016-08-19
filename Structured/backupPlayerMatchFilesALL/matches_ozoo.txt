@@ -1,0 +1,24 @@
+2015,09,24,20:45,Torpedo,ESC,train,QuickShot Arena #8,10,16,10,5,0,11,Torpedo,14,19,0.76 
+2015,09,24,20:45,Torpedo,ESC,cache,QuickShot Arena #8,12,16,7,8,5,8,Torpedo,16,22,0.76 
+2015,09,24,20:45,Torpedo,ESC,mirage,QuickShot Arena #8,16,4,11,4,5,0,Torpedo,11,9,1.00 
+2015,09,24,17:00,EpiphanyBolt,Torpedo,cobblestone,QuickShot Arena #8,13,16,7,8,6,8,Torpedo,19,16,1.03 
+2015,09,24,17:00,EpiphanyBolt,Torpedo,cache,QuickShot Arena #8,14,16,6,9,8,7,Torpedo,19,21,0.97 
+2015,09,23,20:00,Torpedo,XPC,cache,QuickShot Arena #8,16,5,11,4,5,1,Torpedo,21,10,1.54 
+2015,09,23,20:00,XPC,Torpedo,cobblestone,QuickShot Arena #8,1,16,1,14,0,2,Torpedo,10,7,1.04 
+2015,08,07,20:00,Phenomenon,Crystallize,mirage,Multifrags Invitational 2015,16,11,6,9,10,2,Crystallize,17,16,1.01 
+2015,08,07,20:00,Crystallize,Phenomenon,cache,Multifrags Invitational 2015,2,16,2,13,0,3,Crystallize,6,18,0.28 
+2015,05,30,11:00,FlipSid3,embrace,mirage,DreamHack Open Summer 2015 Clo..,16,11,8,7,8,4,embrace,17,19,0.90 
+2015,05,30,11:00,FlipSid3,embrace,cobblestone,DreamHack Open Summer 2015 Clo..,16,9,7,8,9,1,embrace,11,18,0.69 
+2015,05,30,11:00,embrace,FlipSid3,cache,DreamHack Open Summer 2015 Clo..,16,7,9,6,7,1,embrace,16,11,1.13 
+2015,05,05,21:00,Acer,UNLEASHED,cache,RGN Pro Series EU Closed Quali..,16,14,8,7,8,7,UNLEASHED,21,20,0.99 
+2015,05,05,21:00,UNLEASHED,Acer,mirage,RGN Pro Series EU Closed Quali..,5,16,2,13,3,3,UNLEASHED,10,15,0.69 
+2015,04,04,10:00,3DMAX,Lemondogs,cache,Copenhagen Games 2015,16,6,11,4,5,2,Lemondogs,9,15,0.65 
+2015,04,03,22:30,Sharkgaming,Lemondogs,cobblestone,Copenhagen Games 2015,11,16,6,9,5,7,Lemondogs,15,18,0.87 
+2015,04,03,15:30,Lemondogs,SpaceSoldiers,cobblestone,Copenhagen Games 2015,8,16,7,8,1,8,Lemondogs,10,20,0.56 
+2015,04,03,15:30,SpaceSoldiers,Lemondogs,nuke,Copenhagen Games 2015,16,9,11,4,5,5,Lemondogs,16,18,0.90 
+2015,04,03,12:00,Property,Lemondogs,cache,Copenhagen Games 2015,16,3,12,3,4,0,Lemondogs,8,16,0.48 
+2015,04,03,12:00,Property,Lemondogs,inferno,Copenhagen Games 2015,16,0,15,0,1,0,Lemondogs,5,16,0.26 
+2015,04,02,23:25,MnM,Lemondogs,cache,Copenhagen Games 2015,13,16,11,4,2,12,Lemondogs,23,19,1.16 
+2015,04,02,20:30,Menace,Lemondogs,cache,Copenhagen Games 2015,16,13,8,7,8,6,Lemondogs,21,20,0.98 
+2015,04,02,19:00,Lemondogs,re:take,cache,Copenhagen Games 2015,16,4,12,3,4,1,Lemondogs,19,7,1.67 
+2015,04,02,15:30,eSpuma,Lemondogs,dust2,Copenhagen Games 2015,1,16,1,14,0,2,Lemondogs,17,7,1.55 

@@ -1,0 +1,4 @@
+2016,05,20,19:15,KoNSweden,KoNDenmark,cache,King of Nordic Season 4,19,17,7,8,8,7,KoN Denmark,21,25,0.87 
+2016,03,13,13:00,dignitas,TDJSF,cobblestone,DreamHack Masters Malmö 2016 E..,16,4,12,3,4,1,TDJSF,16,14,1.15 
+2016,03,12,19:00,ENCE,TDJSF,dust2,DreamHack Masters Malmö 2016 E..,10,16,2,13,8,3,TDJSF,25,13,1.59 
+2016,03,04,20:15,KoNFinland,KoNDenmark,inferno,King of Nordic Season 3,16,6,11,4,5,2,KoN Denmark,11,20,0.54 

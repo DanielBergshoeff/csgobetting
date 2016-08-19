@@ -1,0 +1,10 @@
+2016,07,11,22:10,FTW.PRO,Delete,cache,xfunction Masters 2016,11,16,10,5,1,11,FTW.PRO,19,20,0.99 
+2016,07,05,22:45,ALTERNATEaTTaX,FTW.PRO,cache,xfunction Masters 2016,16,10,10,5,6,5,FTW.PRO,12,20,0.64 
+2016,05,18,22:25,Millenium,ImperioMultimedia,dust2,xfunction Challenge,16,8,13,2,3,6,Imperio Multimedia,15,18,0.90 
+2016,05,18,22:25,Millenium,ImperioMultimedia,inferno,xfunction Challenge,16,2,13,2,3,0,Imperio Multimedia,10,17,0.54 
+2016,05,04,22:00,ExoticIsland,ImperioMultimedia,inferno,xfunction Challenge,4,16,1,14,3,2,Imperio Multimedia,15,11,1.20 
+2016,05,03,21:10,Alpha,ImperioMultimedia,overpass,xfunction Challenge,19,16,7,8,8,7,Imperio Multimedia,26,25,1.05 
+2016,03,20,12:30,FTW.PRO,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,15,19,8,7,7,8,FTW.PRO,16,25,0.64 
+2016,03,20,12:30,FTW.PRO,ImperioMultimedia,inferno,AlienTech CS:GO Invitational I,10,16,7,8,3,8,FTW.PRO,14,16,0.81 
+2016,03,18,19:50,3R2L,FTW.PRO,mirage,AlienTech CS:GO Invitational I,11,16,4,11,7,5,FTW.PRO,25,16,1.26 
+2016,03,18,17:40,FTW.PRO,AlienTech,inferno,AlienTech CS:GO Invitational I,19,22,9,6,6,9,FTW.PRO,29,28,1.03 

@@ -1,0 +1,20 @@
+2015,12,07,20:00,LGBfe,Unikrn,cobblestone,D!ngIT $2000 Weekly Cup #29,26,21,7,8,8,7,Unikrn,41,34,1.10 
+2015,12,07,20:00,LGBfe,Unikrn,mirage,D!ngIT $2000 Weekly Cup #29,16,4,11,4,5,0,Unikrn,14,17,0.85 
+2015,12,07,20:00,LGBfe,Unikrn,cache,D!ngIT $2000 Weekly Cup #29,10,16,4,11,6,5,Unikrn,20,17,1.15 
+2015,07,12,00:45,LGBfe,Epsilonfe,dust2,ESWC 2015 Female,16,7,8,7,8,0,Epsilon fe,6,16,0.52 
+2015,07,11,23:30,Acerfe,Epsilonfe,cache,ESWC 2015 Female,16,10,8,7,8,3,Epsilon fe,18,20,0.86 
+2015,07,11,22:30,Epsilonfe,CLGRed,inferno,ESWC 2015 Female,11,16,8,7,3,9,Epsilon fe,14,20,0.70 
+2015,04,04,10:00,Epsilonfe,3DMAXfe,nuke,Copenhagen Games 2015 female,11,16,10,5,1,11,Epsilon fe,14,20,0.77 
+2015,04,04,10:00,Epsilonfe,3DMAXfe,inferno,Copenhagen Games 2015 female,10,16,5,10,5,6,Epsilon fe,22,21,1.15 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,cobblestone,Copenhagen Games 2015 female,16,8,11,4,5,4,Epsilon fe,19,10,1.31 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,nuke,Copenhagen Games 2015 female,16,11,12,3,4,8,Epsilon fe,18,18,1.11 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,cache,Copenhagen Games 2015 female,12,16,6,9,6,7,Epsilon fe,19,21,0.96 
+2015,04,03,18:30,Karma,Epsilonfe,mirage,Copenhagen Games 2015 female,16,12,9,6,7,6,Epsilon fe,15,19,0.81 
+2015,04,03,18:30,Epsilonfe,Karma,cache,Copenhagen Games 2015 female,11,16,8,7,3,9,Epsilon fe,19,20,1.01 
+2014,10,31,16:30,Reasonfe,BadMonkey,nuke,ESWC 2014 Female,9,16,6,9,3,7,Reason fe,11,23,0.48 
+2014,10,31,10:25,Karma,Reasonfe,mirage,ESWC 2014 Female,16,5,11,4,5,1,Reason fe,7,20,0.32 
+2014,10,31,10:25,Karma,Reasonfe,cobblestone,ESWC 2014 Female,16,10,14,1,2,9,Reason fe,16,19,0.82 
+2014,10,31,10:25,Reasonfe,Karma,nuke,ESWC 2014 Female,16,2,13,2,3,0,Reason fe,9,9,0.92 
+2014,10,30,13:25,myXMGfe,Reasonfe,nuke,ESWC 2014 Female,14,16,11,4,3,12,Reason fe,21,25,0.95 
+2014,10,30,12:15,BadMonkey,Reasonfe,mirage,ESWC 2014 Female,12,16,8,7,4,9,Reason fe,16,18,0.85 
+2014,10,30,10:50,Ubinited,Reasonfe,cache,ESWC 2014 Female,16,4,11,4,5,0,Reason fe,8,18,0.53 

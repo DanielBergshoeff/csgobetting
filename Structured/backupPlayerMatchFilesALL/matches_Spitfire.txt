@@ -1,0 +1,76 @@
+2016,07,15,18:00,PRIDE,Unity,cobblestone,GG Masters,6,16,4,11,2,5,Unity,16,12,1.19 
+2016,07,15,18:00,PRIDE,Unity,cache,GG Masters,16,19,7,8,8,7,Unity,26,24,1.08 
+2016,07,14,20:45,Unity,Escape,train,GG Masters,16,13,9,6,7,7,Unity,18,19,0.92 
+2016,07,06,21:00,Unity,VwS,mirage,Hitbox Challenger Cup #2,16,4,11,4,5,0,Unity,14,7,1.32 
+2016,07,06,21:00,VwS,Unity,dust2,Hitbox Challenger Cup #2,14,16,7,8,7,8,Unity,36,21,1.67 
+2016,04,25,21:15,CETCTM,DMIT,cache,Yoggi Yalla Cup,16,13,7,8,9,5,CETCTM,25,20,1.37 
+2016,04,25,21:15,CETCTM,DMIT,cobblestone,Yoggi Yalla Cup,16,14,10,5,6,9,CETCTM,14,20,0.78 
+2015,12,17,22:00,AliGon,PiTER,mirage,QuickShot Arena #19,6,16,4,11,2,5,AliGon,16,21,0.96 
+2015,12,17,20:45,EpiphanyBolt,AliGon,cache,QuickShot Arena #19,19,17,10,5,5,10,AliGon,29,26,1.14 
+2015,12,17,18:15,AliGon,LowLandLions,dust2,QuickShot Arena #19,16,14,7,8,9,6,AliGon,16,22,0.82 
+2015,08,07,20:00,Phenomenon,Crystallize,mirage,Multifrags Invitational 2015,16,11,6,9,10,2,Crystallize,20,23,0.95 
+2015,08,07,20:00,Crystallize,Phenomenon,cache,Multifrags Invitational 2015,2,16,2,13,0,3,Crystallize,11,17,0.65 
+2015,06,03,21:10,Acer,PENTA,overpass,Acer Predator Masters powered ..,16,14,6,9,10,5,Acer,15,20,0.79 
+2015,06,03,21:10,PENTA,Acer,dust2,Acer Predator Masters powered ..,7,16,7,8,0,8,Acer,26,12,1.66 
+2015,06,02,21:00,Acer,SK,train,Acer Predator Masters powered ..,6,16,6,9,0,7,Acer,17,17,0.94 
+2015,06,02,21:00,Acer,SK,mirage,Acer Predator Masters powered ..,10,16,7,8,3,8,Acer,22,20,1.12 
+2015,06,02,21:00,SK,Acer,overpass,Acer Predator Masters powered ..,14,16,10,5,4,11,Acer,26,19,1.16 
+2015,05,31,16:30,Acer,Exertus,dust2,ESPORTSM 2015,16,11,6,9,10,2,Acer,20,18,1.04 
+2015,05,31,12:15,Acer,Exertus,mirage,ESPORTSM 2015,16,11,6,9,10,2,Acer,19,23,0.82 
+2015,05,31,12:15,Exertus,Acer,cache,ESPORTSM 2015,16,7,9,6,7,1,Acer,10,19,0.68 
+2015,05,29,18:00,EnVyUs,Acer,dust2,Fragbite Masters Season 4,16,9,10,5,6,4,Acer,18,21,0.86 
+2015,05,29,18:00,Acer,EnVyUs,mirage,Fragbite Masters Season 4,16,6,13,2,3,4,Acer,10,14,0.73 
+2015,05,29,18:00,EnVyUs,Acer,cache,Fragbite Masters Season 4,19,17,7,8,8,7,Acer,29,25,1.29 
+2015,05,26,21:00,CPLAY,Acer,cache,Fragbite Masters Season 4,13,16,10,5,3,11,Acer,18,17,1.00 
+2015,05,26,19:00,Acer,LDLCWhite,cobblestone,RGN Pro Series EU,12,16,5,10,7,6,Acer,20,23,0.87 
+2015,05,25,21:30,Acer,GPlay,cobblestone,Acer Predator Masters powered ..,16,13,11,4,5,9,Acer,24,16,1.34 
+2015,05,25,21:30,GPlay,Acer,mirage,Acer Predator Masters powered ..,12,16,3,12,9,4,Acer,26,18,1.38 
+2015,05,24,22:00,Acer,mousesports,overpass,Acer Predator Masters powered ..,3,16,3,12,0,4,Acer,6,18,0.34 
+2015,05,24,22:00,Acer,mousesports,mirage,Acer Predator Masters powered ..,11,16,7,8,4,8,Acer,26,18,1.42 
+2015,05,24,22:00,Acer,mousesports,dust2,Acer Predator Masters powered ..,16,13,7,8,9,5,Acer,30,15,1.64 
+2015,05,24,19:00,Acer,LGB,mirage,RGN Pro Series EU,16,10,12,3,4,7,Acer,20,13,1.27 
+2015,05,23,23:55,Acer,ISKOLD,mirage,DreamHack Open Summer 2015 Qua..,13,16,6,9,7,7,Acer,26,19,1.27 
+2015,05,23,22:30,Acer,Kinguin,dust2,DreamHack Open Summer 2015 Qua..,16,9,10,5,6,4,Acer,15,15,0.92 
+2015,05,22,21:30,HellRaisers,Acer,train,Fragbite Masters Season 4,16,13,9,6,7,7,Acer,19,18,0.98 
+2015,05,22,21:30,HellRaisers,Acer,cobblestone,Fragbite Masters Season 4,16,13,9,6,7,7,Acer,14,21,0.73 
+2015,05,20,21:00,Acer,nerdRage,cobblestone,Fragbite Masters Season 4,16,3,12,3,4,0,Acer,18,10,1.39 
+2015,05,20,21:00,Acer,nerdRage,overpass,Fragbite Masters Season 4,16,14,10,5,6,9,Acer,19,22,0.84 
+2015,05,20,21:00,Acer,nerdRage,dust2,Fragbite Masters Season 4,11,16,7,8,4,8,Acer,10,20,0.56 
+2015,05,19,21:00,fnatic,Acer,overpass,Fragbite Masters Season 4,16,14,11,4,5,10,Acer,29,20,1.32 
+2015,05,19,21:00,Acer,fnatic,cobblestone,Fragbite Masters Season 4,11,16,6,9,5,7,Acer,18,20,0.88 
+2015,05,19,21:00,Acer,fnatic,mirage,Fragbite Masters Season 4,16,10,13,2,3,8,Acer,16,17,0.95 
+2015,05,18,21:30,SpaceSoldiers,Acer,cache,RGN Pro Series EU,16,9,9,6,7,3,Acer,19,19,0.99 
+2015,05,13,21:00,AlienTech.Black,Acer,cache,Fragbite Masters Season 4,12,16,7,8,5,8,Acer,18,18,1.06 
+2015,05,13,21:00,Acer,AlienTech.Black,dust2,Fragbite Masters Season 4,16,6,10,5,6,1,Acer,23,11,1.62 
+2015,05,12,21:00,Acer,Panthers,cobblestone,Fragbite Masters Season 4 Last..,16,9,8,7,8,2,Acer,23,12,1.45 
+2015,05,12,21:00,Panthers,Acer,dust2,Fragbite Masters Season 4 Last..,13,16,7,8,6,8,Acer,23,16,1.41 
+2015,05,11,21:00,ENCORE,Acer,cache,Acer Predator Masters powered ..,14,16,10,5,4,11,Acer,23,16,1.23 
+2015,05,11,21:00,ENCORE,Acer,mirage,Acer Predator Masters powered ..,12,16,9,6,3,10,Acer,35,15,1.80 
+2015,05,10,22:00,PiTER,Acer,mirage,RGN Pro Series EU Closed Quali..,12,16,5,10,7,6,Acer,19,17,0.99 
+2015,05,10,22:00,Acer,PiTER,cache,RGN Pro Series EU Closed Quali..,16,8,12,3,4,5,Acer,22,16,1.18 
+2015,05,05,21:00,Acer,UNLEASHED,cache,RGN Pro Series EU Closed Quali..,16,14,8,7,8,7,Acer,17,22,0.77 
+2015,05,05,21:00,UNLEASHED,Acer,mirage,RGN Pro Series EU Closed Quali..,5,16,2,13,3,3,Acer,20,8,1.63 
+2015,04,21,19:15,Games4u,Acer,dust2,Fragbite Masters Season 4 Qual..,16,12,12,3,4,9,Acer,38,17,2.22 
+2015,04,04,10:00,Games4u,Acer,mirage,Copenhagen Games 2015,16,4,13,2,3,2,Acer,18,15,1.30 
+2015,04,03,22:30,Acer,CPLAY,cache,Copenhagen Games 2015,14,16,6,9,8,7,Acer,23,21,1.06 
+2015,04,03,22:30,Acer,CPLAY,nuke,Copenhagen Games 2015,11,16,6,9,5,7,Acer,22,19,1.09 
+2015,04,03,19:30,Acer,Sharkgaming,dust2,Copenhagen Games 2015,16,14,4,11,12,3,Acer,15,21,0.72 
+2015,04,03,19:30,Sharkgaming,Acer,mirage,Copenhagen Games 2015,13,16,11,4,2,12,Acer,27,17,1.44 
+2015,04,03,15:30,TSM,Acer,cobblestone,Copenhagen Games 2015,16,5,11,4,5,1,Acer,14,17,0.91 
+2015,04,03,15:30,TSM,Acer,nuke,Copenhagen Games 2015,16,4,13,2,3,2,Acer,7,18,0.40 
+2015,04,03,12:00,Acer,Sharkgaming,nuke,Copenhagen Games 2015,16,2,13,2,3,0,Acer,14,10,1.27 
+2015,04,03,12:00,Sharkgaming,Acer,mirage,Copenhagen Games 2015,10,16,6,9,4,7,Acer,18,17,1.02 
+2014,10,08,21:00,Epsilon,Property,dust2,Fragbite Masters Season 3,15,19,10,5,5,10,Property,16,17,0.89 
+2014,10,08,21:00,Property,Epsilon,cache,Fragbite Masters Season 3,1,16,1,14,0,2,Property,6,16,0.36 
+2014,10,08,20:51,Property,Epsilon,mirage,Fragbite Masters Season 3,16,4,11,4,5,0,Property,13,8,1.18 
+2014,10,08,18:00,fnatic,Property,inferno,Fragbite Masters Season 3,16,5,14,1,2,4,Property,12,17,0.69 
+2014,10,07,19:00,mousesports,Property,cobblestone,Millenium Showmatch #2,16,6,12,3,4,3,Property,14,20,0.68 
+2014,10,07,19:00,mousesports,Property,inferno,Millenium Showmatch #2,16,14,9,6,7,8,Property,24,23,1.07 
+2014,10,07,19:00,Property,mousesports,cache,Millenium Showmatch #2,16,13,9,6,7,7,Property,19,20,0.88 
+2014,10,07,19:00,Property,mousesports,dust2,Millenium Showmatch #2,10,16,8,7,2,9,Property,17,15,1.05 
+2014,09,23,22:10,Property,k1ck,dust2,Fragbite Masters Season 3 Qual..,16,8,10,5,6,3,Property,18,12,1.06 
+2014,09,23,22:10,k1ck,Property,inferno,Fragbite Masters Season 3 Qual..,10,16,3,12,7,4,Property,21,17,1.09 
+2014,09,23,20:10,myXMG,Property,dust2,Fragbite Masters Season 3 Qual..,10,16,5,10,5,6,Property,18,15,1.06 
+2014,08,10,20:15,FlipSid3,dAT,mirage,FACEIT League 2 EU pre-qualifi..,12,16,10,5,2,11,FlipSid3,14,21,0.68 
+2014,04,18,21:00,LGB,Property,mirage,Copenhagen Games 2014,22,19,5,10,10,5,Property,19,33,0.62 
+2014,04,18,21:00,LGB,Property,dust2,Copenhagen Games 2014,16,4,11,4,5,0,Property,8,18,0.44 

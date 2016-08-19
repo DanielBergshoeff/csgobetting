@@ -1,0 +1,49 @@
+2014,11,01,09:30,Titan,LDLC,nuke,ESWC 2014,10,16,6,9,4,7,Titan,17,19,0.90 
+2014,11,01,09:30,LDLC,Titan,inferno,ESWC 2014,16,7,14,1,2,6,Titan,18,17,1.04 
+2014,10,31,16:30,Titan,NiP,dust2,ESWC 2014,16,1,14,1,2,0,Titan,17,9,1.63 
+2014,10,31,14:30,CPHWolves,Titan,dust2,ESWC 2014,5,16,4,11,1,5,Titan,19,10,1.35 
+2014,10,31,13:05,Titan,HellRaisers,mirage,ESWC 2014,6,16,6,9,0,7,Titan,15,17,0.86 
+2014,10,31,11:30,Platinium,Titan,mirage,ESWC 2014,8,16,8,7,0,9,Titan,26,12,1.75 
+2014,10,31,10:40,Titan,KaBuM.TD,dust2,ESWC 2014,16,9,9,6,7,3,Titan,22,13,1.41 
+2014,10,29,16:00,Titan,LDLC,cobblestone,ESWC 2014 France,16,12,11,4,5,8,Titan,11,20,0.64 
+2014,10,29,16:00,LDLC,Titan,inferno,ESWC 2014 France,16,8,8,7,8,1,Titan,15,19,0.91 
+2014,10,29,16:00,Titan,LDLC,mirage,ESWC 2014 France,16,9,12,3,4,6,Titan,16,16,0.92 
+2014,10,29,11:00,Titan,LDLC,dust2,ESWC 2014 France,16,3,12,3,4,0,Titan,18,10,1.39 
+2014,10,29,09:30,Titan,iGamerz,dust2,ESWC 2014 France,16,8,13,2,3,6,Titan,14,13,0.91 
+2014,10,19,15:40,NatusVincere,Titan,mirage,SLTV StarSeries XI Finals,16,11,10,5,6,6,Titan,18,22,0.97 
+2014,10,19,15:40,Titan,NatusVincere,dust2,SLTV StarSeries XI Finals,10,16,9,6,1,10,Titan,7,21,0.40 
+2014,10,18,20:31,LDLC,Titan,cache,SLTV StarSeries XI Finals,16,6,9,6,7,0,Titan,14,17,0.93 
+2014,10,18,19:10,LDLC,Titan,season,SLTV StarSeries XI Finals,16,4,12,3,4,1,Titan,8,20,0.33 
+2014,10,18,13:30,Titan,Epsilon,cache,SLTV StarSeries XI Finals,16,13,10,5,6,8,Titan,25,19,1.30 
+2014,10,18,13:30,Titan,Epsilon,dust2,SLTV StarSeries XI Finals,16,10,8,7,8,3,Titan,24,14,1.35 
+2014,09,26,20:00,Titan,LDLC,cache,DreamHack Stockholm CS:GO Invi..,19,15,6,9,9,6,Titan,19,21,0.88 
+2014,09,26,20:00,LDLC,Titan,mirage,DreamHack Stockholm CS:GO Invi..,4,16,3,12,1,4,Titan,22,8,1.70 
+2014,09,26,16:45,Titan,fnatic,dust2,DreamHack Stockholm CS:GO Invi..,16,1,14,1,2,0,Titan,22,6,2.05 
+2014,09,26,16:45,fnatic,Titan,inferno,DreamHack Stockholm CS:GO Invi..,11,16,4,11,7,5,Titan,23,16,1.24 
+2014,09,25,17:05,NiP,Titan,dust2,DreamHack Stockholm CS:GO Invi..,13,16,7,8,6,8,Titan,23,18,1.11 
+2014,09,25,15:45,ALTERNATEaTTaX,Titan,cache,DreamHack Stockholm CS:GO Invi..,12,16,5,10,7,6,Titan,27,18,1.32 
+2014,09,25,13:50,LDLC,Titan,mirage,DreamHack Stockholm CS:GO Invi..,16,12,9,6,7,6,Titan,23,18,1.17 
+2014,08,17,11:55,LDLC,NiP,cobblestone,ESL One Cologne 2014,14,16,8,7,6,9,LDLC,26,19,1.24 
+2014,08,17,11:55,LDLC,NiP,nuke,ESL One Cologne 2014,6,16,6,9,0,7,LDLC,10,18,0.55 
+2014,08,17,11:55,NiP,LDLC,inferno,ESL One Cologne 2014,10,16,4,11,6,5,LDLC,19,17,1.03 
+2014,08,16,15:45,LDLC,Virtus.pro,mirage,ESL One Cologne 2014,16,12,10,5,6,7,LDLC,20,20,1.00 
+2014,08,16,15:45,Virtus.pro,LDLC,dust2,ESL One Cologne 2014,14,16,7,8,7,8,LDLC,23,16,1.15 
+2014,08,15,12:10,LDLC,NatusVincere,inferno,ESL One Cologne 2014,16,12,8,7,8,5,LDLC,20,16,1.05 
+2014,08,14,11:45,LDLC,LondonC,nuke,ESL One Cologne 2014,16,2,13,2,3,0,LDLC,19,5,1.73 
+2014,08,02,18:00,Nostalgie,ENCORE,dust2,ASUS ROG Summer 2014,17,19,6,9,9,6,Nostalgie,30,28,1.04 
+2014,08,02,18:00,Nostalgie,ENCORE,inferno,ASUS ROG Summer 2014,16,2,13,2,3,0,Nostalgie,19,6,1.65 
+2014,08,02,18:00,ENCORE,Nostalgie,nuke,ASUS ROG Summer 2014,16,10,11,4,5,6,Nostalgie,22,18,1.14 
+2014,08,02,12:30,Menace,Nostalgie,nuke,ASUS ROG Summer 2014,12,16,11,4,1,12,Nostalgie,26,15,1.36 
+2014,08,02,12:30,Menace,Nostalgie,mirage,ASUS ROG Summer 2014,16,9,10,5,6,4,Nostalgie,16,19,0.94 
+2014,08,02,12:30,Menace,Nostalgie,dust2,ASUS ROG Summer 2014,10,16,9,6,1,10,Nostalgie,28,16,1.59 
+2014,08,01,21:20,Nostalgie,PENTA,nuke,ASUS ROG Summer 2014,16,5,12,3,4,2,Nostalgie,23,7,1.80 
+2014,08,01,20:00,Nostalgie,Recursive,inferno,ASUS ROG Summer 2014,16,6,13,2,3,4,Nostalgie,27,8,1.94 
+2014,07,19,22:45,LDLC,Epsilon,nuke,DreamHack Valencia 2014,16,11,12,3,4,8,LDLC,26,16,1.55 
+2014,07,19,22:45,LDLC,Epsilon,inferno,DreamHack Valencia 2014,16,6,13,2,3,4,LDLC,15,13,1.06 
+2014,07,19,22:45,Epsilon,LDLC,mirage,DreamHack Valencia 2014,16,5,11,4,5,1,LDLC,12,19,0.72 
+2014,07,19,18:20,k1ck,LDLC,train,DreamHack Valencia 2014,9,16,8,7,1,9,LDLC,29,12,1.76 
+2014,07,19,18:20,LDLC,k1ck,dust2,DreamHack Valencia 2014,8,16,4,11,4,5,LDLC,8,20,0.46 
+2014,07,19,18:20,k1ck,LDLC,inferno,DreamHack Valencia 2014,20,22,11,4,4,11,LDLC,30,25,1.13 
+2014,07,19,11:50,LDLC,Planetkey,inferno,DreamHack Valencia 2014,16,10,11,4,5,6,LDLC,14,15,0.88 
+2014,07,19,11:50,LDLC,Planetkey,dust2,DreamHack Valencia 2014,16,12,10,5,6,7,LDLC,17,17,0.94 
+2014,07,19,11:50,LDLC,Planetkey,nuke,DreamHack Valencia 2014,14,16,12,3,2,13,LDLC,26,20,1.23 

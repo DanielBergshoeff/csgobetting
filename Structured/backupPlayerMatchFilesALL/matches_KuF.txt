@@ -1,0 +1,22 @@
+2016,07,01,14:00,Philippines,Jordan,dust2,World Championships 2016 Asian..,16,7,13,2,3,5,Jordan,16,15,1.04 
+2016,07,01,14:00,Jordan,Philippines,cache,World Championships 2016 Asian..,16,2,14,1,2,1,Jordan,12,4,1.35 
+2016,07,01,14:00,Philippines,Jordan,mirage,World Championships 2016 Asian..,16,3,13,2,3,1,Jordan,10,18,0.57 
+2016,06,28,14:00,Jordan,Palestine,cache,World Championships 2016 Asian..,16,3,12,3,4,0,Jordan,14,8,1.27 
+2016,06,28,14:00,Jordan,Palestine,train,World Championships 2016 Asian..,16,9,10,5,6,4,Jordan,22,15,1.22 
+2016,06,24,14:00,SouthKorea,Jordan,mirage,World Championships 2016 Asian..,12,16,8,7,4,9,Jordan,17,17,0.93 
+2016,06,24,14:00,Jordan,SouthKorea,cache,World Championships 2016 Asian..,16,11,7,8,9,3,Jordan,17,16,1.09 
+2016,06,24,14:00,Jordan,SouthKorea,cobblestone,World Championships 2016 Asian..,4,16,3,12,1,4,Jordan,5,18,0.32 
+2016,06,15,19:00,c5,Magistra,cobblestone,Game On CS:GO June Invitationa..,10,16,2,13,8,3,c5,18,18,0.99 
+2016,06,15,19:00,c5,Magistra,cache,Game On CS:GO June Invitationa..,14,16,6,9,8,7,c5,23,23,0.93 
+2016,06,15,19:00,c5,Magistra,mirage,Game On CS:GO June Invitationa..,16,13,7,8,9,5,c5,19,18,1.04 
+2016,06,13,21:30,c5,AlienTech,dust2,Game On CS:GO June Invitationa..,16,14,12,3,4,11,c5,15,18,0.76 
+2016,06,13,21:30,AlienTech,c5,cache,Game On CS:GO June Invitationa..,14,16,6,9,8,7,c5,23,18,1.16 
+2016,03,13,13:15,c5,mousesports,mirage,DreamHack Masters Malmö 2016 E..,9,16,4,11,5,5,c5,16,19,0.82 
+2016,03,13,13:15,c5,mousesports,cache,DreamHack Masters Malmö 2016 E..,8,16,8,7,0,9,c5,16,18,0.93 
+2016,03,12,17:45,c5,LDLCBlue,inferno,DreamHack Masters Malmö 2016 E..,16,7,11,4,5,3,c5,17,10,1.28 
+2015,12,19,17:30,CamelRiders,VivaAlgeria,inferno,AFKG MENA Championship,10,16,9,6,1,10,Camel Riders,23,19,1.18 
+2015,12,19,17:30,VivaAlgeria,CamelRiders,cobblestone,AFKG MENA Championship,9,16,4,11,5,5,Camel Riders,31,16,1.75 
+2015,12,19,17:30,CamelRiders,VivaAlgeria,cache,AFKG MENA Championship,9,16,6,9,3,7,Camel Riders,15,20,0.80 
+2015,12,18,23:10,CamelRiders,JustPassingBy,inferno,AFKG MENA Championship,16,5,10,5,6,0,Camel Riders,17,15,1.24 
+2015,12,18,23:10,JustPassingBy,CamelRiders,cobblestone,AFKG MENA Championship,16,10,10,5,6,5,Camel Riders,26,20,1.36 
+2015,12,18,23:10,CamelRiders,JustPassingBy,cache,AFKG MENA Championship,16,13,8,7,8,6,Camel Riders,25,17,1.26 

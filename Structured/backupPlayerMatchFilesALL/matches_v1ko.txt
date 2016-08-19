@@ -1,0 +1,7 @@
+2016,04,12,02:15,QuetzaL,Selfless,dust2,CEVO Gfinity Professional Seas..,1,16,1,14,0,2,QuetzaL,5,15,0.34 
+2016,04,12,02:15,QuetzaL,Selfless,cache,CEVO Gfinity Professional Seas..,7,16,6,9,1,7,QuetzaL,16,18,0.88 
+2016,02,25,05:00,CLG,QuetzaL,dust2,CEVO Gfinity Professional Seas..,16,8,9,6,7,2,QuetzaL,17,17,1.05 
+2016,02,25,05:00,QuetzaL,CLG,mirage,CEVO Gfinity Professional Seas..,3,16,3,12,0,4,QuetzaL,8,19,0.35 
+2016,02,23,05:45,QuetzaL,Noble,inferno,GO:NA,16,9,10,5,6,4,QuetzaL,19,18,1.05 
+2016,02,23,05:45,QuetzaL,Noble,cache,GO:NA,14,16,8,7,6,9,QuetzaL,16,25,0.70 
+2016,02,23,05:45,Noble,QuetzaL,dust2,GO:NA,10,16,8,7,2,9,QuetzaL,30,17,1.78 

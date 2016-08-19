@@ -1,0 +1,8 @@
+2016,06,12,16:30,AGG,PRIDE,overpass,X-Kom Clash,16,10,11,4,5,6,PRIDE,15,19,0.81 
+2016,06,12,16:30,PRIDE,AGG,train,X-Kom Clash,4,16,3,12,1,4,PRIDE,15,17,0.89 
+2016,06,12,16:30,PRIDE,AGG,cobblestone,X-Kom Clash,16,9,11,4,5,5,PRIDE,21,17,1.19 
+2016,06,12,13:00,PRIDE,Kinguin,cobblestone,X-Kom Clash,16,10,10,5,6,5,PRIDE,29,14,1.71 
+2016,06,12,13:00,PRIDE,Kinguin,mirage,X-Kom Clash,14,16,8,7,6,9,PRIDE,25,23,1.08 
+2016,06,12,13:00,PRIDE,Kinguin,train,X-Kom Clash,16,3,12,3,4,0,PRIDE,15,9,1.27 
+2016,02,07,10:00,nEophyte,ezkatka,cache,Płońsk eSports Chall..,16,12,7,8,9,4,ezkatka,22,19,1.13 
+2016,02,07,10:00,nEophyte,ezkatka,dust2,Płońsk eSports Chall..,16,3,13,2,3,1,ezkatka,6,17,0.41 

@@ -1,0 +1,55 @@
+2016,08,05,20:30,ArchAngels,Tricked,cobblestone,ASUS ROG Summer 2016,12,16,7,8,5,8,ArchAngels,22,20,1.06 
+2016,08,05,19:00,ArchAngels,ENCE,mirage,ASUS ROG Summer 2016,10,16,8,7,2,9,ArchAngels,10,19,0.63 
+2016,06,18,20:00,ArchAngels,Epsilon,overpass,ESPORTSM 2016 Finals,16,19,9,6,6,9,ArchAngels,24,24,0.93 
+2016,06,18,20:00,Epsilon,ArchAngels,mirage,ESPORTSM 2016 Finals,16,8,7,8,9,0,ArchAngels,9,18,0.61 
+2016,02,27,21:40,AliGon,Orgless,mirage,Pantamera CS:GO Challenge 2016,4,16,4,11,0,5,AliGon,7,16,0.54 
+2016,02,27,20:10,AliGon,Torpedo,mirage,Pantamera CS:GO Challenge 2016,16,9,9,6,7,3,AliGon,16,14,0.94 
+2016,02,27,18:00,ALTERNATEaTTaX,AliGon,cache,Pantamera CS:GO Challenge 2016,16,9,6,9,10,0,AliGon,23,18,1.11 
+2016,02,21,15:00,DenDD,Preparation,cache,Nordic Masters Season 2 Finals,14,16,3,12,11,4,DenDD,27,19,1.26 
+2016,02,21,15:00,DenDD,Preparation,mirage,Nordic Masters Season 2 Finals,19,22,8,7,7,8,DenDD,29,24,1.11 
+2016,02,20,14:30,BX3,DenDD,overpass,Nordic Masters Season 2 Finals,7,16,5,10,2,6,DenDD,19,11,1.29 
+2016,02,20,14:30,BX3,DenDD,mirage,Nordic Masters Season 2 Finals,14,16,9,6,5,10,DenDD,22,20,1.14 
+2016,02,20,13:30,Propertyfe,DenDD,mirage,Nordic Masters Season 2 Finals,4,16,4,11,0,5,DenDD,20,10,1.45 
+2016,01,30,20:45,PixelFire,DenDD,train,PGL Regional Minor Championshi..,16,5,13,2,3,3,DenDD,8,18,0.49 
+2016,01,30,20:45,DenDD,PixelFire,mirage,PGL Regional Minor Championshi..,38,41,11,4,4,11,DenDD,64,51,1.14 
+2016,01,30,15:00,Lemondogs,DenDD,mirage,PGL Regional Minor Championshi..,13,16,7,8,6,8,DenDD,25,19,1.14 
+2016,01,30,13:30,PixelFire,DenDD,cobblestone,PGL Regional Minor Championshi..,16,2,13,2,3,0,DenDD,5,17,0.28 
+2015,09,26,15:45,FlipSid3,CPHWolves,overpass,DreamHack Open Cluj-Napoca 201..,16,13,10,5,6,8,CPH Wolves,14,17,0.82 
+2015,09,26,15:45,FlipSid3,CPHWolves,mirage,DreamHack Open Cluj-Napoca 201..,16,10,11,4,5,6,CPH Wolves,15,21,0.75 
+2015,09,23,22:22,CPHWolves,CSGL,dust2,DreamHack Open Cluj-Napoca 201..,16,1,14,1,2,0,CPH Wolves,9,6,1.00 
+2015,09,23,22:22,CPHWolves,CSGL,mirage,DreamHack Open Cluj-Napoca 201..,16,14,7,8,9,6,CPH Wolves,15,21,0.72 
+2015,09,23,22:15,CPHWolves,CSGL,cache,DreamHack Open Cluj-Napoca 201..,14,16,9,6,5,10,CPH Wolves,25,20,1.30 
+2015,09,23,12:30,FlipSid3,CPHWolves,mirage,DreamHack Open Cluj-Napoca 201..,16,12,4,11,12,1,CPH Wolves,16,20,0.79 
+2015,09,23,12:30,CPHWolves,FlipSid3,train,DreamHack Open Cluj-Napoca 201..,2,14,1,14,1,0,CPH Wolves,5,15,0.37 
+2015,09,20,17:00,CPHWolves,EnVyUs,cobblestone,DreamHack Open London 2015,9,16,2,13,7,3,CPH Wolves,12,20,0.63 
+2015,09,20,17:00,CPHWolves,EnVyUs,mirage,DreamHack Open London 2015,8,16,3,12,5,4,CPH Wolves,18,18,0.93 
+2015,09,20,01:55,G2,CPHWolves,mirage,DreamHack Open London 2015,11,16,8,7,3,9,CPH Wolves,15,18,0.82 
+2015,09,20,00:00,SK,CPHWolves,cobblestone,DreamHack Open London 2015,13,16,6,9,7,7,CPH Wolves,18,19,0.88 
+2015,09,19,20:00,CPHWolves,TSM,overpass,DreamHack Open London 2015,5,16,4,11,1,5,CPH Wolves,5,19,0.28 
+2015,07,25,18:45,FlipSid3,Property,cobblestone,ESL One Cologne 2015 European ..,16,3,12,3,4,0,Property,8,16,0.57 
+2015,07,25,15:45,Property,dignitas,cobblestone,ESL One Cologne 2015 European ..,14,16,8,7,6,9,Property,20,24,0.87 
+2015,07,25,13:30,PiTER,Property,cache,ESL One Cologne 2015 European ..,7,16,3,12,4,4,Property,20,13,1.38 
+2015,04,04,13:30,Property,3DMAX,dust2,Copenhagen Games 2015,5,16,2,13,3,3,Property,12,18,0.62 
+2015,04,04,10:00,Property,G2,nuke,Copenhagen Games 2015,10,16,6,9,4,7,Property,16,20,0.79 
+2015,04,04,10:00,Property,G2,mirage,Copenhagen Games 2015,16,9,10,5,6,4,Property,21,17,1.15 
+2015,04,04,10:00,Property,G2,overpass,Copenhagen Games 2015,6,16,3,12,3,4,Property,11,19,0.77 
+2015,04,03,22:30,Property,Publiclir.se,dust2,Copenhagen Games 2015,16,2,13,2,3,0,Property,15,10,1.41 
+2015,04,03,22:30,Publiclir.se,Property,cache,Copenhagen Games 2015,7,16,6,9,1,7,Property,19,12,1.21 
+2015,04,03,22:30,Publiclir.se,Property,inferno,Copenhagen Games 2015,16,5,13,2,3,3,Property,11,18,0.64 
+2015,04,03,15:30,PlayingDucks,Property,cache,Copenhagen Games 2015,9,16,4,11,5,5,Property,19,14,1.12 
+2015,04,03,15:30,PlayingDucks,Property,mirage,Copenhagen Games 2015,10,16,4,11,6,5,Property,13,20,0.65 
+2015,04,03,12:00,Property,Lemondogs,cache,Copenhagen Games 2015,16,3,12,3,4,0,Property,11,8,1.05 
+2015,04,03,12:00,Property,Lemondogs,inferno,Copenhagen Games 2015,16,0,15,0,1,0,Property,18,7,1.73 
+2015,03,28,12:00,Property,Orbit,inferno,Dustin March Madness 2015,13,16,6,9,7,7,Property,10,22,0.49 
+2015,03,28,12:00,Orbit,Property,cache,Dustin March Madness 2015,16,8,10,5,6,3,Property,14,21,0.67 
+2014,11,27,23:45,NatusVincere,FlipSid3,overpass,DreamHack Winter 2014,19,15,8,7,7,8,FlipSid3,25,27,0.95 
+2014,11,27,22:35,FlipSid3,myXMG,mirage,DreamHack Winter 2014,16,11,7,8,9,3,FlipSid3,21,17,1.18 
+2014,11,27,19:45,NatusVincere,FlipSid3,mirage,DreamHack Winter 2014,16,8,13,2,3,6,FlipSid3,11,20,0.52 
+2014,11,22,20:00,FlipSid3,CPHWolves,cobblestone,DreamHack Winter 2014 Last Cal..,6,16,3,12,3,4,FlipSid3,9,17,0.58 
+2014,11,22,17:00,FlipSid3,LondonC,inferno,DreamHack Winter 2014 Last Cal..,16,13,13,2,3,11,FlipSid3,31,18,1.52 
+2014,11,22,17:00,LondonC,FlipSid3,cache,DreamHack Winter 2014 Last Cal..,13,16,6,9,7,7,FlipSid3,20,17,1.11 
+2014,08,02,09:40,myRevenge,Publiclir.se,dust2,ASUS ROG Summer 2014,16,6,11,4,5,2,Publiclir.se,6,18,0.38 
+2014,08,02,09:40,myRevenge,Publiclir.se,cache,ASUS ROG Summer 2014,16,7,9,6,7,1,Publiclir.se,10,16,0.71 
+2014,08,02,09:40,myRevenge,Publiclir.se,mirage,ASUS ROG Summer 2014,13,16,8,7,5,9,Publiclir.se,9,22,0.52 
+2014,07,31,18:30,Publiclir.se,Menace,mirage,ASUS ROG Summer 2014,16,13,9,6,7,7,Publiclir.se,15,20,0.71 
+2014,07,31,16:00,Publiclir.se,Joutsenlaulu,mirage,ASUS ROG Summer 2014,16,3,12,3,4,0,Publiclir.se,22,8,1.78 

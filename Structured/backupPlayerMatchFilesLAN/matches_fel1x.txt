@@ -1,0 +1,23 @@
+2014,12,21,20:30,PENTA,Reason,overpass,Acer A-Split Invitational powe..,4,16,3,12,1,4,PENTA,8,14,0.61 
+2014,12,21,20:30,PENTA,Reason,overpass,Acer A-Split Invitational powe..,14,16,5,10,9,6,PENTA,19,24,0.89 
+2014,12,21,20:30,Reason,PENTA,cache,Acer A-Split Invitational powe..,3,16,3,12,0,4,PENTA,23,9,1.78 
+2014,12,21,17:15,PENTA,mousesports,mirage,Acer A-Split Invitational powe..,16,8,9,6,7,2,PENTA,19,13,1.20 
+2014,12,21,17:15,PENTA,mousesports,cache,Acer A-Split Invitational powe..,10,16,6,9,4,7,PENTA,13,21,0.69 
+2014,12,21,17:15,PENTA,mousesports,dust2,Acer A-Split Invitational powe..,16,12,11,4,5,8,PENTA,21,20,1.05 
+2014,12,21,13:00,Reason,PENTA,overpass,Acer A-Split Invitational powe..,16,14,8,7,8,7,PENTA,20,23,0.96 
+2014,12,21,13:00,Reason,PENTA,mirage,Acer A-Split Invitational powe..,16,2,13,2,3,0,PENTA,6,17,0.32 
+2014,12,20,19:25,Virtus.pro,PENTA,mirage,Acer A-Split Invitational powe..,16,11,9,6,7,5,PENTA,19,20,1.01 
+2014,12,20,19:25,PENTA,Virtus.pro,cache,Acer A-Split Invitational powe..,8,16,4,11,4,5,PENTA,8,19,0.52 
+2014,12,20,19:25,Virtus.pro,PENTA,dust2,Acer A-Split Invitational powe..,11,16,9,6,2,10,PENTA,17,12,1.19 
+2014,12,20,17:20,PENTA,myKPV,mirage,Acer A-Split Invitational powe..,16,4,11,4,5,0,PENTA,9,9,0.88 
+2014,12,20,17:20,PENTA,myKPV,inferno,Acer A-Split Invitational powe..,16,1,14,1,2,0,PENTA,13,5,1.42 
+2014,12,20,15:15,PENTA,dotpiXels,cache,Acer A-Split Invitational powe..,16,11,12,3,4,8,PENTA,23,22,1.08 
+2014,12,20,15:15,dotpiXels,PENTA,dust2,Acer A-Split Invitational powe..,8,16,5,10,3,6,PENTA,22,13,1.31 
+2014,11,28,14:30,PENTA,Virtus.pro,mirage,DreamHack Winter 2014,5,16,3,12,2,4,PENTA,6,19,0.34 
+2014,11,28,14:30,Virtus.pro,PENTA,cache,DreamHack Winter 2014,16,9,12,3,4,6,PENTA,12,21,0.65 
+2014,11,27,16:15,iBUYPOWER,PENTA,inferno,DreamHack Winter 2014,13,16,13,2,0,14,PENTA,17,15,1.01 
+2014,11,27,15:10,PENTA,CPHWolves,dust2,DreamHack Winter 2014,16,12,10,5,6,7,PENTA,16,15,1.10 
+2014,11,27,12:10,dignitas,PENTA,nuke,DreamHack Winter 2014,16,9,13,2,3,7,PENTA,12,17,0.78 
+2014,08,01,22:20,PENTA,Recursive,inferno,ASUS ROG Summer 2014,20,22,8,7,7,8,PENTA,31,30,0.97 
+2014,08,01,21:20,Nostalgie,PENTA,nuke,ASUS ROG Summer 2014,16,5,12,3,4,2,PENTA,11,18,0.66 
+2014,08,01,20:00,MARVEL,PENTA,nuke,ASUS ROG Summer 2014,7,16,5,10,2,6,PENTA,13,15,0.86 

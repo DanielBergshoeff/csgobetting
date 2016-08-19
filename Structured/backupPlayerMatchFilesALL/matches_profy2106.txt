@@ -1,0 +1,3 @@
+2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,dust2,Virtus.pro Staff Cup #3,7,16,3,12,4,4,Na`Vi Staff,13,18,0.73 
+2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,10,9,6,7,4,Na`Vi Staff,16,15,1.02 
+2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,mirage,Virtus.pro Staff Cup #3,12,16,7,8,5,8,Na`Vi Staff,19,16,0.98 

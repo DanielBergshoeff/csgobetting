@@ -1,0 +1,6 @@
+2015,12,06,00:00,3sUP,ACE,cobblestone,Northern Arena 2015,8,16,5,10,3,6,ACE,18,13,1.10 
+2015,12,05,22:00,CLG,ACE,mirage,Northern Arena 2015,16,11,9,6,7,5,ACE,14,20,0.69 
+2015,12,05,20:00,ACE,Nexus,inferno,Northern Arena 2015,7,16,3,12,4,4,ACE,18,18,1.03 
+2015,11,17,01:00,CLG,Nexus,mirage,RGN Pro Series Championship,16,7,8,7,8,0,Nexus,15,17,0.83 
+2015,11,16,23:15,Renegades,Nexus,inferno,RGN Pro Series Championship,16,8,12,3,4,5,Nexus,23,18,1.25 
+2015,11,16,21:45,Enemy,Nexus,cobblestone,RGN Pro Series Championship,16,2,13,2,3,0,Nexus,11,17,0.68 

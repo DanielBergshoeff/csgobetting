@@ -1,0 +1,14 @@
+2016,04,25,21:15,CETCTM,DMIT,cache,Yoggi Yalla Cup,16,13,7,8,9,5,CETCTM,23,19,1.08 
+2016,04,25,21:15,CETCTM,DMIT,cobblestone,Yoggi Yalla Cup,16,14,10,5,6,9,CETCTM,21,21,0.95 
+2014,06,15,22:15,FlipSid3,NatusVincere,dust2,DreamHack Summer 2014,5,16,5,10,0,6,FlipSid3,8,19,0.45 
+2014,06,15,21:20,Lemondogs,FlipSid3,dust2,DreamHack Summer 2014,16,1,14,1,2,0,FlipSid3,9,16,0.56 
+2014,06,15,20:00,FlipSid3,NatusVincere,dust2,DreamHack Summer 2014,16,14,7,8,9,6,FlipSid3,12,20,0.68 
+2014,06,15,10:00,FlipSid3,fnatic,inferno,ESPORTSM 2013/2014 Finals,10,16,7,8,3,8,FlipSid3,13,17,0.81 
+2014,06,15,10:00,fnatic,FlipSid3,mirage,ESPORTSM 2013/2014 Finals,16,10,9,6,7,4,FlipSid3,16,22,0.75 
+2014,05,05,19:00,Nostalgie,FlipSid3,dust2,SLTV ProSeries IX,16,9,8,7,8,2,FlipSid3,15,16,0.93 
+2014,05,05,19:00,FlipSid3,Nostalgie,inferno,SLTV ProSeries IX,14,16,6,9,8,7,FlipSid3,27,19,1.40 
+2014,05,05,19:00,FlipSid3,Nostalgie,mirage,SLTV ProSeries IX,16,8,10,5,6,3,FlipSid3,21,11,1.39 
+2014,04,29,20:30,FlipSid3,GGWP.pro,dust2,SLTV ProSeries IX,6,16,2,13,4,3,FlipSid3,14,17,0.86 
+2014,04,29,20:30,FlipSid3,GGWP.pro,inferno,SLTV ProSeries IX,14,16,7,8,7,8,FlipSid3,21,19,1.12 
+2014,04,28,20:45,tmUragan,FlipSid3,train,SLTV ProSeries IX,10,16,10,5,0,11,FlipSid3,26,15,1.65 
+2014,04,28,20:45,FlipSid3,tmUragan,inferno,SLTV ProSeries IX,16,3,12,3,4,0,FlipSid3,19,9,1.54 

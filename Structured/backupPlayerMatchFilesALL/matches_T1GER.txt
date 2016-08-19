@@ -1,0 +1,5 @@
+2016,07,29,12:15,EDG,5Love.N4,cobblestone,SL i-League S2 China Qualifier,16,1,14,1,2,0,5Love.N4,9,17,0.51 
+2016,07,29,12:15,EDG,5Love.N4,cache,SL i-League S2 China Qualifier,16,9,9,6,7,3,5Love.N4,16,23,0.79 
+2016,07,29,09:00,EHOME,5Love.N4,nuke,SL i-League S2 China Qualifier,16,9,10,5,6,4,5Love.N4,16,22,0.77 
+2016,07,29,09:00,5Love.N4,EHOME,train,SL i-League S2 China Qualifier,4,16,3,12,1,4,5Love.N4,14,16,0.95 
+2016,07,29,09:00,EHOME,5Love.N4,mirage,SL i-League S2 China Qualifier,14,16,6,9,8,7,5Love.N4,28,23,1.14 

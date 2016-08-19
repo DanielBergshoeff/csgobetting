@@ -1,0 +1,11 @@
+2015,10,03,15:00,summa.gg,OverGaming,cache,SocialNat Master League,7,16,2,13,5,3,summa.gg,14,17,0.92 
+2015,10,03,15:00,OverGaming,summa.gg,inferno,SocialNat Master League,16,8,11,4,5,4,summa.gg,21,20,1.11 
+2015,09,15,18:30,summa.gg,EuropeanMisfits,inferno,D!ngIT $2000 Weekly Cup #17,7,16,4,11,3,5,summa.gg,18,17,1.07 
+2015,09,14,20:00,ESC,summa.gg,train,D!ngIT $2000 Weekly Cup #17,21,17,8,7,7,8,summa.gg,30,29,1.14 
+2015,09,14,20:00,summa.gg,ESC,mirage,D!ngIT $2000 Weekly Cup #17,15,21,7,8,8,7,summa.gg,23,26,0.89 
+2015,08,30,15:00,Spain,Italy,dust2,World Championships 2015 Europ..,16,3,13,2,3,1,Spain,12,8,1.09 
+2015,08,30,15:00,Spain,Italy,train,World Championships 2015 Europ..,13,16,9,6,4,10,Spain,23,21,1.03 
+2015,08,30,15:00,Italy,Spain,inferno,World Championships 2015 Europ..,13,16,9,6,4,10,Spain,19,20,0.92 
+2014,07,18,16:15,Planetkey,Hybrid,mirage,DreamHack Valencia 2014,16,13,6,9,10,4,Hybrid,21,22,0.95 
+2014,07,18,14:00,Hybrid,Anima,train,DreamHack Valencia 2014,22,20,9,6,6,9,Hybrid,33,32,1.03 
+2014,07,18,12:25,Planetkey,Hybrid,nuke,DreamHack Valencia 2014,16,2,13,2,3,0,Hybrid,7,16,0.45 

@@ -1,0 +1,22 @@
+2016,07,19,12:00,Singapore,China,cobblestone,World Championships 2016 Asian..,8,16,3,12,5,4,Singapore,18,19,0.92 
+2016,07,19,12:00,Singapore,China,mirage,World Championships 2016 Asian..,13,16,7,8,6,8,Singapore,21,19,1.07 
+2016,07,19,12:00,China,Singapore,dust2,World Championships 2016 Asian..,16,11,8,7,8,4,Singapore,12,19,0.66 
+2016,07,14,14:45,Singapore,Indonesia,mirage,World Championships 2016 Asian..,16,8,13,2,3,6,Singapore,21,13,1.35 
+2016,07,14,14:45,Singapore,Indonesia,cobblestone,World Championships 2016 Asian..,16,10,10,5,6,5,Singapore,17,19,0.90 
+2016,07,14,14:45,Singapore,Indonesia,dust2,World Championships 2016 Asian..,10,16,2,13,8,3,Singapore,15,18,0.82 
+2016,07,12,14:30,Singapore,Vietnam,mirage,World Championships 2016 Asian..,16,13,6,9,10,4,Singapore,12,18,0.68 
+2016,07,12,14:30,Singapore,Vietnam,cobblestone,World Championships 2016 Asian..,11,16,3,12,8,4,Singapore,22,19,1.12 
+2016,07,12,14:30,Singapore,Vietnam,dust2,World Championships 2016 Asian..,16,12,5,10,11,2,Singapore,22,16,1.15 
+2016,07,12,13:15,Singapore,Philippines,cache,World Championships 2016 Asian..,16,7,10,5,6,2,Singapore,22,11,1.48 
+2016,07,12,10:00,China,Singapore,dust2,World Championships 2016 Asian..,16,13,5,10,11,3,Singapore,14,24,0.56 
+2016,07,02,11:40,Singapore,UAE,mirage,World Championships 2016 Asian..,16,8,8,7,8,1,Singapore,22,13,1.45 
+2016,07,02,11:40,Singapore,UAE,nuke,World Championships 2016 Asian..,16,13,7,8,9,5,Singapore,25,14,1.38 
+2016,03,12,14:50,xqR,TitaNs,inferno,DreamHack Masters Malmö 2016 A..,16,12,5,10,11,2,TitaNs,18,20,0.94 
+2015,10,09,15:15,Belgium,Singapore,dust2,World Championships 2015,16,6,9,6,7,0,Singapore,13,19,0.74 
+2015,10,09,11:30,Singapore,Norway,dust2,World Championships 2015,3,16,2,13,1,3,Singapore,11,18,0.65 
+2015,09,05,12:30,Bovines,nxl,mirage,DreamHack Open Cluj-Napoca 201..,11,16,5,10,6,6,Bovines,16,22,0.75 
+2015,08,30,14:00,Singapore,Japan,mirage,World Championships 2015 Asian..,16,12,12,3,4,9,Singapore,14,19,0.78 
+2015,08,30,13:00,Vietnam,Singapore,inferno,World Championships 2015 Asian..,16,1,14,1,2,0,Singapore,4,16,0.28 
+2015,08,29,14:30,Singapore,SouthKorea,mirage,World Championships 2015 Asian..,15,15,10,5,5,10,Singapore,20,19,0.97 
+2015,06,06,13:00,Skyred,Bovines,inferno,FACEIT SEA Launch Cup,16,10,9,6,7,4,Bovines,19,17,1.10 
+2015,06,05,14:00,Bovines,Devious,inferno,FACEIT SEA Launch Cup,16,7,12,3,4,4,Bovines,16,13,0.99 

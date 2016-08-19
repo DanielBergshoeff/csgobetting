@@ -1,0 +1,7 @@
+2016,03,23,04:20,Braindead,h00liGaNz,train,Razer Rising Stars NA League Q..,16,12,8,7,8,5,Braindead,18,17,0.94 
+2015,09,17,01:00,Braindead,Conquest,cache,FACEIT League 2015 Stage 3 NA ..,4,16,4,11,0,5,Braindead,11,17,0.64 
+2015,09,17,01:00,Conquest,Braindead,cobblestone,FACEIT League 2015 Stage 3 NA ..,16,6,13,2,3,4,Braindead,12,18,0.68 
+2015,05,29,02:00,Braindead,Nihilum,inferno,FACEIT League 2015 Stage 2 NA ..,10,16,6,9,4,7,Braindead,19,20,0.85 
+2015,05,29,02:00,Braindead,Nihilum,cache,FACEIT League 2015 Stage 2 NA ..,14,16,8,7,6,9,Braindead,26,25,1.13 
+2015,05,26,02:00,Braindead,SetToDestroyX,mirage,FACEIT League 2015 Stage 2 NA ..,16,8,10,5,6,3,Braindead,25,17,1.45 
+2015,05,26,02:00,SetToDestroyX,Braindead,inferno,FACEIT League 2015 Stage 2 NA ..,14,16,10,5,4,11,Braindead,11,23,0.55 

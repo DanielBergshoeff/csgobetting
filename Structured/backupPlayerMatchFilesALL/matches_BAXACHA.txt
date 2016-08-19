@@ -1,0 +1,4 @@
+2015,09,29,21:15,GRS.GP,mySemperFi,dust2,D!ngIT $2000 Weekly Cup #19,2,16,2,13,0,3,GRS.GP,7,16,0.51 
+2015,09,28,23:15,k1ck,GRS.GP,dust2,D!ngIT $2000 Weekly Cup #19,9,16,5,10,4,6,GRS.GP,11,16,0.68 
+2015,09,28,20:45,mySemperFi,GRS.GP,cache,D!ngIT $2000 Weekly Cup #19,16,5,11,4,5,1,GRS.GP,10,18,0.57 
+2015,09,28,20:45,mySemperFi,GRS.GP,dust2,D!ngIT $2000 Weekly Cup #19,16,8,9,6,7,2,GRS.GP,11,19,0.60 

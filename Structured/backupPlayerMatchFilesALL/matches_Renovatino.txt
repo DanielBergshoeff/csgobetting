@@ -1,0 +1,2 @@
+2015,12,04,13:00,HanoiVortex,MVP.karnal,cobblestone,SoStronk Challenger Asia #1,6,16,3,12,3,4,Hanoi Vortex,13,18,0.77 
+2015,12,04,13:00,HanoiVortex,MVP.karnal,cache,SoStronk Challenger Asia #1,12,16,6,9,6,7,Hanoi Vortex,10,22,0.49 

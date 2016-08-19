@@ -1,0 +1,30 @@
+2016,04,01,21:00,TogetherAsOne,Bpro,cache,Balkan Championship Season 3,9,16,2,13,7,3,TogetherAsOne,26,21,1.39 
+2016,03,30,19:00,Deathtrap,TogetherAsOne,cache,Balkan Championship Season 3,16,8,9,6,7,2,TogetherAsOne,20,23,0.97 
+2016,03,27,20:00,RB,TogetherAsOne,cache,Balkan Championship Season 3,11,16,7,8,4,8,TogetherAsOne,26,19,1.30 
+2016,03,22,20:00,CS-GO.rs,TogetherAsOne,cobblestone,Balkan Championship Season 3,16,13,9,6,7,7,TogetherAsOne,26,20,1.26 
+2015,09,01,15:00,Macedonia,Romania,cache,World Championships 2015 Europ..,14,16,7,8,7,8,Macedonia,22,24,1.01 
+2015,09,01,15:00,Romania,Macedonia,mirage,World Championships 2015 Europ..,16,4,11,4,5,0,Macedonia,11,19,0.56 
+2015,05,26,20:00,EZPZ_LS,H2B,cache,Balkan Championship Season 2,16,5,14,1,2,4,EZPZ_LS,15,11,1.23 
+2015,05,26,20:00,H2B,EZPZ_LS,mirage,Balkan Championship Season 2,6,16,5,10,1,6,EZPZ_LS,26,12,1.71 
+2015,05,26,20:00,H2B,EZPZ_LS,dust2,Balkan Championship Season 2,19,17,5,10,10,5,EZPZ_LS,27,24,1.04 
+2015,05,22,18:00,EZPZ_LS,mesport.hu,cache,Balkan Championship Season 2,16,8,13,2,3,6,EZPZ_LS,11,12,0.79 
+2015,05,22,18:00,mesport.hu,EZPZ_LS,inferno,Balkan Championship Season 2,7,16,6,9,1,7,EZPZ_LS,21,11,1.39 
+2015,05,05,20:30,SpaceSoldiers,EZPZ_LS,mirage,Balkan Championship Season 2,16,9,12,3,4,6,EZPZ_LS,22,19,1.09 
+2015,05,05,20:30,SpaceSoldiers,EZPZ_LS,cache,Balkan Championship Season 2,16,10,6,9,10,1,EZPZ_LS,18,22,0.87 
+2015,04,27,22:00,ENTiTY,Rock,dust2,Balkan Superleague,12,16,8,7,4,9,ENTiTY,20,17,1.13 
+2015,04,23,23:00,ENTiTY,GPlay,dust2,Balkan Superleague,9,16,5,10,4,6,ENTiTY,16,18,0.93 
+2015,04,22,22:15,neXtPlease!,ENTiTY,cache,Balkan Superleague,16,8,9,6,7,2,ENTiTY,24,17,1.38 
+2015,04,21,21:15,ENTiTY,GIANT5,cache,Balkan Superleague,16,6,11,4,5,2,ENTiTY,24,13,1.72 
+2014,11,05,16:30,Netherlands,Macedonia,dust2,European Championship 2014,16,10,10,5,6,5,Macedonia,27,20,1.30 
+2014,11,05,16:30,Netherlands,Macedonia,mirage,European Championship 2014,16,7,11,4,5,3,Macedonia,8,20,0.42 
+2014,10,09,23:15,Denmark,Macedonia,dust2,European Championship 2014,16,1,14,1,2,0,Macedonia,9,16,0.63 
+2014,10,05,21:00,Latvia,Macedonia,inferno,European Championship 2014,13,16,11,4,2,12,Macedonia,31,18,1.78 
+2014,09,09,21:00,Slovakia,Macedonia,mirage,European Championship 2014,16,1,14,1,2,0,Macedonia,10,16,0.64 
+2014,08,18,21:00,Macedonia,Greece,dust2,European Championship 2014 Qua..,16,14,5,10,11,4,Macedonia,37,22,1.65 
+2014,08,18,21:00,Greece,Macedonia,inferno,European Championship 2014 Qua..,16,2,13,2,3,0,Macedonia,8,17,0.45 
+2014,08,18,21:00,Macedonia,Greece,mirage,European Championship 2014 Qua..,16,6,10,5,6,1,Macedonia,16,15,0.97 
+2014,05,25,15:00,volgare,GamePub.ENTiTY,nuke,Gaming Challenge 2014,16,6,14,1,2,5,GamePub.ENTiTY,10,20,0.48 
+2014,05,25,15:00,volgare,GamePub.ENTiTY,mirage,Gaming Challenge 2014,19,17,9,6,6,9,GamePub.ENTiTY,28,26,1.05 
+2014,05,25,15:00,volgare,GamePub.ENTiTY,inferno,Gaming Challenge 2014,15,19,10,5,5,10,GamePub.ENTiTY,24,20,1.10 
+2014,05,25,14:00,GamePub.ENTiTY,core.team,mirage,Gaming Challenge 2014,16,5,13,2,3,3,GamePub.ENTiTY,24,11,1.70 
+2014,05,25,13:00,GamePub.ENTiTY,e-Sports.rs,train,Gaming Challenge 2014,14,16,10,5,4,11,GamePub.ENTiTY,23,21,1.14 

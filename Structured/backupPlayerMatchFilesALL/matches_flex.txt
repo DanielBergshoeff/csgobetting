@@ -1,0 +1,22 @@
+2016,05,20,22:10,KoNSweden,KoNNorway,overpass,King of Nordic Season 4,5,16,5,10,0,6,KoN Sweden,10,18,0.57 
+2016,05,20,20:45,KoNSweden,KoNFinland,mirage,King of Nordic Season 4,16,13,6,9,10,4,KoN Sweden,22,20,1.09 
+2016,05,20,19:15,KoNSweden,KoNDenmark,cache,King of Nordic Season 4,19,17,7,8,8,7,KoN Sweden,30,23,1.22 
+2016,04,11,18:00,Tricked,Torpedo,inferno,Operation: Kinguin #2,11,16,5,10,6,6,Tricked,20,21,0.95 
+2016,04,11,18:00,Torpedo,Tricked,cobblestone,Operation: Kinguin #2,16,13,7,8,9,5,Tricked,10,23,0.50 
+2016,04,11,18:00,Torpedo,Tricked,mirage,Operation: Kinguin #2,14,16,9,6,5,10,Tricked,14,22,0.67 
+2016,03,24,19:00,FAB,Tricked,overpass,Copenhagen Games 2016 BYOC Qua..,16,12,8,7,8,5,Tricked,21,20,1.07 
+2016,03,24,19:00,FAB,Tricked,mirage,Copenhagen Games 2016 BYOC Qua..,16,6,10,5,6,1,Tricked,16,18,0.84 
+2016,03,24,19:00,Tricked,FAB,inferno,Copenhagen Games 2016 BYOC Qua..,16,9,9,6,7,3,Tricked,24,13,1.40 
+2016,03,24,15:30,Heroic,Tricked,cobblestone,Copenhagen Games 2016 BYOC Qua..,4,16,2,13,2,3,Tricked,9,7,0.99 
+2016,03,24,13:00,Tricked,Tog,dust2,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Tricked,23,5,2.22 
+2016,03,19,18:45,Tricked,WEGOTGAME,mirage,DreamHack Masters Malmö 2016 E..,13,16,8,7,5,9,Tricked,23,18,1.23 
+2016,03,15,19:00,SK,Tricked,cache,Operation: Kinguin #2,16,5,13,2,3,3,Tricked,11,18,0.61 
+2016,03,15,19:00,Tricked,SK,overpass,Operation: Kinguin #2,19,17,8,7,7,8,Tricked,22,24,0.90 
+2016,02,11,19:00,DenDD,Tricked,dust2,Uprise Champions Cup Season 4 ..,16,7,10,5,6,2,Tricked,7,19,0.42 
+2016,02,11,19:00,DenDD,Tricked,cache,Uprise Champions Cup Season 4 ..,16,12,10,5,6,7,Tricked,22,20,1.10 
+2016,02,09,20:00,Tricked,CPHWolves,inferno,Uprise Champions Cup Season 4 ..,16,11,8,7,8,4,Tricked,16,16,0.96 
+2015,12,12,19:30,MDK,Aperture,mirage,BHG CS:GO Tournament,5,16,4,11,1,5,MDK,11,18,0.69 
+2015,12,12,19:30,MDK,Aperture,inferno,BHG CS:GO Tournament,4,16,1,14,3,2,MDK,8,16,0.58 
+2015,12,12,10:15,MDK,PewPew-Armada,mirage,BHG CS:GO Tournament,16,12,8,7,8,5,MDK,24,19,1.21 
+2015,12,12,10:15,PewPew-Armada,MDK,dust2,BHG CS:GO Tournament,16,13,8,7,8,6,MDK,17,23,0.78 
+2015,12,12,10:15,MDK,PewPew-Armada,cache,BHG CS:GO Tournament,15,15,7,8,8,7,MDK,20,19,1.01 

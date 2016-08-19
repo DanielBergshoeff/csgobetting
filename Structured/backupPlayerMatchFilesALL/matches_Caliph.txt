@@ -1,0 +1,14 @@
+2016,02,22,23:00,Pixel,GIANT5,overpass,Balkan Challenge #1,16,11,8,7,8,4,GIANT5,11,19,0.60 
+2016,02,22,22:00,Deathtrap,GIANT5,cache,Balkan Challenge #1,16,9,11,4,5,5,GIANT5,15,22,0.67 
+2016,02,22,19:00,PhysX,GIANT5,inferno,Balkan Challenge #1,6,16,5,10,1,6,GIANT5,8,9,0.89 
+2015,11,08,16:30,FnaticStaff,E-frag.netStaff,dust2,Virtus.pro Staff Cup #3,4,16,3,12,1,4,E-frag.net Staff,13,8,1.15 
+2015,11,08,16:30,E-frag.netStaff,FnaticStaff,cache,Virtus.pro Staff Cup #3,16,3,12,3,4,0,E-frag.net Staff,14,6,1.33 
+2015,11,07,16:00,StormStudioStaff,E-frag.netStaff,inferno,Virtus.pro Staff Cup #3,8,16,3,12,5,4,E-frag.net Staff,17,10,1.21 
+2015,11,07,16:00,E-frag.netStaff,StormStudioStaff,cache,Virtus.pro Staff Cup #3,16,6,14,1,2,5,E-frag.net Staff,22,9,1.77 
+2015,08,31,16:30,Croatia,Ukraine,cobblestone,World Championships 2015 Europ..,2,16,2,13,0,3,Croatia,9,16,0.57 
+2015,08,31,16:30,Ukraine,Croatia,inferno,World Championships 2015 Europ..,16,5,14,1,2,4,Croatia,11,16,0.71 
+2015,04,21,21:15,ENTiTY,GIANT5,cache,Balkan Superleague,16,6,11,4,5,2,GIANT5,11,18,0.62 
+2015,04,15,21:15,TRICKED,GIANT5,inferno,Balkan Superleague,16,8,9,6,7,2,GIANT5,14,18,0.88 
+2015,04,14,20:20,GPlay,GIANT5,inferno,Balkan Superleague,16,0,15,0,1,0,GIANT5,6,16,0.35 
+2014,08,12,21:00,Croatia,Belarus,mirage,European Championship 2014 Qua..,9,16,6,9,3,7,Croatia,15,19,0.81 
+2014,08,12,21:00,Croatia,Belarus,dust2,European Championship 2014 Qua..,3,16,1,14,2,2,Croatia,10,16,0.66 

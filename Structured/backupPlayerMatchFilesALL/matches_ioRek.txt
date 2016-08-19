@@ -1,0 +1,19 @@
+2015,06,09,23:15,EnVyUs,Titan,dust2,FACEIT League 2015 Stage 2,21,15,8,7,7,8,Titan,13,25,0.62 
+2015,06,09,20:15,Virtus.pro,Titan,mirage,CEVO Professional Season 7,16,8,8,7,8,1,Titan,14,20,0.77 
+2015,06,09,20:15,Titan,Virtus.pro,cobblestone,CEVO Professional Season 7,16,13,7,8,9,5,Titan,15,22,0.71 
+2015,02,19,20:00,Titan,EnVyUs,cache,FACEIT League 2015 Stage 1,16,11,5,10,11,1,Titan,15,14,0.92 
+2014,12,18,19:50,Titan,Orbit,cache,ESL Pro League Winter 2014/15,16,11,7,8,9,3,Titan,22,14,1.35 
+2014,12,18,19:50,Orbit,Titan,mirage,ESL Pro League Winter 2014/15,9,16,7,8,2,8,Titan,18,15,1.04 
+2014,12,07,00:55,iBUYPOWER,Titan,inferno,ESEA Invite Season 17 Global F..,19,16,8,7,7,8,Titan,20,27,0.85 
+2014,12,07,00:55,iBUYPOWER,Titan,season,ESEA Invite Season 17 Global F..,16,10,7,8,9,2,Titan,10,20,0.51 
+2014,12,07,00:55,Titan,iBUYPOWER,cache,ESEA Invite Season 17 Global F..,16,11,12,3,4,8,Titan,20,19,1.08 
+2014,12,06,17:30,fnatic,Titan,inferno,ESEA Invite Season 17 Global F..,19,16,11,4,4,11,Titan,17,23,0.69 
+2014,12,06,17:30,fnatic,Titan,nuke,ESEA Invite Season 17 Global F..,16,12,11,4,5,8,Titan,16,19,0.84 
+2014,12,06,17:30,Titan,fnatic,cache,ESEA Invite Season 17 Global F..,16,13,8,7,8,6,Titan,17,18,0.91 
+2014,12,06,01:45,Denial,Titan,mirage,ESEA Invite Season 17 Global F..,12,16,7,8,5,8,Titan,13,18,0.78 
+2014,12,06,01:45,Titan,Denial,inferno,ESEA Invite Season 17 Global F..,22,19,10,5,5,10,Titan,15,27,0.61 
+2014,11,13,19:30,Titan,mousesports,cobblestone,Caseking King of Kings,11,16,8,7,3,9,Titan,3,7,0.70 
+2014,10,27,18:00,NatusVincere,Titan,inferno,Fragbite Masters Season 3,16,14,7,8,9,6,Titan,20,19,0.98 
+2014,10,27,18:00,Titan,NatusVincere,mirage,Fragbite Masters Season 3,14,16,6,9,8,7,Titan,3,5,0.76 
+2014,09,28,21:31,iGamerz,Bizounours,dust2,ESWC 2014 France Vakarm.net pr..,16,8,8,7,8,1,Bizounours,17,20,0.92 
+2014,09,28,21:00,Bizounours,iGamerz,mirage,ESWC 2014 France Vakarm.net pr..,7,16,7,8,0,8,Bizounours,2,19,0.21 

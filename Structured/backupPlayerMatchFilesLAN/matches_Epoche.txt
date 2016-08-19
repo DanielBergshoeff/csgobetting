@@ -1,0 +1,6 @@
+2016,08,07,11:00,T5,autocracy,overpass,VSL Season 1,8,16,4,11,4,5,T5,13,22,0.69 
+2016,08,07,11:00,autocracy,T5,cache,VSL Season 1,16,8,8,7,8,1,T5,20,20,1.12 
+2016,08,04,14:00,T5,m0nsterwhite,train,VSL Season 1,16,2,13,2,3,0,T5,17,9,1.42 
+2016,07,31,13:15,T5,TamuluS,train,VSL Season 1,16,9,11,4,5,5,T5,19,14,1.20 
+2016,07,21,14:10,Player5,T5,cache,VSL Season 1,6,16,2,13,4,3,T5,26,14,1.63 
+2016,07,10,12:30,Nomad,T5,cache,VSL Season 1,2,16,2,13,0,3,T5,22,10,1.77 

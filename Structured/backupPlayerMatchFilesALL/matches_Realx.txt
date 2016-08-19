@@ -1,0 +1,41 @@
+2016,04,22,11:00,inchk1ng,nxl,cache,Rising Stars SEA Promotional C..,14,16,10,5,4,11,inchk1ng,21,23,0.89 
+2016,04,22,11:00,nxl,inchk1ng,dust2,Rising Stars SEA Promotional C..,16,9,8,7,8,2,inchk1ng,12,19,0.74 
+2016,04,20,17:10,EDG,inchk1ng,overpass,Rising Stars SEA Promotional C..,14,16,11,4,3,12,inchk1ng,28,19,1.27 
+2016,04,20,14:30,inchk1ng,TheMongolz,cache,Rising Stars SEA Promotional C..,10,16,8,7,2,9,inchk1ng,18,20,1.03 
+2016,04,20,12:00,MOTV,inchk1ng,dust2,Rising Stars SEA Promotional C..,12,16,4,11,8,5,inchk1ng,17,20,0.82 
+2016,04,17,13:00,Immunity,inchk1ng,dust2,WCA 2016 APAC Qualifier,16,1,14,1,2,0,inchk1ng,8,16,0.58 
+2016,04,17,13:00,inchk1ng,Immunity,cache,WCA 2016 APAC Qualifier,9,16,5,10,4,6,inchk1ng,16,18,0.95 
+2016,04,17,13:00,inchk1ng,Immunity,inferno,WCA 2016 APAC Qualifier,16,8,10,5,6,3,inchk1ng,16,12,1.21 
+2016,04,15,13:00,inchk1ng,nxl,inferno,WCA 2016 APAC Qualifier,16,8,11,4,5,4,inchk1ng,19,15,1.21 
+2016,04,15,13:00,inchk1ng,nxl,mirage,WCA 2016 APAC Qualifier,8,16,5,10,3,6,inchk1ng,11,19,0.65 
+2016,04,15,13:00,nxl,inchk1ng,cache,WCA 2016 APAC Qualifier,3,16,3,12,0,4,inchk1ng,10,9,0.87 
+2016,03,13,10:00,Immunity,inchk1ng,inferno,DreamHack Masters Malmö 2016 A..,16,9,11,4,5,5,inchk1ng,7,20,0.40 
+2016,03,13,10:00,Immunity,inchk1ng,overpass,DreamHack Masters Malmö 2016 A..,7,16,6,9,1,7,inchk1ng,12,14,0.88 
+2016,03,13,10:00,inchk1ng,Immunity,cache,DreamHack Masters Malmö 2016 A..,6,16,4,11,2,5,inchk1ng,10,19,0.60 
+2016,03,13,06:40,inchk1ng,Risky,train,DreamHack Masters Malmö 2016 A..,16,3,12,3,4,0,inchk1ng,19,9,1.48 
+2016,03,13,06:40,inchk1ng,Risky,dust2,DreamHack Masters Malmö 2016 A..,16,8,11,4,5,4,inchk1ng,22,13,1.43 
+2015,12,19,13:00,inchk1ng,MVPproject,cache,D!ngIT CS:GO Asia Invitational..,16,6,11,4,5,2,inchk1ng,18,17,1.08 
+2015,12,19,13:00,inchk1ng,MVPproject,train,D!ngIT CS:GO Asia Invitational..,19,17,5,10,10,5,inchk1ng,16,24,0.72 
+2015,12,16,13:00,inchk1ng,Skyred,dust2,D!ngIT CS:GO Asia Invitational..,13,16,9,6,4,10,inchk1ng,16,26,0.65 
+2015,12,16,13:00,Skyred,inchk1ng,cache,D!ngIT CS:GO Asia Invitational..,16,7,10,5,6,2,inchk1ng,10,20,0.52 
+2015,12,16,13:00,Skyred,inchk1ng,mirage,D!ngIT CS:GO Asia Invitational..,11,16,9,6,2,10,inchk1ng,20,19,1.03 
+2015,12,13,17:00,TyLoo,inchk1ng,cobblestone,Game On Asian Invitational,16,11,9,6,7,5,inchk1ng,14,21,0.70 
+2015,12,13,17:00,TyLoo,inchk1ng,dust2,Game On Asian Invitational,16,8,8,7,8,1,inchk1ng,11,17,0.67 
+2015,12,13,15:00,nxl,inchk1ng,cobblestone,Game On Asian Invitational,6,16,4,11,2,5,inchk1ng,21,14,1.31 
+2015,12,13,15:00,inchk1ng,nxl,cache,Game On Asian Invitational,16,6,10,5,6,1,inchk1ng,11,11,0.85 
+2015,12,11,13:40,inchk1ng,BOW,mirage,Fulcrum Gamers League,16,1,14,1,2,0,inchk1ng,11,5,1.22 
+2015,12,11,13:40,inchk1ng,BOW,dust2,Fulcrum Gamers League,16,5,13,2,3,3,inchk1ng,15,11,1.04 
+2015,12,09,13:00,inchk1ng,TheMongolz,dust2,D!ngIT CS:GO Asia Invitational..,16,14,7,8,9,6,inchk1ng,17,22,0.81 
+2015,12,07,14:15,inchk1ng,T5,cache,D!ngIT CS:GO Asia Invitational..,16,8,9,6,7,2,inchk1ng,19,11,1.25 
+2015,12,05,13:40,inchk1ng,pow,cache,Fulcrum Gamers League,16,7,8,7,8,0,inchk1ng,30,10,2.03 
+2015,12,05,13:40,inchk1ng,pow,train,Fulcrum Gamers League,16,2,13,2,3,0,inchk1ng,16,8,1.45 
+2015,12,03,13:40,inchk1ng,TyLoo,cache,Fulcrum Gamers League,12,16,8,7,4,9,inchk1ng,17,20,0.91 
+2015,12,03,13:40,inchk1ng,TyLoo,mirage,Fulcrum Gamers League,11,16,5,10,6,6,inchk1ng,16,22,0.71 
+2015,11,28,12:00,CyberZen,inchk1ng,mirage,Fulcrum Gamers League,13,16,9,6,4,10,inchk1ng,18,21,0.82 
+2015,11,28,12:00,inchk1ng,CyberZen,train,Fulcrum Gamers League,16,8,11,4,5,4,inchk1ng,24,14,1.42 
+2015,11,27,12:00,inchk1ng,TheMongolz,dust2,Fulcrum Gamers League,16,9,11,4,5,5,inchk1ng,25,15,1.37 
+2015,11,27,12:00,inchk1ng,TheMongolz,cache,Fulcrum Gamers League,16,5,13,2,3,3,inchk1ng,19,10,1.40 
+2015,11,04,15:55,inchk1ng,MVP.karnal,cobblestone,MixBOT Pro-League Invite Seaso..,6,16,3,12,3,4,inchk1ng,18,17,0.95 
+2015,10,17,18:00,inchk1ng,TyLoo,cache,MixBOT Pro-League Invite Seaso..,11,16,6,9,5,7,inchk1ng,13,20,0.66 
+2015,10,17,15:00,inchk1ng,Penguin,mirage,MixBOT Pro-League Invite Seaso..,16,4,12,3,4,1,inchk1ng,12,12,1.00 
+2015,09,18,15:30,inchk1ng,MiraculousHawks,dust2,MixBOT Pro-League Invite Seaso..,8,16,6,9,2,7,inchk1ng,12,20,0.60 

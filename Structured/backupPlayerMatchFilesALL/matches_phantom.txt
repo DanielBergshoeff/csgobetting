@@ -1,0 +1,8 @@
+2016,08,13,01:00,Luminosity,Tectonic,train,SL i-League S2 Americas Qualif..,16,1,14,1,2,0,Tectonic,14,16,1.01 
+2016,08,13,01:00,Luminosity,Tectonic,mirage,SL i-League S2 Americas Qualif..,16,2,14,1,2,1,Tectonic,8,17,0.51 
+2016,08,11,03:00,Tectonic,Rush,mirage,SL i-League S2 Americas Qualif..,16,7,11,4,5,3,Tectonic,15,13,1.23 
+2016,08,11,03:00,Tectonic,Rush,train,SL i-League S2 Americas Qualif..,16,5,14,1,2,4,Tectonic,14,11,1.06 
+2016,08,08,02:15,Tectonic,Prospects,train,ESEA Premier Season 22 North A..,12,16,2,13,10,3,Tectonic,20,20,0.95 
+2016,08,08,02:15,Prospects,Tectonic,overpass,ESEA Premier Season 22 North A..,19,16,6,9,9,6,Tectonic,17,25,0.69 
+2016,07,20,04:50,Kingdom,Tectonic,dust2,RGN Pro Series II NA Closed Qu..,6,16,2,13,4,3,Tectonic,16,13,1.15 
+2016,07,20,04:50,Kingdom,Tectonic,cache,RGN Pro Series II NA Closed Qu..,22,25,7,8,8,7,Tectonic,32,28,1.06 

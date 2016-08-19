@@ -1,0 +1,14 @@
+2016,06,14,20:00,visomvet,mixbanan,overpass,Yoggi Yalla Cup,14,16,8,7,6,9,visomvet,18,20,0.89 
+2016,06,14,20:00,visomvet,mixbanan,mirage,Yoggi Yalla Cup,16,14,5,10,11,4,visomvet,12,18,0.70 
+2016,06,14,20:00,mixbanan,visomvet,cache,Yoggi Yalla Cup,16,11,7,8,9,3,visomvet,17,20,0.91 
+2016,06,14,18:00,visomvet,demonlaget,mirage,Yoggi Yalla Cup,16,9,9,6,7,3,visomvet,23,14,1.52 
+2016,06,14,18:00,demonlaget,visomvet,cache,Yoggi Yalla Cup,6,16,6,9,0,7,visomvet,13,15,0.81 
+2016,06,05,12:00,Gambit,visomvet,cache,DreamHack ZOWIE Open Summer 20..,16,8,11,4,5,4,visomvet,19,21,0.98 
+2016,06,05,12:00,visomvet,Gambit,cobblestone,DreamHack ZOWIE Open Summer 20..,8,16,5,10,3,6,visomvet,18,19,1.18 
+2016,06,04,18:25,visomvet,MeMyself&I,cache,DreamHack ZOWIE Open Summer 20..,16,7,9,6,7,1,visomvet,17,14,1.06 
+2016,05,01,15:00,visomvet,AGG,inferno,DreamHack Regional Minor Champ..,9,16,6,9,3,7,visomvet,19,16,1.32 
+2016,05,01,15:00,visomvet,AGG,cobblestone,DreamHack Regional Minor Champ..,5,16,5,10,0,6,visomvet,13,17,0.84 
+2016,04,30,17:50,visomvet,RedInstinctRS,overpass,DreamHack Regional Minor Champ..,16,11,10,5,6,6,visomvet,21,15,1.18 
+2016,03,28,22:50,visomvet,RAIDERS,cache,Yoggi Yalla Cup,16,10,7,8,9,2,visomvet,21,13,1.26 
+2016,03,28,22:50,visomvet,RAIDERS,mirage,Yoggi Yalla Cup,16,11,14,1,2,10,visomvet,19,15,1.10 
+2015,12,19,18:30,PlayItCoolAll-Stars,Leaf,cache,Play It Cool CS:GO Community C..,22,20,8,7,7,8,Leaf,47,27,1.68 

@@ -1,0 +1,10 @@
+2016,05,27,20:45,KoNSweden,KoNFinland,mirage,King of Nordic Season 4,16,5,11,4,5,1,KoN Finland,15,19,0.87 
+2016,05,27,19:15,KoNDenmark,KoNFinland,dust2,King of Nordic Season 4,8,16,6,9,2,7,KoN Finland,16,14,1.02 
+2016,03,04,22:30,KoNSweden,KoNFinland,dust2,King of Nordic Season 3,16,8,13,2,3,6,KoN Finland,16,19,0.90 
+2016,03,04,21:30,KoNFinland,KoNNorway,dust2,King of Nordic Season 3,16,3,13,2,3,1,KoN Finland,24,5,2.11 
+2016,03,04,20:15,KoNFinland,KoNDenmark,inferno,King of Nordic Season 3,16,6,11,4,5,2,KoN Finland,13,11,0.98 
+2015,10,17,18:30,Recursive,JDWI,overpass,Jimm's CS:GO Challenge,16,10,9,6,7,4,Recursive,13,16,0.80 
+2015,10,17,18:30,JDWI,Recursive,cache,Jimm's CS:GO Challenge,16,13,8,7,8,6,Recursive,25,19,1.28 
+2015,10,17,18:30,JDWI,Recursive,mirage,Jimm's CS:GO Challenge,1,16,1,14,0,2,Recursive,19,7,1.65 
+2015,10,17,13:40,RCTIC,Recursive,overpass,Jimm's CS:GO Challenge,16,12,6,9,10,3,Recursive,18,20,1.02 
+2015,10,17,13:40,RCTIC,Recursive,train,Jimm's CS:GO Challenge,16,10,9,6,7,4,Recursive,17,19,0.81 

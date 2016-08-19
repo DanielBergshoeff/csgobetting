@@ -1,0 +1,2 @@
+2015,12,17,18:00,Arcade,CPLAY,inferno,99Damage Arena #18,16,4,12,3,4,1,CPLAY,12,17,0.71 
+2015,12,17,18:00,Arcade,CPLAY,mirage,99Damage Arena #18,16,2,13,2,3,0,CPLAY,6,16,0.40 

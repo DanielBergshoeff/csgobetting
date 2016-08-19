@@ -1,0 +1,82 @@
+2015,10,19,05:10,Torqued,Enemy,inferno,Fragadelphia 6,16,13,7,8,9,5,Torqued,29,16,1.46 
+2015,10,19,05:10,Torqued,Enemy,overpass,Fragadelphia 6,16,8,12,3,4,5,Torqued,24,14,1.54 
+2015,10,19,00:00,Enemy,Torqued,inferno,Fragadelphia 6,7,16,7,8,0,8,Torqued,16,16,0.93 
+2015,10,19,00:00,Enemy,Torqued,cache,Fragadelphia 6,16,13,6,9,10,4,Torqued,19,22,0.88 
+2015,10,19,00:00,Enemy,Torqued,cobblestone,Fragadelphia 6,2,16,2,13,0,3,Torqued,13,11,1.11 
+2015,10,18,22:00,WinOut.net,Torqued,cache,Fragadelphia 6,13,16,4,11,9,5,Torqued,29,19,1.48 
+2015,10,18,22:00,WinOut.net,Torqued,mirage,Fragadelphia 6,4,16,4,11,0,5,Torqued,22,8,1.79 
+2015,10,18,19:10,CLGRed,Torqued,cobblestone,Fragadelphia 6,3,16,3,12,0,4,Torqued,22,9,1.95 
+2015,10,18,19:10,Torqued,CLGRed,dust2,Fragadelphia 6,16,9,7,8,9,1,Torqued,19,14,1.23 
+2014,12,20,21:00,iBUYPOWER,mouseSpaz,season,G2A.com December Cup Powered b..,8,16,3,12,5,4,iBUYPOWER,20,18,1.17 
+2014,12,20,21:00,mouseSpaz,iBUYPOWER,nuke,G2A.com December Cup Powered b..,16,12,12,3,4,9,iBUYPOWER,21,21,1.02 
+2014,12,20,21:00,iBUYPOWER,mouseSpaz,inferno,G2A.com December Cup Powered b..,16,3,12,3,4,0,iBUYPOWER,18,6,1.69 
+2014,12,20,21:00,mouseSpaz,iBUYPOWER,cache,G2A.com December Cup Powered b..,12,16,7,8,5,8,iBUYPOWER,24,17,1.22 
+2014,12,20,21:00,mouseSpaz,iBUYPOWER,dust2,G2A.com December Cup Powered b..,21,19,10,5,5,10,iBUYPOWER,17,31,0.61 
+2014,12,19,02:20,iBUYPOWER,Denial,dust2,G2A.com December Cup Powered b..,16,5,13,2,3,3,iBUYPOWER,13,12,0.95 
+2014,12,19,02:20,iBUYPOWER,Denial,inferno,G2A.com December Cup Powered b..,16,14,9,6,7,8,iBUYPOWER,14,23,0.62 
+2014,12,19,02:20,Denial,iBUYPOWER,cache,G2A.com December Cup Powered b..,6,16,3,12,3,4,iBUYPOWER,16,15,0.97 
+2014,12,07,17:45,fnatic,iBUYPOWER,inferno,ESEA Invite Season 17 Global F..,16,9,10,5,6,4,iBUYPOWER,17,19,0.82 
+2014,12,07,17:45,iBUYPOWER,fnatic,cache,ESEA Invite Season 17 Global F..,12,16,3,12,9,4,iBUYPOWER,18,23,0.81 
+2014,12,07,05:20,iBUYPOWER,Denial,inferno,ESEA Invite Season 17 Global F..,16,12,10,5,6,7,iBUYPOWER,20,16,1.13 
+2014,12,07,05:20,Denial,iBUYPOWER,cache,ESEA Invite Season 17 Global F..,13,16,11,4,2,12,iBUYPOWER,18,21,1.00 
+2014,12,07,00:55,iBUYPOWER,Titan,inferno,ESEA Invite Season 17 Global F..,19,16,8,7,7,8,iBUYPOWER,23,23,0.94 
+2014,12,07,00:55,iBUYPOWER,Titan,season,ESEA Invite Season 17 Global F..,16,10,7,8,9,2,iBUYPOWER,25,15,1.49 
+2014,12,07,00:55,Titan,iBUYPOWER,cache,ESEA Invite Season 17 Global F..,16,11,12,3,4,8,iBUYPOWER,19,22,0.95 
+2014,12,06,21:50,iBUYPOWER,mousesports,dust2,ESEA Invite Season 17 Global F..,16,7,12,3,4,4,iBUYPOWER,21,15,1.27 
+2014,12,06,21:50,mousesports,iBUYPOWER,cache,ESEA Invite Season 17 Global F..,14,16,9,6,5,10,iBUYPOWER,19,20,0.92 
+2014,12,06,02:05,iBUYPOWER,Virtus.pro,inferno,ESEA Invite Season 17 Global F..,22,25,10,5,5,10,iBUYPOWER,37,35,1.01 
+2014,12,06,02:05,iBUYPOWER,Virtus.pro,train,ESEA Invite Season 17 Global F..,10,16,9,6,1,10,iBUYPOWER,18,17,1.04 
+2014,12,06,02:05,Virtus.pro,iBUYPOWER,cache,ESEA Invite Season 17 Global F..,4,16,3,12,1,4,iBUYPOWER,18,13,1.33 
+2014,11,27,16:15,iBUYPOWER,PENTA,inferno,DreamHack Winter 2014,13,16,13,2,0,14,iBUYPOWER,21,22,1.00 
+2014,11,27,14:00,dignitas,iBUYPOWER,nuke,DreamHack Winter 2014,16,7,13,2,3,5,iBUYPOWER,8,18,0.49 
+2014,11,27,13:15,iBUYPOWER,CPHWolves,nuke,DreamHack Winter 2014,16,4,12,3,4,1,iBUYPOWER,12,10,1.00 
+2014,11,10,02:00,iBUYPOWER,Denial,cache,CS:GO Legends Series NA #1,16,9,10,5,6,4,iBUYPOWER,21,19,1.15 
+2014,11,10,02:00,Denial,iBUYPOWER,dust2,CS:GO Legends Series NA #1,9,16,4,11,5,5,iBUYPOWER,20,15,1.18 
+2014,11,10,02:00,iBUYPOWER,Denial,inferno,CS:GO Legends Series NA #1,12,16,5,10,7,6,iBUYPOWER,18,20,0.83 
+2014,11,10,02:00,Denial,iBUYPOWER,mirage,CS:GO Legends Series NA #1,13,16,10,5,3,11,iBUYPOWER,24,16,1.24 
+2014,11,01,09:30,iBUYPOWER,NatusVincere,nuke,ESWC 2014,13,16,12,3,1,13,iBUYPOWER,18,24,0.74 
+2014,11,01,09:30,NatusVincere,iBUYPOWER,overpass,ESWC 2014,16,13,14,1,2,12,iBUYPOWER,19,18,1.06 
+2014,10,31,17:30,dignitas,iBUYPOWER,inferno,ESWC 2014,16,14,9,6,7,8,iBUYPOWER,20,23,0.86 
+2014,10,31,15:30,3DMAX,iBUYPOWER,nuke,ESWC 2014,11,16,10,5,1,11,iBUYPOWER,19,17,1.02 
+2014,10,31,12:50,GPlay,iBUYPOWER,inferno,ESWC 2014,7,16,4,11,3,5,iBUYPOWER,16,17,0.83 
+2014,10,31,11:30,iBUYPOWER,mousesports,cache,ESWC 2014,16,8,11,4,5,4,iBUYPOWER,17,17,1.02 
+2014,10,31,10:30,Cipangu.GO,iBUYPOWER,inferno,ESWC 2014,1,16,1,14,0,2,iBUYPOWER,13,11,1.10 
+2014,10,26,17:32,fnatic,iBUYPOWER,nuke,FACEIT League Season 2 Finals,16,14,13,2,3,12,iBUYPOWER,21,21,1.02 
+2014,10,26,16:13,fnatic,iBUYPOWER,inferno,FACEIT League Season 2 Finals,16,10,11,4,5,6,iBUYPOWER,20,18,1.06 
+2014,10,26,15:13,fnatic,iBUYPOWER,mirage,FACEIT League Season 2 Finals,16,8,12,3,4,5,iBUYPOWER,12,17,0.78 
+2014,10,26,13:48,iBUYPOWER,fnatic,dust2,FACEIT League Season 2 Finals,16,8,9,6,7,2,iBUYPOWER,13,11,0.91 
+2014,10,25,16:13,LDLC,iBUYPOWER,dust2,FACEIT League Season 2 Finals,12,16,4,11,8,5,iBUYPOWER,25,18,1.39 
+2014,10,25,15:05,iBUYPOWER,LDLC,inferno,FACEIT League Season 2 Finals,31,27,12,3,3,12,iBUYPOWER,46,40,1.07 
+2014,10,25,11:47,iBUYPOWER,dignitas,nuke,FACEIT League Season 2 Finals,13,16,11,4,2,12,iBUYPOWER,20,21,0.90 
+2014,10,25,10:38,iBUYPOWER,dignitas,dust2,FACEIT League Season 2 Finals,16,3,12,3,4,0,iBUYPOWER,19,8,1.55 
+2014,10,24,20:00,fnatic,iBUYPOWER,dust2,FACEIT League Season 2 Finals,16,12,7,8,9,4,iBUYPOWER,23,19,1.18 
+2014,10,24,19:19,fnatic,iBUYPOWER,inferno,FACEIT League Season 2 Finals,16,13,10,5,6,8,iBUYPOWER,23,23,0.99 
+2014,10,21,04:30,iBUYPOWER,eLevate,cache,DreamHack Winter 2014 NA Close..,16,7,9,6,7,1,iBUYPOWER,26,9,1.90 
+2014,10,02,05:00,Cloud9,iBUYPOWER,overpass,FACEIT League NA Season 2,16,10,9,6,7,4,iBUYPOWER,10,22,0.56 
+2014,09,25,03:00,iBUYPOWER,NetcodeGuides.com,nuke,FACEIT League NA Season 2,16,14,11,4,5,10,iBUYPOWER,22,24,1.01 
+2014,09,11,05:40,iBUYPOWER,savage,cache,FACEIT League NA Season 2,16,10,7,8,9,2,iBUYPOWER,23,19,1.23 
+2014,09,04,04:15,Mobility,iBUYPOWER,inferno,FACEIT League NA Season 2,10,16,9,6,1,10,iBUYPOWER,21,16,1.19 
+2014,08,15,17:45,Virtus.pro,iBUYPOWER,cache,ESL One Cologne 2014,16,2,13,2,3,0,iBUYPOWER,6,18,0.38 
+2014,08,14,16:20,iBUYPOWER,dAT,cobblestone,ESL One Cologne 2014,16,6,12,3,4,3,iBUYPOWER,16,14,1.09 
+2014,08,14,15:00,fnatic,iBUYPOWER,cobblestone,ESL One Cologne 2014,16,7,9,6,7,1,iBUYPOWER,12,20,0.64 
+2014,08,06,20:30,iBUYPOWER,NatusVincere,inferno,Caseking of the Hill #4,16,9,9,6,7,3,iBUYPOWER,20,17,1.16 
+2014,08,06,20:30,iBUYPOWER,NatusVincere,cache,Caseking of the Hill #4,16,8,10,5,6,3,iBUYPOWER,19,14,1.19 
+2014,08,06,20:30,NatusVincere,iBUYPOWER,dust2,Caseking of the Hill #4,16,10,9,6,7,4,iBUYPOWER,17,20,0.91 
+2014,08,06,18:25,iBUYPOWER,CPHWolves,nuke,Caseking of the Hill #4,16,8,10,5,6,3,iBUYPOWER,15,13,1.04 
+2014,08,06,18:25,iBUYPOWER,CPHWolves,dust2,Caseking of the Hill #4,16,10,10,5,6,5,iBUYPOWER,16,17,0.89 
+2014,08,03,11:30,Titan,iBUYPOWER,inferno,Gfinity 3,16,8,10,5,6,3,iBUYPOWER,19,19,1.02 
+2014,08,03,11:30,iBUYPOWER,Titan,dust2,Gfinity 3,14,16,8,7,6,9,iBUYPOWER,21,19,0.96 
+2014,08,03,00:15,iBUYPOWER,Epsilon,inferno,Gfinity 3,16,13,9,6,7,7,iBUYPOWER,23,17,1.22 
+2014,08,02,20:15,NiP,iBUYPOWER,inferno,Gfinity 3,10,16,9,6,1,10,iBUYPOWER,26,16,1.44 
+2014,08,02,18:30,iBUYPOWER,Infused,inferno,Gfinity 3,15,15,10,5,5,10,iBUYPOWER,17,19,1.00 
+2014,08,02,15:20,LondonC,iBUYPOWER,inferno,Gfinity 3,16,11,6,9,10,2,iBUYPOWER,15,20,0.80 
+2014,08,02,11:15,iBUYPOWER,fnatic,dust2,Gfinity 3,15,15,8,7,7,8,iBUYPOWER,21,22,0.92 
+2014,06,29,22:00,iBUYPOWER,compLexity,nuke,ESEA Invite Season 16 Global F..,16,2,15,0,1,2,iBUYPOWER,15,9,1.23 
+2014,06,29,22:00,compLexity,iBUYPOWER,dust2,ESEA Invite Season 16 Global F..,9,16,6,9,3,7,iBUYPOWER,12,18,0.65 
+2014,06,29,06:00,iBUYPOWER,compLexity,inferno,ESEA Invite Season 16 Global F..,16,9,12,3,4,6,iBUYPOWER,22,13,1.34 
+2014,06,29,06:00,iBUYPOWER,compLexity,dust2,ESEA Invite Season 16 Global F..,16,12,8,7,8,5,iBUYPOWER,19,19,0.87 
+2014,06,29,03:00,iBUYPOWER,Virtus.pro,season,ESEA Invite Season 16 Global F..,16,14,10,5,6,9,iBUYPOWER,22,22,0.95 
+2014,06,29,03:00,iBUYPOWER,Virtus.pro,inferno,ESEA Invite Season 16 Global F..,14,16,11,4,3,12,iBUYPOWER,19,18,1.05 
+2014,06,29,03:00,Virtus.pro,iBUYPOWER,cache,ESEA Invite Season 16 Global F..,8,16,5,10,3,6,iBUYPOWER,19,17,1.07 
+2014,06,28,04:30,iBUYPOWER,OverGaming,nuke,ESEA Invite Season 16 Global F..,16,6,12,3,4,3,iBUYPOWER,19,11,1.29 
+2014,06,28,04:30,OverGaming,iBUYPOWER,cache,ESEA Invite Season 16 Global F..,3,16,3,12,0,4,iBUYPOWER,17,11,1.21 

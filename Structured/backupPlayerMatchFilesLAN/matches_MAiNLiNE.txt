@@ -1,0 +1,62 @@
+2016,06,02,20:00,Selfless,G2,train,ELEAGUE Season 1,8,16,5,10,3,6,Selfless,16,19,0.85 
+2016,06,02,20:00,G2,Selfless,cache,ELEAGUE Season 1,16,2,13,2,3,0,Selfless,6,18,0.28 
+2016,06,01,23:40,OpTic,Selfless,mirage,ELEAGUE Season 1,16,14,8,7,8,7,Selfless,17,22,0.81 
+2016,06,01,22:40,Selfless,OpTic,cobblestone,ELEAGUE Season 1,1,16,1,14,0,2,Selfless,8,14,0.64 
+2016,06,01,21:20,Selfless,NiP,cache,ELEAGUE Season 1,12,16,8,7,4,9,Selfless,17,18,1.01 
+2016,06,01,20:20,Selfless,NiP,cobblestone,ELEAGUE Season 1,9,16,6,9,3,7,Selfless,14,18,0.84 
+2016,05,31,21:45,G2,Selfless,cobblestone,ELEAGUE Season 1,16,12,7,8,9,4,Selfless,10,21,0.54 
+2016,05,31,20:25,Selfless,G2,cache,ELEAGUE Season 1,12,16,5,10,7,6,Selfless,20,22,0.94 
+2016,05,21,20:05,TSM,Selfless,cobblestone,MLG Regional Minor Championshi..,19,17,5,10,10,5,Selfless,13,27,0.52 
+2016,05,21,20:05,TSM,Selfless,train,MLG Regional Minor Championshi..,16,13,10,5,6,8,Selfless,23,19,1.16 
+2016,05,21,18:00,TempoStorm,Selfless,cobblestone,MLG Regional Minor Championshi..,16,5,10,5,6,0,Selfless,12,19,0.61 
+2016,05,21,18:00,TempoStorm,Selfless,cache,MLG Regional Minor Championshi..,16,4,13,2,3,2,Selfless,10,17,0.63 
+2016,05,20,21:30,Selfless,WinOut,cobblestone,MLG Regional Minor Championshi..,16,14,6,9,10,5,Selfless,13,19,0.76 
+2016,05,20,21:30,WinOut,Selfless,cache,MLG Regional Minor Championshi..,16,6,9,6,7,0,Selfless,8,18,0.50 
+2016,05,20,21:30,WinOut,Selfless,dust2,MLG Regional Minor Championshi..,6,16,3,12,3,4,Selfless,12,13,0.87 
+2016,05,20,01:40,OpTic,Selfless,train,MLG Regional Minor Championshi..,16,1,14,1,2,0,Selfless,5,17,0.28 
+2016,05,19,21:30,Selfless,Winterfox,cache,MLG Regional Minor Championshi..,16,4,11,4,5,0,Selfless,17,13,1.11 
+2016,05,08,04:05,Selfless,Liquid,train,DreamHack Austin 2016,10,16,4,11,6,5,Selfless,13,20,0.78 
+2016,05,08,04:05,Liquid,Selfless,dust2,DreamHack Austin 2016,16,3,12,3,4,0,Selfless,4,18,0.31 
+2016,05,07,19:45,Selfless,NRG,cache,DreamHack Austin 2016,16,8,8,7,8,1,Selfless,22,19,1.10 
+2016,05,07,19:45,NRG,Selfless,train,DreamHack Austin 2016,16,11,12,3,4,8,Selfless,19,21,0.96 
+2016,05,07,19:45,Selfless,NRG,overpass,DreamHack Austin 2016,19,16,10,5,5,10,Selfless,24,28,0.93 
+2016,05,07,02:50,Selfless,Liquid,mirage,DreamHack Austin 2016,10,16,6,9,4,7,Selfless,12,22,0.64 
+2016,04,28,22:15,SK,Selfless,cache,CEVO Gfinity Professional Seas..,16,1,14,1,2,0,Selfless,6,16,0.41 
+2016,04,28,22:15,Selfless,SK,overpass,CEVO Gfinity Professional Seas..,3,16,3,12,0,4,Selfless,16,17,1.16 
+2016,04,28,17:15,Selfless,dignitas,mirage,CEVO Gfinity Professional Seas..,5,16,2,13,3,3,Selfless,7,17,0.49 
+2016,04,28,17:15,dignitas,Selfless,inferno,CEVO Gfinity Professional Seas..,16,6,9,6,7,0,Selfless,13,20,0.73 
+2016,02,27,17:00,TempoStorm,Selfless,inferno,MLG Columbus 2016 Main Qualifi..,16,4,12,3,4,1,Selfless,11,17,0.73 
+2016,02,26,20:00,FlipSid3,Selfless,inferno,MLG Columbus 2016 Main Qualifi..,16,13,9,6,7,7,Selfless,26,18,1.28 
+2016,01,17,21:00,Splyce,Enemy,inferno,MLG Americas Minor Championshi..,9,16,7,8,2,8,Enemy,16,17,1.00 
+2016,01,17,21:00,Enemy,Splyce,cache,MLG Americas Minor Championshi..,16,7,10,5,6,2,Enemy,19,14,1.19 
+2016,01,17,16:00,Winterfox,Enemy,overpass,MLG Americas Minor Championshi..,7,16,4,11,3,5,Enemy,12,13,0.89 
+2016,01,17,16:00,Enemy,Winterfox,mirage,MLG Americas Minor Championshi..,16,8,8,7,8,1,Enemy,16,17,0.94 
+2016,01,16,19:00,Enemy,Leader-1,overpass,MLG Americas Minor Championshi..,16,4,12,3,4,1,Enemy,23,14,1.44 
+2016,01,15,23:00,Enemy,EZG,cache,MLG Americas Minor Championshi..,16,9,14,1,2,8,Enemy,29,18,1.73 
+2015,11,19,01:00,Enemy,Renegades,train,RGN Pro Series Championship,12,16,5,10,7,6,Enemy,18,22,0.88 
+2015,11,19,01:00,Enemy,Renegades,cobblestone,RGN Pro Series Championship,10,16,4,11,6,5,Enemy,12,21,0.56 
+2015,11,18,19:30,Method,Enemy,overpass,RGN Pro Series Championship,3,16,3,12,0,4,Enemy,15,10,1.20 
+2015,11,18,19:30,Enemy,Method,cache,RGN Pro Series Championship,16,12,5,10,11,2,Enemy,28,18,1.38 
+2015,11,18,05:30,Luminosity,Enemy,train,RGN Pro Series Championship,16,3,12,3,4,0,Enemy,7,18,0.35 
+2015,11,18,05:30,Enemy,Luminosity,mirage,RGN Pro Series Championship,17,19,5,10,10,5,Enemy,24,29,0.84 
+2015,11,17,01:15,Renegades,Enemy,inferno,RGN Pro Series Championship,16,14,9,6,7,8,Enemy,24,23,1.09 
+2015,11,16,23:15,CLG,Enemy,cache,RGN Pro Series Championship,7,16,6,9,1,7,Enemy,18,14,1.25 
+2015,11,16,21:45,Enemy,Nexus,cobblestone,RGN Pro Series Championship,16,2,13,2,3,0,Enemy,14,9,1.25 
+2015,10,19,05:10,Torqued,Enemy,inferno,Fragadelphia 6,16,13,7,8,9,5,Enemy,12,19,0.69 
+2015,10,19,05:10,Torqued,Enemy,overpass,Fragadelphia 6,16,8,12,3,4,5,Enemy,16,21,0.90 
+2015,10,19,04:00,Tectonic,Enemy,train,Fragadelphia 6,5,16,1,14,4,2,Enemy,22,11,1.48 
+2015,10,19,00:00,Enemy,Torqued,inferno,Fragadelphia 6,7,16,7,8,0,8,Enemy,11,19,0.59 
+2015,10,19,00:00,Enemy,Torqued,cache,Fragadelphia 6,16,13,6,9,10,4,Enemy,18,22,0.88 
+2015,10,19,00:00,Enemy,Torqued,cobblestone,Fragadelphia 6,2,16,2,13,0,3,Enemy,8,18,0.37 
+2015,10,18,22:00,Tectonic,Enemy,inferno,Fragadelphia 6,7,16,7,8,0,8,Enemy,22,12,1.52 
+2015,10,18,22:00,Enemy,Tectonic,cache,Fragadelphia 6,16,13,8,7,8,6,Enemy,13,20,0.79 
+2015,10,18,16:25,Enemy,Dynasty,train,Fragadelphia 6,16,10,13,2,3,8,Enemy,19,17,1.03 
+2015,10,18,16:25,Enemy,Dynasty,cache,Fragadelphia 6,16,2,13,2,3,0,Enemy,13,11,0.99 
+2015,09,06,16:00,Enemy,Method,cache,WinOut $20,000 CS:GO Champions..,8,16,7,8,1,8,Enemy,18,20,1.03 
+2015,09,06,16:00,Method,Enemy,inferno,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,Enemy,15,13,1.03 
+2015,09,06,16:00,Enemy,Method,dust2,WinOut $20,000 CS:GO Champions..,13,16,8,7,5,9,Enemy,25,21,1.07 
+2015,09,05,23:00,Enemy,CLG,mirage,WinOut $20,000 CS:GO Champions..,3,16,3,12,0,4,Enemy,4,17,0.26 
+2015,09,05,23:00,CLG,Enemy,cache,WinOut $20,000 CS:GO Champions..,16,1,14,1,2,0,Enemy,9,16,0.59 
+2015,09,05,08:20,Swarm,Enemy,cache,WinOut $20,000 CS:GO Champions..,9,16,7,8,2,8,Enemy,13,18,0.73 
+2015,09,05,06:00,Enemy,3sUP,dust2,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,Enemy,14,18,0.81 
+2015,09,05,05:30,Enemy,Swarm,inferno,WinOut $20,000 CS:GO Champions..,16,5,14,1,2,4,Enemy,26,11,1.89 

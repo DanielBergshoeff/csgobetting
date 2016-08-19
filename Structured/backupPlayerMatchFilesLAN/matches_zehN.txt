@@ -1,0 +1,22 @@
+2016,01,29,19:35,CG,PENTA,dust2,PGL Regional Minor Championshi..,17,21,10,5,5,10,CG,26,29,0.90 
+2016,01,29,19:35,CG,PENTA,cache,PGL Regional Minor Championshi..,19,21,8,7,7,8,CG,31,30,1.04 
+2016,01,29,19:35,PENTA,CG,overpass,PGL Regional Minor Championshi..,6,16,3,12,3,4,CG,24,10,1.78 
+2016,01,29,15:15,CG,LDLCWhite,cache,PGL Regional Minor Championshi..,16,13,10,5,6,8,CG,20,21,0.90 
+2016,01,29,12:00,CG,E-frag.net,mirage,PGL Regional Minor Championshi..,10,16,3,12,7,4,CG,15,22,0.67 
+2015,10,30,17:15,ajuri,Torpedo,cobblestone,ASUS ROG Nordic Challenge,3,16,3,12,0,4,ajuri,9,15,0.66 
+2015,10,30,17:15,ajuri,Torpedo,cache,ASUS ROG Nordic Challenge,8,16,3,12,5,4,ajuri,20,15,1.29 
+2015,07,30,20:00,SkitLite,ROCCAT,cache,Assembly Summer 2015 AMD CS:GO..,8,16,5,10,3,6,SkitLite,16,17,0.87 
+2015,07,30,18:00,KappaKappa,SkitLite,cache,Assembly Summer 2015 AMD CS:GO..,11,16,8,7,3,9,SkitLite,20,16,1.10 
+2015,07,30,16:00,SkitLite,eBettle,cobblestone,Assembly Summer 2015 AMD CS:GO..,8,16,4,11,4,5,SkitLite,13,21,0.63 
+2015,04,04,10:00,FlipSid3,Menace,mirage,Copenhagen Games 2015,16,11,11,4,5,7,Menace,22,17,1.35 
+2015,04,03,22:30,Menace,Badger,dust2,Copenhagen Games 2015,16,10,11,4,5,6,Menace,20,15,1.32 
+2015,04,03,19:00,Menace,CPHWolves,dust2,Copenhagen Games 2015,12,16,9,6,3,10,Menace,11,15,0.77 
+2015,04,03,19:00,CPHWolves,Menace,overpass,Copenhagen Games 2015,16,10,8,7,8,3,Menace,23,21,1.23 
+2015,04,03,15:30,schlaegeros,Menace,mirage,Copenhagen Games 2015,5,16,5,10,0,6,Menace,13,11,1.10 
+2015,04,03,15:30,Menace,schlaegeros,cache,Copenhagen Games 2015,16,4,13,2,3,2,Menace,17,10,1.32 
+2015,04,03,12:00,Menace,CPHWolves,dust2,Copenhagen Games 2015,13,16,5,10,8,6,Menace,25,20,1.23 
+2015,04,03,12:00,Menace,CPHWolves,overpass,Copenhagen Games 2015,9,16,8,7,1,9,Menace,14,17,0.82 
+2015,04,02,20:30,Menace,Lemondogs,cache,Copenhagen Games 2015,16,13,8,7,8,6,Menace,9,21,0.50 
+2015,04,02,19:00,Menace,MnM,cache,Copenhagen Games 2015,16,2,13,2,3,0,Menace,10,7,1.03 
+2015,04,02,14:00,Menace,Lions,dust2,Copenhagen Games 2015,16,5,13,2,3,3,Menace,10,7,1.05 
+2015,04,02,14:00,Menace,Lions,inferno,Copenhagen Games 2015,16,5,13,2,3,3,Menace,24,10,1.85 

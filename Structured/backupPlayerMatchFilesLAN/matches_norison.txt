@@ -1,0 +1,15 @@
+2016,07,10,17:00,Quest,Vesuvius,mirage,Game Show Open Season 4 Playof..,16,5,11,4,5,1,Vesuvius,14,19,0.75 
+2016,07,10,17:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,0,16,0,15,0,1,Vesuvius,8,16,0.45 
+2016,07,10,14:00,GameplayDNA,Vesuvius,dust2,Game Show Open Season 4 Playof..,12,16,8,7,4,9,Vesuvius,17,21,0.77 
+2016,07,10,14:00,Vesuvius,GameplayDNA,overpass,Game Show Open Season 4 Playof..,16,5,11,4,5,1,Vesuvius,18,11,1.24 
+2016,07,10,11:00,Vesuvius,BinaryDragons,mirage,Game Show Open Season 4 Playof..,16,6,12,3,4,3,Vesuvius,23,13,1.52 
+2016,07,10,11:00,Vesuvius,BinaryDragons,cache,Game Show Open Season 4 Playof..,16,4,11,4,5,0,Vesuvius,15,10,1.15 
+2016,07,09,15:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,14,16,7,8,7,8,Vesuvius,15,22,0.69 
+2016,07,09,15:00,Vesuvius,Quest,cache,Game Show Open Season 4 Playof..,11,16,6,9,5,7,Vesuvius,13,17,0.75 
+2016,04,29,14:30,Empire,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,6,10,5,6,1,Digital Wave,12,22,0.48 
+2016,04,29,14:30,DigitalWave,Empire,cobblestone,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Digital Wave,13,22,0.69 
+2016,04,28,15:30,FluffyGangsters,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,9,12,3,4,6,Digital Wave,18,21,0.89 
+2016,04,28,15:30,DigitalWave,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,10,16,3,12,7,4,Digital Wave,11,21,0.58 
+2016,04,28,10:00,DigitalWave,Empire,mirage,StarLadder Minor CIS - Cologne..,16,6,10,5,6,1,Digital Wave,13,17,0.78 
+2015,05,23,18:00,VegaSquadron,PiTER,mirage,Uprise Champions Cup Season 2 ..,16,8,13,2,3,6,Vega Squadron,13,16,0.82 
+2015,05,23,18:00,VegaSquadron,PiTER,inferno,Uprise Champions Cup Season 2 ..,16,14,11,4,5,10,Vega Squadron,21,18,1.05 

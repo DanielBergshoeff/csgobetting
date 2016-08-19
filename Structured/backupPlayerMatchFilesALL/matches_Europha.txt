@@ -1,0 +1,17 @@
+2016,08,14,11:00,MVPproject,autocracy,overpass,VSL Season 1,13,16,8,7,5,9,autocracy,16,20,0.87 
+2016,08,14,11:00,autocracy,MVPproject,nuke,VSL Season 1,16,11,11,4,5,7,autocracy,13,17,0.77 
+2016,08,12,16:00,Signature,autocracy,cache,ESEA Open Season 22 Asia,16,14,7,8,9,6,autocracy,15,22,0.65 
+2016,08,12,16:00,autocracy,Signature,train,ESEA Open Season 22 Asia,10,16,7,8,3,8,autocracy,11,22,0.52 
+2016,08,07,11:00,T5,autocracy,overpass,VSL Season 1,8,16,4,11,4,5,autocracy,18,12,1.20 
+2016,08,07,11:00,autocracy,T5,cache,VSL Season 1,16,8,8,7,8,1,autocracy,18,14,1.31 
+2016,08,06,13:00,B.O.O.T,autocracy,overpass,ESEA Open Season 22 Asia,12,16,5,10,7,6,autocracy,23,18,1.25 
+2016,08,06,13:00,autocracy,B.O.O.T,dust2,ESEA Open Season 22 Asia,16,11,10,5,6,6,autocracy,22,18,1.17 
+2016,08,06,13:00,B.O.O.T,autocracy,mirage,ESEA Open Season 22 Asia,16,5,11,4,5,1,autocracy,16,19,0.82 
+2016,07,31,12:00,autocracy,m0nster,cobblestone,VSL Season 1,16,7,9,6,7,1,autocracy,18,13,1.03 
+2016,07,24,11:00,autocracy,MVPproject,cobblestone,VSL Season 1,14,16,6,9,8,7,autocracy,19,23,0.82 
+2016,07,14,13:00,autocracy,v0rtex5	,cobblestone,VSL Season 1,16,8,8,7,8,1,autocracy,20,17,1.13 
+2016,07,07,13:10,autocracy,Furious,cache,VSL Season 1,16,9,10,5,6,4,autocracy,11,15,0.76 
+2016,06,24,14:00,SouthKorea,Jordan,mirage,World Championships 2016 Asian..,12,16,8,7,4,9,South Korea,17,24,0.75 
+2016,06,24,14:00,Jordan,SouthKorea,cache,World Championships 2016 Asian..,16,11,7,8,9,3,South Korea,12,20,0.63 
+2016,06,24,14:00,Jordan,SouthKorea,cobblestone,World Championships 2016 Asian..,4,16,3,12,1,4,South Korea,24,9,1.86 
+2015,11,20,12:00,BLITZKRIEG,Airless,cache,D!ngIT & NCSC Korea S1 Qualifi..,17,19,5,10,10,5,BLITZKRIEG,31,26,1.12 

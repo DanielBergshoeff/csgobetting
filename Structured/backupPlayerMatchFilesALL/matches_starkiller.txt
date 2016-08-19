@@ -1,0 +1,49 @@
+2016,04,23,21:30,XPC,Deathtrap,cache,Balkan Championship Season 3,16,6,10,5,6,1,XPC,16,8,1.18 
+2016,04,16,17:00,GG1337,XPC,mirage,PGL National Division Season 1..,6,16,6,9,0,7,XPC,18,11,1.30 
+2016,04,16,17:00,XPC,GG1337,inferno,PGL National Division Season 1..,16,10,10,5,6,5,XPC,17,16,0.97 
+2016,04,08,19:00,XPC,SuperMassive,cobblestone,Balkan Championship Season 3,12,16,5,10,7,6,XPC,15,20,0.78 
+2016,04,06,19:15,dignitas,XPC,overpass,Global Offensive Champions Lea..,16,4,12,3,4,1,XPC,10,17,0.57 
+2016,04,06,19:15,XPC,dignitas,mirage,Global Offensive Champions Lea..,15,19,10,5,5,10,XPC,16,25,0.69 
+2016,04,03,20:25,XPC,iNation,cache,Balkan Championship Season 3,16,11,12,3,4,8,XPC,22,17,1.22 
+2016,03,31,21:00,XPC,neXtPlease!,train,Balkan Championship Season 3,16,8,11,4,5,4,XPC,19,11,1.27 
+2016,03,30,20:00,XPC,GameAgents,cache,Balkan Championship Season 3,9,16,6,9,3,7,XPC,11,19,0.59 
+2016,03,24,21:00,Bpro,XPC,mirage,Balkan Championship Season 3,16,12,8,7,8,5,XPC,11,20,0.64 
+2016,03,14,21:00,XPC,noKappa,cobblestone,Global Offensive Champions Lea..,9,16,4,11,5,5,XPC,12,18,0.72 
+2016,03,14,20:00,XPC,CSGL,mirage,Global Offensive Champions Lea..,16,11,10,5,6,6,XPC,12,17,0.72 
+2015,09,30,19:30,XPC,LGBfe,mirage,QuickShot Arena #9,16,2,14,1,2,1,XPC,15,5,1.61 
+2015,09,30,17:00,XPC,NoProblem!,mirage,QuickShot Arena #9,2,16,2,13,0,3,XPC,6,16,0.37 
+2015,09,23,21:45,ESC,XPC,mirage,QuickShot Arena #8,16,11,8,7,8,4,XPC,12,20,0.67 
+2015,09,23,20:00,Torpedo,XPC,cache,QuickShot Arena #8,16,5,11,4,5,1,XPC,11,18,0.66 
+2015,09,23,20:00,XPC,Torpedo,cobblestone,QuickShot Arena #8,1,16,1,14,0,2,XPC,7,16,0.49 
+2015,09,22,18:00,PENTA,XPC,mirage,Global Offensive Champions Lea..,16,2,14,1,2,1,XPC,2,18,0.09 
+2015,09,22,18:00,PENTA,XPC,cache,Global Offensive Champions Lea..,16,7,10,5,6,2,XPC,16,20,0.91 
+2015,09,15,20:30,XPC,Phenomenon,cobblestone,Hitbox Arena Showdown Invitati..,6,16,5,10,1,6,XPC,18,18,0.96 
+2015,09,15,20:30,Phenomenon,XPC,mirage,Hitbox Arena Showdown Invitati..,24,26,7,8,8,7,XPC,35,38,0.91 
+2015,09,15,20:30,Phenomenon,XPC,cache,Hitbox Arena Showdown Invitati..,16,12,8,7,8,5,XPC,24,21,1.15 
+2015,09,14,19:45,LondonC,XPC,cache,Hitbox Arena Showdown Invitati..,7,16,6,9,1,7,XPC,15,11,1.10 
+2015,08,26,23:00,Reason,XPC,cobblestone,QuickShot Arena #4,16,8,11,4,5,4,XPC,15,19,0.81 
+2015,08,26,18:00,XPC,SpaceSoldiers,mirage,QuickShot Arena #4,12,16,3,12,9,4,XPC,11,21,0.62 
+2015,08,26,18:00,SpaceSoldiers,XPC,cobblestone,QuickShot Arena #4,16,2,13,2,3,0,XPC,4,16,0.37 
+2015,08,26,18:00,SpaceSoldiers,XPC,inferno,QuickShot Arena #4,8,16,5,10,3,6,XPC,18,14,1.16 
+2015,06,24,20:00,XPC,HEADSHOTBG,cobblestone,Balkan Championship Season 2,11,16,5,10,6,6,XPC,12,20,0.60 
+2015,06,24,20:00,HEADSHOTBG,XPC,overpass,Balkan Championship Season 2,13,16,10,5,3,11,XPC,21,18,1.09 
+2015,06,24,20:00,XPC,HEADSHOTBG,cache,Balkan Championship Season 2,11,16,8,7,3,9,XPC,17,18,0.95 
+2015,05,25,22:00,HellRaisers,XPC,overpass,FACEIT League 2015 Stage 2 EU ..,16,5,11,4,5,1,XPC,12,17,0.77 
+2015,05,25,22:00,HellRaisers,XPC,cache,FACEIT League 2015 Stage 2 EU ..,16,2,13,2,3,0,XPC,7,18,0.32 
+2015,05,12,18:00,Rock,XPC,overpass,Balkan Championship Season 2,7,16,4,11,3,5,XPC,13,14,0.92 
+2015,05,12,18:00,XPC,Rock,cobblestone,Balkan Championship Season 2,16,14,6,9,10,5,XPC,26,16,1.24 
+2015,05,12,18:00,Rock,XPC,cache,Balkan Championship Season 2,16,5,13,2,3,3,XPC,11,18,0.64 
+2015,05,09,13:00,XPC,GPlay,dust2,ESL South East Europe Champion..,7,16,4,11,3,5,XPC,8,18,0.49 
+2015,05,09,13:00,XPC,GPlay,mirage,ESL South East Europe Champion..,4,16,1,14,3,2,XPC,7,15,0.61 
+2015,05,08,10:00,SpaceSoldiers,XPC,cobblestone,ESL South East Europe Champion..,26,20,10,5,5,10,XPC,37,31,1.12 
+2015,05,08,10:00,XPC,SpaceSoldiers,cache,ESL South East Europe Champion..,8,16,8,7,0,9,XPC,14,15,0.91 
+2015,05,05,18:00,228,XPC,dust2,Balkan Championship Season 2,3,16,3,12,0,4,XPC,19,10,1.47 
+2015,05,05,18:00,228,XPC,cobblestone,Balkan Championship Season 2,3,16,3,12,0,4,XPC,19,9,1.69 
+2015,04,27,20:00,XPC,KnockOutStars,dust2,ESL South East Europe Champion..,16,13,11,4,5,9,XPC,15,19,0.81 
+2015,04,27,20:00,KnockOutStars,XPC,mirage,ESL South East Europe Champion..,3,16,3,12,0,4,XPC,13,14,1.00 
+2015,04,23,20:30,DelinquentHabits,XPC,cache,ESL South East Europe Champion..,3,16,2,13,1,3,XPC,13,9,1.03 
+2015,04,23,20:30,DelinquentHabits,XPC,inferno,ESL South East Europe Champion..,6,16,4,11,2,5,XPC,20,13,1.33 
+2015,04,20,21:30,XPC,H2B,cache,ESL South East Europe Champion..,16,3,13,2,3,1,XPC,16,6,1.57 
+2015,04,20,21:30,XPC,H2B,cobblestone,ESL South East Europe Champion..,16,1,14,1,2,0,XPC,9,8,0.91 
+2015,04,16,21:30,XPC,EZPZ_LS,inferno,ESL South East Europe Champion..,16,5,12,3,4,2,XPC,16,16,0.96 
+2015,04,16,21:30,XPC,EZPZ_LS,mirage,ESL South East Europe Champion..,16,14,7,8,9,6,XPC,27,22,1.28 

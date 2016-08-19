@@ -1,0 +1,3 @@
+2015,12,02,04:00,Gosu,NexusStorm,inferno,QuickShot Arena NA #1,6,16,2,13,4,3,Nexus Storm,15,13,0.98 
+2015,12,02,04:00,Gosu,NexusStorm,cache,QuickShot Arena NA #1,6,16,3,12,3,4,Nexus Storm,15,16,0.90 
+2015,12,01,02:00,AstralAuthority,NexusStorm,inferno,QuickShot Arena NA #1,9,16,4,11,5,5,Nexus Storm,7,13,0.63 

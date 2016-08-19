@@ -1,0 +1,12 @@
+2016,04,06,19:45,Planetkey,PENTA,mirage,Hitbox Challenger Cup,17,19,8,7,7,8,Planetkey,25,27,0.90 
+2016,03,23,20:00,Empire,Planetkey,cache,Hitbox Challenger Cup,8,16,3,12,5,4,Planetkey,19,12,1.29 
+2016,03,23,20:00,Planetkey,Empire,mirage,Hitbox Challenger Cup,12,16,7,8,5,8,Planetkey,24,22,1.12 
+2016,03,23,20:00,Planetkey,Empire,inferno,Hitbox Challenger Cup,16,3,12,3,4,0,Planetkey,22,9,1.89 
+2016,03,05,15:35,Santos.DeXfe,Milleniumfe,overpass,Intel Challenge Katowice 2016,12,16,10,5,2,11,Santos.DeX fe,12,24,0.56 
+2016,03,05,13:20,WRTP,Santos.DeXfe,mirage,Intel Challenge Katowice 2016,16,1,15,0,1,1,Santos.DeX fe,10,17,0.66 
+2015,07,11,19:00,Dexterityfe,ex-meltyfe,inferno,ESWC 2015 Female,16,12,12,3,4,9,Dexterity fe,27,19,1.36 
+2015,07,11,17:30,Games4ufe,Dexterityfe,cache,ESWC 2015 Female,16,5,11,4,5,1,Dexterity fe,11,18,0.64 
+2015,07,11,16:00,Dexterityfe,Karma,dust2,ESWC 2015 Female,6,16,3,12,3,4,Dexterity fe,16,19,0.85 
+2014,09,23,20:15,NeverPlay,NOSIR!,cache,Fragbite Masters Season 3 Qual..,11,16,4,11,7,5,NeverPlay,10,22,0.48 
+2014,09,23,20:15,NOSIR!,NeverPlay,dust2,Fragbite Masters Season 3 Qual..,16,8,8,7,8,1,NeverPlay,16,20,0.84 
+2014,09,23,19:00,Vination,NeverPlay,cache,Fragbite Masters Season 3 Qual..,12,16,7,8,5,8,NeverPlay,17,16,0.94 

@@ -1,0 +1,20 @@
+2016,02,20,10:30,G2,x6tence,train,ESL Barcelona CS:GO Invitation..,16,3,12,3,4,0,x6tence,10,16,0.60 
+2016,02,19,21:40,x6tence,Vexed,cobblestone,ESL Barcelona CS:GO Invitation..,2,16,2,13,0,3,x6tence,8,16,0.53 
+2016,02,19,17:45,Astralis,x6tence,mirage,ESL Barcelona CS:GO Invitation..,16,2,13,2,3,0,x6tence,5,18,0.23 
+2015,12,05,14:00,KIYF,Atlantis,inferno,LVP Season 9 Division de Honor..,2,16,1,14,1,2,KIYF,9,13,0.68 
+2015,12,04,19:30,KIYF,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,19,7,8,8,7,KIYF,29,21,1.23 
+2015,11,12,21:45,gBots,KIYF,cobblestone,LVP Season 9 Division de Honor..,16,11,8,7,8,4,KIYF,18,20,0.88 
+2015,11,12,21:45,gBots,KIYF,train,LVP Season 9 Division de Honor..,16,8,8,7,8,1,KIYF,14,16,0.88 
+2015,11,11,21:10,KIYF,NewSkillInfinity,mirage,LVP Season 9 Division de Honor..,16,5,10,5,6,0,KIYF,29,8,2.35 
+2015,11,11,21:10,NewSkillInfinity,KIYF,dust2,LVP Season 9 Division de Honor..,16,12,9,6,7,6,KIYF,18,17,0.98 
+2015,11,11,21:10,KIYF,NewSkillInfinity,cobblestone,LVP Season 9 Division de Honor..,16,14,8,7,8,7,KIYF,25,16,1.25 
+2015,10,07,21:00,KIYF,gBots,mirage,LVP Season 9 División de Honor..,13,16,9,6,4,10,KIYF,31,18,1.46 
+2015,10,07,21:00,KIYF,gBots,dust2,LVP Season 9 División de Honor..,7,16,3,12,4,4,KIYF,23,14,1.41 
+2015,10,01,21:00,KIYF,Play2Win,dust2,LVP Season 9 División de Honor..,19,16,6,9,9,6,KIYF,28,22,1.20 
+2015,10,01,21:00,KIYF,Play2Win,cache,LVP Season 9 División de Honor..,6,16,4,11,2,5,KIYF,17,16,1.03 
+2015,10,01,21:00,KIYF,Play2Win,mirage,LVP Season 9 División de Honor..,16,12,7,8,9,4,KIYF,29,14,1.75 
+2015,08,30,15:00,Spain,Italy,dust2,World Championships 2015 Europ..,16,3,13,2,3,1,Spain,18,6,1.62 
+2015,08,30,15:00,Spain,Italy,train,World Championships 2015 Europ..,13,16,9,6,4,10,Spain,20,17,1.01 
+2015,08,30,15:00,Italy,Spain,inferno,World Championships 2015 Europ..,13,16,9,6,4,10,Spain,13,21,0.68 
+2015,08,29,18:00,KIYF,PlayingDucks,dust2,99Damage Arena #13,4,16,4,11,0,5,KIYF,11,16,0.65 
+2015,08,29,18:00,PlayingDucks,KIYF,mirage,99Damage Arena #13,19,17,11,4,4,11,KIYF,30,29,1.02 

@@ -1,0 +1,9 @@
+2016,07,27,12:00,MVPproject,ZZCY,mirage,MixBOT Pro-League Golden,22,19,5,10,10,5,ZZCY,25,30,0.88 
+2016,07,27,12:00,MVPproject,ZZCY,train,MixBOT Pro-League Golden,16,4,12,3,4,1,ZZCY,7,20,0.32 
+2016,07,23,12:00,ZZCY,MVP.karnal,mirage,MixBOT Pro-League Golden,8,16,6,9,2,7,ZZCY,14,21,0.78 
+2016,07,23,12:00,ZZCY,MVP.karnal,cobblestone,MixBOT Pro-League Golden,9,16,1,14,8,2,ZZCY,20,20,0.97 
+2016,06,17,12:00,ZZCY,nxl,cache,MixBOT Pro-League Golden,16,12,9,6,7,6,ZZCY,23,23,1.02 
+2016,06,17,12:00,ZZCY,nxl,mirage,MixBOT Pro-League Golden,16,0,15,0,1,0,ZZCY,17,9,1.57 
+2016,06,16,12:00,ZZCY,Nface,cobblestone,MixBOT Pro-League Golden,16,12,9,6,7,6,ZZCY,23,18,1.23 
+2016,06,16,12:00,ZZCY,Nface,mirage,MixBOT Pro-League Golden,9,16,4,11,5,5,ZZCY,14,19,0.78 
+2016,06,16,12:00,Nface,ZZCY,cache,MixBOT Pro-League Golden,15,19,7,8,8,7,ZZCY,18,22,0.82 

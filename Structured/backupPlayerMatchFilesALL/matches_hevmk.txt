@@ -1,0 +1,9 @@
+2015,12,16,10:00,T5,Insidious,dust2,D!ngIT CS:GO Asia Invitational..,5,16,2,13,3,3,T5,17,17,1.00 
+2015,12,16,10:00,Insidious,T5,mirage,D!ngIT CS:GO Asia Invitational..,16,2,14,1,2,1,T5,13,15,0.90 
+2015,12,09,14:30,J2G,T5,inferno,D!ngIT CS:GO Asia Invitational..,16,13,9,6,7,7,T5,24,21,1.12 
+2015,12,07,14:15,inchk1ng,T5,cache,D!ngIT CS:GO Asia Invitational..,16,8,9,6,7,2,T5,9,20,0.52 
+2015,12,06,12:00,TamuluS,T5,mirage,D!ngIT & NCSC Korea S1 Qualifi..,16,2,13,2,3,0,TamuluS,16,6,1.58 
+2015,12,06,12:00,T5,TamuluS,dust2,D!ngIT & NCSC Korea S1 Qualifi..,16,11,11,4,5,7,TamuluS,16,22,0.82 
+2015,12,06,12:00,T5,TamuluS,cache,D!ngIT & NCSC Korea S1 Qualifi..,9,16,8,7,1,9,TamuluS,16,20,0.86 
+2015,12,04,12:00,Airless,TamuluS,cache,D!ngIT & NCSC Korea S1 Qualifi..,5,16,2,13,3,3,TamuluS,16,8,1.28 
+2015,12,04,12:00,TamuluS,Airless,dust2,D!ngIT & NCSC Korea S1 Qualifi..,16,6,11,4,5,2,TamuluS,17,13,1.16 

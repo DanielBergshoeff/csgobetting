@@ -1,0 +1,61 @@
+2016,06,21,21:00,MeMyself&I,beGenius,mirage,UnderDogs #3,16,10,8,7,8,3,MeMyself&I,33,16,1.87 
+2016,06,21,21:00,beGenius,MeMyself&I,train,UnderDogs #3,8,16,6,9,2,7,MeMyself&I,20,14,1.16 
+2016,06,06,20:00,MeMyself&I,WeGotGame,mirage,UnderDogs #3,16,5,11,4,5,1,MeMyself&I,13,13,0.94 
+2016,06,06,20:00,WeGotGame,MeMyself&I,cobblestone,UnderDogs #3,11,16,4,11,7,5,MeMyself&I,21,17,1.15 
+2016,06,04,18:25,visomvet,MeMyself&I,cache,DreamHack ZOWIE Open Summer 20..,16,7,9,6,7,1,MeMyself&I,23,20,1.09 
+2016,05,30,22:15,MeMyself&I,Nativ,dust2,UnderDogs #3,16,8,12,3,4,5,MeMyself&I,23,15,1.42 
+2016,05,30,22:15,Nativ,MeMyself&I,overpass,UnderDogs #3,8,16,4,11,4,5,MeMyself&I,25,11,1.53 
+2016,04,25,21:00,DeadPixels,ALTERNATEaTTaX,cache,Uprise Champions Cup Season 4,12,16,5,10,7,6,Dead Pixels,20,21,0.93 
+2016,04,25,21:00,ALTERNATEaTTaX,DeadPixels,dust2,Uprise Champions Cup Season 4,16,12,6,9,10,3,Dead Pixels,17,22,0.81 
+2016,03,19,18:45,Tricked,WEGOTGAME,mirage,DreamHack Masters Malmö 2016 E..,13,16,8,7,5,9,WE GOT GAME,18,21,0.98 
+2016,03,09,20:15,miMo,WEGOTGAME,train,Razer Rising Stars European Le..,16,13,12,3,4,10,WE GOT GAME,21,21,0.95 
+2016,02,14,20:00,DenDD,PENTA,train,CEVO Gfinity Professional Seas..,16,8,8,7,8,1,PENTA,20,17,1.10 
+2016,02,06,19:55,PlayingDucks,PENTA,cache,99Damage League Season 2,6,16,5,10,1,6,PENTA,29,13,1.99 
+2016,02,06,19:55,PENTA,PlayingDucks,dust2,99Damage League Season 2,16,6,9,6,7,0,PENTA,10,13,0.79 
+2016,02,06,14:00,PENTA,EYESONU,dust2,99Damage League Season 2,16,7,9,6,7,1,PENTA,27,11,1.73 
+2016,02,06,14:00,PENTA,EYESONU,mirage,99Damage League Season 2,16,10,9,6,7,4,PENTA,21,12,1.23 
+2016,01,31,12:00,HellRaisers,PENTA,dust2,PGL Regional Minor Championshi..,16,10,11,4,5,6,PENTA,16,17,0.95 
+2016,01,31,12:00,PENTA,HellRaisers,inferno,PGL Regional Minor Championshi..,16,11,6,9,10,2,PENTA,18,17,1.01 
+2016,01,31,12:00,HellRaisers,PENTA,mirage,PGL Regional Minor Championshi..,21,15,12,3,3,12,PENTA,17,26,0.65 
+2016,01,29,19:35,CG,PENTA,dust2,PGL Regional Minor Championshi..,17,21,10,5,5,10,PENTA,35,23,1.32 
+2016,01,29,19:35,CG,PENTA,cache,PGL Regional Minor Championshi..,19,21,8,7,7,8,PENTA,21,32,0.69 
+2016,01,29,19:35,PENTA,CG,overpass,PGL Regional Minor Championshi..,6,16,3,12,3,4,PENTA,10,17,0.62 
+2016,01,29,17:30,E-frag.net,PENTA,cache,PGL Regional Minor Championshi..,16,7,11,4,5,3,PENTA,18,19,0.90 
+2016,01,29,16:57,PENTA,E-frag.net,dust2,PGL Regional Minor Championshi..,3,16,3,12,0,4,PENTA,10,15,0.70 
+2016,01,29,13:30,LDLCWhite,PENTA,cache,PGL Regional Minor Championshi..,13,16,9,6,4,10,PENTA,21,17,1.12 
+2016,01,20,22:00,FlipSid3,PENTA,mirage,Acer Predator Masters powered ..,16,9,6,9,10,0,PENTA,18,18,0.95 
+2016,01,20,22:00,PENTA,FlipSid3,cobblestone,Acer Predator Masters powered ..,7,16,4,11,3,5,PENTA,20,17,1.14 
+2016,01,18,19:15,PENTA,ImperialDragons,train,Operation: Kinguin #2,16,9,11,4,5,5,PENTA,19,14,1.16 
+2016,01,18,19:15,ImperialDragons,PENTA,mirage,Operation: Kinguin #2,6,16,5,10,1,6,PENTA,17,9,1.23 
+2016,01,10,18:00,unu.AiN,PENTA,inferno,Game Show Global eSports Cup 2..,16,7,10,5,6,2,PENTA,11,16,0.72 
+2016,01,10,18:00,unu.AiN,PENTA,cache,Game Show Global eSports Cup 2..,16,11,10,5,6,6,PENTA,15,18,0.82 
+2016,01,08,21:10,?,PENTA,cache,Game Show Global eSports Cup 2..,16,2,13,2,3,0,PENTA,7,16,0.51 
+2016,01,08,21:10,PENTA,?,mirage,Game Show Global eSports Cup 2..,5,16,2,13,3,3,PENTA,8,18,0.49 
+2016,01,07,21:00,SpaceSoldiers,PENTA,cache,PGL Regional Minor Championshi..,14,16,5,10,9,6,PENTA,22,21,0.99 
+2016,01,07,21:00,SpaceSoldiers,PENTA,dust2,PGL Regional Minor Championshi..,16,7,8,7,8,0,PENTA,11,19,0.59 
+2016,01,07,21:00,SpaceSoldiers,PENTA,cobblestone,PGL Regional Minor Championshi..,14,16,6,9,8,7,PENTA,18,22,0.78 
+2015,12,20,19:00,PENTA,PlayingDucks,mirage,99Damage League Season 2,16,8,8,7,8,1,PENTA,19,13,1.25 
+2015,12,20,19:00,PENTA,PlayingDucks,cache,99Damage League Season 2,16,6,13,2,3,4,PENTA,22,14,1.37 
+2015,12,16,19:00,PENTA,EYESONU,dust2,99Damage League Season 2,16,12,9,6,7,6,PENTA,28,14,1.55 
+2015,12,16,19:00,PENTA,EYESONU,mirage,99Damage League Season 2,13,16,9,6,4,10,PENTA,22,19,1.06 
+2015,12,14,18:00,DeadPixels,NoProblem!,mirage,Game On European Invitational,3,16,3,12,0,4,Dead Pixels,5,17,0.31 
+2015,12,14,18:00,NoProblem!,DeadPixels,train,Game On European Invitational,16,10,8,7,8,3,Dead Pixels,12,20,0.66 
+2015,11,24,20:00,Vexed,DeadPixels,cobblestone,Red Dot Closed Qualifier,16,11,7,8,9,3,Dead Pixels,20,19,1.16 
+2015,11,24,20:00,DeadPixels,Vexed,overpass,Red Dot Closed Qualifier,14,16,7,8,7,8,Dead Pixels,25,19,1.19 
+2015,11,16,23:00,GreyFace,DeadPixels,overpass,Red Dot Closed Qualifier,2,16,2,13,0,3,Dead Pixels,16,8,1.42 
+2015,11,16,22:00,DeadPixels,Legacy,mirage,Red Dot Closed Qualifier,16,7,9,6,7,1,Dead Pixels,19,16,1.12 
+2015,11,16,20:00,GreyFace,DeadPixels,cache,Red Dot Closed Qualifier,16,6,9,6,7,0,Dead Pixels,18,19,1.08 
+2015,10,01,23:00,Belgium,Finland,inferno,World Championships 2015 Europ..,16,14,10,5,6,9,Belgium,24,19,1.06 
+2015,10,01,23:00,Belgium,Finland,dust2,World Championships 2015 Europ..,2,16,1,14,1,2,Belgium,5,17,0.28 
+2015,10,01,23:00,Finland,Belgium,cobblestone,World Championships 2015 Europ..,13,16,10,5,3,11,Belgium,27,17,1.32 
+2015,09,29,22:30,Sweden,Belgium,cobblestone,World Championships 2015 Europ..,5,16,5,10,0,6,Belgium,21,10,1.57 
+2015,09,29,21:30,Belgium,Iceland,dust2,World Championships 2015 Europ..,16,11,8,7,8,4,Belgium,20,21,1.01 
+2015,09,28,19:35,Bosnia&Herzegovina,Belgium,cobblestone,World Championships 2015 Europ..,6,16,3,12,3,4,Belgium,26,9,1.89 
+2015,09,18,21:30,WEGOTGAME,DeadPixels,cache,LevelDown Championship,22,19,11,4,4,11,Dead Pixels,40,29,1.42 
+2015,09,18,21:30,DeadPixels,WEGOTGAME,dust2,LevelDown Championship,4,16,2,13,2,3,Dead Pixels,10,16,0.70 
+2015,09,17,22:15,DeadPixels,RedInstinct,mirage,LevelDown Championship,16,1,14,1,2,0,Dead Pixels,13,6,1.34 
+2015,09,17,22:15,RedInstinct,DeadPixels,cobblestone,LevelDown Championship,16,11,7,8,9,3,Dead Pixels,33,17,1.86 
+2015,09,17,22:15,RedInstinct,DeadPixels,dust2,LevelDown Championship,5,16,5,10,0,6,Dead Pixels,25,10,1.75 
+2015,09,17,19:40,Norway,Belgium,cache,World Championships 2015 Europ..,16,12,8,7,8,5,Belgium,23,18,1.14 
+2015,09,15,22:15,DeadPixels,melty,cache,LevelDown Championship,16,10,8,7,8,3,Dead Pixels,35,14,2.01 
+2015,09,15,21:15,AsusROG,DeadPixels,mirage,LevelDown Championship,4,16,3,12,1,4,Dead Pixels,18,9,1.52 

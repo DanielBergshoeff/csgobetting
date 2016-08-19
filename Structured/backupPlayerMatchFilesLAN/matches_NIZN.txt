@@ -1,0 +1,14 @@
+2016,02,19,23:00,DollarHouse,Torpedo,cache,Nordic Masters Season 2 Finals,6,16,5,10,1,6,DollarHouse,7,17,0.48 
+2016,02,19,23:00,DollarHouse,Torpedo,mirage,Nordic Masters Season 2 Finals,4,16,1,14,3,2,DollarHouse,13,18,0.74 
+2016,02,19,23:00,Torpedo,DollarHouse,overpass,Nordic Masters Season 2 Finals,12,16,5,10,7,6,DollarHouse,17,16,1.08 
+2016,02,19,18:15,Rize,DollarHouse,cache,Nordic Masters Season 2 Finals,2,16,2,13,0,3,DollarHouse,12,11,0.94 
+2016,02,19,18:15,DollarHouse,Rize,mirage,Nordic Masters Season 2 Finals,16,13,10,5,6,8,DollarHouse,21,18,1.21 
+2016,02,19,18:15,Rize,DollarHouse,dust2,Nordic Masters Season 2 Finals,19,17,4,11,11,4,DollarHouse,26,28,0.93 
+2016,02,19,12:35,DollarHouse,Torpedo,overpass,Nordic Masters Season 2 Finals,2,16,1,14,1,2,DollarHouse,4,15,0.35 
+2015,06,13,21:30,Exertus,dignitas,cache,DreamHack Open Summer 2015 BYO..,6,16,3,12,3,4,Exertus,10,17,0.67 
+2015,06,13,21:30,dignitas,Exertus,mirage,DreamHack Open Summer 2015 BYO..,16,6,12,3,4,3,Exertus,18,19,0.95 
+2015,06,13,19:00,Exertus,KDDA,cache,DreamHack Open Summer 2015 BYO..,16,5,11,4,5,1,Exertus,16,9,1.21 
+2015,06,13,19:00,KDDA,Exertus,mirage,DreamHack Open Summer 2015 BYO..,14,16,9,6,5,10,Exertus,29,19,1.38 
+2015,05,31,16:30,Acer,Exertus,dust2,ESPORTSM 2015,16,11,6,9,10,2,Exertus,21,21,1.02 
+2015,05,31,12:15,Acer,Exertus,mirage,ESPORTSM 2015,16,11,6,9,10,2,Exertus,20,18,1.04 
+2015,05,31,12:15,Exertus,Acer,cache,ESPORTSM 2015,16,7,9,6,7,1,Exertus,17,11,1.14 

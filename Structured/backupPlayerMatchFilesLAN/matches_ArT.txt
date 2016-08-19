@@ -1,0 +1,20 @@
+2016,08,11,13:00,MVPproject,TamuluS,cobblestone,VSL Season 1,16,11,12,3,4,8,TamuluS,20,19,0.99 
+2016,08,11,13:00,TamuluS,MVPproject,train,VSL Season 1,10,16,7,8,3,8,TamuluS,15,19,0.77 
+2016,07,24,12:15,TamuluS,Nomad,nuke,VSL Season 1,16,7,9,6,7,1,TamuluS,22,11,1.48 
+2016,07,14,14:00,TamuluS,Player5,mirage,VSL Season 1,16,1,14,1,2,0,TamuluS,14,5,1.43 
+2016,07,07,14:15,m0nsterwhite,TamuluS,mirage,VSL Season 1,8,16,5,10,3,6,TamuluS,15,13,1.09 
+2015,11,19,14:45,PiTER,Enso,dust2,CIS LAN Championship #2,19,15,5,10,10,5,Enso,29,24,1.11 
+2015,11,19,14:45,Enso,PiTER,mirage,CIS LAN Championship #2,8,16,4,11,4,5,Enso,17,22,0.76 
+2015,11,18,23:30,PARTY,Enso,inferno,CIS LAN Championship #2,8,16,6,9,2,7,Enso,15,15,0.95 
+2015,11,18,23:30,PARTY,Enso,mirage,CIS LAN Championship #2,16,1,14,1,2,0,Enso,5,16,0.33 
+2015,11,18,23:30,Enso,PARTY,cobblestone,CIS LAN Championship #2,16,7,11,4,5,3,Enso,17,13,1.10 
+2015,11,18,17:15,Rebels,Enso,overpass,CIS LAN Championship #2,20,22,7,8,8,7,Enso,28,32,1.00 
+2015,11,18,17:15,Enso,Rebels,dust2,CIS LAN Championship #2,16,13,3,12,13,1,Enso,25,21,1.23 
+2015,11,16,22:45,YP,Enso,inferno,CIS LAN Championship #2,16,6,11,4,5,2,Enso,10,19,0.54 
+2015,11,16,22:45,Enso,YP,dust2,CIS LAN Championship #2,12,16,4,11,8,5,Enso,11,22,0.50 
+2015,11,16,22:45,Enso,YP,mirage,CIS LAN Championship #2,16,9,10,5,6,4,Enso,18,11,1.22 
+2015,11,16,19:45,Enso,eXplosive,mirage,CIS LAN Championship #2,16,11,10,5,6,6,Enso,15,14,0.94 
+2015,11,16,19:45,Enso,eXplosive,dust2,CIS LAN Championship #2,22,20,10,5,5,10,Enso,32,28,1.07 
+2015,11,16,08:30,Rebels,Enso,train,CIS LAN Championship #2,16,13,11,4,5,9,Enso,15,21,0.72 
+2015,11,16,08:30,Rebels,Enso,mirage,CIS LAN Championship #2,9,16,6,9,3,7,Enso,14,15,0.96 
+2015,11,16,08:30,Rebels,Enso,overpass,CIS LAN Championship #2,16,9,8,7,8,2,Enso,16,21,0.87 

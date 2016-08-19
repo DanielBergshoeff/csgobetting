@@ -1,0 +1,18 @@
+2016,07,14,14:45,Singapore,Indonesia,mirage,World Championships 2016 Asian..,16,8,13,2,3,6,Indonesia,22,20,1.19 
+2016,07,14,14:45,Singapore,Indonesia,cobblestone,World Championships 2016 Asian..,16,10,10,5,6,5,Indonesia,23,21,1.10 
+2016,07,14,14:45,Singapore,Indonesia,dust2,World Championships 2016 Asian..,10,16,2,13,8,3,Indonesia,30,14,1.68 
+2016,07,13,12:15,Indonesia,Mongolia,cobblestone,World Championships 2016 Asian..,16,10,11,4,5,6,Indonesia,26,18,1.33 
+2016,07,13,10:00,HongKong,Indonesia,dust2,World Championships 2016 Asian..,5,16,5,10,0,6,Indonesia,14,10,1.21 
+2016,02,28,13:00,dream[S]cape,J2G,dust2,Born To Win Invitational Leagu..,16,7,9,6,7,1,J2G,14,19,0.78 
+2016,02,28,13:00,J2G,dream[S]cape,cobblestone,Born To Win Invitational Leagu..,6,16,5,10,1,6,J2G,15,19,0.84 
+2016,02,27,16:30,J2G,MVP.karnal,cobblestone,Born To Win Invitational Leagu..,4,16,2,13,2,3,J2G,12,18,0.67 
+2016,02,27,16:30,J2G,MVP.karnal,mirage,Born To Win Invitational Leagu..,6,16,6,9,0,7,J2G,11,18,0.65 
+2016,02,26,14:00,J2G,MiTH,cobblestone,Born To Win Invitational Leagu..,16,3,12,3,4,0,J2G,23,7,1.83 
+2016,02,26,14:00,MiTH,J2G,mirage,Born To Win Invitational Leagu..,12,16,7,8,5,8,J2G,27,14,1.42 
+2016,02,26,14:00,J2G,MiTH,overpass,Born To Win Invitational Leagu..,10,16,4,11,6,5,J2G,26,21,1.44 
+2016,02,23,14:00,J2G,Threats,mirage,Born To Win Invitational Leagu..,16,12,12,3,4,9,J2G,25,17,1.40 
+2016,02,21,15:30,J2G,MVP.karnal,cobblestone,Born To Win Invitational Leagu..,9,16,6,9,3,7,J2G,17,19,0.90 
+2016,02,21,14:00,J2G,Expendables,dust2,Born To Win Invitational Leagu..,19,17,2,13,13,2,J2G,28,26,1.13 
+2015,12,09,16:00,TheMongolz,J2G,mirage,D!ngIT CS:GO Asia Invitational..,16,8,10,5,6,3,J2G,8,22,0.42 
+2015,12,09,14:30,J2G,T5,inferno,D!ngIT CS:GO Asia Invitational..,16,13,9,6,7,7,J2G,26,19,1.25 
+2015,12,07,13:00,J2G,TheMongolz,inferno,D!ngIT CS:GO Asia Invitational..,3,16,3,12,0,4,J2G,9,16,0.56 

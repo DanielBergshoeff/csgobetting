@@ -1,0 +1,16 @@
+2016,02,20,10:30,G2,x6tence,train,ESL Barcelona CS:GO Invitation..,16,3,12,3,4,0,x6tence,9,18,0.44 
+2016,02,19,21:40,x6tence,Vexed,cobblestone,ESL Barcelona CS:GO Invitation..,2,16,2,13,0,3,x6tence,9,16,0.64 
+2016,02,19,17:45,Astralis,x6tence,mirage,ESL Barcelona CS:GO Invitation..,16,2,13,2,3,0,x6tence,8,17,0.48 
+2015,12,06,15:00,overGame,x6tence,cobblestone,LVP Season 9 Division de Honor..,12,16,6,9,6,7,overGame,15,20,0.78 
+2015,12,06,15:00,overGame,x6tence,cache,LVP Season 9 Division de Honor..,16,8,8,7,8,1,overGame,23,16,1.27 
+2015,12,06,15:00,x6tence,overGame,mirage,LVP Season 9 Division de Honor..,16,7,14,1,2,6,overGame,11,18,0.60 
+2015,12,05,16:30,Play2Win,overGame,train,LVP Season 9 Division de Honor..,12,16,8,7,4,9,overGame,25,18,1.31 
+2015,12,05,16:30,Play2Win,overGame,overpass,LVP Season 9 Division de Honor..,6,16,3,12,3,4,overGame,16,13,1.10 
+2015,12,05,16:30,Play2Win,overGame,dust2,LVP Season 9 Division de Honor..,16,12,11,4,5,8,overGame,20,20,1.06 
+2015,12,05,12:00,gBots,overGame,cache,LVP Season 9 Division de Honor..,16,10,9,6,7,4,overGame,12,23,0.59 
+2015,12,04,17:30,Play2Win,overGame,cache,LVP Season 9 Division de Honor..,8,16,4,11,4,5,overGame,27,13,1.65 
+2015,11,12,19:00,x6tence,overGame,cobblestone,LVP Season 9 Division de Honor..,16,11,9,6,7,5,overGame,7,19,0.46 
+2015,11,12,19:00,x6tence,overGame,cache,LVP Season 9 Division de Honor..,4,16,4,11,0,5,overGame,12,9,1.12 
+2015,11,12,19:00,overGame,x6tence,mirage,LVP Season 9 Division de Honor..,8,16,8,7,0,9,overGame,14,19,0.75 
+2015,11,11,19:00,overGame,Play2Win,cobblestone,LVP Season 9 Division de Honor..,16,11,9,6,7,5,overGame,21,16,1.28 
+2015,11,11,19:00,overGame,Play2Win,cache,LVP Season 9 Division de Honor..,16,3,12,3,4,0,overGame,12,8,1.09 

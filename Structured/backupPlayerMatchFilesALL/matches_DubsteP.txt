@@ -1,0 +1,14 @@
+2016,08,08,16:00,MineSki,dream[S]cape,overpass,ESEA Open Season 22 Asia,10,16,7,8,3,8,MineSki,12,21,0.56 
+2016,08,08,16:00,dream[S]cape,MineSki,dust2,ESEA Open Season 22 Asia,19,16,7,8,8,7,MineSki,22,23,0.99 
+2016,08,08,16:00,dream[S]cape,MineSki,mirage,ESEA Open Season 22 Asia,12,16,8,7,4,9,MineSki,25,20,1.21 
+2016,07,12,13:15,Singapore,Philippines,cache,World Championships 2016 Asian..,16,7,10,5,6,2,Philippines,17,19,1.01 
+2016,07,12,11:00,Vietnam,Philippines,mirage,World Championships 2016 Asian..,16,5,11,4,5,1,Philippines,13,19,0.65 
+2016,07,01,14:00,Philippines,Jordan,dust2,World Championships 2016 Asian..,16,7,13,2,3,5,Philippines,23,13,1.54 
+2016,07,01,14:00,Jordan,Philippines,cache,World Championships 2016 Asian..,16,2,14,1,2,1,Philippines,8,17,0.51 
+2016,07,01,14:00,Philippines,Jordan,mirage,World Championships 2016 Asian..,16,3,13,2,3,1,Philippines,16,12,1.28 
+2016,06,25,13:00,5Peaks,MineSki,overpass,MPGL Season 8 Finals,4,16,4,11,0,5,MineSki,30,10,2.24 
+2016,06,25,13:00,5Peaks,MineSki,dust2,MPGL Season 8 Finals,7,16,1,14,6,2,MineSki,10,13,0.74 
+2016,06,25,13:00,MineSki,5Peaks,cobblestone,MPGL Season 8 Finals,16,8,11,4,5,4,MineSki,18,12,1.28 
+2016,04,16,13:00,Signature,MineSki,mirage,WCA 2016 APAC Qualifier,16,6,11,4,5,2,MineSki,9,20,0.44 
+2016,04,16,13:00,MineSki,Signature,inferno,WCA 2016 APAC Qualifier,7,16,4,11,3,5,MineSki,9,18,0.53 
+2016,03,12,14:00,dream[S]cape,MineSki,inferno,DreamHack Masters Malmö 2016 A..,16,10,13,2,3,8,MineSki,13,18,0.71 

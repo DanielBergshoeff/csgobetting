@@ -1,0 +1,15 @@
+2016,07,31,18:45,Bravado,carboN,train,ESWC 2016 South African Qualif..,16,4,12,3,4,1,Bravado,17,5,1.55 
+2016,07,31,18:45,carboN,Bravado,cache,ESWC 2016 South African Qualif..,19,16,4,11,11,4,Bravado,16,27,0.67 
+2016,07,31,18:45,carboN,Bravado,mirage,ESWC 2016 South African Qualif..,12,16,6,9,6,7,Bravado,23,15,1.25 
+2016,07,31,11:45,Aperture,Bravado,cobblestone,ESWC 2016 South African Qualif..,12,16,7,8,5,8,Bravado,19,18,1.04 
+2016,07,31,11:45,Bravado,Aperture,train,ESWC 2016 South African Qualif..,16,10,10,5,6,5,Bravado,25,13,1.41 
+2016,07,30,14:00,eNergy,Bravado,train,ESWC 2016 South African Qualif..,2,16,2,13,0,3,Bravado,21,10,1.85 
+2016,07,30,14:00,Bravado,eNergy,overpass,ESWC 2016 South African Qualif..,16,12,8,7,8,5,Bravado,23,17,1.13 
+2014,11,27,16:05,Cloud9,Bravado,cache,DreamHack Winter 2014,16,1,15,0,1,1,Bravado,8,16,0.51 
+2014,11,27,12:30,fnatic,Bravado,mirage,DreamHack Winter 2014,16,2,13,2,3,0,Bravado,11,16,0.79 
+2014,10,12,09:00,In-Finity,Bravado,nuke,Telkom Gaming CS:GO Championsh..,12,16,9,6,3,10,Bravado,13,21,0.65 
+2014,10,12,09:00,Bravado,In-Finity,cache,Telkom Gaming CS:GO Championsh..,16,14,12,3,4,11,Bravado,29,19,1.49 
+2014,10,12,09:00,In-Finity,Bravado,dust2,Telkom Gaming CS:GO Championsh..,8,16,4,11,4,5,Bravado,19,17,1.00 
+2014,10,11,17:00,eNergy,Bravado,nuke,Telkom Gaming CS:GO Championsh..,17,19,13,2,2,13,Bravado,30,29,1.06 
+2014,10,11,17:00,Bravado,eNergy,cache,Telkom Gaming CS:GO Championsh..,12,16,12,3,0,13,Bravado,16,20,0.90 
+2014,10,11,17:00,eNergy,Bravado,dust2,Telkom Gaming CS:GO Championsh..,14,16,5,10,9,6,Bravado,34,20,1.80 

@@ -1,0 +1,6 @@
+2016,03,24,23:00,Plantronics,WinOut,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,8,9,6,7,2,WinOut,13,19,0.67 
+2016,03,24,23:00,Plantronics,WinOut,inferno,Copenhagen Games 2016 BYOC Qua..,16,5,11,4,5,1,WinOut,8,15,0.55 
+2016,03,24,19:00,WinOut,eXtatus,cache,Copenhagen Games 2016 BYOC Qua..,16,6,9,6,7,0,WinOut,23,13,1.50 
+2016,03,24,19:00,WinOut,eXtatus,dust2,Copenhagen Games 2016 BYOC Qua..,16,12,11,4,5,8,WinOut,22,17,1.29 
+2016,03,24,15:30,WinOut,malefiQ,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,WinOut,23,14,1.34 
+2016,03,24,13:00,WinOut,thepickles,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,WinOut,22,3,1.89 

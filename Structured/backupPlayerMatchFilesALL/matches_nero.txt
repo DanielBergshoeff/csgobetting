@@ -1,0 +1,3 @@
+2014,06,11,19:00,WYBOROWA,Dobry&Gaming,nuke,ESL Pro Series Poland Season 8,7,16,4,11,3,5,WYBOROWA,16,20,0.78 
+2014,06,10,20:00,Virtus.pro,WYBOROWA,inferno,ESL Pro Series Poland Season 8,16,9,9,6,7,3,WYBOROWA,13,20,0.71 
+2014,06,05,19:30,WYBOROWA,INSHOCK,mirage,ESL Pro Series Poland Season 8,12,16,8,7,4,9,WYBOROWA,16,23,0.69 

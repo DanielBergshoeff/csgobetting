@@ -1,0 +1,34 @@
+2016,07,21,16:00,MK,Iwku,train,Razer Rising Stars European Le..,16,12,7,8,9,4,Iwku,12,22,0.57 
+2016,07,21,16:00,MK,Iwku,overpass,Razer Rising Stars European Le..,14,16,5,10,9,6,Iwku,15,24,0.74 
+2016,06,04,18:30,SlashCry,ALTERNATEaTTaX,overpass,DreamHack ZOWIE Open Summer 20..,9,16,7,8,2,8,SlashCry,12,20,0.70 
+2016,05,28,18:00,SlashCry,ALTERNATEaTTaX,cache,DreamHack ZOWIE Open Summer 20..,7,16,6,9,1,7,SlashCry,12,16,0.76 
+2016,05,23,21:15,Portvakterna,KAPOW,inferno,Yoggi Yalla Cup,14,16,11,4,3,12,Portvakterna,26,22,1.19 
+2016,05,23,21:15,Portvakterna,KAPOW,dust2,Yoggi Yalla Cup,3,16,1,14,2,2,Portvakterna,4,17,0.26 
+2016,05,23,21:15,KAPOW,Portvakterna,mirage,Yoggi Yalla Cup,10,16,5,10,5,6,Portvakterna,25,19,1.25 
+2016,03,17,21:15,Astralis,Torpedo,dust2,Counter Pit League Season 2 Fi..,16,2,14,1,2,1,Torpedo,13,18,0.70 
+2016,03,17,21:15,Astralis,Torpedo,cache,Counter Pit League Season 2 Fi..,16,6,13,2,3,4,Torpedo,8,19,0.49 
+2016,03,08,22:15,Epsilon,Torpedo,cache,CEVO Gfinity Professional Seas..,16,11,8,7,8,4,Torpedo,10,19,0.62 
+2016,03,08,22:15,Torpedo,Epsilon,overpass,CEVO Gfinity Professional Seas..,14,16,5,10,9,6,Torpedo,10,22,0.55 
+2016,03,01,22:00,Torpedo,ALTERNATEaTTaX,train,Operation: Kinguin #2,14,16,7,8,7,8,Torpedo,21,21,0.91 
+2016,03,01,22:00,ALTERNATEaTTaX,Torpedo,cache,Operation: Kinguin #2,17,19,7,8,8,7,Torpedo,34,19,1.43 
+2016,03,01,22:00,ALTERNATEaTTaX,Torpedo,overpass,Operation: Kinguin #2,16,7,10,5,6,2,Torpedo,18,21,0.90 
+2016,02,27,21:40,ALTERNATEaTTaX,Torpedo,cobblestone,Pantamera CS:GO Challenge 2016,16,13,5,10,11,3,Torpedo,19,23,0.78 
+2016,02,27,20:10,AliGon,Torpedo,mirage,Pantamera CS:GO Challenge 2016,16,9,9,6,7,3,Torpedo,17,18,0.87 
+2016,02,27,18:15,Orgless,Torpedo,mirage,Pantamera CS:GO Challenge 2016,19,17,5,10,10,5,Torpedo,23,24,0.89 
+2016,02,25,21:30,Torpedo,Orgless,cobblestone,Counter Pit League Season 2,16,3,13,2,3,1,Torpedo,21,7,1.71 
+2016,02,25,21:30,Orgless,Torpedo,mirage,Counter Pit League Season 2,8,16,5,10,3,6,Torpedo,13,14,0.87 
+2016,02,21,22:45,Torpedo,Preparation,cobblestone,Nordic Masters Season 2 Finals,19,17,4,11,11,4,Torpedo,16,26,0.65 
+2016,02,21,19:30,BX3,Torpedo,mirage,Nordic Masters Season 2 Finals,16,12,7,8,9,4,Torpedo,19,19,0.93 
+2016,02,21,19:30,BX3,Torpedo,overpass,Nordic Masters Season 2 Finals,16,4,11,4,5,0,Torpedo,7,14,0.54 
+2016,02,21,16:00,Raepmashaekel,Torpedo,cache,Nordic Masters Season 2 Finals,5,16,4,11,1,5,Torpedo,19,7,1.55 
+2016,02,21,16:00,Raepmashaekel,Torpedo,train,Nordic Masters Season 2 Finals,16,14,10,5,6,9,Torpedo,17,21,0.80 
+2016,02,21,16:00,Raepmashaekel,Torpedo,mirage,Nordic Masters Season 2 Finals,13,16,5,10,8,6,Torpedo,25,17,1.28 
+2016,02,19,23:00,DollarHouse,Torpedo,cache,Nordic Masters Season 2 Finals,6,16,5,10,1,6,Torpedo,16,15,1.05 
+2016,02,19,23:00,DollarHouse,Torpedo,mirage,Nordic Masters Season 2 Finals,4,16,1,14,3,2,Torpedo,16,7,1.34 
+2016,02,19,23:00,Torpedo,DollarHouse,overpass,Nordic Masters Season 2 Finals,12,16,5,10,7,6,Torpedo,21,16,1.18 
+2016,02,19,15:15,RCTIC,Torpedo,cache,Nordic Masters Season 2 Finals,16,12,8,7,8,5,Torpedo,13,21,0.63 
+2016,02,19,15:15,RCTIC,Torpedo,train,Nordic Masters Season 2 Finals,16,10,6,9,10,1,Torpedo,9,20,0.50 
+2016,02,19,12:35,DollarHouse,Torpedo,overpass,Nordic Masters Season 2 Finals,2,16,1,14,1,2,Torpedo,8,9,0.88 
+2016,02,14,20:00,Torpedo,Publiclir.se,cache,CEVO Gfinity Professional Seas..,14,16,11,4,3,12,Torpedo,19,20,0.90 
+2015,06,13,19:00,NONAMERS,AGENT,mirage,DreamHack Open Summer 2015 BYO..,5,16,5,10,0,6,NONAMERS,9,15,0.70 
+2015,06,13,19:00,NONAMERS,AGENT,inferno,DreamHack Open Summer 2015 BYO..,5,16,5,10,0,6,NONAMERS,10,19,0.53 

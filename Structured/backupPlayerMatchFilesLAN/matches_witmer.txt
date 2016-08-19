@@ -1,0 +1,17 @@
+2016,06,30,20:00,EnVyUs,compLexity,cache,ELEAGUE Season 1,16,8,8,7,8,1,compLexity,15,20,0.88 
+2016,06,30,20:00,EnVyUs,compLexity,dust2,ELEAGUE Season 1,16,9,6,9,10,0,compLexity,14,19,0.80 
+2016,06,29,23:50,Gambit,compLexity,train,ELEAGUE Season 1,16,13,6,9,10,4,compLexity,14,22,0.78 
+2016,06,29,22:40,Gambit,compLexity,cache,ELEAGUE Season 1,14,16,6,9,8,7,compLexity,25,22,1.15 
+2016,06,29,19:15,EnVyUs,compLexity,cobblestone,ELEAGUE Season 1,16,9,8,7,8,2,compLexity,15,20,0.83 
+2016,06,29,18:00,EnVyUs,compLexity,train,ELEAGUE Season 1,16,12,12,3,4,9,compLexity,19,26,0.79 
+2016,06,28,19:10,Virtus.pro,compLexity,cobblestone,ELEAGUE Season 1,16,11,7,8,9,3,compLexity,15,22,0.72 
+2016,06,28,18:00,compLexity,Virtus.pro,overpass,ELEAGUE Season 1,7,16,1,14,6,2,compLexity,16,20,0.79 
+2015,10,19,03:00,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,8,16,7,8,1,8,Roca's compLexity,14,23,0.67 
+2015,10,19,00:35,WinOut.net,Roca'scompLexity,mirage,Fragadelphia 6,7,16,5,10,2,6,Roca's compLexity,19,17,1.10 
+2015,10,18,23:25,ReapWhatYouSow,Roca'scompLexity,cache,Fragadelphia 6,13,16,7,8,6,8,Roca's compLexity,21,23,0.91 
+2015,10,18,19:15,Eanix,Roca'scompLexity,cache,Fragadelphia 6,5,16,4,11,1,5,Roca's compLexity,20,13,1.24 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,10,16,4,11,6,5,Roca's compLexity,15,22,0.76 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,cobblestone,Fragadelphia 6,16,14,7,8,9,6,Roca's compLexity,15,22,0.69 
+2015,10,18,16:25,Tectonic,Roca'scompLexity,cache,Fragadelphia 6,16,6,11,4,5,2,Roca's compLexity,10,17,0.64 
+2015,10,18,02:00,Roca'scompLexity,TheMooninites,cache,Fragadelphia 6,16,9,9,6,7,3,Roca's compLexity,17,14,1.11 
+2015,10,18,02:00,TheMooninites,Roca'scompLexity,inferno,Fragadelphia 6,7,16,6,9,1,7,Roca's compLexity,26,13,1.55 

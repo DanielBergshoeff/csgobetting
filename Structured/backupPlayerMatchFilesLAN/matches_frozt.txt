@@ -1,0 +1,8 @@
+2015,04,18,17:00,CLG,Luminosity,dust2,ESEA Invite Season 18 Global F..,16,8,11,4,5,4,Luminosity,15,18,0.87 
+2015,04,18,17:00,CLG,Luminosity,mirage,ESEA Invite Season 18 Global F..,16,5,12,3,4,2,Luminosity,8,19,0.48 
+2015,04,17,19:00,Titan,Luminosity,cache,ESEA Invite Season 18 Global F..,19,16,11,4,4,11,Luminosity,17,24,0.81 
+2015,04,17,19:00,Titan,Luminosity,mirage,ESEA Invite Season 18 Global F..,16,7,13,2,3,5,Luminosity,18,19,1.07 
+2015,04,15,03:35,Luminosity,eLevate,cache,CEVO Professional Season 6 LAN..,11,16,7,8,4,8,Luminosity,9,20,0.53 
+2015,04,15,03:35,eLevate,Luminosity,inferno,CEVO Professional Season 6 LAN..,16,2,13,2,3,0,Luminosity,7,17,0.35 
+2015,04,14,04:00,Luminosity,Nihilum,dust2,CEVO Professional Season 6 LAN..,9,16,6,9,3,7,Luminosity,11,15,0.79 
+2015,04,14,04:00,Luminosity,Nihilum,cache,CEVO Professional Season 6 LAN..,7,16,6,9,1,7,Luminosity,20,17,1.15 

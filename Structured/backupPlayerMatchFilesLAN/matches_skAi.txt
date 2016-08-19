@@ -1,0 +1,4 @@
+2014,12,20,01:30,Reason,ALTERNATEaTTaX,dust2,Acer A-Split Invitational powe..,16,11,8,7,8,4,ALTERNATE aTTaX,8,18,0.58 
+2014,12,20,01:30,ALTERNATEaTTaX,Reason,overpass,Acer A-Split Invitational powe..,5,16,2,13,3,3,ALTERNATE aTTaX,10,17,0.59 
+2014,12,19,23:30,ALTERNATEaTTaX,mousesports,cache,Acer A-Split Invitational powe..,14,16,10,5,4,11,ALTERNATE aTTaX,17,21,0.81 
+2014,12,19,23:30,ALTERNATEaTTaX,mousesports,inferno,Acer A-Split Invitational powe..,6,16,5,10,1,6,ALTERNATE aTTaX,13,15,0.82 

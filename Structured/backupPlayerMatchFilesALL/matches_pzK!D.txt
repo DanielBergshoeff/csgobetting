@@ -1,0 +1,5 @@
+2016,06,09,15:00,MVP.karnal,MOTV,mirage,MixBOT Pro-League Golden,16,5,13,2,3,3,MVP.karnal,8,11,0.76 
+2016,06,09,15:00,MVP.karnal,MOTV,cache,MixBOT Pro-League Golden,16,4,11,4,5,0,MVP.karnal,21,12,1.58 
+2016,04,21,16:10,MVP.karnal,Signature,mirage,Rising Stars SEA Promotional C..,13,16,4,11,9,5,MVP.karnal,22,23,0.90 
+2016,04,21,15:05,LGD,MVP.karnal,cache,Rising Stars SEA Promotional C..,6,16,3,12,3,4,MVP.karnal,24,16,1.56 
+2016,04,21,12:30,MVP.karnal,Signature,inferno,Rising Stars SEA Promotional C..,8,16,6,9,2,7,MVP.karnal,12,21,0.57 

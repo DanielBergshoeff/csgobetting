@@ -1,0 +1,15 @@
+2015,11,01,20:00,PiTER,stfuNerd,mirage,QuickShot Showmatches,16,7,11,4,5,3,stfuNerd,11,17,0.64 
+2015,11,01,20:00,stfuNerd,PiTER,cobblestone,QuickShot Showmatches,4,16,2,13,2,3,stfuNerd,9,20,0.46 
+2015,10,28,22:15,Arcade,stfuNerd,mirage,QuickShot Arena #12,16,11,7,8,9,3,stfuNerd,12,22,0.57 
+2015,10,28,17:30,stfuNerd,SpaceSoldiers,train,QuickShot Arena #12,5,16,3,12,2,4,stfuNerd,10,15,0.74 
+2015,10,28,17:30,SpaceSoldiers,stfuNerd,cache,QuickShot Arena #12,16,3,12,3,4,0,stfuNerd,7,16,0.53 
+2015,10,22,19:30,PiTER,stfuNerd,mirage,QuickShot Arena #11,16,6,10,5,6,1,stfuNerd,6,20,0.33 
+2015,10,22,17:00,EpiphanyBolt,stfuNerd,cobblestone,QuickShot Arena #11,16,13,5,10,11,3,stfuNerd,17,18,0.90 
+2015,10,22,17:00,EpiphanyBolt,stfuNerd,dust2,QuickShot Arena #11,16,9,7,8,9,1,stfuNerd,18,19,0.96 
+2015,10,21,20:15,stfuNerd,ESC,dust2,QuickShot Arena #11,16,10,8,7,8,3,stfuNerd,13,15,0.85 
+2015,10,21,20:15,stfuNerd,ESC,cache,QuickShot Arena #11,13,16,9,6,4,10,stfuNerd,20,18,1.15 
+2015,10,21,20:15,stfuNerd,ESC,mirage,QuickShot Arena #11,19,16,8,7,7,8,stfuNerd,25,28,1.04 
+2015,10,20,21:00,stfuNerd,NoProblem!,mirage,D!ngIT $2000 Weekly Cup #22,17,21,6,9,9,6,stfuNerd,15,27,0.63 
+2015,10,19,22:15,nerdRage,stfuNerd,inferno,D!ngIT $2000 Weekly Cup #22,12,16,7,8,5,8,stfuNerd,20,18,0.97 
+2015,10,19,18:00,stfuNerd,NoProblem!,mirage,D!ngIT $2000 Weekly Cup #22,12,16,8,7,4,9,stfuNerd,20,20,1.00 
+2015,10,19,18:00,NoProblem!,stfuNerd,cobblestone,D!ngIT $2000 Weekly Cup #22,16,7,9,6,7,1,stfuNerd,11,20,0.53 

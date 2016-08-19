@@ -1,0 +1,6 @@
+2016,08,10,19:00,Bulgaria,Switzerland,overpass,World Championships 2016 Europ..,16,3,14,1,2,2,Switzerland,7,17,0.39 
+2016,08,10,19:00,Bulgaria,Switzerland,mirage,World Championships 2016 Europ..,15,19,9,6,6,9,Switzerland,36,23,1.58 
+2016,08,10,19:00,Switzerland,Bulgaria,cache,World Championships 2016 Europ..,6,16,6,9,0,7,Switzerland,15,18,1.06 
+2016,04,23,17:55,un-named,n0_0rg,cache,DreamHack Regional Minor Champ..,8,16,8,7,0,9,un-named,12,19,0.71 
+2015,08,27,16:30,Portugal,Switzerland,mirage,World Championships 2015 Europ..,16,3,12,3,4,0,Switzerland,7,18,0.41 
+2015,08,27,16:30,Switzerland,Portugal,dust2,World Championships 2015 Europ..,8,16,7,8,1,8,Switzerland,13,18,0.75 

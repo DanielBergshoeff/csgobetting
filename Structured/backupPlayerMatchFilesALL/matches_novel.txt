@@ -1,0 +1,14 @@
+2016,04,20,17:00,eXplosive,BinaryDragonsGold,dust2,StarLadder Regional Minor Cham..,16,8,7,8,9,0,eXplosive,26,14,1.68 
+2016,04,20,17:00,BinaryDragonsGold,eXplosive,cache,StarLadder Regional Minor Cham..,1,16,1,14,0,2,eXplosive,14,7,1.27 
+2016,03,27,20:15,Ancient,eXplosive,inferno,SL I-League Invitational #1 EU..,16,6,13,2,3,4,eXplosive,11,18,0.62 
+2016,03,27,20:15,Ancient,eXplosive,mirage,SL I-League Invitational #1 EU..,16,5,13,2,3,3,eXplosive,12,19,0.64 
+2016,03,27,19:00,Preparation,eXplosive,mirage,SL I-League Invitational #1 EU..,14,16,11,4,3,12,eXplosive,19,23,0.97 
+2016,03,21,20:30,Ancient,eXplosive,mirage,SL I-League Invitational #1 EU..,16,8,9,6,7,2,eXplosive,11,19,0.63 
+2016,03,11,19:00,eXplosive,DEEZNUTS,cache,Razer Rising Stars European Le..,10,16,7,8,3,8,eXplosive,13,17,0.83 
+2016,03,08,22:50,ex-Epiphany,eXplosive,mirage,Razer Rising Stars European Le..,16,0,15,0,1,0,eXplosive,3,16,0.16 
+2016,03,06,16:00,Empire,eXplosive,mirage,Binary Dragons Cup Season 2,16,8,11,4,5,4,eXplosive,15,19,0.76 
+2016,03,06,16:00,eXplosive,Empire,cache,Binary Dragons Cup Season 2,12,16,7,8,5,8,eXplosive,22,17,1.14 
+2016,03,06,16:00,eXplosive,Empire,cobblestone,Binary Dragons Cup Season 2,16,10,7,8,9,2,eXplosive,18,19,0.98 
+2016,02,06,18:30,eXplosive,Arcade,dust2,Binary Dragons Hellstore Winte..,5,16,2,13,3,3,eXplosive,15,16,0.90 
+2016,02,06,18:30,Arcade,eXplosive,cache,Binary Dragons Hellstore Winte..,13,16,3,12,10,4,eXplosive,18,22,0.78 
+2016,02,06,18:30,eXplosive,Arcade,mirage,Binary Dragons Hellstore Winte..,12,16,6,9,6,7,eXplosive,23,19,1.22 

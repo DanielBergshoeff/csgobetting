@@ -1,0 +1,3 @@
+2016,06,18,11:00,BornOfFire,New4,cache,WCA Season 2 China Qualifier,12,16,8,7,4,9,New4,17,19,0.79 
+2016,04,28,08:00,EDG,New4,mirage,WCA Season 1 Qualifier,16,9,13,2,3,7,New4,17,21,0.84 
+2016,04,28,08:00,EDG,New4,cache,WCA Season 1 Qualifier,16,9,7,8,9,1,New4,11,19,0.66 

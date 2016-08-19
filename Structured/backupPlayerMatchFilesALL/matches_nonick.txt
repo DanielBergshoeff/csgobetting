@@ -1,0 +1,18 @@
+2016,08,14,15:30,Entropy,finshhh,cobblestone,ECS Season 2 EU Open Qualifier..,16,11,6,9,10,2,finshhh,22,18,1.23 
+2016,07,02,11:15,WEGOTGAME,LDLC,dust2,ESL National Championship Fran..,10,16,4,11,6,5,WE GOT GAME,26,22,1.21 
+2016,07,02,11:15,LDLC,WEGOTGAME,cache,ESL National Championship Fran..,16,12,4,11,12,1,WE GOT GAME,18,21,0.87 
+2016,06,09,18:00,Tricked,WEGOTGAME,dust2,owayo Masters I,16,12,7,8,9,4,WE GOT GAME,17,20,0.95 
+2016,06,09,18:00,Tricked,WEGOTGAME,cobblestone,owayo Masters I,8,16,2,13,6,3,WE GOT GAME,18,13,1.22 
+2016,06,09,18:00,WEGOTGAME,Tricked,train,owayo Masters I,14,16,12,3,2,13,WE GOT GAME,24,20,1.29 
+2016,06,06,20:00,MeMyself&I,WeGotGame,mirage,UnderDogs #3,16,5,11,4,5,1,WeGotGame,16,18,0.95 
+2016,06,06,20:00,WeGotGame,MeMyself&I,cobblestone,UnderDogs #3,11,16,4,11,7,5,WeGotGame,19,20,0.93 
+2016,05,30,20:30,WeGotGame,E-Corp,mirage,UnderDogs #3,16,10,10,5,6,5,WeGotGame,17,16,1.15 
+2016,05,30,20:30,WeGotGame,E-Corp,train,UnderDogs #3,16,5,11,4,5,1,WeGotGame,22,9,1.56 
+2016,04,30,18:05,WEGOTGAME,GameAgents,mirage,DreamHack Regional Minor Champ..,12,16,5,10,7,6,WE GOT GAME,21,19,1.05 
+2016,03,08,00:00,LPDC,Platinium,inferno,UnderDogs #2,14,16,11,4,3,12,LPDC,25,17,1.26 
+2016,03,08,00:00,Platinium,LPDC,train,UnderDogs #2,16,1,14,1,2,0,LPDC,13,16,0.89 
+2015,11,08,13:30,SLTVStaff,NoobTubers,mirage,Virtus.pro Staff Cup #3,8,16,6,9,2,7,SLTV Staff,11,17,0.67 
+2015,11,08,13:30,SLTVStaff,NoobTubers,cobblestone,Virtus.pro Staff Cup #3,16,19,8,7,7,8,SLTV Staff,21,29,0.77 
+2015,11,08,13:30,NoobTubers,SLTVStaff,cache,Virtus.pro Staff Cup #3,8,16,5,10,3,6,SLTV Staff,19,12,1.26 
+2015,11,07,13:30,FACEITStaff,SLTVStaff,cache,Virtus.pro Staff Cup #3,4,16,3,12,1,4,SLTV Staff,26,10,1.90 
+2015,11,07,13:30,SLTVStaff,FACEITStaff,mirage,Virtus.pro Staff Cup #3,16,3,13,2,3,1,SLTV Staff,19,8,1.55 

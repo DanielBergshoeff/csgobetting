@@ -1,0 +1,13 @@
+2016,06,10,01:00,Innova,Supernova,cobblestone,Razer Rising Stars South Ameri..,16,14,6,9,10,5,Supernova,25,24,1.05 
+2016,06,10,01:00,Innova,Supernova,train,Razer Rising Stars South Ameri..,16,8,13,2,3,6,Supernova,12,19,0.76 
+2016,04,27,03:15,INTZ,BigGods,dust2,MLG Regional Minor South Ameri..,5,16,4,11,1,5,BigGods,12,12,0.91 
+2016,04,27,03:15,INTZ,BigGods,cobblestone,MLG Regional Minor South Ameri..,16,10,10,5,6,5,BigGods,19,18,0.93 
+2016,04,27,03:15,INTZ,BigGods,cache,MLG Regional Minor South Ameri..,5,16,5,10,0,6,BigGods,19,9,1.47 
+2016,04,26,22:25,KeydStars,BigGods,cache,MLG Regional Minor South Ameri..,12,16,6,9,6,7,BigGods,21,21,0.95 
+2016,04,26,22:25,BigGods,KeydStars,dust2,MLG Regional Minor South Ameri..,16,14,9,6,7,8,BigGods,15,18,0.98 
+2016,04,25,23:00,TeamOne,BigGods,mirage,MLG Regional Minor South Ameri..,11,16,9,6,2,10,BigGods,28,15,1.49 
+2016,04,25,23:00,BigGods,TeamOne,cobblestone,MLG Regional Minor South Ameri..,7,16,3,12,4,4,BigGods,10,19,0.53 
+2016,04,25,23:00,BigGods,TeamOne,dust2,MLG Regional Minor South Ameri..,16,2,13,2,3,0,BigGods,10,10,0.86 
+2016,04,09,21:00,Santos.DeX,BigGods,cache,Liga PRO GamersClub - MAR/16,8,16,3,12,5,4,BigGods,18,11,1.29 
+2016,04,09,21:00,BigGods,Santos.DeX,train,Liga PRO GamersClub - MAR/16,16,12,13,2,3,10,BigGods,26,18,1.32 
+2016,03,13,22:10,BigGods,Crashers,cobblestone,Razer Rising Stars South Ameri..,16,2,13,2,3,0,BigGods,12,8,1.17 

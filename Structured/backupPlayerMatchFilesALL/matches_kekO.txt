@@ -1,0 +1,10 @@
+2015,12,05,16:30,Play2Win,overGame,train,LVP Season 9 Division de Honor..,12,16,8,7,4,9,Play2Win,18,22,0.96 
+2015,12,05,16:30,Play2Win,overGame,overpass,LVP Season 9 Division de Honor..,6,16,3,12,3,4,Play2Win,8,19,0.42 
+2015,12,05,16:30,Play2Win,overGame,dust2,LVP Season 9 Division de Honor..,16,12,11,4,5,8,Play2Win,17,20,0.82 
+2015,12,05,11:00,EvidentVictory,Play2Win,cache,LVP Season 9 Division de Honor..,2,16,2,13,0,3,Play2Win,12,13,0.91 
+2015,12,04,17:30,Play2Win,overGame,cache,LVP Season 9 Division de Honor..,8,16,4,11,4,5,Play2Win,7,23,0.30 
+2015,11,11,19:00,overGame,Play2Win,cobblestone,LVP Season 9 Division de Honor..,16,11,9,6,7,5,Play2Win,20,19,1.01 
+2015,11,11,19:00,overGame,Play2Win,cache,LVP Season 9 Division de Honor..,16,3,12,3,4,0,Play2Win,12,18,0.72 
+2015,10,01,21:00,KIYF,Play2Win,dust2,LVP Season 9 División de Honor..,19,16,6,9,9,6,Play2Win,21,23,0.90 
+2015,10,01,21:00,KIYF,Play2Win,cache,LVP Season 9 División de Honor..,6,16,4,11,2,5,Play2Win,18,12,1.21 
+2015,10,01,21:00,KIYF,Play2Win,mirage,LVP Season 9 División de Honor..,16,12,7,8,9,4,Play2Win,10,22,0.49 

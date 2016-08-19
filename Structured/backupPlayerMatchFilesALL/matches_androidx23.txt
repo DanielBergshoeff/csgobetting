@@ -1,0 +1,89 @@
+2016,08,11,01:00,Blight,compLexity,train,SL i-League S2 Americas Qualif..,2,16,2,13,0,3,compLexity,16,7,1.37 
+2016,08,11,01:00,compLexity,Blight,overpass,SL i-League S2 Americas Qualif..,13,16,8,7,5,9,compLexity,23,19,1.22 
+2016,08,11,01:00,Blight,compLexity,cache,SL i-League S2 Americas Qualif..,8,16,5,10,3,6,compLexity,26,12,1.60 
+2016,08,10,00:15,Kaliber,compLexity,cache,SL i-League S2 Americas Qualif..,16,3,12,3,4,0,compLexity,21,17,1.34 
+2016,08,10,00:15,compLexity,Kaliber,dust2,SL i-League S2 Americas Qualif..,14,16,9,6,5,10,compLexity,27,22,1.10 
+2016,08,09,03:15,compLexity,Prospects,cobblestone,SL i-League S2 Americas Qualif..,12,16,10,5,2,11,compLexity,22,17,1.18 
+2016,08,09,03:15,Prospects,compLexity,cache,SL i-League S2 Americas Qualif..,12,16,5,10,7,6,compLexity,15,15,0.83 
+2016,08,09,03:15,Prospects,compLexity,overpass,SL i-League S2 Americas Qualif..,16,6,10,5,6,1,compLexity,11,19,0.58 
+2016,07,28,01:00,Canada,USA,cobblestone,World Championships 2016 North..,12,16,6,9,6,7,Canada,22,21,1.03 
+2016,07,28,01:00,Canada,USA,cache,World Championships 2016 North..,9,16,6,9,3,7,Canada,21,19,1.04 
+2016,07,28,01:00,USA,Canada,dust2,World Championships 2016 North..,19,16,5,10,10,5,Canada,21,23,0.90 
+2016,07,27,04:00,Canada,Mexico,cache,World Championships 2016 North..,16,12,4,11,12,1,Canada,22,20,1.08 
+2016,07,27,04:00,Canada,Mexico,mirage,World Championships 2016 North..,16,10,11,4,5,6,Canada,30,16,1.61 
+2016,07,16,20:40,Selfless,compLexity,train,iBUYPOWER Invitational Summer ..,16,6,10,5,6,1,compLexity,17,19,0.89 
+2016,07,16,20:40,Selfless,compLexity,overpass,iBUYPOWER Invitational Summer ..,16,9,8,7,8,2,compLexity,13,22,0.60 
+2016,06,30,20:00,EnVyUs,compLexity,cache,ELEAGUE Season 1,16,8,8,7,8,1,compLexity,12,20,0.63 
+2016,06,30,20:00,EnVyUs,compLexity,dust2,ELEAGUE Season 1,16,9,6,9,10,0,compLexity,6,24,0.23 
+2016,06,29,23:50,Gambit,compLexity,train,ELEAGUE Season 1,16,13,6,9,10,4,compLexity,26,19,1.25 
+2016,06,29,22:40,Gambit,compLexity,cache,ELEAGUE Season 1,14,16,6,9,8,7,compLexity,19,21,0.83 
+2016,06,29,19:15,EnVyUs,compLexity,cobblestone,ELEAGUE Season 1,16,9,8,7,8,2,compLexity,26,21,1.35 
+2016,06,29,18:00,EnVyUs,compLexity,train,ELEAGUE Season 1,16,12,12,3,4,9,compLexity,15,22,0.75 
+2016,06,28,19:10,Virtus.pro,compLexity,cobblestone,ELEAGUE Season 1,16,11,7,8,9,3,compLexity,10,23,0.49 
+2016,06,28,18:00,compLexity,Virtus.pro,overpass,ELEAGUE Season 1,7,16,1,14,6,2,compLexity,13,21,0.64 
+2016,05,23,01:00,EchoFox,compLexity,mirage,ECS Season 1,14,16,6,9,8,7,compLexity,21,18,1.05 
+2016,05,23,01:00,compLexity,EchoFox,inferno,ECS Season 1,16,13,8,7,8,6,compLexity,14,22,0.66 
+2016,05,23,01:00,EchoFox,compLexity,dust2,ECS Season 1,16,11,8,7,8,4,compLexity,14,21,0.74 
+2016,05,21,02:00,Cloud9,compLexity,train,ECS Season 1,16,11,7,8,9,3,compLexity,21,18,1.09 
+2016,05,21,02:00,compLexity,Cloud9,cache,ECS Season 1,14,16,7,8,7,8,compLexity,18,19,0.94 
+2016,05,21,02:00,Cloud9,compLexity,dust2,ECS Season 1,7,16,5,10,2,6,compLexity,21,9,1.54 
+2016,05,19,01:00,Liquid,compLexity,cache,ECS Season 1,16,7,10,5,6,2,compLexity,11,20,0.53 
+2016,05,19,01:00,Liquid,compLexity,dust2,ECS Season 1,16,9,11,4,5,5,compLexity,15,18,0.87 
+2016,05,16,04:45,ZePugGodz,TempoStorm,cobblestone,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Ze Pug Godz,6,19,0.29 
+2016,05,16,04:45,TempoStorm,ZePugGodz,cache,ESEA Premier Season 21 North A..,16,14,6,9,10,5,Ze Pug Godz,14,23,0.64 
+2016,05,15,23:00,ZePugGodz,Kaliber,train,ESEA Premier Season 21 North A..,16,10,8,7,8,3,Ze Pug Godz,28,16,1.46 
+2016,05,15,23:00,Kaliber,ZePugGodz,cache,ESEA Premier Season 21 North A..,18,22,6,9,9,6,Ze Pug Godz,32,23,1.28 
+2016,05,15,23:00,ZePugGodz,Kaliber,mirage,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Ze Pug Godz,13,17,0.75 
+2016,05,06,01:00,OpTic,compLexity,inferno,ECS Season 1,11,16,3,12,8,4,compLexity,19,17,1.08 
+2016,05,06,01:00,compLexity,OpTic,cache,ECS Season 1,3,16,2,13,1,3,compLexity,9,14,0.85 
+2016,05,06,01:00,compLexity,OpTic,train,ECS Season 1,16,2,13,2,3,0,compLexity,12,8,1.11 
+2016,05,02,04:00,compLexity,Luminosity,mirage,ECS Season 1,13,16,4,11,9,5,compLexity,19,21,0.91 
+2016,05,02,04:00,Luminosity,compLexity,dust2,ECS Season 1,16,6,12,3,4,3,compLexity,15,18,0.93 
+2016,05,01,01:00,TSM,compLexity,dust2,ECS Season 1,14,16,7,8,7,8,compLexity,25,17,1.36 
+2016,05,01,01:00,TSM,compLexity,mirage,ECS Season 1,16,19,11,4,4,11,compLexity,25,24,1.02 
+2016,04,28,04:15,CLG,compLexity,mirage,ECS Season 1,16,14,10,5,6,9,compLexity,19,18,0.93 
+2016,04,28,04:15,compLexity,CLG,cache,ECS Season 1,13,16,5,10,8,6,compLexity,15,19,0.79 
+2016,04,19,04:00,compLexity,WithoutaRoof,mirage,ECS Season 1,11,16,5,10,6,6,compLexity,21,17,1.21 
+2016,04,19,04:00,compLexity,WithoutaRoof,cache,ECS Season 1,10,16,6,9,4,7,compLexity,13,19,0.73 
+2016,04,15,05:00,Cloud9,ZePugGodz,inferno,CEVO Gfinity Professional Seas..,16,2,13,2,3,0,Ze Pug Godz,8,16,0.49 
+2016,04,15,05:00,ZePugGodz,Cloud9,overpass,CEVO Gfinity Professional Seas..,10,16,7,8,3,8,Ze Pug Godz,22,17,1.21 
+2016,04,15,05:00,ZePugGodz,Cloud9,cache,CEVO Gfinity Professional Seas..,16,9,7,8,9,1,Ze Pug Godz,25,15,1.49 
+2016,04,15,02:15,Winterfox,ZePugGodz,cache,CEVO Gfinity Professional Seas..,10,16,6,9,4,7,Ze Pug Godz,21,15,1.18 
+2016,04,15,02:15,ZePugGodz,Winterfox,overpass,CEVO Gfinity Professional Seas..,7,16,5,10,2,6,Ze Pug Godz,15,18,0.82 
+2016,04,15,02:15,ZePugGodz,Winterfox,cobblestone,CEVO Gfinity Professional Seas..,16,13,6,9,10,4,Ze Pug Godz,26,16,1.41 
+2016,04,09,01:00,Splyce,EchoFox,dust2,ECS Season 1 Qualifier,11,16,8,7,3,9,Splyce,6,13,0.63 
+2016,03,25,04:00,KKona,Obey.Alliance,inferno,Stream.me Gauntlet ,13,16,9,6,4,10,KKona,17,20,0.88 
+2016,03,25,04:00,Obey.Alliance,KKona,cache,Stream.me Gauntlet ,16,5,10,5,6,0,KKona,18,18,1.03 
+2016,03,25,04:00,Obey.Alliance,KKona,overpass,Stream.me Gauntlet ,12,16,7,8,5,8,KKona,20,17,1.06 
+2015,12,16,04:30,ACE,UMass,cache,QuickShot Arena NA #2,13,16,4,11,9,5,ACE,14,24,0.62 
+2015,12,16,03:30,ACE,Incursion,cache,QuickShot Arena NA #2,16,4,12,3,4,1,ACE,21,9,1.82 
+2015,12,06,00:00,3sUP,ACE,cobblestone,Northern Arena 2015,8,16,5,10,3,6,ACE,24,13,1.50 
+2015,12,05,22:00,CLG,ACE,mirage,Northern Arena 2015,16,11,9,6,7,5,ACE,26,19,1.24 
+2015,12,05,20:00,ACE,Nexus,inferno,Northern Arena 2015,7,16,3,12,4,4,ACE,19,18,1.07 
+2015,12,02,02:45,Nexus,AstralAuthority,cache,QuickShot Arena NA #1,14,16,10,5,4,11,Nexus,24,21,1.09 
+2015,12,01,04:15,Nexus,Gosu,dust2,QuickShot Arena NA #1,14,16,10,5,4,11,Nexus,25,17,1.22 
+2015,12,01,04:15,Nexus,Gosu,cache,QuickShot Arena NA #1,12,16,8,7,4,9,Nexus,19,18,1.23 
+2015,11,12,02:00,ACE,3sUP,cobblestone,SL i-League StarSeries XIV,16,8,11,4,5,4,ACE,24,12,1.44 
+2015,11,12,02:00,3sUP,ACE,train,SL i-League StarSeries XIV,5,16,1,14,4,2,ACE,20,11,1.35 
+2015,11,12,02:00,ACE,3sUP,dust2,SL i-League StarSeries XIV,7,16,5,10,2,6,ACE,12,18,0.74 
+2015,09,30,02:00,CLG,ACE,cobblestone,RGN Freedom Cup,16,6,12,3,4,3,ACE,11,17,0.74 
+2015,09,23,02:00,ACE,Conquest,cobblestone,RGN Freedom Cup,10,16,3,12,7,4,ACE,17,23,0.82 
+2015,09,15,03:30,ACE,Leader-1,cache,RGN Freedom Cup,16,8,12,3,4,5,ACE,23,10,1.54 
+2015,09,06,20:50,ACE,GamesAcademy,dust2,WinOut $20,000 CS:GO Champions..,10,16,3,12,7,4,ACE,15,18,0.91 
+2015,09,06,20:50,ACE,GamesAcademy,cache,WinOut $20,000 CS:GO Champions..,13,16,7,8,6,8,ACE,30,22,1.56 
+2015,09,06,20:50,GamesAcademy,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,ACE,24,17,1.46 
+2015,09,06,16:00,Nexus,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,14,16,7,8,7,8,ACE,27,20,1.29 
+2015,09,06,16:00,Nexus,ACE,cache,WinOut $20,000 CS:GO Champions..,16,13,10,5,6,8,ACE,21,23,0.91 
+2015,09,06,16:00,ACE,Nexus,overpass,WinOut $20,000 CS:GO Champions..,16,13,12,3,4,10,ACE,22,22,0.93 
+2015,09,06,01:30,ACE,3sUP,dust2,WinOut $20,000 CS:GO Champions..,11,16,10,5,1,11,ACE,20,21,1.01 
+2015,09,06,01:30,3sUP,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,19,15,10,5,5,10,ACE,37,27,1.44 
+2015,09,05,04:00,ACE,Excellence,mirage,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,ACE,19,8,1.56 
+2015,09,05,02:55,CLG,ACE,dust2,WinOut $20,000 CS:GO Champions..,16,6,10,5,6,1,ACE,8,16,0.58 
+2015,09,05,02:00,ACE,Excellence,cobblestone,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,ACE,23,13,1.67 
+2015,08,12,02:45,ACE,BTY,train,WinOut.net 20k Qualifier #2,14,16,12,3,2,13,ACE,16,18,0.91 
+2015,08,12,02:45,BTY,ACE,cache,WinOut.net 20k Qualifier #2,6,16,5,10,1,6,ACE,26,6,1.90 
+2015,08,12,02:45,ACE,BTY,cobblestone,WinOut.net 20k Qualifier #2,12,16,6,9,6,7,ACE,12,20,0.65 
+2015,05,06,02:00,ACE,TempoStorm,dust2,ESL ESEA Pro League Season 1,6,16,1,14,5,2,ACE,11,18,0.65 
+2015,05,05,03:00,CLG,ACE,overpass,ESL ESEA Pro League Season 1,16,1,14,1,2,0,ACE,11,17,0.64 
+2015,05,05,01:00,ACE,CLG,inferno,CEVO Professional Season 7,10,16,8,7,2,9,ACE,6,16,0.53 
+2015,05,05,01:00,CLG,ACE,dust2,CEVO Professional Season 7,16,10,12,3,4,7,ACE,15,20,0.80 

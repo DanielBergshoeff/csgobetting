@@ -1,0 +1,149 @@
+2015,08,12,17:30,ROCCAT,Nostalgie,mirage,Uprise Champions Cup Season 3,11,16,8,7,3,9,ROCCAT,15,21,0.80 
+2015,08,12,17:30,Nostalgie,ROCCAT,inferno,Uprise Champions Cup Season 3,16,13,10,5,6,8,ROCCAT,17,22,0.85 
+2015,08,12,17:30,ROCCAT,Nostalgie,dust2,Uprise Champions Cup Season 3,16,4,12,3,4,1,ROCCAT,19,11,1.36 
+2015,08,07,17:00,PiTER,ROCCAT,mirage,Uprise Champions Cup Season 3,16,5,11,4,5,1,ROCCAT,10,19,0.50 
+2015,08,07,17:00,ROCCAT,PiTER,cache,Uprise Champions Cup Season 3,16,19,9,6,6,9,ROCCAT,22,24,0.91 
+2015,08,01,20:15,ROCCAT,eBettle,mirage,Assembly Summer 2015 AMD CS:GO..,12,16,9,6,3,10,ROCCAT,20,24,0.90 
+2015,08,01,20:15,eBettle,ROCCAT,dust2,Assembly Summer 2015 AMD CS:GO..,7,16,7,8,0,8,ROCCAT,19,14,1.21 
+2015,08,01,20:15,ROCCAT,eBettle,cobblestone,Assembly Summer 2015 AMD CS:GO..,18,22,10,5,5,10,ROCCAT,25,26,0.94 
+2015,08,01,13:00,Jynttä,ROCCAT,inferno,Assembly Summer 2015 AMD CS:GO..,13,16,7,8,6,8,ROCCAT,20,15,1.11 
+2015,08,01,13:00,ROCCAT,Jynttä,dust2,Assembly Summer 2015 AMD CS:GO..,16,4,11,4,5,0,ROCCAT,20,6,1.55 
+2015,07,30,20:00,SkitLite,ROCCAT,cache,Assembly Summer 2015 AMD CS:GO..,8,16,5,10,3,6,ROCCAT,23,11,1.58 
+2015,07,30,18:00,ROCCAT,eBettle,dust2,Assembly Summer 2015 AMD CS:GO..,13,16,4,11,9,5,ROCCAT,15,17,0.81 
+2015,07,30,16:00,ROCCAT,KappaKappa,mirage,Assembly Summer 2015 AMD CS:GO..,16,4,14,1,2,3,ROCCAT,20,10,1.68 
+2015,07,26,16:35,ROCCAT,G2,cache,ESL One Cologne 2015 European ..,5,16,2,13,3,3,ROCCAT,11,17,0.68 
+2015,07,26,14:15,ROCCAT,k1ck,cobblestone,ESL One Cologne 2015 European ..,9,16,3,12,6,4,ROCCAT,17,20,0.92 
+2015,06,28,15:30,ENCORE,SihirdarRehberi,inferno,ESL One Cologne 2015 EU pre-qu..,16,4,11,4,5,0,ENCORE,12,9,1.10 
+2015,06,28,15:30,ENCORE,SihirdarRehberi,cache,ESL One Cologne 2015 EU pre-qu..,16,11,9,6,7,5,ENCORE,16,17,0.88 
+2015,06,02,18:30,ENCORE,HellRaisers,cache,Acer Predator Masters powered ..,13,16,10,5,3,11,ENCORE,25,19,1.30 
+2015,06,02,18:30,HellRaisers,ENCORE,train,Acer Predator Masters powered ..,16,1,14,1,2,0,ENCORE,12,16,0.77 
+2015,05,27,21:45,LGB,ENCORE,inferno,Acer Predator Masters powered ..,16,9,8,7,8,2,ENCORE,13,19,0.70 
+2015,05,27,21:45,ENCORE,LGB,dust2,Acer Predator Masters powered ..,9,16,7,8,2,8,ENCORE,7,19,0.43 
+2015,05,27,21:45,ENCORE,LGB,cache,Acer Predator Masters powered ..,16,8,10,5,6,3,ENCORE,17,13,1.04 
+2015,05,27,20:00,ENCORE,LDLCBlue,dust2,RGN Pro Series EU,11,16,5,10,6,6,ENCORE,19,19,1.00 
+2015,05,26,21:30,Epsilon,ENCORE,mirage,RGN Pro Series EU,16,12,10,5,6,7,ENCORE,21,21,1.06 
+2015,05,26,20:00,dignitas,ENCORE,cache,RGN Pro Series EU,16,7,10,5,6,2,ENCORE,6,19,0.44 
+2015,05,18,20:15,SK,ENCORE,dust2,Acer Predator Masters powered ..,16,4,11,4,5,0,ENCORE,8,19,0.37 
+2015,05,18,20:15,SK,ENCORE,inferno,Acer Predator Masters powered ..,16,9,12,3,4,6,ENCORE,14,21,0.88 
+2015,05,18,20:15,ENCORE,SK,cobblestone,Acer Predator Masters powered ..,16,6,10,5,6,1,ENCORE,20,12,1.46 
+2015,05,13,19:00,G2,ENCORE,mirage,Counter Pit League Qualifier,16,7,9,6,7,1,ENCORE,13,21,0.59 
+2015,05,13,19:00,G2,ENCORE,dust2,Counter Pit League Qualifier,7,16,2,13,5,3,ENCORE,18,10,1.24 
+2015,05,13,19:00,ENCORE,G2,cache,Counter Pit League Qualifier,7,16,4,11,3,5,ENCORE,16,18,0.94 
+2015,05,11,21:00,ENCORE,Acer,cache,Acer Predator Masters powered ..,14,16,10,5,4,11,ENCORE,23,21,1.07 
+2015,05,11,21:00,ENCORE,Acer,mirage,Acer Predator Masters powered ..,12,16,9,6,3,10,ENCORE,22,21,1.03 
+2015,05,11,18:00,ENCORE,TSM,mirage,Acer Predator Masters powered ..,5,16,3,12,2,4,ENCORE,10,20,0.49 
+2015,05,11,18:00,TSM,ENCORE,cache,Acer Predator Masters powered ..,16,2,13,2,3,0,ENCORE,11,16,0.76 
+2015,05,07,22:15,ENCORE,x6tence,mirage,Counter Pit League Qualifier,22,18,10,5,5,10,ENCORE,31,29,1.13 
+2015,05,07,22:15,x6tence,ENCORE,inferno,Counter Pit League Qualifier,11,16,8,7,3,9,ENCORE,11,18,0.70 
+2015,04,23,20:00,FlipSid3,ENCORE,nuke,Game Show CS:GO League Season ..,14,16,10,5,4,11,ENCORE,17,24,0.71 
+2015,04,23,20:00,ENCORE,FlipSid3,mirage,Game Show CS:GO League Season ..,10,16,7,8,3,8,ENCORE,21,22,1.05 
+2015,04,23,20:00,FlipSid3,ENCORE,inferno,Game Show CS:GO League Season ..,8,16,4,11,4,5,ENCORE,10,18,0.58 
+2015,04,11,18:10,3DMAX,Titan,cobblestone,ESL Pro League Winter 2014/15 ..,6,16,1,14,5,2,3DMAX,13,15,0.86 
+2015,04,11,18:10,Titan,3DMAX,dust2,ESL Pro League Winter 2014/15 ..,10,16,3,12,7,4,3DMAX,28,15,1.51 
+2015,04,11,18:10,3DMAX,Titan,inferno,ESL Pro League Winter 2014/15 ..,14,16,9,6,5,10,3DMAX,14,20,0.75 
+2015,04,11,13:40,3DMAX,CPHWolves,nuke,ESL Pro League Winter 2014/15 ..,16,14,7,8,9,6,3DMAX,24,16,1.24 
+2015,04,11,13:40,CPHWolves,3DMAX,cobblestone,ESL Pro League Winter 2014/15 ..,7,16,7,8,0,8,3DMAX,13,12,0.96 
+2015,04,10,15:35,Titan,3DMAX,nuke,ESL Pro League Winter 2014/15 ..,16,8,13,2,3,6,3DMAX,16,19,0.82 
+2015,04,10,15:35,3DMAX,Titan,inferno,ESL Pro League Winter 2014/15 ..,17,19,9,6,6,9,3DMAX,34,22,1.46 
+2015,04,04,15:15,FlipSid3,3DMAX,cache,Copenhagen Games 2015,19,17,11,4,4,11,3DMAX,26,23,1.08 
+2015,04,04,13:30,Property,3DMAX,dust2,Copenhagen Games 2015,5,16,2,13,3,3,3DMAX,17,14,1.14 
+2015,04,04,12:00,INSHOCK,3DMAX,nuke,Copenhagen Games 2015,12,16,11,4,1,12,3DMAX,22,17,1.08 
+2015,04,04,10:00,3DMAX,Lemondogs,cache,Copenhagen Games 2015,16,6,11,4,5,2,3DMAX,23,12,1.55 
+2015,04,03,22:30,CPHWolves,3DMAX,mirage,Copenhagen Games 2015,16,8,12,3,4,5,3DMAX,15,19,0.89 
+2015,04,03,22:30,CPHWolves,3DMAX,overpass,Copenhagen Games 2015,16,1,14,1,2,0,3DMAX,6,17,0.40 
+2015,04,03,22:30,CPHWolves,3DMAX,nuke,Copenhagen Games 2015,8,16,8,7,0,9,3DMAX,19,12,1.34 
+2015,04,03,15:30,Orbit,3DMAX,nuke,Copenhagen Games 2015,9,16,8,7,1,9,3DMAX,26,12,1.69 
+2015,04,03,15:30,Orbit,3DMAX,cache,Copenhagen Games 2015,15,19,10,5,5,10,3DMAX,19,25,0.73 
+2015,04,03,12:00,Games4u,3DMAX,inferno,Copenhagen Games 2015,13,16,10,5,3,11,3DMAX,18,17,1.06 
+2015,04,03,12:00,3DMAX,Games4u,dust2,Copenhagen Games 2015,16,8,10,5,6,3,3DMAX,21,13,1.35 
+2015,03,12,21:00,TSM,3DMAX,nuke,ESL One Katowice 2015,16,10,11,4,5,6,3DMAX,20,19,1.00 
+2015,03,12,19:35,Virtus.pro,3DMAX,overpass,ESL One Katowice 2015,16,5,12,3,4,2,3DMAX,11,18,0.61 
+2015,02,15,20:25,3DMAX,mousesports,cache,ESL One Katowice 2015 Main Qua..,16,8,9,6,7,2,3DMAX,9,13,0.71 
+2015,02,15,17:50,3DMAX,ESC,mirage,ESL One Katowice 2015 Main Qua..,16,8,9,6,7,2,3DMAX,13,13,0.90 
+2015,02,15,15:00,VoxEminor,3DMAX,mirage,ESL One Katowice 2015 Main Qua..,16,11,10,5,6,6,3DMAX,17,19,0.85 
+2015,01,31,00:45,Titan,3DMAX,cache,ASUS ROG Winter 2015,16,12,6,9,10,3,3DMAX,12,22,0.55 
+2015,01,30,23:35,NiP,3DMAX,nuke,ASUS ROG Winter 2015,16,2,13,2,3,0,3DMAX,10,18,0.53 
+2015,01,30,22:00,Titan,3DMAX,mirage,ASUS ROG Winter 2015,13,16,8,7,5,9,3DMAX,15,23,0.66 
+2015,01,14,19:00,3DMAX,myKPV,nuke,ESL Pro League Winter 2014/15,16,4,11,4,5,0,3DMAX,13,11,1.11 
+2015,01,14,18:59,3DMAX,myKPV,mirage,ESL Pro League Winter 2014/15,16,10,9,6,7,4,3DMAX,21,18,1.22 
+2014,12,15,13:00,Availer'sStars,kassad'sLegends,mirage,European Legends Showmatch 201..,7,16,3,12,4,4,kassad's Legends,13,14,0.84 
+2014,12,14,19:15,Finland,Sweden,mirage,European Championship 2014 LAN..,8,16,7,8,1,8,Finland,20,17,1.18 
+2014,12,14,19:15,Finland,Sweden,cache,European Championship 2014 LAN..,5,16,5,10,0,6,Finland,8,16,0.65 
+2014,12,14,12:30,Finland,Poland,cache,European Championship 2014 LAN..,11,16,9,6,2,10,Finland,16,21,0.78 
+2014,12,14,12:30,Poland,Finland,dust2,European Championship 2014 LAN..,16,8,10,5,6,3,Finland,17,17,1.00 
+2014,12,11,18:00,LDLC,3DMAX,overpass,G2A.com December Cup Powered b..,16,11,12,3,4,8,3DMAX,15,19,0.83 
+2014,12,11,18:00,LDLC,3DMAX,dust2,G2A.com December Cup Powered b..,16,9,10,5,6,4,3DMAX,13,21,0.80 
+2014,12,10,20:45,3DMAX,myXMG,cobblestone,ESL Pro League Winter 2014/15,1,16,1,14,0,2,3DMAX,4,16,0.24 
+2014,12,10,20:45,myXMG,3DMAX,overpass,ESL Pro League Winter 2014/15,16,8,10,5,6,3,3DMAX,18,20,0.98 
+2014,12,08,18:00,Clutchit.org,3DMAX,dust2,99Damage Arena #2,16,14,9,6,7,8,3DMAX,12,21,0.62 
+2014,12,08,18:00,3DMAX,Clutchit.org,mirage,99Damage Arena #2,6,16,6,9,0,7,3DMAX,12,19,0.59 
+2014,12,08,18:00,Clutchit.org,3DMAX,overpass,99Damage Arena #2,13,16,9,6,4,10,3DMAX,21,21,1.01 
+2014,11,22,13:00,3DMAX,CPHWolves,dust2,DreamHack Winter 2014 Last Cal..,14,16,9,6,5,10,3DMAX,9,20,0.56 
+2014,11,22,13:00,3DMAX,CPHWolves,nuke,DreamHack Winter 2014 Last Cal..,12,16,6,9,6,7,3DMAX,22,16,1.21 
+2014,11,22,13:00,3DMAX,CPHWolves,mirage,DreamHack Winter 2014 Last Cal..,16,7,12,3,4,4,3DMAX,24,12,1.56 
+2014,11,06,17:00,Slovakia,Finland,overpass,European Championship 2014,12,16,11,4,1,12,Finland,16,17,0.86 
+2014,11,06,17:00,Finland,Slovakia,dust2,European Championship 2014,16,4,11,4,5,0,Finland,15,9,1.22 
+2014,10,31,17:30,3DMAX,GPlay,mirage,ESWC 2014,13,16,9,6,4,10,3DMAX,18,20,0.97 
+2014,10,31,15:30,3DMAX,iBUYPOWER,nuke,ESWC 2014,11,16,10,5,1,11,3DMAX,16,18,0.81 
+2014,10,31,12:40,mousesports,3DMAX,dust2,ESWC 2014,16,9,11,4,5,5,3DMAX,11,19,0.63 
+2014,10,31,11:30,3DMAX,Cipangu.GO,cache,ESWC 2014,16,2,13,2,3,0,3DMAX,17,7,1.51 
+2014,10,31,09:45,dignitas,3DMAX,dust2,ESWC 2014,16,2,13,2,3,0,3DMAX,6,17,0.42 
+2014,10,28,22:00,Belarus,Finland,cache,European Championship 2014,5,16,1,14,4,2,Finland,15,14,1.01 
+2014,10,28,22:00,Finland,Belarus,dust2,European Championship 2014,16,7,11,4,5,3,Finland,15,12,1.09 
+2014,10,28,22:00,Finland,Belarus,mirage,European Championship 2014,14,16,9,6,5,10,Finland,21,20,1.05 
+2014,10,21,18:00,FlipSid3,3DMAX,cache,DreamHack Winter 2014 EU Close..,21,18,7,8,8,7,3DMAX,25,23,1.01 
+2014,10,21,18:00,3DMAX,FlipSid3,overpass,DreamHack Winter 2014 EU Close..,16,4,14,1,2,3,3DMAX,18,11,1.35 
+2014,10,21,18:00,FlipSid3,3DMAX,mirage,DreamHack Winter 2014 EU Close..,16,8,11,4,5,4,3DMAX,8,21,0.48 
+2014,10,05,21:00,3DMAX,GPlay,nuke,ESWC 2014 European Qualifier,19,16,12,3,3,12,3DMAX,21,26,0.93 
+2014,10,05,21:00,GPlay,3DMAX,cache,ESWC 2014 European Qualifier,4,16,4,11,0,5,3DMAX,16,8,1.36 
+2014,10,05,12:40,mousesports,3DMAX,dust2,ESWC 2014 European Qualifier,4,16,4,11,0,5,3DMAX,21,10,1.52 
+2014,10,05,12:40,3DMAX,mousesports,nuke,ESWC 2014 European Qualifier,16,14,10,5,6,9,3DMAX,22,16,1.21 
+2014,10,05,12:40,mousesports,3DMAX,mirage,ESWC 2014 European Qualifier,16,7,13,2,3,5,3DMAX,13,19,0.71 
+2014,10,05,00:00,Menace,ROTY,cache,Areena #5 by ROCCAT,4,16,3,12,1,4,ROTY,13,12,0.93 
+2014,10,05,00:00,ROTY,Menace,dust2,Areena #5 by ROCCAT,16,7,11,4,5,3,ROTY,20,15,1.21 
+2014,10,04,22:50,ROTY,Jynttä,mirage,Areena #5 by ROCCAT,16,12,9,6,7,6,ROTY,15,19,0.77 
+2014,10,04,22:50,Jynttä,ROTY,nuke,Areena #5 by ROCCAT,5,16,4,11,1,5,ROTY,15,12,1.08 
+2014,10,04,18:00,PlayingDucks,3DMAX,dust2,ESWC 2014 European Qualifier,10,16,7,8,3,8,3DMAX,13,13,1.00 
+2014,10,04,18:00,3DMAX,PlayingDucks,mirage,ESWC 2014 European Qualifier,16,9,9,6,7,3,3DMAX,24,14,1.59 
+2014,10,04,15:00,ROTY,Jynttä,mirage,Areena #5 by ROCCAT,15,15,9,6,6,9,ROTY,26,16,1.34 
+2014,10,04,14:15,ROTY,GLSHAKER,cache,Areena #5 by ROCCAT,16,6,9,6,7,0,ROTY,16,10,1.26 
+2014,10,04,12:40,Hanatauki,ROTY,dust2,Areena #5 by ROCCAT,9,16,3,12,6,4,ROTY,14,14,0.90 
+2014,10,04,12:00,ROTY,Superstars,dust2,Areena #5 by ROCCAT,16,3,13,2,3,1,ROTY,19,10,1.62 
+2014,10,04,11:00,ROTY,myMDL,mirage,Areena #5 by ROCCAT,13,16,10,5,3,11,ROTY,25,21,1.17 
+2014,10,04,10:00,ROTY,Menace,mirage,Areena #5 by ROCCAT,14,16,12,3,2,13,ROTY,29,22,1.26 
+2014,09,28,21:15,Serbia,Finland,mirage,European Championship 2014,16,12,11,4,5,8,Finland,23,20,1.04 
+2014,09,28,17:00,Sweden,Finland,mirage,European Championship 2014,13,16,7,8,6,8,Finland,16,19,0.86 
+2014,09,26,13:45,LDLC,3DMAX,dust2,DreamHack Stockholm CS:GO Invi..,16,12,9,6,7,6,3DMAX,18,21,0.91 
+2014,09,26,13:45,3DMAX,LDLC,cache,DreamHack Stockholm CS:GO Invi..,8,16,7,8,1,8,3DMAX,15,18,0.80 
+2014,09,25,22:55,dignitas,3DMAX,dust2,DreamHack Stockholm CS:GO Invi..,17,19,4,11,11,4,3DMAX,20,21,0.97 
+2014,09,25,21:55,CPHWolves,3DMAX,cache,DreamHack Stockholm CS:GO Invi..,13,16,6,9,7,7,3DMAX,29,17,1.55 
+2014,09,25,19:00,fnatic,3DMAX,cache,DreamHack Stockholm CS:GO Invi..,16,4,11,4,5,0,3DMAX,9,16,0.71 
+2014,09,17,21:20,3DMAX,Planetkey,nuke,Game Show CS:GO League,16,14,8,7,8,7,3DMAX,24,19,1.14 
+2014,09,17,19:00,3DMAX,dAT,nuke,Game Show CS:GO League,16,5,11,4,5,1,3DMAX,17,10,1.32 
+2014,09,16,18:00,3DMAX,HellRaisers,nuke,Game Show CS:GO League,10,16,7,8,3,8,3DMAX,19,21,0.97 
+2014,08,27,19:00,Finland,Slovenia,inferno,European Championship 2014 Qua..,16,8,11,4,5,4,Finland,13,15,0.81 
+2014,08,27,19:00,Slovenia,Finland,mirage,European Championship 2014 Qua..,13,16,7,8,6,8,Finland,24,20,1.22 
+2014,08,25,21:20,HellRaisers,TMVG,nuke,FACEIT League 2 EU Closed Qual..,16,10,9,6,7,4,TMVG,20,20,1.01 
+2014,08,25,20:00,MTW,TMVG,mirage,FACEIT League 2 EU Closed Qual..,11,16,6,9,5,7,TMVG,27,14,1.57 
+2014,08,24,22:30,NewStyle,TMVG,dust2,FACEIT League 2 EU pre-qualifi..,13,16,4,11,9,5,TMVG,19,15,1.03 
+2014,08,21,18:00,NiP,ENCORE,nuke,Caseking of the Hill #5,16,3,14,1,2,2,ENCORE,2,12,0.39 
+2014,08,02,21:15,ENCORE,myRevenge,inferno,ASUS ROG Summer 2014,8,16,5,10,3,6,ENCORE,22,19,1.23 
+2014,08,02,21:15,myRevenge,ENCORE,dust2,ASUS ROG Summer 2014,4,16,4,11,0,5,ENCORE,18,9,1.30 
+2014,08,02,21:15,myRevenge,ENCORE,mirage,ASUS ROG Summer 2014,16,5,10,5,6,0,ENCORE,20,15,1.28 
+2014,08,02,18:00,Nostalgie,ENCORE,dust2,ASUS ROG Summer 2014,17,19,6,9,9,6,ENCORE,22,20,1.02 
+2014,08,02,18:00,Nostalgie,ENCORE,inferno,ASUS ROG Summer 2014,16,2,13,2,3,0,ENCORE,7,17,0.47 
+2014,08,02,18:00,ENCORE,Nostalgie,nuke,ASUS ROG Summer 2014,16,10,11,4,5,6,ENCORE,27,13,1.65 
+2014,08,02,09:40,Expert,ENCORE,inferno,ASUS ROG Summer 2014,10,16,7,8,3,8,ENCORE,13,16,0.82 
+2014,08,02,09:40,ENCORE,Expert,nuke,ASUS ROG Summer 2014,16,9,11,4,5,5,ENCORE,23,14,1.41 
+2014,07,31,22:30,ENCORE,myRevenge,mirage,ASUS ROG Summer 2014,16,2,13,2,3,0,ENCORE,21,8,1.81 
+2014,07,31,21:30,ENCORE,naMNam,mirage,ASUS ROG Summer 2014,16,4,11,4,5,0,ENCORE,20,7,1.60 
+2014,07,27,22:30,ENCORE,CPHWolves,nuke,ESL One Cologne 2014 European ..,5,16,4,11,1,5,ENCORE,9,17,0.65 
+2014,07,27,22:30,CPHWolves,ENCORE,inferno,ESL One Cologne 2014 European ..,16,9,8,7,8,2,ENCORE,7,20,0.42 
+2014,07,27,15:30,ENCORE,k1ck,inferno,ESL One Cologne 2014 European ..,16,9,12,3,4,6,ENCORE,15,16,0.86 
+2014,07,27,15:30,ENCORE,k1ck,dust2,ESL One Cologne 2014 European ..,16,12,10,5,6,7,ENCORE,27,15,1.54 
+2014,07,27,13:00,Titan,ENCORE,mirage,ESL One Cologne 2014 European ..,16,3,12,3,4,0,ENCORE,9,17,0.54 
+2014,07,27,13:00,ENCORE,Titan,inferno,ESL One Cologne 2014 European ..,7,16,3,12,4,4,ENCORE,13,18,0.67 
+2014,07,26,15:45,Planetkey,ENCORE,inferno,ESL One Cologne 2014 European ..,13,16,8,7,5,9,ENCORE,14,20,0.70 
+2014,07,26,15:45,ENCORE,Planetkey,nuke,ESL One Cologne 2014 European ..,16,11,10,5,6,6,ENCORE,16,15,0.92 
+2014,06,22,13:00,Refuse,dignitas,nuke,Team Dignitas CS:GO SCAN Invit..,4,16,4,11,0,5,Refuse,11,16,0.77 
+2014,06,22,13:00,dignitas,Refuse,mirage,Team Dignitas CS:GO SCAN Invit..,16,9,12,3,4,6,Refuse,13,19,0.72 

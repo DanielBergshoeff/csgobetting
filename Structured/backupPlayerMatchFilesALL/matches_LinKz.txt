@@ -1,0 +1,10 @@
+2016,08,12,03:15,ForceofNature,TeamOne,cache,ESEA Open Season 22 Brazil,13,16,5,10,8,6,Force of Nature,20,20,0.99 
+2016,08,12,03:15,ForceofNature,TeamOne,train,ESEA Open Season 22 Brazil,10,16,6,9,4,7,Force of Nature,13,20,0.70 
+2016,08,09,03:30,ForceofNature,LDDM,overpass,ESEA Open Season 22 Brazil,16,10,10,5,6,5,Force of Nature,16,15,0.93 
+2016,08,09,03:30,ForceofNature,LDDM,dust2,ESEA Open Season 22 Brazil,9,16,4,11,5,5,Force of Nature,19,15,1.17 
+2016,08,09,03:30,ForceofNature,LDDM,mirage,ESEA Open Season 22 Brazil,16,14,7,8,9,6,Force of Nature,21,20,0.90 
+2016,07,22,23:15,Chile,Brazil,cobblestone,World Championships 2016 South..,8,16,4,11,4,5,Chile,5,18,0.40 
+2016,07,22,23:15,Chile,Brazil,dust2,World Championships 2016 South..,6,16,5,10,1,6,Chile,12,18,0.87 
+2016,07,08,23:00,Venezuela,Chile,cobblestone,World Championships 2016 South..,3,16,3,12,0,4,Chile,21,7,1.96 
+2016,07,08,23:00,Chile,Venezuela,cache,World Championships 2016 South..,16,12,5,10,11,2,Chile,34,15,1.72 
+2016,07,08,23:00,Venezuela,Chile,mirage,World Championships 2016 South..,16,7,10,5,6,2,Chile,21,18,1.17 

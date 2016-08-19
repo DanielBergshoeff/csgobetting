@@ -1,0 +1,7 @@
+2016,07,17,04:45,TEAM1231,iNation,cache,GamePub 2016,12,16,4,11,8,5,iNation,14,19,0.72 
+2016,07,17,04:45,TEAM1231,iNation,mirage,GamePub 2016,11,16,6,9,5,7,iNation,11,17,0.66 
+2016,07,16,22:30,iNation,faithIN,dust2,GamePub 2016,16,10,8,7,8,3,iNation,16,14,0.98 
+2016,07,16,22:30,faithIN,iNation,cache,GamePub 2016,16,7,8,7,8,0,iNation,13,16,0.82 
+2016,07,16,22:30,iNation,faithIN,train,GamePub 2016,16,6,9,6,7,0,iNation,21,13,1.34 
+2016,07,16,13:00,EZPZ_LS,iNation,cache,GamePub 2016,11,16,6,9,5,7,iNation,13,18,0.80 
+2016,07,16,13:00,iNation,EZPZ_LS,dust2,GamePub 2016,16,4,12,3,4,1,iNation,16,11,1.12 

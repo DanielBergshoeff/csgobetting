@@ -1,0 +1,4 @@
+2015,09,25,21:30,Skyred,Vexed,overpass,DreamHack Open Cluj-Napoca 201..,12,16,10,5,2,11,Skyred,18,21,0.91 
+2015,09,25,21:30,Vexed,Skyred,cache,DreamHack Open Cluj-Napoca 201..,16,14,6,9,10,5,Skyred,26,19,1.31 
+2015,09,25,12:37,Titan,Skyred,dust2,DreamHack Open Cluj-Napoca 201..,16,7,11,4,5,3,Skyred,15,19,0.86 
+2015,09,25,12:30,Titan,Skyred,inferno,DreamHack Open Cluj-Napoca 201..,16,8,10,5,6,3,Skyred,16,18,1.08 

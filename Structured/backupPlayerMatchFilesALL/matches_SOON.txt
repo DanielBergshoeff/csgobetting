@@ -1,0 +1,157 @@
+2016,08,11,17:10,Spirit,PRIDE,mirage,Stream.me Gauntlet EU #1,16,2,13,2,3,0,PRIDE,5,16,0.32 
+2016,08,11,17:10,PRIDE,Spirit,cache,Stream.me Gauntlet EU #1,1,16,1,14,0,2,PRIDE,8,15,0.59 
+2016,08,10,18:15,Tricked,PRIDE,mirage,Stream.me Gauntlet EU #1,16,11,13,2,3,9,PRIDE,15,20,0.78 
+2016,08,10,18:15,PRIDE,Tricked,train,Stream.me Gauntlet EU #1,7,16,6,9,1,7,PRIDE,16,16,0.98 
+2016,08,07,15:00,PRIDE,mixbanan,overpass,ECS Season 2 EU Open Qualifier..,9,16,7,8,2,8,PRIDE,17,17,1.04 
+2016,07,31,16:00,PRIDE,X,nuke,Razer Rising Stars European Le..,14,16,4,11,10,5,PRIDE,15,25,0.65 
+2016,07,31,16:00,X,PRIDE,cobblestone,Razer Rising Stars European Le..,16,14,13,2,3,12,PRIDE,21,19,1.04 
+2016,07,29,16:00,Spirit,PRIDE,nuke,Stream.me Gauntlet EU #1,14,16,5,10,9,6,PRIDE,23,19,1.08 
+2016,07,29,16:00,Spirit,PRIDE,cobblestone,Stream.me Gauntlet EU #1,11,16,7,8,4,8,PRIDE,15,16,0.97 
+2016,07,27,21:00,GODSENT,PRIDE,mirage,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,PRIDE,13,20,0.72 
+2016,07,27,21:00,GODSENT,PRIDE,cobblestone,SL i-League S2 Europe Qualifie..,16,12,8,7,8,5,PRIDE,13,19,0.67 
+2016,07,26,18:10,PRIDE,PENTA,mirage,SL i-League S2 Europe Qualifie..,16,8,11,4,5,4,PRIDE,19,11,1.27 
+2016,07,25,19:15,Kinguin,PRIDE,cache,SL i-League S2 Europe Qualifie..,16,4,13,2,3,2,PRIDE,8,19,0.40 
+2016,07,25,19:15,Kinguin,PRIDE,mirage,SL i-League S2 Europe Qualifie..,16,14,4,11,12,3,PRIDE,17,16,0.93 
+2016,07,21,18:30,PRIDE,Kinguin,mirage,Razer Rising Stars European Le..,16,14,9,6,7,8,PRIDE,26,20,1.21 
+2016,07,21,18:30,Kinguin,PRIDE,cache,Razer Rising Stars European Le..,16,14,9,6,7,8,PRIDE,25,21,1.19 
+2016,07,18,16:00,PRIDE,SpaceSoldiers,mirage,Razer Rising Stars European Le..,14,16,8,7,6,9,PRIDE,24,19,1.18 
+2016,07,18,16:00,SpaceSoldiers,PRIDE,cobblestone,Razer Rising Stars European Le..,16,5,11,4,5,1,PRIDE,8,20,0.38 
+2016,07,17,21:00,Escape,PRIDE,mirage,Razer Rising Stars European Le..,8,16,6,9,2,7,PRIDE,15,15,1.00 
+2016,07,17,21:00,Escape,PRIDE,dust2,Razer Rising Stars European Le..,16,12,6,9,10,3,PRIDE,18,16,1.01 
+2016,07,15,21:10,MK,PRIDE,train,GG Masters,16,12,5,10,11,2,PRIDE,17,18,0.84 
+2016,07,15,21:10,PRIDE,MK,overpass,GG Masters,7,16,6,9,1,7,PRIDE,18,19,0.95 
+2016,07,15,18:00,PRIDE,Unity,cobblestone,GG Masters,6,16,4,11,2,5,PRIDE,8,17,0.57 
+2016,07,15,18:00,PRIDE,Unity,cache,GG Masters,16,19,7,8,8,7,PRIDE,25,21,1.07 
+2016,07,14,19:30,PRIDE,MK,mirage,GG Masters,16,12,9,6,7,6,PRIDE,21,19,1.08 
+2016,07,12,18:00,Spirit,PRIDE,cache,Hitbox Challenger Cup #2,16,9,11,4,5,5,PRIDE,15,20,0.78 
+2016,07,12,18:00,PRIDE,Spirit,nuke,Hitbox Challenger Cup #2,11,16,9,6,2,10,PRIDE,16,22,0.71 
+2016,07,12,18:00,PRIDE,Spirit,mirage,Hitbox Challenger Cup #2,16,14,8,7,8,7,PRIDE,25,19,1.34 
+2016,07,11,19:25,Spirit,PRIDE,cobblestone,xfunction Masters 2016,22,18,8,7,7,8,PRIDE,24,28,0.85 
+2016,07,06,17:25,AGG,PRIDE,cobblestone,BlasterX INETKOX League Season..,16,13,4,11,12,2,PRIDE,17,15,0.94 
+2016,07,06,17:25,PRIDE,AGG,mirage,BlasterX INETKOX League Season..,12,16,8,7,4,9,PRIDE,22,20,1.10 
+2016,07,04,18:00,AGG,PRIDE,mirage,Razer Rising Stars European Le..,16,4,13,2,3,2,PRIDE,9,16,0.66 
+2016,07,04,18:00,PRIDE,AGG,overpass,Razer Rising Stars European Le..,10,16,7,8,3,8,PRIDE,11,14,0.77 
+2016,07,03,21:15,PRIDE,Galatics,cobblestone,xfunction Masters 2016,16,11,8,7,8,4,PRIDE,18,15,0.98 
+2016,06,29,21:00,PRIDE,Kinguin,overpass,Sawik Showmatch,12,16,8,7,4,9,PRIDE,18,24,0.82 
+2016,06,29,21:00,Kinguin,PRIDE,train,Sawik Showmatch,16,7,9,6,7,1,PRIDE,15,19,0.74 
+2016,06,29,18:00,PRIDE,ALTERNATEaTTaX,overpass,Hitbox Challenger Cup #2,12,16,9,6,3,10,PRIDE,17,19,0.87 
+2016,06,29,18:00,ALTERNATEaTTaX,PRIDE,cache,Hitbox Challenger Cup #2,16,3,13,2,3,1,PRIDE,6,17,0.38 
+2016,06,29,18:00,PRIDE,ALTERNATEaTTaX,mirage,Hitbox Challenger Cup #2,16,7,14,1,2,6,PRIDE,17,13,1.22 
+2016,06,28,19:15,PRIDE,SpaceSoldiers,mirage,BlasterX INETKOX League Season..,9,16,8,7,1,9,PRIDE,12,20,0.66 
+2016,06,28,19:15,SpaceSoldiers,PRIDE,train,BlasterX INETKOX League Season..,16,4,14,1,2,3,PRIDE,12,18,0.64 
+2016,06,27,20:30,PRIDE,DenDD,cobblestone,xfunction Masters 2016,10,16,9,6,1,10,PRIDE,13,22,0.63 
+2016,06,15,18:30,PRIDE,DenDD,cobblestone,Razer Rising Stars European Le..,11,16,5,10,6,6,PRIDE,8,20,0.50 
+2016,06,15,18:30,PRIDE,DenDD,train,Razer Rising Stars European Le..,14,16,12,3,2,13,PRIDE,21,19,1.02 
+2016,06,12,16:30,AGG,PRIDE,overpass,X-Kom Clash,16,10,11,4,5,6,PRIDE,15,19,0.81 
+2016,06,12,16:30,PRIDE,AGG,train,X-Kom Clash,4,16,3,12,1,4,PRIDE,15,17,0.89 
+2016,06,12,16:30,PRIDE,AGG,cobblestone,X-Kom Clash,16,9,11,4,5,5,PRIDE,21,17,1.19 
+2016,06,12,13:00,PRIDE,Kinguin,cobblestone,X-Kom Clash,16,10,10,5,6,5,PRIDE,29,14,1.71 
+2016,06,12,13:00,PRIDE,Kinguin,mirage,X-Kom Clash,14,16,8,7,6,9,PRIDE,25,23,1.08 
+2016,06,12,13:00,PRIDE,Kinguin,train,X-Kom Clash,16,3,12,3,4,0,PRIDE,15,9,1.27 
+2016,06,08,18:00,Orbit,PRIDE,dust2,BlasterX INETKOX League Season..,16,10,8,7,8,3,PRIDE,5,23,0.25 
+2016,06,08,18:00,PRIDE,Orbit,train,BlasterX INETKOX League Season..,3,16,2,13,1,3,PRIDE,7,14,0.55 
+2016,06,07,22:30,Tricked,PRIDE,cobblestone,BlasterX INETKOX League Season..,9,16,6,9,3,7,PRIDE,14,12,0.94 
+2016,06,07,22:30,Tricked,PRIDE,train,BlasterX INETKOX League Season..,12,16,7,8,5,8,PRIDE,15,15,0.99 
+2016,06,07,16:00,PRIDE,LDLC,overpass,Razer Rising Stars European Le..,9,16,6,9,3,7,PRIDE,25,17,1.42 
+2016,06,07,16:00,LDLC,PRIDE,nuke,Razer Rising Stars European Le..,14,16,4,11,10,5,PRIDE,23,19,1.09 
+2016,06,06,22:00,PRIDE,iNETKOXTV,nuke,BlasterX INETKOX League Season..,16,14,11,4,5,10,PRIDE,21,19,1.02 
+2016,06,06,22:00,PRIDE,iNETKOXTV,train,BlasterX INETKOX League Season..,14,16,9,6,5,10,PRIDE,21,21,1.00 
+2016,06,06,16:00,PRIDE,Iwku,nuke,Razer Rising Stars European Le..,16,10,11,4,5,6,PRIDE,25,19,1.38 
+2016,06,06,16:00,PRIDE,Iwku,mirage,Razer Rising Stars European Le..,13,16,11,4,2,12,PRIDE,19,21,0.89 
+2016,06,01,22:00,PRIDE,Dobry&Gaming,overpass,BlasterX INETKOX League Season..,7,16,7,8,0,8,PRIDE,21,18,1.27 
+2016,06,01,22:00,Dobry&Gaming,PRIDE,cobblestone,BlasterX INETKOX League Season..,16,9,9,6,7,3,PRIDE,16,21,0.85 
+2016,05,29,12:15,PRIDE,Epsilon,mirage,DreamHack ZOWIE Open Summer 20..,15,19,8,7,7,8,PRIDE,29,23,1.23 
+2016,05,29,12:15,Epsilon,PRIDE,overpass,DreamHack ZOWIE Open Summer 20..,13,16,4,11,9,5,PRIDE,22,17,1.15 
+2016,05,29,12:15,Epsilon,PRIDE,train,DreamHack ZOWIE Open Summer 20..,16,3,12,3,4,0,PRIDE,5,17,0.34 
+2016,05,28,18:00,PRIDE,TOASTBROT,cobblestone,DreamHack ZOWIE Open Summer 20..,16,10,10,5,6,5,PRIDE,20,17,1.24 
+2016,05,26,22:30,PRIDE,PLAYZONE,nuke,Razer Rising Stars European Le..,16,8,10,5,6,3,PRIDE,21,18,1.18 
+2016,05,26,22:30,PLAYZONE,PRIDE,mirage,Razer Rising Stars European Le..,16,9,8,7,8,2,PRIDE,11,21,0.59 
+2016,05,26,20:45,PRIDE,ALTERNATEaTTaX,train,BlasterX INETKOX League Season..,16,14,7,8,9,6,PRIDE,18,15,0.93 
+2016,05,26,20:45,ALTERNATEaTTaX,PRIDE,cache,BlasterX INETKOX League Season..,16,5,12,3,4,2,PRIDE,21,19,1.16 
+2016,05,18,23:05,PENTA,PRIDE,mirage,Razer Rising Stars European Le..,16,2,13,2,3,0,PRIDE,11,17,0.65 
+2016,05,18,23:05,PENTA,PRIDE,dust2,Razer Rising Stars European Le..,16,9,11,4,5,5,PRIDE,11,20,0.62 
+2016,02,07,10:00,nEophyte,ezkatka,cache,Płońsk eSports Chall..,16,12,7,8,9,4,ezkatka,22,19,1.13 
+2016,02,07,10:00,nEophyte,ezkatka,dust2,Płońsk eSports Chall..,16,3,13,2,3,1,ezkatka,6,17,0.41 
+2016,01,05,22:00,ezkatka,nEophyte,cache,D!ngIT $2000 Weekly Cup #32,7,16,5,10,2,6,ezkatka,18,19,1.02 
+2016,01,05,19:30,ezkatka,YP,cache,D!ngIT $2000 Weekly Cup #32,6,16,5,10,1,6,ezkatka,8,18,0.50 
+2015,11,24,21:00,ESC,Fraternitas,mirage,D!ngIT $2000 Weekly Cup #27,14,16,7,8,7,8,ESC,26,14,1.43 
+2015,11,24,18:30,ESC,melty,overpass,D!ngIT $2000 Weekly Cup #27,11,16,7,8,4,8,ESC,22,20,1.13 
+2015,11,24,18:30,ESC,melty,cache,D!ngIT $2000 Weekly Cup #27,11,16,5,10,6,6,ESC,21,20,1.08 
+2015,11,23,17:30,ESC,hard'N'play,dust2,D!ngIT $2000 Weekly Cup #27,16,9,9,6,7,3,ESC,25,13,1.51 
+2015,11,23,17:30,hard'N'play,ESC,mirage,D!ngIT $2000 Weekly Cup #27,21,19,8,7,7,8,ESC,27,31,0.98 
+2015,11,23,17:30,ESC,hard'N'play,cache,D!ngIT $2000 Weekly Cup #27,16,12,11,4,5,8,ESC,20,18,1.03 
+2015,11,17,19:01,ESC,Epsilon,cache,Global Grand Masters #1,16,10,10,5,6,5,ESC,17,18,0.84 
+2015,11,17,19:01,ESC,Epsilon,overpass,Global Grand Masters #1,19,16,9,6,6,9,ESC,26,18,1.27 
+2015,11,16,20:45,ESC,AliGon,mirage,Global Grand Masters #1,16,6,10,5,6,1,ESC,23,13,1.55 
+2015,11,16,18:45,Epsilon,ESC,cache,Global Grand Masters #1,16,12,6,9,10,3,ESC,14,22,0.70 
+2015,11,16,17:30,ESC,nerdRage,cache,Global Grand Masters #1,16,10,7,8,9,2,ESC,25,15,1.30 
+2015,11,11,22:00,Reason,ESC,cache,QuickShot Arena #14,16,14,6,9,10,5,ESC,12,22,0.59 
+2015,11,11,17:00,ESC,RCTIC,cache,QuickShot Arena #14,5,16,2,13,3,3,ESC,4,19,0.26 
+2015,11,11,17:00,ESC,RCTIC,train,QuickShot Arena #14,5,16,3,12,2,4,ESC,7,18,0.42 
+2015,11,09,21:15,PiTER,ESC,mirage,Counter Pit League Season 2 Qu..,19,17,6,9,9,6,ESC,25,24,1.00 
+2015,11,09,21:15,PiTER,ESC,cache,Counter Pit League Season 2 Qu..,19,15,7,8,8,7,ESC,29,22,1.29 
+2015,11,08,12:30,ESC,nerdRage,train,Swelder's Showmatch,16,0,15,0,1,0,ESC,24,5,2.36 
+2015,11,08,12:30,nerdRage,ESC,dust2,Swelder's Showmatch,16,13,9,6,7,7,ESC,18,24,0.76 
+2015,11,08,12:30,ESC,nerdRage,mirage,Swelder's Showmatch,16,8,13,2,3,6,ESC,18,14,1.09 
+2015,11,04,19:30,Reason,ESC,cache,QuickShot Arena #13,16,9,8,7,8,2,ESC,17,19,0.81 
+2015,11,04,17:00,EpiphanyBolt,ESC,mirage,QuickShot Arena #13,16,5,14,1,2,4,ESC,18,19,1.18 
+2015,10,31,17:00,Enervate.A,ESC,cache,QuickShot Showmatches,5,16,5,10,0,6,ESC,15,10,1.27 
+2015,10,31,17:00,Enervate.A,ESC,dust2,QuickShot Showmatches,13,16,6,9,7,7,ESC,20,18,1.03 
+2015,10,30,14:00,ESC,Enervate,dust2,QuickShot Showmatches,10,16,3,12,7,4,ESC,13,19,0.75 
+2015,10,30,14:00,Enervate,ESC,cache,QuickShot Showmatches,16,4,11,4,5,0,ESC,11,17,0.61 
+2015,10,30,14:00,Enervate,ESC,mirage,QuickShot Showmatches,8,16,6,9,2,7,ESC,20,14,1.21 
+2015,10,29,20:45,Arcade,ESC,cache,QuickShot Arena #12,14,16,9,6,5,10,ESC,24,20,1.11 
+2015,10,29,20:45,Arcade,ESC,mirage,QuickShot Arena #12,16,9,8,7,8,2,ESC,9,20,0.49 
+2015,10,29,17:00,ESC,SpaceSoldiers,dust2,QuickShot Arena #12,16,13,12,3,4,10,ESC,21,19,1.09 
+2015,10,29,17:00,SpaceSoldiers,ESC,cache,QuickShot Arena #12,10,16,4,11,6,5,ESC,24,13,1.42 
+2015,10,28,19:30,ESC,Arcade,cache,QuickShot Arena #12,16,10,8,7,8,3,ESC,16,15,0.95 
+2015,10,28,19:30,Arcade,ESC,mirage,QuickShot Arena #12,4,16,3,12,1,4,ESC,19,9,1.59 
+2015,10,28,19:30,Arcade,ESC,overpass,QuickShot Arena #12,16,14,8,7,8,7,ESC,21,19,1.14 
+2015,10,27,21:30,WildSource,VegaSquadron,mirage,D!ngIT $2000 Weekly Cup #23,12,16,11,4,1,12,WildSource,22,18,1.11 
+2015,10,27,18:45,WildSource,Epsilon,train,D!ngIT $2000 Weekly Cup #23,7,16,6,9,1,7,WildSource,5,16,0.46 
+2015,10,27,18:45,Epsilon,WildSource,cache,D!ngIT $2000 Weekly Cup #23,16,11,6,9,10,2,WildSource,19,22,0.91 
+2015,10,27,18:45,Epsilon,WildSource,mirage,D!ngIT $2000 Weekly Cup #23,13,16,8,7,5,9,WildSource,25,18,1.29 
+2015,10,21,23:30,PiTER,ESC,mirage,QuickShot Arena #11,16,10,12,3,4,7,ESC,10,20,0.55 
+2015,10,21,20:15,stfuNerd,ESC,dust2,QuickShot Arena #11,16,10,8,7,8,3,ESC,13,15,0.81 
+2015,10,21,20:15,stfuNerd,ESC,cache,QuickShot Arena #11,13,16,9,6,4,10,ESC,24,19,1.11 
+2015,10,21,20:15,stfuNerd,ESC,mirage,QuickShot Arena #11,19,16,8,7,7,8,ESC,21,25,0.82 
+2015,10,16,17:00,EpiphanyBolt,ESC,overpass,QuickShot Showmatches,6,16,6,9,0,7,ESC,15,11,1.11 
+2015,10,16,17:00,ESC,EpiphanyBolt,train,QuickShot Showmatches,16,7,12,3,4,4,ESC,27,11,1.89 
+2015,10,16,17:00,EpiphanyBolt,ESC,cache,QuickShot Showmatches,16,14,4,11,12,3,ESC,23,16,1.27 
+2015,10,15,20:00,BX3,ESC,train,QuickShot Showmatches,10,16,5,10,5,6,ESC,17,16,1.02 
+2015,10,15,20:00,ESC,BX3,mirage,QuickShot Showmatches,16,14,10,5,6,9,ESC,26,18,1.22 
+2015,10,15,20:00,BX3,ESC,inferno,QuickShot Showmatches,11,16,10,5,1,11,ESC,19,18,0.99 
+2015,10,07,19:30,Choke,ESC,mirage,QuickShot Arena #10,8,16,5,10,3,6,ESC,16,10,1.15 
+2015,10,07,17:00,BX3,ESC,cache,QuickShot Arena #10,16,8,10,5,6,3,ESC,13,18,0.73 
+2015,09,24,19:00,ATB,31337,cache,ESL Polish Championship Season..,10,16,3,12,7,4,ATB,26,16,1.51 
+2015,09,24,19:00,31337,ATB,train,ESL Polish Championship Season..,16,6,9,6,7,0,ATB,14,17,0.80 
+2015,09,22,22:00,ATB,Vexed,overpass,ESL Polish Championship Season..,12,16,7,8,5,8,ATB,19,17,1.01 
+2015,09,22,22:00,ATB,Vexed,dust2,ESL Polish Championship Season..,5,16,4,11,1,5,ATB,12,14,0.83 
+2015,09,15,23:30,Lions,ESC,overpass,D!ngIT $2000 Weekly Cup #17,16,11,13,2,3,9,ESC,17,18,0.91 
+2015,09,15,22:20,ESC,EuropeanMisfits,mirage,D!ngIT $2000 Weekly Cup #17,21,19,13,2,2,13,ESC,29,24,1.14 
+2015,09,15,19:45,Lions,ESC,train,D!ngIT $2000 Weekly Cup #17,16,9,10,5,6,4,ESC,19,17,1.01 
+2015,09,15,19:45,Lions,ESC,cache,D!ngIT $2000 Weekly Cup #17,16,14,5,10,11,4,ESC,25,15,1.32 
+2015,09,14,20:00,ESC,summa.gg,train,D!ngIT $2000 Weekly Cup #17,21,17,8,7,7,8,ESC,25,24,1.00 
+2015,09,14,20:00,summa.gg,ESC,mirage,D!ngIT $2000 Weekly Cup #17,15,21,7,8,8,7,ESC,25,19,1.09 
+2015,09,13,20:30,ESC,eBettle,dust2,99Damage Arena #14,14,16,10,5,4,11,ESC,13,21,0.65 
+2015,09,13,20:30,ESC,eBettle,cobblestone,99Damage Arena #14,5,16,5,10,0,6,ESC,12,17,0.74 
+2015,09,13,20:30,eBettle,ESC,mirage,99Damage Arena #14,11,16,6,9,5,7,ESC,17,14,1.05 
+2015,09,13,18:00,ESC,Epsilon,cache,99Damage Arena #14,16,13,11,4,5,9,ESC,19,16,0.99 
+2015,09,13,18:00,Epsilon,ESC,mirage,99Damage Arena #14,13,16,8,7,5,9,ESC,21,21,0.95 
+2015,09,09,20:00,31337,ATB,dust2,ESL Polish Championship Season..,10,16,9,6,1,10,ATB,31,15,1.81 
+2015,09,09,20:00,ATB,31337,mirage,ESL Polish Championship Season..,10,16,5,10,5,6,ATB,16,18,0.83 
+2015,09,09,20:00,31337,ATB,cache,ESL Polish Championship Season..,9,16,3,12,6,4,ATB,13,13,0.87 
+2015,08,08,18:00,Dobry&Gaming,Pries,cobblestone,Uprise Champions Cup Season 3,16,4,14,1,2,3,Dobry&Gaming,15,14,1.02 
+2015,08,08,18:00,Pries,Dobry&Gaming,cache,Uprise Champions Cup Season 3,10,16,8,7,2,9,Dobry&Gaming,18,18,0.99 
+2014,11,03,19:00,Poland,Serbia,dust2,European Championship 2014,16,3,12,3,4,0,Poland,13,9,1.06 
+2014,11,03,19:00,Poland,Serbia,cache,European Championship 2014,14,16,8,7,6,9,Poland,15,22,0.73 
+2014,11,03,19:00,Poland,Serbia,mirage,European Championship 2014,16,4,11,4,5,0,Poland,11,11,0.88 
+2014,10,15,22:00,31337,noMERCY,cobblestone,ESL Pro Series Poland Season 9,15,15,13,2,2,13,31337,27,21,1.23 
+2014,10,08,21:00,31337,ESC,cobblestone,ESL Pro Series Poland Season 9,11,16,7,8,4,8,31337,13,19,0.69 
+2014,10,06,19:15,31337,eliminacja,overpass,ESL Pro Series Poland Season 9,16,10,10,5,6,5,31337,23,15,1.37 
+2014,10,01,20:00,31337,AMNESIA,mirage,ESL Pro Series Poland Season 9,16,1,14,1,2,0,31337,21,6,1.92 
+2014,09,30,21:30,ePlay,31337,nuke,ESL Pro Series Poland Season 9,16,5,10,5,6,0,31337,19,18,1.09 
+2014,09,30,00:16,Poland,Turkey,inferno,European Championship 2014,16,3,12,3,4,0,Poland,14,9,1.18 
+2014,09,21,18:30,31337,HAXCON,inferno,ESL Pro Series Poland Season 9,16,9,9,6,7,3,31337,22,14,1.35 
+2014,06,11,20:20,Virtus.pro,myRevenge,nuke,ESL Pro Series Poland Season 8,16,4,12,3,4,1,myRevenge,11,19,0.70 
+2014,06,07,21:00,myRevenge,Dobry&Gaming,inferno,ESL Pro Series Poland Season 8,4,16,4,11,0,5,myRevenge,11,18,0.60 

@@ -1,0 +1,18 @@
+2015,09,16,23:00,TS-Netteux,WEGOTGAME,train,LevelDown Championship,3,16,3,12,0,4,WE GOT GAME,12,9,1.08 
+2015,09,16,21:30,RedInstinct,WEGOTGAME,cobblestone,LevelDown Championship,13,16,4,11,9,5,WE GOT GAME,3,1,2.53 
+2015,05,21,22:00,TSM,EnVyUs,inferno,Counter Pit League,13,16,9,6,4,10,EnVyUs,23,18,1.11 
+2015,05,21,22:00,TSM,EnVyUs,cache,Counter Pit League,16,8,14,1,2,7,EnVyUs,6,3,2.04 
+2015,01,15,21:45,Epsilon,NatusVincere,overpass,ESL Pro League Winter 2014/15,8,16,7,8,1,8,Epsilon,17,21,0.86 
+2015,01,14,20:33,NiP,Epsilon,dust2,SLTV StarSeries XII,16,3,12,3,4,0,Epsilon,7,19,0.34 
+2015,01,14,20:33,Epsilon,NiP,cache,SLTV StarSeries XII,2,16,2,13,0,3,Epsilon,6,16,0.40 
+2015,01,14,20:30,Epsilon,NiP,inferno,SLTV StarSeries XII,16,13,11,4,5,9,Epsilon,16,21,0.83 
+2015,01,13,18:15,Epsilon,dignitas,dust2,SLTV StarSeries XII,15,19,8,7,7,8,Epsilon,17,29,0.62 
+2015,01,13,18:15,dignitas,Epsilon,cache,SLTV StarSeries XII,16,13,9,6,7,7,Epsilon,21,19,1.11 
+2014,12,18,18:30,Epsilon,dAT,inferno,G2A.com December Cup Powered b..,3,16,3,12,0,4,Epsilon,4,18,0.25 
+2014,12,11,19:00,PENTA,Epsilon,mirage,ESL Pro League Winter 2014/15,7,16,3,12,4,4,Epsilon,11,14,0.85 
+2014,12,11,19:00,Epsilon,PENTA,cache,ESL Pro League Winter 2014/15,16,4,11,4,5,0,Epsilon,21,11,1.59 
+2014,12,11,19:00,PENTA,Epsilon,dust2,ESL Pro League Winter 2014/15,16,13,7,8,9,5,Epsilon,7,21,0.43 
+2014,11,12,20:30,Cloud9,Epsilon,dust2,Caseking King of Kings,16,9,11,4,5,5,Epsilon,18,21,0.96 
+2014,11,12,20:30,Cloud9,Epsilon,inferno,Caseking King of Kings,16,14,10,5,6,9,Epsilon,10,23,0.49 
+2014,09,29,19:00,LDLC,CPHWolves,dust2,SLTV StarSeries XI,16,4,14,1,2,3,LDLC,15,14,0.96 
+2014,08,25,21:10,Epsilon,PENTA,cache,FACEIT League 2 EU Closed Qual..,16,6,10,5,6,1,Epsilon,15,12,1.10 

@@ -1,0 +1,27 @@
+2016,08,15,19:00,c5,Swift,overpass,WESG 2016 Middle East,23,25,11,4,4,11,Swift,48,33,1.49 
+2016,08,15,19:00,c5,Swift,dust2,WESG 2016 Middle East,12,16,9,6,3,10,Swift,18,21,0.80 
+2016,08,14,22:30,Swift,KotK,mirage,WESG 2016 Middle East,16,6,12,3,4,3,Swift,17,11,1.37 
+2016,08,14,22:30,KotK,Swift,dust2,WESG 2016 Middle East,4,16,4,11,0,5,Swift,11,8,1.04 
+2016,08,02,13:00,Risky,MVPproject,overpass,E-Sports Festival CS:GO Tourna..,13,16,5,10,8,6,Risky,15,20,0.81 
+2016,08,02,13:00,MVPproject,Risky,train,E-Sports Festival CS:GO Tourna..,19,22,3,12,12,3,Risky,30,31,0.91 
+2016,08,02,13:00,MVPproject,Risky,nuke,E-Sports Festival CS:GO Tourna..,16,8,7,8,9,0,Risky,9,17,0.58 
+2016,07,02,11:40,Singapore,UAE,mirage,World Championships 2016 Asian..,16,8,8,7,8,1,UAE,17,19,0.93 
+2016,07,02,11:40,Singapore,UAE,nuke,World Championships 2016 Asian..,16,13,7,8,9,5,UAE,22,23,0.98 
+2016,06,27,11:15,Japan,UAE,overpass,World Championships 2016 Asian..,14,16,11,4,3,12,UAE,16,22,0.76 
+2016,06,27,11:15,Japan,UAE,mirage,World Championships 2016 Asian..,22,19,4,11,11,4,UAE,35,28,1.20 
+2016,06,27,11:15,UAE,Japan,nuke,World Championships 2016 Asian..,16,6,12,3,4,3,UAE,16,13,1.10 
+2016,06,25,11:20,UAE,Nepal,dust2,World Championships 2016 Asian..,16,8,10,5,6,3,UAE,23,16,1.24 
+2016,06,25,11:20,UAE,Nepal,mirage,World Championships 2016 Asian..,16,1,14,1,2,0,UAE,13,6,1.30 
+2016,05,05,15:40,Renegades,Risky,mirage,PGL KeSPA Regional Minor Champ..,16,14,9,6,7,8,Risky,11,23,0.54 
+2016,05,05,15:40,Renegades,Risky,cobblestone,PGL KeSPA Regional Minor Champ..,16,7,9,6,7,1,Risky,11,18,0.60 
+2016,05,05,09:30,MVPproject,Risky,mirage,PGL KeSPA Regional Minor Champ..,12,16,8,7,4,9,Risky,15,19,0.77 
+2016,05,05,05:40,TyLoo,Risky,mirage,PGL KeSPA Regional Minor Champ..,16,6,12,3,4,3,Risky,12,19,0.70 
+2016,03,13,06:40,inchk1ng,Risky,train,DreamHack Masters Malmö 2016 A..,16,3,12,3,4,0,Risky,5,16,0.35 
+2016,03,13,06:40,inchk1ng,Risky,dust2,DreamHack Masters Malmö 2016 A..,16,8,11,4,5,4,Risky,12,20,0.58 
+2016,03,12,13:45,LongLiveDemocracy,Risky,inferno,DreamHack Masters Malmö 2016 A..,14,16,6,9,8,7,Risky,20,19,0.95 
+2016,02,22,15:00,dream[S]cape,Risky,cobblestone,Born To Win Invitational Leagu..,16,3,13,2,3,1,Risky,14,18,0.84 
+2016,02,20,16:00,nxl,Risky,mirage,Born To Win Invitational Leagu..,15,19,4,11,11,4,Risky,23,22,0.92 
+2016,02,20,13:30,Risky,MiTH,mirage,Born To Win Invitational Leagu..,13,16,6,9,7,7,Risky,24,20,1.14 
+2016,01,29,09:30,Risky,Chiefs,dust2,IEM Taipei 2016,9,16,7,8,2,8,Risky,9,21,0.45 
+2016,01,29,08:30,Risky,MVP.karnal,train,IEM Taipei 2016,16,8,10,5,6,3,Risky,18,18,0.98 
+2016,01,29,04:15,Risky,CyberZen,cobblestone,IEM Taipei 2016,10,16,3,12,7,4,Risky,18,23,0.81 

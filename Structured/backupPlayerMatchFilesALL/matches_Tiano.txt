@@ -1,0 +1,5 @@
+2015,11,24,22:15,melty,Fraternitas,cache,D!ngIT $2000 Weekly Cup #27,16,3,13,2,3,1,Fraternitas,9,15,0.60 
+2015,11,24,21:00,ESC,Fraternitas,mirage,D!ngIT $2000 Weekly Cup #27,14,16,7,8,7,8,Fraternitas,18,21,0.82 
+2015,11,24,17:30,hard'N'play,Fraternitas,inferno,D!ngIT $2000 Weekly Cup #27,10,16,5,10,5,6,Fraternitas,23,15,1.44 
+2015,11,23,20:30,Fraternitas,melty,inferno,D!ngIT $2000 Weekly Cup #27,7,16,2,13,5,3,Fraternitas,9,19,0.47 
+2015,11,23,20:30,Fraternitas,melty,dust2,D!ngIT $2000 Weekly Cup #27,10,16,4,11,6,5,Fraternitas,14,19,0.80 

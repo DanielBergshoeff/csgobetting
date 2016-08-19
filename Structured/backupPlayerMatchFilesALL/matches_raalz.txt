@@ -1,0 +1,21 @@
+2015,10,09,19:30,Reason,ESC,dust2,QuickShot Arena #10,13,16,7,8,6,8,Reason,16,23,0.71 
+2015,10,09,19:30,Reason,ESC,overpass,QuickShot Arena #10,16,11,9,6,7,5,Reason,21,17,1.19 
+2015,10,09,19:30,ESC,Reason,mirage,QuickShot Arena #10,16,10,8,7,8,3,Reason,15,20,0.83 
+2015,10,08,22:00,Reason,Orgless,mirage,CSHUB Series Season 1,12,16,5,10,7,6,Reason,14,19,0.76 
+2015,10,08,22:00,Reason,Orgless,cobblestone,CSHUB Series Season 1,11,16,3,12,8,4,Reason,15,16,0.90 
+2015,10,08,20:15,WorstPlayers,Reason,mirage,QuickShot Arena #10,14,16,10,5,4,11,Reason,27,23,1.12 
+2015,10,08,18:15,Reason,Torpedo,cobblestone,QuickShot Arena #10,16,10,10,5,6,5,Reason,14,21,0.70 
+2015,09,21,18:00,MaxAndRelax,Reason,mirage,GameAgents League Season 2,3,16,3,12,0,4,Reason,24,9,1.79 
+2015,09,21,18:00,Reason,MaxAndRelax,inferno,GameAgents League Season 2,16,8,12,3,4,5,Reason,23,13,1.44 
+2015,09,12,19:10,LosJefes,WorstPlayers,mirage,DreamHack Open Cluj-Napoca 201..,12,16,6,9,6,7,Los Jefes,22,18,1.11 
+2015,09,08,23:15,LosJefes,nerdRage,cache,D!ngIT $2000 Weekly Cup #16,12,16,9,6,3,10,Los Jefes,17,19,0.83 
+2015,09,08,22:15,WorstPlayers,LosJefes,mirage,D!ngIT $2000 Weekly Cup #16,14,16,10,5,4,11,Los Jefes,20,17,1.05 
+2015,09,08,18:00,LosJefes,KILLERFISH,cache,D!ngIT $2000 Weekly Cup #16,21,17,8,7,7,8,Los Jefes,20,27,0.71 
+2015,09,07,21:30,nerdRage,LosJefes,inferno,D!ngIT $2000 Weekly Cup #16,16,13,9,6,7,7,Los Jefes,25,20,1.11 
+2015,09,07,21:30,LosJefes,nerdRage,cache,D!ngIT $2000 Weekly Cup #16,9,16,9,6,0,10,Los Jefes,11,20,0.55 
+2015,09,06,15:15,SpaceSoldiers,LosJefes,cache,DreamHack Open Cluj-Napoca 201..,16,12,10,5,6,7,Los Jefes,10,22,0.51 
+2015,09,06,12:00,LosJefes,Reason,mirage,DreamHack Open Cluj-Napoca 201..,14,16,11,4,3,12,Los Jefes,12,24,0.54 
+2015,09,06,12:00,Reason,LosJefes,cobblestone,DreamHack Open Cluj-Napoca 201..,16,5,10,5,6,0,Los Jefes,12,16,0.75 
+2015,09,05,19:40,LosJefes,dope,cache,DreamHack Open Cluj-Napoca 201..,16,9,11,4,5,5,Los Jefes,16,16,0.94 
+2015,08,30,21:40,LosJefes,KappaKappa,cache,FACEIT League 2015 Stage 3 EU ..,14,16,7,8,7,8,Los Jefes,16,20,0.76 
+2015,06,22,20:00,fnatic,dignitas,mirage,ESL ESEA Pro League Season 1,16,1,14,1,2,0,dignitas,4,17,0.20 

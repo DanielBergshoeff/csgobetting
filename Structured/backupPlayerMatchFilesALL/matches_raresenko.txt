@@ -1,0 +1,9 @@
+2016,04,16,17:00,GG1337,XPC,mirage,PGL National Division Season 1..,6,16,6,9,0,7,GG1337,10,19,0.52 
+2016,04,16,17:00,XPC,GG1337,inferno,PGL National Division Season 1..,16,10,10,5,6,5,GG1337,8,22,0.40 
+2016,01,26,23:00,neXtPlease!,eSuba,mirage,D!ngIT $2000 Weekly Cup #35,16,21,7,8,8,7,neXtPlease!,23,29,0.81 
+2016,01,26,22:00,neXtPlease!,seven,dust2,D!ngIT $2000 Weekly Cup #35,16,7,10,5,6,2,neXtPlease!,19,13,1.25 
+2016,01,26,18:30,neXtPlease!,CeX,mirage,D!ngIT $2000 Weekly Cup #35,16,9,11,4,5,5,neXtPlease!,13,14,0.86 
+2016,01,25,21:30,neXtPlease!,eSuba,cache,D!ngIT $2000 Weekly Cup #35,3,16,3,12,0,4,neXtPlease!,4,15,0.38 
+2016,01,25,21:30,eSuba,neXtPlease!,mirage,D!ngIT $2000 Weekly Cup #35,16,10,12,3,4,7,neXtPlease!,12,21,0.59 
+2015,09,29,19:00,XPC,Reason,overpass,CSHUB Series Season 1,6,16,3,12,3,4,XPC,10,19,0.49 
+2015,09,29,19:00,Reason,XPC,mirage,CSHUB Series Season 1,16,2,13,2,3,0,XPC,6,17,0.36 

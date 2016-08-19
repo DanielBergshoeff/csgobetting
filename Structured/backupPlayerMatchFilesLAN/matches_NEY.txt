@@ -1,0 +1,11 @@
+2016,07,03,14:00,fruits,eXtatus,cobblestone,Infinity Coliseum LAN 33,16,9,10,5,6,4,fruits,16,17,0.94 
+2016,07,03,14:00,eXtatus,fruits,overpass,Infinity Coliseum LAN 33,10,16,6,9,4,7,fruits,30,14,1.70 
+2016,07,03,14:00,eXtatus,fruits,train,Infinity Coliseum LAN 33,13,16,6,9,7,7,fruits,32,17,1.66 
+2016,07,03,14:00,fruits,eXtatus,mirage,Infinity Coliseum LAN 33,5,16,5,10,0,6,fruits,9,16,0.66 
+2016,03,12,17:15,n1ce,GameAgents,inferno,EsportFest 2016,15,19,6,9,9,6,GameAgents,19,26,0.80 
+2016,03,12,17:15,n1ce,GameAgents,dust2,EsportFest 2016,16,8,12,3,4,5,GameAgents,9,20,0.47 
+2016,03,12,17:15,n1ce,GameAgents,cache,EsportFest 2016,13,16,8,7,5,9,GameAgents,21,18,1.09 
+2015,11,28,13:25,CSGO.one,E-frag.net,overpass,ESL South East Europe Champion..,12,16,9,6,3,10,CSGO.one,17,21,0.86 
+2015,11,28,13:25,E-frag.net,CSGO.one,inferno,ESL South East Europe Champion..,16,11,9,6,7,5,CSGO.one,11,21,0.61 
+2015,11,28,11:45,CSGO.one,Revolte,dust2,ESL South East Europe Champion..,10,16,4,11,6,5,CSGO.one,20,20,1.17 
+2015,11,28,10:00,CSGO.one,Ancients,overpass,ESL South East Europe Champion..,16,3,12,3,4,0,CSGO.one,14,9,1.11 

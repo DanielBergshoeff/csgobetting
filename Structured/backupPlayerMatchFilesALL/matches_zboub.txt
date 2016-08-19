@@ -1,0 +1,14 @@
+2016,08,15,19:00,VivaAlgeria,FENNEC,mirage,WESG 2016 North & West Africa,16,7,11,4,5,3,Viva Algeria,18,12,1.25 
+2016,08,15,19:00,VivaAlgeria,FENNEC,cobblestone,WESG 2016 North & West Africa,14,16,10,5,4,11,Viva Algeria,17,20,0.92 
+2016,08,15,19:00,FENNEC,VivaAlgeria,overpass,WESG 2016 North & West Africa,5,16,4,11,1,5,Viva Algeria,13,8,1.13 
+2016,08,14,23:45,VivaAlgeria,DREAM.RAR,cobblestone,WESG 2016 North & West Africa,16,1,14,1,2,0,Viva Algeria,19,10,1.54 
+2016,08,14,23:45,VivaAlgeria,DREAM.RAR,mirage,WESG 2016 North & West Africa,12,16,6,9,6,7,Viva Algeria,14,17,0.78 
+2016,08,14,23:45,VivaAlgeria,DREAM.RAR,cache,WESG 2016 North & West Africa,16,11,8,7,8,4,Viva Algeria,15,15,0.93 
+2015,12,19,21:00,RvN,VivaAlgeria,cobblestone,AFKG MENA Championship,4,16,4,11,0,5,Viva Algeria,18,11,1.35 
+2015,12,19,21:00,VivaAlgeria,RvN,dust2,AFKG MENA Championship,16,12,6,9,10,3,Viva Algeria,29,15,1.74 
+2015,12,19,21:00,VivaAlgeria,RvN,train,AFKG MENA Championship,16,12,9,6,7,6,Viva Algeria,13,16,0.84 
+2015,12,19,17:30,CamelRiders,VivaAlgeria,inferno,AFKG MENA Championship,10,16,9,6,1,10,Viva Algeria,16,15,0.95 
+2015,12,19,17:30,VivaAlgeria,CamelRiders,cobblestone,AFKG MENA Championship,9,16,4,11,5,5,Viva Algeria,8,19,0.51 
+2015,12,19,17:30,CamelRiders,VivaAlgeria,cache,AFKG MENA Championship,9,16,6,9,3,7,Viva Algeria,24,10,1.59 
+2015,12,18,23:10,VivaAlgeria,Octupus1,cobblestone,AFKG MENA Championship,16,10,9,6,7,4,Viva Algeria,11,18,0.72 
+2015,12,18,23:10,Octupus1,VivaAlgeria,cache,AFKG MENA Championship,11,16,10,5,1,11,Viva Algeria,15,16,0.95 

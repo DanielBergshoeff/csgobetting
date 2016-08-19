@@ -1,0 +1,9 @@
+2014,07,05,19:00,UNNAMED,Faith,season,CIS Rising League Season 1,7,16,6,9,1,7,UNNAMED,16,19,0.85 
+2014,07,05,19:00,Faith,UNNAMED,mirage,CIS Rising League Season 1,16,11,9,6,7,5,UNNAMED,13,22,0.64 
+2014,07,03,19:30,UNNAMED,ACES,mirage,CIS Rising League Season 1,9,16,5,10,4,6,UNNAMED,8,21,0.42 
+2014,07,03,19:30,ACES,UNNAMED,inferno,CIS Rising League Season 1,16,1,14,1,2,0,UNNAMED,10,17,0.56 
+2014,06,30,19:00,es4x,UNNAMED,cache,CIS Rising League Season 1,16,2,13,2,3,0,UNNAMED,6,17,0.34 
+2014,06,30,19:00,es4x,UNNAMED,mirage,CIS Rising League Season 1,16,6,11,4,5,2,UNNAMED,11,20,0.62 
+2014,06,30,19:00,UNNAMED,es4x,dust2,CIS Rising League Season 1,16,14,6,9,10,5,UNNAMED,22,21,1.18 
+2014,04,28,20:45,tmUragan,FlipSid3,train,SLTV ProSeries IX,10,16,10,5,0,11,tmUragan,7,20,0.44 
+2014,04,28,20:45,FlipSid3,tmUragan,inferno,SLTV ProSeries IX,16,3,12,3,4,0,tmUragan,2,18,0.13 

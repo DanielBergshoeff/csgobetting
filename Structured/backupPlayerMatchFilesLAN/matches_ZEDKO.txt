@@ -1,0 +1,14 @@
+2016,07,03,14:00,fruits,eXtatus,cobblestone,Infinity Coliseum LAN 33,16,9,10,5,6,4,eXtatus,16,18,0.86 
+2016,07,03,14:00,eXtatus,fruits,overpass,Infinity Coliseum LAN 33,10,16,6,9,4,7,eXtatus,15,22,0.79 
+2016,07,03,14:00,eXtatus,fruits,train,Infinity Coliseum LAN 33,13,16,6,9,7,7,eXtatus,20,18,0.99 
+2016,07,03,14:00,fruits,eXtatus,mirage,Infinity Coliseum LAN 33,5,16,5,10,0,6,eXtatus,25,8,1.75 
+2016,06,26,20:00,eXtatus,eSuba,overpass,RoG Finals 10,16,5,13,2,3,3,eXtatus,18,8,1.39 
+2016,06,26,20:00,eXtatus,eSuba,mirage,RoG Finals 10,16,11,10,5,6,6,eXtatus,16,15,0.94 
+2016,06,26,20:00,eXtatus,eSuba,dust2,RoG Finals 10,14,16,13,2,1,14,eXtatus,17,19,0.85 
+2016,06,25,12:00,eXtatus,eEriness,dust2,RoG Finals 10,16,2,13,2,3,0,eXtatus,5,6,0.81 
+2016,06,25,12:00,eXtatus,eEriness,cobblestone,RoG Finals 10,12,16,9,6,3,10,eXtatus,15,23,0.68 
+2016,06,25,12:00,eXtatus,eEriness,cache,RoG Finals 10,16,10,8,7,8,3,eXtatus,18,13,1.12 
+2016,05,21,21:25,MajesticLions,eXtatus,overpass,PLAYzone League I LAN Finals,6,16,5,10,1,6,eXtatus,18,11,1.20 
+2016,05,21,21:25,MajesticLions,eXtatus,cache,PLAYzone League I LAN Finals,8,16,6,9,2,7,eXtatus,27,13,1.65 
+2016,05,21,10:45,eXtatus,eSuba,dust2,PLAYzone League I LAN Finals,16,14,9,6,7,8,eXtatus,17,18,0.88 
+2016,05,21,10:45,eXtatus,eSuba,mirage,PLAYzone League I LAN Finals,16,14,5,10,11,4,eXtatus,17,21,0.76 

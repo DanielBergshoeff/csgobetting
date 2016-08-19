@@ -1,0 +1,2 @@
+2016,07,08,02:15,Peru,Bolivia,train,World Championships 2016 South..,16,0,15,0,1,0,Bolivia,11,16,0.79 
+2016,07,08,02:15,Peru,Bolivia,cache,World Championships 2016 South..,16,0,15,0,1,0,Bolivia,4,16,0.25 

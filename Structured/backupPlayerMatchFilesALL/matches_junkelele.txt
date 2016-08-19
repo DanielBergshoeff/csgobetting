@@ -1,0 +1,7 @@
+2015,12,06,12:00,TamuluS,T5,mirage,D!ngIT & NCSC Korea S1 Qualifi..,16,2,13,2,3,0,T5,8,18,0.44 
+2015,12,06,12:00,T5,TamuluS,dust2,D!ngIT & NCSC Korea S1 Qualifi..,16,11,11,4,5,7,T5,12,20,0.65 
+2015,12,06,12:00,T5,TamuluS,cache,D!ngIT & NCSC Korea S1 Qualifi..,9,16,8,7,1,9,T5,24,17,1.41 
+2015,12,05,12:00,autocracy,T5,mirage,D!ngIT & NCSC Korea S1 Qualifi..,10,16,8,7,2,9,T5,25,17,1.26 
+2015,12,05,12:00,T5,autocracy,inferno,D!ngIT & NCSC Korea S1 Qualifi..,16,12,11,4,5,8,T5,23,16,1.33 
+2015,12,05,12:00,T5,autocracy,cobblestone,D!ngIT & NCSC Korea S1 Qualifi..,10,16,7,8,3,8,T5,12,20,0.62 
+2015,11,28,12:00,Spectacle.A,T5,mirage,D!ngIT & NCSC Korea S1 Qualifi..,6,16,5,10,1,6,T5,12,9,0.99 

@@ -1,0 +1,4 @@
+2015,12,20,10:45,CSGOBESTPOT.com,Reason,mirage,ESL Nordic Nationals Winter 20..,16,7,12,3,4,4,Reason,17,19,0.94 
+2015,12,20,10:45,Reason,CSGOBESTPOT.com,cache,ESL Nordic Nationals Winter 20..,15,19,8,7,7,8,Reason,22,21,0.97 
+2015,12,19,17:10,Reason,ROCCAT,mirage,ESL Nordic Nationals Winter 20..,9,16,5,10,4,6,Reason,8,18,0.52 
+2015,12,19,13:30,Reason,BX3,mirage,ESL Nordic Nationals Winter 20..,16,12,9,6,7,6,Reason,20,12,1.13 

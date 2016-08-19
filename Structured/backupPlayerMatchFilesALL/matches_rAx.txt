@@ -1,0 +1,7 @@
+2016,04,06,19:45,Planetkey,PENTA,mirage,Hitbox Challenger Cup,17,19,8,7,7,8,Planetkey,18,30,0.65 
+2016,03,23,20:00,Empire,Planetkey,cache,Hitbox Challenger Cup,8,16,3,12,5,4,Planetkey,11,13,0.85 
+2016,03,23,20:00,Planetkey,Empire,mirage,Hitbox Challenger Cup,12,16,7,8,5,8,Planetkey,15,23,0.72 
+2016,03,23,20:00,Planetkey,Empire,inferno,Hitbox Challenger Cup,16,3,12,3,4,0,Planetkey,15,8,1.32 
+2014,08,04,22:30,ALTERNATEaTTaX,PlayingDucks,dust2,ESL Pro Series Germany Summer ..,10,16,2,13,8,3,ALTERNATE aTTaX,14,18,0.77 
+2014,08,04,20:40,Planetkey,ALTERNATEaTTaX,dust2,ESL Pro Series Germany Summer ..,16,8,10,5,6,3,ALTERNATE aTTaX,12,18,0.67 
+2014,08,04,19:00,ALTERNATEaTTaX,PlayingDucks,dust2,ESL Pro Series Germany Summer ..,16,10,8,7,8,3,ALTERNATE aTTaX,14,14,0.96 

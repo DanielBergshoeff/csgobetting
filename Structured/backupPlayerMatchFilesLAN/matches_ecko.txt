@@ -1,0 +1,8 @@
+2015,12,20,19:00,MajesticLions,nEophyte,overpass,ASUS Finals 9,6,16,3,12,3,4,nEophyte,13,12,0.94 
+2015,12,20,19:00,MajesticLions,nEophyte,inferno,ASUS Finals 9,16,13,8,7,8,6,nEophyte,12,23,0.59 
+2015,12,20,19:00,nEophyte,MajesticLions,cache,ASUS Finals 9,16,7,11,4,5,3,nEophyte,24,14,1.75 
+2015,12,19,11:50,nEophyte,GUNRUNNERS,cache,ASUS Finals 9,16,7,9,6,7,1,nEophyte,16,15,1.12 
+2015,12,19,11:50,nEophyte,GUNRUNNERS,overpass,ASUS Finals 9,16,5,11,4,5,1,nEophyte,15,9,1.20 
+2015,11,07,15:30,nEophyte,eSuba,inferno,MČR 2015,16,9,8,7,8,2,nEophyte,18,16,1.06 
+2015,11,07,15:30,eSuba,nEophyte,cache,MČR 2015,11,16,10,5,1,11,nEophyte,20,18,1.04 
+2015,11,07,15:30,eSuba,nEophyte,mirage,MČR 2015,16,4,11,4,5,0,nEophyte,6,19,0.32 

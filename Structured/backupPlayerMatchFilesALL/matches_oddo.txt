@@ -1,0 +1,73 @@
+2016,07,19,18:15,EURONICS,AGG,cobblestone,xfunction Masters 2016,7,16,3,12,4,4,EURONICS,23,19,1.41 
+2016,07,07,20:15,EURONICS,Genus,cache,xfunction Masters 2016,16,5,12,3,4,2,EURONICS,12,10,0.99 
+2016,06,28,19:15,EURONICS,Millenium,mirage,xfunction Masters 2016,2,16,2,13,0,3,EURONICS,12,17,0.67 
+2016,06,06,19:00,ALTERNATEaTTaX,EURONICS,overpass,RGN Pro Series II EU Closed Qu..,19,16,6,9,9,6,EURONICS,24,24,1.11 
+2016,06,06,19:00,EURONICS,ALTERNATEaTTaX,dust2,RGN Pro Series II EU Closed Qu..,8,16,7,8,1,8,EURONICS,10,17,0.63 
+2016,06,05,12:00,Phenomenon,EURONICS,mirage,DreamHack ZOWIE Open Summer 20..,16,8,8,7,8,1,EURONICS,8,17,0.56 
+2016,06,05,12:00,EURONICS,Phenomenon,overpass,DreamHack ZOWIE Open Summer 20..,11,16,10,5,1,11,EURONICS,18,19,0.95 
+2016,06,04,18:45,EURONICS,kriklekrakle,cache,DreamHack ZOWIE Open Summer 20..,16,13,8,7,8,6,EURONICS,16,18,0.87 
+2016,05,22,17:00,FAB,Alpha,cobblestone,RGN Pro Series II EU Closed Qu..,5,16,2,13,3,3,FAB,9,17,0.57 
+2016,05,22,17:00,Alpha,FAB,cache,RGN Pro Series II EU Closed Qu..,16,3,13,2,3,1,FAB,11,18,0.53 
+2016,03,24,19:00,Orbit,OBEY,inferno,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,OBEY,11,17,0.63 
+2016,03,24,19:00,Orbit,OBEY,mirage,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,OBEY,5,16,0.33 
+2016,03,24,17:00,OBEY,eNergy,inferno,Copenhagen Games 2016 BYOC Qua..,16,7,10,5,6,2,OBEY,14,14,1.05 
+2016,03,24,15:30,Krydsild,OBEY,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,10,8,7,8,3,OBEY,12,17,0.82 
+2016,03,24,13:00,OBEY,eNergy,dust2,Copenhagen Games 2016 BYOC Qua..,16,14,8,7,8,7,OBEY,24,16,1.18 
+2016,02,06,16:40,EYESONU,EURONICS,overpass,99Damage League Season 2,16,5,10,5,6,0,EURONICS,11,18,0.58 
+2016,02,06,16:40,EURONICS,EYESONU,inferno,99Damage League Season 2,13,16,3,12,10,4,EURONICS,19,20,0.92 
+2016,02,06,16:40,EYESONU,EURONICS,dust2,99Damage League Season 2,13,16,7,8,6,8,EURONICS,16,16,0.93 
+2016,02,06,14:00,PlayingDucks,EURONICS,inferno,99Damage League Season 2,16,6,13,2,3,4,EURONICS,6,15,0.51 
+2016,02,06,14:00,PlayingDucks,EURONICS,dust2,99Damage League Season 2,16,2,13,2,3,0,EURONICS,7,17,0.50 
+2016,02,06,14:00,EURONICS,PlayingDucks,cobblestone,99Damage League Season 2,16,8,12,3,4,5,EURONICS,16,17,1.04 
+2015,12,17,21:00,EURONICS,EYESONU,dust2,99Damage League Season 2,6,16,3,12,3,4,EURONICS,12,20,0.66 
+2015,12,17,21:00,EURONICS,EYESONU,cobblestone,99Damage League Season 2,16,9,8,7,8,2,EURONICS,23,15,1.42 
+2015,12,02,21:00,EURONICS,KILLERFISH,cobblestone,99Damage League Season 2,5,16,4,11,1,5,EURONICS,11,17,0.70 
+2015,12,02,21:00,KILLERFISH,EURONICS,overpass,99Damage League Season 2,16,7,9,6,7,1,EURONICS,10,19,0.53 
+2015,11,25,21:00,EURONICS,uX,dust2,99Damage League Season 2,16,13,7,8,9,5,EURONICS,28,17,1.46 
+2015,11,25,21:00,EURONICS,uX,cobblestone,99Damage League Season 2,16,12,8,7,8,5,EURONICS,27,19,1.40 
+2015,11,18,21:00,EURONICS,Planetkey,cobblestone,99Damage League Season 2,16,8,9,6,7,2,EURONICS,13,18,0.70 
+2015,11,18,21:00,Planetkey,EURONICS,dust2,99Damage League Season 2,16,8,10,5,6,3,EURONICS,14,18,0.84 
+2015,09,06,15:00,MIXCAT,EURONICS,cache,DreamHack Open Cluj-Napoca 201..,16,4,11,4,5,0,EURONICS,9,19,0.47 
+2015,09,06,12:00,CPHWolves,EURONICS,dust2,DreamHack Open Cluj-Napoca 201..,16,3,12,3,4,0,EURONICS,9,17,0.66 
+2015,09,06,12:00,CPHWolves,EURONICS,cache,DreamHack Open Cluj-Napoca 201..,16,12,7,8,9,4,EURONICS,21,18,1.10 
+2015,09,05,19:15,Epsilon,EURONICS,cache,DreamHack Open Cluj-Napoca 201..,13,16,10,5,3,11,EURONICS,21,18,1.15 
+2015,05,02,16:00,mousesports,myKPV,mirage,ESL Frühlingsmeisterschaft 201..,16,1,14,1,2,0,myKPV,3,17,0.15 
+2015,05,02,16:00,myKPV,mousesports,inferno,ESL Frühlingsmeisterschaft 201..,3,16,3,12,0,4,myKPV,6,17,0.38 
+2015,04,04,10:00,myKPV,SpaceSoldiers,nuke,Copenhagen Games 2015,13,16,12,3,1,13,myKPV,22,19,1.12 
+2015,04,03,22:30,myKPV,FUGL?,nuke,Copenhagen Games 2015,16,3,12,3,4,0,myKPV,17,9,1.42 
+2015,04,03,19:00,Publiclir.se,myKPV,inferno,Copenhagen Games 2015,16,14,9,6,7,8,myKPV,24,22,1.02 
+2015,04,03,19:00,Publiclir.se,myKPV,cache,Copenhagen Games 2015,16,14,9,6,7,8,myKPV,27,20,1.24 
+2015,04,03,15:30,Lions,myKPV,mirage,Copenhagen Games 2015,8,16,8,7,0,9,myKPV,17,15,1.02 
+2015,04,03,15:30,myKPV,Lions,inferno,Copenhagen Games 2015,16,14,5,10,11,4,myKPV,18,20,0.91 
+2015,04,03,12:00,Publiclir.se,myKPV,mirage,Copenhagen Games 2015,16,12,9,6,7,6,myKPV,20,19,1.00 
+2015,04,03,12:00,myKPV,Publiclir.se,cache,Copenhagen Games 2015,10,16,7,8,3,8,myKPV,13,21,0.64 
+2015,04,03,12:00,myKPV,Publiclir.se,inferno,Copenhagen Games 2015,16,11,11,4,5,7,myKPV,24,15,1.45 
+2015,04,02,20:30,myKPV,Lions,cache,Copenhagen Games 2015,16,6,10,5,6,1,myKPV,10,11,0.87 
+2015,04,02,19:00,myKPV,partyastronauts,inferno,Copenhagen Games 2015,16,4,12,3,4,1,myKPV,22,6,1.88 
+2015,04,02,17:00,1.Holdet,Frederiksberg,nuke,Copenhagen Games 2015,9,16,8,7,1,9,1. Holdet,14,19,0.78 
+2015,04,02,14:00,myKPV,re:take,dust2,Copenhagen Games 2015,16,10,12,3,4,7,myKPV,23,13,1.41 
+2015,04,02,14:00,myKPV,re:take,inferno,Copenhagen Games 2015,16,9,11,4,5,5,myKPV,16,13,1.04 
+2015,04,02,14:00,Frederiksberg,1.Holdet,inferno,Copenhagen Games 2015,25,23,6,9,9,6,1. Holdet,22,31,0.79 
+2015,01,14,19:00,3DMAX,myKPV,nuke,ESL Pro League Winter 2014/15,16,4,11,4,5,0,myKPV,13,16,0.97 
+2015,01,14,18:59,3DMAX,myKPV,mirage,ESL Pro League Winter 2014/15,16,10,9,6,7,4,myKPV,15,22,0.71 
+2014,12,22,18:30,GPlay,myKPV,mirage,99Damage Arena #3,16,14,9,6,7,8,myKPV,19,23,0.84 
+2014,12,22,18:30,myKPV,GPlay,nuke,99Damage Arena #3,11,16,8,7,3,9,myKPV,22,19,1.18 
+2014,12,20,22:45,dotpiXels,myKPV,mirage,Acer A-Split Invitational powe..,16,6,12,3,4,3,myKPV,13,17,0.78 
+2014,12,20,19:35,myKPV,dotpiXels,cache,Acer A-Split Invitational powe..,21,18,9,6,6,9,myKPV,28,23,1.13 
+2014,12,20,19:35,myKPV,dotpiXels,overpass,Acer A-Split Invitational powe..,14,16,11,4,3,12,myKPV,25,22,1.17 
+2014,12,20,17:20,PENTA,myKPV,mirage,Acer A-Split Invitational powe..,16,4,11,4,5,0,myKPV,6,18,0.42 
+2014,12,20,17:20,PENTA,myKPV,inferno,Acer A-Split Invitational powe..,16,1,14,1,2,0,myKPV,7,17,0.38 
+2014,12,20,13:00,myKPV,Virtus.pro,cache,Acer A-Split Invitational powe..,7,16,4,11,3,5,myKPV,10,18,0.64 
+2014,12,20,13:00,myKPV,Virtus.pro,nuke,Acer A-Split Invitational powe..,14,16,5,10,9,6,myKPV,20,21,0.96 
+2014,12,13,15:40,myKPV,mousesports,cache,ESL Pro Series Germany Winter ..,8,16,2,13,6,3,myKPV,13,20,0.66 
+2014,12,13,15:40,myKPV,mousesports,mirage,ESL Pro Series Germany Winter ..,9,16,5,10,4,6,myKPV,17,20,0.86 
+2014,12,10,19:00,dignitas,myKPV,mirage,ESL Pro League Winter 2014/15,16,12,13,2,3,10,myKPV,13,20,0.72 
+2014,12,10,19:00,myKPV,dignitas,nuke,ESL Pro League Winter 2014/15,11,16,9,6,2,10,myKPV,21,22,1.02 
+2014,11,20,22:30,myKPV,GPlay,inferno,ESL Pro League Winter 2014/15 ..,16,7,14,1,2,6,myKPV,15,9,1.09 
+2014,11,20,22:30,myKPV,GPlay,mirage,ESL Pro League Winter 2014/15 ..,24,26,11,4,4,11,myKPV,23,38,0.66 
+2014,11,20,22:30,myKPV,GPlay,nuke,ESL Pro League Winter 2014/15 ..,16,5,13,2,3,3,myKPV,26,9,2.08 
+2014,11,10,22:40,myKPV,PlayingDucks,cache,ESL Pro Series Germany Winter ..,16,5,10,5,6,0,myKPV,16,12,1.15 
+2014,11,10,21:50,myKPV,MTW,mirage,ESL Pro Series Germany Winter ..,16,5,11,4,5,1,myKPV,16,16,1.00 
+2014,11,10,19:10,myKPV,Planetkey,nuke,ESL Pro Series Germany Winter ..,5,16,4,11,1,5,myKPV,6,19,0.40 
+2014,08,05,21:00,myKPV,Death.Energy,inferno,ESL Pro Series Germany Summer ..,10,16,6,9,4,7,myKPV,25,19,1.34 
+2014,08,05,19:00,mousesports,myKPV,cache,ESL Pro Series Germany Summer ..,16,7,12,3,4,4,myKPV,16,19,0.85 

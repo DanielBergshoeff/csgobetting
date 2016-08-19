@@ -1,0 +1,19 @@
+2016,04,19,13:00,MVP.karnal,Threats,inferno,WCA 2016 APAC Qualifier,16,11,10,5,6,6,Threats,9,16,0.70 
+2016,04,19,13:00,Threats,MVP.karnal,cobblestone,WCA 2016 APAC Qualifier,16,19,8,7,7,8,Threats,23,26,0.86 
+2016,04,16,13:00,Threats,DeToNator,inferno,WCA 2016 APAC Qualifier,16,13,11,4,5,9,Threats,18,22,0.92 
+2016,04,16,13:00,Threats,DeToNator,cache,WCA 2016 APAC Qualifier,16,6,9,6,7,0,Threats,19,15,1.19 
+2016,03,13,06:25,VG.CyberZen,Threats,overpass,DreamHack Masters Malmö 2016 A..,16,4,12,3,4,1,Threats,11,18,0.63 
+2016,03,13,06:25,Threats,VG.CyberZen,dust2,DreamHack Masters Malmö 2016 A..,13,16,7,8,6,8,Threats,19,21,0.97 
+2016,03,12,14:00,7GU6,Threats,inferno,DreamHack Masters Malmö 2016 A..,8,16,7,8,1,8,Threats,20,12,1.42 
+2016,02,23,14:00,J2G,Threats,mirage,Born To Win Invitational Leagu..,16,12,12,3,4,9,Threats,12,19,0.68 
+2016,02,21,17:00,Threats,Expendables,inferno,Born To Win Invitational Leagu..,16,12,13,2,3,10,Threats,28,18,1.54 
+2016,02,21,12:00,Threats,MVP.karnal,cache,Born To Win Invitational Leagu..,7,16,3,12,4,4,Threats,12,19,0.75 
+2015,12,16,13:00,inchk1ng,Skyred,dust2,D!ngIT CS:GO Asia Invitational..,13,16,9,6,4,10,Skyred,27,17,1.50 
+2015,12,16,13:00,Skyred,inchk1ng,cache,D!ngIT CS:GO Asia Invitational..,16,7,10,5,6,2,Skyred,18,12,1.30 
+2015,12,16,13:00,Skyred,inchk1ng,mirage,D!ngIT CS:GO Asia Invitational..,11,16,9,6,2,10,Skyred,18,19,0.97 
+2015,12,15,14:00,Skyred,CyberZen,cache,SoStronk KOTH Asia #2,3,16,3,12,0,4,Skyred,7,17,0.42 
+2015,12,15,14:00,CyberZen,Skyred,inferno,SoStronk KOTH Asia #2,16,1,14,1,2,0,Skyred,7,16,0.43 
+2015,12,15,14:00,CyberZen,Skyred,mirage,SoStronk KOTH Asia #2,9,16,8,7,1,9,Skyred,18,15,1.02 
+2015,12,15,14:00,CyberZen,Skyred,train,SoStronk KOTH Asia #2,16,2,14,1,2,1,Skyred,5,18,0.23 
+2015,12,13,12:00,TyLoo,Skyred,inferno,Game On Asian Invitational,19,15,7,8,8,7,Skyred,27,26,0.99 
+2015,12,13,12:00,Skyred,TyLoo,cache,Game On Asian Invitational,11,16,4,11,7,5,Skyred,9,21,0.50 

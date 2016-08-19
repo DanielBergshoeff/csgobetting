@@ -1,0 +1,11 @@
+2015,04,04,10:00,Publiclir.se,PlayingDucks,cache,Copenhagen Games 2015,11,16,8,7,3,9,Publiclir.se,19,21,0.94 
+2015,04,03,22:30,Property,Publiclir.se,dust2,Copenhagen Games 2015,16,2,13,2,3,0,Publiclir.se,10,17,0.57 
+2015,04,03,22:30,Publiclir.se,Property,cache,Copenhagen Games 2015,7,16,6,9,1,7,Publiclir.se,10,22,0.42 
+2015,04,03,22:30,Publiclir.se,Property,inferno,Copenhagen Games 2015,16,5,13,2,3,3,Publiclir.se,17,13,1.13 
+2015,04,03,19:00,Publiclir.se,myKPV,inferno,Copenhagen Games 2015,16,14,9,6,7,8,Publiclir.se,15,23,0.65 
+2015,04,03,19:00,Publiclir.se,myKPV,cache,Copenhagen Games 2015,16,14,9,6,7,8,Publiclir.se,19,17,0.94 
+2015,04,03,15:30,Virtus.pro,Publiclir.se,cache,Copenhagen Games 2015,16,5,11,4,5,1,Publiclir.se,5,20,0.27 
+2015,04,03,15:30,Virtus.pro,Publiclir.se,mirage,Copenhagen Games 2015,16,2,14,1,2,1,Publiclir.se,6,18,0.31 
+2015,04,03,12:00,Publiclir.se,myKPV,mirage,Copenhagen Games 2015,16,12,9,6,7,6,Publiclir.se,23,17,1.19 
+2015,04,03,12:00,myKPV,Publiclir.se,cache,Copenhagen Games 2015,10,16,7,8,3,8,Publiclir.se,23,12,1.38 
+2015,04,03,12:00,myKPV,Publiclir.se,inferno,Copenhagen Games 2015,16,11,11,4,5,7,Publiclir.se,15,20,0.87 

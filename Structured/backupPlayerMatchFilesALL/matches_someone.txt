@@ -1,0 +1,7 @@
+2016,08,14,14:30,Orange,Signature,nuke,ESEA Open Season 22 Asia,6,16,5,10,1,6,Orange,12,18,0.71 
+2016,08,14,14:30,Orange,Signature,overpass,ESEA Open Season 22 Asia,10,16,8,7,2,9,Orange,13,20,0.67 
+2016,08,12,16:00,4dimensioN,Orange,inferno,ESEA Open Season 22 Asia,11,16,5,10,6,6,Orange,19,14,1.17 
+2016,08,12,16:00,4dimensioN,Orange,cache,ESEA Open Season 22 Asia,16,14,9,6,7,8,Orange,22,21,1.01 
+2016,08,12,16:00,4dimensioN,Orange,train,ESEA Open Season 22 Asia,13,16,8,7,5,9,Orange,25,21,1.23 
+2016,07,02,14:00,Malaysia,Mongolia,cache,World Championships 2016 Asian..,2,16,2,13,0,3,Malaysia,10,18,0.50 
+2016,07,02,14:00,Malaysia,Mongolia,dust2,World Championships 2016 Asian..,4,16,3,12,1,4,Malaysia,7,19,0.45 

@@ -1,0 +1,10 @@
+2015,04,03,22:30,Menace,Badger,dust2,Copenhagen Games 2015,16,10,11,4,5,6,Badger,21,20,1.11 
+2015,04,03,15:30,Badger,INSHOCK,dust2,Copenhagen Games 2015,6,16,5,10,1,6,Badger,13,19,0.74 
+2015,04,03,15:30,INSHOCK,Badger,nuke,Copenhagen Games 2015,16,5,11,4,5,1,Badger,12,17,0.74 
+2015,04,03,12:00,G2,Badger,dust2,Copenhagen Games 2015,16,10,10,5,6,5,Badger,22,19,1.13 
+2015,04,03,12:00,Badger,G2,mirage,Copenhagen Games 2015,2,16,2,13,0,3,Badger,8,17,0.42 
+2015,04,02,23:30,FONA,Badger,dust2,Copenhagen Games 2015,5,16,5,10,0,6,Badger,30,12,2.04 
+2015,04,02,21:40,Badger,Sapiens,mirage,Copenhagen Games 2015,16,10,10,5,6,5,Badger,25,21,1.12 
+2015,04,02,19:00,Badger,SpaceSoldiers,mirage,Copenhagen Games 2015,8,16,8,7,0,9,Badger,17,21,0.94 
+2015,04,02,14:00,CPLAY,Badger,dust2,Copenhagen Games 2015,16,2,13,2,3,0,Badger,7,16,0.42 
+2015,04,02,14:00,Badger,CPLAY,inferno,Copenhagen Games 2015,8,16,2,13,6,3,Badger,9,16,0.59 

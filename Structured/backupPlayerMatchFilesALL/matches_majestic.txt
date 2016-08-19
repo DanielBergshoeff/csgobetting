@@ -1,0 +1,3 @@
+2016,08,11,12:30,Incept,AthleticoBH,cache,ESEA Open Season 22 Oceania,12,16,3,12,9,4,Incept,22,20,1.20 
+2016,08,11,12:30,Incept,AthleticoBH,train,ESEA Open Season 22 Oceania,21,25,11,4,4,11,Incept,40,33,1.17 
+2015,10,09,20:30,Denmark,Sweden,mirage,King of Nordic Season 2,5,16,5,10,0,6,Denmark,14,17,0.91 

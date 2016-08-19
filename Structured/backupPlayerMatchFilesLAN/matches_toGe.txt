@@ -1,0 +1,16 @@
+2014,10,05,15:40,juho'steam,KIPSIk'steam,dust2,Areena #6 by ROCCAT,16,10,10,5,6,5,KIPSIk's team,9,21,0.47 
+2014,10,05,14:30,fAlsu'steam,KIPSIk'steam,dust2,Areena #6 by ROCCAT,16,12,12,3,4,9,KIPSIk's team,16,20,0.82 
+2014,10,05,13:20,naSu'steam,KIPSIk'steam,dust2,Areena #6 by ROCCAT,8,16,5,10,3,6,KIPSIk's team,17,14,1.10 
+2014,10,05,12:20,KIPSIk'steam,sAw'steam,mirage,Areena #6 by ROCCAT,11,16,7,8,4,8,KIPSIk's team,20,19,1.03 
+2014,10,05,11:25,Twista'steam,KIPSIk'steam,cache,Areena #6 by ROCCAT,15,15,6,9,9,6,KIPSIk's team,25,16,1.25 
+2014,10,05,10:25,osku'steam,KIPSIk'steam,dust2,Areena #6 by ROCCAT,12,16,10,5,2,11,KIPSIk's team,19,18,1.07 
+2014,10,05,00:00,Jynttä,Hanatauki,dust2,Areena #5 by ROCCAT,16,12,10,5,6,7,Jynttä,14,19,0.70 
+2014,10,05,00:00,Hanatauki,Jynttä,cache,Areena #5 by ROCCAT,9,16,5,10,4,6,Jynttä,19,15,1.12 
+2014,10,04,22:50,ROTY,Jynttä,mirage,Areena #5 by ROCCAT,16,12,9,6,7,6,Jynttä,19,20,0.95 
+2014,10,04,22:50,Jynttä,ROTY,nuke,Areena #5 by ROCCAT,5,16,4,11,1,5,Jynttä,12,18,0.76 
+2014,10,04,16:40,Jynttä,Superstars,mirage,Areena #5 by ROCCAT,16,14,5,10,11,4,Jynttä,17,17,0.90 
+2014,10,04,15:00,ROTY,Jynttä,mirage,Areena #5 by ROCCAT,15,15,9,6,6,9,Jynttä,13,21,0.66 
+2014,10,04,14:00,GLSHAKER,Jynttä,inferno,Areena #5 by ROCCAT,13,16,9,6,4,10,Jynttä,17,19,0.97 
+2014,10,04,12:00,Jynttä,Menace,dust2,Areena #5 by ROCCAT,9,16,7,8,2,8,Jynttä,12,16,0.76 
+2014,10,04,11:00,Hanatauki,Jynttä,mirage,Areena #5 by ROCCAT,10,16,4,11,6,5,Jynttä,18,19,0.91 
+2014,10,04,10:00,Jynttä,myMDL,inferno,Areena #5 by ROCCAT,16,7,11,4,5,3,Jynttä,16,10,1.27 

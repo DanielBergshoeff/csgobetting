@@ -1,0 +1,7 @@
+2014,12,20,22:45,dotpiXels,myKPV,mirage,Acer A-Split Invitational powe..,16,6,12,3,4,3,dotpiXels,12,13,0.92 
+2014,12,20,19:35,myKPV,dotpiXels,cache,Acer A-Split Invitational powe..,21,18,9,6,6,9,dotpiXels,19,29,0.71 
+2014,12,20,19:35,myKPV,dotpiXels,overpass,Acer A-Split Invitational powe..,14,16,11,4,3,12,dotpiXels,33,22,1.52 
+2014,12,20,17:20,Virtus.pro,dotpiXels,cobblestone,Acer A-Split Invitational powe..,16,4,12,3,4,1,dotpiXels,5,18,0.32 
+2014,12,20,17:20,dotpiXels,Virtus.pro,cache,Acer A-Split Invitational powe..,5,16,5,10,0,6,dotpiXels,6,20,0.33 
+2014,12,20,15:15,PENTA,dotpiXels,cache,Acer A-Split Invitational powe..,16,11,12,3,4,8,dotpiXels,23,20,1.29 
+2014,12,20,15:15,dotpiXels,PENTA,dust2,Acer A-Split Invitational powe..,8,16,5,10,3,6,dotpiXels,17,23,0.92 

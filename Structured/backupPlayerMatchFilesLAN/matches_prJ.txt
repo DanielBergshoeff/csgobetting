@@ -1,0 +1,2 @@
+2015,09,06,17:00,DelinquentHabits,Elysium,cobblestone,eGaming CS:GO Championship 201..,16,11,9,6,7,5,Elysium,17,19,0.94 
+2015,09,06,17:00,Elysium,DelinquentHabits,dust2,eGaming CS:GO Championship 201..,9,16,8,7,1,9,Elysium,16,16,0.99 

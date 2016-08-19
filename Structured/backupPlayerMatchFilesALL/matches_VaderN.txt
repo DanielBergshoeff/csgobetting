@@ -1,0 +1,5 @@
+2015,11,07,18:30,Virtus.proStaff,LCStaff,overpass,Virtus.pro Staff Cup #3,8,16,6,9,2,7,Virtus.pro Staff,24,18,1.33 
+2015,11,07,18:30,Virtus.proStaff,LCStaff,cache,Virtus.pro Staff Cup #3,5,16,5,10,0,6,Virtus.pro Staff,14,19,0.75 
+2014,11,15,19:00,Virtus.proStaff,SLTVStaff,nuke,Virtus.pro Staff Cup #1,7,16,7,8,0,8,Virtus.pro Staff,20,19,1.04 
+2014,11,15,17:00,HLTV.orgStaff,Virtus.proStaff,dust2,Virtus.pro Staff Cup #1,16,5,10,5,6,0,Virtus.pro Staff,7,20,0.34 
+2014,11,15,16:00,Virtus.proStaff,RussianeSFStaff,mirage,Virtus.pro Staff Cup #1,16,1,14,1,2,0,Virtus.pro Staff,21,3,2.22 

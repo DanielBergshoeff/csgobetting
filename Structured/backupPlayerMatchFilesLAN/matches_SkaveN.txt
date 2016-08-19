@@ -1,0 +1,3 @@
+2016,05,21,18:45,VECA,tropadeleet,mirage,Tuddinn Spring 2016 LAN Finals,16,14,6,9,10,5,VECA,16,17,0.90 
+2016,05,21,18:45,VECA,tropadeleet,cobblestone,Tuddinn Spring 2016 LAN Finals,16,11,6,9,10,2,VECA,17,17,1.02 
+2016,05,21,18:45,tropadeleet,VECA,dust2,Tuddinn Spring 2016 LAN Finals,16,12,11,4,5,8,VECA,10,20,0.59 

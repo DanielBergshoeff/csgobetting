@@ -1,0 +1,4 @@
+2016,06,28,11:00,Mongolia,Lebanon,mirage,World Championships 2016 Asian..,16,14,10,5,6,9,Lebanon,28,22,1.29 
+2016,06,28,11:00,Mongolia,Lebanon,cache,World Championships 2016 Asian..,16,11,11,4,5,7,Lebanon,18,19,0.93 
+2016,06,23,11:00,Iran,Lebanon,mirage,World Championships 2016 Asian..,22,25,7,8,8,7,Lebanon,33,30,1.03 
+2016,06,23,11:00,Lebanon,Iran,cache,World Championships 2016 Asian..,16,11,6,9,10,2,Lebanon,25,13,1.43 

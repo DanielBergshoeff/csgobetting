@@ -1,0 +1,25 @@
+2015,12,16,13:00,inchk1ng,Skyred,dust2,D!ngIT CS:GO Asia Invitational..,13,16,9,6,4,10,Skyred,21,17,1.12 
+2015,12,16,13:00,Skyred,inchk1ng,cache,D!ngIT CS:GO Asia Invitational..,16,7,10,5,6,2,Skyred,10,18,0.62 
+2015,12,16,13:00,Skyred,inchk1ng,mirage,D!ngIT CS:GO Asia Invitational..,11,16,9,6,2,10,Skyred,19,22,0.82 
+2015,09,25,21:30,Skyred,Vexed,overpass,DreamHack Open Cluj-Napoca 201..,12,16,10,5,2,11,Skyred,15,23,0.66 
+2015,09,25,21:30,Vexed,Skyred,cache,DreamHack Open Cluj-Napoca 201..,16,14,6,9,10,5,Skyred,18,23,0.79 
+2015,09,25,12:37,Titan,Skyred,dust2,DreamHack Open Cluj-Napoca 201..,16,7,11,4,5,3,Skyred,9,19,0.54 
+2015,09,25,12:30,Titan,Skyred,inferno,DreamHack Open Cluj-Napoca 201..,16,8,10,5,6,3,Skyred,15,17,0.83 
+2015,09,12,19:00,Insidious,Skyred,mirage,MixBOT Pro-League Invite Seaso..,5,16,4,11,1,5,Skyred,13,14,0.87 
+2015,09,12,15:40,Skyred,Brutality,dust2,MixBOT Pro-League Invite Seaso..,16,9,8,7,8,2,Skyred,20,14,1.28 
+2015,09,06,15:00,Skyred,QeeYou,inferno,DreamHack Open Cluj-Napoca 201..,11,16,8,7,3,9,Skyred,19,15,1.38 
+2015,09,06,15:00,QeeYou,Skyred,cobblestone,DreamHack Open Cluj-Napoca 201..,16,10,9,6,7,4,Skyred,12,21,0.59 
+2015,09,06,12:20,Skyred,TyLoo,mirage,DreamHack Open Cluj-Napoca 201..,16,5,12,3,4,2,Skyred,17,11,1.18 
+2015,09,06,12:20,Skyred,TyLoo,inferno,DreamHack Open Cluj-Napoca 201..,16,11,8,7,8,4,Skyred,8,18,0.56 
+2015,09,06,09:00,Skyred,nxl,dust2,DreamHack Open Cluj-Napoca 201..,16,8,12,3,4,5,Skyred,19,15,1.14 
+2015,09,06,09:00,nxl,Skyred,mirage,DreamHack Open Cluj-Napoca 201..,16,12,9,6,7,6,Skyred,19,21,0.98 
+2015,09,06,09:00,nxl,Skyred,cobblestone,DreamHack Open Cluj-Napoca 201..,12,16,8,7,4,9,Skyred,19,20,0.92 
+2015,07,19,05:00,myRevenge,Skyred,dust2,ESL One Cologne 2015 Asian Qua..,16,14,6,9,10,5,Skyred,19,26,0.75 
+2015,07,18,08:50,Skyred,Immunity,inferno,ESL One Cologne 2015 Asian Qua..,8,16,7,8,1,8,Skyred,13,19,0.73 
+2015,07,18,07:35,Skyred,myRevenge,cache,ESL One Cologne 2015 Asian Qua..,16,9,10,5,6,4,Skyred,18,16,1.10 
+2015,06,06,13:00,Skyred,Bovines,inferno,FACEIT SEA Launch Cup,16,10,9,6,7,4,Skyred,15,16,0.89 
+2015,06,05,15:00,myRevenge,Skyred,inferno,FACEIT SEA Launch Cup,11,16,9,6,2,10,Skyred,18,19,0.95 
+2015,04,19,18:30,Skyred,TyLoo,cache,Rising Stars Asia #1,16,3,13,2,3,1,Skyred,16,14,1.13 
+2015,04,19,18:30,TyLoo,Skyred,dust2,Rising Stars Asia #1,11,16,7,8,4,8,Skyred,16,17,0.93 
+2015,04,19,17:15,Skyred,ZZCY,inferno,Rising Stars Asia #1,16,4,12,3,4,1,Skyred,9,10,0.93 
+2015,04,18,16:53,Skyred,Puzzle,cache,Rising Stars Asia #1,19,16,9,6,6,9,Skyred,16,26,0.62 

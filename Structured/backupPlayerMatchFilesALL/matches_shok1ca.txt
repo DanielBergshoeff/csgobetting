@@ -1,0 +1,5 @@
+2014,05,25,15:00,HEADSHOTBG,proWince,mirage,Gaming Challenge 2014,16,13,8,7,8,6,proWince,15,20,0.81 
+2014,05,25,15:00,HEADSHOTBG,proWince,inferno,Gaming Challenge 2014,10,16,7,8,3,8,proWince,20,16,1.16 
+2014,05,25,15:00,proWince,HEADSHOTBG,nuke,Gaming Challenge 2014,5,16,4,11,1,5,proWince,16,16,0.87 
+2014,05,25,11:00,iNation,proWince,mirage,Gaming Challenge 2014,16,12,12,3,4,9,proWince,7,22,0.40 
+2014,05,25,09:00,proWince,DELTA,nuke,Gaming Challenge 2014,16,2,13,2,3,0,proWince,14,8,1.30 

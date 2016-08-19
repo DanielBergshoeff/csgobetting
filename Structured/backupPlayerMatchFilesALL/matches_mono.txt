@@ -1,0 +1,33 @@
+2016,08,07,16:20,Refuse,MMCLUB,cache,ECS Season 2 EU Open Qualifier..,12,16,4,11,8,5,Refuse,22,21,1.01 
+2016,08,07,15:10,Refuse,DarkPassage,cache,ECS Season 2 EU Open Qualifier..,16,12,9,6,7,6,Refuse,19,17,1.07 
+2016,05,29,15:10,Dobry&Gaming,Refuse,train,GeForce CUP at ESPORT NOW 2016,16,14,11,4,5,10,Refuse,18,23,0.81 
+2016,05,29,15:10,Dobry&Gaming,Refuse,cache,GeForce CUP at ESPORT NOW 2016,16,9,7,8,9,1,Refuse,6,20,0.39 
+2016,05,28,19:15,iNETKOXTV,Refuse,inferno,GeForce CUP at ESPORT NOW 2016,8,16,7,8,1,8,Refuse,20,15,1.20 
+2016,05,28,19:15,iNETKOXTV,Refuse,dust2,GeForce CUP at ESPORT NOW 2016,11,16,4,11,7,5,Refuse,9,18,0.59 
+2016,05,28,19:15,iNETKOXTV,Refuse,cache,GeForce CUP at ESPORT NOW 2016,16,6,11,4,5,2,Refuse,8,20,0.40 
+2016,02,21,15:00,Refuse,Cl4nless,cache,Cracow Game Spot 2016,16,1,14,1,2,0,Refuse,18,7,1.71 
+2016,02,21,15:00,Refuse,Cl4nless,mirage,Cracow Game Spot 2016,16,14,7,8,9,6,Refuse,11,21,0.59 
+2016,02,21,15:00,Refuse,Cl4nless,dust2,Cracow Game Spot 2016,13,16,8,7,5,9,Refuse,11,18,0.69 
+2016,01,10,12:00,ENCE,Refuse,dust2,DreamHack Open Leipzig 2016 Cl..,16,8,9,6,7,2,Refuse,13,18,0.73 
+2016,01,10,12:00,Refuse,ENCE,mirage,DreamHack Open Leipzig 2016 Cl..,14,16,11,4,3,12,Refuse,23,21,1.06 
+2015,12,22,23:15,ex-USSR,enable,dust2,D!ngIT $2000 Weekly Cup #31,16,7,9,6,7,1,ex-USSR,20,11,1.30 
+2015,12,22,23:15,enable,ex-USSR,cache,D!ngIT $2000 Weekly Cup #31,16,12,6,9,10,3,ex-USSR,20,19,1.07 
+2015,12,18,22:00,ex-USSR,PiTER,overpass,QuickShot Arena #19,16,13,9,6,7,7,ex-USSR,27,20,1.31 
+2015,12,18,22:00,ex-USSR,PiTER,cache,QuickShot Arena #19,16,12,5,10,11,2,ex-USSR,20,18,0.97 
+2015,12,18,22:00,PiTER,ex-USSR,mirage,QuickShot Arena #19,16,11,10,5,6,6,ex-USSR,7,21,0.42 
+2015,12,18,19:30,ex-USSR,EpiphanyBolt,cache,QuickShot Arena #19,16,5,10,5,6,0,ex-USSR,21,9,1.52 
+2015,12,18,19:30,EpiphanyBolt,ex-USSR,mirage,QuickShot Arena #19,1,16,1,14,0,2,ex-USSR,17,2,1.90 
+2015,12,16,22:00,ex-USSR,nEophyte,mirage,QuickShot Arena #19,16,9,7,8,9,1,ex-USSR,19,15,1.12 
+2015,12,16,19:30,Enso,ex-USSR,mirage,QuickShot Arena #19,11,16,6,9,5,7,ex-USSR,18,17,1.03 
+2015,12,16,17:00,OnlineBOTS,ex-USSR,cache,QuickShot Arena #19,16,5,10,5,6,0,ex-USSR,10,17,0.64 
+2015,11,22,13:30,USSR,Vexed,mirage,Color League by EIZO & QPAD,8,16,6,9,2,7,USSR,10,20,0.56 
+2015,11,22,13:30,Vexed,USSR,cache,Color League by EIZO & QPAD,16,9,12,3,4,6,USSR,9,18,0.58 
+2015,11,22,13:30,Vexed,USSR,overpass,Color League by EIZO & QPAD,16,7,11,4,5,3,USSR,18,19,0.95 
+2015,11,21,20:30,Vexed,USSR,inferno,Color League by EIZO & QPAD,14,16,5,10,9,6,USSR,28,19,1.41 
+2015,11,21,20:30,USSR,Vexed,dust2,Color League by EIZO & QPAD,16,8,10,5,6,3,USSR,22,15,1.41 
+2015,11,21,20:30,Vexed,USSR,overpass,Color League by EIZO & QPAD,25,22,9,6,6,9,USSR,30,32,0.94 
+2015,11,21,10:40,USSR,ALSEN,mirage,Color League by EIZO & QPAD,16,5,11,4,5,1,USSR,14,8,1.12 
+2015,11,21,10:40,USSR,ALSEN,cache,Color League by EIZO & QPAD,16,13,6,9,10,4,USSR,18,18,0.93 
+2015,11,21,10:40,ALSEN,USSR,dust2,Color League by EIZO & QPAD,16,14,6,9,10,5,USSR,24,20,1.08 
+2015,11,06,19:15,VegaSquadron,USSR,cache,SLTV ProSeries XIV,16,12,12,3,4,9,USSR,22,19,1.04 
+2015,11,06,19:15,VegaSquadron,USSR,mirage,SLTV ProSeries XIV,16,12,9,6,7,6,USSR,23,19,1.13 

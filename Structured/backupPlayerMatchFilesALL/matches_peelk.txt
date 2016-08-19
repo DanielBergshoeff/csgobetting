@@ -1,0 +1,30 @@
+2016,07,16,17:20,Wololos,gBots,cache,DreamHack Valencia 2016,14,16,8,7,6,9,Wololos,20,21,0.98 
+2016,07,16,17:20,Wololos,gBots,cobblestone,DreamHack Valencia 2016,16,7,11,4,5,3,Wololos,19,15,1.15 
+2016,07,16,17:20,gBots,Wololos,mirage,DreamHack Valencia 2016,16,13,13,2,3,11,Wololos,18,20,0.93 
+2016,07,16,11:00,Wololos,beGenius,train,DreamHack Valencia 2016,11,16,9,6,2,10,Wololos,11,23,0.50 
+2016,07,16,11:00,Wololos,beGenius,mirage,DreamHack Valencia 2016,16,6,14,1,2,5,Wololos,24,12,1.68 
+2016,07,16,11:00,beGenius,Wololos,cache,DreamHack Valencia 2016,16,14,9,6,7,8,Wololos,19,21,0.93 
+2016,07,15,11:30,KIYF,Wololos,mirage,DreamHack Valencia 2016,3,16,2,13,1,3,Wololos,21,7,1.81 
+2016,07,15,11:30,KIYF,Wololos,train,DreamHack Valencia 2016,6,16,3,12,3,4,Wololos,16,12,1.16 
+2016,03,20,13:00,NewSkillInfinity,dignitas,inferno,DreamHack Masters Malmö 2016 E..,3,16,3,12,0,4,NewSkill Infinity,9,17,0.54 
+2016,03,20,13:00,dignitas,NewSkillInfinity,mirage,DreamHack Masters Malmö 2016 E..,19,15,5,10,10,5,NewSkill Infinity,20,28,0.75 
+2015,12,06,19:00,gBots,x6tence,mirage,LVP Season 9 Division de Honor..,16,8,8,7,8,1,gBots,24,15,1.46 
+2015,12,06,19:00,x6tence,gBots,dust2,LVP Season 9 Division de Honor..,11,16,9,6,2,10,gBots,22,20,1.04 
+2015,12,06,11:00,Atlantis,gBots,inferno,LVP Season 9 Division de Honor..,12,16,8,7,4,9,gBots,18,20,0.85 
+2015,12,06,11:00,gBots,Atlantis,train,LVP Season 9 Division de Honor..,16,5,13,2,3,3,gBots,20,15,1.25 
+2015,12,05,12:00,gBots,overGame,cache,LVP Season 9 Division de Honor..,16,10,9,6,7,4,gBots,22,14,1.20 
+2015,12,04,18:30,gBots,EvidentVictory,dust2,LVP Season 9 Division de Honor..,16,5,13,2,3,3,gBots,12,12,1.02 
+2015,11,23,21:00,BX3,gBots,dust2,Game Show Global eSports Cup 2..,16,12,7,8,9,4,gBots,17,22,0.74 
+2015,11,23,21:00,gBots,BX3,cache,Game Show Global eSports Cup 2..,11,16,6,9,5,7,gBots,18,24,0.75 
+2015,11,23,18:30,AliGon,gBots,dust2,Game Show Global eSports Cup 2..,16,12,5,10,11,2,gBots,19,20,0.97 
+2015,11,23,18:30,gBots,AliGon,train,Game Show Global eSports Cup 2..,8,16,7,8,1,8,gBots,14,17,0.89 
+2015,11,15,20:45,gBots,x6tence,inferno,LVP Season 9 Division de Honor..,13,16,6,9,7,7,gBots,14,22,0.74 
+2015,11,15,20:45,gBots,x6tence,mirage,LVP Season 9 Division de Honor..,7,16,7,8,0,8,gBots,18,17,0.99 
+2015,11,12,21:45,gBots,KIYF,cobblestone,LVP Season 9 Division de Honor..,16,11,8,7,8,4,gBots,22,17,1.15 
+2015,11,12,21:45,gBots,KIYF,train,LVP Season 9 Division de Honor..,16,8,8,7,8,1,gBots,14,17,0.89 
+2015,10,08,20:00,gBots,OverGaming,cache,LVP Season 9 División de Honor..,16,3,12,3,4,0,gBots,18,11,1.38 
+2015,10,08,20:00,gBots,OverGaming,train,LVP Season 9 División de Honor..,16,7,9,6,7,1,gBots,24,13,1.58 
+2015,10,07,21:00,KIYF,gBots,mirage,LVP Season 9 División de Honor..,13,16,9,6,4,10,gBots,15,25,0.64 
+2015,10,07,21:00,KIYF,gBots,dust2,LVP Season 9 División de Honor..,7,16,3,12,4,4,gBots,21,15,1.32 
+2015,09,14,21:40,Spain,France,inferno,World Championships 2015 Europ..,5,16,3,12,2,4,Spain,15,15,1.02 
+2015,09,05,18:55,INFINITY,gBots,inferno,DreamHack Open Cluj-Napoca 201..,16,14,12,3,4,11,gBots,29,18,1.52 

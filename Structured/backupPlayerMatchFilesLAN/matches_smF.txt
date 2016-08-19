@@ -1,0 +1,48 @@
+2016,03,25,22:30,Publiclir.se,CPHWolves,cache,Copenhagen Games 2016,16,12,10,5,6,7,CPH Wolves,11,19,0.63 
+2016,03,25,22:30,Publiclir.se,CPHWolves,overpass,Copenhagen Games 2016,16,10,9,6,7,4,CPH Wolves,21,22,0.96 
+2016,03,25,13:30,E-frag.net,CPHWolves,dust2,Copenhagen Games 2016,9,16,3,12,6,4,CPH Wolves,18,14,1.03 
+2016,03,25,11:50,Alpha,CPHWolves,overpass,Copenhagen Games 2016,10,16,6,9,4,7,CPH Wolves,27,14,1.53 
+2016,02,06,16:30,CPHWolves,ENCE,cobblestone,Assembly Winter 2016,4,16,2,13,2,3,CPH Wolves,10,15,0.65 
+2016,02,06,16:30,CPHWolves,ENCE,dust2,Assembly Winter 2016,7,16,3,12,4,4,CPH Wolves,13,18,0.73 
+2016,02,05,19:00,CPHWolves,RCTIC,cobblestone,Assembly Winter 2016,16,3,12,3,4,0,CPH Wolves,14,8,1.15 
+2016,02,05,19:00,CPHWolves,RCTIC,dust2,Assembly Winter 2016,16,13,5,10,11,3,CPH Wolves,21,20,1.02 
+2016,02,05,12:55,Orgless,CPHWolves,cobblestone,Assembly Winter 2016,8,16,5,10,3,6,CPH Wolves,24,13,1.35 
+2016,02,05,11:45,CPHWolves,LDLCBlue,overpass,Assembly Winter 2016,13,16,6,9,7,7,CPH Wolves,12,19,0.69 
+2015,04,11,13:40,3DMAX,CPHWolves,nuke,ESL Pro League Winter 2014/15 ..,16,14,7,8,9,6,CPH Wolves,15,24,0.70 
+2015,04,11,13:40,CPHWolves,3DMAX,cobblestone,ESL Pro League Winter 2014/15 ..,7,16,7,8,0,8,CPH Wolves,18,18,0.96 
+2015,04,10,14:00,CPHWolves,EnVyUs,inferno,ESL Pro League Winter 2014/15 ..,4,16,3,12,1,4,CPH Wolves,12,17,0.80 
+2015,04,10,14:00,EnVyUs,CPHWolves,overpass,ESL Pro League Winter 2014/15 ..,16,6,11,4,5,2,CPH Wolves,15,18,0.80 
+2015,04,04,15:15,dignitas,CPHWolves,dust2,Copenhagen Games 2015,16,6,10,5,6,1,CPH Wolves,11,15,0.73 
+2015,04,04,13:30,CPHWolves,Orbit,overpass,Copenhagen Games 2015,16,11,12,3,4,8,CPH Wolves,18,15,1.03 
+2015,04,04,10:00,CPHWolves,LGB,mirage,Copenhagen Games 2015,9,16,6,9,3,7,CPH Wolves,16,18,0.97 
+2015,04,04,10:00,CPHWolves,LGB,overpass,Copenhagen Games 2015,5,16,4,11,1,5,CPH Wolves,15,17,0.97 
+2015,04,03,22:30,CPHWolves,3DMAX,mirage,Copenhagen Games 2015,16,8,12,3,4,5,CPH Wolves,16,14,0.97 
+2015,04,03,22:30,CPHWolves,3DMAX,overpass,Copenhagen Games 2015,16,1,14,1,2,0,CPH Wolves,12,5,1.40 
+2015,04,03,22:30,CPHWolves,3DMAX,nuke,Copenhagen Games 2015,8,16,8,7,0,9,CPH Wolves,11,19,0.58 
+2015,04,03,19:00,Menace,CPHWolves,dust2,Copenhagen Games 2015,12,16,9,6,3,10,CPH Wolves,20,15,1.18 
+2015,04,03,19:00,CPHWolves,Menace,overpass,Copenhagen Games 2015,16,10,8,7,8,3,CPH Wolves,28,16,1.64 
+2015,04,03,15:30,CPHWolves,dignitas,cobblestone,Copenhagen Games 2015,16,19,8,7,7,8,CPH Wolves,21,29,0.79 
+2015,04,03,15:30,dignitas,CPHWolves,inferno,Copenhagen Games 2015,16,10,7,8,9,2,CPH Wolves,13,16,0.75 
+2015,04,03,12:00,Menace,CPHWolves,dust2,Copenhagen Games 2015,13,16,5,10,8,6,CPH Wolves,24,19,1.31 
+2015,04,03,12:00,Menace,CPHWolves,overpass,Copenhagen Games 2015,9,16,8,7,1,9,CPH Wolves,16,15,1.07 
+2015,02,14,22:00,Titan,CPHWolves,nuke,ESL One Katowice 2015 Main Qua..,16,4,14,1,2,3,CPH Wolves,6,18,0.36 
+2015,02,14,20:10,CPHWolves,Liquid,mirage,ESL One Katowice 2015 Main Qua..,16,10,9,6,7,4,CPH Wolves,20,14,1.20 
+2015,02,14,16:30,CPHWolves,LGB,inferno,ESL One Katowice 2015 Main Qua..,8,16,5,10,3,6,CPH Wolves,16,16,0.93 
+2014,12,21,23:50,Virtus.pro,Reason,nuke,Acer A-Split Invitational powe..,16,7,12,3,4,4,Reason,19,19,1.06 
+2014,12,21,23:50,Reason,Virtus.pro,cobblestone,Acer A-Split Invitational powe..,11,16,8,7,3,9,Reason,15,21,0.73 
+2014,12,21,20:30,PENTA,Reason,overpass,Acer A-Split Invitational powe..,4,16,3,12,1,4,Reason,14,8,1.22 
+2014,12,21,20:30,PENTA,Reason,overpass,Acer A-Split Invitational powe..,14,16,5,10,9,6,Reason,22,22,0.96 
+2014,12,21,20:30,Reason,PENTA,cache,Acer A-Split Invitational powe..,3,16,3,12,0,4,Reason,11,19,0.54 
+2014,12,21,17:15,Reason,Virtus.pro,mirage,Acer A-Split Invitational powe..,6,16,5,10,1,6,Reason,11,18,0.65 
+2014,12,21,17:15,Reason,Virtus.pro,cobblestone,Acer A-Split Invitational powe..,12,16,10,5,2,11,Reason,13,23,0.58 
+2014,12,21,13:00,Reason,PENTA,overpass,Acer A-Split Invitational powe..,16,14,8,7,8,7,Reason,19,21,0.99 
+2014,12,21,13:00,Reason,PENTA,mirage,Acer A-Split Invitational powe..,16,2,13,2,3,0,Reason,15,6,1.56 
+2014,12,20,01:30,Reason,ALTERNATEaTTaX,dust2,Acer A-Split Invitational powe..,16,11,8,7,8,4,Reason,25,13,1.49 
+2014,12,20,01:30,ALTERNATEaTTaX,Reason,overpass,Acer A-Split Invitational powe..,5,16,2,13,3,3,Reason,18,12,1.15 
+2014,12,19,16:15,Planetkey,Reason,inferno,Acer A-Split Invitational powe..,8,16,5,10,3,6,Reason,19,10,1.33 
+2014,12,19,16:15,Planetkey,Reason,dust2,Acer A-Split Invitational powe..,16,9,8,7,8,2,Reason,8,21,0.44 
+2014,12,19,16:15,Reason,Planetkey,overpass,Acer A-Split Invitational powe..,16,11,12,3,4,8,Reason,20,15,1.28 
+2014,12,19,13:25,Reason,mousesports,overpass,Acer A-Split Invitational powe..,16,10,13,2,3,8,Reason,19,16,1.10 
+2014,12,19,13:25,mousesports,Reason,cobblestone,Acer A-Split Invitational powe..,15,21,10,5,5,10,Reason,22,27,0.84 
+2014,11,27,22:35,FlipSid3,myXMG,mirage,DreamHack Winter 2014,16,11,7,8,9,3,myXMG,17,22,0.76 
+2014,11,27,18:45,Virtus.pro,myXMG,inferno,DreamHack Winter 2014,16,2,14,1,2,1,myXMG,4,18,0.19 

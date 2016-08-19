@@ -1,0 +1,4 @@
+2014,05,24,20:30,GO4Balkan,GO4Serbia,inferno,GO4Balkan Charity Tournament,16,12,9,6,7,6,GO4Balkan,17,23,0.74 
+2014,05,24,20:30,GO4Balkan,GO4Serbia,dust2,GO4Balkan Charity Tournament,16,10,12,3,4,7,GO4Balkan,16,18,0.88 
+2014,05,24,15:00,GO4Bosnia,GO4Balkan,inferno,GO4Balkan Charity Tournament,14,16,8,7,6,9,GO4Balkan,16,16,0.90 
+2014,05,24,15:00,GO4Bosnia,GO4Balkan,mirage,GO4Balkan Charity Tournament,12,16,7,8,5,8,GO4Balkan,22,21,1.03 

@@ -1,0 +1,10 @@
+2016,02,21,16:00,Raepmashaekel,Torpedo,cache,Nordic Masters Season 2 Finals,5,16,4,11,1,5,Raepmashaekel,9,20,0.51 
+2016,02,21,16:00,Raepmashaekel,Torpedo,train,Nordic Masters Season 2 Finals,16,14,10,5,6,9,Raepmashaekel,23,22,0.99 
+2016,02,21,16:00,Raepmashaekel,Torpedo,mirage,Nordic Masters Season 2 Finals,13,16,5,10,8,6,Raepmashaekel,16,19,0.80 
+2016,02,20,14:30,Raepmashaekel,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,16,5,12,3,4,2,Raepmashaekel,22,13,1.43 
+2016,02,20,14:30,TzatzikiKlubben,Raepmashaekel,inferno,Nordic Masters Season 2 Finals,6,16,3,12,3,4,Raepmashaekel,25,11,1.78 
+2016,02,20,13:00,LGBfe,Raepmashaekel,mirage,Nordic Masters Season 2 Finals,2,16,2,13,0,3,Raepmashaekel,17,9,1.55 
+2015,06,13,21:30,Exertus,dignitas,cache,DreamHack Open Summer 2015 BYO..,6,16,3,12,3,4,Exertus,11,18,0.72 
+2015,06,13,21:30,dignitas,Exertus,mirage,DreamHack Open Summer 2015 BYO..,16,6,12,3,4,3,Exertus,14,16,0.78 
+2015,06,13,19:00,Exertus,KDDA,cache,DreamHack Open Summer 2015 BYO..,16,5,11,4,5,1,Exertus,16,9,1.27 
+2015,06,13,19:00,KDDA,Exertus,mirage,DreamHack Open Summer 2015 BYO..,14,16,9,6,5,10,Exertus,14,22,0.67 

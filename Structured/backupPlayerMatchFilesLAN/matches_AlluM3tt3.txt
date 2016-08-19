@@ -1,0 +1,2 @@
+2016,07,02,11:15,WEGOTGAME,LDLC,dust2,ESL National Championship Fran..,10,16,4,11,6,5,WE GOT GAME,14,16,0.90 
+2016,07,02,11:15,LDLC,WEGOTGAME,cache,ESL National Championship Fran..,16,12,4,11,12,1,WE GOT GAME,11,18,0.64 

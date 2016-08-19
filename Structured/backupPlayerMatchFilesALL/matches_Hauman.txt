@@ -1,0 +1,3 @@
+2016,03,24,17:00,GamersLeague,SvQmmerICruzares,inferno,Copenhagen Games 2016 BYOC Qua..,16,6,10,5,6,1,SvQmmerICruzares,7,19,0.38 
+2016,03,24,15:30,SvQmmerICruzares,AfterClap,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,13,6,9,10,4,SvQmmerICruzares,29,19,1.40 
+2016,03,24,13:00,Iwku,SvQmmerICruzares,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,SvQmmerICruzares,4,18,0.19 

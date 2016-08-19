@@ -1,0 +1,11 @@
+2015,04,23,23:00,ENTiTY,GPlay,dust2,Balkan Superleague,9,16,5,10,4,6,ENTiTY,11,19,0.66 
+2015,04,22,22:15,neXtPlease!,ENTiTY,cache,Balkan Superleague,16,8,9,6,7,2,ENTiTY,15,15,0.96 
+2015,04,21,21:15,ENTiTY,GIANT5,cache,Balkan Superleague,16,6,11,4,5,2,ENTiTY,16,13,1.15 
+2014,11,05,16:30,Netherlands,Macedonia,dust2,European Championship 2014,16,10,10,5,6,5,Macedonia,17,21,0.79 
+2014,11,05,16:30,Netherlands,Macedonia,mirage,European Championship 2014,16,7,11,4,5,3,Macedonia,12,19,0.70 
+2014,10,09,23:15,Denmark,Macedonia,dust2,European Championship 2014,16,1,14,1,2,0,Macedonia,3,17,0.25 
+2014,10,05,21:00,Latvia,Macedonia,inferno,European Championship 2014,13,16,11,4,2,12,Macedonia,31,18,1.52 
+2014,09,09,21:00,Slovakia,Macedonia,mirage,European Championship 2014,16,1,14,1,2,0,Macedonia,5,17,0.28 
+2014,08,18,21:00,Macedonia,Greece,dust2,European Championship 2014 Qua..,16,14,5,10,11,4,Macedonia,17,21,0.77 
+2014,08,18,21:00,Greece,Macedonia,inferno,European Championship 2014 Qua..,16,2,13,2,3,0,Macedonia,8,17,0.51 
+2014,08,18,21:00,Macedonia,Greece,mirage,European Championship 2014 Qua..,16,6,10,5,6,1,Macedonia,13,11,1.01 

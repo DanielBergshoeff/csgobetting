@@ -1,0 +1,15 @@
+2016,08,14,12:30,SSUWhite,AVANTGARDE,nuke,ESEA Open Season 22 Oceania,5,16,2,13,3,3,AVANT GARDE,14,13,0.92 
+2016,08,14,12:30,AVANTGARDE,SSUWhite,overpass,ESEA Open Season 22 Oceania,16,11,11,4,5,7,AVANT GARDE,20,18,1.13 
+2016,07,24,12:00,InFamous,AVANTGARDE,cache,CyberGamer Oceania eSports Mas..,5,16,5,10,0,6,AVANT GARDE,16,8,1.39 
+2016,07,24,12:00,AVANTGARDE,InFamous,mirage,CyberGamer Oceania eSports Mas..,16,2,13,2,3,0,AVANT GARDE,13,6,1.31 
+2016,07,18,12:00,AVANTGARDE,ASDF,dust2,CyberGamer Oceania eSports Mas..,4,16,4,11,0,5,AVANT GARDE,12,17,0.71 
+2016,07,18,12:00,AVANTGARDE,ASDF,train,CyberGamer Oceania eSports Mas..,11,16,7,8,4,8,AVANT GARDE,15,20,0.74 
+2016,07,18,12:00,AVANTGARDE,ASDF,overpass,CyberGamer Oceania eSports Mas..,16,14,7,8,9,6,AVANT GARDE,18,19,0.90 
+2016,07,17,12:00,Reload,AVANTGARDE,mirage,CyberGamer Oceania eSports Mas..,23,25,11,4,4,11,AVANT GARDE,32,30,0.97 
+2016,07,17,12:00,AVANTGARDE,Reload,dust2,CyberGamer Oceania eSports Mas..,16,8,9,6,7,2,AVANT GARDE,18,9,1.28 
+2016,07,12,12:00,AVANTGARDE,Legacy,dust2,CyberGamer Oceania eSports Mas..,16,8,12,3,4,5,AVANT GARDE,9,14,0.68 
+2016,07,12,12:00,AVANTGARDE,Legacy,overpass,CyberGamer Oceania eSports Mas..,16,5,11,4,5,1,AVANT GARDE,10,8,0.99 
+2016,07,12,12:00,Legacy,AVANTGARDE,cache,CyberGamer Oceania eSports Mas..,16,13,5,10,11,3,AVANT GARDE,21,18,1.09 
+2016,07,05,11:30,AVANTGARDE,SYF,train,CyberGamer Oceania eSports Mas..,16,13,10,5,6,8,AVANT GARDE,20,19,1.00 
+2016,07,05,11:30,SYF,AVANTGARDE,mirage,CyberGamer Oceania eSports Mas..,14,16,7,8,7,8,AVANT GARDE,16,21,0.75 
+2016,07,05,11:30,SYF,AVANTGARDE,cache,CyberGamer Oceania eSports Mas..,16,14,5,10,11,4,AVANT GARDE,15,20,0.79 

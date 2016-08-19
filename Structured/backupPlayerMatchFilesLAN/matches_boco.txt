@@ -1,0 +1,10 @@
+2015,06,25,12:30,G2,Rock,overpass,Gaming Paradise Inhouse Qualif..,16,12,11,4,5,8,Rock,23,21,1.12 
+2015,06,25,12:30,G2,Rock,cache,Gaming Paradise Inhouse Qualif..,16,12,6,9,10,3,Rock,16,20,0.83 
+2015,06,25,12:30,Rock,G2,cobblestone,Gaming Paradise Inhouse Qualif..,16,6,10,5,6,1,Rock,19,12,1.30 
+2015,06,24,20:30,Kinguin,Rock,cache,Gaming Paradise Inhouse Qualif..,16,10,13,2,3,8,Rock,8,22,0.45 
+2015,06,24,20:30,Rock,Kinguin,overpass,Gaming Paradise Inhouse Qualif..,14,16,10,5,4,11,Rock,22,25,0.90 
+2015,05,09,16:00,Rock,GPlay,inferno,ESL South East Europe Champion..,13,16,9,6,4,10,Rock,25,21,1.23 
+2015,05,09,16:00,GPlay,Rock,cache,ESL South East Europe Champion..,16,8,13,2,3,6,Rock,5,18,0.40 
+2015,05,08,10:00,GPlay,Rock,dust2,ESL South East Europe Champion..,14,16,6,9,8,7,Rock,19,22,0.86 
+2015,05,08,10:00,GPlay,Rock,inferno,ESL South East Europe Champion..,13,16,7,8,6,8,Rock,13,20,0.69 
+2015,05,08,10:00,Rock,GPlay,cache,ESL South East Europe Champion..,11,16,2,13,9,3,Rock,19,25,0.86 

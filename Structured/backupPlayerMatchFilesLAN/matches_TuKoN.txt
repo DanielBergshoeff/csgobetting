@@ -1,0 +1,7 @@
+2015,09,25,21:30,Skyred,Vexed,overpass,DreamHack Open Cluj-Napoca 201..,12,16,10,5,2,11,Skyred,15,23,0.66 
+2015,09,25,21:30,Vexed,Skyred,cache,DreamHack Open Cluj-Napoca 201..,16,14,6,9,10,5,Skyred,18,23,0.79 
+2015,09,25,12:37,Titan,Skyred,dust2,DreamHack Open Cluj-Napoca 201..,16,7,11,4,5,3,Skyred,9,19,0.54 
+2015,09,25,12:30,Titan,Skyred,inferno,DreamHack Open Cluj-Napoca 201..,16,8,10,5,6,3,Skyred,15,17,0.83 
+2015,07,19,05:00,myRevenge,Skyred,dust2,ESL One Cologne 2015 Asian Qua..,16,14,6,9,10,5,Skyred,19,26,0.75 
+2015,07,18,08:50,Skyred,Immunity,inferno,ESL One Cologne 2015 Asian Qua..,8,16,7,8,1,8,Skyred,13,19,0.73 
+2015,07,18,07:35,Skyred,myRevenge,cache,ESL One Cologne 2015 Asian Qua..,16,9,10,5,6,4,Skyred,18,16,1.10 

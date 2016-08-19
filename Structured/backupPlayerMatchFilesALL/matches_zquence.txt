@@ -1,0 +1,2 @@
+2015,09,21,10:00,Control.VP,Molotov,inferno,FACEIT League 2015 Stage 3 OCE..,16,9,11,4,5,5,Molotov,11,19,0.66 
+2015,09,21,10:00,Molotov,Control.VP,cache,FACEIT League 2015 Stage 3 OCE..,7,16,2,13,5,3,Molotov,7,18,0.48 

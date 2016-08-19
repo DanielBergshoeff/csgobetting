@@ -1,0 +1,2 @@
+2015,11,24,19:00,PENTA,Caseking,cobblestone,99Damage League Season 2,16,11,9,6,7,5,Caseking,21,21,1.20 
+2015,11,24,19:00,PENTA,Caseking,mirage,99Damage League Season 2,16,4,11,4,5,0,Caseking,10,17,0.60 

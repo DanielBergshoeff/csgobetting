@@ -1,0 +1,11 @@
+2016,07,15,14:30,Genus,AlienTech,cobblestone,DreamHack Valencia 2016,7,16,4,11,3,5,Genus,10,20,0.52 
+2016,07,15,14:30,AlienTech,Genus,mirage,DreamHack Valencia 2016,16,9,9,6,7,3,Genus,12,22,0.59 
+2016,07,03,11:00,Phantoms,LosMariachis,cache,AlienTech CS:GO TiTans II Fina..,16,11,6,9,10,2,Los Mariachis,23,17,1.23 
+2016,07,02,11:25,LosMariachis,jA'Vi,cobblestone,AlienTech CS:GO TiTans II Fina..,3,16,3,12,0,4,Los Mariachis,15,18,0.89 
+2016,07,02,11:25,jA'Vi,LosMariachis,dust2,AlienTech CS:GO TiTans II Fina..,16,5,11,4,5,1,Los Mariachis,15,18,0.85 
+2016,04,09,11:30,Galatics,k1ck,mirage,AlienTech CS:GO League Finals,13,16,7,8,6,8,Galatics,17,20,0.86 
+2016,04,09,11:30,Galatics,k1ck,cache,AlienTech CS:GO League Finals,5,16,4,11,1,5,Galatics,6,20,0.36 
+2016,04,08,14:30,AlienTech,Galatics,cache,AlienTech CS:GO League Finals,16,7,10,5,6,2,Galatics,15,20,0.80 
+2016,04,08,14:30,Galatics,AlienTech,inferno,AlienTech CS:GO League Finals,6,16,5,10,1,6,Galatics,12,19,0.59 
+2016,03,19,16:45,Galatics,EasyMind,inferno,AlienTech CS:GO Invitational I,12,16,8,7,4,9,Galatics,19,20,1.01 
+2016,03,19,13:30,ImperioMultimedia,Galatics,inferno,AlienTech CS:GO Invitational I,16,5,10,5,6,0,Galatics,10,16,0.65 

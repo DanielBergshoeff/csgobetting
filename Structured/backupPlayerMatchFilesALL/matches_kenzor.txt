@@ -1,0 +1,8 @@
+2016,08,04,14:00,Preparation,BinaryDragons,overpass,Adrenaline Cyber League,18,21,9,6,6,9,Binary Dragons,27,27,0.98 
+2016,08,04,14:00,Preparation,BinaryDragons,cobblestone,Adrenaline Cyber League,16,9,6,9,10,0,Binary Dragons,19,17,1.10 
+2016,08,04,14:00,BinaryDragons,Preparation,dust2,Adrenaline Cyber League,21,19,6,9,9,6,Binary Dragons,34,24,1.21 
+2016,07,10,11:00,Vesuvius,BinaryDragons,mirage,Game Show Open Season 4 Playof..,16,6,12,3,4,3,Binary Dragons,12,18,0.68 
+2016,07,10,11:00,Vesuvius,BinaryDragons,cache,Game Show Open Season 4 Playof..,16,4,11,4,5,0,Binary Dragons,13,19,0.67 
+2016,07,09,11:00,BinaryDragons,GameplayDNA,cache,Game Show Open Season 4 Playof..,11,16,7,8,4,8,Binary Dragons,19,18,1.05 
+2016,07,09,11:00,GameplayDNA,BinaryDragons,mirage,Game Show Open Season 4 Playof..,6,16,5,10,1,6,Binary Dragons,14,9,1.07 
+2016,07,09,11:00,GameplayDNA,BinaryDragons,cobblestone,Game Show Open Season 4 Playof..,16,12,12,3,4,9,Binary Dragons,25,21,1.14 

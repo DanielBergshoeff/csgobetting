@@ -1,0 +1,2 @@
+2015,09,01,14:00,Philippines,Nepal,overpass,World Championships 2015 Asian..,16,4,12,3,4,1,Nepal,12,18,0.87 
+2015,09,01,12:00,Nepal,Indonesia,dust2,World Championships 2015 Asian..,4,16,3,12,1,4,Nepal,7,15,0.58 

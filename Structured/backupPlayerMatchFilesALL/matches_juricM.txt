@@ -1,0 +1,17 @@
+2016,07,16,09:35,GamePub,faithIN,cache,GamePub 2016,11,16,6,9,5,7,GamePub,14,19,0.72 
+2016,07,16,09:35,GamePub,faithIN,mirage,GamePub 2016,16,1,14,1,2,0,GamePub,15,7,1.52 
+2016,07,16,09:35,GamePub,faithIN,dust2,GamePub 2016,5,16,4,11,1,5,GamePub,8,17,0.53 
+2015,08,17,17:30,Games4ufe,GamePub,dust2,D!ngIT $2000 Weekly Cup #13,16,14,7,8,9,6,GamePub,18,23,0.79 
+2015,08,17,17:30,Games4ufe,GamePub,mirage,D!ngIT $2000 Weekly Cup #13,16,7,13,2,3,5,GamePub,18,21,0.93 
+2015,08,17,17:30,Games4ufe,GamePub,cache,D!ngIT $2000 Weekly Cup #13,9,16,3,12,6,4,GamePub,21,14,1.25 
+2015,06,03,21:00,TRICKED,JakeBube,mirage,Balkan Championship Season 2,16,7,11,4,5,3,Jake Bube,12,18,0.76 
+2015,06,03,21:00,JakeBube,TRICKED,cache,Balkan Championship Season 2,6,16,3,12,3,4,Jake Bube,15,19,0.84 
+2015,05,19,18:00,JakeBube,MiA,dust2,Balkan Championship Season 2,16,14,5,10,11,4,Jake Bube,17,24,0.79 
+2015,05,19,18:00,MiA,JakeBube,cache,Balkan Championship Season 2,16,8,11,4,5,4,Jake Bube,17,20,0.92 
+2015,05,19,18:00,MiA,JakeBube,inferno,Balkan Championship Season 2,11,16,7,8,4,8,Jake Bube,19,18,1.03 
+2015,05,17,19:00,TRICKED,JakeBube,mirage,Balkan Championship Season 2,16,12,9,6,7,6,Jake Bube,17,24,0.75 
+2015,05,17,19:00,JakeBube,TRICKED,inferno,Balkan Championship Season 2,6,16,6,9,0,7,Jake Bube,12,21,0.57 
+2014,05,25,18:00,iNation,SENSEi,mirage,Gaming Challenge 2014,16,6,11,4,5,2,SENSEi,12,19,0.70 
+2014,05,25,18:00,iNation,SENSEi,inferno,Gaming Challenge 2014,16,7,9,6,7,1,SENSEi,8,20,0.47 
+2014,05,25,13:00,SENSEi,HEADSHOTBG,mirage,Gaming Challenge 2014,12,16,5,10,7,6,SENSEi,14,21,0.75 
+2014,05,25,12:00,SENSEi,KOH,inferno,Gaming Challenge 2014,16,6,14,1,2,5,SENSEi,13,11,0.98 

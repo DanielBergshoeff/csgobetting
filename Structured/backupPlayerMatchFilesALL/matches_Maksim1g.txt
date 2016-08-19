@@ -1,0 +1,7 @@
+2016,04,21,10:10,HG,EDG,cobblestone,SL i-League Invitational China..,3,16,3,12,0,4,HG,12,16,0.75 
+2016,04,21,10:10,HG,EDG,dust2,SL i-League Invitational China..,17,19,1,14,14,1,HG,25,25,0.97 
+2016,04,17,13:00,HG,B.O.O.T,inferno,SL i-League Invitational China..,16,9,9,6,7,3,HG,13,13,0.99 
+2016,04,10,15:25,LGD,HG,mirage,SL i-League Invitational China..,16,7,12,3,4,4,HG,18,16,1.26 
+2016,04,10,15:25,HG,LGD,inferno,SL i-League Invitational China..,19,17,5,10,10,5,HG,22,27,0.81 
+2016,04,08,15:00,MVPproject,HG,cobblestone,SL i-League Invitational China..,16,6,11,4,5,2,HG,18,20,0.94 
+2016,04,08,15:00,HG,MVPproject,cache,SL i-League Invitational China..,8,16,6,9,2,7,HG,11,18,0.61 

@@ -1,0 +1,13 @@
+2016,08,15,19:00,VivaAlgeria,FENNEC,mirage,WESG 2016 North & West Africa,16,7,11,4,5,3,FENNEC ,19,19,1.08 
+2016,08,15,19:00,VivaAlgeria,FENNEC,cobblestone,WESG 2016 North & West Africa,14,16,10,5,4,11,FENNEC ,24,23,1.11 
+2016,08,15,19:00,FENNEC,VivaAlgeria,overpass,WESG 2016 North & West Africa,5,16,4,11,1,5,FENNEC ,7,18,0.40 
+2016,08,15,00:15,FENNEC,Tunisia,cobblestone,WESG 2016 North & West Africa,16,9,8,7,8,2,FENNEC ,28,15,1.63 
+2016,08,15,00:15,Tunisia,FENNEC,dust2,WESG 2016 North & West Africa,14,16,5,10,9,6,FENNEC ,24,22,1.02 
+2016,08,03,21:25,Morocco,Algeria,cobblestone,World Championships 2016 Afric..,16,13,6,9,10,4,Algeria,17,21,0.81 
+2016,08,03,20:20,Algeria,Tunisia,mirage,World Championships 2016 Afric..,14,16,8,7,6,9,Algeria,24,22,1.06 
+2016,04,30,20:00,AIMERZZ,fRactals,dust2,Rising Stars Africa Promotiona..,22,19,7,8,8,7,fRactals,21,33,0.67 
+2016,04,30,20:00,fRactals,AIMERZZ,cache,Rising Stars Africa Promotiona..,12,16,2,13,10,3,fRactals,19,21,0.85 
+2016,04,29,19:00,TripGhazi,fRactals,inferno,Rising Stars Africa Promotiona..,15,19,9,6,6,9,fRactals,26,22,1.10 
+2016,04,29,19:00,TripGhazi,fRactals,overpass,Rising Stars Africa Promotiona..,13,16,6,9,7,7,fRactals,34,15,1.77 
+2016,04,27,18:10,drinkpizza!,fRactals,inferno,Rising Stars Africa Promotiona..,12,16,7,8,5,8,fRactals,22,16,1.23 
+2016,04,27,18:10,fRactals,drinkpizza!,cache,Rising Stars Africa Promotiona..,16,6,11,4,5,2,fRactals,26,13,1.66 

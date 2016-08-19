@@ -1,0 +1,12 @@
+2016,07,22,19:00,Overpowered,Executors,dust2,King of Adria,21,16,10,5,5,10,Executors,24,27,0.83 
+2016,07,22,19:00,Overpowered,Executors,cache,King of Adria,12,16,5,10,7,6,Executors,13,18,0.72 
+2016,07,22,19:00,Overpowered,Executors,train,King of Adria,16,8,8,7,8,1,Executors,9,20,0.50 
+2016,07,16,18:50,CS-GO.rs,Executors,cobblestone,GamePub 2016,16,9,8,7,8,2,Executors,17,20,0.87 
+2016,07,16,18:50,CS-GO.rs,Executors,dust2,GamePub 2016,22,20,9,6,6,9,Executors,34,24,1.18 
+2015,05,19,18:00,JakeBube,MiA,dust2,Balkan Championship Season 2,16,14,5,10,11,4,Jake Bube,17,21,0.80 
+2015,05,19,18:00,MiA,JakeBube,cache,Balkan Championship Season 2,16,8,11,4,5,4,Jake Bube,9,21,0.46 
+2015,05,19,18:00,MiA,JakeBube,inferno,Balkan Championship Season 2,11,16,7,8,4,8,Jake Bube,18,16,1.00 
+2015,05,17,19:00,TRICKED,JakeBube,mirage,Balkan Championship Season 2,16,12,9,6,7,6,Jake Bube,13,21,0.67 
+2015,05,17,19:00,JakeBube,TRICKED,inferno,Balkan Championship Season 2,6,16,6,9,0,7,Jake Bube,12,18,0.66 
+2014,05,25,10:00,DELTA,iNation,nuke,Gaming Challenge 2014,13,16,12,3,1,13,DELTA,18,21,0.90 
+2014,05,25,09:00,proWince,DELTA,nuke,Gaming Challenge 2014,16,2,13,2,3,0,DELTA,6,18,0.31 

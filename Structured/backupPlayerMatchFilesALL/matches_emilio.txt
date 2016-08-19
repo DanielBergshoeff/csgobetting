@@ -1,0 +1,60 @@
+2014,10,08,21:00,Epsilon,Property,dust2,Fragbite Masters Season 3,15,19,10,5,5,10,Property,37,21,1.53 
+2014,10,08,20:51,Property,Epsilon,mirage,Fragbite Masters Season 3,16,4,11,4,5,0,Property,24,8,2.01 
+2014,10,08,18:00,fnatic,Property,inferno,Fragbite Masters Season 3,16,5,14,1,2,4,Property,11,17,0.62 
+2014,10,07,19:00,mousesports,Property,cobblestone,Millenium Showmatch #2,16,6,12,3,4,3,Property,11,21,0.51 
+2014,10,07,19:00,mousesports,Property,inferno,Millenium Showmatch #2,16,14,9,6,7,8,Property,14,18,0.85 
+2014,10,07,19:00,Property,mousesports,cache,Millenium Showmatch #2,16,13,9,6,7,7,Property,31,19,1.46 
+2014,10,07,19:00,Property,mousesports,dust2,Millenium Showmatch #2,10,16,8,7,2,9,Property,21,18,1.08 
+2014,09,24,18:00,HellRaisers,Property,mirage,Caseking of the Hill #9,13,16,9,6,4,10,Property,18,14,1.28 
+2014,09,24,18:00,HellRaisers,Property,dust2,Caseking of the Hill #9,16,11,8,7,8,4,Property,22,18,1.38 
+2014,09,23,22:10,Property,k1ck,dust2,Fragbite Masters Season 3 Qual..,16,8,10,5,6,3,Property,37,12,2.54 
+2014,09,23,22:10,k1ck,Property,inferno,Fragbite Masters Season 3 Qual..,10,16,3,12,7,4,Property,24,17,1.28 
+2014,09,23,20:10,myXMG,Property,dust2,Fragbite Masters Season 3 Qual..,10,16,5,10,5,6,Property,28,13,1.84 
+2014,08,02,23:45,Titan,ESG!,mirage,Gfinity 3,16,11,9,6,7,5,ESG!,23,20,1.12 
+2014,08,02,21:45,fm-eSports,ESG!,inferno,Gfinity 3,6,16,6,9,0,7,ESG!,12,14,0.78 
+2014,08,02,18:45,mousesports,ESG!,mirage,Gfinity 3,12,16,3,12,9,4,ESG!,29,19,1.60 
+2014,08,02,17:20,dignitas,ESG!,dust2,Gfinity 3,16,7,12,3,4,4,ESG!,10,19,0.53 
+2014,08,02,14:00,ESG!,Virtus.pro,cache,Gfinity 3,12,16,8,7,4,9,ESG!,20,21,0.95 
+2014,07,31,20:15,ESG!,fnatic,cache,EIZO Challenge 2014,11,16,8,7,3,9,ESG!,19,21,0.92 
+2014,07,31,19:00,unu.AiN,ESG!,dust2,EIZO Challenge 2014,7,16,4,11,3,5,ESG!,25,9,1.78 
+2014,07,27,19:45,ESG!,NatusVincere,dust2,ESL One Cologne 2014 European ..,6,16,5,10,1,6,ESG!,11,18,0.72 
+2014,07,27,19:45,ESG!,NatusVincere,inferno,ESL One Cologne 2014 European ..,13,16,4,11,9,5,ESG!,20,20,0.97 
+2014,07,27,19:45,ESG!,NatusVincere,train,ESL One Cologne 2014 European ..,16,7,8,7,8,0,ESG!,16,12,1.07 
+2014,07,27,13:00,unu.AiN,ESG!,mirage,ESL One Cologne 2014 European ..,9,16,5,10,4,6,ESG!,17,16,1.12 
+2014,07,27,13:00,unu.AiN,ESG!,inferno,ESL One Cologne 2014 European ..,16,6,12,3,4,3,ESG!,9,15,0.65 
+2014,07,27,13:00,ESG!,unu.AiN,dust2,ESL One Cologne 2014 European ..,16,7,9,6,7,1,ESG!,11,13,0.88 
+2014,07,26,21:10,ESG!,dAT,mirage,ESL One Cologne 2014 European ..,5,16,5,10,0,6,ESG!,13,18,0.80 
+2014,07,26,21:10,dAT,ESG!,train,ESL One Cologne 2014 European ..,16,21,8,7,7,8,ESG!,25,26,0.98 
+2014,07,26,21:10,ESG!,dAT,nuke,ESL One Cologne 2014 European ..,9,16,8,7,1,9,ESG!,20,20,0.99 
+2014,07,26,13:00,ESC,ESG!,dust2,ESL One Cologne 2014 European ..,13,16,7,8,6,8,ESG!,24,24,1.05 
+2014,07,26,13:00,ESC,ESG!,mirage,ESL One Cologne 2014 European ..,16,7,9,6,7,1,ESG!,17,18,0.92 
+2014,07,26,13:00,ESC,ESG!,train,ESL One Cologne 2014 European ..,7,16,7,8,0,8,ESG!,15,11,1.10 
+2014,07,21,22:00,Epsilon,ESG!,mirage,SLTV StarSeries X,11,16,8,7,3,9,ESG!,25,16,1.41 
+2014,07,21,21:00,LDLC,ESG!,dust2,SLTV StarSeries X,15,15,4,11,11,4,ESG!,29,21,1.34 
+2014,07,21,21:00,OnlineBOTS,ESG!,mirage,SLTV StarSeries X,13,16,6,9,7,7,ESG!,21,16,1.11 
+2014,07,21,19:00,ESG!,USSR,dust2,SLTV StarSeries X,16,7,9,6,7,1,ESG!,16,13,1.04 
+2014,07,16,20:15,ESG!,AliGon,dust2,Hitbox Arena Showdown,6,16,3,12,3,4,ESG!,15,16,0.94 
+2014,07,16,20:15,AliGon,ESG!,inferno,Hitbox Arena Showdown,16,6,10,5,6,1,ESG!,9,18,0.54 
+2014,07,16,20:15,ESG!,AliGon,mirage,Hitbox Arena Showdown,16,12,6,9,10,3,ESG!,17,21,0.79 
+2014,07,13,20:00,ESG!,HellRaisers,mirage,SLTV StarSeries X,8,16,7,8,1,8,ESG!,11,19,0.72 
+2014,07,09,22:30,Reason,ESG!,train,SLTV StarSeries X,6,16,6,9,0,7,ESG!,18,9,1.32 
+2014,07,09,21:15,ESG!,Virtus.pro,train,SLTV StarSeries X,16,13,7,8,9,5,ESG!,19,18,0.96 
+2014,07,06,22:15,Titan,ESG!,mirage,SLTV StarSeries X,9,16,7,8,2,8,ESG!,18,13,1.09 
+2014,06,26,21:00,ESC,SK,train,SLTV StarSeries X,9,16,6,9,3,7,SK,23,13,1.44 
+2014,06,16,12:00,SK,HellRaisers,nuke,DreamHack Summer 2014,11,16,6,9,5,7,SK,19,18,1.05 
+2014,06,16,12:00,HellRaisers,SK,inferno,DreamHack Summer 2014,16,8,14,1,2,7,SK,11,21,0.56 
+2014,06,15,13:30,NiP,SK,train,ESPORTSM 2013/2014 Finals,16,5,11,4,5,1,SK,10,20,0.52 
+2014,06,15,13:30,SK,NiP,dust2,ESPORTSM 2013/2014 Finals,7,16,2,13,5,3,SK,13,17,0.75 
+2014,06,15,13:30,NiP,SK,inferno,ESPORTSM 2013/2014 Finals,8,16,5,10,3,6,SK,17,11,1.15 
+2014,06,15,10:00,hiGhrollers,SK,train,ESPORTSM 2013/2014 Finals,8,16,8,7,0,9,SK,19,17,1.12 
+2014,06,15,10:00,hiGhrollers,SK,mirage,ESPORTSM 2013/2014 Finals,12,16,8,7,4,9,SK,28,17,1.53 
+2014,06,14,22:45,SK,fnatic,inferno,DreamHack Summer 2014,16,10,12,3,4,7,SK,21,18,1.17 
+2014,06,14,21:35,Virtus.pro,SK,train,DreamHack Summer 2014,16,12,13,2,3,10,SK,20,23,0.97 
+2014,06,14,20:30,fnatic,SK,inferno,DreamHack Summer 2014,9,16,9,6,0,10,SK,27,13,1.60 
+2014,05,30,21:00,SK,Reason,inferno,DreamHack Summer 2014 Closed Q..,11,16,6,9,5,7,SK,18,20,0.90 
+2014,05,30,19:00,ENCE,SK,dust2,DreamHack Summer 2014 Closed Q..,23,26,8,7,7,8,SK,29,33,0.84 
+2014,05,20,22:30,TEAMGLOBAL,Team4Balkan,train,Hitbox Arena Championship,16,6,13,2,3,4,Team4Balkan,18,19,1.06 
+2014,05,20,22:30,Team4Balkan,TEAMGLOBAL,nuke,Hitbox Arena Championship,12,16,8,7,4,9,Team4Balkan,19,18,1.04 
+2014,05,20,19:00,Titan,Team4Balkan,dust2,Hitbox Arena Championship,16,13,6,9,10,4,Team4Balkan,14,19,0.78 
+2014,05,20,19:00,Titan,Team4Balkan,inferno,Hitbox Arena Championship,12,16,8,7,4,9,Team4Balkan,12,21,0.69 
+2014,05,20,19:00,Titan,Team4Balkan,mirage,Hitbox Arena Championship,16,14,5,10,11,4,Team4Balkan,22,23,0.94 

@@ -1,0 +1,30 @@
+2016,03,15,19:00,Enso,nerdRage,mirage,Game Show Spring Invitational ..,16,2,13,2,3,0,nerdRage,6,16,0.47 
+2016,03,15,19:00,nerdRage,Enso,cache,Game Show Spring Invitational ..,7,16,6,9,1,7,nerdRage,14,19,0.70 
+2016,03,13,21:00,Publiclir.se,nerdRage,dust2,AlienTech CS:GO League,16,6,10,5,6,1,nerdRage,20,18,1.25 
+2016,03,13,21:00,nerdRage,Publiclir.se,cobblestone,AlienTech CS:GO League,9,16,5,10,4,6,nerdRage,19,18,1.12 
+2016,03,11,21:15,nerdRage,Galatics,cache,AlienTech CS:GO League,16,4,13,2,3,2,nerdRage,24,11,1.78 
+2016,03,11,21:15,nerdRage,Galatics,dust2,AlienTech CS:GO League,16,12,9,6,7,6,nerdRage,22,17,1.18 
+2016,03,07,21:00,k1ck,nerdRage,mirage,AlienTech CS:GO League,22,19,8,7,7,8,nerdRage,28,31,0.88 
+2016,03,07,21:00,k1ck,nerdRage,cobblestone,AlienTech CS:GO League,19,17,7,8,8,7,nerdRage,18,26,0.74 
+2016,03,01,23:00,nerdRage,ImperioMultimedia,cache,AlienTech CS:GO League,16,5,12,3,4,2,nerdRage,20,9,1.48 
+2016,03,01,23:00,nerdRage,ImperioMultimedia,dust2,AlienTech CS:GO League,13,16,5,10,8,6,nerdRage,24,18,1.20 
+2016,02,25,21:00,k1ck,nerdRage,inferno,AlienTech CS:GO League,16,7,14,1,2,6,nerdRage,31,19,1.72 
+2016,02,25,21:00,nerdRage,k1ck,cobblestone,AlienTech CS:GO League,12,16,5,10,7,6,nerdRage,14,20,0.73 
+2016,02,18,23:32,nerdRage,AlienTech,cobblestone,AlienTech CS:GO League,16,3,12,3,4,0,nerdRage,17,6,1.43 
+2016,02,18,23:32,AlienTech,nerdRage,cache,AlienTech CS:GO League,10,16,8,7,2,9,nerdRage,17,18,0.91 
+2016,02,15,21:00,gBots,nerdRage,train,AlienTech CS:GO League,16,6,10,5,6,1,nerdRage,19,19,1.10 
+2016,02,15,21:00,gBots,nerdRage,cobblestone,AlienTech CS:GO League,16,0,15,0,1,0,nerdRage,8,15,0.54 
+2016,02,08,21:00,nerdRage,DenDD,cobblestone,Uprise Champions Cup Season 4 ..,5,16,4,11,1,5,nerdRage,9,18,0.47 
+2015,10,24,16:05,XENEX,UESmash,dust2,ESL UK Premiership Season 2 Fi..,3,16,3,12,0,4,XENEX,10,16,0.63 
+2015,10,24,16:05,XENEX,UESmash,cache,ESL UK Premiership Season 2 Fi..,11,16,7,8,4,8,XENEX,24,19,1.41 
+2015,09,28,20:30,XENEX,Infused,inferno,ESL UK Premiership Season 2,6,16,5,10,1,6,XENEX,12,16,0.78 
+2015,09,07,20:00,CSGOCasino.net,GLG,cache,ESL UK Premiership Season 2,16,3,12,3,4,0,CSGOCasino.net,18,5,1.70 
+2015,08,31,20:00,Choke,CSGOCasino.net,overpass,ESL UK Premiership Season 2,13,16,9,6,4,10,CSGOCasino.net,23,19,1.08 
+2015,08,25,20:00,CSGOCasino.net,UnitedEstonia,dust2,ESL UK Premiership Season 2,16,2,13,2,3,0,CSGOCasino.net,5,12,0.50 
+2015,08,17,23:15,CSGOCasino.net,fish123,dust2,ESL UK Premiership Season 2,16,7,10,5,6,2,CSGOCasino.net,14,9,1.13 
+2015,04,21,23:00,MALIK,exceL,cache,ESL UK Premiership Season 1,6,16,3,12,3,4,MALIK,17,17,1.04 
+2015,04,21,23:00,exceL,MALIK,nuke,ESL UK Premiership Season 1,16,13,9,6,7,7,MALIK,18,19,0.93 
+2015,04,21,23:00,MALIK,XENEX,inferno,ESL UK Premiership Season 1,8,16,2,13,6,3,MALIK,12,16,0.74 
+2015,04,21,20:00,MALIK,XENEX,cache,ESL UK Premiership Season 1,14,16,8,7,6,9,MALIK,29,18,1.42 
+2015,04,20,20:00,MALIK,PerilousRAGE,inferno,ESL UK Premiership Season 1,16,3,12,3,4,0,MALIK,22,10,1.69 
+2015,04,20,20:00,MALIK,PerilousRAGE,cache,ESL UK Premiership Season 1,16,11,7,8,9,3,MALIK,22,16,1.21 

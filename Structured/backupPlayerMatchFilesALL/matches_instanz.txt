@@ -1,0 +1,27 @@
+2016,07,25,20:00,E-Corp,beGenius,cache,UnderDogs #4,16,3,12,3,4,0,beGenius,14,17,0.85 
+2016,07,25,20:00,beGenius,E-Corp,mirage,UnderDogs #4,12,16,5,10,7,6,beGenius,20,20,0.95 
+2016,07,22,20:20,beGenius,AGG,cobblestone,Hitbox Challenger Cup #2,12,16,7,8,5,8,beGenius,12,22,0.55 
+2016,07,22,20:20,beGenius,AGG,cache,Hitbox Challenger Cup #2,7,16,3,12,4,4,beGenius,10,18,0.57 
+2016,07,19,20:00,beGenius,Unity,dust2,Hitbox Challenger Cup #2,7,16,7,8,0,8,beGenius,11,21,0.50 
+2016,07,19,20:00,Unity,beGenius,mirage,Hitbox Challenger Cup #2,16,12,5,10,11,2,beGenius,14,22,0.63 
+2016,07,16,21:00,AlienTech,beGenius,dust2,DreamHack Valencia 2016,16,11,8,7,8,4,beGenius,18,21,0.95 
+2016,07,16,21:00,AlienTech,beGenius,nuke,DreamHack Valencia 2016,16,10,8,7,8,3,beGenius,17,19,0.90 
+2016,07,16,11:00,Wololos,beGenius,train,DreamHack Valencia 2016,11,16,9,6,2,10,beGenius,23,14,1.36 
+2016,07,16,11:00,Wololos,beGenius,mirage,DreamHack Valencia 2016,16,6,14,1,2,5,beGenius,11,17,0.63 
+2016,07,16,11:00,beGenius,Wololos,cache,DreamHack Valencia 2016,16,14,9,6,7,8,beGenius,17,22,0.87 
+2016,07,15,21:00,beGenius,k1ck,cache,DreamHack Valencia 2016,16,7,12,3,4,4,beGenius,10,14,0.73 
+2016,07,15,21:00,beGenius,k1ck,nuke,DreamHack Valencia 2016,17,19,10,5,5,10,beGenius,25,25,1.07 
+2016,07,15,21:00,k1ck,beGenius,overpass,DreamHack Valencia 2016,8,16,5,10,3,6,beGenius,28,14,1.68 
+2016,06,29,21:20,beGenius,AGG,nuke,Hitbox Challenger Cup #2,16,9,11,4,5,5,beGenius,22,16,1.26 
+2016,06,29,21:20,AGG,beGenius,dust2,Hitbox Challenger Cup #2,7,16,2,13,5,3,beGenius,10,12,0.80 
+2016,06,29,21:20,AGG,beGenius,train,Hitbox Challenger Cup #2,16,5,11,4,5,1,beGenius,13,15,0.89 
+2016,06,21,21:00,MeMyself&I,beGenius,mirage,UnderDogs #3,16,10,8,7,8,3,beGenius,18,20,0.97 
+2016,06,21,21:00,beGenius,MeMyself&I,train,UnderDogs #3,8,16,6,9,2,7,beGenius,13,19,0.70 
+2016,06,06,22:15,beGenius,QueenConsolidated,cache,UnderDogs #3,16,7,12,3,4,4,beGenius,17,13,1.12 
+2016,06,06,22:15,beGenius,QueenConsolidated,cobblestone,UnderDogs #3,16,9,11,4,5,5,beGenius,18,14,1.05 
+2016,06,05,12:00,beGenius,AGG,nuke,DreamHack ZOWIE Open Summer 20..,16,19,7,8,8,7,beGenius,25,27,0.92 
+2016,06,05,12:00,beGenius,AGG,train,DreamHack ZOWIE Open Summer 20..,8,16,6,9,2,7,beGenius,15,20,0.80 
+2016,06,05,12:00,AGG,beGenius,dust2,DreamHack ZOWIE Open Summer 20..,12,16,3,12,9,4,beGenius,23,17,1.30 
+2016,06,04,18:15,beGenius,CSGO2x,cache,DreamHack ZOWIE Open Summer 20..,16,14,10,5,6,9,beGenius,21,20,1.03 
+2016,05,23,22:00,beGenius,Evokate,train,UnderDogs #3,16,11,11,4,5,7,beGenius,22,18,1.12 
+2016,05,23,22:00,Evokate,beGenius,dust2,UnderDogs #3,13,16,5,10,8,6,beGenius,14,19,0.74 

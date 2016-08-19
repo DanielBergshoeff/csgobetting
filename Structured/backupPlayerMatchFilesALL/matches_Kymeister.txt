@@ -1,0 +1,29 @@
+2016,08,04,10:00,EHOME,B.O.O.T,mirage,SL i-League S2 China Finals,12,16,4,11,8,5,EHOME,20,20,1.08 
+2016,08,04,10:00,EHOME,B.O.O.T,cobblestone,SL i-League S2 China Finals,16,2,13,2,3,0,EHOME,18,6,1.61 
+2016,08,04,10:00,EHOME,B.O.O.T,cache,SL i-League S2 China Finals,18,22,7,8,8,7,EHOME,22,27,0.78 
+2016,07,29,15:00,LGD,EHOME,overpass,SL i-League S2 China Qualifier,13,16,7,8,6,8,EHOME,21,20,1.04 
+2016,07,29,15:00,EHOME,LGD,mirage,SL i-League S2 China Qualifier,16,2,13,2,3,0,EHOME,13,7,1.33 
+2016,07,29,09:00,EHOME,5Love.N4,nuke,SL i-League S2 China Qualifier,16,9,10,5,6,4,EHOME,28,14,1.85 
+2016,07,29,09:00,5Love.N4,EHOME,train,SL i-League S2 China Qualifier,4,16,3,12,1,4,EHOME,25,10,1.80 
+2016,07,29,09:00,EHOME,5Love.N4,mirage,SL i-League S2 China Qualifier,14,16,6,9,8,7,EHOME,16,20,0.78 
+2016,07,20,09:00,EHOME,EDG,cobblestone,SL i-League S2 China Qualifier,16,7,12,3,4,4,EHOME,14,15,0.89 
+2016,07,20,09:00,EHOME,EDG,mirage,SL i-League S2 China Qualifier,16,9,8,7,8,2,EHOME,23,13,1.44 
+2016,06,22,13:00,EHOME,BornOfFire,dust2,WCA Season 2 China Qualifier,16,9,9,6,7,3,EHOME,11,16,0.71 
+2016,06,22,13:00,EHOME,BornOfFire,cobblestone,WCA Season 2 China Qualifier,19,16,8,7,7,8,EHOME,36,25,1.27 
+2016,06,19,08:00,LGD,EHOME,cobblestone,WCA Season 2 China Qualifier,6,16,2,13,4,3,EHOME,15,12,1.02 
+2016,06,19,08:00,LGD,EHOME,mirage,WCA Season 2 China Qualifier,16,7,11,4,5,3,EHOME,16,16,0.98 
+2016,06,17,11:00,EHOME,AllGamers,train,WCA Season 2 China Qualifier,16,4,11,4,5,0,EHOME,17,8,1.40 
+2016,06,17,11:00,EHOME,AllGamers,cobblestone,WCA Season 2 China Qualifier,16,9,10,5,6,4,EHOME,12,15,0.82 
+2016,06,15,12:00,FIVE,EHOME,train,WCA Season 2 China Qualifier,9,16,8,7,1,9,EHOME,24,16,1.33 
+2016,06,15,12:00,FIVE,EHOME,dust2,WCA Season 2 China Qualifier,16,9,13,2,3,7,EHOME,14,20,0.72 
+2016,04,06,13:10,BornOfFire,Wings,dust2,SL i-League Invitational China..,16,8,9,6,7,2,Wings,13,20,0.69 
+2016,04,06,13:10,BornOfFire,Wings,mirage,SL i-League Invitational China..,16,9,7,8,9,1,Wings,14,20,0.79 
+2016,03,31,13:00,Wings,eFuture,cache,SL i-League Invitational China..,7,16,6,9,1,7,Wings,16,20,0.86 
+2016,03,31,13:00,eFuture,Wings,dust2,SL i-League Invitational China..,6,16,5,10,1,6,Wings,23,11,1.68 
+2016,03,15,12:00,Wings,VG.CyberZen,cobblestone,WCA Season 1 Qualifier,1,16,1,14,0,2,Wings,11,15,0.81 
+2016,03,15,12:00,Wings,VG.CyberZen,mirage,WCA Season 1 Qualifier,6,16,3,12,3,4,Wings,11,16,0.75 
+2015,12,18,08:30,Wings,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,3,12,3,4,0,Goalie,13,17,0.90 
+2015,12,18,08:30,Goalie,Wings,inferno,SL i-League StarSeries XIV Chi..,10,16,9,6,1,10,Goalie,22,20,1.14 
+2015,12,17,10:40,BornOfFire,Goalie,cache,SL i-League StarSeries XIV Chi..,16,7,11,4,5,3,Goalie,13,18,0.78 
+2015,12,17,10:40,BornOfFire,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,19,9,6,6,9,Goalie,26,20,1.07 
+2015,12,17,10:40,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV Chi..,12,16,10,5,2,11,Goalie,14,20,0.73 

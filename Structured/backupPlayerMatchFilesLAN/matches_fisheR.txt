@@ -1,0 +1,7 @@
+2016,03,28,10:00,LDLCBlue,Millenium,inferno,Gamers Assembly 2016,12,16,12,3,0,13,Millenium,17,16,0.98 
+2016,03,27,18:50,Millenium,Platinium,dust2,Gamers Assembly 2016,16,14,7,8,9,6,Millenium,15,21,0.78 
+2016,03,27,18:50,Millenium,Platinium,mirage,Gamers Assembly 2016,16,6,10,5,6,1,Millenium,9,13,0.75 
+2016,03,27,14:00,LDLCBlue,Millenium,dust2,Gamers Assembly 2016,14,16,6,9,8,7,Millenium,26,14,1.39 
+2016,03,27,14:00,LDLCBlue,Millenium,overpass,Gamers Assembly 2016,10,16,3,12,7,4,Millenium,19,15,1.18 
+2016,02,05,17:00,EpiphanyBolt,Millenium,dust2,Assembly Winter 2016,16,12,9,6,7,6,Millenium,12,18,0.71 
+2016,02,05,15:30,Millenium,ENCE,dust2,Assembly Winter 2016,12,16,2,13,10,3,Millenium,16,20,0.77 

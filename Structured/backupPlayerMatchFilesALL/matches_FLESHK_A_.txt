@@ -1,0 +1,2 @@
+2015,12,01,19:00,eXplosive,LPM,mirage,UCC ShowMatch Cup,16,9,9,6,7,3,LPM,15,19,0.79 
+2015,12,01,19:00,LPM,eXplosive,cache,UCC ShowMatch Cup,5,16,5,10,0,6,LPM,9,18,0.67 

@@ -1,0 +1,10 @@
+2014,11,10,22:40,myKPV,PlayingDucks,cache,ESL Pro Series Germany Winter ..,16,5,10,5,6,0,Playing Ducks,11,15,0.78 
+2014,11,10,20:30,PlayingDucks,Planetkey,dust2,ESL Pro Series Germany Winter ..,8,16,4,11,4,5,Playing Ducks,14,20,0.68 
+2014,11,10,19:15,PlayingDucks,MTW,overpass,ESL Pro Series Germany Winter ..,16,14,10,5,6,9,Playing Ducks,23,21,1.08 
+2014,10,04,18:00,PlayingDucks,3DMAX,dust2,ESWC 2014 European Qualifier,10,16,7,8,3,8,Playing Ducks,17,17,0.92 
+2014,10,04,18:00,3DMAX,PlayingDucks,mirage,ESWC 2014 European Qualifier,16,9,9,6,7,3,Playing Ducks,8,21,0.44 
+2014,09,06,15:30,PlayingDucks,mousesports,cache,ESL Pro Series Germany Summer ..,8,16,3,12,5,4,Playing Ducks,9,17,0.65 
+2014,09,06,15:30,mousesports,PlayingDucks,mirage,ESL Pro Series Germany Summer ..,16,6,10,5,6,1,Playing Ducks,8,20,0.43 
+2014,08,04,22:30,ALTERNATEaTTaX,PlayingDucks,dust2,ESL Pro Series Germany Summer ..,10,16,2,13,8,3,Playing Ducks,15,14,0.99 
+2014,08,04,21:30,team,PlayingDucks,train,ESL Pro Series Germany Summer ..,7,16,6,9,1,7,Playing Ducks,20,15,1.19 
+2014,08,04,19:00,ALTERNATEaTTaX,PlayingDucks,dust2,ESL Pro Series Germany Summer ..,16,10,8,7,8,3,Playing Ducks,14,19,0.71 

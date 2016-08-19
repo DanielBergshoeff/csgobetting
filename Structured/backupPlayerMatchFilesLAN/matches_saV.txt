@@ -1,0 +1,14 @@
+2015,09,06,20:50,ACE,GamesAcademy,dust2,WinOut $20,000 CS:GO Champions..,10,16,3,12,7,4,ACE,17,22,0.81 
+2015,09,06,20:50,ACE,GamesAcademy,cache,WinOut $20,000 CS:GO Champions..,13,16,7,8,6,8,ACE,26,21,1.17 
+2015,09,06,20:50,GamesAcademy,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,ACE,17,16,1.12 
+2015,09,06,16:00,Nexus,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,14,16,7,8,7,8,ACE,22,21,1.05 
+2015,09,06,16:00,Nexus,ACE,cache,WinOut $20,000 CS:GO Champions..,16,13,10,5,6,8,ACE,13,21,0.64 
+2015,09,06,16:00,ACE,Nexus,overpass,WinOut $20,000 CS:GO Champions..,16,13,12,3,4,10,ACE,25,23,1.19 
+2015,09,06,01:30,ACE,3sUP,dust2,WinOut $20,000 CS:GO Champions..,11,16,10,5,1,11,ACE,17,19,0.98 
+2015,09,06,01:30,3sUP,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,19,15,10,5,5,10,ACE,19,24,0.81 
+2015,09,05,04:00,ACE,Excellence,mirage,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,ACE,16,7,1.47 
+2015,09,05,02:55,CLG,ACE,dust2,WinOut $20,000 CS:GO Champions..,16,6,10,5,6,1,ACE,10,16,0.68 
+2015,09,05,02:00,ACE,Excellence,cobblestone,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,ACE,17,11,1.27 
+2015,07,10,19:00,KeydStars,Boreal,mirage,ESWC 2015,16,3,12,3,4,0,Boreal,6,17,0.41 
+2015,07,10,17:30,FlipSid3,Boreal,cache,ESWC 2015,16,4,12,3,4,1,Boreal,11,20,0.55 
+2015,07,10,16:00,Cloud9,Boreal,cobblestone,ESWC 2015,16,4,14,1,2,3,Boreal,6,19,0.32 

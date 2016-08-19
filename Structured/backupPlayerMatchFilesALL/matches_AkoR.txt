@@ -1,0 +1,5 @@
+2015,09,06,20:00,Liondogs,DelinquentHabits,dust2,eGaming CS:GO Championship 201..,1,16,1,14,0,2,Delinquent Habits,21,7,1.79 
+2015,09,06,20:00,DelinquentHabits,Liondogs,cache,eGaming CS:GO Championship 201..,5,16,5,10,0,6,Delinquent Habits,12,13,0.93 
+2015,09,06,20:00,DelinquentHabits,Liondogs,mirage,eGaming CS:GO Championship 201..,16,2,14,1,2,1,Delinquent Habits,18,6,1.61 
+2015,09,06,17:00,DelinquentHabits,Elysium,cobblestone,eGaming CS:GO Championship 201..,16,11,9,6,7,5,Delinquent Habits,21,21,1.07 
+2015,09,06,17:00,Elysium,DelinquentHabits,dust2,eGaming CS:GO Championship 201..,9,16,8,7,1,9,Delinquent Habits,15,18,0.78 

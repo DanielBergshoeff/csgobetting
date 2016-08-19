@@ -1,0 +1,5 @@
+2016,04,08,19:15,KoNNorway,KoNDenmark,inferno,King of Nordic Season 3,16,11,7,8,9,3,KoN Denmark,18,17,0.97 
+2016,03,24,15:30,Quantaya,fLYVERNE,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,fLYVERNE,3,18,0.14 
+2016,03,24,13:00,Recursive,fLYVERNE,dust2,Copenhagen Games 2016 BYOC Qua..,16,0,15,0,1,0,fLYVERNE,8,16,0.53 
+2016,03,11,21:30,KoNFinland,KoNDenmark,cache,King of Nordic Season 3,16,12,7,8,9,4,KoN Denmark,9,19,0.55 
+2016,03,11,20:15,KoNDenmark,KoNNorway,cache,King of Nordic Season 3,16,5,11,4,5,1,KoN Denmark,18,13,1.39 

@@ -1,0 +1,5 @@
+2016,04,14,02:00,Bee'sMoneyCrew,compLexity,cobblestone,CEVO Gfinity Professional Seas..,16,10,10,5,6,5,Bee's Money Crew,13,7,1.15 
+2016,04,14,02:00,Bee'sMoneyCrew,compLexity,cache,CEVO Gfinity Professional Seas..,7,16,7,8,0,8,Bee's Money Crew,11,17,0.69 
+2015,12,15,03:00,NexusStorm,SteamAnalyst,train,RGN Showseries,9,16,6,9,3,7,SteamAnalyst,22,17,1.25 
+2015,12,15,03:00,NexusStorm,SteamAnalyst,mirage,RGN Showseries,12,16,11,4,1,12,SteamAnalyst,13,17,0.79 
+2015,12,15,03:00,SteamAnalyst,NexusStorm,overpass,RGN Showseries,4,16,4,11,0,5,SteamAnalyst,9,15,0.70 

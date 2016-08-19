@@ -1,0 +1,4 @@
+2016,08,07,15:15,HUEHUE,demonlaget,mirage,ECS Season 2 EU Open Qualifier..,16,11,6,9,10,2,demonlaget,16,21,0.78 
+2016,06,14,18:00,visomvet,demonlaget,mirage,Yoggi Yalla Cup,16,9,9,6,7,3,demonlaget,11,21,0.52 
+2016,06,14,18:00,demonlaget,visomvet,cache,Yoggi Yalla Cup,6,16,6,9,0,7,demonlaget,14,19,0.75 
+2016,05,06,19:25,KoNSweden,KoNNorway,mirage,King of Nordic Season 4,13,16,6,9,7,7,KoN Sweden,15,19,0.77 

@@ -1,0 +1,2 @@
+2015,09,13,10:30,faithIN,CSGO-Saloon,mirage,Balkan SuperCup #2 LAN Finals,13,16,11,4,2,12,faithIN,19,19,1.05 
+2015,09,13,10:30,CSGO-Saloon,faithIN,dust2,Balkan SuperCup #2 LAN Finals,16,10,10,5,6,5,faithIN,13,18,0.78 

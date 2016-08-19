@@ -1,0 +1,6 @@
+2015,12,19,20:30,ANT-,PlayItCoolAll-Stars,dust2,Play It Cool CS:GO Community C..,19,17,5,10,10,5,ANT-,33,24,1.39 
+2015,05,10,11:15,SpaceSoldiers,GPlay,mirage,ESL South East Europe Champion..,6,16,3,12,3,4,Space Soldiers,12,20,0.74 
+2015,05,10,11:15,GPlay,SpaceSoldiers,nuke,ESL South East Europe Champion..,16,8,13,2,3,6,Space Soldiers,14,19,0.83 
+2015,05,10,11:15,GPlay,SpaceSoldiers,inferno,ESL South East Europe Champion..,16,1,15,0,1,1,Space Soldiers,6,16,0.34 
+2015,05,08,10:00,SpaceSoldiers,XPC,cobblestone,ESL South East Europe Champion..,26,20,10,5,5,10,Space Soldiers,34,32,1.12 
+2015,05,08,10:00,XPC,SpaceSoldiers,cache,ESL South East Europe Champion..,8,16,8,7,0,9,Space Soldiers,14,11,1.05 

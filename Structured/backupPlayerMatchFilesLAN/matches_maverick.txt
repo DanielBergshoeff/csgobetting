@@ -1,0 +1,5 @@
+2015,07,19,08:00,Renegades,myRevenge,inferno,ESL One Cologne 2015 Asian Qua..,16,2,13,2,3,0,myRevenge,5,16,0.32 
+2015,07,19,08:00,Renegades,myRevenge,cache,ESL One Cologne 2015 Asian Qua..,19,16,5,10,10,5,myRevenge,18,29,0.64 
+2015,07,19,05:00,myRevenge,Skyred,dust2,ESL One Cologne 2015 Asian Qua..,16,14,6,9,10,5,myRevenge,24,17,1.23 
+2015,07,18,10:15,TheMongolz,myRevenge,inferno,ESL One Cologne 2015 Asian Qua..,14,16,10,5,4,11,myRevenge,20,21,0.93 
+2015,07,18,07:35,Skyred,myRevenge,cache,ESL One Cologne 2015 Asian Qua..,16,9,10,5,6,4,myRevenge,8,17,0.55 

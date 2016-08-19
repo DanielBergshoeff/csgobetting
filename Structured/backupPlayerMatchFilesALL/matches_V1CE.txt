@@ -1,0 +1,7 @@
+2016,03,12,17:15,n1ce,GameAgents,inferno,EsportFest 2016,15,19,6,9,9,6,n1ce,21,23,0.93 
+2016,03,12,17:15,n1ce,GameAgents,dust2,EsportFest 2016,16,8,12,3,4,5,n1ce,19,18,1.18 
+2016,03,12,17:15,n1ce,GameAgents,cache,EsportFest 2016,13,16,8,7,5,9,n1ce,14,24,0.64 
+2015,11,28,11:45,E-frag.net,Ancients,inferno,ESL South East Europe Champion..,16,3,14,1,2,2,Ancients,10,18,0.57 
+2015,11,28,10:00,CSGO.one,Ancients,overpass,ESL South East Europe Champion..,16,3,12,3,4,0,Ancients,5,16,0.44 
+2014,08,28,21:00,Moldova,Hungary,mirage,European Championship 2014 Qua..,10,16,5,10,5,6,Hungary,19,16,1.15 
+2014,08,28,21:00,Hungary,Moldova,inferno,European Championship 2014 Qua..,16,0,15,0,1,0,Hungary,11,3,1.49 

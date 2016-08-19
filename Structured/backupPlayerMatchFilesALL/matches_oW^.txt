@@ -1,0 +1,17 @@
+2016,08,07,16:25,aimclub,passions,mirage,ECS Season 2 EU Open Qualifier..,11,16,8,7,3,9,aimclub,16,21,0.83 
+2016,08,07,15:05,aimclub,WWGGKTA,mirage,ECS Season 2 EU Open Qualifier..,16,8,11,4,5,4,aimclub,28,11,1.85 
+2016,06,25,16:00,Tricked,Magistra,cobblestone,Dust2.dk eOddset Kinguin #1,16,1,14,1,2,0,Magistra,5,17,0.28 
+2016,06,25,16:00,Magistra,Tricked,dust2,Dust2.dk eOddset Kinguin #1,21,25,12,3,3,12,Magistra,23,31,0.80 
+2016,06,25,14:30,übern00bz,Magistra,mirage,Dust2.dk eOddset Kinguin #1,6,16,3,12,3,4,Magistra,21,10,1.48 
+2016,06,25,13:15,Singularity,Magistra,overpass,Dust2.dk eOddset Kinguin #1,16,6,13,2,3,4,Magistra,14,18,0.81 
+2016,06,25,12:00,Magistra,Seven11,dust2,Dust2.dk eOddset Kinguin #1,16,5,13,2,3,3,Magistra,17,11,1.48 
+2016,06,16,19:00,Alpha,Magistra,dust2,Game On CS:GO June Invitationa..,15,19,7,8,8,7,Magistra,26,21,1.10 
+2016,06,16,19:00,Alpha,Magistra,mirage,Game On CS:GO June Invitationa..,15,19,9,6,6,9,Magistra,15,23,0.72 
+2016,06,15,19:00,c5,Magistra,cobblestone,Game On CS:GO June Invitationa..,10,16,2,13,8,3,Magistra,22,17,1.15 
+2016,06,15,19:00,c5,Magistra,cache,Game On CS:GO June Invitationa..,14,16,6,9,8,7,Magistra,25,16,1.35 
+2016,06,15,19:00,c5,Magistra,mirage,Game On CS:GO June Invitationa..,16,13,7,8,9,5,Magistra,16,19,0.80 
+2016,06,14,19:00,Creation,Magistra,cobblestone,Game On CS:GO June Invitationa..,11,16,7,8,4,8,Magistra,25,16,1.36 
+2016,06,14,19:00,Magistra,Creation,mirage,Game On CS:GO June Invitationa..,16,9,11,4,5,5,Magistra,22,13,1.29 
+2015,10,23,21:30,KoNFinland,KoNDenmark,cache,King of Nordic Season 2,16,2,13,2,3,0,KoN Denmark,7,17,0.47 
+2015,10,23,20:30,KoNNorway,KoNDenmark,cache,King of Nordic Season 2,9,16,7,8,2,8,KoN Denmark,10,14,0.69 
+2015,10,23,19:15,KoNSweden,KoNDenmark,cache,King of Nordic Season 2,13,16,3,12,10,4,KoN Denmark,19,15,1.02 

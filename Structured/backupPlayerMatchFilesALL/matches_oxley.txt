@@ -1,0 +1,5 @@
+2016,04,01,21:00,TogetherAsOne,Bpro,cache,Balkan Championship Season 3,9,16,2,13,7,3,TogetherAsOne,12,23,0.56 
+2016,03,30,19:00,Deathtrap,TogetherAsOne,cache,Balkan Championship Season 3,16,8,9,6,7,2,TogetherAsOne,9,23,0.35 
+2016,03,27,20:00,RB,TogetherAsOne,cache,Balkan Championship Season 3,11,16,7,8,4,8,TogetherAsOne,20,22,0.86 
+2016,03,22,20:00,CS-GO.rs,TogetherAsOne,cobblestone,Balkan Championship Season 3,16,13,9,6,7,7,TogetherAsOne,19,20,0.96 
+2015,04,23,23:00,ENTiTY,GPlay,dust2,Balkan Superleague,9,16,5,10,4,6,ENTiTY,10,10,0.91 

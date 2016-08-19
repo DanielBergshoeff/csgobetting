@@ -1,0 +1,2 @@
+2016,06,10,01:00,Innova,Supernova,cobblestone,Razer Rising Stars South Ameri..,16,14,6,9,10,5,Supernova,19,25,0.78 
+2016,06,10,01:00,Innova,Supernova,train,Razer Rising Stars South Ameri..,16,8,13,2,3,6,Supernova,21,18,1.27 

@@ -1,0 +1,22 @@
+2014,10,05,00:00,Jynttä,Hanatauki,dust2,Areena #5 by ROCCAT,16,12,10,5,6,7,Hanat auki,13,22,0.67 
+2014,10,05,00:00,Hanatauki,Jynttä,cache,Areena #5 by ROCCAT,9,16,5,10,4,6,Hanat auki,20,18,1.08 
+2014,10,04,17:51,Hanatauki,Menace,mirage,Areena #5 by ROCCAT,3,16,3,12,0,4,Hanat auki,12,17,0.71 
+2014,10,04,17:50,Hanatauki,Menace,inferno,Areena #5 by ROCCAT,9,16,3,12,6,4,Hanat auki,13,21,0.63 
+2014,10,04,16:50,Hanatauki,GLSHAKER,cache,Areena #5 by ROCCAT,15,15,8,7,7,8,Hanat auki,34,21,1.67 
+2014,10,04,14:55,Menace,Hanatauki,dust2,Areena #5 by ROCCAT,16,3,12,3,4,0,Hanat auki,13,16,0.91 
+2014,10,04,13:50,Hanatauki,myMDL,mirage,Areena #5 by ROCCAT,16,14,7,8,9,6,Hanat auki,24,23,1.03 
+2014,10,04,12:40,Hanatauki,ROTY,dust2,Areena #5 by ROCCAT,9,16,3,12,6,4,Hanat auki,12,20,0.68 
+2014,10,04,11:00,Hanatauki,Jynttä,mirage,Areena #5 by ROCCAT,10,16,4,11,6,5,Hanat auki,15,19,0.76 
+2014,10,04,10:00,Hanatauki,Superstars,mirage,Areena #5 by ROCCAT,16,10,7,8,9,2,Hanat auki,21,14,1.21 
+2014,07,31,19:35,Menace,TMVG,mirage,ASUS ROG Summer 2014,19,15,9,6,6,9,TMVG,18,21,0.87 
+2014,07,31,18:30,Joutsenlaulu,TMVG,dust2,ASUS ROG Summer 2014,13,16,8,7,5,9,TMVG,21,17,1.14 
+2014,07,31,16:00,Menace,TMVG,dust2,ASUS ROG Summer 2014,19,16,8,7,7,8,TMVG,23,24,1.05 
+2014,06,28,18:20,suNny'steam,duffman'steam,dust2,Areena #4 by SteelSeries,9,16,3,12,6,4,duffman's team,16,15,0.98 
+2014,06,28,16:35,dRiim'steam,duffman'steam,nuke,Areena #4 by SteelSeries,16,11,12,3,4,8,duffman's team,13,23,0.59 
+2014,06,28,16:35,duffman'steam,dRiim'steam,mirage,Areena #4 by SteelSeries,8,16,7,8,1,8,duffman's team,13,20,0.71 
+2014,06,28,15:30,KIPSIk'steam,duffman'steam,mirage,Areena #4 by SteelSeries,14,16,9,6,5,10,duffman's team,24,17,1.27 
+2014,06,28,14:45,shaker'steam,duffman'steam,dust2,Areena #4 by SteelSeries,16,10,7,8,9,2,duffman's team,21,17,1.12 
+2014,06,28,14:05,duffman'steam,allu'steam,mirage,Areena #4 by SteelSeries,16,8,12,3,4,5,duffman's team,16,16,1.05 
+2014,06,28,12:40,dRiim'steam,duffman'steam,dust2,Areena #4 by SteelSeries,16,11,8,7,8,4,duffman's team,26,21,1.22 
+2014,06,28,11:15,suNny'steam,duffman'steam,inferno,Areena #4 by SteelSeries,16,7,9,6,7,1,duffman's team,16,18,0.86 
+2014,06,28,10:25,Twista'steam,duffman'steam,dust2,Areena #4 by SteelSeries,3,16,3,12,0,4,duffman's team,16,9,1.26 

@@ -1,0 +1,61 @@
+2016,05,03,18:00,GameAgents,SuperMassive,mirage,Balkan Championship Season 3,16,11,6,9,10,2,GameAgents,13,20,0.72 
+2016,04,11,20:00,GameAgents,Bpro,mirage,Balkan Championship Season 3,16,13,9,6,7,7,GameAgents,20,20,0.97 
+2016,03,19,17:50,SpaceSoldiers,nGw,mirage,DreamHack Masters Malmö 2016 E..,16,3,12,3,4,0,nGw,7,16,0.53 
+2015,11,10,20:10,eSuba,neXtPlease!,cache,D!ngIT $2000 Weekly Cup #25,16,14,7,8,9,6,neXtPlease!,20,19,0.97 
+2015,11,10,17:30,Enso,neXtPlease!,mirage,D!ngIT $2000 Weekly Cup #25,16,10,11,4,5,6,neXtPlease!,18,22,0.99 
+2015,11,10,17:30,Enso,neXtPlease!,overpass,D!ngIT $2000 Weekly Cup #25,9,16,4,11,5,5,neXtPlease!,13,18,0.89 
+2015,11,10,17:30,Enso,neXtPlease!,dust2,D!ngIT $2000 Weekly Cup #25,16,9,10,5,6,4,neXtPlease!,8,23,0.38 
+2015,11,09,17:30,neXtPlease!,eSuba,dust2,D!ngIT $2000 Weekly Cup #25,16,7,9,6,7,1,neXtPlease!,23,14,1.38 
+2015,11,09,17:30,eSuba,neXtPlease!,cache,D!ngIT $2000 Weekly Cup #25,11,16,5,10,6,6,neXtPlease!,18,20,0.98 
+2015,11,09,17:30,neXtPlease!,eSuba,inferno,D!ngIT $2000 Weekly Cup #25,10,16,7,8,3,8,neXtPlease!,12,19,0.76 
+2015,11,06,21:30,Revival,neXtPlease!,mirage,SLTV ProSeries XIV,19,16,6,9,9,6,neXtPlease!,24,25,1.04 
+2015,11,06,21:30,neXtPlease!,Revival,cobblestone,SLTV ProSeries XIV,16,19,5,10,10,5,neXtPlease!,25,24,1.09 
+2015,10,12,22:00,FlipSid3,volgare,cache,GameAgents League Season 2,19,16,6,9,9,6,volgare,29,25,1.21 
+2015,10,12,22:00,FlipSid3,volgare,inferno,GameAgents League Season 2,16,4,13,2,3,2,volgare,9,17,0.59 
+2015,09,27,18:00,MaxAndRelax,Orbit,inferno,GameAgents League Season 2,16,3,14,1,2,2,Orbit,4,17,0.29 
+2015,09,27,18:00,MaxAndRelax,Orbit,mirage,GameAgents League Season 2,5,16,2,13,3,3,Orbit,18,14,1.18 
+2015,06,25,12:30,G2,Rock,overpass,Gaming Paradise Inhouse Qualif..,16,12,11,4,5,8,Rock,23,21,1.12 
+2015,06,25,12:30,G2,Rock,cache,Gaming Paradise Inhouse Qualif..,16,12,6,9,10,3,Rock,16,20,0.83 
+2015,06,25,12:30,Rock,G2,cobblestone,Gaming Paradise Inhouse Qualif..,16,6,10,5,6,1,Rock,19,12,1.30 
+2015,06,24,20:30,Kinguin,Rock,cache,Gaming Paradise Inhouse Qualif..,16,10,13,2,3,8,Rock,8,22,0.45 
+2015,06,24,20:30,Rock,Kinguin,overpass,Gaming Paradise Inhouse Qualif..,14,16,10,5,4,11,Rock,22,25,0.90 
+2015,06,04,19:00,TRICKED,Rock,inferno,Balkan Superleague,16,4,13,2,3,2,Rock,13,17,0.75 
+2015,06,04,19:00,Rock,TRICKED,cache,Balkan Superleague,12,16,8,7,4,9,Rock,26,19,1.27 
+2015,05,18,18:00,GPlay,Rock,cache,Balkan Superleague,12,16,7,8,5,8,Rock,16,18,0.83 
+2015,05,18,18:00,GPlay,Rock,dust2,Balkan Superleague,12,16,7,8,5,8,Rock,18,20,0.89 
+2015,05,14,19:00,IGG,Rock,cache,Balkan Championship Season 2,4,16,4,11,0,5,Rock,12,12,0.86 
+2015,05,14,19:00,Rock,IGG,inferno,Balkan Championship Season 2,16,9,12,3,4,6,Rock,17,14,0.95 
+2015,05,12,18:00,Rock,XPC,overpass,Balkan Championship Season 2,7,16,4,11,3,5,Rock,20,19,1.12 
+2015,05,12,18:00,XPC,Rock,cobblestone,Balkan Championship Season 2,16,14,6,9,10,5,Rock,14,22,0.67 
+2015,05,12,18:00,Rock,XPC,cache,Balkan Championship Season 2,16,5,13,2,3,3,Rock,11,12,0.82 
+2015,05,11,20:00,Rock,GIANT5,dust2,Balkan Superleague,16,12,10,5,6,7,Rock,18,15,1.04 
+2015,05,11,19:00,Rock,neXtPlease!,cache,Balkan Superleague,16,6,13,2,3,4,Rock,17,11,1.24 
+2015,05,09,16:00,Rock,GPlay,inferno,ESL South East Europe Champion..,13,16,9,6,4,10,Rock,25,21,1.23 
+2015,05,09,16:00,GPlay,Rock,cache,ESL South East Europe Champion..,16,8,13,2,3,6,Rock,5,18,0.40 
+2015,05,08,13:40,SpaceSoldiers,Rock,dust2,ESL South East Europe Champion..,16,13,11,4,5,9,Rock,13,23,0.58 
+2015,05,08,13:40,SpaceSoldiers,Rock,cobblestone,ESL South East Europe Champion..,16,5,13,2,3,3,Rock,20,16,1.31 
+2015,05,08,10:00,GPlay,Rock,dust2,ESL South East Europe Champion..,14,16,6,9,8,7,Rock,19,22,0.86 
+2015,05,08,10:00,GPlay,Rock,inferno,ESL South East Europe Champion..,13,16,7,8,6,8,Rock,13,20,0.69 
+2015,05,08,10:00,Rock,GPlay,cache,ESL South East Europe Champion..,11,16,2,13,9,3,Rock,19,25,0.86 
+2015,05,06,16:30,Rock,IGG,inferno,Balkan Championship Season 2,16,11,8,7,8,4,Rock,16,20,0.81 
+2015,05,06,16:30,Rock,IGG,cobblestone,Balkan Championship Season 2,16,11,12,3,4,8,Rock,12,19,0.66 
+2015,04,29,18:00,Rock,SpaceSoldiers,cache,ESL South East Europe Champion..,16,9,9,6,7,3,Rock,15,12,1.04 
+2015,04,29,18:00,Rock,SpaceSoldiers,dust2,ESL South East Europe Champion..,16,14,6,9,10,5,Rock,14,21,0.73 
+2015,04,27,22:00,ENTiTY,Rock,dust2,Balkan Superleague,12,16,8,7,4,9,Rock,24,13,1.38 
+2015,04,27,21:00,Rock,RB,cache,Balkan Superleague,16,3,12,3,4,0,Rock,16,7,1.43 
+2015,04,23,22:15,neXtPlease!,Rock,inferno,ESL South East Europe Champion..,13,16,11,4,2,12,Rock,21,15,1.14 
+2015,04,23,22:15,Rock,neXtPlease!,dust2,ESL South East Europe Champion..,16,11,9,6,7,5,Rock,23,17,1.16 
+2015,04,23,21:45,Rock,MASSACRE-ZONE,cache,ESL South East Europe Champion..,16,13,6,9,10,4,Rock,13,24,0.56 
+2015,04,23,19:55,Rock,MASSACRE-ZONE,dust2,ESL South East Europe Champion..,16,6,10,5,6,1,Rock,13,12,1.02 
+2015,04,20,21:00,Rock,FlipSid3,inferno,DreamHack Open Tours 2015 Clos..,6,16,5,10,1,6,Rock,11,20,0.57 
+2015,04,20,21:00,Rock,FlipSid3,cobblestone,DreamHack Open Tours 2015 Clos..,16,6,9,6,7,0,Rock,17,14,1.29 
+2015,04,20,21:00,Rock,FlipSid3,cache,DreamHack Open Tours 2015 Clos..,14,16,8,7,6,9,Rock,17,26,0.68 
+2015,04,19,18:00,Rock,HEADSHOTBG,inferno,ESL South East Europe Champion..,11,16,8,7,3,9,Rock,17,23,0.78 
+2015,04,19,18:00,Rock,HEADSHOTBG,cobblestone,ESL South East Europe Champion..,4,16,3,12,1,4,Rock,3,19,0.17 
+2015,04,19,18:00,Rock,HEADSHOTBG,cache,ESL South East Europe Champion..,16,8,12,3,4,5,Rock,15,15,1.02 
+2015,04,15,21:15,Rock,HEADSHOTBG,inferno,Balkan Superleague,11,16,10,5,1,11,Rock,13,20,0.76 
+2015,04,15,20:00,Rock,TRICKED,inferno,Balkan Superleague,9,16,9,6,0,10,Rock,29,17,1.60 
+2014,12,13,20:00,GPlay,WiLD,inferno,South East Europe Championship,16,10,11,4,5,6,WiLD,14,18,0.83 
+2014,12,13,20:00,GPlay,WiLD,mirage,South East Europe Championship,16,12,7,8,9,4,WiLD,14,21,0.73 
+2014,12,13,20:00,GPlay,WiLD,dust2,South East Europe Championship,14,16,10,5,4,11,WiLD,25,22,1.11 
+2014,09,28,18:00,Orbit,ZYLEX,mirage,Fragbite Masters Season 3 Qual..,16,13,10,5,6,8,ZYLEX,21,24,0.92 

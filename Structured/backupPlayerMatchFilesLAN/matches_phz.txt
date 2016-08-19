@@ -1,0 +1,11 @@
+2016,02,21,15:00,Refuse,Cl4nless,cache,Cracow Game Spot 2016,16,1,14,1,2,0,Cl4nless,11,17,0.61 
+2016,02,21,15:00,Refuse,Cl4nless,mirage,Cracow Game Spot 2016,16,14,7,8,9,6,Cl4nless,19,21,0.91 
+2016,02,21,15:00,Refuse,Cl4nless,dust2,Cracow Game Spot 2016,13,16,8,7,5,9,Cl4nless,16,19,0.80 
+2015,11,22,10:30,ImperialDragons,Vexed,cache,Color League by EIZO & QPAD,10,16,7,8,3,8,Imperial Dragons,13,20,0.76 
+2015,11,22,10:30,Vexed,ImperialDragons,mirage,Color League by EIZO & QPAD,16,8,11,4,5,4,Imperial Dragons,14,20,0.70 
+2015,11,22,10:30,Vexed,ImperialDragons,train,Color League by EIZO & QPAD,8,16,7,8,1,8,Imperial Dragons,22,15,1.39 
+2015,11,21,16:45,ImperialDragons,ALSEN,mirage,Color League by EIZO & QPAD,16,10,9,6,7,4,Imperial Dragons,20,16,1.11 
+2015,11,21,16:45,ImperialDragons,ALSEN,train,Color League by EIZO & QPAD,11,16,5,10,6,6,Imperial Dragons,18,21,0.80 
+2015,11,21,16:45,ALSEN,ImperialDragons,inferno,Color League by EIZO & QPAD,10,16,2,13,8,3,Imperial Dragons,17,18,0.86 
+2015,11,21,14:15,ImperialDragons,Vexed,dust2,Color League by EIZO & QPAD,7,16,6,9,1,7,Imperial Dragons,11,18,0.68 
+2015,11,21,14:15,Vexed,ImperialDragons,mirage,Color League by EIZO & QPAD,19,15,6,9,9,6,Imperial Dragons,27,28,0.94 

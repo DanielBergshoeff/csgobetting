@@ -1,0 +1,15 @@
+2016,08,15,19:10,Tunisia,DREAM.RAR,overpass,WESG 2016 North & West Africa,16,1,14,1,2,0,DREAM.RAR,6,16,0.38 
+2016,08,15,19:10,DREAM.RAR,Tunisia,mirage,WESG 2016 North & West Africa,11,16,6,9,5,7,DREAM.RAR,14,19,0.72 
+2016,08,15,19:10,DREAM.RAR,Tunisia,cache,WESG 2016 North & West Africa,16,10,7,8,9,2,DREAM.RAR,22,16,1.15 
+2016,08,14,23:45,VivaAlgeria,DREAM.RAR,cobblestone,WESG 2016 North & West Africa,16,1,14,1,2,0,DREAM.RAR,6,16,0.38 
+2016,08,14,23:45,VivaAlgeria,DREAM.RAR,mirage,WESG 2016 North & West Africa,12,16,6,9,6,7,DREAM.RAR,19,17,0.97 
+2016,08,14,23:45,VivaAlgeria,DREAM.RAR,cache,WESG 2016 North & West Africa,16,11,8,7,8,4,DREAM.RAR,17,19,0.83 
+2015,10,08,16:30,Russia,Tunisia,overpass,World Championships 2015,16,4,11,4,5,0,Tunisia,6,19,0.35 
+2015,10,08,16:30,Russia,Tunisia,inferno,World Championships 2015,16,3,12,3,4,0,Tunisia,5,17,0.31 
+2015,10,08,13:30,Tunisia,Kyrgyzstan,dust2,World Championships 2015,10,16,3,12,7,4,Tunisia,21,20,1.15 
+2015,10,08,13:30,Tunisia,Kyrgyzstan,mirage,World Championships 2015,14,16,7,8,7,8,Tunisia,13,22,0.64 
+2015,08,13,15:00,Tunisia,SouthAfrica,inferno,World Championships 2015 Afric..,16,1,14,1,2,0,Tunisia,14,5,1.43 
+2015,08,13,13:00,Tunisia,Egypt,cache,World Championships 2015 Afric..,16,10,12,3,4,7,Tunisia,22,16,1.22 
+2015,08,12,15:20,Tunisia,Libya,inferno,World Championships 2015 Afric..,16,6,12,3,4,3,Tunisia,16,11,1.17 
+2015,08,11,15:45,Tunisia,Morocco,cache,World Championships 2015 Afric..,16,3,12,3,4,0,Tunisia,13,7,1.18 
+2015,08,11,14:00,Algeria,Tunisia,inferno,World Championships 2015 Afric..,12,16,5,10,7,6,Tunisia,28,15,1.57 

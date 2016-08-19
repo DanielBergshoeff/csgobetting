@@ -1,0 +1,32 @@
+2016,05,18,19:00,XPC,RB,cache,Balkan Championship Season 3,16,12,5,10,11,2,RB,13,20,0.75 
+2016,04,25,22:00,RB,aimclub,mirage,Balkan Championship Season 3,3,16,3,12,0,4,RB,10,18,0.54 
+2016,04,20,20:00,RB,SuperMassive,mirage,Balkan Championship Season 3,19,16,7,8,8,7,RB,20,27,0.76 
+2016,04,16,19:00,neXtPlease!,RB,cache,Balkan Championship Season 3,7,16,2,13,5,3,RB,10,18,0.62 
+2016,04,13,21:00,RB,iNation,cache,Balkan Championship Season 3,16,6,10,5,6,1,RB,13,12,0.97 
+2016,04,05,20:00,RB,GameAgents,cache,Balkan Championship Season 3,8,16,6,9,2,7,RB,15,17,0.83 
+2016,03,27,20:00,RB,TogetherAsOne,cache,Balkan Championship Season 3,11,16,7,8,4,8,RB,15,22,0.68 
+2016,03,22,22:00,RB,Deathtrap,dust2,Balkan Championship Season 3,9,16,8,7,1,9,RB,13,19,0.75 
+2015,09,16,20:30,Serbia,Hungary,mirage,World Championships 2015 Europ..,8,16,5,10,3,6,Serbia,17,19,0.91 
+2015,09,16,19:30,Serbia,Ukraine,inferno,World Championships 2015 Europ..,16,9,10,5,6,4,Serbia,18,15,1.14 
+2015,09,13,10:30,FLUGGENKK,ARMADA,cache,Balkan SuperCup #2 LAN Finals,5,16,4,11,1,5,FLUGGENKK,16,19,1.16 
+2015,09,13,10:30,ARMADA,FLUGGENKK,inferno,Balkan SuperCup #2 LAN Finals,16,13,6,9,10,4,FLUGGENKK,29,17,1.41 
+2015,05,26,20:00,EZPZ_LS,H2B,cache,Balkan Championship Season 2,16,5,14,1,2,4,EZPZ_LS,22,10,1.63 
+2015,05,26,20:00,H2B,EZPZ_LS,mirage,Balkan Championship Season 2,6,16,5,10,1,6,EZPZ_LS,13,11,1.01 
+2015,05,26,20:00,H2B,EZPZ_LS,dust2,Balkan Championship Season 2,19,17,5,10,10,5,EZPZ_LS,19,29,0.66 
+2015,05,22,18:00,EZPZ_LS,mesport.hu,cache,Balkan Championship Season 2,16,8,13,2,3,6,EZPZ_LS,20,16,1.19 
+2015,05,22,18:00,mesport.hu,EZPZ_LS,inferno,Balkan Championship Season 2,7,16,6,9,1,7,EZPZ_LS,19,10,1.33 
+2015,05,05,20:30,SpaceSoldiers,EZPZ_LS,mirage,Balkan Championship Season 2,16,9,12,3,4,6,EZPZ_LS,12,17,0.75 
+2015,05,05,20:30,SpaceSoldiers,EZPZ_LS,cache,Balkan Championship Season 2,16,10,6,9,10,1,EZPZ_LS,13,19,0.73 
+2015,05,04,21:10,HEADSHOTBG,RB,inferno,Balkan Superleague,11,16,3,12,8,4,RB,11,14,0.75 
+2015,04,27,22:00,ENTiTY,Rock,dust2,Balkan Superleague,12,16,8,7,4,9,ENTiTY,15,22,0.71 
+2015,04,27,20:00,SpaceSoldiers,EZPZ_LS,cache,ESL South East Europe Champion..,16,5,11,4,5,1,EZPZ_LS,8,18,0.46 
+2015,04,27,20:00,EZPZ_LS,SpaceSoldiers,mirage,ESL South East Europe Champion..,9,16,9,6,0,10,EZPZ_LS,21,20,1.05 
+2015,04,23,21:15,H2B,EZPZ_LS,cache,ESL South East Europe Champion..,13,16,3,12,10,4,EZPZ_LS,24,24,1.11 
+2015,04,23,21:15,EZPZ_LS,H2B,inferno,ESL South East Europe Champion..,16,3,13,2,3,1,EZPZ_LS,12,11,0.90 
+2015,04,16,21:30,XPC,EZPZ_LS,inferno,ESL South East Europe Champion..,16,5,12,3,4,2,EZPZ_LS,9,18,0.47 
+2015,04,16,21:30,XPC,EZPZ_LS,mirage,ESL South East Europe Champion..,16,14,7,8,9,6,EZPZ_LS,20,27,0.83 
+2014,05,25,15:00,HEADSHOTBG,proWince,mirage,Gaming Challenge 2014,16,13,8,7,8,6,proWince,20,24,0.82 
+2014,05,25,15:00,HEADSHOTBG,proWince,inferno,Gaming Challenge 2014,10,16,7,8,3,8,proWince,21,18,1.08 
+2014,05,25,15:00,proWince,HEADSHOTBG,nuke,Gaming Challenge 2014,5,16,4,11,1,5,proWince,10,18,0.57 
+2014,05,25,11:00,iNation,proWince,mirage,Gaming Challenge 2014,16,12,12,3,4,9,proWince,19,18,1.02 
+2014,05,25,09:00,proWince,DELTA,nuke,Gaming Challenge 2014,16,2,13,2,3,0,proWince,13,7,1.26 

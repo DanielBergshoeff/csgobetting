@@ -1,0 +1,19 @@
+2015,11,21,18:00,Infused,EZskins.com,overpass,Gfinity CS:GO UK Championship ..,3,16,3,12,0,4,Infused,16,15,1.03 
+2015,11,21,18:00,EZskins.com,Infused,inferno,Gfinity CS:GO UK Championship ..,16,7,11,4,5,3,Infused,12,17,0.72 
+2015,11,21,18:00,EZskins.com,Infused,mirage,Gfinity CS:GO UK Championship ..,16,8,10,5,6,3,Infused,15,16,0.92 
+2015,11,21,18:00,Infused,EZskins.com,cache,Gfinity CS:GO UK Championship ..,16,7,10,5,6,2,Infused,15,13,1.00 
+2015,11,21,18:00,Infused,EZskins.com,train,Gfinity CS:GO UK Championship ..,16,14,9,6,7,8,Infused,27,16,1.46 
+2015,10,25,12:00,Infused,UESmash,overpass,ESL UK Premiership Season 2 Fi..,14,16,8,7,6,9,Infused,17,20,0.90 
+2015,10,25,12:00,Infused,UESmash,mirage,ESL UK Premiership Season 2 Fi..,12,16,7,8,5,8,Infused,10,20,0.57 
+2015,10,25,12:00,Infused,UESmash,cache,ESL UK Premiership Season 2 Fi..,7,16,5,10,2,6,Infused,14,18,0.74 
+2015,10,25,12:00,Infused,UESmash,cobblestone,ESL UK Premiership Season 2 Fi..,16,7,8,7,8,0,Infused,14,14,0.88 
+2015,10,24,12:00,Infused,Choke,mirage,ESL UK Premiership Season 2 Fi..,16,9,9,6,7,3,Infused,16,11,1.13 
+2015,10,24,12:00,Infused,Choke,inferno,ESL UK Premiership Season 2 Fi..,16,1,14,1,2,0,Infused,15,4,1.57 
+2015,10,24,12:00,Choke,Infused,dust2,ESL UK Premiership Season 2 Fi..,16,10,12,3,4,7,Infused,20,19,1.04 
+2015,08,30,16:16,Infused,Choke,cache,Multiplay i55,14,16,7,8,7,8,Infused,13,22,0.62 
+2015,08,30,16:15,Infused,Choke,dust2,Multiplay i55,16,9,10,5,6,4,Infused,20,10,1.32 
+2015,08,30,16:15,Infused,Choke,overpass,Multiplay i55,19,21,8,7,7,8,Infused,32,26,1.17 
+2014,08,03,01:00,Virtus.pro,fm-eSports,mirage,Gfinity 3,16,1,14,1,2,0,fm-eSports,7,16,0.39 
+2014,08,02,21:45,fm-eSports,ESG!,inferno,Gfinity 3,6,16,6,9,0,7,fm-eSports,16,17,0.87 
+2014,08,02,17:20,fm-eSports,Titan,mirage,Gfinity 3,4,16,4,11,0,5,fm-eSports,8,18,0.44 
+2014,08,02,11:15,mousesports,fm-eSports,mirage,Gfinity 3,16,3,12,3,4,0,fm-eSports,7,17,0.39 

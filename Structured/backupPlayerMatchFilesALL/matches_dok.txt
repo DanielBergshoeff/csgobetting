@@ -1,0 +1,8 @@
+2016,06,05,21:15,BigGods,RoyalClub,nuke,Liga PRO GamersClub - MAY/16,16,13,8,7,8,6,RoyalClub,19,24,0.81 
+2016,06,05,21:15,BigGods,RoyalClub,cache,Liga PRO GamersClub - MAY/16,16,10,9,6,7,4,RoyalClub,13,20,0.63 
+2016,06,05,21:15,BigGods,RoyalClub,mirage,Liga PRO GamersClub - MAY/16,16,19,10,5,5,10,RoyalClub,21,27,0.82 
+2016,06,04,22:45,SLK,RoyalClub,mirage,Liga PRO GamersClub - MAY/16,15,19,8,7,7,8,RoyalClub,29,24,1.23 
+2016,06,04,22:45,RoyalClub,SLK,train,Liga PRO GamersClub - MAY/16,16,4,14,1,2,3,RoyalClub,19,11,1.48 
+2016,06,04,22:45,SLK,RoyalClub,cache,Liga PRO GamersClub - MAY/16,19,17,10,5,5,10,RoyalClub,25,26,0.97 
+2016,03,14,02:10,LDDM,CNB,train,Razer Rising Stars South Ameri..,14,16,10,5,4,11,LDDM,18,24,0.86 
+2016,03,13,23:00,LDDM,TSG,cobblestone,Razer Rising Stars South Ameri..,16,5,11,4,5,1,LDDM,21,10,1.54 

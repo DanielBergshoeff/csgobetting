@@ -1,0 +1,10 @@
+2015,10,15,22:00,RIPFonty,SwagSilicone,cache,Milan Games Week 2015 League b..,8,16,6,9,2,7,RIP Fonty,14,21,0.76 
+2015,10,15,22:00,SwagSilicone,RIPFonty,mirage,Milan Games Week 2015 League b..,21,16,9,6,6,9,RIP Fonty,19,31,0.67 
+2015,10,13,22:00,RIPFonty,iDomina,mirage,Milan Games Week 2015 League b..,16,7,9,6,7,1,RIP Fonty,13,15,0.93 
+2015,10,13,22:00,RIPFonty,iDomina,overpass,Milan Games Week 2015 League b..,16,8,8,7,8,1,RIP Fonty,20,14,1.21 
+2015,10,08,22:00,RIPFonty,TES,mirage,Milan Games Week 2015 League b..,14,16,3,12,11,4,RIP Fonty,22,27,0.85 
+2015,10,08,22:00,RIPFonty,TES,cache,Milan Games Week 2015 League b..,21,18,7,8,8,7,RIP Fonty,35,26,1.35 
+2015,10,07,21:00,ExAequo,RIPFonty,cache,Milan Games Week 2015 League b..,16,9,8,7,8,2,RIP Fonty,17,20,0.85 
+2015,10,07,21:00,ExAequo,RIPFonty,cobblestone,Milan Games Week 2015 League b..,16,1,14,1,2,0,RIP Fonty,6,16,0.34 
+2015,10,06,22:00,RIPFonty,EasyFix,mirage,Milan Games Week 2015 League b..,14,16,4,11,10,5,RIP Fonty,25,24,1.05 
+2015,10,06,22:00,EasyFix,RIPFonty,cache,Milan Games Week 2015 League b..,13,16,7,8,6,8,RIP Fonty,13,21,0.62 

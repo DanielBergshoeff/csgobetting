@@ -1,0 +1,6 @@
+2016,08,11,13:00,MVPproject,TamuluS,cobblestone,VSL Season 1,16,11,12,3,4,8,TamuluS,19,20,0.93 
+2016,08,11,13:00,TamuluS,MVPproject,train,VSL Season 1,10,16,7,8,3,8,TamuluS,24,21,1.08 
+2016,07,31,13:15,T5,TamuluS,train,VSL Season 1,16,9,11,4,5,5,TamuluS,34,16,1.92 
+2016,07,24,12:15,TamuluS,Nomad,nuke,VSL Season 1,16,7,9,6,7,1,TamuluS,29,10,1.97 
+2016,07,14,14:00,TamuluS,Player5,mirage,VSL Season 1,16,1,14,1,2,0,TamuluS,23,5,2.18 
+2016,07,07,14:15,m0nsterwhite,TamuluS,mirage,VSL Season 1,8,16,5,10,3,6,TamuluS,15,16,0.89 

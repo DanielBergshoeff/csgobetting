@@ -1,0 +1,21 @@
+2016,08,11,04:15,ProGaming,Innova,cache,Liga PRO GamersClub - JUL/16,16,9,7,8,9,1,Innova,14,19,0.73 
+2016,08,11,04:15,ProGaming,Innova,dust2,Liga PRO GamersClub - JUL/16,16,11,8,7,8,4,Innova,10,22,0.50 
+2016,08,11,04:15,Innova,ProGaming,train,Liga PRO GamersClub - JUL/16,19,17,4,11,11,4,Innova,24,23,0.98 
+2016,08,10,04:10,Innova,TeamOne,train,Liga PRO GamersClub - JUL/16,16,11,13,2,3,9,Innova,13,15,1.00 
+2016,08,10,04:10,Innova,TeamOne,nuke,Liga PRO GamersClub - JUL/16,7,16,7,8,0,8,Innova,12,18,0.71 
+2016,08,10,04:10,Innova,TeamOne,dust2,Liga PRO GamersClub - JUL/16,16,14,7,8,9,6,Innova,14,22,0.67 
+2016,08,10,01:00,Innova,RemoBrave,dust2,ESEA Open Season 22 Brazil,9,16,8,7,1,9,Innova,17,20,1.08 
+2016,08,10,01:00,Innova,RemoBrave,mirage,ESEA Open Season 22 Brazil,4,16,2,13,2,3,Innova,9,19,0.45 
+2016,07,13,04:10,Innova,BlackDragons,cache,Liga PRO GamersClub - JUN/16,17,19,7,8,8,7,Innova,26,26,0.96 
+2016,07,13,04:10,Innova,BlackDragons,mirage,Liga PRO GamersClub - JUN/16,9,16,9,6,0,10,Innova,13,18,0.78 
+2016,07,13,04:10,BlackDragons,Innova,train,Liga PRO GamersClub - JUN/16,10,16,6,9,4,7,Innova,13,19,0.68 
+2016,06,17,00:15,Innova,g3x,train,Razer Rising Stars South Ameri..,16,9,12,3,4,6,Innova,20,12,1.28 
+2016,06,17,00:15,Innova,g3x,cache,Razer Rising Stars South Ameri..,9,16,4,11,5,5,Innova,13,20,0.64 
+2016,04,26,02:00,CNB,g3x,cache,MLG Regional Minor South Ameri..,16,7,9,6,7,1,g3x,8,20,0.45 
+2016,04,26,02:00,CNB,g3x,cobblestone,MLG Regional Minor South Ameri..,19,16,4,11,11,4,g3x,29,23,1.14 
+2016,04,24,22:00,KeydStars,g3x,dust2,Rising Stars South America Pro..,16,11,9,6,7,5,g3x,13,23,0.59 
+2016,04,24,22:00,KeydStars,g3x,overpass,Rising Stars South America Pro..,16,9,11,4,5,5,g3x,15,21,0.82 
+2016,04,24,02:15,g3x,Innova,cobblestone,Rising Stars South America Pro..,12,16,8,7,4,9,g3x,14,23,0.67 
+2016,04,24,01:15,CNB,g3x,overpass,Rising Stars South America Pro..,3,16,3,12,0,4,g3x,20,11,1.74 
+2015,09,04,02:50,JAYOB,TRS,cache,RGN Brazilian Open,16,10,11,4,5,6,JAYOB,23,16,1.25 
+2015,09,04,02:50,TRS,JAYOB,mirage,RGN Brazilian Open,5,16,5,10,0,6,JAYOB,18,14,1.15 

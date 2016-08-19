@@ -1,0 +1,25 @@
+2016,08,15,19:10,Tunisia,DREAM.RAR,overpass,WESG 2016 North & West Africa,16,1,14,1,2,0,Tunisia,10,9,0.91 
+2016,08,15,19:10,DREAM.RAR,Tunisia,mirage,WESG 2016 North & West Africa,11,16,6,9,5,7,Tunisia,18,15,1.13 
+2016,08,15,19:10,DREAM.RAR,Tunisia,cache,WESG 2016 North & West Africa,16,10,7,8,9,2,Tunisia,8,23,0.44 
+2016,08,15,00:15,FENNEC,Tunisia,cobblestone,WESG 2016 North & West Africa,16,9,8,7,8,2,Tunisia,10,19,0.62 
+2016,08,15,00:15,Tunisia,FENNEC,dust2,WESG 2016 North & West Africa,14,16,5,10,9,6,Tunisia,20,21,1.03 
+2016,08,06,15:00,Tunisia,Morocco,mirage,World Championships 2016 Afric..,16,14,6,9,10,5,Tunisia,18,16,1.00 
+2016,08,06,15:00,Tunisia,Morocco,dust2,World Championships 2016 Afric..,16,13,10,5,6,8,Tunisia,16,19,0.82 
+2016,08,06,15:00,Tunisia,Morocco,cache,World Championships 2016 Afric..,16,7,8,7,8,0,Tunisia,13,12,1.01 
+2016,08,05,18:00,Tunisia,SouthAfrica,cobblestone,World Championships 2016 Afric..,19,16,9,6,6,9,Tunisia,20,26,0.77 
+2016,08,05,18:00,Tunisia,SouthAfrica,cache,World Championships 2016 Afric..,16,11,10,5,6,6,Tunisia,18,16,1.08 
+2016,08,05,18:00,Tunisia,SouthAfrica,mirage,World Championships 2016 Afric..,17,19,6,9,9,6,Tunisia,19,27,0.76 
+2016,08,03,20:20,Algeria,Tunisia,mirage,World Championships 2016 Afric..,14,16,8,7,6,9,Tunisia,21,19,1.06 
+2016,08,03,19:00,Tunisia,Morocco,dust2,World Championships 2016 Afric..,15,15,6,9,9,6,Tunisia,19,22,0.88 
+2015,12,18,23:10,RvN,Hyper4mance,train,AFKG MENA Championship,16,6,11,4,5,2,Hyper4mance,21,15,1.37 
+2015,12,18,23:10,Hyper4mance,RvN,mirage,AFKG MENA Championship,16,13,7,8,9,5,Hyper4mance,15,20,0.73 
+2015,12,18,23:10,RvN,Hyper4mance,dust2,AFKG MENA Championship,21,17,8,7,7,8,Hyper4mance,18,27,0.71 
+2015,10,08,16:30,Russia,Tunisia,overpass,World Championships 2015,16,4,11,4,5,0,Tunisia,9,18,0.60 
+2015,10,08,16:30,Russia,Tunisia,inferno,World Championships 2015,16,3,12,3,4,0,Tunisia,4,17,0.26 
+2015,10,08,13:30,Tunisia,Kyrgyzstan,dust2,World Championships 2015,10,16,3,12,7,4,Tunisia,11,20,0.59 
+2015,10,08,13:30,Tunisia,Kyrgyzstan,mirage,World Championships 2015,14,16,7,8,7,8,Tunisia,15,22,0.73 
+2015,08,13,15:00,Tunisia,SouthAfrica,inferno,World Championships 2015 Afric..,16,1,14,1,2,0,Tunisia,18,5,1.80 
+2015,08,13,13:00,Tunisia,Egypt,cache,World Championships 2015 Afric..,16,10,12,3,4,7,Tunisia,22,17,1.19 
+2015,08,12,15:20,Tunisia,Libya,inferno,World Championships 2015 Afric..,16,6,12,3,4,3,Tunisia,18,10,1.42 
+2015,08,11,15:45,Tunisia,Morocco,cache,World Championships 2015 Afric..,16,3,12,3,4,0,Tunisia,22,7,1.76 
+2015,08,11,14:00,Algeria,Tunisia,inferno,World Championships 2015 Afric..,12,16,5,10,7,6,Tunisia,11,17,0.71 

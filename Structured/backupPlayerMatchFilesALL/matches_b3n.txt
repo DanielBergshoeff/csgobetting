@@ -1,0 +1,15 @@
+2015,10,24,16:05,XENEX,UESmash,dust2,ESL UK Premiership Season 2 Fi..,3,16,3,12,0,4,XENEX,12,16,0.84 
+2015,10,24,16:05,XENEX,UESmash,cache,ESL UK Premiership Season 2 Fi..,11,16,7,8,4,8,XENEX,11,20,0.62 
+2015,09,28,20:30,XENEX,Infused,inferno,ESL UK Premiership Season 2,6,16,5,10,1,6,XENEX,15,18,0.85 
+2015,09,21,20:00,CeX,XENEX,cache,ESL UK Premiership Season 2,11,16,11,4,0,12,XENEX,18,21,0.82 
+2015,09,07,20:00,CSGOCasino.net,GLG,cache,ESL UK Premiership Season 2,16,3,12,3,4,0,CSGOCasino.net,12,9,1.02 
+2015,09,01,16:30,Belarus,Ireland,dust2,World Championships 2015 Europ..,19,17,6,9,9,6,Ireland,34,25,1.36 
+2015,09,01,16:30,Ireland,Belarus,mirage,World Championships 2015 Europ..,0,16,0,15,0,1,Ireland,6,16,0.31 
+2015,08,31,20:00,Choke,CSGOCasino.net,overpass,ESL UK Premiership Season 2,13,16,9,6,4,10,CSGOCasino.net,28,19,1.29 
+2015,08,25,20:00,CSGOCasino.net,UnitedEstonia,dust2,ESL UK Premiership Season 2,16,2,13,2,3,0,CSGOCasino.net,22,8,1.96 
+2015,08,17,23:15,CSGOCasino.net,fish123,dust2,ESL UK Premiership Season 2,16,7,10,5,6,2,CSGOCasino.net,20,12,1.32 
+2015,08,14,17:00,Ireland,Greece,dust2,World Championships 2015 Europ..,16,14,6,9,10,5,Ireland,25,20,1.16 
+2015,08,14,17:00,Greece,Ireland,cobblestone,World Championships 2015 Europ..,5,16,4,11,1,5,Ireland,21,10,1.48 
+2014,08,29,20:00,Ireland,Portugal,mirage,European Championship 2014 Qua..,9,16,3,12,6,4,Ireland,13,21,0.68 
+2014,08,29,20:00,Portugal,Ireland,nuke,European Championship 2014 Qua..,16,19,9,6,6,9,Ireland,27,28,0.92 
+2014,08,29,20:00,Ireland,Portugal,inferno,European Championship 2014 Qua..,10,16,6,9,4,7,Ireland,22,15,1.30 

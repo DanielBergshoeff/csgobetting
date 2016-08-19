@@ -1,0 +1,11 @@
+2015,11,15,11:00,NoobTubers,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,3,12,3,4,0,E-frag.net Staff,10,17,0.65 
+2015,11,15,11:00,NoobTubers,E-frag.netStaff,cobblestone,Virtus.pro Staff Cup #3,16,12,3,12,13,0,E-frag.net Staff,23,20,1.19 
+2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,dust2,Virtus.pro Staff Cup #3,7,16,3,12,4,4,E-frag.net Staff,18,14,1.20 
+2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,10,9,6,7,4,E-frag.net Staff,16,22,0.84 
+2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,mirage,Virtus.pro Staff Cup #3,12,16,7,8,5,8,E-frag.net Staff,20,19,1.00 
+2015,11,14,13:30,HLTV.orgStaff,E-frag.netStaff,inferno,Virtus.pro Staff Cup #3,16,4,13,2,3,2,E-frag.net Staff,10,19,0.55 
+2015,11,14,13:30,HLTV.orgStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,7,12,3,4,4,E-frag.net Staff,8,20,0.65 
+2015,11,13,16:00,NiPStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,12,16,5,10,7,6,E-frag.net Staff,23,21,1.04 
+2015,11,13,16:00,NiPStaff,E-frag.netStaff,mirage,Virtus.pro Staff Cup #3,11,16,7,8,4,8,E-frag.net Staff,20,19,1.03 
+2015,11,07,16:00,StormStudioStaff,E-frag.netStaff,inferno,Virtus.pro Staff Cup #3,8,16,3,12,5,4,E-frag.net Staff,23,16,1.34 
+2015,11,07,16:00,E-frag.netStaff,StormStudioStaff,cache,Virtus.pro Staff Cup #3,16,6,14,1,2,5,E-frag.net Staff,17,15,1.06 

@@ -1,0 +1,50 @@
+2016,01,20,22:15,ELTZ,PlayingDucks,mirage,D!ngIT $2000 Weekly Cup #34,10,16,8,7,2,9,ELTZ,19,20,0.98 
+2016,01,20,18:30,EYESONU,ELTZ,mirage,D!ngIT $2000 Weekly Cup #34,10,16,7,8,3,8,ELTZ,9,19,0.55 
+2016,01,19,21:10,PlayingDucks,ELTZ,cache,D!ngIT $2000 Weekly Cup #34,16,7,11,4,5,3,ELTZ,11,18,0.73 
+2016,01,19,21:10,ELTZ,PlayingDucks,mirage,D!ngIT $2000 Weekly Cup #34,16,13,6,9,10,4,ELTZ,16,21,0.75 
+2016,01,19,21:10,PlayingDucks,ELTZ,dust2,D!ngIT $2000 Weekly Cup #34,16,11,9,6,7,5,ELTZ,16,21,0.76 
+2015,12,06,21:45,FlipSid3,Rebels,mirage,Uprise Champions Cup: Europe,16,14,9,6,7,8,FlipSid3,13,20,0.67 
+2015,12,06,21:45,FlipSid3,Rebels,train,Uprise Champions Cup: Europe,16,6,12,3,4,3,FlipSid3,13,12,1.05 
+2015,11,17,20:45,USSR,PiTER,overpass,CIS LAN Championship #2,13,16,9,6,4,10,USSR,22,21,1.06 
+2015,11,17,20:45,PiTER,USSR,mirage,CIS LAN Championship #2,16,10,12,3,4,7,USSR,16,20,0.79 
+2015,11,17,12:45,USSR,VegaSquadron,dust2,CIS LAN Championship #2,7,16,4,11,3,5,USSR,10,17,0.63 
+2015,11,17,12:45,USSR,VegaSquadron,overpass,CIS LAN Championship #2,14,16,5,10,9,6,USSR,17,20,0.90 
+2015,11,17,12:45,VegaSquadron,USSR,mirage,CIS LAN Championship #2,11,16,9,6,2,10,USSR,17,19,0.90 
+2015,10,19,17:00,Pries,ACG,mirage,Rising Tornado #5,18,22,9,6,6,9,Pries,34,30,1.18 
+2015,10,19,17:00,Pries,ACG,cache,Rising Tornado #5,2,16,2,13,0,3,Pries,8,15,0.64 
+2015,10,03,20:00,Pries,Enso,inferno,Rising Tornado #5,12,16,3,12,9,4,Pries,23,17,1.23 
+2015,10,03,20:00,Enso,Pries,mirage,Rising Tornado #5,8,16,6,9,2,7,Pries,17,15,1.04 
+2015,10,03,20:00,Enso,Pries,train,Rising Tornado #5,16,14,11,4,5,10,Pries,17,19,0.83 
+2015,09,20,14:00,Phenomenon,Pries,dust2,Rising Tornado #4,3,16,2,13,1,3,Pries,20,10,1.57 
+2015,09,20,14:00,Phenomenon,Pries,cache,Rising Tornado #4,10,16,4,11,6,5,Pries,14,17,0.84 
+2015,09,13,21:00,Nostalgie,Pries,dust2,Uprise Champions Cup Season 3,16,13,10,5,6,8,Pries,28,17,1.46 
+2015,09,13,21:00,Pries,Nostalgie,overpass,Uprise Champions Cup Season 3,7,16,3,12,4,4,Pries,12,21,0.63 
+2015,09,11,21:00,E-frag.net,Pries,dust2,Uprise Champions Cup Season 3,16,9,12,3,4,6,Pries,15,19,0.91 
+2015,09,11,21:00,E-frag.net,Pries,cache,Uprise Champions Cup Season 3,16,10,11,4,5,6,Pries,12,22,0.53 
+2015,09,09,21:00,Pries,VegaSquadron,mirage,Uprise Champions Cup Season 3,8,16,5,10,3,6,Pries,10,18,0.65 
+2015,09,09,21:00,Pries,VegaSquadron,cache,Uprise Champions Cup Season 3,6,16,6,9,0,7,Pries,10,16,0.66 
+2015,09,07,18:30,VegaSquadron,Pries,mirage,Rising Tornado #4,14,16,3,12,11,4,Pries,25,13,1.35 
+2015,09,07,18:30,Pries,VegaSquadron,cache,Rising Tornado #4,16,8,10,5,6,3,Pries,19,11,1.20 
+2015,09,01,18:00,Pries,dope,cobblestone,Rising Tornado #4,19,17,8,7,7,8,Pries,25,25,0.97 
+2015,09,01,18:00,Pries,dope,dust2,Rising Tornado #4,16,6,14,1,2,5,Pries,22,11,1.59 
+2015,08,31,17:00,EpiphanyBolt,Pries,dust2,Uprise Champions Cup Season 3,16,5,10,5,6,0,Pries,16,16,1.05 
+2015,08,31,17:00,EpiphanyBolt,Pries,mirage,Uprise Champions Cup Season 3,16,13,8,7,8,6,Pries,16,24,0.68 
+2015,08,29,21:15,HD4R,Pries,mirage,Rising Tornado #4,7,16,4,11,3,5,Pries,14,14,0.98 
+2015,08,29,21:15,Pries,HD4R,cache,Rising Tornado #4,16,8,10,5,6,3,Pries,22,14,1.35 
+2015,08,08,18:00,Dobry&Gaming,Pries,cobblestone,Uprise Champions Cup Season 3,16,4,14,1,2,3,Pries,7,18,0.40 
+2015,08,08,18:00,Pries,Dobry&Gaming,cache,Uprise Champions Cup Season 3,10,16,8,7,2,9,Pries,13,19,0.73 
+2015,05,25,18:00,LDLCWhite,USSR,dust2,FACEIT League 2015 Stage 2 EU ..,21,17,5,10,10,5,USSR,34,29,1.34 
+2015,05,25,18:00,LDLCWhite,USSR,cobblestone,FACEIT League 2015 Stage 2 EU ..,21,18,7,8,8,7,USSR,37,28,1.31 
+2015,05,14,21:30,7sway,USSR,cache,Uprise Champions Cup Season 2,14,16,6,9,8,7,USSR,20,20,0.91 
+2015,05,14,21:30,USSR,7sway,inferno,Uprise Champions Cup Season 2,16,10,9,6,7,4,USSR,18,13,1.25 
+2015,04,25,20:20,GPlay,USSR,dust2,Acer Predator Masters powered ..,16,13,8,7,8,6,USSR,13,20,0.71 
+2015,04,25,20:20,GPlay,USSR,inferno,Acer Predator Masters powered ..,16,10,8,7,8,3,USSR,16,21,0.80 
+2015,04,23,18:00,xGame.KZ,USSR,dust2,Uprise Champions Cup Season 2,8,16,5,10,3,6,USSR,21,14,1.36 
+2015,04,23,18:00,xGame.KZ,USSR,cache,Uprise Champions Cup Season 2,9,16,6,9,3,7,USSR,16,18,0.88 
+2015,04,19,09:00,ACES,USSR,dust2,CIS LAN Championship,16,12,7,8,9,4,USSR,23,20,1.03 
+2015,04,19,09:00,ACES,USSR,cache,CIS LAN Championship,16,9,10,5,6,4,USSR,14,19,0.85 
+2015,04,18,19:00,USSR,FlipSid3,inferno,CIS LAN Championship,7,16,5,10,2,6,USSR,6,18,0.40 
+2015,04,18,19:00,USSR,FlipSid3,nuke,CIS LAN Championship,8,16,8,7,0,9,USSR,18,20,0.91 
+2015,04,17,18:00,TEAMSWAGYOLO,USSR,cobblestone,CIS LAN Championship,9,16,6,9,3,7,USSR,24,15,1.34 
+2015,04,17,15:00,HellRaisers,USSR,cache,CIS LAN Championship,16,11,12,3,4,8,USSR,12,20,0.65 
+2015,04,17,12:05,PiTER,USSR,inferno,CIS LAN Championship,11,16,7,8,4,8,USSR,13,18,0.74 

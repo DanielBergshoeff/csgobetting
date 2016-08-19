@@ -1,0 +1,21 @@
+2015,11,17,20:45,USSR,PiTER,overpass,CIS LAN Championship #2,13,16,9,6,4,10,USSR,18,22,0.84 
+2015,11,17,20:45,PiTER,USSR,mirage,CIS LAN Championship #2,16,10,12,3,4,7,USSR,22,20,1.10 
+2015,11,17,12:45,USSR,VegaSquadron,dust2,CIS LAN Championship #2,7,16,4,11,3,5,USSR,14,17,0.85 
+2015,11,17,12:45,USSR,VegaSquadron,overpass,CIS LAN Championship #2,14,16,5,10,9,6,USSR,15,25,0.69 
+2015,11,17,12:45,VegaSquadron,USSR,mirage,CIS LAN Championship #2,11,16,9,6,2,10,USSR,12,20,0.60 
+2015,09,29,17:00,Enervate,VegaSquadron,cache,Uprise Champions Cup Season 3 ..,16,2,13,2,3,0,Vega Squadron,12,16,0.81 
+2015,09,29,17:00,VegaSquadron,Enervate,mirage,Uprise Champions Cup Season 3 ..,16,19,5,10,10,5,Vega Squadron,19,25,0.80 
+2015,09,29,11:00,VegaSquadron,Nostalgie,dust2,Uprise Champions Cup Season 3 ..,16,14,4,11,12,3,Vega Squadron,17,25,0.74 
+2015,09,29,11:00,VegaSquadron,Nostalgie,mirage,Uprise Champions Cup Season 3 ..,16,7,13,2,3,5,Vega Squadron,9,13,0.76 
+2015,09,28,14:00,VegaSquadron,PiTER,mirage,Uprise Champions Cup Season 3 ..,11,16,5,10,6,6,Vega Squadron,11,22,0.51 
+2015,09,28,14:00,PiTER,VegaSquadron,cache,Uprise Champions Cup Season 3 ..,16,13,9,6,7,7,Vega Squadron,23,20,1.14 
+2015,09,28,10:20,RCTIC,VegaSquadron,dust2,Uprise Champions Cup Season 3 ..,16,19,6,9,9,6,Vega Squadron,28,20,1.23 
+2015,09,28,10:20,VegaSquadron,RCTIC,mirage,Uprise Champions Cup Season 3 ..,16,14,3,12,13,2,Vega Squadron,19,19,0.93 
+2015,04,18,21:30,GGWP,TEAMSWAGYOLO,inferno,CIS LAN Championship,17,19,7,8,8,7,GGWP,25,29,0.96 
+2015,04,18,21:30,TEAMSWAGYOLO,GGWP,cache,CIS LAN Championship,16,9,10,5,6,4,GGWP,13,22,0.63 
+2015,04,18,21:30,TEAMSWAGYOLO,GGWP,mirage,CIS LAN Championship,20,22,10,5,5,10,GGWP,27,27,0.97 
+2015,04,18,17:00,GGWP,HellRaisers,dust2,CIS LAN Championship,7,16,6,9,1,7,GGWP,17,17,1.13 
+2015,04,18,17:00,HellRaisers,GGWP,cache,CIS LAN Championship,16,3,14,1,2,2,GGWP,8,16,0.54 
+2015,04,18,01:30,GGWP,ACES,dust2,CIS LAN Championship,16,10,8,7,8,3,GGWP,27,13,1.58 
+2015,04,17,23:50,WEPLAY,GGWP,nuke,CIS LAN Championship,10,16,10,5,0,11,GGWP,23,18,1.28 
+2015,04,17,19:30,FlipSid3,GGWP,cobblestone,CIS LAN Championship,16,6,11,4,5,2,GGWP,6,18,0.40 

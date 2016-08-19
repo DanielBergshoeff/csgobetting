@@ -1,0 +1,25 @@
+2016,07,26,21:00,Awsomniac,E-Corp,overpass,UnderDogs #4,16,9,8,7,8,2,Awsomniac,8,17,0.55 
+2016,07,26,21:00,E-Corp,Awsomniac,cache,UnderDogs #4,16,14,11,4,5,10,Awsomniac,20,20,1.00 
+2016,07,26,21:00,Awsomniac,E-Corp,dust2,UnderDogs #4,16,2,13,2,3,0,Awsomniac,16,10,1.36 
+2016,07,25,22:00,RedInstinct,Awsomniac,dust2,UnderDogs #4,13,16,3,12,10,4,Awsomniac,22,21,1.00 
+2016,07,25,22:00,Awsomniac,RedInstinct,cobblestone,UnderDogs #4,16,7,11,4,5,3,Awsomniac,20,14,1.25 
+2016,05,23,22:00,beGenius,Evokate,train,UnderDogs #3,16,11,11,4,5,7,Evokate,28,20,1.31 
+2016,05,23,22:00,Evokate,beGenius,dust2,UnderDogs #3,13,16,5,10,8,6,Evokate,19,26,0.73 
+2016,01,06,21:30,LDLCWhite,Pulse,overpass,PGL Regional Minor Championshi..,16,5,10,5,6,0,Pulse,11,18,0.61 
+2016,01,06,21:30,Pulse,LDLCWhite,cache,PGL Regional Minor Championshi..,4,16,4,11,0,5,Pulse,12,18,0.70 
+2015,10,19,19:15,LDLCWhite,Pulse,dust2,UnderDogs #1,16,4,13,2,3,2,Pulse,12,18,0.70 
+2015,10,19,19:15,LDLCWhite,Pulse,cache,UnderDogs #1,16,4,12,3,4,1,Pulse,10,18,0.59 
+2015,10,05,19:15,unKnights,Pulse,inferno,UnderDogs #1,5,16,5,10,0,6,Pulse,14,13,0.98 
+2015,10,05,19:15,Pulse,unKnights,cache,UnderDogs #1,16,11,8,7,8,4,Pulse,21,19,1.08 
+2015,10,05,19:15,unKnights,Pulse,mirage,UnderDogs #1,22,19,9,6,6,9,Pulse,34,29,1.14 
+2015,09,16,23:45,RedInstinct,TS-Netteux,dust2,LevelDown Championship,16,14,5,10,11,4,TS-Netteux,17,23,0.72 
+2015,09,16,23:00,TS-Netteux,WEGOTGAME,train,LevelDown Championship,3,16,3,12,0,4,TS-Netteux,7,18,0.38 
+2015,09,16,19:30,TS-Netteux,LDLCBlue,mirage,LevelDown Championship,16,13,10,5,6,8,TS-Netteux,16,21,0.79 
+2015,06,03,23:00,k1ck,Awsomniac,overpass,CEVO Main Season 7,13,16,7,8,6,8,Awsomniac,27,19,1.30 
+2015,05,09,16:10,Awsomniac,FlipSid3,cobblestone,DreamHack Open Tours 2015,6,16,2,13,4,3,Awsomniac,10,17,0.64 
+2015,05,09,14:45,fnatic,Awsomniac,mirage,DreamHack Open Tours 2015,16,4,12,3,4,1,Awsomniac,10,18,0.59 
+2015,05,09,10:00,LDLCWhite,Awsomniac,cobblestone,DreamHack Open Tours 2015 BYOC..,16,14,10,5,6,9,Awsomniac,16,17,0.90 
+2015,05,09,00:00,Awsomniac,LDLCBlue,overpass,DreamHack Open Tours 2015 BYOC..,16,13,9,6,7,7,Awsomniac,24,17,1.19 
+2015,05,08,22:45,Awsomniac,beGenius,inferno,DreamHack Open Tours 2015 BYOC..,16,10,10,5,6,5,Awsomniac,11,13,0.81 
+2015,05,08,21:40,melty,Awsomniac,mirage,DreamHack Open Tours 2015 BYOC..,12,16,9,6,3,10,Awsomniac,14,18,0.77 
+2015,05,08,19:35,Awsomniac,LDLCBlue,dust2,DreamHack Open Tours 2015 BYOC..,12,16,4,11,8,5,Awsomniac,19,19,0.95 

@@ -1,0 +1,17 @@
+2016,04,22,14:15,TheMongolz,Signature,mirage,Rising Stars SEA Promotional C..,16,11,6,9,10,2,Signature,19,23,0.84 
+2016,04,22,14:15,Signature,TheMongolz,cache,Rising Stars SEA Promotional C..,10,16,7,8,3,8,Signature,13,18,0.76 
+2016,04,21,16:10,MVP.karnal,Signature,mirage,Rising Stars SEA Promotional C..,13,16,4,11,9,5,Signature,22,19,1.06 
+2016,04,21,13:30,nxl,Signature,dust2,Rising Stars SEA Promotional C..,16,10,8,7,8,3,Signature,18,19,0.98 
+2016,04,21,12:30,MVP.karnal,Signature,inferno,Rising Stars SEA Promotional C..,8,16,6,9,2,7,Signature,15,16,0.94 
+2016,04,19,15:55,MVPproject,Signature,train,WCA 2016 APAC Qualifier,14,16,7,8,7,8,Signature,14,22,0.74 
+2016,04,19,15:55,MVPproject,Signature,mirage,WCA 2016 APAC Qualifier,17,19,12,3,3,12,Signature,17,28,0.66 
+2016,04,16,13:00,Signature,MineSki,mirage,WCA 2016 APAC Qualifier,16,6,11,4,5,2,Signature,14,13,1.02 
+2016,04,16,13:00,MineSki,Signature,inferno,WCA 2016 APAC Qualifier,7,16,4,11,3,5,Signature,7,15,0.59 
+2016,03,13,12:00,Signature,VG.CyberZen,dust2,DreamHack Masters Malmö 2016 A..,14,16,9,6,5,10,Signature,6,22,0.40 
+2016,03,13,12:00,VG.CyberZen,Signature,inferno,DreamHack Masters Malmö 2016 A..,19,16,7,8,8,7,Signature,13,25,0.56 
+2016,03,13,09:00,Signature,TheMongolz,dust2,DreamHack Masters Malmö 2016 A..,16,12,9,6,7,6,Signature,12,19,0.66 
+2016,03,13,09:00,Signature,TheMongolz,cobblestone,DreamHack Masters Malmö 2016 A..,5,16,4,11,1,5,Signature,9,17,0.62 
+2016,03,13,09:00,Signature,TheMongolz,mirage,DreamHack Masters Malmö 2016 A..,16,8,8,7,8,1,Signature,28,13,1.69 
+2016,03,13,06:30,Signature,nxl,train,DreamHack Masters Malmö 2016 A..,16,10,8,7,8,3,Signature,16,17,0.93 
+2016,03,13,06:30,Signature,nxl,mirage,DreamHack Masters Malmö 2016 A..,16,6,10,5,6,1,Signature,15,11,1.08 
+2016,03,12,13:30,MiTH,Signature,overpass,DreamHack Masters Malmö 2016 A..,12,16,10,5,2,11,Signature,17,19,0.89 

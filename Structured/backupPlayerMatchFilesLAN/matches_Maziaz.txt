@@ -1,0 +1,18 @@
+2016,03,24,23:00,Plantronics,WinOut,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,8,9,6,7,2,WinOut,11,17,0.69 
+2016,03,24,23:00,Plantronics,WinOut,inferno,Copenhagen Games 2016 BYOC Qua..,16,5,11,4,5,1,WinOut,12,18,0.84 
+2016,03,24,19:00,WinOut,eXtatus,cache,Copenhagen Games 2016 BYOC Qua..,16,6,9,6,7,0,WinOut,10,12,0.86 
+2016,03,24,19:00,WinOut,eXtatus,dust2,Copenhagen Games 2016 BYOC Qua..,16,12,11,4,5,8,WinOut,23,18,1.33 
+2016,03,24,15:30,WinOut,malefiQ,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,WinOut,17,12,1.11 
+2016,03,24,13:00,WinOut,thepickles,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,WinOut,10,6,1.17 
+2015,04,03,22:30,Sharkgaming,Lemondogs,cobblestone,Copenhagen Games 2015,11,16,6,9,5,7,Sharkgaming,14,21,0.72 
+2015,04,03,19:30,Acer,Sharkgaming,dust2,Copenhagen Games 2015,16,14,4,11,12,3,Sharkgaming,18,19,0.94 
+2015,04,03,19:30,Sharkgaming,Acer,mirage,Copenhagen Games 2015,13,16,11,4,2,12,Sharkgaming,23,18,1.15 
+2015,04,03,15:30,jQntefabrikkeN,Sharkgaming,dust2,Copenhagen Games 2015,9,16,5,10,4,6,Sharkgaming,21,13,1.28 
+2015,04,03,15:30,jQntefabrikkeN,Sharkgaming,cache,Copenhagen Games 2015,16,10,8,7,8,3,Sharkgaming,20,18,1.14 
+2015,04,03,15:30,Sharkgaming,jQntefabrikkeN,inferno,Copenhagen Games 2015,16,9,10,5,6,4,Sharkgaming,22,14,1.47 
+2015,04,03,12:00,Acer,Sharkgaming,nuke,Copenhagen Games 2015,16,2,13,2,3,0,Sharkgaming,3,18,0.14 
+2015,04,03,12:00,Sharkgaming,Acer,mirage,Copenhagen Games 2015,10,16,6,9,4,7,Sharkgaming,19,20,0.85 
+2015,04,02,21:40,TAKTIKSTATIV,Sharkgaming,mirage,Copenhagen Games 2015,10,16,9,6,1,10,Sharkgaming,25,15,1.62 
+2015,04,02,19:00,melty,Sharkgaming,mirage,Copenhagen Games 2015,11,16,8,7,3,9,Sharkgaming,22,20,1.06 
+2015,04,02,17:00,TEMPEST,Sharkgaming,nuke,Copenhagen Games 2015,9,16,8,7,1,9,Sharkgaming,11,16,0.73 
+2015,04,02,15:30,jQntefabrikkeN,Sharkgaming,dust2,Copenhagen Games 2015,19,16,9,6,6,9,Sharkgaming,11,22,0.62 

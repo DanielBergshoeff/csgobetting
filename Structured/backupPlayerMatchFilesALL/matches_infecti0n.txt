@@ -1,0 +1,4 @@
+2014,08,29,20:00,Cyprus,Ukraine,dust2,European Championship 2014 Qua..,3,16,1,14,2,2,Cyprus,8,16,0.60 
+2014,08,29,20:00,Ukraine,Cyprus,mirage,European Championship 2014 Qua..,16,4,11,4,5,0,Cyprus,12,19,0.60 
+2014,08,13,20:00,Israel,Cyprus,dust2,European Championship 2014 Qua..,10,16,8,7,2,9,Cyprus,15,18,0.84 
+2014,08,13,20:00,Israel,Cyprus,inferno,European Championship 2014 Qua..,14,16,8,7,6,9,Cyprus,17,18,0.88 

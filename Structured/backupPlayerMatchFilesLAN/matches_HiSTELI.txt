@@ -1,0 +1,7 @@
+2014,08,02,15:30,myRevenge,Recursive,cache,ASUS ROG Summer 2014,16,5,14,1,2,4,Recursive,10,17,0.64 
+2014,08,02,15:30,myRevenge,Recursive,mirage,ASUS ROG Summer 2014,16,14,9,6,7,8,Recursive,18,24,0.80 
+2014,08,02,12:30,Games4u,Recursive,inferno,ASUS ROG Summer 2014,11,16,6,9,5,7,Recursive,19,20,1.01 
+2014,08,02,12:30,Games4u,Recursive,dust2,ASUS ROG Summer 2014,14,16,7,8,7,8,Recursive,28,20,1.25 
+2014,08,01,22:20,PENTA,Recursive,inferno,ASUS ROG Summer 2014,20,22,8,7,7,8,Recursive,17,27,0.68 
+2014,08,01,21:20,Recursive,MARVEL,dust2,ASUS ROG Summer 2014,16,3,12,3,4,0,Recursive,14,7,1.28 
+2014,08,01,20:00,Nostalgie,Recursive,inferno,ASUS ROG Summer 2014,16,6,13,2,3,4,Recursive,11,18,0.62 

@@ -1,0 +1,100 @@
+2016,05,08,19:00,demise,BX3,mirage,Telenor League Spring 2016,16,10,6,9,10,1,BX3,11,21,0.60 
+2016,05,08,19:00,BX3,demise,cache,Telenor League Spring 2016,9,16,5,10,4,6,BX3,17,21,0.86 
+2016,05,08,19:00,demise,BX3,train,Telenor League Spring 2016,13,16,9,6,4,10,BX3,18,21,0.82 
+2016,05,08,11:00,BX3,Lions,overpass,Telenor League Spring 2016,16,14,5,10,11,4,BX3,26,21,1.22 
+2016,05,08,11:00,Lions,BX3,train,Telenor League Spring 2016,14,16,6,9,8,7,BX3,27,17,1.32 
+2016,03,24,23:00,BX3,SpaceSoldiers,inferno,Copenhagen Games 2016 BYOC Qua..,7,16,6,9,1,7,BX3,14,16,0.96 
+2016,03,24,23:00,BX3,SpaceSoldiers,cobblestone,Copenhagen Games 2016 BYOC Qua..,10,16,7,8,3,8,BX3,16,21,0.78 
+2016,03,24,19:00,BX3,EpiphanyBolt,mirage,Copenhagen Games 2016 BYOC Qua..,16,14,11,4,5,10,BX3,29,18,1.64 
+2016,03,24,19:00,EpiphanyBolt,BX3,overpass,Copenhagen Games 2016 BYOC Qua..,9,16,8,7,1,9,BX3,18,16,1.03 
+2016,03,24,19:00,BX3,EpiphanyBolt,cobblestone,Copenhagen Games 2016 BYOC Qua..,14,16,4,11,10,5,BX3,22,21,0.97 
+2016,03,24,17:00,BX3,malefiQ,inferno,Copenhagen Games 2016 BYOC Qua..,16,6,13,2,3,4,BX3,21,11,1.50 
+2016,03,24,15:30,BX3,thepickles,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,4,11,4,5,0,BX3,19,12,1.41 
+2016,03,24,13:00,BX3,malefiQ,dust2,Copenhagen Games 2016 BYOC Qua..,9,16,7,8,2,8,BX3,15,18,0.82 
+2016,02,23,23:45,PANTERS,CSGL,mirage,Counter Pit League Season 2,12,16,5,10,7,6,PANTERS,12,25,0.49 
+2016,02,23,23:45,CSGL,PANTERS,cache,Counter Pit League Season 2,19,15,3,12,12,3,PANTERS,33,26,1.22 
+2016,02,23,21:45,PENTA,PANTERS,dust2,Counter Pit League Season 2,19,17,7,8,8,7,PANTERS,25,24,1.00 
+2016,02,23,21:45,PENTA,PANTERS,inferno,Counter Pit League Season 2,16,11,11,4,5,7,PANTERS,10,23,0.58 
+2016,02,22,23:30,E-frag.net,PANTERS,dust2,Counter Pit League Season 2,17,19,10,5,5,10,PANTERS,19,29,0.70 
+2016,02,22,23:30,E-frag.net,PANTERS,inferno,Counter Pit League Season 2,16,8,9,6,7,2,PANTERS,12,19,0.68 
+2016,01,18,21:30,FlipSid3,PANTERS,overpass,Acer Predator Masters powered ..,13,16,12,3,1,13,PANTERS,18,20,0.89 
+2016,01,18,21:30,PANTERS,FlipSid3,mirage,Acer Predator Masters powered ..,9,16,5,10,4,6,PANTERS,14,18,0.77 
+2015,12,11,20:00,LondonC,YP,inferno,QuickShot Arena #18,3,16,3,12,0,4,London C,5,14,0.47 
+2015,12,11,20:00,LondonC,YP,dust2,QuickShot Arena #18,8,16,2,13,6,3,London C,16,18,0.93 
+2015,12,10,19:00,E-frag.net,LondonC,inferno,99Damage Arena #17,12,16,11,4,1,12,London C,10,18,0.65 
+2015,12,10,19:00,LondonC,E-frag.net,mirage,99Damage Arena #17,19,17,5,10,10,5,London C,19,25,0.72 
+2015,12,09,20:45,LondonC,SpaceSoldiers,dust2,QuickShot Arena #18,16,10,9,6,7,4,London C,19,17,1.09 
+2015,12,09,18:15,LondonC,Orbitfe,overpass,QuickShot Arena #18,16,1,14,1,2,0,London C,14,4,1.55 
+2015,12,08,20:00,LondonC,G2,dust2,Acer Predator Masters powered ..,11,16,3,12,8,4,London C,14,21,0.74 
+2015,12,08,20:00,LondonC,G2,inferno,Acer Predator Masters powered ..,16,5,13,2,3,3,London C,21,10,1.54 
+2015,12,07,22:00,EZskins.com,LondonC,inferno,Acer Predator Masters powered ..,16,12,10,5,6,7,London C,20,20,1.04 
+2015,12,07,22:00,LondonC,EZskins.com,overpass,Acer Predator Masters powered ..,16,3,13,2,3,1,London C,12,6,1.18 
+2015,12,03,19:00,LondonC,HellRaisers,inferno,99Damage Arena #16,16,13,10,5,6,8,London C,16,19,0.82 
+2015,12,03,19:00,HellRaisers,LondonC,mirage,99Damage Arena #16,3,16,3,12,0,4,London C,17,14,1.08 
+2015,12,03,19:00,HellRaisers,LondonC,overpass,99Damage Arena #16,16,2,13,2,3,0,London C,9,17,0.59 
+2015,12,02,18:00,LondonC,Epsilon,cache,99Damage Arena #16,16,10,9,6,7,4,London C,11,5,1.68 
+2015,12,02,18:00,Epsilon,LondonC,overpass,99Damage Arena #16,1,16,1,14,0,2,London C,5,4,1.22 
+2015,12,01,19:00,LondonC,PlayingDucks,cache,99Damage Arena #16,16,13,8,7,8,6,London C,18,22,0.90 
+2015,12,01,19:00,LondonC,PlayingDucks,mirage,99Damage Arena #16,16,12,10,5,6,7,London C,15,18,0.82 
+2015,11,30,18:00,NoProblem!,LondonC,mirage,99Damage Arena #16,6,16,5,10,1,6,London C,17,16,1.03 
+2015,11,30,18:00,LondonC,NoProblem!,dust2,99Damage Arena #16,16,6,12,3,4,3,London C,21,10,1.61 
+2015,11,18,19:00,LondonC,E-frag.net,dust2,Acer Predator Masters powered ..,14,16,8,7,6,9,London C,13,19,0.70 
+2015,11,17,21:00,LondonC,Vexed,mirage,Acer Predator Masters powered ..,5,16,5,10,0,6,London C,11,18,0.64 
+2015,11,17,21:00,Vexed,LondonC,overpass,Acer Predator Masters powered ..,10,16,9,6,1,10,London C,21,19,1.25 
+2015,11,11,21:00,LDLCWhite,LondonC,cache,Counter Pit League Season 2 Qu..,8,16,7,8,1,8,London C,22,12,1.39 
+2015,11,11,21:00,LDLCWhite,LondonC,inferno,Counter Pit League Season 2 Qu..,12,16,11,4,1,12,London C,20,18,1.14 
+2015,11,11,21:00,LDLCWhite,LondonC,dust2,Counter Pit League Season 2 Qu..,16,14,10,5,6,9,London C,13,19,0.68 
+2015,11,10,22:10,LondonC,Infused,mirage,Counter Pit League Season 2 Qu..,16,11,8,7,8,4,London C,21,15,1.16 
+2015,11,10,22:10,Infused,LondonC,train,Counter Pit League Season 2 Qu..,7,16,2,13,5,3,London C,18,13,1.26 
+2015,10,20,18:00,LondonC,NoProblem!,overpass,D!ngIT $2000 Weekly Cup #22,16,13,6,9,10,4,London C,22,18,1.10 
+2015,10,20,18:00,NoProblem!,LondonC,mirage,D!ngIT $2000 Weekly Cup #22,2,16,2,13,0,3,London C,11,11,0.96 
+2015,10,20,18:00,LondonC,NoProblem!,cache,D!ngIT $2000 Weekly Cup #22,10,16,5,10,5,6,London C,13,21,0.73 
+2015,10,19,20:30,LondonC,nerdRage,inferno,D!ngIT $2000 Weekly Cup #22,16,3,12,3,4,0,London C,15,9,1.24 
+2015,10,19,20:30,LondonC,nerdRage,cache,D!ngIT $2000 Weekly Cup #22,16,7,9,6,7,1,London C,21,10,1.45 
+2015,10,06,22:00,Orgless,LondonC,mirage,Fragbite Masters Season 5 Main..,16,5,11,4,5,1,London C,7,19,0.44 
+2015,10,06,22:00,Orgless,LondonC,train,Fragbite Masters Season 5 Main..,16,8,11,4,5,4,London C,18,21,0.92 
+2015,10,06,22:00,Orgless,LondonC,dust2,Fragbite Masters Season 5 Main..,5,16,4,11,1,5,London C,16,14,1.05 
+2015,09,30,21:00,Portugal,Norway,overpass,World Championships 2015 Europ..,12,16,5,10,7,6,Norway,12,21,0.64 
+2015,09,30,21:00,Portugal,Norway,cache,World Championships 2015 Europ..,21,25,9,6,6,9,Norway,42,29,1.25 
+2015,09,30,21:00,Norway,Portugal,dust2,World Championships 2015 Europ..,14,16,3,12,11,4,Norway,22,24,0.93 
+2015,09,30,18:30,LondonC,SK,cache,Fragbite Masters Season 5 Main..,14,16,9,6,5,10,London C,23,24,0.94 
+2015,09,30,18:30,SK,LondonC,inferno,Fragbite Masters Season 5 Main..,16,6,9,6,7,0,London C,8,18,0.50 
+2015,09,29,19:20,Bosnia&Herzegovina,Norway,cache,World Championships 2015 Europ..,16,12,8,7,8,5,Norway,11,22,0.57 
+2015,09,29,18:30,Iceland,Norway,cache,World Championships 2015 Europ..,8,16,2,13,6,3,Norway,17,14,1.20 
+2015,09,28,21:45,Norway,Sweden,dust2,World Championships 2015 Europ..,14,16,6,9,8,7,Norway,18,23,0.81 
+2015,09,17,20:45,Norway,Belarus,mirage,World Championships 2015 Europ..,16,6,10,5,6,1,Norway,9,13,0.73 
+2015,09,17,19:40,Norway,Belgium,cache,World Championships 2015 Europ..,16,12,8,7,8,5,Norway,19,20,0.88 
+2015,09,14,19:45,LondonC,XPC,cache,Hitbox Arena Showdown Invitati..,7,16,6,9,1,7,London C,11,20,0.58 
+2015,09,13,15:30,LondonC,Dobry&Gaming,dust2,DreamHack Open Cluj-Napoca 201..,12,16,6,9,6,7,London C,10,22,0.47 
+2015,09,13,15:30,Dobry&Gaming,LondonC,overpass,DreamHack Open Cluj-Napoca 201..,16,11,9,6,7,5,London C,15,19,0.88 
+2015,09,13,12:00,LondonC,x6tence,cache,DreamHack Open Cluj-Napoca 201..,16,5,11,4,5,1,London C,22,12,1.56 
+2015,09,13,12:00,LondonC,x6tence,mirage,DreamHack Open Cluj-Napoca 201..,13,16,10,5,3,11,London C,27,21,1.22 
+2015,09,13,12:00,x6tence,LondonC,dust2,DreamHack Open Cluj-Napoca 201..,7,16,5,10,2,6,London C,16,12,1.22 
+2015,09,06,15:15,LondonC,HellRaisers,dust2,DreamHack Open Cluj-Napoca 201..,3,16,2,13,1,3,London C,13,15,0.90 
+2015,09,06,15:15,LondonC,HellRaisers,overpass,DreamHack Open Cluj-Napoca 201..,4,16,3,12,1,4,London C,8,16,0.58 
+2015,09,06,12:00,LondonC,SpaceSoldiers,cache,DreamHack Open Cluj-Napoca 201..,16,13,9,6,7,7,London C,22,20,1.17 
+2015,09,06,12:00,SpaceSoldiers,LondonC,cobblestone,DreamHack Open Cluj-Napoca 201..,16,11,9,6,7,5,London C,17,19,0.85 
+2015,09,06,12:00,SpaceSoldiers,LondonC,dust2,DreamHack Open Cluj-Napoca 201..,12,16,9,6,3,10,London C,23,18,1.18 
+2015,09,05,19:50,OverGaming,LondonC,cache,DreamHack Open Cluj-Napoca 201..,6,16,5,10,1,6,London C,21,16,1.31 
+2015,08,30,16:30,Slovenia,Norway,cache,World Championships 2015 Europ..,8,16,6,9,2,7,Norway,16,13,1.15 
+2015,08,30,16:30,Norway,Slovenia,inferno,World Championships 2015 Europ..,16,3,12,3,4,0,Norway,20,9,1.55 
+2015,08,29,20:50,Aspen,Reason,dust2,FACEIT League 2015 Stage 3 EU ..,8,16,5,10,3,6,Aspen,15,19,0.84 
+2015,08,18,18:00,LondonC,Phenomenon,dust2,Hitbox Arena Showdown Invitati..,6,16,3,12,3,4,London C,13,18,1.04 
+2015,08,14,21:15,Sweden,Norway,mirage,King of Nordic Season 1,16,8,8,7,8,1,Norway,18,20,0.93 
+2014,11,05,19:00,Sweden,Norway,inferno,European Championship 2014,19,17,11,4,4,11,Norway,23,26,1.02 
+2014,11,05,19:00,Sweden,Norway,cache,European Championship 2014,16,14,7,8,9,6,Norway,22,23,0.94 
+2014,11,05,19:00,Norway,Sweden,mirage,European Championship 2014,22,20,11,4,4,11,Norway,33,31,1.13 
+2014,10,21,20:30,LondonC,ALTERNATEaTTaX,cobblestone,DreamHack Winter 2014 EU Close..,12,16,6,9,6,7,London C,18,21,0.87 
+2014,10,21,20:30,LondonC,ALTERNATEaTTaX,mirage,DreamHack Winter 2014 EU Close..,16,14,11,4,5,10,London C,13,18,0.77 
+2014,10,16,18:00,Norway,France,mirage,European Championship 2014,12,16,11,4,1,12,Norway,16,20,0.79 
+2014,10,12,20:15,Belgium,Norway,dust2,European Championship 2014,10,16,7,8,3,8,Norway,22,16,1.29 
+2014,10,01,20:00,Belarus,Norway,dust2,European Championship 2014,14,16,8,7,6,9,Norway,27,19,1.28 
+2014,09,30,22:00,Turkey,Norway,inferno,European Championship 2014,14,16,9,6,5,10,Norway,16,22,0.88 
+2014,09,04,22:20,Norway,Poland,mirage,European Championship 2014,5,16,2,13,3,3,Norway,15,17,1.06 
+2014,08,28,19:00,LondonC,mousesports,cache,Hitbox Arena Championship 2,12,16,8,7,4,9,London C,18,21,0.86 
+2014,08,28,19:00,mousesports,LondonC,mirage,Hitbox Arena Championship 2,16,7,10,5,6,2,London C,20,18,1.21 
+2014,06,14,21:35,fnatic,LondonC,mirage,DreamHack Summer 2014,16,4,13,2,3,2,London C,9,17,0.59 
+2014,06,14,20:30,LondonC,Virtus.pro,mirage,DreamHack Summer 2014,4,16,4,11,0,5,London C,10,17,0.60 
+2014,05,30,19:00,LondonC,AliGon,mirage,DreamHack Summer 2014 Closed Q..,7,16,6,9,1,7,London C,14,20,0.72 
+2014,04,18,21:00,dignitas,H2k,inferno,Copenhagen Games 2014,16,11,12,3,4,8,H2k,10,23,0.52 
+2014,04,18,21:00,H2k,dignitas,mirage,Copenhagen Games 2014,9,16,6,9,3,7,H2k,9,22,0.45 

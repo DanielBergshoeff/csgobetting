@@ -1,0 +1,61 @@
+2016,02,27,17:00,TempoStorm,Selfless,inferno,MLG Columbus 2016 Main Qualifi..,16,4,12,3,4,1,Selfless,7,19,0.33 
+2016,02,26,20:00,FlipSid3,Selfless,inferno,MLG Columbus 2016 Main Qualifi..,16,13,9,6,7,7,Selfless,21,20,1.06 
+2016,02,25,04:15,CLG,Selfless,train,ESL Pro League Season 3,6,16,3,12,3,4,Selfless,16,15,1.10 
+2016,02,25,03:00,Selfless,CLG,overpass,ESL Pro League Season 3,12,16,7,8,5,8,Selfless,12,18,0.73 
+2016,02,24,06:00,Selfless,AGG,overpass,ESL Pro League Season 3,16,11,9,6,7,5,Selfless,22,18,1.17 
+2016,02,24,05:15,AGG,Selfless,mirage,ESL Pro League Season 3,11,16,10,5,1,11,Selfless,23,17,1.21 
+2016,02,21,20:55,Selfless,AGG,cache,DreamHack Masters Malmö 2016 N..,3,16,2,13,1,3,Selfless,8,17,0.50 
+2016,02,21,20:55,Selfless,AGG,overpass,DreamHack Masters Malmö 2016 N..,10,16,6,9,4,7,Selfless,21,18,1.13 
+2016,02,19,03:54,Bee'sMoneyCrew,Enemy,cache,CEVO Gfinity Professional Seas..,10,16,3,12,7,4,Enemy,10,20,0.60 
+2016,02,19,03:54,Enemy,Bee'sMoneyCrew,mirage,CEVO Gfinity Professional Seas..,16,5,10,5,6,0,Enemy,11,9,1.07 
+2016,02,18,05:30,Enemy,compLexity,cache,ESL Pro League Season 3,16,13,7,8,9,5,Enemy,19,21,0.91 
+2016,02,18,04:00,Enemy,compLexity,train,ESL Pro League Season 3,12,16,6,9,6,7,Enemy,16,21,0.78 
+2016,02,14,22:00,OpTic,Enemy,mirage,IEM Katowice 2016 NA Qualifier,16,6,10,5,6,1,Enemy,6,18,0.38 
+2016,02,14,22:00,OpTic,Enemy,train,IEM Katowice 2016 NA Qualifier,9,16,8,7,1,9,Enemy,22,14,1.33 
+2016,02,14,22:00,Enemy,OpTic,overpass,IEM Katowice 2016 NA Qualifier,9,16,7,8,2,8,Enemy,10,20,0.52 
+2016,02,11,05:15,NRG,Enemy,mirage,ESL Pro League Season 3,16,10,7,8,9,2,Enemy,18,20,0.95 
+2016,02,11,04:30,NRG,Enemy,inferno,ESL Pro League Season 3,7,16,4,11,3,5,Enemy,10,12,0.78 
+2016,02,10,03:15,Enemy,Renegades,mirage,ESL Pro League Season 3,16,10,11,4,5,6,Enemy,21,15,1.29 
+2016,02,10,02:00,Enemy,Renegades,train,ESL Pro League Season 3,12,16,8,7,4,9,Enemy,14,21,0.66 
+2016,01,17,21:00,Splyce,Enemy,inferno,MLG Americas Minor Championshi..,9,16,7,8,2,8,Enemy,15,17,0.88 
+2016,01,17,21:00,Enemy,Splyce,cache,MLG Americas Minor Championshi..,16,7,10,5,6,2,Enemy,11,15,0.73 
+2016,01,17,16:00,Winterfox,Enemy,overpass,MLG Americas Minor Championshi..,7,16,4,11,3,5,Enemy,22,15,1.34 
+2016,01,17,16:00,Enemy,Winterfox,mirage,MLG Americas Minor Championshi..,16,8,8,7,8,1,Enemy,15,11,1.04 
+2016,01,16,19:00,Enemy,Leader-1,overpass,MLG Americas Minor Championshi..,16,4,12,3,4,1,Enemy,13,13,0.89 
+2016,01,15,23:00,Enemy,EZG,cache,MLG Americas Minor Championshi..,16,9,14,1,2,8,Enemy,11,18,0.67 
+2015,12,19,02:00,Conquest,Enemy,cobblestone,ELEAGUE Road to Vegas Closed N..,16,10,12,3,4,7,Enemy,12,23,0.52 
+2015,12,19,02:00,Enemy,Conquest,inferno,ELEAGUE Road to Vegas Closed N..,14,16,8,7,6,9,Enemy,16,19,0.84 
+2015,12,18,01:00,Splyce,Enemy,mirage,ELEAGUE Road to Vegas Closed N..,18,21,11,4,4,11,Enemy,26,26,0.89 
+2015,12,18,01:00,Enemy,Splyce,inferno,ELEAGUE Road to Vegas Closed N..,16,10,9,6,7,4,Enemy,14,15,0.93 
+2015,12,16,04:00,Cloud9,Enemy,inferno,ELEAGUE Road to Vegas Closed N..,8,16,5,10,3,6,Enemy,12,14,0.81 
+2015,12,16,04:00,Enemy,Cloud9,cobblestone,ELEAGUE Road to Vegas Closed N..,16,10,10,5,6,5,Enemy,15,18,0.82 
+2015,12,10,02:45,Empath,Enemy,cache,Game Show Global eSports Cup 2..,11,16,3,12,8,4,Enemy,17,18,0.93 
+2015,12,10,02:45,Enemy,Empath,mirage,Game Show Global eSports Cup 2..,16,2,14,1,2,1,Enemy,12,6,1.33 
+2015,10,19,04:00,Tectonic,Enemy,train,Fragadelphia 6,5,16,1,14,4,2,Tectonic,10,18,0.60 
+2015,10,19,03:00,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,8,16,7,8,1,8,Tectonic,29,14,1.81 
+2015,10,19,02:00,Tectonic,SuckBrickKids,cache,Fragadelphia 6,16,6,14,1,2,5,Tectonic,17,17,0.91 
+2015,10,18,22:00,Tectonic,Enemy,inferno,Fragadelphia 6,7,16,7,8,0,8,Tectonic,16,19,0.90 
+2015,10,18,22:00,Enemy,Tectonic,cache,Fragadelphia 6,16,13,8,7,8,6,Tectonic,23,23,1.07 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,10,16,4,11,6,5,Tectonic,23,15,1.29 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,cobblestone,Fragadelphia 6,16,14,7,8,9,6,Tectonic,32,20,1.38 
+2015,10,18,16:25,Tectonic,Roca'scompLexity,cache,Fragadelphia 6,16,6,11,4,5,2,Tectonic,24,13,1.64 
+2015,10,18,01:20,SuckBrickKids,Tectonic,cobblestone,Fragadelphia 6,6,16,4,11,2,5,Tectonic,17,14,1.15 
+2015,10,18,01:20,Tectonic,SuckBrickKids,overpass,Fragadelphia 6,25,21,8,7,7,8,Tectonic,32,29,1.00 
+2015,05,22,02:00,CLG,eLevate,dust2,CEVO Professional Season 7,16,14,5,10,11,4,CLG,15,19,0.76 
+2015,05,19,02:00,Nihilum,eLevate,train,CEVO Professional Season 7,16,5,13,2,3,3,eLevate,10,19,0.53 
+2015,05,14,02:00,CLG,LunatiK,inferno,CEVO Professional Season 7,16,9,13,2,3,7,CLG,12,16,0.76 
+2015,05,14,02:00,LunatiK,CLG,cache,CEVO Professional Season 7,16,10,10,5,6,5,CLG,13,20,0.78 
+2015,05,12,02:00,mouseSpaz,CLG,train,ESL ESEA Pro League Season 1,9,16,6,9,3,7,CLG,20,16,1.15 
+2015,05,04,04:15,CLG,SKDC,inferno,CEVO Professional Season 7,16,11,12,3,4,8,CLG,22,17,1.13 
+2015,05,04,04:15,CLG,SKDC,dust2,CEVO Professional Season 7,16,13,8,7,8,6,CLG,25,20,1.21 
+2015,02,20,03:00,CLG,Liquid,mirage,FACEIT League 2015 Stage 1,12,16,8,7,4,9,CLG,14,20,0.69 
+2015,02,19,05:40,CLG,SKDC,dust2,FACEIT League 2015 Stage 1,14,16,2,13,12,3,CLG,23,19,1.07 
+2014,10,02,03:00,Mobility,savage,inferno,FACEIT League NA Season 2,16,13,7,8,9,5,Mobility,23,16,1.29 
+2014,09,18,03:25,Cloud9,Mobility,mirage,FACEIT League NA Season 2,16,2,13,2,3,0,Mobility,10,17,0.57 
+2014,09,17,04:30,Mobility,LunatiK,inferno,FACEIT League NA Season 2,12,16,4,11,8,5,Mobility,15,20,0.76 
+2014,06,29,05:00,NetcodeGuides.com,NatusVincere,dust2,ESEA Invite Season 16 Global F..,12,16,2,13,10,3,NetcodeGuides.com,12,18,0.71 
+2014,06,29,05:00,NatusVincere,NetcodeGuides.com,season,ESEA Invite Season 16 Global F..,16,7,10,5,6,2,NetcodeGuides.com,14,18,0.79 
+2014,06,29,03:00,NetcodeGuides.com,OverGaming,cache,ESEA Invite Season 16 Global F..,16,8,13,2,3,6,NetcodeGuides.com,21,17,1.11 
+2014,06,29,03:00,OverGaming,NetcodeGuides.com,inferno,ESEA Invite Season 16 Global F..,9,16,7,8,2,8,NetcodeGuides.com,29,13,2.01 
+2014,06,29,01:30,Virtus.pro,NetcodeGuides.com,cache,ESEA Invite Season 16 Global F..,16,3,12,3,4,0,NetcodeGuides.com,9,17,0.60 
+2014,06,29,01:30,Virtus.pro,NetcodeGuides.com,mirage,ESEA Invite Season 16 Global F..,16,0,15,0,1,0,NetcodeGuides.com,7,16,0.44 

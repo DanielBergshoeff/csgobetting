@@ -1,0 +1,15 @@
+2016,08,06,15:00,Tunisia,Morocco,mirage,World Championships 2016 Afric..,16,14,6,9,10,5,Morocco,26,18,1.26 
+2016,08,06,15:00,Tunisia,Morocco,dust2,World Championships 2016 Afric..,16,13,10,5,6,8,Morocco,28,19,1.31 
+2016,08,06,15:00,Tunisia,Morocco,cache,World Championships 2016 Afric..,16,7,8,7,8,0,Morocco,15,19,0.86 
+2016,08,05,15:00,Morocco,Libya,train,World Championships 2016 Afric..,16,9,8,7,8,2,Morocco,19,16,1.07 
+2016,08,05,15:00,Morocco,Libya,dust2,World Championships 2016 Afric..,16,6,12,3,4,3,Morocco,13,11,0.98 
+2016,08,03,21:25,Morocco,Algeria,cobblestone,World Championships 2016 Afric..,16,13,6,9,10,4,Morocco,21,17,1.04 
+2016,08,03,19:00,Tunisia,Morocco,dust2,World Championships 2016 Afric..,15,15,6,9,9,6,Morocco,27,21,1.21 
+2015,12,18,23:10,KappaMA,Whisper,mirage,AFKG MENA Championship,9,16,6,9,3,7,KappaMA,24,16,1.40 
+2015,12,18,23:10,KappaMA,Whisper,dust2,AFKG MENA Championship,21,18,7,8,8,7,KappaMA,27,32,0.90 
+2015,12,18,23:10,Whisper,KappaMA,cache,AFKG MENA Championship,16,9,8,7,8,2,KappaMA,21,21,0.93 
+2015,08,14,13:00,Morocco,SouthAfrica,dust2,World Championships 2015 Afric..,16,2,13,2,3,0,Morocco,18,8,1.51 
+2015,08,11,16:45,Egypt,Morocco,dust2,World Championships 2015 Afric..,16,6,10,5,6,1,Morocco,8,19,0.44 
+2015,08,11,15:45,Tunisia,Morocco,cache,World Championships 2015 Afric..,16,3,12,3,4,0,Morocco,9,17,0.57 
+2015,08,10,15:15,Morocco,Libya,cache,World Championships 2015 Afric..,16,6,10,5,6,1,Morocco,19,13,1.24 
+2015,08,10,14:00,Morocco,Algeria,dust2,World Championships 2015 Afric..,15,15,7,8,8,7,Morocco,16,21,0.85 

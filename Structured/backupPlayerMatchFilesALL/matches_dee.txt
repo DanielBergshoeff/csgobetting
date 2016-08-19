@@ -1,0 +1,7 @@
+2016,07,19,03:15,TheFoundation,exceL,cache,RGN Pro Series II NA Closed Qu..,14,16,7,8,7,8,The Foundation,15,20,0.71 
+2016,07,19,03:15,TheFoundation,exceL,train,RGN Pro Series II NA Closed Qu..,16,3,12,3,4,0,The Foundation,15,10,1.38 
+2016,07,19,03:15,exceL,TheFoundation,dust2,RGN Pro Series II NA Closed Qu..,16,7,11,4,5,3,The Foundation,7,20,0.36 
+2016,07,16,13:00,EZPZ_LS,iNation,cache,GamePub 2016,11,16,6,9,5,7,EZPZ_LS,16,20,0.79 
+2016,07,16,13:00,iNation,EZPZ_LS,dust2,GamePub 2016,16,4,12,3,4,1,EZPZ_LS,12,16,0.81 
+2016,03,15,05:00,TempoStorm,BOTS,dust2,Stream.me Gauntlet ,16,2,14,1,2,1,BOTS,6,16,0.40 
+2016,03,15,05:00,BOTS,TempoStorm,cobblestone,Stream.me Gauntlet ,7,16,7,8,0,8,BOTS,12,18,0.64 

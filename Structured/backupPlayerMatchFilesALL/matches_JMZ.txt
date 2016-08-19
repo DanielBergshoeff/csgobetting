@@ -1,0 +1,2 @@
+2015,05,26,02:00,Braindead,SetToDestroyX,mirage,FACEIT League 2015 Stage 2 NA ..,16,8,10,5,6,3,SetToDestroyX,10,22,0.44 
+2015,05,26,02:00,SetToDestroyX,Braindead,inferno,FACEIT League 2015 Stage 2 NA ..,14,16,10,5,4,11,SetToDestroyX,15,20,0.82 

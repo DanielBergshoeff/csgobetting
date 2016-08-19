@@ -1,0 +1,6 @@
+2016,03,27,19:15,LDLCBlue,DeadPixels,cobblestone,Gamers Assembly 2016,16,5,13,2,3,3,Dead Pixels,8,19,0.45 
+2015,05,08,21:40,melty,Awsomniac,mirage,DreamHack Open Tours 2015 BYOC..,12,16,9,6,3,10,melty,20,21,1.01 
+2015,04,02,20:30,malefiQ,melty,cache,Copenhagen Games 2015,16,4,11,4,5,0,melty,8,18,0.50 
+2015,04,02,19:00,melty,Sharkgaming,mirage,Copenhagen Games 2015,11,16,8,7,3,9,melty,13,18,0.72 
+2015,04,02,14:00,myRevenge,melty,dust2,Copenhagen Games 2015,10,16,8,7,2,9,melty,21,16,1.19 
+2015,04,02,14:00,myRevenge,melty,inferno,Copenhagen Games 2015,6,16,5,10,1,6,melty,16,12,1.08 

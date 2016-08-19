@@ -1,0 +1,10 @@
+2015,10,24,16:05,XENEX,UESmash,dust2,ESL UK Premiership Season 2 Fi..,3,16,3,12,0,4,XENEX,6,17,0.41 
+2015,10,24,16:05,XENEX,UESmash,cache,ESL UK Premiership Season 2 Fi..,11,16,7,8,4,8,XENEX,11,22,0.56 
+2015,09,28,20:30,XENEX,Infused,inferno,ESL UK Premiership Season 2,6,16,5,10,1,6,XENEX,11,19,0.63 
+2015,09,21,20:00,CeX,XENEX,cache,ESL UK Premiership Season 2,11,16,11,4,0,12,XENEX,20,16,1.17 
+2015,09,07,20:00,CSGOCasino.net,GLG,cache,ESL UK Premiership Season 2,16,3,12,3,4,0,CSGOCasino.net,11,12,0.85 
+2015,08,31,20:00,Choke,CSGOCasino.net,overpass,ESL UK Premiership Season 2,13,16,9,6,4,10,CSGOCasino.net,16,12,1.08 
+2015,08,25,20:00,CSGOCasino.net,UnitedEstonia,dust2,ESL UK Premiership Season 2,16,2,13,2,3,0,CSGOCasino.net,20,8,1.77 
+2015,08,17,23:15,CSGOCasino.net,fish123,dust2,ESL UK Premiership Season 2,16,7,10,5,6,2,CSGOCasino.net,9,13,0.68 
+2015,04,20,20:00,MALIK,PerilousRAGE,inferno,ESL UK Premiership Season 1,16,3,12,3,4,0,PerilousRAGE,10,17,0.68 
+2015,04,20,20:00,MALIK,PerilousRAGE,cache,ESL UK Premiership Season 1,16,11,7,8,9,3,PerilousRAGE,15,22,0.68 

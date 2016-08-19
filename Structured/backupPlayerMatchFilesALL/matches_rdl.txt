@@ -1,0 +1,4 @@
+2014,05,14,21:25,fm-eSports,Wizards,nuke,Hitbox Arena Championship,14,16,9,6,5,10,fm-eSports,18,22,0.89 
+2014,05,14,21:25,fm-eSports,Wizards,mirage,Hitbox Arena Championship,13,16,7,8,6,8,fm-eSports,19,24,0.85 
+2014,05,13,21:09,mousesports,fm-eSports,dust2,Hitbox Arena Championship,16,6,9,6,7,0,fm-eSports,14,19,0.77 
+2014,05,13,21:00,mousesports,fm-eSports,inferno,Hitbox Arena Championship,16,10,9,6,7,4,fm-eSports,15,21,0.77 

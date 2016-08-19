@@ -1,0 +1,33 @@
+2016,01,17,16:00,Winterfox,Enemy,overpass,MLG Americas Minor Championshi..,7,16,4,11,3,5,Winterfox,12,18,0.74 
+2016,01,17,16:00,Enemy,Winterfox,mirage,MLG Americas Minor Championshi..,16,8,8,7,8,1,Winterfox,15,19,0.76 
+2016,01,16,23:30,Obey.Alliance,Winterfox,dust2,MLG Americas Minor Championshi..,14,16,8,7,6,9,Winterfox,17,22,0.85 
+2016,01,16,23:30,Obey.Alliance,Winterfox,inferno,MLG Americas Minor Championshi..,16,12,10,5,6,7,Winterfox,19,18,1.17 
+2016,01,16,23:30,Winterfox,Obey.Alliance,mirage,MLG Americas Minor Championshi..,16,9,6,9,10,0,Winterfox,17,13,1.12 
+2016,01,16,20:00,Winterfox,OpTic,overpass,MLG Americas Minor Championshi..,11,16,8,7,3,9,Winterfox,18,21,0.85 
+2015,11,18,19:20,GamesAcademy,Winterfox,cobblestone,RGN Pro Series Championship,16,4,11,4,5,0,Winterfox,9,18,0.57 
+2015,11,18,19:20,GamesAcademy,Winterfox,mirage,RGN Pro Series Championship,16,5,13,2,3,3,Winterfox,6,18,0.41 
+2015,11,18,02:30,Renegades,Winterfox,mirage,RGN Pro Series Championship,16,14,8,7,8,7,Winterfox,25,21,1.10 
+2015,11,18,02:30,Renegades,Winterfox,cobblestone,RGN Pro Series Championship,16,8,8,7,8,1,Winterfox,12,21,0.57 
+2015,11,18,00:15,Winterfox,Torqued,overpass,RGN Pro Series Championship,16,13,6,9,10,4,Winterfox,16,17,0.90 
+2015,11,17,22:30,Winterfox,Luminosity,mirage,RGN Pro Series Championship,9,16,6,9,3,7,Winterfox,17,21,0.84 
+2015,11,17,19:00,CLGRed,Winterfox,mirage,RGN Pro Series Championship,13,16,5,10,8,6,Winterfox,24,20,1.18 
+2015,11,14,22:00,CLG,Winterfox,mirage,iBUYPOWER Cup 2015,16,2,14,1,2,1,Winterfox,10,17,0.54 
+2015,11,14,19:00,Luminosity,Winterfox,dust2,iBUYPOWER Cup 2015,16,5,11,4,5,1,Winterfox,7,18,0.42 
+2015,08,02,01:00,eLevate,MaximumEffort,cobblestone,ESL One Cologne 2015 NA Qualif..,16,3,13,2,3,1,Maximum Effort,9,17,0.57 
+2015,08,02,01:00,Mythic,MaximumEffort,cache,ESL One Cologne 2015 NA Qualif..,16,13,7,8,9,5,Maximum Effort,18,19,0.88 
+2015,05,01,23:00,NatusVincere,eLevate,mirage,FACEIT League 2015 Stage 1 Fin..,16,1,14,1,2,0,eLevate,11,16,0.66 
+2015,05,01,23:00,NatusVincere,eLevate,cache,FACEIT League 2015 Stage 1 Fin..,16,11,13,2,3,9,eLevate,25,18,1.32 
+2015,05,01,16:15,Virtus.pro,eLevate,cobblestone,FACEIT League 2015 Stage 1 Fin..,16,10,8,7,8,3,eLevate,18,18,0.90 
+2015,05,01,16:15,Virtus.pro,eLevate,nuke,FACEIT League 2015 Stage 1 Fin..,16,14,11,4,5,10,eLevate,17,23,0.86 
+2015,04,16,01:30,eLevate,CLG,nuke,CEVO Professional Season 6 LAN..,17,19,14,1,1,14,eLevate,33,22,1.31 
+2015,04,16,01:30,eLevate,CLG,dust2,CEVO Professional Season 6 LAN..,12,16,6,9,6,7,eLevate,14,21,0.77 
+2015,04,16,01:30,CLG,eLevate,cache,CEVO Professional Season 6 LAN..,14,16,6,9,8,7,eLevate,23,20,1.13 
+2015,04,15,23:30,Nihilum,eLevate,dust2,CEVO Professional Season 6 LAN..,4,16,3,12,1,4,eLevate,15,9,1.37 
+2015,04,15,23:30,eLevate,Nihilum,mirage,CEVO Professional Season 6 LAN..,16,0,15,0,1,0,eLevate,25,7,2.24 
+2015,04,15,03:35,Luminosity,eLevate,cache,CEVO Professional Season 6 LAN..,11,16,7,8,4,8,eLevate,22,17,1.11 
+2015,04,15,03:35,eLevate,Luminosity,inferno,CEVO Professional Season 6 LAN..,16,2,13,2,3,0,eLevate,12,9,1.13 
+2015,04,14,00:30,CLG,eLevate,dust2,CEVO Professional Season 6 LAN..,22,20,2,13,13,2,eLevate,25,30,0.81 
+2015,04,14,00:30,eLevate,CLG,cache,CEVO Professional Season 6 LAN..,12,16,3,12,9,4,eLevate,24,20,1.09 
+2014,11,27,16:15,iBUYPOWER,PENTA,inferno,DreamHack Winter 2014,13,16,13,2,0,14,iBUYPOWER,15,19,0.85 
+2014,11,27,14:00,dignitas,iBUYPOWER,nuke,DreamHack Winter 2014,16,7,13,2,3,5,iBUYPOWER,7,19,0.42 
+2014,11,27,13:15,iBUYPOWER,CPHWolves,nuke,DreamHack Winter 2014,16,4,12,3,4,1,iBUYPOWER,19,9,1.56 

@@ -1,0 +1,2 @@
+2015,08,11,04:30,Enemy,Venom,cobblestone,CEVO Professional Season 8 Pla..,16,6,12,3,4,3,Venom,15,18,0.98 
+2015,08,11,04:30,Venom,Enemy,dust2,CEVO Professional Season 8 Pla..,10,16,4,11,6,5,Venom,20,19,1.09 

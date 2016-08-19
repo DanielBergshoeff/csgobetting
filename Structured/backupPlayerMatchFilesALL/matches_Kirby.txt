@@ -1,0 +1,90 @@
+2016,03,24,19:00,Isak,PlayingDucks,mirage,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,Playing Ducks,16,20,0.77 
+2016,03,24,19:00,Isak,PlayingDucks,cache,Copenhagen Games 2016 BYOC Qua..,16,11,11,4,5,7,Playing Ducks,11,21,0.56 
+2016,03,24,15:30,PlayingDucks,Aquiver.BLU,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,12,6,9,10,3,Playing Ducks,29,17,1.43 
+2016,03,24,13:00,PlayingDucks,VacuousBaboons,dust2,Copenhagen Games 2016 BYOC Qua..,16,4,14,1,2,3,Playing Ducks,13,8,1.12 
+2016,02,06,19:55,PlayingDucks,PENTA,cache,99Damage League Season 2,6,16,5,10,1,6,Playing Ducks,14,21,0.67 
+2016,02,06,19:55,PENTA,PlayingDucks,dust2,99Damage League Season 2,16,6,9,6,7,0,Playing Ducks,12,18,0.63 
+2016,02,06,14:00,PlayingDucks,EURONICS,inferno,99Damage League Season 2,16,6,13,2,3,4,Playing Ducks,8,8,0.85 
+2016,02,06,14:00,PlayingDucks,EURONICS,dust2,99Damage League Season 2,16,2,13,2,3,0,Playing Ducks,21,8,1.69 
+2016,02,06,14:00,EURONICS,PlayingDucks,cobblestone,99Damage League Season 2,16,8,12,3,4,5,Playing Ducks,16,20,0.84 
+2016,01,20,23:15,AlienTech,PlayingDucks,inferno,D!ngIT $2000 Weekly Cup #34,16,4,11,4,5,0,Playing Ducks,10,20,0.53 
+2016,01,20,22:15,ELTZ,PlayingDucks,mirage,D!ngIT $2000 Weekly Cup #34,10,16,8,7,2,9,Playing Ducks,28,14,1.66 
+2016,01,20,19:30,AlienTech,PlayingDucks,cache,D!ngIT $2000 Weekly Cup #34,16,9,7,8,9,1,Playing Ducks,11,22,0.51 
+2016,01,20,19:30,PlayingDucks,AlienTech,dust2,D!ngIT $2000 Weekly Cup #34,16,11,11,4,5,7,Playing Ducks,18,19,0.99 
+2016,01,20,19:30,PlayingDucks,AlienTech,inferno,D!ngIT $2000 Weekly Cup #34,9,16,6,9,3,7,Playing Ducks,13,22,0.65 
+2016,01,19,21:10,PlayingDucks,ELTZ,cache,D!ngIT $2000 Weekly Cup #34,16,7,11,4,5,3,Playing Ducks,12,17,0.77 
+2016,01,19,21:10,ELTZ,PlayingDucks,mirage,D!ngIT $2000 Weekly Cup #34,16,13,6,9,10,4,Playing Ducks,18,20,0.85 
+2016,01,19,21:10,PlayingDucks,ELTZ,dust2,D!ngIT $2000 Weekly Cup #34,16,11,9,6,7,5,Playing Ducks,12,20,0.65 
+2015,12,20,19:00,PENTA,PlayingDucks,mirage,99Damage League Season 2,16,8,8,7,8,1,Playing Ducks,15,18,0.90 
+2015,12,20,19:00,PENTA,PlayingDucks,cache,99Damage League Season 2,16,6,13,2,3,4,Playing Ducks,9,18,0.54 
+2015,12,16,20:00,AlienTech,PlayingDucks,cache,AlienTech CS:GO European Cup I..,13,16,6,9,7,7,Playing Ducks,17,18,0.90 
+2015,12,14,20:00,RCTIC,PlayingDucks,cache,AlienTech CS:GO European Cup I..,16,7,9,6,7,1,Playing Ducks,9,18,0.58 
+2015,12,08,21:00,KILLERFISH,PlayingDucks,cobblestone,99Damage League Season 2,16,0,15,0,1,0,Playing Ducks,4,16,0.21 
+2015,12,08,21:00,KILLERFISH,PlayingDucks,cache,99Damage League Season 2,16,10,8,7,8,3,Playing Ducks,14,20,0.75 
+2015,12,01,19:00,LondonC,PlayingDucks,cache,99Damage Arena #16,16,13,8,7,8,6,Playing Ducks,20,20,1.01 
+2015,12,01,19:00,LondonC,PlayingDucks,mirage,99Damage Arena #16,16,12,10,5,6,7,Playing Ducks,17,18,0.99 
+2015,11,25,19:00,PlayingDucks,EYESONU,cobblestone,99Damage League Season 2,10,16,3,12,7,4,Playing Ducks,22,20,1.07 
+2015,11,25,19:00,PlayingDucks,EYESONU,mirage,99Damage League Season 2,16,19,5,10,10,5,Playing Ducks,27,23,1.02 
+2015,11,19,22:15,BX3,PlayingDucks,cache,QuickShot Arena #15,16,14,12,3,4,11,Playing Ducks,24,24,1.12 
+2015,11,19,19:30,myXMG,PlayingDucks,cache,QuickShot Arena #15,14,16,11,4,3,12,Playing Ducks,18,21,0.92 
+2015,11,19,18:15,PlayingDucks,BX3,dust2,QuickShot Arena #15,1,16,1,14,0,2,Playing Ducks,8,17,0.50 
+2015,11,15,19:15,PlayingDucks,E-frag.net,train,Game On Invitational,5,16,3,12,2,4,Playing Ducks,16,18,0.86 
+2015,11,15,19:15,PlayingDucks,E-frag.net,dust2,Game On Invitational,5,16,4,11,1,5,Playing Ducks,16,15,1.09 
+2015,11,15,19:15,E-frag.net,PlayingDucks,cache,Game On Invitational,26,28,5,10,10,5,Playing Ducks,34,35,0.91 
+2015,11,15,15:30,Aposis,PlayingDucks,train,Game On Invitational,5,16,4,11,1,5,Playing Ducks,15,16,0.93 
+2015,11,15,15:30,PlayingDucks,Aposis,cache,Game On Invitational,16,5,13,2,3,3,Playing Ducks,16,8,1.39 
+2015,09,12,19:45,OverGaming,KILLERFISH,cache,DreamHack Open Cluj-Napoca 201..,16,0,15,0,1,0,KILLERFISH,7,16,0.40 
+2015,09,09,21:15,KILLERFISH,Caseking,dust2,99Damage League Season 1,16,2,13,2,3,0,KILLERFISH,18,7,1.59 
+2015,09,09,21:15,Caseking,KILLERFISH,cache,99Damage League Season 1,7,16,4,11,3,5,KILLERFISH,27,15,1.62 
+2015,09,08,18:00,LosJefes,KILLERFISH,cache,D!ngIT $2000 Weekly Cup #16,21,17,8,7,7,8,KILLERFISH,17,29,0.70 
+2015,09,07,18:00,KILLERFISH,WorstPlayers,overpass,D!ngIT $2000 Weekly Cup #16,12,16,8,7,4,9,KILLERFISH,16,22,0.78 
+2015,09,07,18:00,KILLERFISH,WorstPlayers,mirage,D!ngIT $2000 Weekly Cup #16,15,13,7,8,8,5,KILLERFISH,20,19,0.97 
+2015,09,07,18:00,WorstPlayers,KILLERFISH,dust2,D!ngIT $2000 Weekly Cup #16,16,2,13,2,3,0,KILLERFISH,4,18,0.22 
+2015,09,02,19:00,PlayingDucks,KILLERFISH,mirage,99Damage League Season 1,11,16,7,8,4,8,KILLERFISH,13,20,0.66 
+2015,09,02,19:00,KILLERFISH,PlayingDucks,dust2,99Damage League Season 1,16,10,10,5,6,5,KILLERFISH,15,15,0.92 
+2015,08,27,21:55,KILLERFISH,Reason,overpass,QuickShot Arena #4,19,22,12,3,3,12,KILLERFISH,23,34,0.74 
+2015,08,27,19:00,KILLERFISH,SpaceSoldiers,dust2,QuickShot Arena #4,14,16,5,10,9,6,KILLERFISH,17,21,0.91 
+2015,08,27,19:00,KILLERFISH,SpaceSoldiers,cache,QuickShot Arena #4,16,11,8,7,8,4,KILLERFISH,15,17,0.87 
+2015,08,27,19:00,SpaceSoldiers,KILLERFISH,mirage,QuickShot Arena #4,16,5,11,4,5,1,KILLERFISH,12,18,0.65 
+2015,08,26,20:30,Reason,KILLERFISH,dust2,QuickShot Arena #4,5,16,4,11,1,5,KILLERFISH,8,12,0.75 
+2015,08,26,20:30,KILLERFISH,Reason,mirage,QuickShot Arena #4,11,16,7,8,4,8,KILLERFISH,17,19,0.92 
+2015,08,26,20:30,KILLERFISH,Reason,overpass,QuickShot Arena #4,16,5,10,5,6,0,KILLERFISH,9,14,0.63 
+2015,08,26,19:00,KILLERFISH,Planetkey,cache,99Damage League Season 1,16,6,11,4,5,2,KILLERFISH,10,12,0.80 
+2015,08,26,19:00,KILLERFISH,Planetkey,dust2,99Damage League Season 1,11,16,7,8,4,8,KILLERFISH,13,19,0.67 
+2015,08,17,21:00,E-frag.net,KILLERFISH,dust2,DreamHack Open London 2015 Clo..,16,11,9,6,7,5,KILLERFISH,15,20,0.78 
+2015,08,17,21:00,E-frag.net,KILLERFISH,cache,DreamHack Open London 2015 Clo..,16,14,11,4,5,10,KILLERFISH,15,24,0.72 
+2015,08,17,19:00,E-frag.net,uX,dust2,xfunction Masters Season III,16,4,12,3,4,1,uX,5,19,0.28 
+2015,08,17,19:00,uX,E-frag.net,cache,xfunction Masters Season III,10,16,8,7,2,9,uX,16,21,0.74 
+2015,08,13,19:00,uX,Evolution,train,D!ngIT $2000 Weekly Cup #11,16,4,11,4,5,0,uX,23,13,1.74 
+2015,08,13,19:00,Evolution,uX,mirage,D!ngIT $2000 Weekly Cup #11,22,26,6,9,9,6,uX,33,34,1.01 
+2015,08,09,10:20,uX,PENTA,cache,ESL Sommermeisterschaft 2015 F..,6,16,6,9,0,7,uX,9,21,0.43 
+2015,08,09,10:20,uX,PENTA,inferno,ESL Sommermeisterschaft 2015 F..,7,16,2,13,5,3,uX,19,18,1.22 
+2015,08,05,19:30,PlayingDucks,uX,inferno,xfunction Masters Season III,12,16,6,9,6,7,uX,19,17,1.09 
+2015,08,05,19:30,PlayingDucks,uX,cache,xfunction Masters Season III,7,16,2,13,5,3,uX,21,14,1.33 
+2015,08,05,19:30,PlayingDucks,uX,dust2,xfunction Masters Season III,16,9,11,4,5,5,uX,11,19,0.61 
+2015,07,29,18:00,uX,PiTER,cobblestone,xfunction Masters Season III,16,7,9,6,7,1,uX,19,14,1.29 
+2015,07,29,18:00,uX,PiTER,cache,xfunction Masters Season III,16,13,7,8,9,5,uX,16,20,0.83 
+2015,05,02,17:30,PlayingDucks,KILLERFISH,mirage,ESL Frühlingsmeisterschaft 201..,12,16,7,8,5,8,Playing Ducks,18,17,1.02 
+2015,05,02,17:30,KILLERFISH,PlayingDucks,overpass,ESL Frühlingsmeisterschaft 201..,16,10,8,7,8,3,Playing Ducks,14,22,0.69 
+2015,04,15,20:30,PlayingDucks,x6tence,cobblestone,99Damage Arena #5,11,16,8,7,3,9,Playing Ducks,14,23,0.60 
+2015,04,15,20:30,PlayingDucks,x6tence,cache,99Damage Arena #5,10,16,8,7,2,9,Playing Ducks,13,20,0.67 
+2015,04,04,12:00,Orbit,PlayingDucks,cache,Copenhagen Games 2015,16,10,9,6,7,4,Playing Ducks,11,19,0.62 
+2015,04,04,10:00,Publiclir.se,PlayingDucks,cache,Copenhagen Games 2015,11,16,8,7,3,9,Playing Ducks,13,18,0.74 
+2015,04,03,22:30,PlayingDucks,jQntefabrikkeN,mirage,Copenhagen Games 2015,16,6,11,4,5,2,Playing Ducks,22,10,1.62 
+2015,04,03,19:00,PlayingDucks,SpaceSoldiers,cache,Copenhagen Games 2015,7,16,6,9,1,7,Playing Ducks,12,19,0.60 
+2015,04,03,19:00,SpaceSoldiers,PlayingDucks,dust2,Copenhagen Games 2015,13,16,10,5,3,11,Playing Ducks,11,18,0.73 
+2015,04,03,19:00,SpaceSoldiers,PlayingDucks,cobblestone,Copenhagen Games 2015,16,13,12,3,4,10,Playing Ducks,24,19,1.17 
+2015,04,03,15:30,PlayingDucks,Property,cache,Copenhagen Games 2015,9,16,4,11,5,5,Playing Ducks,21,21,0.99 
+2015,04,03,15:30,PlayingDucks,Property,mirage,Copenhagen Games 2015,10,16,4,11,6,5,Playing Ducks,19,18,1.08 
+2015,04,03,12:00,PlayingDucks,SpaceSoldiers,mirage,Copenhagen Games 2015,16,3,12,3,4,0,Playing Ducks,17,10,1.32 
+2015,04,03,12:00,PlayingDucks,SpaceSoldiers,cache,Copenhagen Games 2015,16,14,10,5,6,9,Playing Ducks,22,21,0.97 
+2014,11,10,22:40,myKPV,PlayingDucks,cache,ESL Pro Series Germany Winter ..,16,5,10,5,6,0,Playing Ducks,14,17,0.96 
+2014,11,10,20:30,PlayingDucks,Planetkey,dust2,ESL Pro Series Germany Winter ..,8,16,4,11,4,5,Playing Ducks,9,21,0.49 
+2014,11,10,19:15,PlayingDucks,MTW,overpass,ESL Pro Series Germany Winter ..,16,14,10,5,6,9,Playing Ducks,10,19,0.62 
+2014,10,04,18:00,PlayingDucks,3DMAX,dust2,ESWC 2014 European Qualifier,10,16,7,8,3,8,Playing Ducks,13,16,0.78 
+2014,10,04,18:00,3DMAX,PlayingDucks,mirage,ESWC 2014 European Qualifier,16,9,9,6,7,3,Playing Ducks,12,20,0.61 
+2014,09,06,15:30,PlayingDucks,mousesports,cache,ESL Pro Series Germany Summer ..,8,16,3,12,5,4,Playing Ducks,15,23,0.65 
+2014,09,06,15:30,mousesports,PlayingDucks,mirage,ESL Pro Series Germany Summer ..,16,6,10,5,6,1,Playing Ducks,14,18,0.77 
+2014,08,04,22:30,ALTERNATEaTTaX,PlayingDucks,dust2,ESL Pro Series Germany Summer ..,10,16,2,13,8,3,Playing Ducks,23,14,1.32 
+2014,08,04,21:30,team,PlayingDucks,train,ESL Pro Series Germany Summer ..,7,16,6,9,1,7,Playing Ducks,16,19,0.82 
+2014,08,04,19:00,ALTERNATEaTTaX,PlayingDucks,dust2,ESL Pro Series Germany Summer ..,16,10,8,7,8,3,Playing Ducks,18,17,1.08 

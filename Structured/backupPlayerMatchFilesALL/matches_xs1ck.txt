@@ -1,0 +1,16 @@
+2015,10,22,21:45,uX,Caseking,dust2,99Damage League Season 1,16,9,9,6,7,3,Caseking,13,19,0.79 
+2015,10,22,21:45,Caseking,uX,cache,99Damage League Season 1,8,16,5,10,3,6,Caseking,11,21,0.51 
+2015,09,29,20:00,Caseking,Planetkey,cache,99Damage League Season 1,16,10,7,8,9,2,Caseking,17,18,0.93 
+2015,09,29,20:00,Planetkey,Caseking,cobblestone,99Damage League Season 1,6,16,4,11,2,5,Caseking,24,16,1.66 
+2015,09,22,19:00,Caseking,EYESONU,inferno,99Damage League Season 1,16,13,9,6,7,7,Caseking,20,22,0.89 
+2015,09,22,19:00,Caseking,EYESONU,dust2,99Damage League Season 1,17,19,5,10,10,5,Caseking,31,27,1.20 
+2015,09,15,21:00,uX,Caseking,train,99Damage League Season 1,16,7,11,4,5,3,Caseking,16,19,0.90 
+2015,09,15,21:00,uX,Caseking,cache,99Damage League Season 1,16,6,12,3,4,3,Caseking,14,19,0.75 
+2015,09,09,21:15,KILLERFISH,Caseking,dust2,99Damage League Season 1,16,2,13,2,3,0,Caseking,8,18,0.47 
+2015,09,09,21:15,Caseking,KILLERFISH,cache,99Damage League Season 1,7,16,4,11,3,5,Caseking,18,19,0.92 
+2015,09,02,21:15,Caseking,PENTA,inferno,99Damage League Season 1,17,19,7,8,8,7,Caseking,14,29,0.56 
+2015,09,02,21:15,Caseking,PENTA,cache,99Damage League Season 1,16,11,9,6,7,5,Caseking,17,24,0.77 
+2015,08,25,21:45,Caseking,PlayingDucks,inferno,99Damage League Season 1,14,16,10,5,4,11,Caseking,13,23,0.65 
+2015,08,25,21:45,PlayingDucks,Caseking,dust2,99Damage League Season 1,9,16,6,9,3,7,Caseking,19,20,1.03 
+2014,05,10,13:00,mousesports,EnRoGRIFFINS,dust2,ESL Pro Series Germany Spring ..,16,7,10,5,6,2,EnRo GRIFFINS,24,18,1.38 
+2014,05,10,13:00,EnRoGRIFFINS,mousesports,inferno,ESL Pro Series Germany Spring ..,12,16,8,7,4,9,EnRo GRIFFINS,17,22,0.76 

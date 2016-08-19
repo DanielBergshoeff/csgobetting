@@ -1,0 +1,226 @@
+2016,08,14,15:40,HUEHUE,AliGon,dust2,ECS Season 2 EU Open Qualifier..,16,2,13,2,3,0,AliGon,7,15,0.59 
+2016,08,06,19:30,SpaceSoldiers,Epsilon,cobblestone,ASUS ROG Summer 2016,16,5,11,4,5,1,Epsilon,10,19,0.59 
+2016,08,06,19:30,Epsilon,SpaceSoldiers,cache,ASUS ROG Summer 2016,11,16,7,8,4,8,Epsilon,13,18,0.74 
+2016,08,06,14:15,ENCE,Epsilon,cobblestone,ASUS ROG Summer 2016,12,16,9,6,3,10,Epsilon,24,15,1.34 
+2016,08,06,14:15,ENCE,Epsilon,dust2,ASUS ROG Summer 2016,22,20,9,6,6,9,Epsilon,26,30,0.92 
+2016,08,06,14:15,Epsilon,ENCE,nuke,ASUS ROG Summer 2016,16,14,3,12,13,2,Epsilon,26,17,1.25 
+2016,08,05,15:15,Epsilon,Escape,mirage,ASUS ROG Summer 2016,16,10,12,3,4,7,Epsilon,16,16,0.98 
+2016,08,05,15:15,Epsilon,Escape,nuke,ASUS ROG Summer 2016,16,8,12,3,4,5,Epsilon,14,15,0.84 
+2016,08,05,15:15,Epsilon,Escape,dust2,ASUS ROG Summer 2016,11,16,7,8,4,8,Epsilon,22,20,1.02 
+2016,08,05,13:00,Epsilon,LGR,cache,ASUS ROG Summer 2016,16,12,9,6,7,6,Epsilon,23,16,1.33 
+2016,08,05,11:30,Epsilon,Millenium,mirage,ASUS ROG Summer 2016,10,16,5,10,5,6,Epsilon,10,20,0.58 
+2016,07,30,17:00,Epsilon,MK,mirage,SL i-League S2 Europe Qualifie..,16,4,13,2,3,2,Epsilon,22,11,1.61 
+2016,07,30,17:00,Epsilon,MK,cache,SL i-League S2 Europe Qualifie..,16,4,11,4,5,0,Epsilon,26,11,1.89 
+2016,07,30,17:00,MK,Epsilon,dust2,SL i-League S2 Europe Qualifie..,16,8,12,3,4,5,Epsilon,14,19,0.75 
+2016,07,28,22:00,ENCE,Epsilon,cache,SL i-League S2 Europe Qualifie..,16,12,7,8,9,4,Epsilon,19,22,0.97 
+2016,07,28,22:00,Epsilon,ENCE,mirage,SL i-League S2 Europe Qualifie..,16,14,6,9,10,5,Epsilon,21,20,0.99 
+2016,07,28,22:00,ENCE,Epsilon,dust2,SL i-League S2 Europe Qualifie..,16,14,9,6,7,8,Epsilon,16,23,0.71 
+2016,07,28,18:30,Epsilon,ALTERNATEaTTaX,nuke,SL i-League S2 Europe Qualifie..,15,19,10,5,5,10,Epsilon,13,27,0.56 
+2016,07,28,18:30,ALTERNATEaTTaX,Epsilon,cobblestone,SL i-League S2 Europe Qualifie..,9,16,4,11,5,5,Epsilon,16,18,0.90 
+2016,07,28,18:30,ALTERNATEaTTaX,Epsilon,dust2,SL i-League S2 Europe Qualifie..,16,12,6,9,10,3,Epsilon,19,20,0.99 
+2016,07,26,19:50,Epsilon,LeiSuRe,cobblestone,WCA 2016 EU Qualifier,16,11,5,10,11,1,Epsilon,11,20,0.59 
+2016,07,26,19:50,LeiSuRe,Epsilon,mirage,WCA 2016 EU Qualifier,17,19,8,7,7,8,Epsilon,31,25,1.31 
+2016,07,24,09:45,X,Epsilon,cobblestone,Pro Gamer League 2016 Summer F..,14,16,6,9,8,7,Epsilon,17,19,0.95 
+2016,07,24,09:45,X,Epsilon,dust2,Pro Gamer League 2016 Summer F..,10,16,6,9,4,7,Epsilon,22,13,1.29 
+2016,07,24,09:45,Epsilon,X,train,Pro Gamer League 2016 Summer F..,16,6,11,4,5,2,Epsilon,17,12,1.07 
+2016,07,22,13:30,Epsilon,VG.CyberZen,nuke,Pro Gamer League 2016 Summer F..,16,8,13,2,3,6,Epsilon,21,16,1.17 
+2016,07,22,13:30,VG.CyberZen,Epsilon,overpass,Pro Gamer League 2016 Summer F..,16,7,11,4,5,3,Epsilon,7,16,0.55 
+2016,07,22,13:30,VG.CyberZen,Epsilon,cache,Pro Gamer League 2016 Summer F..,4,16,4,11,0,5,Epsilon,12,11,0.93 
+2016,07,22,09:15,Epsilon,eFuture,mirage,Pro Gamer League 2016 Summer F..,16,5,13,2,3,3,Epsilon,21,10,1.65 
+2016,07,22,07:30,Epsilon,BornOfFire,dust2,Pro Gamer League 2016 Summer F..,16,13,6,9,10,4,Epsilon,16,18,0.85 
+2016,07,22,04:00,Epsilon,TyLoo,mirage,Pro Gamer League 2016 Summer F..,16,11,12,3,4,8,Epsilon,23,18,1.22 
+2016,07,18,23:15,Epsilon,Tricked,nuke,Hitbox Challenger Cup #2,9,16,4,11,5,5,Epsilon,8,18,0.52 
+2016,07,18,23:15,Epsilon,Tricked,cobblestone,Hitbox Challenger Cup #2,4,16,4,11,0,5,Epsilon,6,16,0.41 
+2016,07,18,20:30,Epsilon,LGR,nuke,RGN Pro Series II EU Closed Qu..,16,4,12,3,4,1,Epsilon,18,10,1.30 
+2016,07,18,20:30,Epsilon,LGR,dust2,RGN Pro Series II EU Closed Qu..,12,16,8,7,4,9,Epsilon,28,19,1.39 
+2016,07,18,20:30,LGR,Epsilon,mirage,RGN Pro Series II EU Closed Qu..,5,16,5,10,0,6,Epsilon,18,16,1.08 
+2016,07,18,17:15,HUE1,Epsilon,mirage,WCA 2016 EU Qualifier,9,16,4,11,5,5,Epsilon,16,16,0.92 
+2016,07,18,17:15,Epsilon,HUE1,overpass,WCA 2016 EU Qualifier,16,14,8,7,8,7,Epsilon,23,21,1.08 
+2016,07,18,17:15,Epsilon,HUE1,cache,WCA 2016 EU Qualifier,13,16,5,10,8,6,Epsilon,21,21,0.97 
+2016,07,17,17:30,X,Epsilon,mirage,GG Masters,14,16,9,6,5,10,Epsilon,16,23,0.81 
+2016,07,17,17:30,X,Epsilon,cobblestone,GG Masters,23,25,8,7,7,8,Epsilon,31,33,0.92 
+2016,07,17,14:00,ENCE,Epsilon,train,GG Masters,16,10,8,7,8,3,Epsilon,16,19,0.89 
+2016,07,17,14:00,ENCE,Epsilon,dust2,GG Masters,19,16,6,9,9,6,Epsilon,30,27,1.18 
+2016,07,17,14:00,Epsilon,ENCE,mirage,GG Masters,16,6,11,4,5,2,Epsilon,13,12,1.00 
+2016,07,16,14:00,X,Epsilon,mirage,GG Masters,13,16,7,8,6,8,Epsilon,20,22,0.97 
+2016,07,04,18:45,Kinguin,Epsilon,mirage,Hitbox Challenger Cup #2,16,5,11,4,5,1,Epsilon,16,20,0.92 
+2016,07,04,18:45,Kinguin,Epsilon,overpass,Hitbox Challenger Cup #2,16,5,11,4,5,1,Epsilon,11,18,0.69 
+2016,06,30,20:15,Epsilon,LowLandLions,overpass,Operation: Kinguin #3,16,6,12,3,4,3,Epsilon,17,16,1.00 
+2016,06,30,20:15,Epsilon,LowLandLions,dust2,Operation: Kinguin #3,16,14,11,4,5,10,Epsilon,17,22,0.75 
+2016,06,28,18:00,Epsilon,X,mirage,Uprise Champions Cup Season 4,20,22,7,8,8,7,Epsilon,18,33,0.59 
+2016,06,27,19:00,Kinguin,Epsilon,cache,Uprise Champions Cup Season 4,16,2,14,1,2,1,Epsilon,7,18,0.52 
+2016,06,27,19:00,Epsilon,Kinguin,dust2,Uprise Champions Cup Season 4,16,11,6,9,10,2,Epsilon,14,19,0.74 
+2016,06,27,19:00,Epsilon,Kinguin,mirage,Uprise Champions Cup Season 4,10,16,8,7,2,9,Epsilon,14,19,0.69 
+2016,06,26,20:00,ALTERNATEaTTaX,Epsilon,train,Operation: Kinguin #3,16,13,9,6,7,7,Epsilon,17,21,0.83 
+2016,06,26,20:00,ALTERNATEaTTaX,Epsilon,overpass,Operation: Kinguin #3,16,4,11,4,5,0,Epsilon,14,16,0.83 
+2016,06,26,20:00,Epsilon,ALTERNATEaTTaX,cache,Operation: Kinguin #3,16,14,9,6,7,8,Epsilon,22,24,0.95 
+2016,06,23,19:00,Epsilon,Gambit,mirage,Uprise Champions Cup Season 4,16,8,11,4,5,4,Epsilon,16,17,0.92 
+2016,06,23,19:00,Gambit,Epsilon,dust2,Uprise Champions Cup Season 4,13,16,5,10,8,6,Epsilon,15,22,0.71 
+2016,06,23,19:00,Epsilon,Gambit,train,Uprise Champions Cup Season 4,17,19,8,7,7,8,Epsilon,33,25,1.27 
+2016,06,22,19:15,Epsilon,ArchAngels,cache,RGN Pro Series II EU Closed Qu..,16,11,9,6,7,5,Epsilon,17,19,0.88 
+2016,06,22,19:15,ArchAngels,Epsilon,overpass,RGN Pro Series II EU Closed Qu..,5,16,5,10,0,6,Epsilon,16,11,1.22 
+2016,06,19,21:00,Epsilon,NiP,cache,DreamHack ZOWIE Open Summer 20..,14,16,11,4,3,12,Epsilon,18,23,0.85 
+2016,06,19,21:00,Epsilon,NiP,overpass,DreamHack ZOWIE Open Summer 20..,13,16,7,8,6,8,Epsilon,17,20,0.86 
+2016,06,19,15:00,Epsilon,HellRaisers,mirage,DreamHack ZOWIE Open Summer 20..,16,13,12,3,4,10,Epsilon,18,20,0.85 
+2016,06,19,15:00,Epsilon,HellRaisers,nuke,DreamHack ZOWIE Open Summer 20..,16,10,11,4,5,6,Epsilon,13,18,0.69 
+2016,06,18,20:00,ArchAngels,Epsilon,overpass,ESPORTSM 2016 Finals,16,19,9,6,6,9,Epsilon,22,21,0.95 
+2016,06,18,20:00,Epsilon,ArchAngels,mirage,ESPORTSM 2016 Finals,16,8,7,8,9,0,Epsilon,12,18,0.69 
+2016,06,18,16:30,NiP,Epsilon,cache,DreamHack ZOWIE Open Summer 20..,16,9,11,4,5,5,Epsilon,19,19,1.16 
+2016,06,05,19:00,Epsilon,Orbit,overpass,Uprise Champions Cup Season 4,7,16,6,9,1,7,Epsilon,12,18,0.66 
+2016,06,05,19:00,Orbit,Epsilon,mirage,Uprise Champions Cup Season 4,16,3,12,3,4,0,Epsilon,12,16,0.81 
+2016,06,03,20:00,Epsilon,Escape,overpass,Uprise Champions Cup Season 4,3,16,3,12,0,4,Epsilon,13,17,0.84 
+2016,06,03,20:00,Epsilon,Escape,mirage,Uprise Champions Cup Season 4,16,4,11,4,5,0,Epsilon,11,13,0.83 
+2016,06,03,20:00,Escape,Epsilon,dust2,Uprise Champions Cup Season 4,16,1,14,1,2,0,Epsilon,5,16,0.33 
+2016,05,30,20:15,Epsilon,Escape,mirage,RGN Pro Series II EU Closed Qu..,16,9,12,3,4,6,Epsilon,21,15,1.17 
+2016,05,30,20:15,Escape,Epsilon,overpass,RGN Pro Series II EU Closed Qu..,16,13,7,8,9,5,Epsilon,19,21,0.91 
+2016,05,30,20:15,Escape,Epsilon,cache,RGN Pro Series II EU Closed Qu..,12,16,8,7,4,9,Epsilon,18,20,0.92 
+2016,05,29,23:00,Arcade,Epsilon,cache,DreamHack ZOWIE Open Summer 20..,14,16,9,6,5,10,Epsilon,24,20,1.08 
+2016,05,29,23:00,Epsilon,Arcade,mirage,DreamHack ZOWIE Open Summer 20..,12,16,8,7,4,9,Epsilon,10,24,0.44 
+2016,05,29,23:00,Arcade,Epsilon,overpass,DreamHack ZOWIE Open Summer 20..,13,16,10,5,3,11,Epsilon,12,22,0.58 
+2016,05,29,19:05,Gambit,Epsilon,mirage,DreamHack ZOWIE Open Summer 20..,9,16,5,10,4,6,Epsilon,21,18,1.07 
+2016,05,29,19:05,Gambit,Epsilon,cache,DreamHack ZOWIE Open Summer 20..,13,16,5,10,8,6,Epsilon,16,21,0.79 
+2016,05,29,19:05,Epsilon,Gambit,dust2,DreamHack ZOWIE Open Summer 20..,13,16,7,8,6,8,Epsilon,21,21,0.93 
+2016,05,29,15:40,Epsilon,Tricked,train,DreamHack ZOWIE Open Summer 20..,16,14,7,8,9,6,Epsilon,15,22,0.69 
+2016,05,29,15:40,Tricked,Epsilon,mirage,DreamHack ZOWIE Open Summer 20..,5,16,5,10,0,6,Epsilon,18,12,1.29 
+2016,05,29,15:40,Tricked,Epsilon,dust2,DreamHack ZOWIE Open Summer 20..,16,4,11,4,5,0,Epsilon,6,18,0.36 
+2016,05,29,12:15,PRIDE,Epsilon,mirage,DreamHack ZOWIE Open Summer 20..,15,19,8,7,7,8,Epsilon,21,23,0.88 
+2016,05,29,12:15,Epsilon,PRIDE,overpass,DreamHack ZOWIE Open Summer 20..,13,16,4,11,9,5,Epsilon,16,23,0.71 
+2016,05,29,12:15,Epsilon,PRIDE,train,DreamHack ZOWIE Open Summer 20..,16,3,12,3,4,0,Epsilon,23,11,1.72 
+2016,05,25,21:15,Epsilon,Millenium,dust2,xfunction Challenge,15,19,8,7,7,8,Epsilon,13,33,0.39 
+2016,05,25,21:15,Epsilon,Millenium,overpass,xfunction Challenge,16,11,6,9,10,2,Epsilon,16,24,0.69 
+2016,05,25,21:15,Epsilon,Millenium,cache,xfunction Challenge,16,19,11,4,4,11,Epsilon,27,29,1.02 
+2016,05,24,16:30,Epsilon,AGG,dust2,Operation: Kinguin #3,7,16,6,9,1,7,Epsilon,12,20,0.67 
+2016,05,24,16:30,Epsilon,AGG,train,Operation: Kinguin #3,12,16,4,11,8,5,Epsilon,12,23,0.59 
+2016,05,23,19:00,Epsilon,AlienTech,train,xfunction Challenge,16,11,9,6,7,5,Epsilon,16,17,0.93 
+2016,05,14,15:00,Epsilon,Orbit,train,DreamHack Regional Minor Champ..,13,16,5,10,8,6,Epsilon,16,20,0.79 
+2016,05,14,15:00,Epsilon,Orbit,mirage,DreamHack Regional Minor Champ..,15,19,9,6,6,9,Epsilon,19,27,0.75 
+2016,05,14,15:00,Epsilon,Orbit,dust2,DreamHack Regional Minor Champ..,16,13,5,10,11,3,Epsilon,13,23,0.62 
+2016,05,14,13:30,Epsilon,SK,overpass,DreamHack Regional Minor Champ..,16,14,8,7,8,7,Epsilon,25,21,1.23 
+2016,05,14,12:00,Epsilon,dignitas,overpass,DreamHack Regional Minor Champ..,11,16,4,11,7,5,Epsilon,14,21,0.76 
+2016,05,10,22:30,Epsilon,Rasta,overpass,xfunction Challenge,16,1,14,1,2,0,Epsilon,10,7,1.11 
+2016,05,01,19:30,Epsilon,GameAgents,cache,DreamHack Regional Minor Champ..,19,17,8,7,7,8,Epsilon,25,23,1.08 
+2016,05,01,19:30,Epsilon,GameAgents,dust2,DreamHack Regional Minor Champ..,16,9,10,5,6,4,Epsilon,18,16,1.03 
+2016,05,01,15:00,Epsilon,CPHWolves,dust2,DreamHack Regional Minor Champ..,16,13,9,6,7,7,Epsilon,27,16,1.44 
+2016,05,01,15:00,Epsilon,CPHWolves,overpass,DreamHack Regional Minor Champ..,19,22,7,8,8,7,Epsilon,32,26,1.18 
+2016,04,30,18:00,Epsilon,ALTERNATEaTTaX,dust2,DreamHack Regional Minor Champ..,16,13,7,8,9,5,Epsilon,16,19,0.82 
+2016,04,28,20:35,AliGon,CPHWolves,train,Game On King of the Hill,17,19,10,5,5,10,AliGon,26,26,1.01 
+2016,04,28,20:35,AliGon,CPHWolves,dust2,Game On King of the Hill,19,16,5,10,10,5,AliGon,23,20,1.00 
+2016,04,28,20:35,CPHWolves,AliGon,inferno,Game On King of the Hill,16,13,8,7,8,6,AliGon,24,18,1.24 
+2016,04,27,20:30,RCTIC,Epsilon,dust2,Operation: Kinguin #3,12,16,8,7,4,9,Epsilon,26,17,1.37 
+2016,04,27,20:30,RCTIC,Epsilon,cache,Operation: Kinguin #3,12,16,4,11,8,5,Epsilon,20,16,1.03 
+2016,04,27,18:00,AliGon,Enso,dust2,Game On King of the Hill,16,11,11,4,5,7,AliGon,31,19,1.54 
+2016,04,27,18:00,AliGon,Enso,mirage,Game On King of the Hill,16,6,11,4,5,2,AliGon,15,13,1.01 
+2016,04,22,20:30,Epsilon,HellRaisers,cache,CEVO Gfinity Professional Seas..,12,16,5,10,7,6,Epsilon,27,19,1.48 
+2016,04,22,20:30,HellRaisers,Epsilon,mirage,CEVO Gfinity Professional Seas..,16,14,12,3,4,11,Epsilon,30,23,1.28 
+2016,04,20,19:00,Epsilon,PENTA,mirage,CEVO Gfinity Professional Seas..,16,3,13,2,3,1,Epsilon,13,14,0.85 
+2016,04,20,19:00,PENTA,Epsilon,cobblestone,CEVO Gfinity Professional Seas..,16,11,8,7,8,4,Epsilon,16,18,0.92 
+2016,04,20,19:00,PENTA,Epsilon,dust2,CEVO Gfinity Professional Seas..,4,16,3,12,1,4,Epsilon,17,16,1.02 
+2016,04,19,20:00,AliGon,RCTIC,inferno,Game On King of the Hill,16,7,8,7,8,0,AliGon,22,11,1.63 
+2016,04,19,20:00,RCTIC,AliGon,cobblestone,Game On King of the Hill,9,16,2,13,7,3,AliGon,23,16,1.36 
+2016,04,18,20:00,Enso,AliGon,dust2,Game On King of the Hill,6,16,6,9,0,7,AliGon,26,12,1.86 
+2016,04,18,20:00,AliGon,Enso,inferno,Game On King of the Hill,12,16,10,5,2,11,AliGon,25,20,1.35 
+2016,04,17,19:15,nerdRage,Epsilon,cobblestone,CEVO Gfinity Professional Seas..,6,16,6,9,0,7,Epsilon,25,13,1.65 
+2016,04,17,19:15,nerdRage,Epsilon,dust2,CEVO Gfinity Professional Seas..,14,16,8,7,6,9,Epsilon,12,23,0.60 
+2016,04,14,18:00,AliGon,EpiphanyBolt,cache,Game On King of the Hill,16,11,12,3,4,8,AliGon,25,18,1.28 
+2016,04,14,18:00,AliGon,EpiphanyBolt,inferno,Game On King of the Hill,16,6,11,4,5,2,AliGon,19,16,1.15 
+2016,03,25,15:45,Plantronics,Publiclir.se,cache,Copenhagen Games 2016,15,19,6,9,9,6,Plantronics,23,28,0.95 
+2016,03,25,13:30,Plantronics,ENCE,dust2,Copenhagen Games 2016,16,7,11,4,5,3,Plantronics,19,16,1.04 
+2016,03,25,12:00,SK,Plantronics,mirage,Copenhagen Games 2016,16,7,13,2,3,5,Plantronics,15,18,0.82 
+2016,03,24,23:00,Plantronics,WinOut,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,8,9,6,7,2,Plantronics,18,20,0.91 
+2016,03,24,23:00,Plantronics,WinOut,inferno,Copenhagen Games 2016 BYOC Qua..,16,5,11,4,5,1,Plantronics,19,13,1.23 
+2016,03,24,20:00,Plantronics,n0_0rg,cache,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Plantronics,12,7,1.17 
+2016,03,24,20:00,n0_0rg,Plantronics,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,4,11,1,5,Plantronics,20,16,1.38 
+2016,03,24,15:30,Aquiver.RED,Plantronics,cobblestone,Copenhagen Games 2016 BYOC Qua..,10,16,9,6,1,10,Plantronics,21,16,1.23 
+2016,03,24,13:00,Tekweb,Plantronics,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,2,13,3,3,Plantronics,12,14,0.83 
+2016,03,12,17:45,Gambit,AliGon,cache,DreamHack Masters Malmö 2016 E..,16,10,11,4,5,6,AliGon,14,18,0.79 
+2016,02,27,21:40,AliGon,Orgless,mirage,Pantamera CS:GO Challenge 2016,4,16,4,11,0,5,AliGon,12,18,0.67 
+2016,02,27,20:10,AliGon,Torpedo,mirage,Pantamera CS:GO Challenge 2016,16,9,9,6,7,3,AliGon,27,17,1.58 
+2016,02,27,18:00,ALTERNATEaTTaX,AliGon,cache,Pantamera CS:GO Challenge 2016,16,9,6,9,10,0,AliGon,18,19,0.94 
+2016,01,30,15:00,Lemondogs,DenDD,mirage,PGL Regional Minor Championshi..,13,16,7,8,6,8,Lemondogs,30,17,1.52 
+2016,01,30,12:00,HellRaisers,Lemondogs,dust2,PGL Regional Minor Championshi..,16,14,7,8,9,6,Lemondogs,24,21,1.22 
+2016,01,10,12:00,AliGon,Vexed,mirage,DreamHack Open Leipzig 2016 Cl..,13,16,7,8,6,8,AliGon,15,21,0.78 
+2016,01,10,12:00,AliGon,Vexed,overpass,DreamHack Open Leipzig 2016 Cl..,12,16,4,11,8,5,AliGon,12,22,0.62 
+2016,01,08,21:00,AliGon,ALTERNATEaTTaX,train,PGL Regional Minor Championshi..,26,21,9,6,6,9,AliGon,34,31,1.13 
+2016,01,08,21:00,ALTERNATEaTTaX,AliGon,dust2,PGL Regional Minor Championshi..,16,9,11,4,5,5,AliGon,17,19,0.90 
+2016,01,08,21:00,AliGon,ALTERNATEaTTaX,cache,PGL Regional Minor Championshi..,16,7,11,4,5,3,AliGon,23,15,1.40 
+2015,12,17,22:00,AliGon,PiTER,mirage,QuickShot Arena #19,6,16,4,11,2,5,AliGon,20,18,1.15 
+2015,12,17,20:45,EpiphanyBolt,AliGon,cache,QuickShot Arena #19,19,17,10,5,5,10,AliGon,20,24,0.80 
+2015,12,17,18:15,AliGon,LowLandLions,dust2,QuickShot Arena #19,16,14,7,8,9,6,AliGon,32,21,1.43 
+2015,11,25,18:00,AliGon,BX3,inferno,Game Show Global eSports Cup 2..,14,16,6,9,8,7,AliGon,22,20,1.04 
+2015,11,25,18:00,BX3,AliGon,dust2,Game Show Global eSports Cup 2..,16,7,10,5,6,2,AliGon,9,20,0.48 
+2015,11,24,18:00,AliGon,E-frag.net,dust2,Game Show Global eSports Cup 2..,17,19,6,9,9,6,AliGon,26,29,0.92 
+2015,11,24,18:00,AliGon,E-frag.net,train,Game Show Global eSports Cup 2..,4,16,4,11,0,5,AliGon,12,19,0.60 
+2015,11,23,18:30,AliGon,gBots,dust2,Game Show Global eSports Cup 2..,16,12,5,10,11,2,AliGon,18,20,0.85 
+2015,11,23,18:30,gBots,AliGon,train,Game Show Global eSports Cup 2..,8,16,7,8,1,8,AliGon,24,14,1.54 
+2015,11,16,20:45,ESC,AliGon,mirage,Global Grand Masters #1,16,6,10,5,6,1,AliGon,16,16,1.17 
+2015,11,16,20:00,AliGon,nerdRage,mirage,Global Grand Masters #1,16,3,12,3,4,0,AliGon,14,11,1.14 
+2015,11,16,16:00,Epsilon,AliGon,train,Global Grand Masters #1,22,25,6,9,9,6,AliGon,33,31,1.09 
+2015,11,03,22:45,AliGon,Arcade,dust2,D!ngIT $2000 Weekly Cup #24,21,19,8,7,7,8,AliGon,31,30,1.01 
+2015,11,03,18:40,AliGon,Arcade,cache,D!ngIT $2000 Weekly Cup #24,16,6,10,5,6,1,AliGon,22,16,1.43 
+2015,11,03,18:40,AliGon,Arcade,dust2,D!ngIT $2000 Weekly Cup #24,16,14,10,5,6,9,AliGon,17,22,0.85 
+2015,11,03,18:40,AliGon,Arcade,mirage,D!ngIT $2000 Weekly Cup #24,18,21,4,11,11,4,AliGon,21,25,0.91 
+2015,11,02,21:15,Reason,AliGon,mirage,D!ngIT $2000 Weekly Cup #24,5,16,3,12,2,4,AliGon,20,8,1.69 
+2015,11,02,21:15,AliGon,Reason,cache,D!ngIT $2000 Weekly Cup #24,8,16,2,13,6,3,AliGon,18,18,0.98 
+2015,11,02,21:15,AliGon,Reason,train,D!ngIT $2000 Weekly Cup #24,16,1,14,1,2,0,AliGon,18,6,1.65 
+2015,10,30,20:00,MaxAndRelax,EuropeanMisfits,mirage,QuickShot Showmatches,16,3,14,1,2,2,MaxAndRelax,18,11,1.47 
+2015,10,30,20:00,EuropeanMisfits,MaxAndRelax,cache,QuickShot Showmatches,16,12,7,8,9,4,MaxAndRelax,31,16,1.75 
+2015,10,30,20:00,EuropeanMisfits,MaxAndRelax,dust2,QuickShot Showmatches,11,16,10,5,1,11,MaxAndRelax,27,16,1.55 
+2015,09,27,18:00,MaxAndRelax,Orbit,inferno,GameAgents League Season 2,16,3,14,1,2,2,MaxAndRelax,18,9,1.50 
+2015,09,27,18:00,MaxAndRelax,Orbit,mirage,GameAgents League Season 2,5,16,2,13,3,3,MaxAndRelax,17,18,1.01 
+2015,09,24,18:00,MaxAndRelax,volgare,dust2,GameAgents League Season 2,16,10,6,9,10,1,MaxAndRelax,23,12,1.38 
+2015,09,24,18:00,MaxAndRelax,volgare,mirage,GameAgents League Season 2,19,16,8,7,7,8,MaxAndRelax,27,22,1.15 
+2015,09,23,18:00,SK,MaxAndRelax,mirage,GameAgents League Season 2,19,22,4,11,11,4,MaxAndRelax,35,24,1.29 
+2015,09,23,18:00,MaxAndRelax,SK,train,GameAgents League Season 2,16,2,13,2,3,0,MaxAndRelax,17,10,1.35 
+2015,08,30,21:20,AliGon,PiTER,cache,FACEIT League 2015 Stage 3 EU ..,16,21,7,8,8,7,AliGon,31,25,1.11 
+2015,05,31,11:00,ISKOLD,LGB,dust2,DreamHack Open Summer 2015 Clo..,6,16,5,10,1,6,ISKOLD,14,20,0.68 
+2015,05,31,11:00,ISKOLD,LGB,cache,DreamHack Open Summer 2015 Clo..,5,16,5,10,0,6,ISKOLD,21,15,1.25 
+2015,05,31,11:00,LGB,ISKOLD,mirage,DreamHack Open Summer 2015 Clo..,12,16,9,6,3,10,ISKOLD,19,20,0.88 
+2015,05,23,22:10,ISKOLD,AliGon,inferno,DreamHack Open Summer 2015 Qua..,26,23,9,6,6,9,AliGon,24,33,0.72 
+2015,04,21,19:15,Games4u,Acer,dust2,Fragbite Masters Season 4 Qual..,16,12,12,3,4,9,Games4u,18,17,1.00 
+2015,04,04,12:00,Reason,Games4u,inferno,Copenhagen Games 2015,16,2,13,2,3,0,Games4u,11,17,0.60 
+2015,04,04,10:00,Games4u,Acer,mirage,Copenhagen Games 2015,16,4,13,2,3,2,Games4u,18,10,1.39 
+2015,04,03,22:20,Games4u,Lions,inferno,Copenhagen Games 2015,16,11,11,4,5,7,Games4u,15,14,1.05 
+2015,04,03,19:00,Orbit,Games4u,inferno,Copenhagen Games 2015,16,5,12,3,4,2,Games4u,18,17,1.01 
+2015,04,03,19:00,Games4u,Orbit,cache,Copenhagen Games 2015,6,16,3,12,3,4,Games4u,12,19,0.65 
+2015,04,03,15:30,FUGL?,Games4u,dust2,Copenhagen Games 2015,4,16,3,12,1,4,Games4u,10,15,0.68 
+2015,04,03,15:30,FUGL?,Games4u,inferno,Copenhagen Games 2015,9,16,4,11,5,5,Games4u,23,17,1.19 
+2015,04,03,12:00,Games4u,3DMAX,inferno,Copenhagen Games 2015,13,16,10,5,3,11,Games4u,22,18,1.18 
+2015,04,03,12:00,3DMAX,Games4u,dust2,Copenhagen Games 2015,16,8,10,5,6,3,Games4u,18,17,1.06 
+2015,04,02,20:30,schlaegeros,Games4u,cache,Copenhagen Games 2015,10,16,7,8,3,8,Games4u,26,14,1.59 
+2015,04,02,19:00,Games4u,Frederiksberg,mirage,Copenhagen Games 2015,16,8,11,4,5,4,Games4u,11,12,0.82 
+2015,04,02,14:00,Lucidez,Games4u,dust2,Copenhagen Games 2015,9,16,8,7,1,9,Games4u,20,13,1.27 
+2015,04,02,14:00,Games4u,Lucidez,inferno,Copenhagen Games 2015,16,9,13,2,3,7,Games4u,20,17,1.28 
+2015,03,08,19:00,AliGon,PENTA,inferno,CCS Kick-off Season Closed Qua..,12,16,8,7,4,9,AliGon,13,18,0.85 
+2015,03,08,19:00,AliGon,PENTA,dust2,CCS Kick-off Season Closed Qua..,13,16,8,7,5,9,AliGon,18,20,0.99 
+2015,03,08,19:00,AliGon,PENTA,cache,CCS Kick-off Season Closed Qua..,12,16,6,9,6,7,AliGon,16,21,0.95 
+2015,03,07,19:00,AliGon,dignitas,inferno,CCS Kick-off Season Closed Qua..,16,10,13,2,3,8,AliGon,21,17,1.16 
+2015,03,07,19:00,dignitas,AliGon,cache,CCS Kick-off Season Closed Qua..,10,16,5,10,5,6,AliGon,19,19,1.05 
+2015,03,07,19:00,AliGon,dignitas,dust2,CCS Kick-off Season Closed Qua..,7,16,2,13,5,3,AliGon,9,18,0.50 
+2015,01,11,15:30,AliGon,volgare,inferno,ASUS ROG Winter 2015 Qualifier,6,16,3,12,3,4,AliGon,6,19,0.37 
+2015,01,11,14:15,unu.AiN,AliGon,nuke,ASUS ROG Winter 2015 Qualifier,16,5,12,3,4,2,AliGon,19,15,1.27 
+2014,12,18,21:00,HellRaisers,AliGon,nuke,G2A.com December Cup Powered b..,16,11,11,4,5,7,AliGon,25,21,1.23 
+2014,12,18,21:00,HellRaisers,AliGon,cache,G2A.com December Cup Powered b..,5,16,2,13,3,3,AliGon,14,14,0.88 
+2014,12,18,21:00,HellRaisers,AliGon,inferno,G2A.com December Cup Powered b..,16,8,11,4,5,4,AliGon,14,18,0.76 
+2014,10,21,18:00,AliGon,LDLC,cache,DreamHack Winter 2014 EU Close..,7,16,6,9,1,7,AliGon,13,18,0.70 
+2014,10,21,18:00,LDLC,AliGon,inferno,DreamHack Winter 2014 EU Close..,16,9,8,7,8,2,AliGon,20,18,1.01 
+2014,10,19,22:10,uN,AliGon,cache,DreamHack Winter 2014 EU pre-q..,4,16,3,12,1,4,AliGon,13,13,0.94 
+2014,09,28,18:00,PENTA,AliGon,dust2,Fragbite Masters Season 3 Qual..,16,8,12,3,4,5,AliGon,18,18,0.98 
+2014,09,24,18:00,HellRaisers,Property,mirage,Caseking of the Hill #9,13,16,9,6,4,10,Property,4,8,0.71 
+2014,08,10,20:40,AliGon,MTW,mirage,FACEIT League 2 EU pre-qualifi..,13,16,10,5,3,11,AliGon,18,19,0.90 
+2014,07,16,20:15,ESG!,AliGon,dust2,Hitbox Arena Showdown,6,16,3,12,3,4,AliGon,18,13,1.23 
+2014,07,16,20:15,AliGon,ESG!,inferno,Hitbox Arena Showdown,16,6,10,5,6,1,AliGon,13,12,0.94 
+2014,07,16,20:15,ESG!,AliGon,mirage,Hitbox Arena Showdown,16,12,6,9,10,3,AliGon,20,19,1.02 
+2014,06,22,20:00,NiP,AliGon,cache,Team Dignitas CS:GO SCAN Invit..,19,17,9,6,6,9,AliGon,38,25,1.41 
+2014,06,22,20:00,NiP,AliGon,dust2,Team Dignitas CS:GO SCAN Invit..,16,11,10,5,6,6,AliGon,20,21,0.95 
+2014,06,22,16:15,AliGon,OverGaming,cache,Team Dignitas CS:GO SCAN Invit..,16,12,14,1,2,11,AliGon,20,17,1.06 
+2014,06,22,16:15,OverGaming,AliGon,inferno,Team Dignitas CS:GO SCAN Invit..,6,16,5,10,1,6,AliGon,23,9,1.51 
+2014,06,22,16:15,OverGaming,AliGon,mirage,Team Dignitas CS:GO SCAN Invit..,16,11,11,4,5,7,AliGon,23,23,1.07 
+2014,06,16,10:00,Lemondogs,Epsilon,inferno,DreamHack Summer 2014,12,16,8,7,4,9,Lemondogs,26,19,1.33 
+2014,06,16,10:00,Epsilon,Lemondogs,dust2,DreamHack Summer 2014,16,7,11,4,5,3,Lemondogs,11,20,0.58 
+2014,06,15,21:20,Lemondogs,FlipSid3,dust2,DreamHack Summer 2014,16,1,14,1,2,0,Lemondogs,20,6,2.02 
+2014,06,15,21:20,Lemondogs,Expert,mirage,DreamHack Summer 2014,19,17,11,4,4,11,Lemondogs,22,26,0.88 
+2014,05,30,22:15,Reason,AliGon,train,DreamHack Summer 2014 Closed Q..,13,16,11,4,2,12,AliGon,23,18,1.13 
+2014,05,30,20:00,AliGon,ALTERNATEaTTaX,mirage,DreamHack Summer 2014 Closed Q..,16,7,13,2,3,5,AliGon,21,13,1.27 
+2014,05,30,19:00,LondonC,AliGon,mirage,DreamHack Summer 2014 Closed Q..,7,16,6,9,1,7,AliGon,25,16,1.46 
+2014,04,18,21:00,Publiclir.se,fnatic,mirage,Copenhagen Games 2014,9,16,4,11,5,5,Publiclir.se,15,17,0.97 
+2014,04,18,21:00,Publiclir.se,fnatic,train,Copenhagen Games 2014,11,16,10,5,1,11,Publiclir.se,22,21,1.03 

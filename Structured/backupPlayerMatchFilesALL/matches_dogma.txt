@@ -1,0 +1,7 @@
+2015,08,31,16:30,Croatia,Ukraine,cobblestone,World Championships 2015 Europ..,2,16,2,13,0,3,Croatia,8,17,0.58 
+2015,08,31,16:30,Ukraine,Croatia,inferno,World Championships 2015 Europ..,16,5,14,1,2,4,Croatia,9,19,0.55 
+2015,08,12,18:30,Cyprus,Croatia,inferno,World Championships 2015 Europ..,10,16,5,10,5,6,Croatia,13,18,0.71 
+2015,08,12,18:30,Croatia,Cyprus,cache,World Championships 2015 Europ..,16,13,9,6,7,7,Croatia,30,18,1.49 
+2015,08,12,18:30,Croatia,Cyprus,dust2,World Championships 2015 Europ..,12,16,5,10,7,6,Croatia,7,20,0.46 
+2014,08,12,21:00,Croatia,Belarus,mirage,European Championship 2014 Qua..,9,16,6,9,3,7,Croatia,16,19,0.82 
+2014,08,12,21:00,Croatia,Belarus,dust2,European Championship 2014 Qua..,3,16,1,14,2,2,Croatia,6,18,0.31 

@@ -1,0 +1,195 @@
+2016,08,13,16:00,Armenia,Bosnia&Herzegovina,mirage,World Championships 2016 Europ..,1,16,1,14,0,2,Bosnia & Herzegovina,16,4,1.72 
+2016,08,13,16:00,Armenia,Bosnia&Herzegovina,cobblestone,World Championships 2016 Europ..,1,16,1,14,0,2,Bosnia & Herzegovina,13,6,1.30 
+2016,08,08,15:15,ANOX,DenDD,mirage,xfunction Masters 2016,4,16,3,12,1,4,DenDD,13,11,1.00 
+2016,08,08,15:15,DenDD,ANOX,cobblestone,xfunction Masters 2016,16,11,6,9,10,2,DenDD,18,14,0.97 
+2016,06,02,20:00,Orbit,DenDD,mirage,Razer Rising Stars European Le..,16,6,13,2,3,4,DenDD,11,18,0.67 
+2016,06,02,20:00,DenDD,Orbit,train,Razer Rising Stars European Le..,5,16,4,11,1,5,DenDD,10,16,0.68 
+2016,06,01,22:00,DenDD,SpaceSoldiers,cache,Razer Rising Stars European Le..,8,16,6,9,2,7,DenDD,11,16,0.73 
+2016,06,01,22:00,DenDD,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,13,16,4,11,9,5,DenDD,22,19,1.10 
+2016,05,30,22:50,CPHWolves,DenDD,train,Razer Rising Stars European Le..,16,10,9,6,7,4,DenDD,15,21,0.75 
+2016,05,30,22:50,CPHWolves,DenDD,cobblestone,Razer Rising Stars European Le..,11,16,5,10,6,6,DenDD,20,11,1.21 
+2016,05,30,17:15,CPHWolves,DenDD,mirage,Operation: Kinguin #3,16,14,7,8,9,6,DenDD,23,16,1.29 
+2016,05,30,17:15,DenDD,CPHWolves,dust2,Operation: Kinguin #3,16,9,8,7,8,2,DenDD,22,16,1.17 
+2016,05,30,17:15,CPHWolves,DenDD,overpass,Operation: Kinguin #3,16,2,13,2,3,0,DenDD,9,16,0.54 
+2016,05,29,12:15,DenDD,Gambit,cache,DreamHack ZOWIE Open Summer 20..,4,16,1,14,3,2,DenDD,15,17,0.84 
+2016,05,29,12:15,DenDD,Gambit,train,DreamHack ZOWIE Open Summer 20..,16,9,11,4,5,5,DenDD,15,18,0.80 
+2016,05,29,12:15,Gambit,DenDD,cobblestone,DreamHack ZOWIE Open Summer 20..,16,12,10,5,6,7,DenDD,15,19,0.81 
+2016,05,28,18:30,DenDD,Alpha,cobblestone,DreamHack ZOWIE Open Summer 20..,16,7,12,3,4,4,DenDD,15,13,1.03 
+2016,05,23,22:25,Bpro,DenDD,mirage,Razer Rising Stars European Le..,12,16,6,9,6,7,DenDD,19,17,0.99 
+2016,05,23,22:25,Bpro,DenDD,cobblestone,Razer Rising Stars European Le..,7,16,6,9,1,7,DenDD,15,13,1.05 
+2016,05,18,20:00,AGG,DenDD,nuke,Razer Rising Stars European Le..,22,19,10,5,5,10,DenDD,37,27,1.33 
+2016,05,18,20:00,DenDD,AGG,dust2,Razer Rising Stars European Le..,8,16,3,12,5,4,DenDD,13,18,0.68 
+2016,05,18,17:15,DenDD,WorstPlayers,cache,Operation: Kinguin #3,16,5,12,3,4,2,DenDD,21,8,1.64 
+2016,05,18,17:15,DenDD,WorstPlayers,dust2,Operation: Kinguin #3,16,9,11,4,5,5,DenDD,29,9,1.98 
+2016,05,10,20:15,DenDD,AlterYourEgo,train,Operation: Kinguin #3,16,1,14,1,2,0,DenDD,12,6,1.32 
+2016,05,10,20:15,DenDD,AlterYourEgo,cache,Operation: Kinguin #3,16,6,11,4,5,2,DenDD,22,11,1.45 
+2016,05,04,20:20,k1ck,DenDD,cache,Operation: Kinguin #3,19,15,9,6,6,9,DenDD,29,26,1.01 
+2016,05,04,20:20,DenDD,k1ck,cobblestone,Operation: Kinguin #3,13,16,10,5,3,11,DenDD,20,20,0.97 
+2016,04,25,18:30,CPHWolves,DenDD,inferno,Uprise Champions Cup Season 4,16,9,10,5,6,4,DenDD,14,18,0.77 
+2016,04,25,18:30,CPHWolves,DenDD,mirage,Uprise Champions Cup Season 4,16,5,10,5,6,0,DenDD,13,20,0.75 
+2016,04,08,20:45,Epsilon,miMo,cobblestone,Yoggi Yalla Cup,16,11,9,6,7,5,miMo,20,21,0.95 
+2016,04,08,20:45,miMo,Epsilon,overpass,Yoggi Yalla Cup,5,16,5,10,0,6,miMo,10,18,0.54 
+2016,03,27,19:00,Iwku,Ancient,cobblestone,SL I-League Invitational #1 EU..,5,16,5,10,0,6,Iwku,17,18,0.90 
+2016,03,25,15:20,Iwku,SpaceSoldiers,train,Copenhagen Games 2016,7,16,2,13,5,3,Iwku,20,15,1.19 
+2016,03,25,13:00,Iwku,HellRaisers,cache,Copenhagen Games 2016,11,16,8,7,3,9,Iwku,14,19,0.76 
+2016,03,25,11:50,Iwku,RCTIC,inferno,Copenhagen Games 2016,16,7,11,4,5,3,Iwku,17,11,1.14 
+2016,03,24,23:00,Iwku,Krydsild,cache,Copenhagen Games 2016 BYOC Qua..,16,5,10,5,6,0,Iwku,16,10,1.40 
+2016,03,24,23:00,Iwku,Krydsild,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,5,13,2,3,3,Iwku,24,8,1.71 
+2016,03,24,19:00,Recursive,Iwku,overpass,Copenhagen Games 2016 BYOC Qua..,11,16,5,10,6,6,Iwku,12,20,0.63 
+2016,03,24,19:00,Iwku,Recursive,inferno,Copenhagen Games 2016 BYOC Qua..,16,5,14,1,2,4,Iwku,16,11,1.16 
+2016,03,24,15:30,GamersLeague,Iwku,cobblestone,Copenhagen Games 2016 BYOC Qua..,3,16,3,12,0,4,Iwku,12,6,1.24 
+2016,03,24,13:00,Iwku,SvQmmerICruzares,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Iwku,18,8,1.68 
+2016,03,16,22:15,dignitas,DenDD,overpass,CEVO Gfinity Professional Seas..,16,11,7,8,9,3,DenDD,13,10,1.13 
+2016,03,16,22:15,DenDD,dignitas,train,CEVO Gfinity Professional Seas..,10,16,6,9,4,7,DenDD,12,19,0.63 
+2016,03,09,23:40,miMo,Revival,overpass,Razer Rising Stars European Le..,16,12,10,5,6,7,miMo,19,18,0.96 
+2016,03,09,20:15,miMo,WEGOTGAME,train,Razer Rising Stars European Le..,16,13,12,3,4,10,miMo,24,17,1.31 
+2016,02,21,15:00,DenDD,Preparation,cache,Nordic Masters Season 2 Finals,14,16,3,12,11,4,DenDD,17,22,0.87 
+2016,02,21,15:00,DenDD,Preparation,mirage,Nordic Masters Season 2 Finals,19,22,8,7,7,8,DenDD,34,29,1.14 
+2016,02,20,14:30,BX3,DenDD,overpass,Nordic Masters Season 2 Finals,7,16,5,10,2,6,DenDD,14,16,0.78 
+2016,02,20,14:30,BX3,DenDD,mirage,Nordic Masters Season 2 Finals,14,16,9,6,5,10,DenDD,16,15,0.93 
+2016,02,20,13:30,Propertyfe,DenDD,mirage,Nordic Masters Season 2 Finals,4,16,4,11,0,5,DenDD,15,10,1.24 
+2016,02,14,21:30,DenDD,Publiclir.se,cache,CEVO Gfinity Professional Seas..,16,8,11,4,5,4,DenDD,16,15,0.96 
+2016,02,14,20:00,DenDD,PENTA,train,CEVO Gfinity Professional Seas..,16,8,8,7,8,1,DenDD,12,14,0.81 
+2016,01,30,20:45,PixelFire,DenDD,train,PGL Regional Minor Championshi..,16,5,13,2,3,3,DenDD,12,17,0.69 
+2016,01,30,20:45,DenDD,PixelFire,mirage,PGL Regional Minor Championshi..,38,41,11,4,4,11,DenDD,65,49,1.26 
+2016,01,30,15:00,Lemondogs,DenDD,mirage,PGL Regional Minor Championshi..,13,16,7,8,6,8,DenDD,22,19,1.12 
+2016,01,30,13:30,PixelFire,DenDD,cobblestone,PGL Regional Minor Championshi..,16,2,13,2,3,0,DenDD,8,15,0.70 
+2016,01,08,18:15,Blojexpressen,RCTIC,train,PGL Regional Minor Championshi..,16,5,10,5,6,0,Blojexpressen,18,7,1.37 
+2016,01,08,18:15,RCTIC,Blojexpressen,cache,PGL Regional Minor Championshi..,11,16,4,11,7,5,Blojexpressen,15,19,0.79 
+2015,12,18,21:15,DenDD,Phoenix,inferno,99Damage Arena #18,16,19,10,5,5,10,DenDD,21,21,0.93 
+2015,12,18,21:15,DenDD,Phoenix,mirage,99Damage Arena #18,9,16,9,6,0,10,DenDD,13,20,0.64 
+2015,12,17,21:00,SK,DenDD,overpass,Acer Predator Masters powered ..,16,10,7,8,9,2,DenDD,11,25,0.54 
+2015,12,17,21:00,SK,DenDD,cobblestone,Acer Predator Masters powered ..,16,3,12,3,4,0,DenDD,12,17,0.71 
+2015,12,15,21:00,mousesports,DenDD,mirage,Acer Predator Masters powered ..,21,19,7,8,8,7,DenDD,29,26,1.18 
+2015,12,02,18:00,TSM,DenDD,overpass,Fragbite Masters Season 5,19,16,4,11,11,4,DenDD,16,26,0.72 
+2015,12,02,18:00,TSM,DenDD,inferno,Fragbite Masters Season 5,11,16,11,4,0,12,DenDD,15,14,0.99 
+2015,12,02,18:00,TSM,DenDD,cache,Fragbite Masters Season 5,16,9,9,6,7,3,DenDD,12,19,0.74 
+2015,12,01,21:00,DenDD,SK,mirage,Fragbite Masters Season 5,16,19,11,4,4,11,DenDD,22,21,1.00 
+2015,12,01,21:00,DenDD,SK,train,Fragbite Masters Season 5,6,16,4,11,2,5,DenDD,13,16,0.77 
+2015,12,01,21:00,DenDD,SK,cobblestone,Fragbite Masters Season 5,16,10,7,8,9,2,DenDD,19,14,1.08 
+2015,11,26,19:00,DenDD,KILLERFISH,overpass,Acer Predator Masters powered ..,16,14,13,2,3,12,DenDD,12,23,0.58 
+2015,11,26,19:00,DenDD,KILLERFISH,cobblestone,Acer Predator Masters powered ..,16,13,7,8,9,5,DenDD,22,20,1.19 
+2015,11,21,18:00,DenDD,KILLERFISH,train,Game Show Global eSports Cup 2..,16,13,9,6,7,7,DenDD,10,20,0.64 
+2015,11,21,18:00,KILLERFISH,DenDD,cache,Game Show Global eSports Cup 2..,16,11,7,8,9,3,DenDD,12,21,0.60 
+2015,11,21,18:00,KILLERFISH,DenDD,cobblestone,Game Show Global eSports Cup 2..,7,16,6,9,1,7,DenDD,18,14,1.12 
+2015,11,20,21:00,DenDD,Revolte,overpass,Game Show Global eSports Cup 2..,16,13,10,5,6,8,DenDD,23,22,1.18 
+2015,11,20,21:00,Revolte,DenDD,mirage,Game Show Global eSports Cup 2..,16,14,8,7,8,7,DenDD,32,18,1.51 
+2015,11,20,21:00,Revolte,DenDD,cobblestone,Game Show Global eSports Cup 2..,6,16,6,9,0,7,DenDD,20,13,1.33 
+2015,11,16,21:00,DenDD,dignitas,cobblestone,Global Offensive Champions Lea..,11,16,4,11,7,5,DenDD,15,21,0.71 
+2015,11,16,21:00,DenDD,dignitas,train,Global Offensive Champions Lea..,16,14,10,5,6,9,DenDD,18,19,0.96 
+2015,11,16,21:00,DenDD,dignitas,cache,Global Offensive Champions Lea..,3,16,3,12,0,4,DenDD,9,17,0.54 
+2015,11,04,18:00,DenDD,CSGL,mirage,Acer Predator Masters powered ..,16,8,10,5,6,3,DenDD,17,13,1.28 
+2015,11,04,18:00,DenDD,CSGL,cache,Acer Predator Masters powered ..,6,16,3,12,3,4,DenDD,14,18,0.89 
+2015,11,03,20:30,Lions,DenDD,overpass,Fragbite Masters Season 5,14,16,6,9,8,7,DenDD,17,26,0.68 
+2015,11,03,20:30,DenDD,Lions,cache,Fragbite Masters Season 5,16,11,8,7,8,4,DenDD,15,19,0.88 
+2015,10,28,19:30,DenDD,Orgless,cache,Global Offensive Champions Lea..,16,4,14,1,2,3,DenDD,19,9,1.53 
+2015,10,28,19:30,Orgless,DenDD,cobblestone,Global Offensive Champions Lea..,16,7,9,6,7,1,DenDD,10,20,0.47 
+2015,10,28,19:30,Orgless,DenDD,mirage,Global Offensive Champions Lea..,10,16,8,7,2,9,DenDD,12,13,0.91 
+2015,10,23,20:00,LDLCWhite,DenDD,cache,Acer Predator Masters powered ..,16,9,7,8,9,1,DenDD,19,19,0.92 
+2015,10,23,20:00,LDLCWhite,DenDD,cobblestone,Acer Predator Masters powered ..,12,16,6,9,6,7,DenDD,21,18,1.15 
+2015,10,14,21:45,SK,DenDD,overpass,99Damage Masters #3,11,16,7,8,4,8,DenDD,21,15,1.31 
+2015,10,14,21:45,DenDD,SK,cobblestone,99Damage Masters #3,16,6,9,6,7,0,DenDD,15,13,1.09 
+2015,10,13,18:00,Vexed,DenDD,overpass,99Damage Masters #3,12,16,9,6,3,10,DenDD,21,18,1.08 
+2015,10,13,18:00,Vexed,DenDD,inferno,99Damage Masters #3,16,14,8,7,8,7,DenDD,16,23,0.71 
+2015,10,13,18:00,Vexed,DenDD,cobblestone,99Damage Masters #3,14,16,9,6,5,10,DenDD,17,19,0.83 
+2015,10,12,18:00,HellRaisers,DenDD,mirage,Acer Predator Masters powered ..,14,16,9,6,5,10,DenDD,18,20,0.91 
+2015,10,12,18:00,DenDD,HellRaisers,cobblestone,Acer Predator Masters powered ..,12,16,9,6,3,10,DenDD,15,20,0.74 
+2015,10,11,18:00,Arcade,DenDD,cobblestone,Global Offensive Champions Lea..,9,16,2,13,7,3,DenDD,25,13,1.44 
+2015,10,11,18:00,Arcade,DenDD,mirage,Global Offensive Champions Lea..,7,16,7,8,0,8,DenDD,11,10,0.96 
+2015,10,07,22:15,Titan,Property,inferno,CEVO Professional Season 8,13,16,7,8,6,8,Property,20,20,1.03 
+2015,10,07,22:15,Property,Titan,cobblestone,CEVO Professional Season 8,5,16,4,11,1,5,Property,11,16,0.74 
+2015,10,04,18:30,ttc,CPHWolves,mirage,Fragbite Masters Season 5 Main..,16,14,6,9,10,5,CPH Wolves,16,21,0.81 
+2015,10,04,18:30,CPHWolves,ttc,cobblestone,Fragbite Masters Season 5 Main..,9,16,6,9,3,7,CPH Wolves,17,20,1.01 
+2015,10,04,18:30,ttc,CPHWolves,cache,Fragbite Masters Season 5 Main..,14,16,6,9,8,7,CPH Wolves,15,23,0.67 
+2015,09,23,20:20,Orbit,Property,train,GameAgents League Season 2,9,16,5,10,4,6,Property,32,14,2.01 
+2015,09,23,20:20,Orbit,Property,inferno,GameAgents League Season 2,5,16,4,11,1,5,Property,14,12,1.02 
+2015,09,18,22:00,Property,nerdRage,mirage,GameAgents League Season 2,10,16,6,9,4,7,Property,12,19,0.67 
+2015,09,18,22:00,nerdRage,Property,cache,GameAgents League Season 2,19,16,7,8,8,7,Property,22,26,0.88 
+2015,09,17,22:30,Bosnia&Herzegovina,Sweden,dust2,World Championships 2015 Europ..,2,16,2,13,0,3,Bosnia & Herzegovina,8,16,0.46 
+2015,09,16,22:15,Property,G2,mirage,CEVO Professional Season 8,9,16,5,10,4,6,Property,6,21,0.35 
+2015,09,16,22:15,G2,Property,cache,CEVO Professional Season 8,16,14,7,8,9,6,Property,21,19,1.10 
+2015,09,16,20:00,CPHWolves,Property,cache,CEVO Professional Season 8,14,16,5,10,9,6,Property,24,21,1.11 
+2015,09,16,20:00,Property,CPHWolves,mirage,CEVO Professional Season 8,11,16,8,7,3,9,Property,17,21,0.86 
+2015,09,14,22:15,E-frag.net,Property,cache,CEVO Professional Season 8,16,7,11,4,5,3,Property,10,17,0.65 
+2015,09,14,22:15,Property,E-frag.net,overpass,CEVO Professional Season 8,8,16,4,11,4,5,Property,8,19,0.45 
+2015,09,05,19:40,LosJefes,dope,cache,DreamHack Open Cluj-Napoca 201..,16,9,11,4,5,5,dope,15,19,0.79 
+2015,09,02,20:00,dignitas,Property,train,GameAgents League Season 2,16,3,12,3,4,0,Property,8,18,0.46 
+2015,09,02,20:00,dignitas,Property,overpass,GameAgents League Season 2,8,16,7,8,1,8,Property,23,19,1.19 
+2015,09,01,20:15,INFINITY,Property,cache,CEVO Professional Season 8,12,16,8,7,4,9,Property,25,21,1.14 
+2015,09,01,20:15,Property,INFINITY,cobblestone,CEVO Professional Season 8,16,8,8,7,8,1,Property,19,15,1.18 
+2015,08,31,18:00,Reason,Property,overpass,GameAgents League Season 2,14,16,6,9,8,7,Property,19,21,0.89 
+2015,08,31,18:00,Property,Reason,inferno,GameAgents League Season 2,12,16,11,4,1,12,Property,17,21,0.90 
+2015,08,27,20:15,Property,HellRaisers,inferno,CEVO Professional Season 8,9,16,6,9,3,7,Property,22,21,1.19 
+2015,08,27,20:15,HellRaisers,Property,cobblestone,CEVO Professional Season 8,16,9,12,3,4,6,Property,9,19,0.57 
+2015,08,26,22:45,Dobry&Gaming,Property,cache,CEVO Professional Season 8,19,22,7,8,8,7,Property,21,31,0.75 
+2015,08,26,22:45,Property,Dobry&Gaming,mirage,CEVO Professional Season 8,10,16,10,5,0,11,Property,22,19,1.13 
+2015,08,26,20:45,Property,dignitas,overpass,CEVO Professional Season 8,9,16,2,13,7,3,Property,10,19,0.55 
+2015,08,26,20:45,dignitas,Property,mirage,CEVO Professional Season 8,19,17,8,7,7,8,Property,20,27,0.81 
+2015,08,26,18:30,Property,E-frag.net,train,GameAgents League Season 2,16,14,5,10,11,4,Property,18,22,0.83 
+2015,08,26,18:30,Property,E-frag.net,cache,GameAgents League Season 2,14,16,10,5,4,11,Property,20,22,1.03 
+2015,08,26,16:00,FlipSid3,Property,inferno,GameAgents League Season 2,19,16,11,4,4,11,Property,19,23,0.82 
+2015,08,26,16:00,FlipSid3,Property,mirage,GameAgents League Season 2,16,14,6,9,10,5,Property,23,19,1.15 
+2015,08,19,20:30,Property,PENTA,inferno,CEVO Professional Season 8,10,16,3,12,7,4,Property,9,22,0.46 
+2015,08,19,20:30,PENTA,Property,cache,CEVO Professional Season 8,14,16,7,8,7,8,Property,28,18,1.40 
+2015,08,10,20:00,HellRaisers,Property,cobblestone,CEVO Professional Season 8 Pla..,16,7,10,5,6,2,Property,9,11,0.80 
+2015,08,10,20:00,HellRaisers,Property,cache,CEVO Professional Season 8 Pla..,16,19,6,9,9,6,Property,19,24,0.79 
+2015,08,10,20:00,Property,HellRaisers,overpass,CEVO Professional Season 8 Pla..,12,16,8,7,4,9,Property,15,19,0.83 
+2015,07,28,18:00,Property,HellRaisers,inferno,Global Offensive Champions Lea..,12,16,10,5,2,11,Property,24,23,1.13 
+2015,07,28,18:00,Property,HellRaisers,dust2,Global Offensive Champions Lea..,6,16,6,9,0,7,Property,16,17,1.00 
+2015,07,28,18:00,Property,HellRaisers,cache,Global Offensive Champions Lea..,16,12,12,3,4,9,Property,17,15,1.07 
+2015,07,25,18:45,FlipSid3,Property,cobblestone,ESL One Cologne 2015 European ..,16,3,12,3,4,0,Property,8,19,0.38 
+2015,07,25,15:45,Property,dignitas,cobblestone,ESL One Cologne 2015 European ..,14,16,8,7,6,9,Property,16,22,0.70 
+2015,07,25,13:30,PiTER,Property,cache,ESL One Cologne 2015 European ..,7,16,3,12,4,4,Property,15,12,0.97 
+2015,07,19,18:00,G2,Property,cache,Global Offensive Champions Lea..,10,16,6,9,4,7,Property,20,16,1.05 
+2015,07,19,18:00,Property,G2,train,Global Offensive Champions Lea..,16,11,10,5,6,6,Property,16,17,0.86 
+2015,07,05,18:00,1337,NatusVincere,mirage,Global Offensive Champions Lea..,2,16,2,13,0,3,1337,4,18,0.19 
+2015,07,05,18:00,NatusVincere,1337,inferno,Global Offensive Champions Lea..,16,11,13,2,3,9,1337,14,21,0.68 
+2015,06,28,16:30,1337,LGB,mirage,ESL One Cologne 2015 EU pre-qu..,16,10,9,6,7,4,1337,23,19,1.11 
+2015,06,28,16:30,1337,LGB,inferno,ESL One Cologne 2015 EU pre-qu..,16,11,8,7,8,4,1337,20,16,1.19 
+2015,06,28,16:30,LGB,1337,cache,ESL One Cologne 2015 EU pre-qu..,16,13,9,6,7,7,1337,21,23,0.91 
+2015,05,30,11:30,VingeN,dignitas,cache,DreamHack Open Summer 2015 Clo..,8,16,4,11,4,5,VingeN,12,22,0.58 
+2015,05,30,11:30,VingeN,dignitas,inferno,DreamHack Open Summer 2015 Clo..,8,16,6,9,2,7,VingeN,8,21,0.40 
+2015,05,26,20:00,EZPZ_LS,H2B,cache,Balkan Championship Season 2,16,5,14,1,2,4,EZPZ_LS,17,10,1.27 
+2015,05,26,20:00,H2B,EZPZ_LS,mirage,Balkan Championship Season 2,6,16,5,10,1,6,EZPZ_LS,14,10,1.11 
+2015,05,26,20:00,H2B,EZPZ_LS,dust2,Balkan Championship Season 2,19,17,5,10,10,5,EZPZ_LS,26,21,1.10 
+2015,05,23,23:30,VingeN,INSHOCK,inferno,DreamHack Open Summer 2015 Qua..,16,3,12,3,4,0,VingeN,15,8,1.53 
+2015,05,23,22:30,TRICKED,VingeN,cache,DreamHack Open Summer 2015 Qua..,10,16,6,9,4,7,VingeN,19,18,1.02 
+2015,05,22,18:00,EZPZ_LS,mesport.hu,cache,Balkan Championship Season 2,16,8,13,2,3,6,EZPZ_LS,18,14,1.14 
+2015,05,22,18:00,mesport.hu,EZPZ_LS,inferno,Balkan Championship Season 2,7,16,6,9,1,7,EZPZ_LS,23,15,1.45 
+2015,05,05,20:30,SpaceSoldiers,EZPZ_LS,mirage,Balkan Championship Season 2,16,9,12,3,4,6,EZPZ_LS,12,18,0.68 
+2015,05,05,20:30,SpaceSoldiers,EZPZ_LS,cache,Balkan Championship Season 2,16,10,6,9,10,1,EZPZ_LS,18,22,0.82 
+2014,12,11,21:09,mousesports,FlipSid3,cache,G2A.com December Cup Powered b..,16,13,8,7,8,6,FlipSid3,9,24,0.40 
+2014,12,11,21:00,mousesports,FlipSid3,mirage,G2A.com December Cup Powered b..,16,14,9,6,7,8,FlipSid3,22,19,1.11 
+2014,11,27,23:45,NatusVincere,FlipSid3,overpass,DreamHack Winter 2014,19,15,8,7,7,8,FlipSid3,13,23,0.62 
+2014,11,27,22:35,FlipSid3,myXMG,mirage,DreamHack Winter 2014,16,11,7,8,9,3,FlipSid3,16,20,0.77 
+2014,11,27,19:45,NatusVincere,FlipSid3,mirage,DreamHack Winter 2014,16,8,13,2,3,6,FlipSid3,8,19,0.47 
+2014,11,25,22:40,FlipSid3,mousesports,dust2,99Damage Arena #1,9,16,4,11,5,5,FlipSid3,16,20,0.81 
+2014,11,25,22:40,FlipSid3,mousesports,mirage,99Damage Arena #1,15,19,10,5,5,10,FlipSid3,15,27,0.69 
+2014,11,25,19:00,FlipSid3,CPHWolves,nuke,99Damage Arena #1,5,16,5,10,0,6,FlipSid3,11,17,0.70 
+2014,11,25,19:00,CPHWolves,FlipSid3,cache,99Damage Arena #1,15,19,9,6,6,9,FlipSid3,22,24,0.92 
+2014,11,25,19:00,FlipSid3,CPHWolves,inferno,99Damage Arena #1,14,16,10,5,4,11,FlipSid3,16,21,0.77 
+2014,11,24,19:03,Orbit,FlipSid3,cache,Go4CS:GO Europe Pro League Win..,16,10,8,7,8,3,FlipSid3,7,21,0.43 
+2014,11,24,19:00,Orbit,FlipSid3,mirage,Go4CS:GO Europe Pro League Win..,16,3,12,3,4,0,FlipSid3,10,17,0.56 
+2014,11,22,20:00,FlipSid3,CPHWolves,cobblestone,DreamHack Winter 2014 Last Cal..,6,16,3,12,3,4,FlipSid3,7,18,0.47 
+2014,11,22,17:00,FlipSid3,LondonC,inferno,DreamHack Winter 2014 Last Cal..,16,13,13,2,3,11,FlipSid3,12,18,0.72 
+2014,11,22,17:00,LondonC,FlipSid3,cache,DreamHack Winter 2014 Last Cal..,13,16,6,9,7,7,FlipSid3,13,19,0.76 
+2014,11,09,23:30,FlipSid3,mousesports,cache,Go4CS:GO Cup #120,26,31,7,8,8,7,FlipSid3,37,44,0.86 
+2014,11,09,23:30,mousesports,FlipSid3,overpass,Go4CS:GO Cup #120,16,14,13,2,3,12,FlipSid3,20,19,0.97 
+2014,11,03,22:30,Bosnia&Herzegovina,Slovakia,dust2,European Championship 2014,13,16,7,8,6,8,Bosnia & Herzegovina,23,19,1.14 
+2014,11,03,22:30,Slovakia,Bosnia&Herzegovina,mirage,European Championship 2014,16,7,10,5,6,2,Bosnia & Herzegovina,10,16,0.66 
+2014,10,22,19:00,myXMG,FlipSid3,inferno,DreamHack Winter 2014 EU Close..,16,9,13,2,3,7,FlipSid3,12,19,0.67 
+2014,10,22,19:00,myXMG,FlipSid3,overpass,DreamHack Winter 2014 EU Close..,16,14,7,8,9,6,FlipSid3,14,22,0.67 
+2014,10,22,19:00,FlipSid3,myXMG,mirage,DreamHack Winter 2014 EU Close..,16,11,12,3,4,8,FlipSid3,21,16,1.15 
+2014,10,21,23:00,Planetkey,FlipSid3,dust2,DreamHack Winter 2014 EU Close..,16,5,10,5,6,0,FlipSid3,5,16,0.42 
+2014,10,21,23:00,Planetkey,FlipSid3,inferno,DreamHack Winter 2014 EU Close..,16,4,13,2,3,2,FlipSid3,11,17,0.67 
+2014,10,21,18:00,FlipSid3,3DMAX,cache,DreamHack Winter 2014 EU Close..,21,18,7,8,8,7,FlipSid3,23,26,0.89 
+2014,10,21,18:00,3DMAX,FlipSid3,overpass,DreamHack Winter 2014 EU Close..,16,4,14,1,2,3,FlipSid3,8,18,0.47 
+2014,10,21,18:00,FlipSid3,3DMAX,mirage,DreamHack Winter 2014 EU Close..,16,8,11,4,5,4,FlipSid3,16,15,0.96 
+2014,10,19,03:20,duttdutt,FlipSid3,mirage,DreamHack Winter 2014 EU pre-q..,6,16,6,9,0,7,FlipSid3,11,11,0.90 
+2014,10,19,02:25,FlipSid3,PENTA,cache,DreamHack Winter 2014 EU pre-q..,16,8,11,4,5,4,FlipSid3,15,10,1.19 
+2014,10,19,00:50,FlipSid3,volgare,inferno,DreamHack Winter 2014 EU pre-q..,16,12,11,4,5,8,FlipSid3,22,18,1.13 
+2014,10,16,22:00,Bosnia&Herzegovina,CzechRepublic,mirage,European Championship 2014,16,11,11,4,5,7,Bosnia & Herzegovina,24,16,1.46 
+2014,10,12,20:25,Netherlands,Bosnia&Herzegovina,mirage,European Championship 2014,16,2,13,2,3,0,Bosnia & Herzegovina,6,17,0.32 
+2014,10,07,22:20,Ukraine,Bosnia&Herzegovina,mirage,European Championship 2014,12,16,11,4,1,12,Bosnia & Herzegovina,27,17,1.48 
+2014,09,25,20:00,Hungary,Bosnia&Herzegovina,inferno,European Championship 2014,16,13,7,8,9,5,Bosnia & Herzegovina,17,18,0.83 
+2014,09,07,19:00,Kazakhstan,Bosnia&Herzegovina,mirage,European Championship 2014,10,16,7,8,3,8,Bosnia & Herzegovina,19,14,1.10 

@@ -1,0 +1,14 @@
+2015,10,29,14:00,Enervate,ProjectSkyline,mirage,QuickShot Showmatches,16,8,9,6,7,2,Project Skyline,8,20,0.44 
+2015,10,29,14:00,Enervate,ProjectSkyline,dust2,QuickShot Showmatches,16,4,11,4,5,0,Project Skyline,5,19,0.28 
+2015,09,16,19:00,Kazakhstan,Romania,cache,World Championships 2015 Europ..,16,14,7,8,9,6,Kazakhstan,17,21,0.89 
+2015,09,16,18:00,Kazakhstan,Portugal,dust2,World Championships 2015 Europ..,3,16,2,13,1,3,Kazakhstan,8,17,0.50 
+2015,09,15,18:00,Denmark,Kazakhstan,cache,World Championships 2015 Europ..,8,16,8,7,0,9,Kazakhstan,17,15,1.04 
+2015,09,15,17:00,Kazakhstan,Latvia,dust2,World Championships 2015 Europ..,8,16,3,12,5,4,Kazakhstan,8,20,0.44 
+2015,09,14,21:00,Kazakhstan,Poland,mirage,World Championships 2015 Europ..,16,10,7,8,9,2,Kazakhstan,18,20,0.90 
+2014,11,03,16:30,Kazakhstan,Denmark,dust2,European Championship 2014,9,16,6,9,3,7,Kazakhstan,8,22,0.43 
+2014,11,03,16:30,Denmark,Kazakhstan,nuke,European Championship 2014,16,11,12,3,4,8,Kazakhstan,10,20,0.54 
+2014,09,23,22:00,CzechRepublic,Kazakhstan,dust2,European Championship 2014,10,16,4,11,6,5,Kazakhstan,13,15,0.82 
+2014,09,23,19:00,EZpeezy,k1ck,dust2,Fragbite Masters Season 3 Qual..,9,16,3,12,6,4,EZpeezy,11,19,0.61 
+2014,09,14,20:00,Kazakhstan,Ukraine,dust2,European Championship 2014,9,16,7,8,2,8,Kazakhstan,15,20,0.87 
+2014,09,11,19:00,Hungary,Kazakhstan,nuke,European Championship 2014,7,16,7,8,0,8,Kazakhstan,12,16,0.73 
+2014,09,07,19:00,Kazakhstan,Bosnia&Herzegovina,mirage,European Championship 2014,10,16,7,8,3,8,Kazakhstan,9,18,0.67 

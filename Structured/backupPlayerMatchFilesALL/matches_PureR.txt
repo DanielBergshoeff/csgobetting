@@ -1,0 +1,2 @@
+2016,02,14,22:00,Cloud9,DayDreamers,cache,IEM Katowice 2016 NA Qualifier,16,11,6,9,10,2,Day Dreamers,22,22,1.11 
+2016,02,14,22:00,DayDreamers,Cloud9,inferno,IEM Katowice 2016 NA Qualifier,6,16,5,10,1,6,Day Dreamers,5,19,0.30 

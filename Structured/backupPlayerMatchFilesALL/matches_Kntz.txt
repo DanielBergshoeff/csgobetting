@@ -1,0 +1,7 @@
+2016,03,12,13:30,MiTH,Signature,overpass,DreamHack Masters Malmö 2016 A..,12,16,10,5,2,11,MiTH,19,21,0.96 
+2016,02,27,13:00,MiTH,dream[S]cape,cobblestone,Born To Win Invitational Leagu..,14,16,3,12,11,4,MiTH,16,20,0.79 
+2016,02,27,13:00,MiTH,dream[S]cape,dust2,Born To Win Invitational Leagu..,14,16,10,5,4,11,MiTH,18,23,0.83 
+2016,02,27,13:00,dream[S]cape,MiTH,cache,Born To Win Invitational Leagu..,5,16,5,10,0,6,MiTH,17,12,1.27 
+2016,02,26,14:00,J2G,MiTH,cobblestone,Born To Win Invitational Leagu..,16,3,12,3,4,0,MiTH,2,17,0.17 
+2016,02,26,14:00,MiTH,J2G,mirage,Born To Win Invitational Leagu..,12,16,7,8,5,8,MiTH,11,23,0.56 
+2016,02,26,14:00,J2G,MiTH,overpass,Born To Win Invitational Leagu..,10,16,4,11,6,5,MiTH,20,18,0.94 

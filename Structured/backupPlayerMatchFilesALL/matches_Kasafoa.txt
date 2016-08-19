@@ -1,0 +1,7 @@
+2016,03,25,22:00,Orbitfe,Area08fe,cobblestone,Copenhagen Games 2016 female,8,16,5,10,3,6,Orbit fe,7,19,0.44 
+2016,03,25,22:00,Orbitfe,Area08fe,mirage,Copenhagen Games 2016 female,16,2,13,2,3,0,Orbit fe,18,9,1.47 
+2016,03,25,22:00,Area08fe,Orbitfe,cache,Copenhagen Games 2016 female,16,8,12,3,4,5,Orbit fe,21,17,1.19 
+2016,03,25,12:00,Secretfe,Orbitfe,mirage,Copenhagen Games 2016 female,16,6,11,4,5,2,Orbit fe,7,20,0.34 
+2016,03,25,12:00,Secretfe,Orbitfe,cobblestone,Copenhagen Games 2016 female,16,9,9,6,7,3,Orbit fe,18,21,0.92 
+2015,12,09,19:30,nEophyte,Orbitfe,inferno,QuickShot Arena #18,16,2,13,2,3,0,Orbit fe,3,17,0.22 
+2015,12,09,18:15,LondonC,Orbitfe,overpass,QuickShot Arena #18,16,1,14,1,2,0,Orbit fe,7,17,0.38 

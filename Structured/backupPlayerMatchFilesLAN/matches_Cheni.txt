@@ -1,0 +1,2 @@
+2015,10,03,08:00,DeToNator,RapturePlay,cache,JCG CS:GO Premier 2015 Summer,8,16,4,11,4,5,Rapture Play,11,13,0.83 
+2015,10,03,08:00,RapturePlay,DeToNator,dust2,JCG CS:GO Premier 2015 Summer,22,19,6,9,9,6,Rapture Play,14,26,0.61 

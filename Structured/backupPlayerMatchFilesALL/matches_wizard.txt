@@ -1,0 +1,36 @@
+2016,08,15,12:30,AthleticoBH,SYF,mirage,ESEA Open Season 22 Oceania,16,10,7,8,9,2,Athletico BH,16,20,0.86 
+2016,08,15,12:30,AthleticoBH,SYF,nuke,ESEA Open Season 22 Oceania,14,16,6,9,8,7,Athletico BH,21,21,1.00 
+2016,08,15,12:30,AthleticoBH,SYF,overpass,ESEA Open Season 22 Oceania,16,7,10,5,6,2,Athletico BH,20,16,1.13 
+2016,08,11,12:30,Incept,AthleticoBH,cache,ESEA Open Season 22 Oceania,12,16,3,12,9,4,Athletico BH,20,17,1.08 
+2016,08,11,12:30,Incept,AthleticoBH,train,ESEA Open Season 22 Oceania,21,25,11,4,4,11,Athletico BH,28,28,0.94 
+2016,08,07,09:30,AthleticoBH,MVPproject,cobblestone,SL i-League S2 China Finals,11,16,3,12,8,4,Athletico BH,13,22,0.77 
+2016,08,07,09:30,AthleticoBH,MVPproject,train,SL i-League S2 China Finals,14,16,4,11,10,5,Athletico BH,19,20,0.92 
+2016,08,07,09:30,MVPproject,AthleticoBH,nuke,SL i-League S2 China Finals,11,16,10,5,1,11,Athletico BH,18,18,1.00 
+2016,08,07,06:00,AthleticoBH,TyLoo,train,SL i-League S2 China Finals,2,16,2,13,0,3,Athletico BH,4,17,0.23 
+2016,08,07,06:00,TyLoo,AthleticoBH,dust2,SL i-League S2 China Finals,16,5,11,4,5,1,Athletico BH,6,17,0.42 
+2016,08,07,06:00,AthleticoBH,TyLoo,mirage,SL i-League S2 China Finals,16,13,6,9,10,4,Athletico BH,23,20,1.06 
+2016,08,06,06:00,AthleticoBH,New4,overpass,SL i-League S2 China Finals,16,14,11,4,5,10,Athletico BH,23,22,0.99 
+2016,08,06,06:00,AthleticoBH,New4,dust2,SL i-League S2 China Finals,16,12,10,5,6,7,Athletico BH,20,23,0.89 
+2016,08,06,06:00,New4,AthleticoBH,mirage,SL i-League S2 China Finals,16,6,12,3,4,3,Athletico BH,8,19,0.49 
+2016,07,26,12:00,Skyfire,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,7,16,5,10,2,6,Athletico BH,20,12,1.50 
+2016,07,26,12:00,Skyfire,AthleticoBH,cache,CyberGamer Oceania eSports Mas..,16,13,8,7,8,6,Athletico BH,10,27,0.36 
+2016,07,26,12:00,AthleticoBH,Skyfire,train,CyberGamer Oceania eSports Mas..,16,5,11,4,5,1,Athletico BH,17,11,1.31 
+2016,07,18,12:00,AthleticoBH,Chiefs,train,CyberGamer Oceania eSports Mas..,16,8,12,3,4,5,Athletico BH,19,18,1.06 
+2016,07,18,12:00,Chiefs,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,3,16,3,12,0,4,Athletico BH,21,10,1.55 
+2016,07,18,12:00,AthleticoBH,Chiefs,cache,CyberGamer Oceania eSports Mas..,5,16,4,11,1,5,Athletico BH,16,16,1.11 
+2016,07,17,12:00,AthleticoBH,GUTS,cache,CyberGamer Oceania eSports Mas..,16,6,13,2,3,4,Athletico BH,19,14,1.31 
+2016,07,17,12:00,AthleticoBH,GUTS,dust2,CyberGamer Oceania eSports Mas..,16,4,13,2,3,2,Athletico BH,29,7,2.41 
+2016,07,11,11:30,AthleticoBH,Parallax,overpass,CyberGamer Oceania eSports Mas..,16,10,9,6,7,4,Athletico BH,21,14,1.23 
+2016,07,11,11:30,AthleticoBH,Parallax,train,CyberGamer Oceania eSports Mas..,16,9,10,5,6,4,Athletico BH,20,14,1.21 
+2016,07,11,11:30,Parallax,AthleticoBH,cache,CyberGamer Oceania eSports Mas..,16,6,10,5,6,1,Athletico BH,13,18,0.75 
+2016,07,03,12:00,AthleticoBH,Exile5,overpass,CyberGamer Oceania eSports Mas..,16,4,12,3,4,1,Athletico BH,16,8,1.33 
+2016,07,03,12:00,Exile5,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,17,19,10,5,5,10,Athletico BH,22,25,0.87 
+2016,01,16,02:00,AlphaSydney,Chiefs,inferno,IEM Taipei 2016 Oceania Qualif..,1,16,1,14,0,2,Alpha Sydney,5,16,0.33 
+2016,01,16,02:00,AlphaSydney,Chiefs,cache,IEM Taipei 2016 Oceania Qualif..,23,25,10,5,5,10,Alpha Sydney,34,37,0.92 
+2015,06,21,13:00,Renegades,DireWolves,inferno,FACEIT League 2015 Stage 2,16,5,11,4,5,1,Dire Wolves,13,19,0.71 
+2015,05,31,14:00,DireWolves,AVANTGARDE,cache,FACEIT League 2015 Stage 2,16,6,12,3,4,3,Dire Wolves,19,8,1.50 
+2015,05,29,12:00,Steelseries,DireWolves,inferno,FACEIT League 2015 Stage 2 Oce..,14,16,8,7,6,9,Dire Wolves,18,20,0.89 
+2015,05,29,12:00,Steelseries,DireWolves,cache,FACEIT League 2015 Stage 2 Oce..,10,16,9,6,1,10,Dire Wolves,13,14,0.93 
+2015,05,27,11:00,DireWolves,Dynasty,mirage,FACEIT League 2015 Stage 2 Oce..,16,11,11,4,5,7,Dire Wolves,19,17,1.11 
+2015,05,27,11:00,Dynasty,DireWolves,dust2,FACEIT League 2015 Stage 2 Oce..,6,16,6,9,0,7,Dire Wolves,22,12,1.50 
+2015,05,27,11:00,Dynasty,DireWolves,cache,FACEIT League 2015 Stage 2 Oce..,16,11,8,7,8,4,Dire Wolves,17,16,0.97 

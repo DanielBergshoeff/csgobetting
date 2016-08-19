@@ -1,0 +1,15 @@
+2015,10,17,21:45,TMVG,RCTIC,cobblestone,Jimm's CS:GO Challenge,8,16,7,8,1,8,TMVG,16,18,0.95 
+2015,10,17,21:45,TMVG,RCTIC,dust2,Jimm's CS:GO Challenge,13,16,5,10,8,6,TMVG,17,20,0.90 
+2015,10,17,16:30,TMVG,JDWI,dust2,Jimm's CS:GO Challenge,16,9,10,5,6,4,TMVG,17,14,1.11 
+2015,10,17,16:30,TMVG,JDWI,inferno,Jimm's CS:GO Challenge,16,4,12,3,4,1,TMVG,8,10,0.77 
+2015,07,30,20:00,SkitLite,ROCCAT,cache,Assembly Summer 2015 AMD CS:GO..,8,16,5,10,3,6,SkitLite,9,18,0.61 
+2015,07,30,18:00,KappaKappa,SkitLite,cache,Assembly Summer 2015 AMD CS:GO..,11,16,8,7,3,9,SkitLite,17,15,0.97 
+2015,07,30,16:00,SkitLite,eBettle,cobblestone,Assembly Summer 2015 AMD CS:GO..,8,16,4,11,4,5,SkitLite,16,19,0.90 
+2014,10,04,16:50,Hanatauki,GLSHAKER,cache,Areena #5 by ROCCAT,15,15,8,7,7,8,GL SHAKER,18,24,0.82 
+2014,10,04,15:45,GLSHAKER,Menace,inferno,Areena #5 by ROCCAT,13,16,8,7,5,9,GL SHAKER,16,23,0.73 
+2014,10,04,14:15,ROTY,GLSHAKER,cache,Areena #5 by ROCCAT,16,6,9,6,7,0,GL SHAKER,4,21,0.19 
+2014,10,04,14:00,GLSHAKER,Jynttä,inferno,Areena #5 by ROCCAT,13,16,9,6,4,10,GL SHAKER,21,20,1.04 
+2014,10,04,12:00,GLSHAKER,myMDL,mirage,Areena #5 by ROCCAT,16,13,9,6,7,7,GL SHAKER,16,20,0.83 
+2014,10,04,10:55,GLSHAKER,Superstars,dust2,Areena #5 by ROCCAT,6,16,5,10,1,6,GL SHAKER,11,17,0.67 
+2014,07,31,22:30,naMNam,ajuri,cache,ASUS ROG Summer 2014,16,1,14,1,2,0,ajuri,6,17,0.36 
+2014,07,31,21:30,myRevenge,ajuri,mirage,ASUS ROG Summer 2014,16,9,8,7,8,2,ajuri,17,17,0.99 

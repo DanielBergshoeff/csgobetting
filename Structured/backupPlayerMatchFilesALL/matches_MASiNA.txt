@@ -1,0 +1,7 @@
+2014,05,25,21:00,iNation,E-Frag,inferno,Gaming Challenge 2014,16,5,11,4,5,1,E-Frag,13,18,0.80 
+2014,05,25,21:00,E-Frag,iNation,mirage,Gaming Challenge 2014,10,16,8,7,2,9,E-Frag,21,16,1.21 
+2014,05,25,15:00,e-Sports.rs,E-Frag,dust2,Gaming Challenge 2014,8,16,7,8,1,8,E-Frag,11,12,0.84 
+2014,05,25,15:00,e-Sports.rs,E-Frag,mirage,Gaming Challenge 2014,14,16,9,6,5,10,E-Frag,18,17,1.03 
+2014,05,25,15:00,E-Frag,e-Sports.rs,inferno,Gaming Challenge 2014,17,19,10,5,5,10,E-Frag,26,22,1.11 
+2014,05,25,11:00,5starz,E-Frag,dust2,Gaming Challenge 2014,4,16,1,14,3,2,E-Frag,13,10,1.07 
+2014,05,25,10:00,volgare,E-Frag,inferno,Gaming Challenge 2014,16,6,13,2,3,4,E-Frag,11,19,0.58 

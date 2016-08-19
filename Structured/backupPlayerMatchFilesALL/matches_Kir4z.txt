@@ -1,0 +1,8 @@
+2015,10,05,19:15,unKnights,Pulse,inferno,UnderDogs #1,5,16,5,10,0,6,unKnights,13,15,0.83 
+2015,10,05,19:15,Pulse,unKnights,cache,UnderDogs #1,16,11,8,7,8,4,unKnights,14,22,0.65 
+2015,10,05,19:15,unKnights,Pulse,mirage,UnderDogs #1,22,19,9,6,6,9,unKnights,22,29,0.76 
+2015,09,28,20:30,Belgium,Belarus,dust2,World Championships 2015 Europ..,16,11,6,9,10,2,Belgium,18,14,1.06 
+2015,09,17,19:40,Norway,Belgium,cache,World Championships 2015 Europ..,16,12,8,7,8,5,Belgium,25,20,1.14 
+2015,09,16,00:15,unKnights,melty,dust2,LevelDown Championship,13,16,6,9,7,7,unKnights,21,22,0.94 
+2015,09,15,23:30,unKnights,AsusROG,train,LevelDown Championship,16,0,15,0,1,0,unKnights,16,8,1.53 
+2015,09,15,20:00,unKnights,melty,cobblestone,LevelDown Championship,12,16,5,10,7,6,unKnights,19,19,0.97 

@@ -1,0 +1,14 @@
+2016,06,10,01:00,Innova,Supernova,cobblestone,Razer Rising Stars South Ameri..,16,14,6,9,10,5,Supernova,17,20,0.90 
+2016,06,10,01:00,Innova,Supernova,train,Razer Rising Stars South Ameri..,16,8,13,2,3,6,Supernova,19,21,1.01 
+2016,06,08,23:00,Supernova,2Kill,dust2,Razer Rising Stars South Ameri..,3,16,3,12,0,4,Supernova,7,16,0.47 
+2016,06,08,23:00,2Kill,Supernova,cobblestone,Razer Rising Stars South Ameri..,16,9,9,6,7,3,Supernova,8,25,0.27 
+2016,06,05,02:45,NeedJobs,TeamOne,dust2,Liga PRO GamersClub - MAY/16,14,16,9,6,5,10,NeedJobs,25,22,1.15 
+2016,06,05,02:45,TeamOne,NeedJobs,cache,Liga PRO GamersClub - MAY/16,16,9,9,6,7,3,NeedJobs,12,20,0.61 
+2016,04,26,02:00,INTZ,NeedJobs,cobblestone,MLG Regional Minor South Ameri..,19,15,6,9,9,6,NeedJobs,20,25,0.83 
+2016,04,26,02:00,NeedJobs,INTZ,mirage,MLG Regional Minor South Ameri..,14,16,9,6,5,10,NeedJobs,25,20,1.12 
+2016,04,09,21:00,Santos.DeX,BigGods,cache,Liga PRO GamersClub - MAR/16,8,16,3,12,5,4,Santos.DeX,6,20,0.34 
+2016,04,09,21:00,BigGods,Santos.DeX,train,Liga PRO GamersClub - MAR/16,16,12,13,2,3,10,Santos.DeX,11,20,0.62 
+2016,01,08,23:15,Santos.DeX,Luminosity,cobblestone,MAX5 Invitational,5,16,5,10,0,6,Santos.DeX,11,19,0.54 
+2016,01,08,00:45,CNB,Santos.DeX,cobblestone,MAX5 Invitational,9,16,5,10,4,6,Santos.DeX,19,14,1.16 
+2016,01,07,17:30,INTZ,Santos.DeX,cobblestone,MAX5 Invitational,7,16,5,10,2,6,Santos.DeX,17,14,1.11 
+2016,01,06,14:30,g3x,Santos.DeX,mirage,MAX5 Invitational,16,14,11,4,5,10,Santos.DeX,15,25,0.65 

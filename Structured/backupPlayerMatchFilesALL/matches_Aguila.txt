@@ -1,0 +1,30 @@
+2015,09,13,12:00,OverGaming,Dobry&Gaming,cache,DreamHack Open Cluj-Napoca 201..,8,16,7,8,1,8,OverGaming,12,17,0.73 
+2015,09,13,12:00,Dobry&Gaming,OverGaming,overpass,DreamHack Open Cluj-Napoca 201..,16,3,12,3,4,0,OverGaming,7,19,0.34 
+2015,09,12,19:45,OverGaming,KILLERFISH,cache,DreamHack Open Cluj-Napoca 201..,16,0,15,0,1,0,OverGaming,11,5,1.35 
+2015,09,05,19:50,OverGaming,LondonC,cache,DreamHack Open Cluj-Napoca 201..,6,16,5,10,1,6,OverGaming,10,19,0.57 
+2015,08,20,21:45,OverGaming,Reason,dust2,QuickShot Arena #3,6,16,2,13,4,3,OverGaming,11,19,0.63 
+2015,08,20,21:45,Reason,OverGaming,inferno,QuickShot Arena #3,16,13,10,5,6,8,OverGaming,19,18,1.06 
+2015,08,20,20:30,OverGaming,ESC,cobblestone,QuickShot Arena #3,19,16,10,5,5,10,OverGaming,25,25,1.05 
+2015,08,20,18:00,Reason,OverGaming,mirage,QuickShot Arena #3,19,17,11,4,4,11,OverGaming,22,28,0.76 
+2015,08,20,18:00,Reason,OverGaming,overpass,QuickShot Arena #3,16,6,9,6,7,0,OverGaming,9,20,0.44 
+2015,08,19,20:00,OverGaming,Teamless.gg,inferno,QuickShot Arena #3,16,12,9,6,7,6,OverGaming,12,17,0.70 
+2015,08,19,20:00,Teamless.gg,OverGaming,cache,QuickShot Arena #3,5,16,3,12,2,4,OverGaming,16,9,1.27 
+2015,08,17,20:00,dignitas,OverGaming,mirage,Hitbox Arena Showdown Invitati..,16,12,13,2,3,10,OverGaming,21,19,1.10 
+2015,08,17,20:00,OverGaming,dignitas,cache,Hitbox Arena Showdown Invitati..,4,16,4,11,0,5,OverGaming,6,18,0.33 
+2015,08,17,19:00,Publiclir.se,OverGaming,cache,Hitbox Arena Showdown Invitati..,13,16,9,6,4,10,OverGaming,8,16,0.62 
+2015,08,12,18:00,PENTA,OverGaming,mirage,99Damage Arena #12,16,5,13,2,3,3,OverGaming,17,16,1.04 
+2015,08,12,18:00,PENTA,OverGaming,inferno,99Damage Arena #12,16,6,10,5,6,1,OverGaming,16,18,0.97 
+2015,08,11,21:45,AlienTech,OverGaming,cache,99Damage Arena #12,12,16,3,12,9,4,OverGaming,17,19,0.81 
+2015,08,11,21:45,OverGaming,AlienTech,dust2,99Damage Arena #12,16,4,11,4,5,0,OverGaming,22,8,1.76 
+2015,08,11,18:00,MTW,OverGaming,mirage,99Damage Arena #12,12,16,8,7,4,9,OverGaming,15,16,0.86 
+2015,08,11,18:00,OverGaming,MTW,dust2,99Damage Arena #12,16,14,9,6,7,8,OverGaming,31,17,1.62 
+2015,08,11,18:00,MTW,OverGaming,cache,99Damage Arena #12,16,11,10,5,6,6,OverGaming,27,18,1.47 
+2015,07,25,18:15,OverGaming,KILLERFISH,mirage,ESL One Cologne 2015 European ..,8,16,8,7,0,9,OverGaming,11,18,0.73 
+2015,07,25,17:15,PiTER,OverGaming,cache,ESL One Cologne 2015 European ..,8,16,6,9,2,7,OverGaming,13,12,0.96 
+2015,07,25,13:30,OverGaming,dignitas,dust2,ESL One Cologne 2015 European ..,9,16,9,6,0,10,OverGaming,10,22,0.48 
+2014,07,19,11:30,HellRaisers,Outbreak,dust2,DreamHack Valencia 2014,16,6,11,4,5,2,Outbreak,20,19,1.19 
+2014,07,19,11:30,HellRaisers,Outbreak,mirage,DreamHack Valencia 2014,13,16,11,4,2,12,Outbreak,19,19,0.93 
+2014,07,19,11:30,Outbreak,HellRaisers,inferno,DreamHack Valencia 2014,14,16,8,7,6,9,Outbreak,17,21,0.80 
+2014,07,18,16:15,webSPELL,Outbreak,dust2,DreamHack Valencia 2014,16,19,5,10,10,5,Outbreak,22,24,0.96 
+2014,07,18,14:00,Geduld,Outbreak,inferno,DreamHack Valencia 2014,7,16,3,12,4,4,Outbreak,16,18,0.86 
+2014,07,18,11:30,webSPELL,Outbreak,inferno,DreamHack Valencia 2014,19,17,10,5,5,10,Outbreak,24,26,0.86 

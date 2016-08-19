@@ -1,0 +1,27 @@
+2016,07,02,13:50,RedInstinct,Millenium,overpass,ESL National Championship Fran..,14,16,5,10,9,6,Red Instinct,15,20,0.79 
+2016,07,02,13:50,Millenium,RedInstinct,cache,ESL National Championship Fran..,16,12,11,4,5,8,Red Instinct,28,21,1.39 
+2016,04,30,17:50,visomvet,RedInstinctRS,overpass,DreamHack Regional Minor Champ..,16,11,10,5,6,6,Red Instinct RS,18,17,1.03 
+2016,04,23,16:45,Escape,WiC,mirage,DreamHack Regional Minor Champ..,16,1,14,1,2,0,WiC,4,15,0.29 
+2015,12,15,22:25,CSGL,melty,cache,D!ngIT $2000 Weekly Cup #30,16,2,13,2,3,0,melty,6,18,0.31 
+2015,12,15,21:15,eSuba,melty,cache,D!ngIT $2000 Weekly Cup #30,14,16,7,8,7,8,melty,22,19,1.05 
+2015,12,15,18:30,CSGL,melty,mirage,D!ngIT $2000 Weekly Cup #30,16,7,10,5,6,2,melty,13,19,0.77 
+2015,12,15,18:30,CSGL,melty,overpass,D!ngIT $2000 Weekly Cup #30,19,21,5,10,10,5,melty,36,30,1.27 
+2015,12,15,18:30,CSGL,melty,cache,D!ngIT $2000 Weekly Cup #30,16,3,12,3,4,0,melty,10,19,0.56 
+2015,12,14,20:00,melty,eSuba,dust2,D!ngIT $2000 Weekly Cup #30,16,13,7,8,9,5,melty,17,19,0.93 
+2015,12,14,20:00,eSuba,melty,inferno,D!ngIT $2000 Weekly Cup #30,4,16,4,11,0,5,melty,14,9,1.29 
+2015,11,24,22:15,melty,Fraternitas,cache,D!ngIT $2000 Weekly Cup #27,16,3,13,2,3,1,melty,15,7,1.42 
+2015,11,24,18:30,ESC,melty,overpass,D!ngIT $2000 Weekly Cup #27,11,16,7,8,4,8,melty,15,20,0.72 
+2015,11,24,18:30,ESC,melty,cache,D!ngIT $2000 Weekly Cup #27,11,16,5,10,6,6,melty,16,19,0.84 
+2015,11,23,20:30,Fraternitas,melty,inferno,D!ngIT $2000 Weekly Cup #27,7,16,2,13,5,3,melty,11,14,0.79 
+2015,11,23,20:30,Fraternitas,melty,dust2,D!ngIT $2000 Weekly Cup #27,10,16,4,11,6,5,melty,25,15,1.53 
+2015,09,28,19:30,RedInstinct,LDLCBlue,dust2,UnderDogs #1,5,16,2,13,3,3,Red Instinct,8,19,0.40 
+2015,09,28,19:30,RedInstinct,LDLCBlue,cobblestone,UnderDogs #1,13,16,4,11,9,5,Red Instinct,23,23,1.01 
+2015,09,18,19:30,RedInstinct,melty,cache,LevelDown Championship,16,12,10,5,6,7,Red Instinct,20,21,0.99 
+2015,09,17,22:15,DeadPixels,RedInstinct,mirage,LevelDown Championship,16,1,14,1,2,0,Red Instinct,5,17,0.25 
+2015,09,17,22:15,RedInstinct,DeadPixels,cobblestone,LevelDown Championship,16,11,7,8,9,3,Red Instinct,19,16,1.01 
+2015,09,17,22:15,RedInstinct,DeadPixels,dust2,LevelDown Championship,5,16,5,10,0,6,Red Instinct,17,16,1.04 
+2015,09,16,23:45,RedInstinct,TS-Netteux,dust2,LevelDown Championship,16,14,5,10,11,4,Red Instinct,22,18,1.15 
+2015,09,16,21:30,RedInstinct,WEGOTGAME,cobblestone,LevelDown Championship,13,16,4,11,9,5,Red Instinct,20,19,1.06 
+2015,05,08,22:45,Awsomniac,beGenius,inferno,DreamHack Open Tours 2015 BYOC..,16,10,10,5,6,5,beGenius,14,20,0.73 
+2015,05,08,21:40,beGenius,Immunity,mirage,DreamHack Open Tours 2015 BYOC..,16,12,10,5,6,7,beGenius,23,14,1.32 
+2015,05,08,19:35,LDLCWhite,beGenius,cache,DreamHack Open Tours 2015 BYOC..,16,9,7,8,9,1,beGenius,12,19,0.67 

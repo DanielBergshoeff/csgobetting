@@ -1,0 +1,9 @@
+2016,03,12,17:15,n1ce,GameAgents,inferno,EsportFest 2016,15,19,6,9,9,6,GameAgents,28,23,1.12 
+2016,03,12,17:15,n1ce,GameAgents,dust2,EsportFest 2016,16,8,12,3,4,5,GameAgents,20,19,1.20 
+2016,03,12,17:15,n1ce,GameAgents,cache,EsportFest 2016,13,16,8,7,5,9,GameAgents,31,17,1.61 
+2015,11,28,16:30,Revolte,E-frag.net,cobblestone,ESL South East Europe Champion..,16,13,10,5,6,8,Revolte,18,23,0.79 
+2015,11,28,16:30,Revolte,E-frag.net,inferno,ESL South East Europe Champion..,16,13,8,7,8,6,Revolte,17,25,0.66 
+2015,11,28,11:45,CSGO.one,Revolte,dust2,ESL South East Europe Champion..,10,16,4,11,6,5,Revolte,17,16,0.97 
+2015,11,28,10:00,E-frag.net,Revolte,cache,ESL South East Europe Champion..,6,16,2,13,4,3,Revolte,14,13,0.89 
+2015,01,30,18:50,HellRaisers,volgare,mirage,ASUS ROG Winter 2015,16,10,10,5,6,5,volgare,14,16,0.90 
+2015,01,30,16:30,Virtus.pro,volgare,cache,ASUS ROG Winter 2015,16,3,14,1,2,2,volgare,11,17,0.72 

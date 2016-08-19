@@ -1,0 +1,7 @@
+2015,09,01,15:00,Macedonia,Romania,cache,World Championships 2015 Europ..,14,16,7,8,7,8,Macedonia,26,19,1.29 
+2015,09,01,15:00,Romania,Macedonia,mirage,World Championships 2015 Europ..,16,4,11,4,5,0,Macedonia,15,18,0.77 
+2014,05,25,15:00,volgare,GamePub.ENTiTY,nuke,Gaming Challenge 2014,16,6,14,1,2,5,GamePub.ENTiTY,10,18,0.58 
+2014,05,25,15:00,volgare,GamePub.ENTiTY,mirage,Gaming Challenge 2014,19,17,9,6,6,9,GamePub.ENTiTY,19,24,0.75 
+2014,05,25,15:00,volgare,GamePub.ENTiTY,inferno,Gaming Challenge 2014,15,19,10,5,5,10,GamePub.ENTiTY,24,23,1.06 
+2014,05,25,14:00,GamePub.ENTiTY,core.team,mirage,Gaming Challenge 2014,16,5,13,2,3,3,GamePub.ENTiTY,20,10,1.50 
+2014,05,25,13:00,GamePub.ENTiTY,e-Sports.rs,train,Gaming Challenge 2014,14,16,10,5,4,11,GamePub.ENTiTY,22,22,0.98 

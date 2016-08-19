@@ -1,0 +1,9 @@
+2016,05,09,00:45,RivaL,Kingdom,mirage,MLG Regional Minor North Ameri..,16,9,12,3,4,6,Kingdom,12,22,0.55 
+2016,05,08,20:40,Kingdom,DISMAY,dust2,MLG Regional Minor North Ameri..,16,8,9,6,7,2,Kingdom,30,12,2.03 
+2016,05,08,18:00,Kingdom,WithoutaRoof,cobblestone,MLG Regional Minor North Ameri..,8,16,6,9,2,7,Kingdom,17,21,0.79 
+2016,05,08,18:00,WithoutaRoof,Kingdom,dust2,MLG Regional Minor North Ameri..,16,14,10,5,6,9,Kingdom,17,23,0.76 
+2015,12,16,04:30,ACE,UMass,cache,QuickShot Arena NA #2,13,16,4,11,9,5,UMass,24,18,1.30 
+2015,12,16,01:00,UMass,Incursion,cache,QuickShot Arena NA #2,16,5,11,4,5,1,UMass,16,14,1.10 
+2015,12,16,01:00,UMass,Incursion,mirage,QuickShot Arena NA #2,16,11,7,8,9,3,UMass,20,18,1.06 
+2015,12,15,01:00,SetToDestroyX,UMass,dust2,QuickShot Arena NA #2,13,16,8,7,5,9,UMass,22,24,0.99 
+2015,12,15,01:00,UMass,SetToDestroyX,cobblestone,QuickShot Arena NA #2,16,14,7,8,9,6,UMass,19,23,0.91 

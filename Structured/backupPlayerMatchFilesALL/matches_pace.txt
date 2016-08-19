@@ -1,0 +1,6 @@
+2016,06,25,14:10,Japan,Kuwait,dust2,World Championships 2016 Asian..,16,2,13,2,3,0,Japan,22,9,1.98 
+2016,06,25,14:10,Japan,Kuwait,mirage,World Championships 2016 Asian..,16,10,8,7,8,3,Japan,29,18,1.58 
+2016,06,25,14:10,Kuwait,Japan,overpass,World Championships 2016 Asian..,16,3,13,2,3,1,Japan,11,18,0.68 
+2015,11,14,13:00,All-StarDragon,All-StarTiger,cobblestone,Showmatch CS:GO,14,16,5,10,9,6,All-Star Tiger,20,18,1.06 
+2015,11,14,13:00,All-StarTiger,All-StarDragon,dust2,Showmatch CS:GO,5,16,5,10,0,6,All-Star Tiger,13,16,0.88 
+2015,11,14,13:00,All-StarDragon,All-StarTiger,cache,Showmatch CS:GO,13,16,6,9,7,7,All-Star Tiger,21,20,1.00 

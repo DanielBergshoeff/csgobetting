@@ -1,0 +1,4 @@
+2016,03,25,22:00,WyvernLadies,nKnownfe,inferno,Copenhagen Games 2016 female,16,4,11,4,5,0,nKnown fe,5,19,0.25 
+2016,03,25,22:00,WyvernLadies,nKnownfe,overpass,Copenhagen Games 2016 female,16,4,12,3,4,1,nKnown fe,11,17,0.64 
+2016,03,25,14:00,ALSENfe,nKnownfe,train,Copenhagen Games 2016 female,16,3,12,3,4,0,nKnown fe,13,17,1.02 
+2016,03,25,14:00,ALSENfe,nKnownfe,cache,Copenhagen Games 2016 female,16,7,11,4,5,3,nKnown fe,8,20,0.45 

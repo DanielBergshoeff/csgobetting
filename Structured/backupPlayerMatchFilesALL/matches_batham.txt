@@ -1,0 +1,15 @@
+2016,07,03,20:45,TheWorkingMen,Reason,cache,ESL UK Premiership Spring 2016..,16,13,6,9,10,4,Reason,13,20,0.69 
+2016,07,03,20:45,TheWorkingMen,Reason,mirage,ESL UK Premiership Spring 2016..,16,9,9,6,7,3,Reason,9,21,0.45 
+2016,07,03,20:45,TheWorkingMen,Reason,cobblestone,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,Reason,19,21,0.91 
+2016,07,03,15:30,Reason,Infused,cache,ESL UK Premiership Spring 2016..,16,11,9,6,7,5,Reason,21,17,1.25 
+2016,07,03,15:30,Infused,Reason,mirage,ESL UK Premiership Spring 2016..,7,16,6,9,1,7,Reason,20,13,1.23 
+2016,07,03,15:30,Reason,Infused,cobblestone,ESL UK Premiership Spring 2016..,13,16,4,11,9,5,Reason,15,24,0.65 
+2016,04,30,17:45,Reason,Orbit,inferno,DreamHack Regional Minor Champ..,13,16,7,8,6,8,Reason,24,22,1.05 
+2015,09,28,22:00,Choke,fish123,mirage,ESL UK Premiership Season 2,8,16,5,10,3,6,fish123,18,15,1.08 
+2015,09,21,23:00,UnitedEstonia,fish123,mirage,ESL UK Premiership Season 2,16,12,11,4,5,8,fish123,16,24,0.74 
+2015,09,14,23:00,fish123,GLG,dust2,ESL UK Premiership Season 2,16,13,12,3,4,10,fish123,22,21,1.02 
+2015,09,07,22:00,fm-eSports,fish123,dust2,ESL UK Premiership Season 2,10,16,9,6,1,10,fish123,16,13,1.06 
+2015,08,25,23:15,fish123,CeX,cache,ESL UK Premiership Season 2,16,11,10,5,6,6,fish123,13,17,0.79 
+2015,08,17,23:15,CSGOCasino.net,fish123,dust2,ESL UK Premiership Season 2,16,7,10,5,6,2,fish123,8,17,0.55 
+2014,12,17,21:30,LDLC,DEMGUNZ,inferno,ESL Pro League Winter 2014/15,16,3,13,2,3,1,DEMGUNZ,6,16,0.45 
+2014,12,17,21:30,DEMGUNZ,LDLC,overpass,ESL Pro League Winter 2014/15,6,16,4,11,2,5,DEMGUNZ,9,19,0.48 

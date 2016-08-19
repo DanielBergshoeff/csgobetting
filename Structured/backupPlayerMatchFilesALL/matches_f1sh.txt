@@ -1,0 +1,14 @@
+2015,12,11,13:40,inchk1ng,BOW,mirage,Fulcrum Gamers League,16,1,14,1,2,0,BOW,7,15,0.58 
+2015,12,11,13:40,inchk1ng,BOW,dust2,Fulcrum Gamers League,16,5,13,2,3,3,BOW,12,16,0.75 
+2015,12,11,12:00,BOW,TheMongolz,dust2,Fulcrum Gamers League,2,16,2,13,0,3,BOW,8,17,0.45 
+2015,12,11,12:00,TheMongolz,BOW,inferno,Fulcrum Gamers League,16,3,12,3,4,0,BOW,10,16,0.69 
+2015,12,10,13:40,FOF,BOW,mirage,Fulcrum Gamers League,13,16,5,10,8,6,BOW,16,19,0.80 
+2015,12,10,13:40,FOF,BOW,inferno,Fulcrum Gamers League,16,6,10,5,6,1,BOW,15,17,0.94 
+2015,12,06,13:40,BOW,pow,mirage,Fulcrum Gamers League,5,16,2,13,3,3,BOW,13,18,0.74 
+2015,12,06,13:40,pow,BOW,dust2,Fulcrum Gamers League,16,8,10,5,6,3,BOW,20,20,1.05 
+2015,12,06,12:00,PUZZLES,BOW,cache,Fulcrum Gamers League,16,2,13,2,3,0,BOW,7,17,0.40 
+2015,12,06,12:00,PUZZLES,BOW,inferno,Fulcrum Gamers League,16,6,10,5,6,1,BOW,7,18,0.44 
+2015,12,04,13:40,BornOfFire,BOW,mirage,Fulcrum Gamers League,16,8,13,2,3,6,BOW,14,21,0.64 
+2015,12,04,13:40,BornOfFire,BOW,dust2,Fulcrum Gamers League,16,10,7,8,9,2,BOW,18,22,0.77 
+2015,11,26,12:00,TyLoo,BOW,inferno,Fulcrum Gamers League,16,2,14,1,2,1,BOW,7,18,0.39 
+2015,11,26,12:00,TyLoo,BOW,mirage,Fulcrum Gamers League,16,3,12,3,4,0,BOW,14,18,0.96 

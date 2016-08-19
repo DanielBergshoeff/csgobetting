@@ -1,0 +1,27 @@
+2015,11,19,01:00,Enemy,Renegades,train,RGN Pro Series Championship,12,16,5,10,7,6,Enemy,14,23,0.60 
+2015,11,19,01:00,Enemy,Renegades,cobblestone,RGN Pro Series Championship,10,16,4,11,6,5,Enemy,14,19,0.80 
+2015,11,18,19:30,Method,Enemy,overpass,RGN Pro Series Championship,3,16,3,12,0,4,Enemy,12,9,1.08 
+2015,11,18,19:30,Enemy,Method,cache,RGN Pro Series Championship,16,12,5,10,11,2,Enemy,18,17,1.09 
+2015,11,18,05:30,Luminosity,Enemy,train,RGN Pro Series Championship,16,3,12,3,4,0,Enemy,13,17,0.75 
+2015,11,18,05:30,Enemy,Luminosity,mirage,RGN Pro Series Championship,17,19,5,10,10,5,Enemy,13,26,0.56 
+2015,11,17,01:15,Renegades,Enemy,inferno,RGN Pro Series Championship,16,14,9,6,7,8,Enemy,22,18,1.19 
+2015,11,16,23:15,CLG,Enemy,cache,RGN Pro Series Championship,7,16,6,9,1,7,Enemy,15,10,1.11 
+2015,11,16,21:45,Enemy,Nexus,cobblestone,RGN Pro Series Championship,16,2,13,2,3,0,Enemy,9,6,1.09 
+2015,10,19,05:10,Torqued,Enemy,inferno,Fragadelphia 6,16,13,7,8,9,5,Enemy,19,22,0.92 
+2015,10,19,05:10,Torqued,Enemy,overpass,Fragadelphia 6,16,8,12,3,4,5,Enemy,11,20,0.57 
+2015,10,19,04:00,Tectonic,Enemy,train,Fragadelphia 6,5,16,1,14,4,2,Enemy,20,12,1.45 
+2015,10,19,00:00,Enemy,Torqued,inferno,Fragadelphia 6,7,16,7,8,0,8,Enemy,15,17,0.81 
+2015,10,19,00:00,Enemy,Torqued,cache,Fragadelphia 6,16,13,6,9,10,4,Enemy,17,21,0.79 
+2015,10,19,00:00,Enemy,Torqued,cobblestone,Fragadelphia 6,2,16,2,13,0,3,Enemy,16,15,1.20 
+2015,10,18,22:00,Tectonic,Enemy,inferno,Fragadelphia 6,7,16,7,8,0,8,Enemy,12,16,0.76 
+2015,10,18,22:00,Enemy,Tectonic,cache,Fragadelphia 6,16,13,8,7,8,6,Enemy,25,19,1.30 
+2015,10,18,16:25,Enemy,Dynasty,train,Fragadelphia 6,16,10,13,2,3,8,Enemy,21,13,1.24 
+2015,10,18,16:25,Enemy,Dynasty,cache,Fragadelphia 6,16,2,13,2,3,0,Enemy,10,9,1.03 
+2015,09,06,16:00,Enemy,Method,cache,WinOut $20,000 CS:GO Champions..,8,16,7,8,1,8,Enemy,11,19,0.67 
+2015,09,06,16:00,Method,Enemy,inferno,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,Enemy,18,9,1.43 
+2015,09,06,16:00,Enemy,Method,dust2,WinOut $20,000 CS:GO Champions..,13,16,8,7,5,9,Enemy,14,19,0.80 
+2015,09,05,23:00,Enemy,CLG,mirage,WinOut $20,000 CS:GO Champions..,3,16,3,12,0,4,Enemy,16,17,1.03 
+2015,09,05,23:00,CLG,Enemy,cache,WinOut $20,000 CS:GO Champions..,16,1,14,1,2,0,Enemy,8,16,0.48 
+2015,09,05,08:20,Swarm,Enemy,cache,WinOut $20,000 CS:GO Champions..,9,16,7,8,2,8,Enemy,25,15,1.37 
+2015,09,05,06:00,Enemy,3sUP,dust2,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,Enemy,8,21,0.39 
+2015,09,05,05:30,Enemy,Swarm,inferno,WinOut $20,000 CS:GO Champions..,16,5,14,1,2,4,Enemy,11,11,0.94 

@@ -1,0 +1,13 @@
+2016,08,13,11:15,3NEW2OLD,Emc,cache,ROG CS:GO Hong Kong Tournament,16,5,11,4,5,1,Emc,6,17,0.45 
+2016,08,13,11:15,Emc,3NEW2OLD,cobblestone,ROG CS:GO Hong Kong Tournament,10,16,3,12,7,4,Emc,13,18,0.71 
+2016,08,07,12:00,nGse,Emc,dust2,ROG CS:GO Hong Kong Tournament,6,16,6,9,0,7,Emc,21,11,1.42 
+2016,08,07,12:00,nGse,Emc,mirage,ROG CS:GO Hong Kong Tournament,5,16,5,10,0,6,Emc,14,12,0.99 
+2016,08,07,09:20,Emc,BuddhaCalifornia,overpass,ROG CS:GO Hong Kong Tournament,16,2,13,2,3,0,Emc,17,6,1.66 
+2016,08,07,09:20,Emc,BuddhaCalifornia,cobblestone,ROG CS:GO Hong Kong Tournament,16,11,6,9,10,2,Emc,22,16,1.23 
+2016,07,13,13:30,Thailand,HongKong,cache,World Championships 2016 Asian..,16,7,11,4,5,3,Hong Kong,8,20,0.45 
+2016,07,13,10:00,HongKong,Indonesia,dust2,World Championships 2016 Asian..,5,16,5,10,0,6,Hong Kong,12,17,0.83 
+2016,06,22,11:00,SriLanka,HongKong,dust2,World Championships 2016 Asian..,6,16,4,11,2,5,Hong Kong,17,13,1.11 
+2016,06,22,11:00,HongKong,SriLanka,mirage,World Championships 2016 Asian..,16,2,14,1,2,1,Hong Kong,15,6,1.34 
+2016,03,12,13:45,Emc,EDG,mirage,DreamHack Masters Malmö 2016 A..,16,19,7,8,8,7,Emc,24,27,0.91 
+2016,02,26,16:00,Emc,Devcat,mirage,MixBOT Pro-League Invite Seaso..,14,16,7,8,7,8,Emc,22,25,0.92 
+2015,11,18,16:00,Emc,MiTH,overpass,MixBOT Pro-League Invite Seaso..,16,9,11,4,5,5,Emc,17,16,0.98 

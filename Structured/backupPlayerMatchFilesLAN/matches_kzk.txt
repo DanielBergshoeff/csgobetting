@@ -1,0 +1,4 @@
+2015,12,06,05:00,Artyk,OVP,cache,TecnoLAN Pasarela 2015 LAN Fin..,10,16,5,10,5,6,Artyk,15,18,0.78 
+2015,12,06,03:00,GamersINC,Artyk,mirage,TecnoLAN Pasarela 2015 LAN Fin..,8,16,4,11,4,5,Artyk,15,14,1.01 
+2015,12,04,21:45,Artyk,Groovy,overpass,TecnoLAN Pasarela 2015 LAN Fin..,3,16,3,12,0,4,Artyk,10,16,0.63 
+2015,12,04,21:45,Groovy,Artyk,mirage,TecnoLAN Pasarela 2015 LAN Fin..,16,2,13,2,3,0,Artyk,6,17,0.36 

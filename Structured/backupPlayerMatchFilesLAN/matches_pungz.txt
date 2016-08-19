@@ -1,0 +1,7 @@
+2016,03,24,19:00,Bananaboys,naptoR.Factory,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,naptoR.Factory,6,17,0.39 
+2016,03,24,19:00,Bananaboys,naptoR.Factory,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,naptoR.Factory,7,16,0.48 
+2016,03,24,17:00,naptoR.Factory,FoxStratos,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,naptoR.Factory,24,7,2.10 
+2016,03,24,15:30,naptoR.Factory,SesiBaren,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,4,11,4,5,0,naptoR.Factory,25,12,1.69 
+2016,03,24,13:00,naptoR.Factory,FoxStratos,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,4,11,1,5,naptoR.Factory,7,18,0.45 
+2015,04,02,17:00,naptoR.Factory,h$fyre,nuke,Copenhagen Games 2015,9,16,9,6,0,10,naptoR.Factory,12,20,0.61 
+2015,04,02,14:00,naptoR.Factory,h$fyre,inferno,Copenhagen Games 2015,14,16,6,9,8,7,naptoR.Factory,12,20,0.68 

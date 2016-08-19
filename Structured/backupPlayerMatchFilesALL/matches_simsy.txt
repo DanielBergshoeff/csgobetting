@@ -1,0 +1,7 @@
+2016,02,19,21:30,KoNNorway,KoNSweden,dust2,King of Nordic Season 3,14,16,7,8,7,8,KoN Norway,21,22,0.94 
+2016,02,19,20:15,KoNFinland,KoNNorway,dust2,King of Nordic Season 3,11,16,5,10,6,6,KoN Norway,15,15,0.96 
+2016,02,05,21:30,KoNNorway,KoNDenmark,inferno,King of Nordic Season 3,11,16,3,12,8,4,KoN Norway,13,19,0.75 
+2016,02,05,20:15,KoNNorway,KoNFinland,inferno,King of Nordic Season 3,16,8,7,8,9,0,KoN Norway,24,15,1.41 
+2015,12,19,20:55,SkitLite,demise,mirage,ESL Nordic Nationals Winter 20..,16,9,9,6,7,3,demise,13,19,0.68 
+2015,12,19,16:00,demise,Torpedo,mirage,ESL Nordic Nationals Winter 20..,4,16,1,14,3,2,demise,10,17,0.66 
+2015,09,04,19:00,Finland,Norway,cache,King of Nordic Season 1,16,12,8,7,8,5,Norway,19,23,0.82 

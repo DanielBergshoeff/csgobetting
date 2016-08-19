@@ -1,0 +1,7 @@
+2016,08,12,22:10,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,14,16,8,7,6,9,KoN Norway,11,24,0.49 
+2016,05,27,22:10,KoNNorway,KoNSweden,cache,King of Nordic Season 4,16,11,7,8,9,3,KoN Norway,15,15,0.93 
+2016,05,20,22:10,KoNSweden,KoNNorway,overpass,King of Nordic Season 4,5,16,5,10,0,6,KoN Norway,15,10,1.22 
+2016,05,13,22:10,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,6,16,5,10,1,6,KoN Norway,4,20,0.23 
+2016,05,06,22:35,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,12,16,5,10,7,6,KoN Norway,19,19,1.04 
+2016,05,06,21:00,KoNNorway,KoNDenmark,overpass,King of Nordic Season 4,21,19,9,6,6,9,KoN Norway,25,25,0.97 
+2016,05,06,19:25,KoNSweden,KoNNorway,mirage,King of Nordic Season 4,13,16,6,9,7,7,KoN Norway,19,18,0.96 

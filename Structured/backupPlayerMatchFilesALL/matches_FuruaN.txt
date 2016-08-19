@@ -1,0 +1,5 @@
+2016,03,18,21:30,KoNNorway,KoNFinland,mirage,King of Nordic Season 3,12,16,7,8,5,8,KoN Norway,14,18,0.75 
+2016,03,18,20:15,KoNNorway,KoNDenmark,dust2,King of Nordic Season 3,16,2,13,2,3,0,KoN Norway,14,12,1.12 
+2016,02,12,21:30,KoNDenmark,KoNNorway,mirage,King of Nordic Season 3,16,10,12,3,4,7,KoN Norway,18,18,1.03 
+2016,02,12,20:15,KoNNorway,KoNFinland,cache,King of Nordic Season 3,16,6,10,5,6,1,KoN Norway,19,10,1.32 
+2015,09,04,19:00,Finland,Norway,cache,King of Nordic Season 1,16,12,8,7,8,5,Norway,16,22,0.76 

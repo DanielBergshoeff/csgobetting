@@ -1,0 +1,8 @@
+2015,11,24,22:15,melty,Fraternitas,cache,D!ngIT $2000 Weekly Cup #27,16,3,13,2,3,1,Fraternitas,5,15,0.39 
+2015,11,24,21:00,ESC,Fraternitas,mirage,D!ngIT $2000 Weekly Cup #27,14,16,7,8,7,8,Fraternitas,21,22,1.00 
+2015,11,23,20:30,Fraternitas,melty,inferno,D!ngIT $2000 Weekly Cup #27,7,16,2,13,5,3,Fraternitas,17,18,1.05 
+2015,11,23,20:30,Fraternitas,melty,dust2,D!ngIT $2000 Weekly Cup #27,10,16,4,11,6,5,Fraternitas,13,18,0.76 
+2014,09,28,17:10,Netherlands,CzechRepublic,dust2,European Championship 2014,16,8,11,4,5,4,Czech Republic,8,18,0.49 
+2014,09,04,21:00,CzechRepublic,Ukraine,mirage,European Championship 2014,7,16,4,11,3,5,Czech Republic,11,19,0.69 
+2014,08,26,19:00,Romania,CzechRepublic,inferno,European Championship 2014 Qua..,14,16,8,7,6,9,Czech Republic,22,19,1.08 
+2014,08,26,19:00,CzechRepublic,Romania,dust2,European Championship 2014 Qua..,16,9,8,7,8,2,Czech Republic,13,10,1.04 

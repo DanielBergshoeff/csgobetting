@@ -1,0 +1,127 @@
+2016,02,05,22:00,YP,Ancient,cobblestone,MLG Columbus 2016 Last Chance ..,16,14,8,7,8,7,Ancient,7,22,0.43 
+2015,10,20,04:00,Cloud9,Winterfox,cache,ESL ESEA Pro League Season 2,16,11,5,10,11,1,Winterfox,13,21,0.67 
+2015,10,19,04:00,Winterfox,Conquest,cobblestone,ESL ESEA Pro League Season 2,14,16,7,8,7,8,Winterfox,20,23,0.90 
+2015,10,19,01:10,Winterfox,compLexity,mirage,ESL ESEA Pro League Season 2,16,12,10,5,6,7,Winterfox,14,12,0.97 
+2015,10,18,04:15,Winterfox,compLexity,train,ESL ESEA Pro League Season 2,12,16,8,7,4,9,Winterfox,13,22,0.60 
+2015,10,18,01:00,Conquest,Winterfox,inferno,ESL ESEA Pro League Season 2,16,13,7,8,9,5,Winterfox,16,20,0.85 
+2015,10,16,04:30,Winterfox,CLG,overpass,ESL ESEA Pro League Season 2,4,16,4,11,0,5,Winterfox,13,18,0.71 
+2015,10,16,03:00,Cloud9,Winterfox,overpass,FACEIT League 2015 Stage 3,16,3,13,2,3,1,Winterfox,8,18,0.46 
+2015,10,15,05:00,Winterfox,Liquid,dust2,CEVO Professional Season 8,10,16,7,8,3,8,Winterfox,16,19,0.85 
+2015,10,15,05:00,Liquid,Winterfox,cache,CEVO Professional Season 8,16,7,11,4,5,3,Winterfox,13,20,0.63 
+2015,10,15,03:00,Method,Winterfox,cache,ESL ESEA Pro League Season 2,15,19,8,7,7,8,Winterfox,18,24,0.77 
+2015,10,15,02:00,Winterfox,Luminosity,train,FACEIT League 2015 Stage 3,3,16,3,12,0,4,Winterfox,6,18,0.31 
+2015,10,14,05:15,Enemy,Winterfox,overpass,CEVO Professional Season 8,16,2,13,2,3,0,Winterfox,3,17,0.22 
+2015,10,14,05:15,Winterfox,Enemy,cache,CEVO Professional Season 8,9,16,5,10,4,6,Winterfox,12,18,0.75 
+2015,10,14,04:00,compLexity,Winterfox,train,FACEIT League 2015 Stage 3,16,0,15,0,1,0,Winterfox,9,16,0.61 
+2015,10,14,03:00,Liquid,Winterfox,overpass,ESL ESEA Pro League Season 2,16,6,13,2,3,4,Winterfox,7,18,0.44 
+2015,10,14,02:15,ex-eLevate,Winterfox,dust2,FACEIT League 2015 Stage 3,16,5,10,5,6,0,Winterfox,6,19,0.32 
+2015,10,11,10:45,Poland,Sweden,dust2,World Championships 2015,16,10,6,9,10,1,Sweden,14,21,0.67 
+2015,10,11,10:45,Sweden,Poland,train,World Championships 2015,7,16,6,9,1,7,Sweden,10,21,0.46 
+2015,10,11,10:45,Poland,Sweden,cobblestone,World Championships 2015,14,16,6,9,8,7,Sweden,12,20,0.70 
+2015,10,10,13:25,Sweden,Canada,cobblestone,World Championships 2015,16,11,7,8,9,3,Sweden,15,17,0.79 
+2015,10,10,13:25,Canada,Sweden,inferno,World Championships 2015,17,19,7,8,8,7,Sweden,21,26,0.83 
+2015,10,08,20:45,Indonesia,Sweden,dust2,World Championships 2015,4,16,2,13,2,3,Sweden,20,11,1.43 
+2015,10,08,20:45,Sweden,Indonesia,mirage,World Championships 2015,16,2,13,2,3,0,Sweden,15,9,1.30 
+2015,10,08,17:50,Germany,Sweden,cache,World Championships 2015,16,13,13,2,3,11,Sweden,16,22,0.74 
+2015,10,08,13:30,Sweden,Serbia,inferno,World Championships 2015,16,7,11,4,5,3,Sweden,18,12,1.15 
+2015,10,06,02:00,Winterfox,CLG,train,CEVO Professional Season 8,5,16,4,11,1,5,Winterfox,12,18,0.68 
+2015,10,06,02:00,CLG,Winterfox,cobblestone,CEVO Professional Season 8,21,25,5,10,10,5,Winterfox,25,37,0.69 
+2015,10,05,04:30,Winterfox,Splyce,mirage,CEVO Professional Season 8,16,11,9,6,7,5,Winterfox,14,19,0.76 
+2015,10,05,04:30,Splyce,Winterfox,dust2,CEVO Professional Season 8,16,11,10,5,6,6,Winterfox,16,18,0.90 
+2015,10,05,02:30,Winterfox,Luminosity,inferno,CEVO Professional Season 8,13,16,6,9,7,7,Winterfox,12,21,0.61 
+2015,10,05,02:30,Luminosity,Winterfox,cache,CEVO Professional Season 8,16,4,13,2,3,2,Winterfox,6,17,0.40 
+2015,10,05,00:00,Winterfox,Conquest,cache,CEVO Professional Season 8,7,16,4,11,3,5,Winterfox,19,16,1.14 
+2015,10,05,00:00,Winterfox,Conquest,inferno,CEVO Professional Season 8,6,16,3,12,3,4,Winterfox,12,20,0.66 
+2015,10,01,05:00,Splyce,Winterfox,cobblestone,ESL ESEA Pro League Season 2,16,9,9,6,7,3,Winterfox,6,22,0.32 
+2015,10,01,03:00,Winterfox,Cloud9,dust2,ESL ESEA Pro League Season 2,1,16,1,14,0,2,Winterfox,13,16,0.89 
+2015,09,30,05:25,Coast,Winterfox,cache,ESL ESEA Pro League Season 2,7,16,6,9,1,7,Winterfox,14,14,0.95 
+2015,09,30,02:00,Splyce,Winterfox,train,ESL ESEA Pro League Season 2,16,6,10,5,6,1,Winterfox,7,18,0.49 
+2015,09,24,22:00,Winterfox,Renegades,cache,DreamHack Open Cluj-Napoca 201..,10,16,6,9,4,7,Winterfox,18,21,0.98 
+2015,09,24,22:00,Winterfox,Renegades,train,DreamHack Open Cluj-Napoca 201..,13,16,8,7,5,9,Winterfox,14,20,0.74 
+2015,09,24,12:30,Winterfox,mousesports,cobblestone,DreamHack Open Cluj-Napoca 201..,11,16,7,8,4,8,Winterfox,18,21,0.91 
+2015,09,24,12:30,Winterfox,mousesports,dust2,DreamHack Open Cluj-Napoca 201..,17,19,8,7,7,8,Winterfox,20,24,0.90 
+2015,09,15,02:00,compLexity,Mythic,overpass,CEVO Professional Season 8,11,16,9,6,2,10,Mythic,17,17,0.96 
+2015,09,15,02:00,Mythic,compLexity,dust2,CEVO Professional Season 8,16,14,7,8,9,6,Mythic,16,19,0.88 
+2015,09,12,20:45,Luminosity,Mythic,cobblestone,iBUYPOWER Invitational Fall 20..,16,8,9,6,7,2,Mythic,17,19,0.98 
+2015,09,12,20:45,Luminosity,Mythic,cache,iBUYPOWER Invitational Fall 20..,16,13,8,7,8,6,Mythic,21,20,1.04 
+2015,09,12,20:45,Mythic,Luminosity,overpass,iBUYPOWER Invitational Fall 20..,16,8,12,3,4,5,Mythic,25,12,1.54 
+2015,09,12,18:00,Mythic,GamesAcademy,mirage,iBUYPOWER Invitational Fall 20..,16,5,12,3,4,2,Mythic,13,13,0.88 
+2015,09,12,18:00,GamesAcademy,Mythic,dust2,iBUYPOWER Invitational Fall 20..,8,16,4,11,4,5,Mythic,16,12,1.06 
+2015,09,12,05:45,Mythic,Conquest,dust2,DreamHack Open Cluj-Napoca 201..,16,7,8,7,8,0,Mythic,9,12,0.79 
+2015,09,12,05:45,Mythic,Conquest,mirage,DreamHack Open Cluj-Napoca 201..,7,16,6,9,1,7,Mythic,8,20,0.42 
+2015,09,12,05:45,Mythic,Conquest,cache,DreamHack Open Cluj-Napoca 201..,26,21,7,8,8,7,Mythic,18,31,0.61 
+2015,09,12,02:30,Mythic,Method,inferno,DreamHack Open Cluj-Napoca 201..,16,9,12,3,4,6,Mythic,15,15,0.92 
+2015,09,12,02:30,Method,Mythic,overpass,DreamHack Open Cluj-Napoca 201..,16,8,8,7,8,1,Mythic,12,19,0.76 
+2015,09,12,02:30,Mythic,Method,dust2,DreamHack Open Cluj-Napoca 201..,16,12,8,7,8,5,Mythic,20,18,1.07 
+2015,09,10,02:30,Mythic,3sUP,dust2,CEVO Professional Season 8,16,7,9,6,7,1,Mythic,19,10,1.45 
+2015,09,10,02:30,3sUP,Mythic,mirage,CEVO Professional Season 8,22,18,4,11,11,4,Mythic,25,30,0.78 
+2015,08,28,02:00,Method,Mythic,mirage,CEVO Professional Season 8,16,13,13,2,3,11,Mythic,13,24,0.58 
+2015,08,28,02:00,Mythic,Method,cache,CEVO Professional Season 8,14,16,6,9,8,7,Mythic,13,24,0.56 
+2015,08,25,02:00,Mythic,Mortality,cache,CEVO Professional Season 8,16,7,9,6,7,1,Mythic,21,15,1.25 
+2015,08,25,02:00,Mythic,Mortality,dust2,CEVO Professional Season 8,14,16,11,4,3,12,Mythic,20,23,0.82 
+2015,08,21,02:00,LunatiK,Mythic,inferno,CEVO Professional Season 8,16,9,10,5,6,4,Mythic,12,21,0.60 
+2015,08,21,02:00,Mythic,LunatiK,cache,CEVO Professional Season 8,16,13,8,7,8,6,Mythic,21,19,1.03 
+2015,08,02,20:15,eLevate,Mythic,mirage,ESL One Cologne 2015 NA Qualif..,16,13,7,8,9,5,Mythic,19,25,0.76 
+2015,08,02,01:00,Mythic,CLG,dust2,ESL One Cologne 2015 NA Qualif..,14,16,4,11,10,5,Mythic,12,23,0.60 
+2015,08,02,01:00,Mythic,MaximumEffort,cache,ESL One Cologne 2015 NA Qualif..,16,13,7,8,9,5,Mythic,13,19,0.74 
+2015,07,25,16:00,TempoStorm,Luminosity,cobblestone,CEVO Professional Season 7 Fin..,16,6,11,4,5,2,Luminosity,12,20,0.64 
+2015,07,25,16:00,TempoStorm,Luminosity,dust2,CEVO Professional Season 7 Fin..,16,13,5,10,11,3,Luminosity,18,24,0.77 
+2015,07,25,16:00,Luminosity,TempoStorm,cache,CEVO Professional Season 7 Fin..,19,15,4,11,11,4,Luminosity,19,25,0.82 
+2015,07,24,23:00,NatusVincere,Luminosity,dust2,CEVO Professional Season 7 Fin..,16,8,10,5,6,3,Luminosity,10,19,0.54 
+2015,07,24,23:00,NatusVincere,Luminosity,overpass,CEVO Professional Season 7 Fin..,16,3,13,2,3,1,Luminosity,6,17,0.38 
+2015,07,11,02:00,NatusVincere,Luminosity,inferno,ESWC 2015,16,7,9,6,7,1,Luminosity,8,22,0.33 
+2015,07,11,01:00,SK,Luminosity,cobblestone,ESWC 2015,16,11,9,6,7,5,Luminosity,13,20,0.70 
+2015,07,10,21:45,Luminosity,Titan,dust2,ESWC 2015,7,16,4,11,3,5,Luminosity,7,18,0.46 
+2015,06,17,19:00,SpaceSoldiers,1337,mirage,RGN Pro Series EU,16,13,10,5,6,8,1337,23,21,1.27 
+2015,06,17,19:00,1337,SpaceSoldiers,dust2,RGN Pro Series EU,17,19,6,9,9,6,1337,20,26,0.82 
+2015,06,17,19:00,SpaceSoldiers,1337,inferno,RGN Pro Series EU,10,16,7,8,3,8,1337,17,19,0.88 
+2015,06,15,19:00,SK,1337,mirage,Global Offensive Champions Lea..,10,16,7,8,3,8,1337,13,22,0.61 
+2015,06,13,19:45,Acer,NiP,dust2,ESPORTSM 2015,5,16,3,12,2,4,Acer,7,20,0.34 
+2015,06,13,19:45,NiP,Acer,train,ESPORTSM 2015,16,5,12,3,4,2,Acer,11,19,0.57 
+2015,06,11,20:00,1337,SK,train,Global Offensive Champions Lea..,16,13,12,3,4,10,1337,18,20,0.94 
+2015,06,11,20:00,1337,SK,cobblestone,Global Offensive Champions Lea..,16,21,3,12,12,3,1337,23,31,0.79 
+2015,05,28,22:15,mousesports,1337,mirage,CEVO Professional Season 7,16,13,11,4,5,9,1337,25,23,1.07 
+2015,05,28,22:15,mousesports,1337,dust2,CEVO Professional Season 7,16,9,11,4,5,5,1337,10,20,0.54 
+2015,05,25,20:00,x6tence,1337,train,RGN Pro Series EU,12,16,3,12,9,4,1337,19,18,0.98 
+2015,05,25,19:00,1337,AlienTech.Black,cache,RGN Pro Series EU,16,6,11,4,5,2,1337,11,10,0.99 
+2015,05,20,22:35,fnatic,TSM,mirage,ESL ESEA Pro League Season 1,15,19,9,6,6,9,fnatic,19,25,0.72 
+2014,08,27,22:00,fnatic,myXMG,mirage,Hitbox Arena Championship 2,16,3,12,3,4,0,fnatic,6,8,0.74 
+2014,08,27,22:00,myXMG,fnatic,inferno,Hitbox Arena Championship 2,7,16,3,12,4,4,fnatic,20,14,1.22 
+2014,08,27,22:00,fnatic,myXMG,overpass,Hitbox Arena Championship 2,14,16,6,9,8,7,fnatic,14,20,0.81 
+2014,08,24,19:00,fnatic,dAT,cobblestone,Hitbox Arena Championship 2,16,6,14,1,2,5,fnatic,19,13,1.29 
+2014,08,24,19:00,fnatic,dAT,inferno,Hitbox Arena Championship 2,16,2,14,1,2,1,fnatic,17,11,1.40 
+2014,06,16,01:00,NiP,fnatic,dust2,ESPORTSM 2013/2014 Finals,7,16,3,12,4,4,fnatic,8,13,0.65 
+2014,06,16,01:00,fnatic,NiP,train,ESPORTSM 2013/2014 Finals,16,14,8,7,8,7,fnatic,19,19,0.98 
+2014,06,15,13:30,fnatic,Publiclir.se,mirage,ESPORTSM 2013/2014 Finals,16,12,9,6,7,6,fnatic,14,16,0.88 
+2014,06,15,13:30,fnatic,Publiclir.se,dust2,ESPORTSM 2013/2014 Finals,16,9,9,6,7,3,fnatic,19,13,1.17 
+2014,06,15,10:00,FlipSid3,fnatic,inferno,ESPORTSM 2013/2014 Finals,10,16,7,8,3,8,fnatic,17,17,1.01 
+2014,06,15,10:00,fnatic,FlipSid3,mirage,ESPORTSM 2013/2014 Finals,16,10,9,6,7,4,fnatic,20,14,1.09 
+2014,06,14,22:45,SK,fnatic,inferno,DreamHack Summer 2014,16,10,12,3,4,7,fnatic,11,20,0.56 
+2014,06,14,21:35,fnatic,LondonC,mirage,DreamHack Summer 2014,16,4,13,2,3,2,fnatic,15,8,1.29 
+2014,06,14,20:30,fnatic,SK,inferno,DreamHack Summer 2014,9,16,9,6,0,10,fnatic,16,17,0.87 
+2014,06,04,19:30,fnatic,Titan,mirage,Hitbox Arena Championship,13,16,6,9,7,7,fnatic,11,22,0.51 
+2014,06,04,19:30,Titan,fnatic,inferno,Hitbox Arena Championship,16,11,7,8,9,3,fnatic,12,21,0.68 
+2014,06,03,19:00,fnatic,TEAMGLOBAL,train,Hitbox Arena Championship,16,5,12,3,4,2,fnatic,16,11,1.22 
+2014,06,03,19:00,TEAMGLOBAL,fnatic,mirage,Hitbox Arena Championship,16,10,10,5,6,5,fnatic,16,19,0.74 
+2014,06,03,19:00,TEAMGLOBAL,fnatic,inferno,Hitbox Arena Championship,5,16,5,10,0,6,fnatic,13,15,0.81 
+2014,05,22,21:30,dignitas,fnatic,dust2,FACEIT Spring League 2014,16,12,5,10,11,2,fnatic,19,21,0.90 
+2014,05,21,19:00,fnatic,Wizards,inferno,FACEIT Spring League 2014,10,16,6,9,4,7,fnatic,19,19,1.05 
+2014,05,19,21:09,fnatic,dignitas,inferno,Mikz Challenge,7,16,5,10,2,6,fnatic,10,21,0.46 
+2014,05,19,18:15,dignitas,fnatic,mirage,Mikz Challenge,22,20,8,7,7,8,fnatic,25,30,0.84 
+2014,05,18,18:15,NiP,fnatic,dust2,Mikz Challenge,16,6,9,6,7,0,fnatic,11,17,0.71 
+2014,05,15,22:25,NiP,fnatic,dust2,FACEIT Spring League 2014,16,8,11,4,5,4,fnatic,13,20,0.71 
+2014,05,14,21:30,fnatic,Virtus.pro,mirage,FACEIT Spring League 2014,6,16,6,9,0,7,fnatic,4,20,0.23 
+2014,05,14,19:00,mousesports,fnatic,dust2,Hitbox Arena Championship,12,16,6,9,6,7,fnatic,14,17,0.86 
+2014,05,14,19:00,mousesports,fnatic,inferno,Hitbox Arena Championship,23,26,9,6,6,9,fnatic,26,35,0.81 
+2014,05,13,19:18,Wizards,fnatic,inferno,Hitbox Arena Championship,8,16,7,8,1,8,fnatic,19,17,1.17 
+2014,05,13,19:00,Wizards,fnatic,mirage,Hitbox Arena Championship,10,16,4,11,6,5,fnatic,21,13,1.25 
+2014,05,08,22:00,Titan,fnatic,dust2,FACEIT Spring League 2014,16,9,11,4,5,5,fnatic,12,18,0.70 
+2014,05,07,20:00,fnatic,LDLC,dust2,FACEIT Spring League 2014,7,16,5,10,2,6,fnatic,11,19,0.62 
+2014,04,30,19:00,fnatic,LGB,mirage,FACEIT Spring League 2014,16,7,9,6,7,1,fnatic,12,12,1.00 
+2014,04,28,20:30,dignitas,fnatic,inferno,eSportsventure Cup,25,22,10,5,5,10,fnatic,26,33,0.84 
+2014,04,28,20:30,fnatic,dignitas,mirage,eSportsventure Cup,16,11,12,3,4,8,fnatic,13,16,0.82 
+2014,04,28,20:30,dignitas,fnatic,dust2,eSportsventure Cup,16,11,9,6,7,5,fnatic,11,21,0.59 
+2014,04,19,10:00,dignitas,fnatic,mirage,Copenhagen Games 2014,19,16,9,6,6,9,fnatic,20,22,0.88 
+2014,04,19,10:00,dignitas,fnatic,inferno,Copenhagen Games 2014,22,20,10,5,5,10,fnatic,22,27,0.84 
+2014,04,18,21:00,Publiclir.se,fnatic,mirage,Copenhagen Games 2014,9,16,4,11,5,5,fnatic,16,11,1.11 
+2014,04,18,21:00,Publiclir.se,fnatic,train,Copenhagen Games 2014,11,16,10,5,1,11,fnatic,17,19,0.92 

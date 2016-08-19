@@ -1,0 +1,5 @@
+2015,04,19,18:00,DIONAPPA,KnockOutStars,cache,ESL South East Europe Champion..,17,21,6,9,9,6,DIONAPPA,25,25,0.98 
+2015,04,19,18:00,KnockOutStars,DIONAPPA,dust2,ESL South East Europe Champion..,16,9,9,6,7,3,DIONAPPA,10,19,0.55 
+2014,08,18,21:00,Macedonia,Greece,dust2,European Championship 2014 Qua..,16,14,5,10,11,4,Greece,22,20,1.02 
+2014,08,18,21:00,Greece,Macedonia,inferno,European Championship 2014 Qua..,16,2,13,2,3,0,Greece,16,9,1.38 
+2014,08,18,21:00,Macedonia,Greece,mirage,European Championship 2014 Qua..,16,6,10,5,6,1,Greece,8,18,0.48 

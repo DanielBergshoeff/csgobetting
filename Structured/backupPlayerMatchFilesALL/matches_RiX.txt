@@ -1,0 +1,9 @@
+2016,08,11,14:30,dream[S]cape,Brutality,cache,ESEA Open Season 22 Asia,16,9,9,6,7,3,Brutality,18,22,0.93 
+2016,08,11,14:30,dream[S]cape,Brutality,train,ESEA Open Season 22 Asia,16,11,9,6,7,5,Brutality,28,18,1.50 
+2016,08,08,13:00,TheMongolz,Brutality,dust2,ESEA Open Season 22 Asia,9,16,8,7,1,9,Brutality,20,16,1.17 
+2016,08,08,13:00,TheMongolz,Brutality,mirage,ESEA Open Season 22 Asia,7,16,4,11,3,5,Brutality,16,12,1.02 
+2016,07,01,11:00,India,HongKong,cache,World Championships 2016 Asian..,6,16,4,11,2,5,India,17,18,0.93 
+2016,07,01,11:00,HongKong,India,mirage,World Championships 2016 Asian..,16,8,9,6,7,2,India,15,18,0.80 
+2015,09,12,15:40,Skyred,Brutality,dust2,MixBOT Pro-League Invite Seaso..,16,9,8,7,8,2,Brutality,14,19,0.78 
+2014,08,14,10:30,HellRaisers,Wolf,mirage,ESL One Cologne 2014,16,4,11,4,5,0,Wolf,6,18,0.39 
+2014,08,14,09:00,Wolf,NiP,dust2,ESL One Cologne 2014,7,16,4,11,3,5,Wolf,14,19,0.78 

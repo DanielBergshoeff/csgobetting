@@ -1,0 +1,9 @@
+2015,03,21,16:00,Orbit,Infused,inferno,Gfinity 2015 Spring Masters 1,16,9,11,4,5,5,Infused,17,21,0.79 
+2015,03,21,16:00,Infused,Orbit,cache,Gfinity 2015 Spring Masters 1,7,16,4,11,3,5,Infused,9,21,0.47 
+2015,03,20,20:00,Infused,Virtus.pro,inferno,Gfinity 2015 Spring Masters 1,10,16,7,8,3,8,Infused,15,19,0.79 
+2015,03,20,20:00,Virtus.pro,Infused,cache,Gfinity 2015 Spring Masters 1,16,10,7,8,9,2,Infused,12,24,0.58 
+2014,08,02,23:45,fnatic,Infused,inferno,Gfinity 3,16,12,13,2,3,10,Infused,23,20,1.15 
+2014,08,02,21:45,Infused,Epsilon,inferno,Gfinity 3,7,16,6,9,1,7,Infused,9,20,0.51 
+2014,08,02,18:30,iBUYPOWER,Infused,inferno,Gfinity 3,15,15,10,5,5,10,Infused,16,20,0.81 
+2014,08,02,17:25,Infused,NiP,cache,Gfinity 3,12,16,5,10,7,6,Infused,16,22,0.71 
+2014,08,02,12:30,LondonC,Infused,inferno,Gfinity 3,16,6,12,3,4,3,Infused,8,19,0.44 

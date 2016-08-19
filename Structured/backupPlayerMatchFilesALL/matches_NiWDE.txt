@@ -1,0 +1,3 @@
+2016,07,26,03:00,Mexico,DominicanRepublic,cache,World Championships 2016 North..,16,4,11,4,5,0,Dominican Republic,9,17,0.59 
+2016,07,26,01:00,DominicanRepublic,USA,dust2,World Championships 2016 North..,4,16,4,11,0,5,Dominican Republic,13,19,0.76 
+2016,03,23,05:45,One,MistGlobals,train,Razer Rising Stars NA League Q..,13,16,4,11,9,5,One,18,20,0.83 

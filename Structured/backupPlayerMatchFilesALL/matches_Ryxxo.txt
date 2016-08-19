@@ -1,0 +1,23 @@
+2016,07,26,22:35,PENTA,Alpha,dust2,WCA 2016 EU Qualifier,19,15,7,8,8,7,Alpha,27,20,1.20 
+2016,07,26,17:00,NokSuKao,Alpha,train,WCA 2016 EU Qualifier,7,16,6,9,1,7,Alpha,20,11,1.30 
+2016,07,26,17:00,NokSuKao,Alpha,cobblestone,WCA 2016 EU Qualifier,17,19,8,7,7,8,Alpha,25,20,1.01 
+2016,07,26,17:00,Alpha,NokSuKao,nuke,WCA 2016 EU Qualifier,4,16,3,12,1,4,Alpha,9,17,0.61 
+2016,06,25,16:00,EasternVikings,Singularity,train,Dust2.dk eOddset Kinguin #1,7,16,7,8,0,8,Eastern Vikings,19,19,1.06 
+2016,06,25,16:00,EasternVikings,Singularity,overpass,Dust2.dk eOddset Kinguin #1,12,16,7,8,5,8,Eastern Vikings,21,20,0.96 
+2016,06,25,14:45,EasternVikings,Alpha,cache,Dust2.dk eOddset Kinguin #1,16,13,13,2,3,11,Eastern Vikings,17,21,0.81 
+2016,06,25,13:30,EasternVikings,OnlineRol,train,Dust2.dk eOddset Kinguin #1,16,13,6,9,10,4,Eastern Vikings,22,16,1.24 
+2016,06,25,12:00,EasternVikings,Tricked,dust2,Dust2.dk eOddset Kinguin #1,14,16,8,7,6,9,Eastern Vikings,13,19,0.66 
+2016,06,14,21:30,EasternVikings,Alpha,dust2,Game On CS:GO June Invitationa..,6,16,5,10,1,6,Eastern Vikings,12,18,0.79 
+2016,06,14,21:30,EasternVikings,Alpha,nuke,Game On CS:GO June Invitationa..,10,16,10,5,0,11,Eastern Vikings,17,19,0.90 
+2016,06,14,21:30,Alpha,EasternVikings,cobblestone,Game On CS:GO June Invitationa..,9,16,2,13,7,3,Eastern Vikings,30,14,1.71 
+2016,05,13,19:15,KoNDenmark,KoNSweden,dust2,King of Nordic Season 4,13,16,5,10,8,6,KoN Denmark,19,21,0.89 
+2016,04,22,22:00,KoNDenmark,KoNFinland,dust2,King of Nordic Season 3,15,21,5,10,10,5,KoN Denmark,28,24,1.05 
+2016,04,22,20:45,KoNDenmark,KoNNorway,cache,King of Nordic Season 3,16,11,11,4,5,7,KoN Denmark,21,17,1.17 
+2016,04,22,19:15,KoNDenmark,KoNSweden,inferno,King of Nordic Season 3,16,14,12,3,4,11,KoN Denmark,22,19,1.14 
+2016,03,24,17:00,Recursive,Quantaya,inferno,Copenhagen Games 2016 BYOC Qua..,16,12,13,2,3,10,Quantaya,19,22,0.89 
+2016,03,24,15:30,Quantaya,fLYVERNE,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Quantaya,12,11,1.04 
+2016,03,24,13:00,Bananaboys,Quantaya,dust2,Copenhagen Games 2016 BYOC Qua..,19,16,7,8,8,7,Quantaya,29,28,1.10 
+2015,04,02,22:30,TAKTIKSTATIV,malefiQ,dust2,Copenhagen Games 2015,3,16,3,12,0,4,TAKTIKSTATIV,10,15,0.63 
+2015,04,02,21:40,TAKTIKSTATIV,Sharkgaming,mirage,Copenhagen Games 2015,10,16,9,6,1,10,TAKTIKSTATIV,13,22,0.61 
+2015,04,02,19:00,malefiQ,TAKTIKSTATIV,mirage,Copenhagen Games 2015,11,16,9,6,2,10,TAKTIKSTATIV,33,18,1.66 
+2015,04,02,15:30,TJ'SHELTE,TAKTIKSTATIV,dust2,Copenhagen Games 2015,4,16,1,14,3,2,TAKTIKSTATIV,20,7,1.60 

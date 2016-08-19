@@ -1,0 +1,17 @@
+2015,08,17,19:00,Publiclir.se,OverGaming,cache,Hitbox Arena Showdown Invitati..,13,16,9,6,4,10,Publiclir.se,15,22,0.73 
+2015,08,07,23:00,Publiclir.se,CAZ,cache,Multifrags Invitational 2015,11,16,5,10,6,6,Publiclir.se,19,23,0.97 
+2015,08,07,23:00,CAZ,Publiclir.se,inferno,Multifrags Invitational 2015,11,16,8,7,3,9,Publiclir.se,19,19,0.94 
+2015,08,07,23:00,Publiclir.se,CAZ,dust2,Multifrags Invitational 2015,8,16,3,12,5,4,Publiclir.se,14,19,0.78 
+2015,06,25,22:45,NatusVincere,Publiclir.se,mirage,CEVO Professional Season 7,16,11,11,4,5,7,Publiclir.se,15,20,0.72 
+2015,06,25,22:45,Publiclir.se,NatusVincere,cobblestone,CEVO Professional Season 7,13,16,6,9,7,7,Publiclir.se,15,22,0.73 
+2015,05,27,22:15,Publiclir.se,NiP,cache,CEVO Professional Season 7,6,16,5,10,1,6,Publiclir.se,17,18,0.95 
+2015,05,27,22:15,Publiclir.se,NiP,mirage,CEVO Professional Season 7,16,14,10,5,6,9,Publiclir.se,28,19,1.31 
+2015,05,26,22:15,Publiclir.se,HellRaisers,overpass,CEVO Professional Season 7,10,16,8,7,2,9,Publiclir.se,22,21,1.04 
+2015,05,26,22:15,HellRaisers,Publiclir.se,cache,CEVO Professional Season 7,16,5,11,4,5,1,Publiclir.se,12,18,0.73 
+2015,05,24,20:00,Publiclir.se,x6tence,mirage,CEVO Professional Season 7,6,16,5,10,1,6,Publiclir.se,17,21,0.84 
+2015,05,24,20:00,x6tence,Publiclir.se,cache,CEVO Professional Season 7,7,16,2,13,5,3,Publiclir.se,21,11,1.39 
+2015,05,14,21:00,mousesports,Publiclir.se,mirage,CEVO Professional Season 7,16,5,13,2,3,3,Publiclir.se,16,16,0.94 
+2015,05,14,21:00,Publiclir.se,mousesports,overpass,CEVO Professional Season 7,10,16,6,9,4,7,Publiclir.se,12,19,0.67 
+2015,05,11,22:30,Publiclir.se,LDLCWhite,inferno,RGN Pro Series EU Closed Quali..,13,16,11,4,2,12,Publiclir.se,17,21,0.76 
+2015,05,05,22:15,Titan,Publiclir.se,inferno,CEVO Professional Season 7,16,4,12,3,4,1,Publiclir.se,12,18,0.64 
+2015,05,05,22:15,Publiclir.se,Titan,cobblestone,CEVO Professional Season 7,10,16,7,8,3,8,Publiclir.se,13,21,0.62 

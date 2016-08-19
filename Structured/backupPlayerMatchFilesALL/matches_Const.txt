@@ -1,0 +1,3 @@
+2014,11,15,19:00,HLTV.orgStaff,RussianeSFStaff,dust2,Virtus.pro Staff Cup #1,16,0,15,0,1,0,Russian eSF Staff,1,16,0.05 
+2014,11,15,18:00,SLTVStaff,RussianeSFStaff,inferno,Virtus.pro Staff Cup #1,16,0,15,0,1,0,Russian eSF Staff,4,16,0.21 
+2014,11,15,16:00,Virtus.proStaff,RussianeSFStaff,mirage,Virtus.pro Staff Cup #1,16,1,14,1,2,0,Russian eSF Staff,7,17,0.41 

@@ -1,0 +1,13 @@
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,dust2,Fragadelphia 8,16,10,10,5,6,5,EchoMix,10,22,0.47 
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,train,Fragadelphia 8,16,14,7,8,9,6,EchoMix,12,23,0.54 
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,cobblestone,Fragadelphia 8,12,16,6,9,6,7,EchoMix,18,22,0.86 
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,inferno,Fragadelphia 8,16,8,10,5,6,3,EchoMix,12,20,0.70 
+2015,10,19,03:00,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,8,16,7,8,1,8,Roca's compLexity,11,23,0.44 
+2015,10,19,00:35,WinOut.net,Roca'scompLexity,mirage,Fragadelphia 6,7,16,5,10,2,6,Roca's compLexity,16,16,1.01 
+2015,10,18,23:25,ReapWhatYouSow,Roca'scompLexity,cache,Fragadelphia 6,13,16,7,8,6,8,Roca's compLexity,22,20,1.03 
+2015,10,18,19:15,Eanix,Roca'scompLexity,cache,Fragadelphia 6,5,16,4,11,1,5,Roca's compLexity,28,15,1.60 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,10,16,4,11,6,5,Roca's compLexity,19,21,0.90 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,cobblestone,Fragadelphia 6,16,14,7,8,9,6,Roca's compLexity,27,20,1.28 
+2015,10,18,16:25,Tectonic,Roca'scompLexity,cache,Fragadelphia 6,16,6,11,4,5,2,Roca's compLexity,18,21,0.88 
+2015,10,18,02:00,Roca'scompLexity,TheMooninites,cache,Fragadelphia 6,16,9,9,6,7,3,Roca's compLexity,22,17,1.30 
+2015,10,18,02:00,TheMooninites,Roca'scompLexity,inferno,Fragadelphia 6,7,16,6,9,1,7,Roca's compLexity,17,15,1.23 

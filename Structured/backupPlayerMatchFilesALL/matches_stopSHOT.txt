@@ -1,0 +1,3 @@
+2016,08,14,18:20,X,HUEHUE,mirage,ECS Season 2 EU Open Qualifier..,16,9,10,5,6,4,HUEHUE,10,20,0.61 
+2016,08,14,16:45,HUEHUE,HOMELESS,mirage,ECS Season 2 EU Open Qualifier..,21,19,8,7,7,8,HUEHUE,31,32,0.98 
+2016,08,14,15:40,HUEHUE,AliGon,dust2,ECS Season 2 EU Open Qualifier..,16,2,13,2,3,0,HUEHUE,13,9,1.33 

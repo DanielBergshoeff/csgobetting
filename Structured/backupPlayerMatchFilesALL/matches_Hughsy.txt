@@ -1,0 +1,5 @@
+2014,09,21,22:45,Russia,UnitedKingdom,dust2,European Championship 2014,16,5,10,5,6,0,United Kingdom,10,18,0.54 
+2014,05,14,21:25,fm-eSports,Wizards,nuke,Hitbox Arena Championship,14,16,9,6,5,10,fm-eSports,15,25,0.69 
+2014,05,14,21:25,fm-eSports,Wizards,mirage,Hitbox Arena Championship,13,16,7,8,6,8,fm-eSports,17,21,0.87 
+2014,05,13,21:09,mousesports,fm-eSports,dust2,Hitbox Arena Championship,16,6,9,6,7,0,fm-eSports,14,20,0.82 
+2014,05,13,21:00,mousesports,fm-eSports,inferno,Hitbox Arena Championship,16,10,9,6,7,4,fm-eSports,19,20,0.98 

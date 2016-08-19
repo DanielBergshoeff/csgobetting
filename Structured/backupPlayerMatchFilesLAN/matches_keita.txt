@@ -1,0 +1,10 @@
+2016,07,03,20:45,TheWorkingMen,Reason,cache,ESL UK Premiership Spring 2016..,16,13,6,9,10,4,Reason,17,19,0.85 
+2016,07,03,20:45,TheWorkingMen,Reason,mirage,ESL UK Premiership Spring 2016..,16,9,9,6,7,3,Reason,17,20,1.06 
+2016,07,03,20:45,TheWorkingMen,Reason,cobblestone,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,Reason,28,18,1.30 
+2016,07,03,15:30,Reason,Infused,cache,ESL UK Premiership Spring 2016..,16,11,9,6,7,5,Reason,15,16,0.88 
+2016,07,03,15:30,Infused,Reason,mirage,ESL UK Premiership Spring 2016..,7,16,6,9,1,7,Reason,11,15,0.71 
+2016,07,03,15:30,Reason,Infused,cobblestone,ESL UK Premiership Spring 2016..,13,16,4,11,9,5,Reason,15,24,0.63 
+2016,03,24,15:30,BX3,thepickles,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,4,11,4,5,0,the pickles,7,17,0.47 
+2016,03,24,13:00,WinOut,thepickles,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,the pickles,6,17,0.36 
+2016,02,21,13:00,Barrage,Infused,mirage,epic.SEVENTEEN,16,6,9,6,7,0,Infused,13,19,0.71 
+2016,02,21,13:00,Infused,Barrage,cache,epic.SEVENTEEN,6,16,3,12,3,4,Infused,19,17,1.12 

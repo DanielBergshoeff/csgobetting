@@ -1,0 +1,26 @@
+2016,04,23,13:30,AllGamers,eFuture,cache,Pro Gamers League 2016 Spring,16,10,11,4,5,6,eFuture,12,23,0.55 
+2016,04,23,13:30,AllGamers,eFuture,cobblestone,Pro Gamers League 2016 Spring,16,11,10,5,6,6,eFuture,20,21,1.01 
+2015,12,19,09:00,BornOfFire,Wings,cache,SL i-League StarSeries XIV Chi..,9,16,2,13,7,3,Born Of Fire,8,19,0.56 
+2015,12,19,09:00,Wings,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,10,12,3,4,7,Born Of Fire,11,23,0.51 
+2015,12,18,13:30,TyLoo,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,Born Of Fire,5,17,0.31 
+2015,12,18,13:30,BornOfFire,TyLoo,cache,SL i-League StarSeries XIV Chi..,1,16,0,15,1,1,Born Of Fire,8,16,0.48 
+2015,12,17,10:40,BornOfFire,Goalie,cache,SL i-League StarSeries XIV Chi..,16,7,11,4,5,3,Born Of Fire,26,10,1.78 
+2015,12,17,10:40,BornOfFire,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,19,9,6,6,9,Born Of Fire,21,26,0.78 
+2015,12,17,10:40,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV Chi..,12,16,10,5,2,11,Born Of Fire,24,17,1.20 
+2015,12,06,12:00,FOF,BornOfFire,mirage,Fulcrum Gamers League,5,16,3,12,2,4,Born Of Fire,11,10,0.89 
+2015,12,06,12:00,FOF,BornOfFire,dust2,Fulcrum Gamers League,9,16,7,8,2,8,Born Of Fire,25,10,1.79 
+2015,12,04,13:40,BornOfFire,BOW,mirage,Fulcrum Gamers League,16,8,13,2,3,6,Born Of Fire,18,15,1.05 
+2015,12,04,13:40,BornOfFire,BOW,dust2,Fulcrum Gamers League,16,10,7,8,9,2,Born Of Fire,27,19,1.35 
+2015,12,04,12:00,PUZZLES,BornOfFire,inferno,Fulcrum Gamers League,16,10,6,9,10,1,Born Of Fire,19,21,0.92 
+2015,12,04,12:00,BornOfFire,PUZZLES,dust2,Fulcrum Gamers League,1,16,1,14,0,2,Born Of Fire,11,17,0.61 
+2015,11,29,16:00,JSG,BornOfFire,cache,SL i-League StarSeries XIV,14,16,4,11,10,5,Born Of Fire,22,21,1.01 
+2015,11,29,16:00,JSG,BornOfFire,dust2,SL i-League StarSeries XIV,8,16,7,8,1,8,Born Of Fire,17,13,1.09 
+2015,11,29,16:00,JSG,BornOfFire,mirage,SL i-League StarSeries XIV,16,10,8,7,8,3,Born Of Fire,14,21,0.65 
+2015,11,29,12:00,BornOfFire,TyLoo,cache,Fulcrum Gamers League,5,16,4,11,1,5,Born Of Fire,15,18,0.88 
+2015,11,29,12:00,TyLoo,BornOfFire,mirage,Fulcrum Gamers League,16,2,14,1,2,1,Born Of Fire,10,17,0.64 
+2015,11,28,12:00,TheMongolz,BornOfFire,mirage,Fulcrum Gamers League,16,12,7,8,9,4,Born Of Fire,13,21,0.67 
+2015,11,28,12:00,TheMongolz,BornOfFire,inferno,Fulcrum Gamers League,16,8,11,4,5,4,Born Of Fire,18,18,1.10 
+2015,11,27,12:30,YOUROWNMIRACLE,BornOfFire,inferno,SL i-League StarSeries XIV,4,16,4,11,0,5,Born Of Fire,19,9,1.50 
+2015,11,27,12:30,YOUROWNMIRACLE,BornOfFire,dust2,SL i-League StarSeries XIV,5,16,3,12,2,4,Born Of Fire,18,16,1.21 
+2015,11,25,12:30,BornOfFire,Goalie,cobblestone,SL i-League StarSeries XIV,16,12,8,7,8,5,Born Of Fire,18,20,0.96 
+2015,11,25,12:30,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV,8,16,5,10,3,6,Born Of Fire,26,13,1.76 

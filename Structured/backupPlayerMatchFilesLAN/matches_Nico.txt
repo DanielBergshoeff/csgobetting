@@ -1,0 +1,71 @@
+2016,03,24,23:00,Plantronics,WinOut,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,8,9,6,7,2,WinOut,17,18,0.92 
+2016,03,24,23:00,Plantronics,WinOut,inferno,Copenhagen Games 2016 BYOC Qua..,16,5,11,4,5,1,WinOut,18,18,1.27 
+2016,03,24,19:00,WinOut,eXtatus,cache,Copenhagen Games 2016 BYOC Qua..,16,6,9,6,7,0,WinOut,19,14,1.28 
+2016,03,24,19:00,WinOut,eXtatus,dust2,Copenhagen Games 2016 BYOC Qua..,16,12,11,4,5,8,WinOut,18,18,1.01 
+2016,03,24,15:30,WinOut,malefiQ,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,WinOut,15,12,1.02 
+2016,03,24,13:00,WinOut,thepickles,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,WinOut,17,8,1.47 
+2015,08,01,23:00,HellRaisers,dignitas,cache,Acer Predator Masters powered ..,16,3,12,3,4,0,dignitas,9,18,0.59 
+2015,08,01,23:00,HellRaisers,dignitas,cobblestone,Acer Predator Masters powered ..,8,16,5,10,3,6,dignitas,17,13,1.09 
+2015,08,01,23:00,dignitas,HellRaisers,dust2,Acer Predator Masters powered ..,17,19,5,10,10,5,dignitas,23,23,0.94 
+2015,08,01,13:30,dignitas,PENTA,mirage,Acer Predator Masters powered ..,16,10,6,9,10,1,dignitas,17,14,1.08 
+2015,08,01,13:30,PENTA,dignitas,dust2,Acer Predator Masters powered ..,11,16,4,11,7,5,dignitas,19,15,1.06 
+2015,07,31,14:00,dignitas,E-frag.net,cache,Acer Predator Masters powered ..,17,19,10,5,5,10,dignitas,25,21,1.05 
+2015,07,31,14:00,E-frag.net,dignitas,dust2,Acer Predator Masters powered ..,16,9,8,7,8,2,dignitas,16,18,0.83 
+2015,07,30,14:45,dignitas,HellRaisers,cobblestone,Acer Predator Masters powered ..,16,11,11,4,5,7,dignitas,19,13,1.14 
+2015,07,30,14:45,HellRaisers,dignitas,cache,Acer Predator Masters powered ..,9,16,8,7,1,9,dignitas,24,13,1.40 
+2015,07,25,21:45,dignitas,FlipSid3,mirage,ESL One Cologne 2015 European ..,16,19,12,3,3,12,dignitas,23,24,0.90 
+2015,07,25,20:30,dignitas,Kinguin,dust2,ESL One Cologne 2015 European ..,8,16,2,13,6,3,dignitas,8,15,0.57 
+2015,07,25,15:45,Property,dignitas,cobblestone,ESL One Cologne 2015 European ..,14,16,8,7,6,9,dignitas,17,17,1.00 
+2015,07,25,13:30,OverGaming,dignitas,dust2,ESL One Cologne 2015 European ..,9,16,9,6,0,10,dignitas,20,15,1.25 
+2015,06,28,15:30,dignitas,EnVyUs,cache,Gfinity 2015 Summer Masters 1,7,16,7,8,0,8,dignitas,7,17,0.49 
+2015,06,28,13:00,dignitas,EnVyUs,overpass,Gfinity 2015 Summer Masters 1,15,19,10,5,5,10,dignitas,15,24,0.66 
+2015,06,28,13:00,EnVyUs,dignitas,dust2,Gfinity 2015 Summer Masters 1,8,16,5,10,3,6,dignitas,20,14,1.21 
+2015,06,27,19:25,dignitas,Titan,cache,Gfinity 2015 Summer Masters 1,16,2,13,2,3,0,dignitas,13,8,1.19 
+2015,06,27,19:25,dignitas,Titan,cobblestone,Gfinity 2015 Summer Masters 1,8,16,5,10,3,6,dignitas,12,18,0.74 
+2015,06,27,19:25,Titan,dignitas,mirage,Gfinity 2015 Summer Masters 1,13,16,7,8,6,8,dignitas,14,17,0.82 
+2015,06,27,13:20,dignitas,NiP,inferno,Gfinity 2015 Summer Masters 1,9,16,6,9,3,7,dignitas,14,20,0.77 
+2015,06,27,13:20,NiP,dignitas,mirage,Gfinity 2015 Summer Masters 1,9,16,5,10,4,6,dignitas,13,13,1.01 
+2015,06,27,13:20,NiP,dignitas,cache,Gfinity 2015 Summer Masters 1,16,4,12,3,4,1,dignitas,7,18,0.46 
+2015,06,26,19:00,Titan,dignitas,overpass,Gfinity 2015 Summer Masters 1,7,16,6,9,1,7,dignitas,18,12,1.17 
+2015,06,26,19:00,Titan,dignitas,mirage,Gfinity 2015 Summer Masters 1,10,16,6,9,4,7,dignitas,14,15,0.91 
+2015,06,14,23:10,dignitas,NiP,cache,DreamHack Open Summer 2015,11,16,6,9,5,7,dignitas,16,21,0.74 
+2015,06,14,20:15,Kinguin,dignitas,mirage,DreamHack Open Summer 2015,14,16,5,10,9,6,dignitas,15,18,0.84 
+2015,06,14,17:15,NiP,dignitas,mirage,DreamHack Open Summer 2015,16,9,13,2,3,7,dignitas,13,16,0.80 
+2015,06,13,21:30,Exertus,dignitas,cache,DreamHack Open Summer 2015 BYO..,6,16,3,12,3,4,dignitas,8,11,0.76 
+2015,06,13,21:30,dignitas,Exertus,mirage,DreamHack Open Summer 2015 BYO..,16,6,12,3,4,3,dignitas,15,12,1.05 
+2015,06,13,19:15,dignitas,Team8,mirage,DreamHack Open Summer 2015 BYO..,16,12,11,4,5,8,dignitas,15,17,0.83 
+2015,06,13,19:15,Team8,dignitas,dust2,DreamHack Open Summer 2015 BYO..,7,16,5,10,2,6,dignitas,9,10,0.81 
+2015,05,10,18:40,dignitas,EnVyUs,dust2,DreamHack Open Tours 2015,17,19,10,5,5,10,dignitas,28,25,1.17 
+2015,05,10,18:40,EnVyUs,dignitas,cache,DreamHack Open Tours 2015,16,10,8,7,8,3,dignitas,19,18,1.04 
+2015,05,09,18:30,dignitas,FlipSid3,mirage,DreamHack Open Tours 2015,16,4,13,2,3,2,dignitas,21,10,1.63 
+2015,05,09,17:00,fnatic,dignitas,cache,DreamHack Open Tours 2015,16,12,13,2,3,10,dignitas,12,22,0.62 
+2015,05,09,13:30,dignitas,FlipSid3,mirage,DreamHack Open Tours 2015,19,17,9,6,6,9,dignitas,19,20,0.92 
+2015,04,11,16:15,dignitas,NatusVincere,cobblestone,ESL Pro League Winter 2014/15 ..,3,16,3,12,0,4,dignitas,5,15,0.42 
+2015,04,11,16:15,NatusVincere,dignitas,mirage,ESL Pro League Winter 2014/15 ..,16,4,11,4,5,0,dignitas,4,17,0.38 
+2015,04,10,21:00,TSM,dignitas,mirage,ESL Pro League Winter 2014/15 ..,16,13,9,6,7,7,dignitas,12,19,0.69 
+2015,04,10,18:00,TSM,dignitas,cache,ESL Pro League Winter 2014/15 ..,9,16,7,8,2,8,dignitas,20,16,1.15 
+2015,04,10,18:00,dignitas,TSM,inferno,ESL Pro League Winter 2014/15 ..,9,16,7,8,2,8,dignitas,15,20,0.76 
+2015,04,10,10:00,NatusVincere,dignitas,inferno,ESL Pro League Winter 2014/15 ..,12,16,5,10,7,6,dignitas,26,16,1.39 
+2015,04,10,10:00,NatusVincere,dignitas,mirage,ESL Pro League Winter 2014/15 ..,16,2,13,2,3,0,dignitas,8,18,0.44 
+2015,04,10,10:00,dignitas,NatusVincere,cobblestone,ESL Pro League Winter 2014/15 ..,16,11,10,5,6,6,dignitas,17,15,1.06 
+2015,04,04,20:45,TSM,dignitas,inferno,Copenhagen Games 2015,16,9,7,8,9,1,dignitas,18,16,1.10 
+2015,04,04,18:00,FlipSid3,dignitas,mirage,Copenhagen Games 2015,4,16,4,11,0,5,dignitas,21,6,1.64 
+2015,04,04,16:30,dignitas,G2,mirage,Copenhagen Games 2015,16,3,12,3,4,0,dignitas,17,6,1.70 
+2015,04,04,15:15,dignitas,CPHWolves,dust2,Copenhagen Games 2015,16,6,10,5,6,1,dignitas,18,11,1.41 
+2015,04,04,13:30,Reason,dignitas,inferno,Copenhagen Games 2015,3,16,3,12,0,4,dignitas,8,9,0.81 
+2015,04,04,10:00,dignitas,TSM,mirage,Copenhagen Games 2015,6,16,6,9,0,7,dignitas,11,17,0.68 
+2015,04,04,10:00,TSM,dignitas,nuke,Copenhagen Games 2015,16,6,15,0,1,6,dignitas,13,19,0.71 
+2015,04,03,22:30,FlipSid3,dignitas,mirage,Copenhagen Games 2015,10,16,5,10,5,6,dignitas,17,14,0.99 
+2015,04,03,22:30,FlipSid3,dignitas,inferno,Copenhagen Games 2015,8,16,7,8,1,8,dignitas,12,14,0.81 
+2015,04,03,15:30,CPHWolves,dignitas,cobblestone,Copenhagen Games 2015,16,19,8,7,7,8,dignitas,25,24,0.99 
+2015,04,03,15:30,dignitas,CPHWolves,inferno,Copenhagen Games 2015,16,10,7,8,9,2,dignitas,18,10,1.21 
+2015,04,03,12:00,dignitas,schlaegeros,cache,Copenhagen Games 2015,16,5,14,1,2,4,dignitas,14,8,1.23 
+2015,04,03,12:00,dignitas,schlaegeros,inferno,Copenhagen Games 2015,16,1,14,1,2,0,dignitas,17,7,1.62 
+2015,02,15,19:00,KaBuM.TD,dignitas,inferno,ESL One Katowice 2015 Main Qua..,16,3,13,2,3,1,dignitas,5,17,0.31 
+2015,02,15,18:42,dignitas,VoxEminor,inferno,ESL One Katowice 2015 Main Qua..,13,16,3,12,10,4,dignitas,18,19,0.88 
+2015,02,15,16:20,ESC,dignitas,mirage,ESL One Katowice 2015 Main Qua..,11,16,6,9,5,7,dignitas,18,17,0.97 
+2014,09,25,21:55,CPHWolves,3DMAX,cache,DreamHack Stockholm CS:GO Invi..,13,16,6,9,7,7,CPH Wolves,15,20,0.72 
+2014,09,25,19:30,dignitas,CPHWolves,inferno,DreamHack Stockholm CS:GO Invi..,16,14,11,4,5,10,CPH Wolves,14,20,0.70 
+2014,08,15,13:45,CPHWolves,NatusVincere,dust2,ESL One Cologne 2014,17,19,5,10,10,5,CPH Wolves,15,23,0.69 
+2014,08,14,13:00,CPHWolves,LondonC,cache,ESL One Cologne 2014,16,5,11,4,5,1,CPH Wolves,20,6,1.57 
+2014,08,14,12:00,NatusVincere,CPHWolves,inferno,ESL One Cologne 2014,16,6,12,3,4,3,CPH Wolves,12,15,0.85 

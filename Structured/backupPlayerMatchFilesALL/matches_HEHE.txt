@@ -1,0 +1,14 @@
+2016,08,11,13:00,MVPproject,TamuluS,cobblestone,VSL Season 1,16,11,12,3,4,8,TamuluS,19,20,0.93 
+2016,08,11,13:00,TamuluS,MVPproject,train,VSL Season 1,10,16,7,8,3,8,TamuluS,24,21,1.08 
+2016,07,31,13:15,T5,TamuluS,train,VSL Season 1,16,9,11,4,5,5,TamuluS,34,16,1.92 
+2016,07,24,12:15,TamuluS,Nomad,nuke,VSL Season 1,16,7,9,6,7,1,TamuluS,29,10,1.97 
+2016,07,14,14:00,TamuluS,Player5,mirage,VSL Season 1,16,1,14,1,2,0,TamuluS,23,5,2.18 
+2016,07,07,14:15,m0nsterwhite,TamuluS,mirage,VSL Season 1,8,16,5,10,3,6,TamuluS,15,16,0.89 
+2016,03,12,13:30,MVPproject,T5,mirage,DreamHack Masters Malmö 2016 A..,16,10,7,8,9,2,T5,25,21,1.21 
+2016,02,25,14:00,MVPproject,T5,cache,D!ngIT Fareast Asia Invitation..,16,4,12,3,4,1,T5,11,18,0.60 
+2016,02,25,14:00,MVPproject,T5,inferno,D!ngIT Fareast Asia Invitation..,13,16,10,5,3,11,T5,27,18,1.37 
+2016,02,25,14:00,MVPproject,T5,mirage,D!ngIT Fareast Asia Invitation..,16,9,10,5,6,4,T5,26,16,1.51 
+2015,12,06,12:00,TamuluS,T5,mirage,D!ngIT & NCSC Korea S1 Qualifi..,16,2,13,2,3,0,T5,6,17,0.36 
+2015,12,06,12:00,T5,TamuluS,dust2,D!ngIT & NCSC Korea S1 Qualifi..,16,11,11,4,5,7,T5,17,18,0.93 
+2015,12,06,12:00,T5,TamuluS,cache,D!ngIT & NCSC Korea S1 Qualifi..,9,16,8,7,1,9,T5,15,18,0.85 
+2015,11,29,13:00,T5,etoile,mirage,D!ngIT & NCSC Korea S1 Qualifi..,16,2,13,2,3,0,T5,20,5,1.84 

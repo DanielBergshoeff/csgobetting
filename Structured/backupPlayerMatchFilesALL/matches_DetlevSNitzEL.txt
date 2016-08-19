@@ -1,0 +1,16 @@
+2016,08,12,19:15,KoNFinland,KoNDenmark,cache,King of Nordic Season 4,16,3,13,2,3,1,KoN Denmark,14,15,0.94 
+2016,03,24,17:00,naptoR.Factory,FoxStratos,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Fox Stratos,5,17,0.28 
+2016,03,24,15:30,Preparation,FoxStratos,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,13,6,9,10,4,Fox Stratos,18,21,0.90 
+2016,03,24,13:00,naptoR.Factory,FoxStratos,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,4,11,1,5,Fox Stratos,15,12,1.06 
+2015,04,04,10:00,puta,INSHOCK,nuke,Copenhagen Games 2015,8,16,7,8,1,8,puta,8,17,0.54 
+2015,04,03,22:30,puta,Temp.no,mirage,Copenhagen Games 2015,16,11,7,8,9,3,puta,12,22,0.57 
+2015,04,03,19:00,puta,Atlantis,inferno,Copenhagen Games 2015,1,16,1,14,0,2,puta,8,14,0.61 
+2015,04,03,19:00,Atlantis,puta,mirage,Copenhagen Games 2015,16,5,13,2,3,3,puta,12,18,0.76 
+2015,04,03,15:30,puta,LGB,dust2,Copenhagen Games 2015,9,16,6,9,3,7,puta,18,19,0.89 
+2015,04,03,15:30,LGB,puta,mirage,Copenhagen Games 2015,16,0,15,0,1,0,puta,4,16,0.21 
+2015,04,03,12:00,Atlantis,puta,nuke,Copenhagen Games 2015,13,16,9,6,4,10,puta,17,19,0.87 
+2015,04,03,12:00,puta,Atlantis,mirage,Copenhagen Games 2015,22,20,4,11,11,4,puta,23,26,0.87 
+2015,04,03,12:00,puta,Atlantis,cache,Copenhagen Games 2015,6,16,5,10,1,6,puta,8,18,0.47 
+2015,04,02,20:15,jQntefabrikkeN,puta,dust2,Copenhagen Games 2015,9,16,6,9,3,7,puta,15,16,0.91 
+2015,04,02,19:00,puta,TJ'SHELTE,mirage,Copenhagen Games 2015,16,5,12,3,4,2,puta,14,13,1.03 
+2015,04,02,15:30,FreeTransfer,puta,dust2,Copenhagen Games 2015,11,16,7,8,4,8,puta,10,16,0.66 

@@ -1,0 +1,12 @@
+2016,07,24,09:50,Parallax,AthleticoBH,dust2,ESL Australia & NZ Championshi..,9,16,5,10,4,6,Parallax,8,21,0.42 
+2016,07,24,09:50,Parallax,AthleticoBH,mirage,ESL Australia & NZ Championshi..,11,16,4,11,7,5,Parallax,13,22,0.66 
+2016,07,24,04:15,Chiefs,Parallax,train,ESL Australia & NZ Championshi..,12,16,6,9,6,7,Parallax,18,17,1.00 
+2016,07,24,04:15,Chiefs,Parallax,mirage,ESL Australia & NZ Championshi..,16,8,11,4,5,4,Parallax,13,19,0.70 
+2016,07,24,04:15,Parallax,Chiefs,cache,ESL Australia & NZ Championshi..,16,12,10,5,6,7,Parallax,22,23,0.95 
+2016,07,23,08:00,Parallax,AthleticoBH,overpass,ESL Australia & NZ Championshi..,16,1,14,1,2,0,Parallax,10,9,0.94 
+2016,07,23,08:00,AthleticoBH,Parallax,cache,ESL Australia & NZ Championshi..,2,16,2,13,0,3,Parallax,17,10,1.47 
+2015,09,15,03:35,Skyfire,TRIDENT,mirage,ACL Melbourne 2015,16,14,7,8,9,6,TRIDENT,20,23,0.88 
+2015,09,15,03:34,TRIDENT,Skyfire,dust2,ACL Melbourne 2015,2,16,2,13,0,3,TRIDENT,6,17,0.32 
+2015,09,06,04:00,VoxEminor,TRIDENT,dust2,ACL Melbourne 2015,5,16,2,13,3,3,TRIDENT,23,10,1.73 
+2015,09,06,04:00,VoxEminor,TRIDENT,cache,ACL Melbourne 2015,3,16,3,12,0,4,TRIDENT,11,12,0.81 
+2015,09,06,04:00,VoxEminor,TRIDENT,cobblestone,ACL Melbourne 2015,16,11,7,8,9,3,TRIDENT,20,20,1.05 

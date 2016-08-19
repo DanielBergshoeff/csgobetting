@@ -1,0 +1,11 @@
+2015,09,15,23:30,Lions,ESC,overpass,D!ngIT $2000 Weekly Cup #17,16,11,13,2,3,9,Lions,23,17,1.16 
+2015,09,15,19:45,Lions,ESC,train,D!ngIT $2000 Weekly Cup #17,16,9,10,5,6,4,Lions,14,16,0.85 
+2015,09,15,19:45,Lions,ESC,cache,D!ngIT $2000 Weekly Cup #17,16,14,5,10,11,4,Lions,30,16,1.56 
+2015,09,14,17:30,Lions,EuropeanMisfits,cobblestone,D!ngIT $2000 Weekly Cup #17,16,14,9,6,7,8,Lions,40,20,1.93 
+2015,09,14,17:30,Lions,EuropeanMisfits,cache,D!ngIT $2000 Weekly Cup #17,16,12,7,8,9,4,Lions,20,15,1.16 
+2015,07,31,18:00,Lions,UNLEASHED,mirage,Assembly Summer 2015 AMD CS:GO..,11,16,7,8,4,8,Lions,17,19,0.92 
+2015,07,31,16:00,Lions,EpiphanyBolt,train,Assembly Summer 2015 AMD CS:GO..,8,16,4,11,4,5,Lions,14,18,0.79 
+2015,06,13,21:30,AGENT,Kinguin,mirage,DreamHack Open Summer 2015 BYO..,9,16,5,10,4,6,AGENT,16,22,0.82 
+2015,06,13,21:30,AGENT,Kinguin,overpass,DreamHack Open Summer 2015 BYO..,5,16,4,11,1,5,AGENT,18,16,1.19 
+2015,06,13,19:00,NONAMERS,AGENT,mirage,DreamHack Open Summer 2015 BYO..,5,16,5,10,0,6,AGENT,22,9,1.70 
+2015,06,13,19:00,NONAMERS,AGENT,inferno,DreamHack Open Summer 2015 BYO..,5,16,5,10,0,6,AGENT,23,8,1.67 

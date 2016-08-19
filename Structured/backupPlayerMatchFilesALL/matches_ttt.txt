@@ -1,0 +1,10 @@
+2015,11,24,17:30,hard'N'play,Fraternitas,inferno,D!ngIT $2000 Weekly Cup #27,10,16,5,10,5,6,hard'N'play,22,20,1.16 
+2015,11,23,17:30,ESC,hard'N'play,dust2,D!ngIT $2000 Weekly Cup #27,16,9,9,6,7,3,hard'N'play,9,21,0.45 
+2015,11,23,17:30,hard'N'play,ESC,mirage,D!ngIT $2000 Weekly Cup #27,21,19,8,7,7,8,hard'N'play,33,25,1.23 
+2015,11,23,17:30,ESC,hard'N'play,cache,D!ngIT $2000 Weekly Cup #27,16,12,11,4,5,8,hard'N'play,16,21,0.83 
+2015,10,27,20:00,Enso,DSS,mirage,Rising Tornado #5,16,14,9,6,7,8,DSS,21,18,0.97 
+2015,10,27,20:00,Enso,DSS,dust2,Rising Tornado #5,16,11,11,4,5,7,DSS,13,20,0.66 
+2015,10,18,19:15,ProjectSkyline,DSS,inferno,Rising Tornado #5,17,19,6,9,9,6,DSS,28,23,1.20 
+2015,10,18,19:15,ProjectSkyline,DSS,mirage,Rising Tornado #5,5,16,4,11,1,5,DSS,17,11,1.31 
+2015,10,15,18:15,HD4R,DSS,cache,Rising Tornado #5,16,10,12,3,4,7,DSS,11,24,0.44 
+2015,10,15,18:15,DSS,HD4R,dust2,Rising Tornado #5,9,16,7,8,2,8,DSS,15,17,0.83 

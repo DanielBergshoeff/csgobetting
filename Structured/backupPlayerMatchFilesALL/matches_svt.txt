@@ -1,0 +1,4 @@
+2015,12,06,03:00,GamersINC,Artyk,mirage,TecnoLAN Pasarela 2015 LAN Fin..,8,16,4,11,4,5,Gamers INC,14,16,0.90 
+2015,12,05,11:00,BountyHunters,GamersINC,dust2,TecnoLAN Pasarela 2015 LAN Fin..,5,16,3,12,2,4,Gamers INC,20,10,1.42 
+2015,12,05,03:30,OVP,GamersINC,cache,TecnoLAN Pasarela 2015 LAN Fin..,16,6,11,4,5,2,Gamers INC,10,21,0.42 
+2015,12,05,03:30,GamersINC,OVP,mirage,TecnoLAN Pasarela 2015 LAN Fin..,14,16,5,10,9,6,Gamers INC,24,22,1.06 

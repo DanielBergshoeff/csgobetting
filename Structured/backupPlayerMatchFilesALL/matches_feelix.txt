@@ -1,0 +1,7 @@
+2016,08,12,16:00,Ukraine,Greece,train,World Championships 2016 Europ..,16,3,12,3,4,0,Greece,12,17,0.71 
+2016,08,12,16:00,Greece,Ukraine,mirage,World Championships 2016 Europ..,2,16,2,13,0,3,Greece,11,17,0.75 
+2015,09,06,20:00,Liondogs,DelinquentHabits,dust2,eGaming CS:GO Championship 201..,1,16,1,14,0,2,Liondogs,10,17,0.63 
+2015,09,06,20:00,DelinquentHabits,Liondogs,cache,eGaming CS:GO Championship 201..,5,16,5,10,0,6,Liondogs,15,9,1.17 
+2015,09,06,20:00,DelinquentHabits,Liondogs,mirage,eGaming CS:GO Championship 201..,16,2,14,1,2,1,Liondogs,7,17,0.50 
+2015,09,06,15:10,VatosLocos,Liondogs,mirage,eGaming CS:GO Championship 201..,12,16,6,9,6,7,Liondogs,24,19,1.21 
+2015,09,06,15:10,VatosLocos,Liondogs,inferno,eGaming CS:GO Championship 201..,14,16,8,7,6,9,Liondogs,26,14,1.45 

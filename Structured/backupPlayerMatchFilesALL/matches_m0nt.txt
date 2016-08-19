@@ -1,0 +1,10 @@
+2015,09,06,01:00,SYF,Skyfire,train,ACL Melbourne 2015,5,16,5,10,0,6,SYF,13,18,0.74 
+2015,09,06,01:00,Skyfire,SYF,cobblestone,ACL Melbourne 2015,14,16,8,7,6,9,SYF,24,20,1.13 
+2015,06,21,14:00,Streamline,Immunity,inferno,FACEIT League 2015 Stage 2,7,16,7,8,0,8,Streamline,10,17,0.65 
+2015,06,20,12:00,Streamline,DireWolves,inferno,FACEIT League 2015 Stage 2,13,16,8,7,5,9,Streamline,14,19,0.82 
+2015,05,31,12:00,VoxEminor,Streamline,cache,FACEIT League 2015 Stage 2,16,9,12,3,4,6,Streamline,11,21,0.57 
+2015,05,28,12:00,Exile5,Streamline,cache,FACEIT League 2015 Stage 2 Oce..,13,16,12,3,1,13,Streamline,24,20,1.16 
+2015,05,28,12:00,Streamline,Exile5,inferno,FACEIT League 2015 Stage 2 Oce..,16,8,10,5,6,3,Streamline,16,7,1.33 
+2015,05,28,12:00,Streamline,Exile5,mirage,FACEIT League 2015 Stage 2 Oce..,9,16,8,7,1,9,Streamline,8,20,0.45 
+2015,05,27,12:00,Streamline,Subzero,mirage,FACEIT League 2015 Stage 2 Oce..,22,20,10,5,5,10,Streamline,38,29,1.26 
+2015,05,27,12:00,Streamline,Subzero,dust2,FACEIT League 2015 Stage 2 Oce..,16,3,12,3,4,0,Streamline,8,10,0.80 

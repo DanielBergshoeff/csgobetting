@@ -1,0 +1,23 @@
+2015,12,10,10:00,VoxEminor,Immunity,mirage,Counter Pit League Season 2,6,16,6,9,0,7,Vox Eminor,14,15,0.98 
+2015,12,10,10:00,Immunity,VoxEminor,inferno,Counter Pit League Season 2,16,4,11,4,5,0,Vox Eminor,11,17,0.67 
+2015,12,09,12:00,Exile5,VoxEminor,mirage,Counter Pit League Season 2,4,16,4,11,0,5,Vox Eminor,17,9,1.42 
+2015,12,09,12:00,Exile5,VoxEminor,dust2,Counter Pit League Season 2,4,16,2,13,2,3,Vox Eminor,14,9,1.12 
+2015,12,08,10:00,Chiefs,VoxEminor,dust2,Counter Pit League Season 2,9,16,3,12,6,4,Vox Eminor,14,17,0.78 
+2015,12,08,10:00,VoxEminor,Chiefs,cache,Counter Pit League Season 2,16,12,8,7,8,5,Vox Eminor,22,12,1.31 
+2015,12,07,12:00,VoxEminor,Legacy,mirage,Counter Pit League Season 2,8,16,7,8,1,8,Vox Eminor,12,17,0.75 
+2015,12,07,12:00,VoxEminor,Legacy,cobblestone,Counter Pit League Season 2,8,16,5,10,3,6,Vox Eminor,13,19,0.67 
+2015,12,02,10:00,VoxEminor,TRIDENT,mirage,Counter Pit League Season 2,16,4,11,4,5,0,Vox Eminor,29,9,2.12 
+2015,12,02,10:00,VoxEminor,TRIDENT,inferno,Counter Pit League Season 2,16,8,7,8,9,0,Vox Eminor,19,11,1.25 
+2015,10,18,12:00,AnimalSquad,fSociety,cache,FACEIT League 2015 Stage 3,21,18,6,9,9,6,fSociety,34,26,1.18 
+2015,10,17,11:00,Immunity,fSociety,cache,FACEIT League 2015 Stage 3,16,9,12,3,4,6,fSociety,21,20,1.19 
+2015,10,16,13:15,Exile5,fSociety,mirage,FACEIT League 2015 Stage 3,10,16,7,8,3,8,fSociety,22,15,1.25 
+2015,10,04,11:00,fSociety,Renegades,dust2,FACEIT League 2015 Stage 3,16,14,8,7,8,7,fSociety,20,19,1.13 
+2015,10,03,12:00,Chiefs,fSociety,mirage,FACEIT League 2015 Stage 3,13,16,6,9,7,7,fSociety,23,16,1.25 
+2015,06,21,13:00,Renegades,DireWolves,inferno,FACEIT League 2015 Stage 2,16,5,11,4,5,1,Dire Wolves,19,19,1.16 
+2015,06,20,12:00,Streamline,DireWolves,inferno,FACEIT League 2015 Stage 2,13,16,8,7,5,9,Dire Wolves,18,16,1.10 
+2015,05,31,14:00,DireWolves,AVANTGARDE,cache,FACEIT League 2015 Stage 2,16,6,12,3,4,3,Dire Wolves,14,12,1.11 
+2015,05,29,12:00,Steelseries,DireWolves,inferno,FACEIT League 2015 Stage 2 Oce..,14,16,8,7,6,9,Dire Wolves,26,17,1.33 
+2015,05,29,12:00,Steelseries,DireWolves,cache,FACEIT League 2015 Stage 2 Oce..,10,16,9,6,1,10,Dire Wolves,18,15,1.01 
+2015,05,27,11:00,DireWolves,Dynasty,mirage,FACEIT League 2015 Stage 2 Oce..,16,11,11,4,5,7,Dire Wolves,22,17,1.18 
+2015,05,27,11:00,Dynasty,DireWolves,dust2,FACEIT League 2015 Stage 2 Oce..,6,16,6,9,0,7,Dire Wolves,14,9,1.22 
+2015,05,27,11:00,Dynasty,DireWolves,cache,FACEIT League 2015 Stage 2 Oce..,16,11,8,7,8,4,Dire Wolves,17,18,0.99 

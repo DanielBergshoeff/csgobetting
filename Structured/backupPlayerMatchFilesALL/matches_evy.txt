@@ -1,0 +1,5 @@
+2014,10,29,11:35,Platinium,iGamerz,mirage,ESWC 2014 France,16,9,13,2,3,7,iGamerz,10,19,0.58 
+2014,10,29,09:30,Titan,iGamerz,dust2,ESWC 2014 France,16,8,13,2,3,6,iGamerz,14,19,0.78 
+2014,10,19,21:00,myXMG,iGamerz,overpass,DreamHack Winter 2014 EU pre-q..,16,5,12,3,4,2,iGamerz,12,19,0.71 
+2014,09,28,21:31,iGamerz,Bizounours,dust2,ESWC 2014 France Vakarm.net pr..,16,8,8,7,8,1,iGamerz,12,15,0.82 
+2014,09,28,21:00,Bizounours,iGamerz,mirage,ESWC 2014 France Vakarm.net pr..,7,16,7,8,0,8,iGamerz,20,15,1.16 

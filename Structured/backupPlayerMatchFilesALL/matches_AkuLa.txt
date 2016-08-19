@@ -1,0 +1,9 @@
+2016,07,10,11:00,Vesuvius,BinaryDragons,mirage,Game Show Open Season 4 Playof..,16,6,12,3,4,3,Binary Dragons,13,19,0.71 
+2016,07,10,11:00,Vesuvius,BinaryDragons,cache,Game Show Open Season 4 Playof..,16,4,11,4,5,0,Binary Dragons,10,18,0.62 
+2016,07,09,11:00,BinaryDragons,GameplayDNA,cache,Game Show Open Season 4 Playof..,11,16,7,8,4,8,Binary Dragons,16,21,0.85 
+2016,07,09,11:00,GameplayDNA,BinaryDragons,mirage,Game Show Open Season 4 Playof..,6,16,5,10,1,6,Binary Dragons,12,10,0.98 
+2016,07,09,11:00,GameplayDNA,BinaryDragons,cobblestone,Game Show Open Season 4 Playof..,16,12,12,3,4,9,Binary Dragons,15,22,0.73 
+2015,12,05,18:00,Arcade,Handface,inferno,Game Show Global eSports Cup 2..,19,15,12,3,3,12,Handface,18,26,0.69 
+2015,12,05,18:00,Arcade,Handface,dust2,Game Show Global eSports Cup 2..,16,14,3,12,13,2,Handface,19,20,0.86 
+2015,12,04,21:00,YP,Handface,dust2,Game Show Global eSports Cup 2..,16,5,13,2,3,3,Handface,8,18,0.55 
+2015,12,04,21:00,Handface,YP,mirage,Game Show Global eSports Cup 2..,10,16,6,9,4,7,Handface,12,21,0.61 

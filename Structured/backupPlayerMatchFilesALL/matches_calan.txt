@@ -1,0 +1,7 @@
+2016,07,07,02:00,Venezuela,Ecuador,mirage,World Championships 2016 South..,16,2,13,2,3,0,Ecuador,6,18,0.31 
+2016,07,07,02:00,Ecuador,Venezuela,dust2,World Championships 2016 South..,1,16,1,14,0,2,Ecuador,4,17,0.20 
+2015,06,17,17:15,Venezuela,Ecuador,cobblestone,World Championships 2015 South..,7,16,2,13,5,3,Ecuador,22,13,1.53 
+2015,06,17,17:15,Ecuador,Venezuela,mirage,World Championships 2015 South..,16,8,11,4,5,4,Ecuador,22,19,1.23 
+2015,06,16,18:00,Ecuador,Peru,mirage,World Championships 2015 South..,16,14,11,4,5,10,Ecuador,25,25,1.03 
+2015,06,16,18:00,Peru,Ecuador,inferno,World Championships 2015 South..,16,7,10,5,6,2,Ecuador,11,19,0.58 
+2015,06,16,18:00,Ecuador,Peru,dust2,World Championships 2015 South..,16,9,10,5,6,4,Ecuador,26,10,1.64 

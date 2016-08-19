@@ -1,0 +1,5 @@
+2016,03,24,20:00,Plantronics,n0_0rg,cache,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,n0_0rg,6,16,0.41 
+2016,03,24,20:00,n0_0rg,Plantronics,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,4,11,1,5,n0_0rg,11,18,0.72 
+2016,03,24,17:00,n0_0rg,Barrøvogsandaler,inferno,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,n0_0rg,7,6,0.94 
+2016,03,24,15:30,EpiphanyBolt,n0_0rg,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,n0_0rg,21,20,1.00 
+2016,03,24,13:00,n0_0rg,Barrøvogsandaler,dust2,Copenhagen Games 2016 BYOC Qua..,16,8,10,5,6,3,n0_0rg,20,13,1.24 

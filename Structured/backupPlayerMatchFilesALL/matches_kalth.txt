@@ -1,0 +1,14 @@
+2016,07,26,12:00,ASDF,Reload,nuke,CyberGamer Oceania eSports Mas..,16,5,10,5,6,0,Reload,7,21,0.31 
+2016,07,26,12:00,ASDF,Reload,cobblestone,CyberGamer Oceania eSports Mas..,16,12,12,3,4,9,Reload,19,25,0.74 
+2016,07,25,12:00,SYF,Reload,mirage,CyberGamer Oceania eSports Mas..,16,2,13,2,3,0,Reload,12,16,0.91 
+2016,07,25,12:00,Reload,SYF,cobblestone,CyberGamer Oceania eSports Mas..,10,16,7,8,3,8,Reload,12,21,0.59 
+2016,07,25,12:00,SYF,Reload,train,CyberGamer Oceania eSports Mas..,20,22,12,3,3,12,Reload,30,25,1.09 
+2016,07,19,12:00,InFamous,Reload,mirage,CyberGamer Oceania eSports Mas..,11,16,9,6,2,10,Reload,23,17,1.27 
+2016,07,19,12:00,Reload,InFamous,cobblestone,CyberGamer Oceania eSports Mas..,16,2,13,2,3,0,Reload,25,5,2.30 
+2016,07,19,12:00,Reload,InFamous,cache,CyberGamer Oceania eSports Mas..,13,16,6,9,7,7,Reload,27,20,1.27 
+2016,07,17,12:00,Reload,AVANTGARDE,mirage,CyberGamer Oceania eSports Mas..,23,25,11,4,4,11,Reload,40,36,1.14 
+2016,07,17,12:00,AVANTGARDE,Reload,dust2,CyberGamer Oceania eSports Mas..,16,8,9,6,7,2,Reload,8,21,0.43 
+2016,07,04,12:00,Legacy,Reload,cache,CyberGamer Oceania eSports Mas..,16,10,10,5,6,5,Reload,19,18,0.97 
+2016,07,04,12:00,Reload,Legacy,train,CyberGamer Oceania eSports Mas..,14,16,6,9,8,7,Reload,17,19,0.93 
+2015,09,21,10:00,Control.VP,Molotov,inferno,FACEIT League 2015 Stage 3 OCE..,16,9,11,4,5,5,Molotov,15,18,0.87 
+2015,09,21,10:00,Molotov,Control.VP,cache,FACEIT League 2015 Stage 3 OCE..,7,16,2,13,5,3,Molotov,14,20,0.72 

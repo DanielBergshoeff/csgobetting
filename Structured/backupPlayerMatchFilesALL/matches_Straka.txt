@@ -1,0 +1,19 @@
+2016,08,14,21:30,2Kill,Nocturns,dust2,GTL Tecnofields 2016,19,17,8,7,7,8,2Kill,30,24,1.18 
+2016,08,14,21:30,Nocturns,2Kill,cache,GTL Tecnofields 2016,13,16,6,9,7,7,2Kill,28,23,1.36 
+2016,08,12,03:40,2Kill,Dynasty,overpass,GTL Tecnofields 2016,19,16,5,10,10,5,2Kill,25,23,1.14 
+2016,08,12,03:40,Dynasty,2Kill,mirage,GTL Tecnofields 2016,8,16,7,8,1,8,2Kill,22,15,1.39 
+2016,08,12,01:40,2Kill,g3x,cache,ESEA Open Season 22 Brazil,8,16,7,8,1,8,2Kill,17,19,0.91 
+2016,08,12,01:40,2Kill,g3x,train,ESEA Open Season 22 Brazil,7,16,6,9,1,7,2Kill,16,20,0.79 
+2016,08,09,03:30,ProGamers,2Kill,overpass,ESEA Open Season 22 Brazil,2,16,1,14,1,2,2Kill,22,8,1.89 
+2016,08,09,03:30,ProGamers,2Kill,dust2,ESEA Open Season 22 Brazil,10,16,4,11,6,5,2Kill,20,15,1.17 
+2016,08,09,03:30,2Kill,ProGamers,mirage,ESEA Open Season 22 Brazil,9,16,4,11,5,5,2Kill,15,16,0.91 
+2016,07,24,23:30,Argentina,Brazil,cobblestone,World Championships 2016 South..,16,7,11,4,5,3,Argentina,24,12,1.54 
+2016,07,24,23:30,Brazil,Argentina,cache,World Championships 2016 South..,8,16,3,12,5,4,Argentina,9,19,0.58 
+2016,07,23,02:15,Argentina,Peru,cache,World Championships 2016 South..,16,7,13,2,3,5,Argentina,7,10,0.74 
+2016,07,23,02:15,Argentina,Peru,mirage,World Championships 2016 South..,9,16,3,12,6,4,Argentina,6,10,0.76 
+2016,07,23,02:15,Argentina,Peru,nuke,World Championships 2016 South..,16,10,10,5,6,5,Argentina,19,10,1.38 
+2015,12,13,23:15,GuerrerosdelMouse,NTN,cache,Gigabyte Top League Finals,5,16,5,10,0,6,Guerreros del Mouse,15,16,0.96 
+2015,12,13,23:15,NTN,GuerrerosdelMouse,inferno,Gigabyte Top League Finals,16,3,14,1,2,2,Guerreros del Mouse,4,17,0.26 
+2015,12,13,23:15,GuerrerosdelMouse,NTN,overpass,Gigabyte Top League Finals,16,13,10,5,6,8,Guerreros del Mouse,16,21,0.81 
+2015,12,13,15:00,NTN,GuerrerosdelMouse,cobblestone,Gigabyte Top League Finals,13,16,6,9,7,7,Guerreros del Mouse,33,20,1.52 
+2015,12,13,15:00,GuerrerosdelMouse,NTN,cache,Gigabyte Top League Finals,16,3,12,3,4,0,Guerreros del Mouse,28,10,2.38 

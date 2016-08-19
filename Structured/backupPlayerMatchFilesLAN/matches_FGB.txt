@@ -1,0 +1,17 @@
+2016,05,16,04:45,ZePugGodz,TempoStorm,cobblestone,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Ze Pug Godz,13,16,0.73 
+2016,05,16,04:45,TempoStorm,ZePugGodz,cache,ESEA Premier Season 21 North A..,16,14,6,9,10,5,Ze Pug Godz,21,20,1.01 
+2016,05,15,23:00,ZePugGodz,Kaliber,train,ESEA Premier Season 21 North A..,16,10,8,7,8,3,Ze Pug Godz,23,20,1.17 
+2016,05,15,23:00,Kaliber,ZePugGodz,cache,ESEA Premier Season 21 North A..,18,22,6,9,9,6,Ze Pug Godz,26,32,0.82 
+2016,05,15,23:00,ZePugGodz,Kaliber,mirage,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Ze Pug Godz,8,19,0.44 
+2015,11,18,02:00,SKDC,CSGL,train,RGN Pro Series Championship,11,16,7,8,4,8,SKDC,21,20,1.03 
+2015,11,17,21:20,Liquid,SKDC,overpass,RGN Pro Series Championship,16,10,10,5,6,5,SKDC,13,21,0.62 
+2015,11,17,19:00,GamesAcademy,SKDC,dust2,RGN Pro Series Championship,16,5,11,4,5,1,SKDC,11,17,0.81 
+2015,10,19,03:00,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,8,16,7,8,1,8,Roca's compLexity,13,20,0.66 
+2015,10,19,00:35,WinOut.net,Roca'scompLexity,mirage,Fragadelphia 6,7,16,5,10,2,6,Roca's compLexity,19,10,1.28 
+2015,10,18,23:25,ReapWhatYouSow,Roca'scompLexity,cache,Fragadelphia 6,13,16,7,8,6,8,Roca's compLexity,19,20,0.92 
+2015,10,18,19:15,Eanix,Roca'scompLexity,cache,Fragadelphia 6,5,16,4,11,1,5,Roca's compLexity,11,14,0.76 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,10,16,4,11,6,5,Roca's compLexity,20,19,1.00 
+2015,10,18,16:25,Roca'scompLexity,Tectonic,cobblestone,Fragadelphia 6,16,14,7,8,9,6,Roca's compLexity,29,24,1.30 
+2015,10,18,16:25,Tectonic,Roca'scompLexity,cache,Fragadelphia 6,16,6,11,4,5,2,Roca's compLexity,12,21,0.60 
+2015,10,18,02:00,Roca'scompLexity,TheMooninites,cache,Fragadelphia 6,16,9,9,6,7,3,Roca's compLexity,14,17,0.82 
+2015,10,18,02:00,TheMooninites,Roca'scompLexity,inferno,Fragadelphia 6,7,16,6,9,1,7,Roca's compLexity,14,14,0.95 

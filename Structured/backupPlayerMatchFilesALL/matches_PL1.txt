@@ -1,0 +1,5 @@
+2016,06,27,01:30,Winterfox,ACE,train,CyberPowerPC Summer 2016 Quali..,16,13,10,5,6,8,ACE,35,20,1.70 
+2016,06,27,01:30,ACE,Winterfox,cache,CyberPowerPC Summer 2016 Quali..,11,16,6,9,5,7,ACE,12,21,0.64 
+2016,06,27,01:30,ACE,Winterfox,overpass,CyberPowerPC Summer 2016 Quali..,16,7,10,5,6,2,ACE,16,13,1.24 
+2016,06,26,23:05,ACE,SpawnKilled,mirage,CyberPowerPC Summer 2016 Quali..,16,8,9,6,7,2,ACE,25,15,1.44 
+2016,06,26,23:05,ACE,SpawnKilled,cache,CyberPowerPC Summer 2016 Quali..,16,10,11,4,5,6,ACE,14,17,0.84 

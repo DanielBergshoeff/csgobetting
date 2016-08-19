@@ -1,0 +1,10 @@
+2015,11,26,22:00,LowLandLions,EpiphanyBolt,mirage,QuickShot Arena #16,6,16,6,9,0,7,LowLandLions,13,19,0.68 
+2015,11,26,19:30,LowLandLions,fm-eSports,inferno,QuickShot Arena #16,16,5,13,2,3,3,LowLandLions,25,11,1.85 
+2015,11,26,18:15,EpiphanyBolt,LowLandLions,cobblestone,QuickShot Arena #16,16,14,6,9,10,5,LowLandLions,20,19,0.93 
+2015,11,25,18:00,VegaSquadron,LowLandLions,overpass,99Damage Arena #15,16,0,15,0,1,0,LowLandLions,11,16,0.65 
+2015,11,25,18:00,LowLandLions,VegaSquadron,mirage,99Damage Arena #15,11,16,6,9,5,7,LowLandLions,21,21,1.13 
+2015,11,21,17:00,SpaceSoldiers,LowLandLions,train,QuickShot Arena #15,16,1,14,1,2,0,LowLandLions,5,16,0.36 
+2015,11,21,17:00,SpaceSoldiers,LowLandLions,cobblestone,QuickShot Arena #15,16,12,10,5,6,7,LowLandLions,17,18,0.88 
+2015,11,20,22:00,LowLandLions,eSuba,inferno,QuickShot Arena #15,16,6,11,4,5,2,LowLandLions,21,12,1.48 
+2015,11,20,20:45,eXplosive,LowLandLions,dust2,QuickShot Arena #15,16,11,9,6,7,5,LowLandLions,14,21,0.72 
+2015,11,20,18:15,LowLandLions,eSuba,mirage,QuickShot Arena #15,16,12,9,6,7,6,LowLandLions,24,17,1.22 

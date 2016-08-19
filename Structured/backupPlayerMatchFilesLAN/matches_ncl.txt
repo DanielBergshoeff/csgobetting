@@ -1,0 +1,16 @@
+2016,03,02,21:20,NatusVincere,TheMongolz,cobblestone,IEM Katowice 2016,16,6,9,6,7,0,TheMongolz,8,20,0.43 
+2016,03,02,20:30,fnatic,TheMongolz,cache,IEM Katowice 2016,16,4,13,2,3,2,TheMongolz,3,18,0.24 
+2016,03,02,18:40,Luminosity,TheMongolz,inferno,IEM Katowice 2016,16,6,12,3,4,3,TheMongolz,12,18,0.71 
+2016,03,02,17:00,TheMongolz,NiP,mirage,IEM Katowice 2016,5,16,2,13,3,3,TheMongolz,12,18,0.65 
+2016,03,02,14:40,mousesports,TheMongolz,dust2,IEM Katowice 2016,16,7,10,5,6,2,TheMongolz,10,19,0.56 
+2016,02,01,06:30,TheMongolz,Renegades,inferno,IEM Taipei 2016,16,2,13,2,3,0,TheMongolz,8,4,1.14 
+2016,02,01,06:30,TheMongolz,Renegades,cobblestone,IEM Taipei 2016,16,9,8,7,8,2,TheMongolz,17,19,0.83 
+2016,01,31,04:00,TheMongolz,Chiefs,cobblestone,IEM Taipei 2016,16,9,9,6,7,3,TheMongolz,18,15,1.02 
+2016,01,31,04:00,Chiefs,TheMongolz,dust2,IEM Taipei 2016,10,16,7,8,3,8,TheMongolz,18,18,0.94 
+2016,01,31,04:00,Chiefs,TheMongolz,inferno,IEM Taipei 2016,16,13,12,3,4,10,TheMongolz,16,19,0.86 
+2016,01,30,05:10,Renegades,TheMongolz,cache,IEM Taipei 2016,13,16,4,11,9,5,TheMongolz,16,20,0.83 
+2016,01,09,11:00,TheMongolz,Wings,inferno,Fulcrum Gamers League Finals,4,16,4,11,0,5,TheMongolz,6,16,0.41 
+2016,01,09,11:00,Wings,TheMongolz,cache,Fulcrum Gamers League Finals,16,14,4,11,12,3,TheMongolz,18,21,0.80 
+2016,01,09,06:00,TheMongolz,TyLoo,cobblestone,Fulcrum Gamers League Finals,14,16,5,10,9,6,TheMongolz,15,23,0.69 
+2016,01,09,06:00,TheMongolz,TyLoo,mirage,Fulcrum Gamers League Finals,4,16,4,11,0,5,TheMongolz,13,18,0.74 
+2016,01,09,06:00,TheMongolz,TyLoo,dust2,Fulcrum Gamers League Finals,16,11,5,10,11,1,TheMongolz,25,14,1.40 

@@ -1,0 +1,13 @@
+2016,08,15,19:00,DarkPassage,SpaceSoldiers,cache,WESG 2016 Turkey,9,16,7,8,2,8,DarkPassage,12,21,0.60 
+2016,08,15,19:00,DarkPassage,SpaceSoldiers,cobblestone,WESG 2016 Turkey,8,16,4,11,4,5,DarkPassage,9,20,0.52 
+2016,08,14,22:30,Millennium,DarkPassage,mirage,WESG 2016 Turkey,6,16,6,9,0,7,DarkPassage,21,11,1.39 
+2016,08,14,22:30,DarkPassage,Millennium,cobblestone,WESG 2016 Turkey,25,23,8,7,7,8,DarkPassage,36,32,1.08 
+2016,05,03,18:00,GameAgents,SuperMassive,mirage,Balkan Championship Season 3,16,11,6,9,10,2,SuperMassive,17,20,1.00 
+2016,04,27,20:10,Bpro,SuperMassive,cache,Balkan Championship Season 3,19,17,7,8,8,7,SuperMassive,23,26,0.87 
+2016,04,21,19:00,SuperMassive,CS-GO.rs,cobblestone,Balkan Championship Season 3,16,11,8,7,8,4,SuperMassive,25,17,1.36 
+2016,04,20,20:00,RB,SuperMassive,mirage,Balkan Championship Season 3,19,16,7,8,8,7,SuperMassive,12,27,0.51 
+2016,04,08,19:00,XPC,SuperMassive,cobblestone,Balkan Championship Season 3,12,16,5,10,7,6,SuperMassive,17,21,0.79 
+2016,04,05,19:00,aimclub,SuperMassive,cache,Balkan Championship Season 3,9,16,4,11,5,5,SuperMassive,17,17,0.90 
+2016,04,04,19:00,Pixel,SuperMassive,mirage,Balkan Championship Season 3,17,19,8,7,7,8,SuperMassive,22,26,0.87 
+2016,03,27,18:00,Deathtrap,SuperMassive,cache,Balkan Championship Season 3,16,3,12,3,4,0,SuperMassive,5,18,0.29 
+2016,03,22,21:15,iNation,SuperMassive,mirage,Balkan Championship Season 3,16,7,13,2,3,5,SuperMassive,17,17,0.96 

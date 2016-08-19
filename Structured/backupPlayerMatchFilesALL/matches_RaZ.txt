@@ -1,0 +1,61 @@
+2016,07,28,11:30,Parallax,Chiefs,cache,CyberGamer Oceania eSports Mas..,16,12,7,8,9,4,Parallax,23,15,1.29 
+2016,07,28,11:30,Chiefs,Parallax,overpass,CyberGamer Oceania eSports Mas..,16,10,12,3,4,7,Parallax,20,19,1.09 
+2016,07,28,11:30,Chiefs,Parallax,dust2,CyberGamer Oceania eSports Mas..,13,16,7,8,6,8,Parallax,31,15,1.61 
+2016,07,24,09:50,Parallax,AthleticoBH,dust2,ESL Australia & NZ Championshi..,9,16,5,10,4,6,Parallax,20,16,1.24 
+2016,07,24,09:50,Parallax,AthleticoBH,mirage,ESL Australia & NZ Championshi..,11,16,4,11,7,5,Parallax,18,18,0.96 
+2016,07,24,04:15,Chiefs,Parallax,train,ESL Australia & NZ Championshi..,12,16,6,9,6,7,Parallax,25,19,1.15 
+2016,07,24,04:15,Chiefs,Parallax,mirage,ESL Australia & NZ Championshi..,16,8,11,4,5,4,Parallax,21,15,1.23 
+2016,07,24,04:15,Parallax,Chiefs,cache,ESL Australia & NZ Championshi..,16,12,10,5,6,7,Parallax,16,18,0.85 
+2016,07,23,08:00,Parallax,AthleticoBH,overpass,ESL Australia & NZ Championshi..,16,1,14,1,2,0,Parallax,16,8,1.49 
+2016,07,23,08:00,AthleticoBH,Parallax,cache,ESL Australia & NZ Championshi..,2,16,2,13,0,3,Parallax,17,10,1.51 
+2016,07,19,11:00,Skyfire,Parallax,cache,CyberGamer Oceania eSports Mas..,10,16,6,9,4,7,Parallax,21,15,1.29 
+2016,07,19,11:00,Parallax,Skyfire,train,CyberGamer Oceania eSports Mas..,16,11,7,8,9,3,Parallax,23,13,1.33 
+2016,07,19,11:00,Skyfire,Parallax,cobblestone,CyberGamer Oceania eSports Mas..,19,16,4,11,11,4,Parallax,18,29,0.69 
+2016,07,18,12:00,Parallax,Exile5,dust2,CyberGamer Oceania eSports Mas..,16,19,7,8,8,7,Parallax,20,19,0.92 
+2016,07,18,12:00,Parallax,Exile5,mirage,CyberGamer Oceania eSports Mas..,14,16,10,5,4,11,Parallax,22,22,0.98 
+2016,07,18,12:00,Exile5,Parallax,cache,CyberGamer Oceania eSports Mas..,9,16,3,12,6,4,Parallax,23,17,1.31 
+2016,07,11,11:30,AthleticoBH,Parallax,overpass,CyberGamer Oceania eSports Mas..,16,10,9,6,7,4,Parallax,23,20,1.24 
+2016,07,11,11:30,AthleticoBH,Parallax,train,CyberGamer Oceania eSports Mas..,16,9,10,5,6,4,Parallax,27,17,1.53 
+2016,07,11,11:30,Parallax,AthleticoBH,cache,CyberGamer Oceania eSports Mas..,16,6,10,5,6,1,Parallax,24,12,1.60 
+2016,07,07,11:30,Parallax,GUTS,overpass,CyberGamer Oceania eSports Mas..,16,11,6,9,10,2,Parallax,23,13,1.37 
+2016,07,07,11:30,GUTS,Parallax,train,CyberGamer Oceania eSports Mas..,9,16,8,7,1,9,Parallax,17,16,0.95 
+2015,12,15,01:00,SetToDestroyX,UMass,dust2,QuickShot Arena NA #2,13,16,8,7,5,9,SetToDestroyX,19,20,0.90 
+2015,12,15,01:00,UMass,SetToDestroyX,cobblestone,QuickShot Arena NA #2,16,14,7,8,9,6,SetToDestroyX,22,21,1.03 
+2015,12,10,12:00,Legacy,Exile5,cobblestone,Counter Pit League Season 2,16,13,8,7,8,6,Legacy,17,18,0.88 
+2015,12,10,12:00,Legacy,Exile5,mirage,Counter Pit League Season 2,22,18,12,3,3,12,Legacy,20,24,0.83 
+2015,12,09,10:00,Chiefs,Legacy,dust2,Counter Pit League Season 2,1,16,1,14,0,2,Legacy,20,6,1.85 
+2015,12,09,10:00,Legacy,Chiefs,mirage,Counter Pit League Season 2,16,12,9,6,7,6,Legacy,25,16,1.49 
+2015,12,07,12:00,VoxEminor,Legacy,mirage,Counter Pit League Season 2,8,16,7,8,1,8,Legacy,20,11,1.36 
+2015,12,07,12:00,VoxEminor,Legacy,cobblestone,Counter Pit League Season 2,8,16,5,10,3,6,Legacy,19,12,1.36 
+2015,12,06,10:00,Legacy,Immunity,cache,Counter Pit League Season 2,6,16,2,13,4,3,Legacy,19,17,1.17 
+2015,12,06,10:00,Legacy,Immunity,inferno,Counter Pit League Season 2,11,16,6,9,5,7,Legacy,25,21,1.21 
+2015,12,05,09:00,Legacy,TRIDENT,mirage,Counter Pit League Season 2,16,4,13,2,3,2,Legacy,26,7,1.96 
+2015,12,05,09:00,TRIDENT,Legacy,cache,Counter Pit League Season 2,10,16,3,12,7,4,Legacy,20,13,1.21 
+2015,11,27,12:00,Legacy,Liquid,cache,FACEIT League 2015 Stage 3 Fin..,11,16,7,8,4,8,Legacy,15,21,0.77 
+2015,11,27,12:00,Legacy,Liquid,cobblestone,FACEIT League 2015 Stage 3 Fin..,8,16,3,12,5,4,Legacy,13,17,0.76 
+2015,11,26,13:00,Virtus.pro,Legacy,cobblestone,FACEIT League 2015 Stage 3 Fin..,16,12,9,6,7,6,Legacy,15,20,0.83 
+2015,11,16,22:00,DeadPixels,Legacy,mirage,Red Dot Closed Qualifier,16,7,9,6,7,1,Legacy,14,18,0.84 
+2015,11,16,19:00,E-frag.net,Legacy,inferno,Red Dot Closed Qualifier,15,5,10,5,5,0,Legacy,10,17,0.64 
+2015,10,19,00:35,SetToDestroyX,SuckBrickKids,mirage,Fragadelphia 6,13,16,10,5,3,11,SetToDestroyX,19,25,0.80 
+2015,10,18,22:00,SetToDestroyX,Forbidden,cobblestone,Fragadelphia 6,16,12,11,4,5,8,SetToDestroyX,17,18,1.13 
+2015,10,18,18:40,SetToDestroyX,WinOut.net,overpass,Fragadelphia 6,13,16,6,9,7,7,SetToDestroyX,28,22,1.26 
+2015,10,18,18:40,SetToDestroyX,WinOut.net,cobblestone,Fragadelphia 6,25,22,7,8,8,7,SetToDestroyX,39,35,1.17 
+2015,10,18,18:40,WinOut.net,SetToDestroyX,mirage,Fragadelphia 6,16,3,14,1,2,2,SetToDestroyX,11,18,0.59 
+2015,10,18,12:00,AnimalSquad,fSociety,cache,FACEIT League 2015 Stage 3,21,18,6,9,9,6,Animal Squad,27,30,0.87 
+2015,10,18,03:55,ReapWhatYouSow,SetToDestroyX,dust2,Fragadelphia 6,9,16,8,7,1,9,SetToDestroyX,19,13,1.26 
+2015,10,18,03:55,SetToDestroyX,ReapWhatYouSow,cobblestone,Fragadelphia 6,16,3,13,2,3,1,SetToDestroyX,12,11,0.93 
+2015,10,17,13:00,AnimalSquad,Chiefs,cache,FACEIT League 2015 Stage 3,11,16,9,6,2,10,Animal Squad,15,20,0.78 
+2015,10,16,11:30,Immunity,AnimalSquad,mirage,FACEIT League 2015 Stage 3,9,16,5,10,4,6,Animal Squad,22,15,1.32 
+2015,10,04,13:40,Exile5,AnimalSquad,mirage,FACEIT League 2015 Stage 3,16,8,9,6,7,2,Animal Squad,14,18,0.79 
+2015,10,03,14:15,AnimalSquad,Renegades,cache,FACEIT League 2015 Stage 3,16,8,10,5,6,3,Animal Squad,26,12,1.70 
+2015,09,22,14:00,AthleticoBH,AnimalSquad,cobblestone,FACEIT League 2015 Stage 3 OCE..,10,16,6,9,4,7,Animal Squad,16,15,1.06 
+2015,09,22,14:00,AnimalSquad,AthleticoBH,inferno,FACEIT League 2015 Stage 3 OCE..,21,15,9,6,6,9,Animal Squad,21,24,0.87 
+2015,09,21,13:00,RiP,AnimalSquad,dust2,FACEIT League 2015 Stage 3 OCE..,7,16,4,11,3,5,Animal Squad,19,13,1.20 
+2015,09,21,13:00,RiP,AnimalSquad,mirage,FACEIT League 2015 Stage 3 OCE..,10,16,4,11,6,5,Animal Squad,17,17,0.96 
+2015,08,29,01:00,AstralAuthority,Swarm,cobblestone,CS Select #27,8,16,1,14,7,2,Astral Authority,15,18,0.85 
+2015,08,29,01:00,Swarm,AstralAuthority,dust2,CS Select #27,10,16,6,9,4,7,Astral Authority,11,15,0.72 
+2015,06,24,04:00,Luminosity,AstralAuthority,cobblestone,RGN Pro Series NA,16,6,10,5,6,1,Astral Authority,7,16,0.59 
+2015,06,21,12:00,AVANTGARDE,Exile5,dust2,FACEIT League 2015 Stage 2,13,16,5,10,8,6,AVANT GARDE,20,20,0.93 
+2015,05,27,11:00,Steelseries,Skyfire,dust2,FACEIT League 2015 Stage 2 Oce..,16,13,8,7,8,6,Steelseries,20,18,1.17 
+2015,05,27,11:00,Skyfire,Steelseries,overpass,FACEIT League 2015 Stage 2 Oce..,16,12,14,1,2,11,Steelseries,19,20,0.96 
+2015,05,27,11:00,Skyfire,Steelseries,cache,FACEIT League 2015 Stage 2 Oce..,14,16,5,10,9,6,Steelseries,20,23,0.84 

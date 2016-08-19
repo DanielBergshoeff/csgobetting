@@ -1,0 +1,9 @@
+2016,03,24,22:35,Alpha,Bananaboys,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,13,5,10,11,3,Bananaboys,24,22,1.17 
+2016,03,24,22:35,Alpha,Bananaboys,dust2,Copenhagen Games 2016 BYOC Qua..,16,14,6,9,10,5,Bananaboys,27,20,1.24 
+2016,03,24,22:35,Bananaboys,Alpha,overpass,Copenhagen Games 2016 BYOC Qua..,16,12,6,9,10,3,Bananaboys,27,19,1.28 
+2016,03,24,19:00,Bananaboys,naptoR.Factory,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,14,7,1.37 
+2016,03,24,19:00,Bananaboys,naptoR.Factory,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,22,10,1.80 
+2016,03,24,15:30,Bananaboys,Recursive,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,25,6,2.09 
+2016,03,24,13:00,Bananaboys,Quantaya,dust2,Copenhagen Games 2016 BYOC Qua..,19,16,7,8,8,7,Bananaboys,18,20,0.88 
+2015,12,11,20:30,KoNDenmark,KoNNorway,mirage,King of Nordic Season 2,16,8,12,3,4,5,KoN Norway,19,17,1.12 
+2015,12,11,19:15,KoNFinland,KoNNorway,inferno,King of Nordic Season 2,8,16,6,9,2,7,KoN Norway,11,18,0.66 

@@ -1,0 +1,2 @@
+2015,11,19,19:30,myXMG,PlayingDucks,cache,QuickShot Arena #15,14,16,11,4,3,12,myXMG,12,24,0.54 
+2015,11,19,17:00,SpaceSoldiers,myXMG,dust2,QuickShot Arena #15,16,7,8,7,8,0,myXMG,11,18,0.60 

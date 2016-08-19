@@ -1,0 +1,5 @@
+2016,08,09,03:30,ForceofNature,LDDM,overpass,ESEA Open Season 22 Brazil,16,10,10,5,6,5,LDDM,19,17,1.05 
+2016,08,09,03:30,ForceofNature,LDDM,dust2,ESEA Open Season 22 Brazil,9,16,4,11,5,5,LDDM,14,15,0.93 
+2016,08,09,03:30,ForceofNature,LDDM,mirage,ESEA Open Season 22 Brazil,16,14,7,8,9,6,LDDM,21,20,1.07 
+2016,03,14,02:10,LDDM,CNB,train,Razer Rising Stars South Ameri..,14,16,10,5,4,11,LDDM,26,22,1.19 
+2016,03,13,23:00,LDDM,TSG,cobblestone,Razer Rising Stars South Ameri..,16,5,11,4,5,1,LDDM,15,9,1.23 

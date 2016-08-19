@@ -1,0 +1,27 @@
+2016,02,05,12:55,Orgless,CPHWolves,cobblestone,Assembly Winter 2016,8,16,5,10,3,6,Orgless,20,17,1.15 
+2016,02,05,11:45,Orgless,RCTIC,dust2,Assembly Winter 2016,8,16,8,7,0,9,Orgless,15,17,0.86 
+2016,01,31,17:00,PixelFire,E-frag.net,cobblestone,PGL Regional Minor Championshi..,8,16,5,10,3,6,PixelFire,12,18,0.74 
+2016,01,31,17:00,E-frag.net,PixelFire,mirage,PGL Regional Minor Championshi..,13,16,7,8,6,8,PixelFire,24,18,1.24 
+2016,01,31,17:00,PixelFire,E-frag.net,dust2,PGL Regional Minor Championshi..,12,16,7,8,5,8,PixelFire,21,17,1.11 
+2016,01,30,20:45,PixelFire,DenDD,train,PGL Regional Minor Championshi..,16,5,13,2,3,3,PixelFire,16,9,1.24 
+2016,01,30,20:45,DenDD,PixelFire,mirage,PGL Regional Minor Championshi..,38,41,11,4,4,11,PixelFire,58,53,1.08 
+2016,01,30,16:45,PixelFire,HellRaisers,overpass,PGL Regional Minor Championshi..,14,16,8,7,6,9,PixelFire,12,20,0.70 
+2016,01,30,16:45,PixelFire,HellRaisers,inferno,PGL Regional Minor Championshi..,14,16,6,9,8,7,PixelFire,14,17,0.82 
+2016,01,30,16:45,HellRaisers,PixelFire,mirage,PGL Regional Minor Championshi..,9,16,9,6,0,10,PixelFire,22,18,1.29 
+2016,01,30,13:30,PixelFire,DenDD,cobblestone,PGL Regional Minor Championshi..,16,2,13,2,3,0,PixelFire,16,7,1.50 
+2015,11,28,13:25,CSGO.one,E-frag.net,overpass,ESL South East Europe Champion..,12,16,9,6,3,10,CSGO.one,12,17,0.78 
+2015,11,28,13:25,E-frag.net,CSGO.one,inferno,ESL South East Europe Champion..,16,11,9,6,7,5,CSGO.one,18,22,0.82 
+2015,11,28,11:45,CSGO.one,Revolte,dust2,ESL South East Europe Champion..,10,16,4,11,6,5,CSGO.one,21,19,1.12 
+2015,11,28,10:00,CSGO.one,Ancients,overpass,ESL South East Europe Champion..,16,3,12,3,4,0,CSGO.one,14,7,1.28 
+2015,04,04,13:30,Reason,dignitas,inferno,Copenhagen Games 2015,3,16,3,12,0,4,Reason,7,17,0.42 
+2015,04,04,12:00,Reason,Games4u,inferno,Copenhagen Games 2015,16,2,13,2,3,0,Reason,19,5,1.83 
+2015,04,04,10:00,Atlantis,Reason,cache,Copenhagen Games 2015,14,16,10,5,4,11,Reason,19,24,0.87 
+2015,04,03,22:30,Reason,schlaegeros,cache,Copenhagen Games 2015,16,2,14,1,2,1,Reason,18,8,1.55 
+2015,04,03,19:00,INSHOCK,Reason,mirage,Copenhagen Games 2015,16,7,9,6,7,1,Reason,13,18,0.73 
+2015,04,03,19:00,INSHOCK,Reason,dust2,Copenhagen Games 2015,16,12,4,11,12,1,Reason,23,15,1.27 
+2015,04,03,19:00,Reason,INSHOCK,inferno,Copenhagen Games 2015,16,14,12,3,4,11,Reason,21,18,1.01 
+2015,04,03,15:30,G2,Reason,mirage,Copenhagen Games 2015,16,5,13,2,3,3,Reason,7,17,0.46 
+2015,04,03,15:30,Reason,G2,cobblestone,Copenhagen Games 2015,16,12,11,4,5,8,Reason,29,17,1.50 
+2015,04,03,15:30,Reason,G2,cache,Copenhagen Games 2015,11,16,8,7,3,9,Reason,26,19,1.28 
+2015,04,03,12:00,Reason,INSHOCK,cache,Copenhagen Games 2015,16,8,12,3,4,5,Reason,22,14,1.35 
+2015,04,03,12:00,INSHOCK,Reason,mirage,Copenhagen Games 2015,10,16,8,7,2,9,Reason,24,16,1.44 

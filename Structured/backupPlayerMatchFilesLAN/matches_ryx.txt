@@ -1,0 +1,23 @@
+2016,06,23,20:00,NatusVincere,EchoFox,overpass,ELEAGUE Season 1,16,4,11,4,5,0,Echo Fox,12,16,0.81 
+2016,06,23,20:00,NatusVincere,EchoFox,nuke,ELEAGUE Season 1,16,9,10,5,6,4,Echo Fox,15,18,0.80 
+2016,06,22,23:30,EchoFox,FlipSid3,train,ELEAGUE Season 1,2,16,2,13,0,3,Echo Fox,5,18,0.26 
+2016,06,22,22:40,EchoFox,FlipSid3,nuke,ELEAGUE Season 1,16,5,11,4,5,1,Echo Fox,18,14,1.15 
+2016,06,22,19:20,EchoFox,mousesports,train,ELEAGUE Season 1,13,16,11,4,2,12,Echo Fox,23,18,1.27 
+2016,06,22,18:00,mousesports,EchoFox,cobblestone,ELEAGUE Season 1,16,12,11,4,5,8,Echo Fox,22,22,1.04 
+2016,06,21,19:05,EchoFox,NatusVincere,dust2,ELEAGUE Season 1,16,11,12,3,4,8,Echo Fox,19,14,1.09 
+2016,06,21,18:00,NatusVincere,EchoFox,train,ELEAGUE Season 1,16,6,10,5,6,1,Echo Fox,9,18,0.54 
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,dust2,Fragadelphia 8,16,10,10,5,6,5,EchoMix,13,22,0.61 
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,train,Fragadelphia 8,16,14,7,8,9,6,EchoMix,21,22,0.96 
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,cobblestone,Fragadelphia 8,12,16,6,9,6,7,EchoMix,19,21,1.00 
+2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,inferno,Fragadelphia 8,16,8,10,5,6,3,EchoMix,17,17,0.93 
+2015,08,02,19:00,Liquid,TempoStorm,cache,ESL One Cologne 2015 NA Qualif..,16,10,10,5,6,5,Tempo Storm,16,21,0.87 
+2015,08,01,22:15,TempoStorm,Noble,cache,ESL One Cologne 2015 NA Qualif..,16,10,10,5,6,5,Tempo Storm,17,18,0.98 
+2015,08,01,20:00,TempoStorm,Liquid,cache,ESL One Cologne 2015 NA Qualif..,11,16,5,10,6,6,Tempo Storm,18,19,0.97 
+2015,07,25,22:00,TempoStorm,NatusVincere,cobblestone,CEVO Professional Season 7 Fin..,8,16,7,8,1,8,Tempo Storm,16,20,0.91 
+2015,07,25,22:00,NatusVincere,TempoStorm,inferno,CEVO Professional Season 7 Fin..,22,25,8,7,7,8,Tempo Storm,29,35,0.83 
+2015,07,25,22:00,TempoStorm,NatusVincere,mirage,CEVO Professional Season 7 Fin..,13,16,9,6,4,10,Tempo Storm,24,24,1.07 
+2015,07,25,16:00,TempoStorm,Luminosity,cobblestone,CEVO Professional Season 7 Fin..,16,6,11,4,5,2,Tempo Storm,19,13,1.24 
+2015,07,25,16:00,TempoStorm,Luminosity,dust2,CEVO Professional Season 7 Fin..,16,13,5,10,11,3,Tempo Storm,22,21,0.93 
+2015,07,25,16:00,Luminosity,TempoStorm,cache,CEVO Professional Season 7 Fin..,19,15,4,11,11,4,Tempo Storm,21,26,0.84 
+2015,07,24,23:00,Virtus.pro,TempoStorm,cache,CEVO Professional Season 7 Fin..,16,13,11,4,5,9,Tempo Storm,21,20,0.98 
+2015,07,24,23:00,TempoStorm,Virtus.pro,train,CEVO Professional Season 7 Fin..,9,16,8,7,1,9,Tempo Storm,18,19,0.89 

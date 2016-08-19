@@ -1,0 +1,6 @@
+2016,08,09,19:00,Croatia,Georgia,cache,World Championships 2016 Europ..,16,10,11,4,5,6,Croatia,13,16,0.80 
+2016,08,09,19:00,Georgia,Croatia,overpass,World Championships 2016 Europ..,6,16,3,12,3,4,Croatia,35,9,2.52 
+2016,02,22,23:00,Pixel,GIANT5,overpass,Balkan Challenge #1,16,11,8,7,8,4,GIANT5,20,22,0.88 
+2016,02,22,22:00,Deathtrap,GIANT5,cache,Balkan Challenge #1,16,9,11,4,5,5,GIANT5,19,19,0.99 
+2016,02,22,19:00,PhysX,GIANT5,inferno,Balkan Challenge #1,6,16,5,10,1,6,GIANT5,23,13,1.52 
+2015,05,08,21:15,GIANT5,RB,dust2,Balkan Superleague,15,15,6,9,9,6,GIANT5,14,24,0.73 

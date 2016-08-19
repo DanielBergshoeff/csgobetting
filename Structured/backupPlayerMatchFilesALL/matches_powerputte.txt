@@ -1,0 +1,12 @@
+2016,08,07,19:05,AGG,passions,mirage,ECS Season 2 EU Open Qualifier..,16,9,9,6,7,3,passions,15,18,0.78 
+2016,08,07,17:25,passions,mixbanan,mirage,ECS Season 2 EU Open Qualifier..,16,8,10,5,6,3,passions,21,10,1.40 
+2016,08,07,16:25,aimclub,passions,mirage,ECS Season 2 EU Open Qualifier..,11,16,8,7,3,9,passions,25,16,1.28 
+2016,08,07,15:35,passions,HEADSHOTBG,mirage,ECS Season 2 EU Open Qualifier..,16,6,10,5,6,1,passions,25,11,1.73 
+2016,06,04,18:30,SlashCry,ALTERNATEaTTaX,overpass,DreamHack ZOWIE Open Summer 20..,9,16,7,8,2,8,SlashCry,23,21,1.13 
+2016,05,28,18:00,SlashCry,ALTERNATEaTTaX,cache,DreamHack ZOWIE Open Summer 20..,7,16,6,9,1,7,SlashCry,11,21,0.57 
+2016,05,23,21:15,Portvakterna,KAPOW,inferno,Yoggi Yalla Cup,14,16,11,4,3,12,Portvakterna,15,19,0.76 
+2016,05,23,21:15,Portvakterna,KAPOW,dust2,Yoggi Yalla Cup,3,16,1,14,2,2,Portvakterna,7,16,0.53 
+2016,05,23,21:15,KAPOW,Portvakterna,mirage,Yoggi Yalla Cup,10,16,5,10,5,6,Portvakterna,16,15,0.97 
+2016,04,30,17:20,SlashCry,Desperados,cache,DreamHack Regional Minor Champ..,14,16,8,7,6,9,SlashCry,32,18,1.55 
+2016,04,13,18:15,VwS,HellRaisers,overpass,CEVO Gfinity Professional Seas..,6,16,4,11,2,5,VwS,13,19,0.79 
+2016,04,13,18:15,HellRaisers,VwS,cache,CEVO Gfinity Professional Seas..,16,10,9,6,7,4,VwS,11,22,0.57 

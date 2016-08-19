@@ -1,0 +1,4 @@
+2015,10,15,22:00,EasyFix,TES,mirage,Milan Games Week 2015 League b..,13,16,10,5,3,11,EasyFix,8,23,0.52 
+2015,10,13,20:30,SwagSilicone,EasyFix,dust2,Milan Games Week 2015 League b..,7,16,6,9,1,7,EasyFix,10,15,0.70 
+2015,10,06,22:00,RIPFonty,EasyFix,mirage,Milan Games Week 2015 League b..,14,16,4,11,10,5,EasyFix,22,18,1.11 
+2015,10,06,22:00,EasyFix,RIPFonty,cache,Milan Games Week 2015 League b..,13,16,7,8,6,8,EasyFix,12,21,0.67 

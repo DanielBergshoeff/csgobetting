@@ -1,0 +1,5 @@
+2016,07,21,16:00,Enso,ANOX,mirage,Game Show Spring Invitational ..,11,16,2,13,9,3,Enso,22,19,1.07 
+2016,06,09,19:00,SpaceJam,Enso,dust2,Game Show Spring Invitational ..,16,6,12,3,4,3,Enso,14,17,0.88 
+2016,06,09,19:00,SpaceJam,Enso,mirage,Game Show Spring Invitational ..,22,19,10,5,5,10,Enso,24,32,0.78 
+2016,05,19,19:00,ANOX,Enso,dust2,Game Show Spring Invitational ..,16,7,9,6,7,1,Enso,17,21,0.79 
+2016,05,19,19:00,Enso,ANOX,mirage,Game Show Spring Invitational ..,3,16,2,13,1,3,Enso,9,17,0.57 

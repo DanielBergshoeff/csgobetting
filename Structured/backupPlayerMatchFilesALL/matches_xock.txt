@@ -1,0 +1,6 @@
+2015,06,16,23:30,Peru,Venezuela,inferno,World Championships 2015 South..,16,6,9,6,7,0,Peru,9,11,0.78 
+2015,06,16,23:30,Peru,Venezuela,mirage,World Championships 2015 South..,22,18,12,3,3,12,Peru,22,28,0.81 
+2015,06,16,23:30,Venezuela,Peru,cache,World Championships 2015 South..,16,11,7,8,9,3,Peru,9,21,0.50 
+2015,06,16,18:00,Ecuador,Peru,mirage,World Championships 2015 South..,16,14,11,4,5,10,Peru,24,25,1.09 
+2015,06,16,18:00,Peru,Ecuador,inferno,World Championships 2015 South..,16,7,10,5,6,2,Peru,18,10,1.29 
+2015,06,16,18:00,Ecuador,Peru,dust2,World Championships 2015 South..,16,9,10,5,6,4,Peru,15,19,0.79 

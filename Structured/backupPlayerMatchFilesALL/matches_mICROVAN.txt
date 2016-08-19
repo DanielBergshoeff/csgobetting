@@ -1,0 +1,6 @@
+2015,09,29,22:30,mySemperFi,NoProblem!,mirage,D!ngIT $2000 Weekly Cup #19,1,16,1,14,0,2,mySemperFi,9,14,0.79 
+2015,09,29,21:15,GRS.GP,mySemperFi,dust2,D!ngIT $2000 Weekly Cup #19,2,16,2,13,0,3,mySemperFi,10,5,1.28 
+2015,09,29,19:00,mySemperFi,NoProblem!,cache,D!ngIT $2000 Weekly Cup #19,2,16,1,14,1,2,mySemperFi,16,16,1.09 
+2015,09,29,19:00,mySemperFi,NoProblem!,mirage,D!ngIT $2000 Weekly Cup #19,5,16,4,11,1,5,mySemperFi,15,19,0.84 
+2015,09,28,20:45,mySemperFi,GRS.GP,cache,D!ngIT $2000 Weekly Cup #19,16,5,11,4,5,1,mySemperFi,21,9,1.55 
+2015,09,28,20:45,mySemperFi,GRS.GP,dust2,D!ngIT $2000 Weekly Cup #19,16,8,9,6,7,2,mySemperFi,29,13,1.82 

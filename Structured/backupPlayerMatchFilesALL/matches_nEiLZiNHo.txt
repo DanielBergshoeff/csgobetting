@@ -1,0 +1,23 @@
+2015,09,29,20:10,UnitedKingdom,Finland,cache,World Championships 2015 Europ..,13,16,10,5,3,11,United Kingdom,10,20,0.54 
+2015,09,29,19:00,Slovakia,UnitedKingdom,inferno,World Championships 2015 Europ..,13,16,6,9,7,7,United Kingdom,18,17,1.04 
+2015,09,29,17:00,Germany,UnitedKingdom,dust2,World Championships 2015 Europ..,16,7,12,3,4,4,United Kingdom,14,18,0.86 
+2015,09,17,19:15,Turkey,UnitedKingdom,mirage,World Championships 2015 Europ..,16,9,8,7,8,2,United Kingdom,13,19,0.68 
+2015,09,07,22:00,fm-eSports,fish123,dust2,ESL UK Premiership Season 2,10,16,9,6,1,10,fm-eSports,16,19,0.89 
+2015,08,31,22:15,UnitedEstonia,fm-eSports,cache,ESL UK Premiership Season 2,16,8,9,6,7,2,fm-eSports,26,17,1.41 
+2015,08,28,16:30,UnitedKingdom,Moldova,mirage,World Championships 2015 Europ..,16,4,11,4,5,0,United Kingdom,19,7,1.76 
+2015,08,28,16:30,Moldova,UnitedKingdom,dust2,World Championships 2015 Europ..,10,16,4,11,6,5,United Kingdom,22,13,1.49 
+2015,08,25,22:00,Choke,fm-eSports,inferno,ESL UK Premiership Season 2,16,12,6,9,10,3,fm-eSports,20,23,0.95 
+2015,08,17,21:00,fm-eSports,GLG,cache,ESL UK Premiership Season 2,16,2,13,2,3,0,fm-eSports,19,4,1.77 
+2015,05,12,21:30,PiTER,Orbit,cobblestone,99Damage Arena #7,16,19,9,6,6,9,No team,3,1,1.28 
+2015,04,28,22:30,fm-eSports,UnitedEstonia,dust2,ESL UK Premiership Season 1,16,14,8,7,8,7,fm-eSports,15,22,0.73 
+2015,04,28,22:30,UnitedEstonia,fm-eSports,inferno,ESL UK Premiership Season 1,12,16,10,5,2,11,fm-eSports,18,20,1.04 
+2015,04,27,23:00,fm-eSports,Infused,nuke,ESL UK Premiership Season 1,14,16,9,6,5,10,fm-eSports,18,22,0.80 
+2015,04,27,23:00,fm-eSports,Infused,dust2,ESL UK Premiership Season 1,16,11,9,6,7,5,fm-eSports,28,15,1.44 
+2015,04,27,23:00,fm-eSports,Infused,mirage,ESL UK Premiership Season 1,9,16,6,9,3,7,fm-eSports,12,20,0.61 
+2015,04,27,20:00,UnitedEstonia,fm-eSports,cobblestone,ESL UK Premiership Season 1,11,16,3,12,8,4,fm-eSports,21,17,1.15 
+2015,04,27,20:00,fm-eSports,UnitedEstonia,inferno,ESL UK Premiership Season 1,11,16,8,7,3,9,fm-eSports,14,16,0.81 
+2015,04,27,20:00,UnitedEstonia,fm-eSports,nuke,ESL UK Premiership Season 1,5,16,4,11,1,5,fm-eSports,17,12,1.19 
+2014,05,14,21:25,fm-eSports,Wizards,nuke,Hitbox Arena Championship,14,16,9,6,5,10,fm-eSports,14,21,0.71 
+2014,05,14,21:25,fm-eSports,Wizards,mirage,Hitbox Arena Championship,13,16,7,8,6,8,fm-eSports,17,22,0.85 
+2014,05,13,21:09,mousesports,fm-eSports,dust2,Hitbox Arena Championship,16,6,9,6,7,0,fm-eSports,9,19,0.48 
+2014,05,13,21:00,mousesports,fm-eSports,inferno,Hitbox Arena Championship,16,10,9,6,7,4,fm-eSports,15,19,0.77 

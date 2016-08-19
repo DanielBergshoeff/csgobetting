@@ -1,0 +1,30 @@
+2016,03,26,11:00,LDLCfe,doyouevenfe,dust2,Copenhagen Games 2016 female,16,12,10,5,6,7,doyoueven fe,14,24,0.58 
+2016,03,26,11:00,LDLCfe,doyouevenfe,mirage,Copenhagen Games 2016 female,16,7,14,1,2,6,doyoueven fe,10,20,0.52 
+2016,03,26,11:00,doyouevenfe,LDLCfe,train,Copenhagen Games 2016 female,16,14,4,11,12,3,doyoueven fe,28,21,1.33 
+2016,03,25,20:15,ENYOfe,doyouevenfe,overpass,Copenhagen Games 2016 female,2,16,1,14,1,2,doyoueven fe,15,4,1.56 
+2016,03,25,20:15,doyouevenfe,ENYOfe,cache,Copenhagen Games 2016 female,16,6,11,4,5,2,doyoueven fe,16,9,1.22 
+2016,03,25,16:30,doyouevenfe,LGBfe,cache,Copenhagen Games 2016 female,7,16,3,12,4,4,doyoueven fe,9,18,0.55 
+2016,03,25,16:30,doyouevenfe,LGBfe,mirage,Copenhagen Games 2016 female,16,9,11,4,5,5,doyoueven fe,17,14,1.07 
+2016,03,25,16:30,doyouevenfe,LGBfe,cobblestone,Copenhagen Games 2016 female,5,16,5,10,0,6,doyoueven fe,10,18,0.57 
+2016,03,25,12:55,doyouevenfe,ENYOfe,dust2,Copenhagen Games 2016 female,16,1,14,1,2,0,doyoueven fe,17,6,1.84 
+2016,03,25,12:55,doyouevenfe,ENYOfe,mirage,Copenhagen Games 2016 female,16,5,13,2,3,3,doyoueven fe,16,8,1.22 
+2016,02,20,17:30,Recursive,Propertyfe,dust2,Nordic Masters Season 2 Finals,16,8,8,7,8,1,Property fe,16,18,0.86 
+2016,02,20,17:30,Propertyfe,Recursive,cache,Nordic Masters Season 2 Finals,3,16,3,12,0,4,Property fe,13,17,0.90 
+2016,02,20,13:30,Propertyfe,DenDD,mirage,Nordic Masters Season 2 Finals,4,16,4,11,0,5,Property fe,10,18,0.53 
+2015,07,12,00:45,LGBfe,Epsilonfe,dust2,ESWC 2015 Female,16,7,8,7,8,0,Epsilon fe,15,19,0.89 
+2015,07,11,23:30,Acerfe,Epsilonfe,cache,ESWC 2015 Female,16,10,8,7,8,3,Epsilon fe,18,19,0.91 
+2015,07,11,22:30,Epsilonfe,CLGRed,inferno,ESWC 2015 Female,11,16,8,7,3,9,Epsilon fe,16,22,0.75 
+2015,04,04,10:00,Epsilonfe,3DMAXfe,nuke,Copenhagen Games 2015 female,11,16,10,5,1,11,Epsilon fe,10,21,0.56 
+2015,04,04,10:00,Epsilonfe,3DMAXfe,inferno,Copenhagen Games 2015 female,10,16,5,10,5,6,Epsilon fe,11,18,0.67 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,cobblestone,Copenhagen Games 2015 female,16,8,11,4,5,4,Epsilon fe,21,18,1.15 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,nuke,Copenhagen Games 2015 female,16,11,12,3,4,8,Epsilon fe,21,16,1.11 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,cache,Copenhagen Games 2015 female,12,16,6,9,6,7,Epsilon fe,14,22,0.68 
+2015,04,03,18:30,Karma,Epsilonfe,mirage,Copenhagen Games 2015 female,16,12,9,6,7,6,Epsilon fe,20,24,0.90 
+2015,04,03,18:30,Epsilonfe,Karma,cache,Copenhagen Games 2015 female,11,16,8,7,3,9,Epsilon fe,12,22,0.57 
+2014,10,31,16:30,Reasonfe,BadMonkey,nuke,ESWC 2014 Female,9,16,6,9,3,7,Reason fe,15,20,0.94 
+2014,10,31,10:25,Karma,Reasonfe,mirage,ESWC 2014 Female,16,5,11,4,5,1,Reason fe,8,20,0.38 
+2014,10,31,10:25,Karma,Reasonfe,cobblestone,ESWC 2014 Female,16,10,14,1,2,9,Reason fe,17,21,0.95 
+2014,10,31,10:25,Reasonfe,Karma,nuke,ESWC 2014 Female,16,2,13,2,3,0,Reason fe,17,9,1.39 
+2014,10,30,13:25,myXMGfe,Reasonfe,nuke,ESWC 2014 Female,14,16,11,4,3,12,Reason fe,21,19,1.15 
+2014,10,30,12:15,BadMonkey,Reasonfe,mirage,ESWC 2014 Female,12,16,8,7,4,9,Reason fe,23,22,1.15 
+2014,10,30,10:50,Ubinited,Reasonfe,cache,ESWC 2014 Female,16,4,11,4,5,0,Reason fe,11,18,0.69 

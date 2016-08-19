@@ -1,0 +1,3 @@
+2014,11,15,19:00,Virtus.proStaff,SLTVStaff,nuke,Virtus.pro Staff Cup #1,7,16,7,8,0,8,SLTV Staff,19,12,1.23 
+2014,11,15,18:00,SLTVStaff,RussianeSFStaff,inferno,Virtus.pro Staff Cup #1,16,0,15,0,1,0,SLTV Staff,13,7,1.28 
+2014,11,15,16:00,SLTVStaff,HLTV.orgStaff,cache,Virtus.pro Staff Cup #1,11,16,4,11,7,5,SLTV Staff,13,22,0.59 

@@ -1,0 +1,23 @@
+2015,10,14,02:00,Enemy,Coast,train,ESL ESEA Pro League Season 2,16,4,13,2,3,2,Coast,4,20,0.17 
+2015,06,24,02:15,eLevate,LunatiK,cobblestone,CEVO Professional Season 7,16,14,4,11,12,3,LunatiK,23,22,1.09 
+2015,06,24,02:15,LunatiK,eLevate,mirage,CEVO Professional Season 7,9,16,8,7,1,9,LunatiK,12,21,0.55 
+2015,06,09,02:00,Liquid,LunatiK,inferno,CEVO Professional Season 7,16,3,13,2,3,1,LunatiK,9,18,0.50 
+2015,06,09,02:00,LunatiK,Liquid,overpass,CEVO Professional Season 7,9,16,6,9,3,7,LunatiK,15,19,0.69 
+2015,06,03,04:15,LunatiK,ACE,inferno,CEVO Professional Season 7,16,8,9,6,7,2,LunatiK,19,13,1.20 
+2015,06,03,04:15,LunatiK,ACE,dust2,CEVO Professional Season 7,16,9,11,4,5,5,LunatiK,17,17,1.01 
+2015,05,28,04:15,affNity,LunatiK,mirage,CEVO Professional Season 7,21,25,9,6,6,9,LunatiK,34,28,1.09 
+2015,05,28,04:15,LunatiK,affNity,dust2,CEVO Professional Season 7,10,16,2,13,8,3,LunatiK,19,17,1.00 
+2015,05,21,04:15,Luminosity,LunatiK,cache,CEVO Professional Season 7,16,9,9,6,7,3,LunatiK,14,19,0.76 
+2015,05,21,04:15,LunatiK,Luminosity,mirage,CEVO Professional Season 7,16,11,6,9,10,2,LunatiK,26,18,1.40 
+2015,05,19,04:15,LunatiK,SKDC,dust2,CEVO Professional Season 7,14,16,11,4,3,12,LunatiK,21,21,1.02 
+2015,05,19,04:15,SKDC,LunatiK,cache,CEVO Professional Season 7,16,14,11,4,5,10,LunatiK,16,20,0.79 
+2015,05,14,04:15,LunatiK,Nihilum,mirage,CEVO Professional Season 7,19,16,9,6,6,9,LunatiK,31,22,1.31 
+2015,05,14,04:15,Nihilum,LunatiK,cache,CEVO Professional Season 7,16,6,10,5,6,1,LunatiK,18,19,1.11 
+2015,05,13,04:30,LunatiK,Tempo,mirage,RGN Spring Classic,14,16,9,6,5,10,LunatiK,22,20,0.96 
+2015,05,13,04:30,Tempo,LunatiK,dust2,RGN Spring Classic,16,9,10,5,6,4,LunatiK,15,20,0.80 
+2015,05,09,02:00,LunatiK,ACE,cache,CS Select #11,10,16,10,5,0,11,LunatiK,14,20,0.77 
+2015,05,09,02:00,ACE,LunatiK,inferno,CS Select #11,16,10,12,3,4,7,LunatiK,16,22,0.73 
+2015,05,07,05:00,LunatiK,MostlyHarmless,mirage,RGN Spring Classic,16,10,13,2,3,8,LunatiK,21,15,1.15 
+2015,05,04,04:15,LunatiK,vVv,inferno,CEVO Professional Season 7,16,12,6,9,10,3,LunatiK,12,19,0.66 
+2015,05,04,04:15,vVv,LunatiK,mirage,CEVO Professional Season 7,10,16,9,6,1,10,LunatiK,20,15,1.21 
+2014,08,26,03:00,Armata,SKDC,inferno,FACEIT League 2 NA Closed Qual..,16,9,14,1,2,8,SKDC,15,18,0.85 

@@ -1,0 +1,15 @@
+2015,09,15,21:30,Romania,Poland,mirage,World Championships 2015 Europ..,8,16,6,9,2,7,Romania,11,19,0.60 
+2015,05,11,22:00,neXtPlease!,Wrecking,cache,Balkan Championship Season 2,8,16,8,7,0,9,neXtPlease!,11,19,0.63 
+2015,05,11,22:00,neXtPlease!,Wrecking,mirage,Balkan Championship Season 2,16,8,9,6,7,2,neXtPlease!,13,12,0.96 
+2015,05,11,22:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,16,8,13,2,3,6,neXtPlease!,17,16,0.96 
+2015,05,08,19:15,TRICKED,neXtPlease!,inferno,Balkan Superleague,16,13,9,6,7,7,neXtPlease!,16,22,0.82 
+2015,05,04,19:00,GIANT5,neXtPlease!,inferno,Balkan Superleague,13,16,5,10,8,6,neXtPlease!,14,16,0.87 
+2015,04,23,22:15,neXtPlease!,Rock,inferno,ESL South East Europe Champion..,13,16,11,4,2,12,neXtPlease!,22,18,1.18 
+2015,04,23,22:15,Rock,neXtPlease!,dust2,ESL South East Europe Champion..,16,11,9,6,7,5,neXtPlease!,10,19,0.59 
+2015,04,22,22:15,neXtPlease!,ENTiTY,cache,Balkan Superleague,16,8,9,6,7,2,neXtPlease!,15,13,1.04 
+2015,04,21,20:00,MASSACRE-ZONE,neXtPlease!,dust2,ESL South East Europe Champion..,12,16,10,5,2,11,neXtPlease!,16,19,0.88 
+2015,04,21,20:00,MASSACRE-ZONE,neXtPlease!,cache,ESL South East Europe Champion..,7,16,4,11,3,5,neXtPlease!,20,14,1.40 
+2015,04,18,21:00,neXtPlease!,HEADSHOTBG,cache,ESL South East Europe Champion..,6,16,3,12,3,4,neXtPlease!,12,18,0.68 
+2015,04,18,21:00,neXtPlease!,HEADSHOTBG,inferno,ESL South East Europe Champion..,11,16,8,7,3,9,neXtPlease!,13,19,0.76 
+2015,04,16,19:00,neXtPlease!,RB,cache,Balkan Superleague,15,15,13,2,2,13,neXtPlease!,15,23,0.67 
+2015,04,15,19:00,GPlay,neXtPlease!,inferno,Balkan Superleague,16,3,12,3,4,0,neXtPlease!,10,18,0.60 

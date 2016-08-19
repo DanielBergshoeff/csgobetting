@@ -1,0 +1,8 @@
+2016,06,04,22:45,SLK,RoyalClub,mirage,Liga PRO GamersClub - MAY/16,15,19,8,7,7,8,SLK,19,24,0.81 
+2016,06,04,22:45,RoyalClub,SLK,train,Liga PRO GamersClub - MAY/16,16,4,14,1,2,3,SLK,8,16,0.53 
+2016,06,04,22:45,SLK,RoyalClub,cache,Liga PRO GamersClub - MAY/16,19,17,10,5,5,10,SLK,29,22,1.18 
+2016,05,10,04:10,SLK,2Kill,train,Liga PRO GamersClub - APR/16,7,16,4,11,3,5,SLK,13,17,0.79 
+2016,05,10,04:10,SLK,2Kill,cache,Liga PRO GamersClub - APR/16,12,16,4,11,8,5,SLK,15,20,0.81 
+2016,05,07,04:15,SLK,CNB,train,Liga PRO GamersClub - APR/16,8,16,7,8,1,8,SLK,12,17,0.70 
+2016,05,07,04:15,SLK,CNB,mirage,Liga PRO GamersClub - APR/16,13,16,7,8,6,8,SLK,20,20,0.93 
+2016,05,07,04:15,SLK,CNB,cache,Liga PRO GamersClub - APR/16,16,14,3,12,13,2,SLK,21,17,1.07 

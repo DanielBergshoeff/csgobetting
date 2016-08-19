@@ -1,0 +1,5 @@
+2014,10,30,18:00,AlienTech,VirtualImpact,dust2,ESWC 2014,16,6,9,6,7,0,Virtual Impact,10,18,0.58 
+2014,10,30,16:10,Cloud9,VirtualImpact,dust2,ESWC 2014,16,6,11,4,5,2,Virtual Impact,9,20,0.44 
+2014,10,30,13:00,Planetkey,VirtualImpact,mirage,ESWC 2014,16,6,11,4,5,2,Virtual Impact,10,17,0.57 
+2014,10,30,11:34,Virtus.pro,VirtualImpact,mirage,ESWC 2014,16,0,15,0,1,0,Virtual Impact,6,16,0.31 
+2014,10,30,09:35,LDLC,VirtualImpact,inferno,ESWC 2014,16,0,15,0,1,0,Virtual Impact,7,16,0.40 

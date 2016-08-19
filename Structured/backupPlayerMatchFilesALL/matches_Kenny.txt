@@ -1,0 +1,4 @@
+2016,08,07,10:20,ViRGiN5,3NEW2OLD,cobblestone,ROG CS:GO Hong Kong Tournament,6,16,5,10,1,6,ViRGiN5,14,17,0.80 
+2016,08,07,10:20,ViRGiN5,3NEW2OLD,cache,ROG CS:GO Hong Kong Tournament,14,16,4,11,10,5,ViRGiN5,17,22,0.87 
+2016,08,07,06:45,ViRGiN5,Giveway,mirage,ROG CS:GO Hong Kong Tournament,16,3,13,2,3,1,ViRGiN5,20,10,1.63 
+2016,08,07,06:45,Giveway,ViRGiN5,cache,ROG CS:GO Hong Kong Tournament,12,16,3,12,9,4,ViRGiN5,16,20,0.81 

@@ -1,0 +1,4 @@
+2015,12,10,21:00,HellRaisers,Supreme,inferno,Game Show Global eSports Cup 2..,16,5,10,5,6,0,Supreme,8,19,0.45 
+2015,12,10,21:00,HellRaisers,Supreme,mirage,Game Show Global eSports Cup 2..,16,10,7,8,9,2,Supreme,16,20,0.84 
+2015,12,09,21:00,Enso,Supreme,cobblestone,Game Show Global eSports Cup 2..,17,19,8,7,7,8,Supreme,25,28,0.94 
+2015,12,09,21:00,Supreme,Enso,train,Game Show Global eSports Cup 2..,16,7,9,6,7,1,Supreme,19,14,1.19 

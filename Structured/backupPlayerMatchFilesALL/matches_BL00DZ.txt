@@ -1,0 +1,3 @@
+2014,04,26,22:15,Panthers,AlienTech,dust2,1Life Fraglider Invitational,7,16,4,11,3,5,Panthers,7,21,0.31 
+2014,04,26,21:00,Panthers,NorthernGrade,dust2,1Life Fraglider Invitational,5,16,3,12,2,4,Panthers,16,17,1.01 
+2014,04,26,19:00,Panthers,SteelShock,inferno,1Life Fraglider Invitational,16,3,12,3,4,0,Panthers,16,11,1.29 

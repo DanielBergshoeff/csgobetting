@@ -1,0 +1,15 @@
+2015,12,15,06:00,ACE,SetToDestroyX,dust2,QuickShot Arena NA #2,16,14,12,3,4,11,SetToDestroyX,15,19,0.76 
+2015,12,15,01:00,SetToDestroyX,UMass,dust2,QuickShot Arena NA #2,13,16,8,7,5,9,SetToDestroyX,23,18,1.23 
+2015,12,15,01:00,UMass,SetToDestroyX,cobblestone,QuickShot Arena NA #2,16,14,7,8,9,6,SetToDestroyX,20,21,0.92 
+2015,10,19,00:35,SetToDestroyX,SuckBrickKids,mirage,Fragadelphia 6,13,16,10,5,3,11,SetToDestroyX,21,22,0.92 
+2015,10,18,22:00,SetToDestroyX,Forbidden,cobblestone,Fragadelphia 6,16,12,11,4,5,8,SetToDestroyX,18,19,0.88 
+2015,10,18,18:40,SetToDestroyX,WinOut.net,overpass,Fragadelphia 6,13,16,6,9,7,7,SetToDestroyX,9,24,0.42 
+2015,10,18,18:40,SetToDestroyX,WinOut.net,cobblestone,Fragadelphia 6,25,22,7,8,8,7,SetToDestroyX,30,36,0.92 
+2015,10,18,18:40,WinOut.net,SetToDestroyX,mirage,Fragadelphia 6,16,3,14,1,2,2,SetToDestroyX,9,17,0.54 
+2015,10,18,03:55,ReapWhatYouSow,SetToDestroyX,dust2,Fragadelphia 6,9,16,8,7,1,9,SetToDestroyX,14,16,0.81 
+2015,10,18,03:55,SetToDestroyX,ReapWhatYouSow,cobblestone,Fragadelphia 6,16,3,13,2,3,1,SetToDestroyX,20,7,1.76 
+2015,05,26,04:00,pMd,Ubinited,inferno,FACEIT League 2015 Stage 2 NA ..,9,16,4,11,5,5,pMd,10,18,0.59 
+2015,05,26,04:00,pMd,Ubinited,overpass,FACEIT League 2015 Stage 2 NA ..,13,16,7,8,6,8,pMd,19,24,0.83 
+2014,08,27,04:15,savage,Armata,dust2,FACEIT League 2 NA Closed Qual..,16,9,7,8,9,1,Armata,17,17,1.01 
+2014,08,27,04:15,Armata,savage,inferno,FACEIT League 2 NA Closed Qual..,12,16,8,7,4,9,Armata,17,24,0.79 
+2014,08,26,03:00,Armata,SKDC,inferno,FACEIT League 2 NA Closed Qual..,16,9,14,1,2,8,Armata,18,12,1.26 

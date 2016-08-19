@@ -1,0 +1,12 @@
+2014,09,28,23:14,TheLoneRangers,Virtus.pro,cache,SLTV StarSeries XI,5,16,4,11,1,5,The Lone Rangers,6,18,0.38 
+2014,09,27,20:25,Epsilon,TheLoneRangers,cache,SLTV StarSeries XI,15,15,7,8,8,7,The Lone Rangers,13,24,0.58 
+2014,09,26,14:00,HellRaisers,TheLoneRangers,dust2,SLTV StarSeries XI,16,3,13,2,3,1,The Lone Rangers,13,17,0.93 
+2014,09,23,23:20,NiP,TheLoneRangers,cache,SLTV StarSeries XI,16,3,13,2,3,1,The Lone Rangers,5,19,0.25 
+2014,09,23,22:20,TheLoneRangers,A-Gaming,cache,SLTV StarSeries XI,16,7,11,4,5,3,The Lone Rangers,12,13,0.82 
+2014,09,21,22:45,Russia,UnitedKingdom,dust2,European Championship 2014,16,5,10,5,6,0,United Kingdom,11,17,0.73 
+2014,09,19,23:29,Orbit,TheLoneRangers,dust2,SLTV StarSeries XI,8,16,7,8,1,8,The Lone Rangers,15,13,0.97 
+2014,09,19,19:09,TheLoneRangers,myXMG,dust2,SLTV StarSeries XI,8,16,3,12,5,4,The Lone Rangers,8,14,0.64 
+2014,09,16,22:00,LDLC,TheLoneRangers,dust2,SLTV StarSeries XI,16,4,11,4,5,0,The Lone Rangers,9,15,0.61 
+2014,09,07,22:00,UnitedKingdom,Denmark,nuke,European Championship 2014,10,16,10,5,0,11,United Kingdom,19,18,1.00 
+2014,08,26,21:30,UnitedKingdom,Malta,mirage,European Championship 2014 Qua..,16,0,15,0,1,0,United Kingdom,6,2,1.06 
+2014,08,26,21:30,Malta,UnitedKingdom,dust2,European Championship 2014 Qua..,2,16,2,13,0,3,United Kingdom,13,11,1.08 

@@ -1,0 +1,38 @@
+2016,02,21,16:00,Raepmashaekel,Torpedo,cache,Nordic Masters Season 2 Finals,5,16,4,11,1,5,Raepmashaekel,16,18,1.03 
+2016,02,21,16:00,Raepmashaekel,Torpedo,train,Nordic Masters Season 2 Finals,16,14,10,5,6,9,Raepmashaekel,23,17,1.17 
+2016,02,21,16:00,Raepmashaekel,Torpedo,mirage,Nordic Masters Season 2 Finals,13,16,5,10,8,6,Raepmashaekel,29,22,1.37 
+2016,02,20,14:30,Raepmashaekel,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,16,5,12,3,4,2,Raepmashaekel,26,10,1.85 
+2016,02,20,14:30,TzatzikiKlubben,Raepmashaekel,inferno,Nordic Masters Season 2 Finals,6,16,3,12,3,4,Raepmashaekel,17,14,1.13 
+2016,02,20,13:00,LGBfe,Raepmashaekel,mirage,Nordic Masters Season 2 Finals,2,16,2,13,0,3,Raepmashaekel,22,8,1.96 
+2015,10,30,21:45,KoNSweden,KoNFinland,dust2,King of Nordic Season 2,8,16,6,9,2,7,KoN Sweden,15,21,0.74 
+2015,10,30,20:30,KoNSweden,KoNDenmark,inferno,King of Nordic Season 2,16,11,7,8,9,3,KoN Sweden,25,21,1.17 
+2015,10,30,19:15,KoNNorway,KoNSweden,inferno,King of Nordic Season 2,10,16,6,9,4,7,KoN Sweden,17,18,0.84 
+2015,10,23,19:15,KoNSweden,KoNDenmark,cache,King of Nordic Season 2,13,16,3,12,10,4,KoN Sweden,20,23,1.05 
+2015,06,13,21:30,Exertus,dignitas,cache,DreamHack Open Summer 2015 BYO..,6,16,3,12,3,4,Exertus,3,18,0.26 
+2015,06,13,21:30,dignitas,Exertus,mirage,DreamHack Open Summer 2015 BYO..,16,6,12,3,4,3,Exertus,4,19,0.26 
+2015,06,13,19:00,Exertus,KDDA,cache,DreamHack Open Summer 2015 BYO..,16,5,11,4,5,1,Exertus,19,12,1.33 
+2015,06,13,19:00,KDDA,Exertus,mirage,DreamHack Open Summer 2015 BYO..,14,16,9,6,5,10,Exertus,23,20,1.13 
+2015,04,21,19:15,Games4u,Acer,dust2,Fragbite Masters Season 4 Qual..,16,12,12,3,4,9,Games4u,14,19,0.83 
+2015,04,04,12:00,Reason,Games4u,inferno,Copenhagen Games 2015,16,2,13,2,3,0,Games4u,8,18,0.47 
+2015,04,04,10:00,Games4u,Acer,mirage,Copenhagen Games 2015,16,4,13,2,3,2,Games4u,14,9,1.21 
+2015,04,03,22:20,Games4u,Lions,inferno,Copenhagen Games 2015,16,11,11,4,5,7,Games4u,19,16,1.18 
+2015,04,03,19:00,Orbit,Games4u,inferno,Copenhagen Games 2015,16,5,12,3,4,2,Games4u,10,18,0.62 
+2015,04,03,19:00,Games4u,Orbit,cache,Copenhagen Games 2015,6,16,3,12,3,4,Games4u,12,21,0.57 
+2015,04,03,15:30,FUGL?,Games4u,dust2,Copenhagen Games 2015,4,16,3,12,1,4,Games4u,19,12,1.29 
+2015,04,03,15:30,FUGL?,Games4u,inferno,Copenhagen Games 2015,9,16,4,11,5,5,Games4u,16,16,0.99 
+2015,04,03,12:00,Games4u,3DMAX,inferno,Copenhagen Games 2015,13,16,10,5,3,11,Games4u,10,18,0.68 
+2015,04,03,12:00,3DMAX,Games4u,dust2,Copenhagen Games 2015,16,8,10,5,6,3,Games4u,12,22,0.53 
+2015,04,02,20:30,schlaegeros,Games4u,cache,Copenhagen Games 2015,10,16,7,8,3,8,Games4u,6,20,0.40 
+2015,04,02,19:00,Games4u,Frederiksberg,mirage,Copenhagen Games 2015,16,8,11,4,5,4,Games4u,16,11,1.22 
+2015,04,02,14:00,Lucidez,Games4u,dust2,Copenhagen Games 2015,9,16,8,7,1,9,Games4u,21,14,1.36 
+2015,04,02,14:00,Games4u,Lucidez,inferno,Copenhagen Games 2015,16,9,13,2,3,7,Games4u,13,16,0.94 
+2015,03,08,19:00,AliGon,PENTA,inferno,CCS Kick-off Season Closed Qua..,12,16,8,7,4,9,AliGon,13,20,0.75 
+2015,03,08,19:00,AliGon,PENTA,dust2,CCS Kick-off Season Closed Qua..,13,16,8,7,5,9,AliGon,11,22,0.61 
+2015,03,08,19:00,AliGon,PENTA,cache,CCS Kick-off Season Closed Qua..,12,16,6,9,6,7,AliGon,16,23,0.77 
+2015,03,07,19:00,AliGon,dignitas,inferno,CCS Kick-off Season Closed Qua..,16,10,13,2,3,8,AliGon,13,16,0.81 
+2015,03,07,19:00,dignitas,AliGon,cache,CCS Kick-off Season Closed Qua..,10,16,5,10,5,6,AliGon,18,14,1.13 
+2015,03,07,19:00,AliGon,dignitas,dust2,CCS Kick-off Season Closed Qua..,7,16,2,13,5,3,AliGon,8,18,0.54 
+2014,10,21,20:20,duttdutt,HellRaisers,mirage,DreamHack Winter 2014 EU Close..,6,16,3,12,3,4,duttdutt,8,19,0.52 
+2014,10,21,20:20,duttdutt,HellRaisers,overpass,DreamHack Winter 2014 EU Close..,13,16,8,7,5,9,duttdutt,18,18,0.95 
+2014,10,19,03:20,duttdutt,FlipSid3,mirage,DreamHack Winter 2014 EU pre-q..,6,16,6,9,0,7,duttdutt,6,20,0.33 
+2014,10,18,23:20,duttdutt,ESC,mirage,DreamHack Winter 2014 EU pre-q..,16,14,11,4,5,10,duttdutt,25,21,1.13 

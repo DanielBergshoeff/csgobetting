@@ -1,0 +1,14 @@
+2015,08,27,22:15,CPHWolves,INFINITY,mirage,CEVO Professional Season 8,16,7,13,2,3,5,INFINITY,14,18,0.79 
+2015,08,27,22:15,INFINITY,CPHWolves,cache,CEVO Professional Season 8,16,19,7,8,8,7,INFINITY,21,26,0.86 
+2015,08,25,20:15,HellRaisers,INFINITY,inferno,CEVO Professional Season 8,16,5,13,2,3,3,INFINITY,7,17,0.52 
+2015,08,25,20:15,INFINITY,HellRaisers,dust2,CEVO Professional Season 8,13,16,3,12,10,4,INFINITY,16,20,0.77 
+2015,08,20,18:00,INFINITY,dignitas,inferno,CEVO Professional Season 8,11,16,7,8,4,8,INFINITY,14,20,0.75 
+2015,08,20,18:00,dignitas,INFINITY,mirage,CEVO Professional Season 8,16,0,15,0,1,0,INFINITY,7,15,0.42 
+2015,08,18,20:30,INFINITY,Dobry&Gaming,cache,CEVO Professional Season 8,4,16,3,12,1,4,INFINITY,12,18,0.64 
+2015,08,18,20:30,Dobry&Gaming,INFINITY,mirage,CEVO Professional Season 8,9,16,8,7,1,9,INFINITY,29,16,1.70 
+2014,06,15,13:30,fnatic,Publiclir.se,mirage,ESPORTSM 2013/2014 Finals,16,12,9,6,7,6,Publiclir.se,16,19,0.95 
+2014,06,15,13:30,fnatic,Publiclir.se,dust2,ESPORTSM 2013/2014 Finals,16,9,9,6,7,3,Publiclir.se,9,20,0.53 
+2014,06,15,10:00,Publiclir.se,Vengeance&Evil,mirage,ESPORTSM 2013/2014 Finals,16,13,6,9,10,4,Publiclir.se,26,18,1.26 
+2014,06,15,10:00,Vengeance&Evil,Publiclir.se,inferno,ESPORTSM 2013/2014 Finals,9,16,6,9,3,7,Publiclir.se,19,11,1.25 
+2014,06,14,17:00,Berzerk,Publiclir.se,inferno,DreamHack Summer 2014,16,4,14,1,2,3,Publiclir.se,12,17,0.71 
+2014,06,14,15:00,Publiclir.se,Epsilon,inferno,DreamHack Summer 2014,3,16,3,12,0,4,Publiclir.se,8,15,0.55 

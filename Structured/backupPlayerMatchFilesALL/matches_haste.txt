@@ -1,0 +1,51 @@
+2016,04,23,18:00,Alpha,RedInstinct,cobblestone,DreamHack Regional Minor Champ..,10,16,4,11,6,5,Alpha,13,19,0.82 
+2016,04,03,16:00,Nevermad,PENTA,train,Hitbox Challenger Cup,7,16,7,8,0,8,Nevermad,9,16,0.63 
+2016,04,03,16:00,Nevermad,PENTA,mirage,Hitbox Challenger Cup,16,4,14,1,2,3,Nevermad,9,11,0.77 
+2016,03,21,20:00,Nevermad,Alpha,train,Hitbox Challenger Cup,9,16,7,8,2,8,Nevermad,11,21,0.64 
+2016,03,21,20:00,Alpha,Nevermad,mirage,Hitbox Challenger Cup,16,13,7,8,9,5,Nevermad,22,19,1.08 
+2016,03,09,23:40,miMo,Revival,overpass,Razer Rising Stars European Le..,16,12,10,5,6,7,Revival,17,20,0.74 
+2016,03,09,21:20,Revival,ggrabb,train,Razer Rising Stars European Le..,21,18,7,8,8,7,Revival,27,30,0.89 
+2016,01,31,18:00,Revival,LDLCBlue,train,Rising Stars Europe #1,16,9,10,5,6,4,Revival,19,18,1.05 
+2016,01,31,18:00,LDLCBlue,Revival,mirage,Rising Stars Europe #1,9,16,3,12,6,4,Revival,9,14,0.66 
+2015,12,22,23:15,ex-USSR,enable,dust2,D!ngIT $2000 Weekly Cup #31,16,7,9,6,7,1,enable,14,17,0.82 
+2015,12,22,23:15,enable,ex-USSR,cache,D!ngIT $2000 Weekly Cup #31,16,12,6,9,10,3,enable,18,24,0.82 
+2015,12,22,22:15,EYESONU,enable,inferno,D!ngIT $2000 Weekly Cup #31,9,16,8,7,1,9,enable,16,15,0.98 
+2015,12,01,21:00,EZmarket.org,gamENERGY,mirage,D!ngIT $2000 Weekly Cup #28,16,9,13,2,3,7,EZmarket.org,18,14,1.08 
+2015,12,01,18:30,CSGL,EZmarket.org,overpass,D!ngIT $2000 Weekly Cup #28,16,8,10,5,6,3,EZmarket.org,17,20,0.90 
+2015,12,01,18:30,EZmarket.org,CSGL,cache,D!ngIT $2000 Weekly Cup #28,12,16,7,8,5,8,EZmarket.org,16,18,1.02 
+2015,12,01,18:30,EZmarket.org,CSGL,cobblestone,D!ngIT $2000 Weekly Cup #28,16,10,10,5,6,5,EZmarket.org,17,19,0.92 
+2015,11,30,20:00,YP,EZmarket.org,cache,D!ngIT $2000 Weekly Cup #28,6,16,2,13,4,3,EZmarket.org,12,11,0.92 
+2015,11,30,20:00,EZmarket.org,YP,dust2,D!ngIT $2000 Weekly Cup #28,16,14,2,13,14,1,EZmarket.org,14,20,0.74 
+2015,11,16,21:30,Epsilon,nerdRage,cache,Global Grand Masters #1,16,6,10,5,6,1,nerdRage,12,18,0.68 
+2015,11,16,20:00,AliGon,nerdRage,mirage,Global Grand Masters #1,16,3,12,3,4,0,nerdRage,14,15,0.94 
+2015,11,16,17:30,ESC,nerdRage,cache,Global Grand Masters #1,16,10,7,8,9,2,nerdRage,17,19,0.97 
+2015,11,13,21:40,KoNDenmark,KoNSweden,mirage,King of Nordic Season 2,18,21,10,5,5,10,KoN Denmark,24,25,0.93 
+2015,11,06,21:30,KoNDenmark,KoNFinland,cache,King of Nordic Season 2,16,12,6,9,10,3,KoN Denmark,19,22,0.91 
+2015,11,06,20:30,KoNDenmark,KoNSweden,dust2,King of Nordic Season 2,16,9,12,3,4,6,KoN Denmark,17,15,0.99 
+2015,11,06,19:15,KoNDenmark,KoNNorway,cache,King of Nordic Season 2,16,5,10,5,6,0,KoN Denmark,15,12,1.14 
+2015,09,04,21:45,Denmark,Finland,dust2,King of Nordic Season 1,10,16,4,11,6,5,Denmark,16,15,0.99 
+2015,08,28,22:15,Sweden,Denmark,mirage,King of Nordic Season 1,11,16,3,12,8,4,Denmark,13,22,0.66 
+2015,08,28,20:30,Denmark,Finland,mirage,King of Nordic Season 1,20,20,7,8,8,7,Denmark,20,30,0.69 
+2015,08,21,21:30,Sweden,Denmark,inferno,King of Nordic Season 1,16,12,11,4,5,8,Denmark,18,22,1.08 
+2015,08,21,20:20,Norway,Denmark,mirage,King of Nordic Season 1,8,16,7,8,1,8,Denmark,21,14,1.29 
+2015,08,21,19:20,Finland,Denmark,mirage,King of Nordic Season 1,14,16,10,5,4,11,Denmark,21,23,0.85 
+2015,05,04,21:00,Reason,SpaceSoldiers,mirage,RGN Pro Series EU Closed Quali..,9,16,2,13,7,3,Reason,10,20,0.57 
+2015,04,15,21:00,Fraternitas,Reason,mirage,Fragbite Masters Season 4 Qual..,16,12,12,3,4,9,Reason,13,24,0.53 
+2015,04,15,21:00,Reason,Fraternitas,inferno,Fragbite Masters Season 4 Qual..,5,16,4,11,1,5,Reason,6,16,0.46 
+2015,04,04,13:30,Reason,dignitas,inferno,Copenhagen Games 2015,3,16,3,12,0,4,Reason,8,14,0.60 
+2015,04,04,12:00,Reason,Games4u,inferno,Copenhagen Games 2015,16,2,13,2,3,0,Reason,9,5,1.07 
+2015,04,04,10:00,Atlantis,Reason,cache,Copenhagen Games 2015,14,16,10,5,4,11,Reason,17,22,0.85 
+2015,04,03,22:30,Reason,schlaegeros,cache,Copenhagen Games 2015,16,2,14,1,2,1,Reason,12,8,1.11 
+2015,04,03,19:00,INSHOCK,Reason,mirage,Copenhagen Games 2015,16,7,9,6,7,1,Reason,8,17,0.53 
+2015,04,03,19:00,INSHOCK,Reason,dust2,Copenhagen Games 2015,16,12,4,11,12,1,Reason,12,20,0.67 
+2015,04,03,19:00,Reason,INSHOCK,inferno,Copenhagen Games 2015,16,14,12,3,4,11,Reason,21,20,1.03 
+2015,04,03,15:30,G2,Reason,mirage,Copenhagen Games 2015,16,5,13,2,3,3,Reason,11,18,0.66 
+2015,04,03,15:30,Reason,G2,cobblestone,Copenhagen Games 2015,16,12,11,4,5,8,Reason,16,20,0.86 
+2015,04,03,15:30,Reason,G2,cache,Copenhagen Games 2015,11,16,8,7,3,9,Reason,18,20,0.92 
+2015,04,03,12:00,Reason,INSHOCK,cache,Copenhagen Games 2015,16,8,12,3,4,5,Reason,14,16,0.88 
+2015,04,03,12:00,INSHOCK,Reason,mirage,Copenhagen Games 2015,10,16,8,7,2,9,Reason,16,17,0.85 
+2015,02,23,20:00,madjicK,CPHWolves,cobblestone,Game Show CS:GO League Season ..,16,14,7,8,9,6,madjicK,12,25,0.49 
+2014,08,24,22:30,NewStyle,TMVG,dust2,FACEIT League 2 EU pre-qualifi..,13,16,4,11,9,5,NewStyle,16,21,0.80 
+2014,08,20,21:40,NOSIR!,Nostalgie,mirage,Hitbox Arena Championship 2,16,4,12,3,4,1,NO SIR!,7,11,0.69 
+2014,08,20,21:40,Nostalgie,NOSIR!,inferno,Hitbox Arena Championship 2,11,16,9,6,2,10,NO SIR!,14,15,1.01 
+2014,08,20,21:40,Nostalgie,NOSIR!,cache,Hitbox Arena Championship 2,16,9,13,2,3,7,NO SIR!,17,20,0.85 

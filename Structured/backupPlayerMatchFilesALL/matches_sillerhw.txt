@@ -1,0 +1,6 @@
+2016,05,11,23:00,GrowUp,AlienTech,cache,xfunction Challenge,1,16,1,14,0,2,Grow Up,5,16,0.36 
+2016,05,05,22:15,GrowUp,GameAgents,cache,xfunction Challenge,10,16,3,12,7,4,Grow Up,23,19,1.25 
+2014,08,29,20:00,Portugal,Ireland,nuke,European Championship 2014 Qua..,16,19,9,6,6,9,Portugal,22,25,0.89 
+2014,08,29,20:00,Ireland,Portugal,inferno,European Championship 2014 Qua..,10,16,6,9,4,7,Portugal,12,19,0.69 
+2014,07,18,20:25,gBots,FTW.PRO,inferno,DreamHack Valencia 2014,19,16,12,3,3,12,FTW.PRO,29,20,1.36 
+2014,07,18,18:30,Epsilon,FTW.PRO,inferno,DreamHack Valencia 2014,16,13,9,6,7,7,FTW.PRO,19,21,0.97 

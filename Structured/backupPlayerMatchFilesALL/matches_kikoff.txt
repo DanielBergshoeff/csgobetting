@@ -1,0 +1,2 @@
+2015,12,02,15:00,GANK,VariousArtists,cache,SL i-League StarSeries XIV,16,13,7,8,9,5,GANK,35,17,1.81 
+2015,12,02,15:00,VariousArtists,GANK,cobblestone,SL i-League StarSeries XIV,5,16,4,11,1,5,GANK,22,9,1.62 

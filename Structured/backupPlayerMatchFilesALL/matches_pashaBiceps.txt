@@ -1,0 +1,705 @@
+2016,08,15,20:00,Virtus.pro,GODSENT,cache,ESL Pro League Season 4 - Euro..,16,12,6,9,10,3,Virtus.pro,23,12,1.36 
+2016,08,15,20:00,GODSENT,Virtus.pro,cobblestone,ESL Pro League Season 4 - Euro..,11,16,7,8,4,8,Virtus.pro,23,17,1.27 
+2016,07,30,22:00,fnatic,Virtus.pro,mirage,ELEAGUE Season 1,8,16,5,10,3,6,Virtus.pro,14,16,0.78 
+2016,07,30,22:00,Virtus.pro,fnatic,cobblestone,ELEAGUE Season 1,16,10,6,9,10,1,Virtus.pro,20,16,1.09 
+2016,07,30,04:00,Virtus.pro,mousesports,cache,ELEAGUE Season 1,16,10,6,9,10,1,Virtus.pro,15,17,0.88 
+2016,07,30,04:00,mousesports,Virtus.pro,train,ELEAGUE Season 1,7,16,6,9,1,7,Virtus.pro,13,13,0.90 
+2016,07,23,04:00,Virtus.pro,NiP,cobblestone,ELEAGUE Season 1,16,9,6,9,10,0,Virtus.pro,21,14,1.25 
+2016,07,23,04:00,NiP,Virtus.pro,dust2,ELEAGUE Season 1,8,16,6,9,2,7,Virtus.pro,18,15,1.05 
+2016,07,15,23:00,Virtus.pro,Renegades,mirage,ELEAGUE Season 1,22,20,12,3,3,12,Virtus.pro,29,30,1.00 
+2016,07,15,23:00,Virtus.pro,Renegades,cobblestone,ELEAGUE Season 1,16,9,10,5,6,4,Virtus.pro,15,16,0.96 
+2016,07,13,22:15,Virtus.pro,Gambit,mirage,ELEAGUE Season 1,16,6,13,2,3,4,Virtus.pro,17,13,1.24 
+2016,07,13,22:15,Gambit,Virtus.pro,dust2,ELEAGUE Season 1,17,19,7,8,8,7,Virtus.pro,28,28,0.98 
+2016,07,09,15:00,Virtus.pro,SK,mirage,ESL One Cologne 2016,12,16,9,6,3,10,Virtus.pro,17,22,0.79 
+2016,07,09,15:00,SK,Virtus.pro,nuke,ESL One Cologne 2016,16,5,12,3,4,2,Virtus.pro,14,17,0.91 
+2016,07,09,15:00,Virtus.pro,SK,cobblestone,ESL One Cologne 2016,19,17,9,6,6,9,Virtus.pro,21,23,0.96 
+2016,07,08,10:00,Astralis,Virtus.pro,train,ESL One Cologne 2016,15,19,11,4,4,11,Virtus.pro,23,24,0.98 
+2016,07,08,10:00,Virtus.pro,Astralis,overpass,ESL One Cologne 2016,19,17,12,3,3,12,Virtus.pro,33,23,1.38 
+2016,07,06,16:00,Virtus.pro,Liquid,cobblestone,ESL One Cologne 2016,16,12,6,9,10,3,Virtus.pro,15,18,0.82 
+2016,07,05,17:15,Virtus.pro,mousesports,train,ESL One Cologne 2016,16,10,7,8,9,2,Virtus.pro,13,15,0.87 
+2016,07,02,04:00,Virtus.pro,EnVyUs,cache,ELEAGUE Season 1,8,16,4,11,4,5,Virtus.pro,20,14,1.28 
+2016,07,02,04:00,Virtus.pro,EnVyUs,train,ELEAGUE Season 1,11,16,9,6,2,10,Virtus.pro,22,18,1.23 
+2016,06,30,22:15,Gambit,Virtus.pro,cobblestone,ELEAGUE Season 1,6,16,3,12,3,4,Virtus.pro,12,13,0.92 
+2016,06,30,22:15,Virtus.pro,Gambit,mirage,ELEAGUE Season 1,16,6,13,2,3,4,Virtus.pro,16,14,1.17 
+2016,06,29,21:30,Virtus.pro,Gambit,train,ELEAGUE Season 1,16,9,7,8,9,1,Virtus.pro,21,16,1.18 
+2016,06,29,20:20,Gambit,Virtus.pro,nuke,ELEAGUE Season 1,16,12,9,6,7,6,Virtus.pro,18,21,0.82 
+2016,06,28,23:50,Virtus.pro,EnVyUs,cache,ELEAGUE Season 1,11,16,10,5,1,11,Virtus.pro,26,19,1.28 
+2016,06,28,22:40,EnVyUs,Virtus.pro,mirage,ELEAGUE Season 1,16,19,9,6,6,9,Virtus.pro,17,24,0.73 
+2016,06,28,19:10,Virtus.pro,compLexity,cobblestone,ELEAGUE Season 1,16,11,7,8,9,3,Virtus.pro,19,16,1.09 
+2016,06,28,18:00,compLexity,Virtus.pro,overpass,ELEAGUE Season 1,7,16,1,14,6,2,Virtus.pro,16,15,0.99 
+2016,06,05,16:25,Virtus.pro,NatusVincere,train,Adrenaline Open Cyber Cup,16,4,14,1,2,3,Virtus.pro,18,12,1.22 
+2016,06,05,16:25,NatusVincere,Virtus.pro,mirage,Adrenaline Open Cyber Cup,18,22,11,4,4,11,Virtus.pro,22,24,0.87 
+2016,05,25,21:55,PENTA,Virtus.pro,cobblestone,ESL Pro League Season 3 Relega..,19,17,11,4,4,11,Virtus.pro,23,28,0.91 
+2016,05,25,21:55,PENTA,Virtus.pro,mirage,ESL Pro League Season 3 Relega..,9,16,7,8,2,8,Virtus.pro,16,16,1.04 
+2016,05,25,21:55,PENTA,Virtus.pro,cache,ESL Pro League Season 3 Relega..,16,3,12,3,4,0,Virtus.pro,4,17,0.26 
+2016,05,22,18:00,NatusVincere,Virtus.pro,cobblestone,SL i-League Invitational #1,10,16,6,9,4,7,Virtus.pro,19,14,1.17 
+2016,05,22,18:00,NatusVincere,Virtus.pro,train,SL i-League Invitational #1,16,8,12,3,4,5,Virtus.pro,10,21,0.57 
+2016,05,22,18:00,Virtus.pro,NatusVincere,inferno,SL i-League Invitational #1,16,11,12,3,4,8,Virtus.pro,18,19,0.95 
+2016,05,21,20:15,Dobry&Gaming,Virtus.pro,dust2,SL i-League Invitational #1,12,16,7,8,5,8,Virtus.pro,18,22,0.88 
+2016,05,21,20:15,Dobry&Gaming,Virtus.pro,mirage,SL i-League Invitational #1,11,16,10,5,1,11,Virtus.pro,20,18,1.21 
+2016,05,20,14:30,HellRaisers,Virtus.pro,cache,SL i-League Invitational #1,12,16,11,4,1,12,Virtus.pro,14,16,0.85 
+2016,05,20,14:30,HellRaisers,Virtus.pro,mirage,SL i-League Invitational #1,6,16,6,9,0,7,Virtus.pro,24,12,1.52 
+2016,05,19,09:30,Virtus.pro,WorstPlayers,cobblestone,SL i-League Invitational #1,16,13,7,8,9,5,Virtus.pro,20,16,1.18 
+2016,05,19,09:30,Virtus.pro,WorstPlayers,cache,SL i-League Invitational #1,17,19,7,8,8,7,Virtus.pro,29,22,1.18 
+2016,05,19,09:30,Virtus.pro,WorstPlayers,mirage,SL i-League Invitational #1,16,5,10,5,6,0,Virtus.pro,20,7,1.56 
+2016,05,17,21:00,Virtus.pro,G2,train,ECS Season 1,9,16,9,6,0,10,Virtus.pro,11,19,0.63 
+2016,05,17,21:00,Virtus.pro,G2,cache,ECS Season 1,4,16,1,14,3,2,Virtus.pro,12,17,0.74 
+2016,05,10,18:00,Virtus.pro,EnVyUs,train,ECS Season 1,16,9,10,5,6,4,Virtus.pro,15,18,0.82 
+2016,05,10,18:00,Virtus.pro,EnVyUs,cache,ECS Season 1,16,14,10,5,6,9,Virtus.pro,18,25,0.68 
+2016,05,10,18:00,Virtus.pro,EnVyUs,inferno,ECS Season 1,9,16,7,8,2,8,Virtus.pro,14,19,0.80 
+2016,04,30,16:45,TempoStorm,Virtus.pro,mirage,CEVO Gfinity Professional Seas..,16,11,12,3,4,8,Virtus.pro,10,22,0.48 
+2016,04,30,16:45,TempoStorm,Virtus.pro,cache,CEVO Gfinity Professional Seas..,13,16,9,6,4,10,Virtus.pro,25,20,1.27 
+2016,04,30,16:45,Virtus.pro,TempoStorm,inferno,CEVO Gfinity Professional Seas..,16,4,13,2,3,2,Virtus.pro,17,6,1.46 
+2016,04,30,16:45,TempoStorm,Virtus.pro,train,CEVO Gfinity Professional Seas..,16,7,12,3,4,4,Virtus.pro,23,17,1.28 
+2016,04,30,16:45,TempoStorm,Virtus.pro,dust2,CEVO Gfinity Professional Seas..,16,9,10,5,6,4,Virtus.pro,10,20,0.57 
+2016,04,29,22:30,Virtus.pro,OpTic,inferno,CEVO Gfinity Professional Seas..,16,8,12,3,4,5,Virtus.pro,20,15,1.15 
+2016,04,29,22:30,OpTic,Virtus.pro,mirage,CEVO Gfinity Professional Seas..,6,16,3,12,3,4,Virtus.pro,18,13,1.15 
+2016,04,29,17:30,HellRaisers,Virtus.pro,cobblestone,CEVO Gfinity Professional Seas..,16,11,7,8,9,3,Virtus.pro,15,20,0.85 
+2016,04,29,17:30,HellRaisers,Virtus.pro,mirage,CEVO Gfinity Professional Seas..,16,14,10,5,6,9,Virtus.pro,25,23,1.06 
+2016,04,28,13:45,Virtus.pro,Splyce,overpass,CEVO Gfinity Professional Seas..,16,11,11,4,5,7,Virtus.pro,24,20,1.28 
+2016,04,28,13:45,Virtus.pro,Splyce,cobblestone,CEVO Gfinity Professional Seas..,11,16,5,10,6,6,Virtus.pro,21,18,1.09 
+2016,04,28,13:45,Virtus.pro,Splyce,mirage,CEVO Gfinity Professional Seas..,16,14,10,5,6,9,Virtus.pro,17,21,0.81 
+2016,04,26,20:00,FlipSid3,Virtus.pro,inferno,ESL Pro League Season 3,16,6,11,4,5,2,Virtus.pro,9,19,0.48 
+2016,04,26,19:00,Virtus.pro,FlipSid3,train,ESL Pro League Season 3,16,14,5,10,11,4,Virtus.pro,23,19,1.13 
+2016,04,25,21:15,Virtus.pro,Astralis,cache,ECS Season 1,8,16,5,10,3,6,Virtus.pro,17,17,1.02 
+2016,04,25,21:15,Astralis,Virtus.pro,inferno,ECS Season 1,16,1,14,1,2,0,Virtus.pro,6,17,0.33 
+2016,04,25,18:00,fnatic,Virtus.pro,cobblestone,ECS Season 1,9,16,4,11,5,5,Virtus.pro,17,17,0.90 
+2016,04,25,18:00,Virtus.pro,fnatic,train,ECS Season 1,14,16,4,11,10,5,Virtus.pro,21,22,0.88 
+2016,04,25,18:00,fnatic,Virtus.pro,overpass,ECS Season 1,10,16,7,8,3,8,Virtus.pro,21,18,1.08 
+2016,04,24,16:00,Virtus.pro,mousesports,train,ECS Season 1,13,16,9,6,4,10,Virtus.pro,11,23,0.55 
+2016,04,24,16:00,mousesports,Virtus.pro,cache,ECS Season 1,16,4,12,3,4,1,Virtus.pro,8,18,0.44 
+2016,04,23,19:00,Virtus.pro,NiP,mirage,ECS Season 1,25,22,9,6,6,9,Virtus.pro,48,37,1.34 
+2016,04,23,19:00,Virtus.pro,NiP,cache,ECS Season 1,16,12,7,8,9,4,Virtus.pro,13,24,0.61 
+2016,04,21,22:00,Virtus.pro,mousesports,train,ESL Pro League Season 3,19,15,6,9,9,6,Virtus.pro,14,24,0.60 
+2016,04,21,21:15,Virtus.pro,mousesports,cache,ESL Pro League Season 3,5,16,2,13,3,3,Virtus.pro,8,18,0.49 
+2016,04,19,18:00,FaZe,Virtus.pro,cache,ECS Season 1,16,12,7,8,9,4,Virtus.pro,26,20,1.34 
+2016,04,19,18:00,Virtus.pro,FaZe,mirage,ECS Season 1,10,16,6,9,4,7,Virtus.pro,15,19,0.79 
+2016,04,19,18:00,FaZe,Virtus.pro,cobblestone,ECS Season 1,8,16,5,10,3,6,Virtus.pro,31,16,1.81 
+2016,04,16,20:45,Virtus.pro,NiP,train,DreamHack Masters Malmö 2016,12,16,5,10,7,6,Virtus.pro,15,22,0.75 
+2016,04,16,20:45,Virtus.pro,NiP,cache,DreamHack Masters Malmö 2016,12,16,3,12,9,4,Virtus.pro,24,20,1.20 
+2016,04,13,21:30,Virtus.pro,TempoStorm,mirage,DreamHack Masters Malmö 2016,16,9,9,6,7,3,Virtus.pro,19,16,1.14 
+2016,04,12,20:00,FaZe,Virtus.pro,train,DreamHack Masters Malmö 2016,8,16,5,10,3,6,Virtus.pro,10,20,0.53 
+2016,04,10,16:00,dignitas,Virtus.pro,mirage,ECS Season 1,16,14,7,8,9,6,Virtus.pro,29,26,1.15 
+2016,04,10,16:00,Virtus.pro,dignitas,cache,ECS Season 1,16,4,11,4,5,0,Virtus.pro,17,10,1.35 
+2016,04,10,16:00,Virtus.pro,dignitas,cobblestone,ECS Season 1,13,16,10,5,3,11,Virtus.pro,17,21,0.79 
+2016,04,07,21:10,Virtus.pro,SK,train,ESL Pro League Season 3,12,16,5,10,7,6,Virtus.pro,18,23,0.85 
+2016,04,07,20:15,SK,Virtus.pro,cache,ESL Pro League Season 3,16,11,11,4,5,7,Virtus.pro,15,21,0.75 
+2016,04,02,16:00,Virtus.pro,Luminosity,overpass,MLG Columbus 2016,11,16,3,12,8,4,Virtus.pro,20,21,0.99 
+2016,04,02,16:00,Luminosity,Virtus.pro,cobblestone,MLG Columbus 2016,16,10,11,4,5,6,Virtus.pro,10,25,0.42 
+2016,04,02,16:00,Luminosity,Virtus.pro,cache,MLG Columbus 2016,17,19,5,10,10,5,Virtus.pro,26,24,1.05 
+2016,04,01,02:00,G2,Virtus.pro,cobblestone,MLG Columbus 2016,7,16,5,10,2,6,Virtus.pro,12,15,0.77 
+2016,04,01,02:00,Virtus.pro,G2,inferno,MLG Columbus 2016,9,16,8,7,1,9,Virtus.pro,23,20,1.16 
+2016,04,01,02:00,G2,Virtus.pro,train,MLG Columbus 2016,9,16,5,10,4,6,Virtus.pro,17,12,1.15 
+2016,03,31,02:40,Virtus.pro,NatusVincere,cobblestone,MLG Columbus 2016,4,16,3,12,1,4,Virtus.pro,9,15,0.64 
+2016,03,30,02:15,G2,Virtus.pro,train,MLG Columbus 2016,1,16,1,14,0,2,Virtus.pro,15,13,1.10 
+2016,03,18,12:45,NatusVincere,Virtus.pro,train,Counter Pit League Season 2 Fi..,16,12,6,9,10,3,Virtus.pro,10,26,0.38 
+2016,03,18,12:45,Virtus.pro,NatusVincere,overpass,Counter Pit League Season 2 Fi..,14,16,10,5,4,11,Virtus.pro,13,25,0.63 
+2016,03,17,13:05,Virtus.pro,Immunity,dust2,Counter Pit League Season 2 Fi..,16,11,13,2,3,9,Virtus.pro,16,17,0.97 
+2016,03,17,13:05,Immunity,Virtus.pro,inferno,Counter Pit League Season 2 Fi..,11,16,7,8,4,8,Virtus.pro,17,20,0.93 
+2016,03,12,22:15,Virtus.pro,G2,overpass,ESL Pro League Season 3,6,16,5,10,1,6,Virtus.pro,16,19,0.90 
+2016,03,12,21:00,G2,Virtus.pro,train,ESL Pro League Season 3,14,16,8,7,6,9,Virtus.pro,19,22,0.90 
+2016,03,09,21:00,NiP,Virtus.pro,overpass,ESL Pro League Season 3,16,11,6,9,10,2,Virtus.pro,11,23,0.50 
+2016,03,09,20:00,NiP,Virtus.pro,cache,ESL Pro League Season 3,16,2,14,1,2,1,Virtus.pro,5,17,0.28 
+2016,03,04,18:15,Virtus.pro,fnatic,inferno,IEM Katowice 2016,8,16,1,14,7,2,Virtus.pro,15,20,0.71 
+2016,03,04,18:15,fnatic,Virtus.pro,train,IEM Katowice 2016,16,5,11,4,5,1,Virtus.pro,7,19,0.36 
+2016,03,03,21:00,Virtus.pro,FaZe,mirage,IEM Katowice 2016,16,13,8,7,8,6,Virtus.pro,22,16,1.18 
+2016,03,03,19:55,Virtus.pro,E-frag.net,overpass,IEM Katowice 2016,16,9,11,4,5,5,Virtus.pro,14,13,0.91 
+2016,03,03,18:30,Virtus.pro,TempoStorm,cobblestone,IEM Katowice 2016,9,16,2,13,7,3,Virtus.pro,13,19,0.68 
+2016,03,03,16:00,EnVyUs,Virtus.pro,cache,IEM Katowice 2016,14,16,4,11,10,5,Virtus.pro,27,18,1.27 
+2016,03,03,14:40,Virtus.pro,Astralis,overpass,IEM Katowice 2016,6,16,5,10,1,6,Virtus.pro,13,17,0.92 
+2016,02,24,22:30,Astralis,Virtus.pro,cache,ESL Pro League Season 3,16,11,13,2,3,9,Virtus.pro,17,22,0.83 
+2016,02,24,21:30,Virtus.pro,Astralis,overpass,ESL Pro League Season 3,3,16,2,13,1,3,Virtus.pro,8,17,0.47 
+2016,02,23,22:45,Virtus.pro,EnVyUs,mirage,ESL Pro League Season 3,13,16,5,10,8,6,Virtus.pro,20,20,1.03 
+2016,02,23,21:15,Virtus.pro,EnVyUs,cobblestone,ESL Pro League Season 3,22,20,8,7,7,8,Virtus.pro,23,31,0.78 
+2016,02,17,20:58,Virtus.pro,NatusVincere,cobblestone,ESL Pro League Season 3,12,16,6,9,6,7,Virtus.pro,14,19,0.74 
+2016,02,17,19:00,NatusVincere,Virtus.pro,dust2,ESL Pro League Season 3,16,9,7,8,9,1,Virtus.pro,7,23,0.35 
+2016,02,15,22:00,Virtus.pro,dignitas,overpass,ESL Pro League Season 3,14,16,7,8,7,8,Virtus.pro,20,24,0.97 
+2016,02,15,21:00,dignitas,Virtus.pro,mirage,ESL Pro League Season 3,16,5,11,4,5,1,Virtus.pro,14,18,0.81 
+2016,02,11,22:15,Virtus.pro,fnatic,overpass,ESL Pro League Season 3,9,16,7,8,2,8,Virtus.pro,13,21,0.66 
+2016,02,11,21:15,Virtus.pro,fnatic,dust2,ESL Pro League Season 3,12,16,3,12,9,4,Virtus.pro,16,20,0.81 
+2016,02,10,22:30,FaZe,Virtus.pro,mirage,ESL Pro League Season 3,16,10,12,3,4,7,Virtus.pro,25,18,1.34 
+2016,02,10,21:00,Virtus.pro,FaZe,train,ESL Pro League Season 3,9,16,8,7,1,9,Virtus.pro,12,18,0.68 
+2016,01,22,22:00,dignitas,Virtus.pro,cobblestone,DreamHack ZOWIE Open Leipzig 2..,22,20,7,8,8,7,Virtus.pro,25,29,0.87 
+2016,01,22,22:00,dignitas,Virtus.pro,mirage,DreamHack ZOWIE Open Leipzig 2..,16,7,8,7,8,0,Virtus.pro,10,17,0.63 
+2016,01,22,22:00,dignitas,Virtus.pro,cache,DreamHack ZOWIE Open Leipzig 2..,11,16,8,7,3,9,Virtus.pro,21,16,1.26 
+2016,01,22,14:00,mousesports,Virtus.pro,dust2,DreamHack ZOWIE Open Leipzig 2..,16,5,10,5,6,0,Virtus.pro,11,19,0.68 
+2015,12,07,20:30,HellRaisers,Virtus.pro,cache,Global Offensive Champions Lea..,16,10,8,7,8,3,Virtus.pro,22,19,1.11 
+2015,12,07,20:30,Virtus.pro,HellRaisers,mirage,Global Offensive Champions Lea..,17,21,9,6,6,9,Virtus.pro,20,27,0.72 
+2015,12,07,20:30,Virtus.pro,HellRaisers,overpass,Global Offensive Champions Lea..,16,14,8,7,8,7,Virtus.pro,28,17,1.37 
+2015,11,28,14:00,fnatic,Virtus.pro,cache,FACEIT League 2015 Stage 3 Fin..,16,9,11,4,5,5,Virtus.pro,25,20,1.32 
+2015,11,28,14:00,fnatic,Virtus.pro,inferno,FACEIT League 2015 Stage 3 Fin..,16,10,13,2,3,8,Virtus.pro,20,22,1.01 
+2015,11,28,14:00,Virtus.pro,fnatic,mirage,FACEIT League 2015 Stage 3 Fin..,16,11,7,8,9,3,Virtus.pro,19,20,0.93 
+2015,11,27,18:15,Virtus.pro,Liquid,mirage,FACEIT League 2015 Stage 3 Fin..,16,8,8,7,8,1,Virtus.pro,24,16,1.45 
+2015,11,27,18:00,Virtus.pro,Liquid,overpass,FACEIT League 2015 Stage 3 Fin..,16,6,12,3,4,3,Virtus.pro,24,11,1.71 
+2015,11,26,16:00,Virtus.pro,TSM,mirage,FACEIT League 2015 Stage 3 Fin..,13,16,3,12,10,4,Virtus.pro,18,24,0.74 
+2015,11,26,13:00,Virtus.pro,Legacy,cobblestone,FACEIT League 2015 Stage 3 Fin..,16,12,9,6,7,6,Virtus.pro,23,18,1.14 
+2015,11,22,05:50,Liquid,Virtus.pro,mirage,IEM San Jose 2015,16,9,9,6,7,3,Virtus.pro,21,20,1.12 
+2015,11,22,05:50,Liquid,Virtus.pro,overpass,IEM San Jose 2015,16,2,13,2,3,0,Virtus.pro,6,16,0.40 
+2015,11,18,20:00,Virtus.pro,FlipSid3,train,Global Offensive Champions Lea..,16,6,12,3,4,3,Virtus.pro,24,8,1.67 
+2015,11,18,20:00,Virtus.pro,FlipSid3,mirage,Global Offensive Champions Lea..,16,14,7,8,9,6,Virtus.pro,19,19,1.02 
+2015,11,17,21:00,Virtus.pro,NatusVincere,dust2,ESL ESEA Pro League Season 2,5,16,4,11,1,5,Virtus.pro,17,19,0.89 
+2015,11,17,20:00,NiP,Virtus.pro,overpass,ESL ESEA Pro League Season 2,16,13,11,4,5,9,Virtus.pro,22,22,1.03 
+2015,11,17,19:00,Virtus.pro,dignitas,cobblestone,ESL ESEA Pro League Season 2,7,16,5,10,2,6,Virtus.pro,15,20,0.83 
+2015,11,16,19:30,KeydStars,Virtus.pro,mirage,BenQ All-Star Showmatch #7,14,16,9,6,5,10,Virtus.pro,38,18,1.83 
+2015,11,16,19:30,KeydStars,Virtus.pro,train,BenQ All-Star Showmatch #7,2,16,2,13,0,3,Virtus.pro,11,8,1.13 
+2015,11,16,18:00,mousesports,Virtus.pro,dust2,ESL ESEA Pro League Season 2,13,16,5,10,8,6,Virtus.pro,26,19,1.37 
+2015,11,15,23:00,Virtus.pro,HellRaisers,cache,FACEIT League 2015 Stage 3,16,7,9,6,7,1,Virtus.pro,16,16,0.91 
+2015,11,15,22:00,HellRaisers,Virtus.pro,overpass,FACEIT League 2015 Stage 3,5,16,5,10,0,6,Virtus.pro,19,8,1.51 
+2015,11,15,20:15,Virtus.pro,Titan,train,FACEIT League 2015 Stage 3,16,2,13,2,3,0,Virtus.pro,22,6,1.89 
+2015,11,15,19:00,NiP,Virtus.pro,cobblestone,FACEIT League 2015 Stage 3,14,16,2,13,12,3,Virtus.pro,30,16,1.51 
+2015,11,14,22:00,fnatic,Virtus.pro,train,FACEIT League 2015 Stage 3,16,10,7,8,9,2,Virtus.pro,17,20,0.89 
+2015,11,14,20:00,Virtus.pro,Titan,cobblestone,FACEIT League 2015 Stage 3,16,8,7,8,9,0,Virtus.pro,19,17,1.04 
+2015,11,14,19:00,Virtus.pro,G2,cache,FACEIT League 2015 Stage 3,10,16,4,11,6,5,Virtus.pro,18,17,0.93 
+2015,11,13,21:15,Virtus.pro,EnVyUs,cache,FACEIT League 2015 Stage 3,16,4,11,4,5,0,Virtus.pro,18,11,1.38 
+2015,11,13,20:10,NiP,Virtus.pro,mirage,FACEIT League 2015 Stage 3,16,14,5,10,11,4,Virtus.pro,24,23,1.01 
+2015,11,13,19:00,G2,Virtus.pro,train,FACEIT League 2015 Stage 3,16,13,8,7,8,6,Virtus.pro,25,20,1.27 
+2015,11,12,21:00,Virtus.pro,dignitas,cache,ESL ESEA Pro League Season 2,4,16,1,14,3,2,Virtus.pro,8,17,0.49 
+2015,11,12,18:00,E-frag.net,Virtus.pro,dust2,SL i-League StarSeries XIV,13,16,8,7,5,9,Virtus.pro,32,24,1.40 
+2015,11,11,21:00,mousesports,Virtus.pro,inferno,ESL ESEA Pro League Season 2,16,2,13,2,3,0,Virtus.pro,13,17,0.91 
+2015,11,11,20:00,Virtus.pro,Titan,train,ESL ESEA Pro League Season 2,16,13,12,3,4,10,Virtus.pro,15,24,0.63 
+2015,11,11,17:15,G2,Virtus.pro,train,SL i-League StarSeries XIV,16,14,5,10,11,4,Virtus.pro,16,20,0.78 
+2015,11,11,17:15,G2,Virtus.pro,inferno,SL i-League StarSeries XIV,16,4,11,4,5,0,Virtus.pro,6,18,0.39 
+2015,11,08,23:35,mousesports,Virtus.pro,cobblestone,CEVO Professional Season 8 Fin..,4,16,3,12,1,4,Virtus.pro,17,11,1.31 
+2015,11,08,23:35,Virtus.pro,mousesports,mirage,CEVO Professional Season 8 Fin..,16,8,13,2,3,6,Virtus.pro,18,15,1.17 
+2015,11,08,23:35,mousesports,Virtus.pro,inferno,CEVO Professional Season 8 Fin..,8,16,4,11,4,5,Virtus.pro,30,14,1.82 
+2015,11,08,16:00,Virtus.pro,Titan,cobblestone,CEVO Professional Season 8 Fin..,16,13,7,8,9,5,Virtus.pro,21,19,1.05 
+2015,11,08,16:00,Titan,Virtus.pro,train,CEVO Professional Season 8 Fin..,10,16,7,8,3,8,Virtus.pro,19,18,1.11 
+2015,11,07,20:30,Virtus.pro,dignitas,mirage,CEVO Professional Season 8 Fin..,16,11,9,6,7,5,Virtus.pro,13,17,0.79 
+2015,11,07,20:30,Virtus.pro,dignitas,inferno,CEVO Professional Season 8 Fin..,16,13,9,6,7,7,Virtus.pro,26,21,1.31 
+2015,11,07,20:30,dignitas,Virtus.pro,train,CEVO Professional Season 8 Fin..,19,17,10,5,5,10,Virtus.pro,26,25,0.92 
+2015,11,07,01:45,Virtus.pro,Conquest,inferno,CEVO Professional Season 8 Fin..,22,19,6,9,9,6,Virtus.pro,48,25,1.58 
+2015,11,07,01:45,Virtus.pro,Conquest,train,CEVO Professional Season 8 Fin..,16,7,9,6,7,1,Virtus.pro,18,12,1.22 
+2015,11,03,18:00,Orgless,Virtus.pro,train,SL i-League StarSeries XIV,16,9,12,3,4,6,Virtus.pro,19,21,0.88 
+2015,11,03,18:00,Orgless,Virtus.pro,cobblestone,SL i-League StarSeries XIV,16,13,7,8,9,5,Virtus.pro,28,20,1.22 
+2015,10,31,13:45,G2,Virtus.pro,train,DreamHack Open Cluj-Napoca 201..,19,17,9,6,6,9,Virtus.pro,28,26,1.02 
+2015,10,31,13:45,Virtus.pro,G2,cache,DreamHack Open Cluj-Napoca 201..,10,16,7,8,3,8,Virtus.pro,16,20,0.84 
+2015,10,29,20:55,Virtus.pro,Titan,train,DreamHack Open Cluj-Napoca 201..,16,7,9,6,7,1,Virtus.pro,19,14,1.31 
+2015,10,28,16:00,Virtus.pro,Liquid,cobblestone,DreamHack Open Cluj-Napoca 201..,19,15,6,9,9,6,Virtus.pro,25,27,0.92 
+2015,10,24,21:20,TSM,Virtus.pro,overpass,ESL ESEA Pro League Season 2,16,3,13,2,3,1,Virtus.pro,13,17,0.81 
+2015,10,24,20:20,Virtus.pro,SK,cobblestone,ESL ESEA Pro League Season 2,16,13,10,5,6,8,Virtus.pro,15,20,0.79 
+2015,10,22,20:00,DenDD,Virtus.pro,overpass,Global Offensive Champions Lea..,12,16,6,9,6,7,Virtus.pro,26,21,1.19 
+2015,10,22,20:00,Virtus.pro,DenDD,mirage,Global Offensive Champions Lea..,16,7,10,5,6,2,Virtus.pro,20,13,1.26 
+2015,10,22,19:00,PENTA,Virtus.pro,train,ESL ESEA Pro League Season 2,10,16,9,6,1,10,Virtus.pro,16,19,0.89 
+2015,10,21,21:00,TSM,Virtus.pro,overpass,FACEIT League 2015 Stage 3,5,16,2,13,3,3,Virtus.pro,15,15,0.94 
+2015,10,20,20:00,HellRaisers,Virtus.pro,overpass,ESL ESEA Pro League Season 2,11,16,8,7,3,9,Virtus.pro,24,17,1.26 
+2015,10,20,19:00,Virtus.pro,TSM,mirage,ESL ESEA Pro League Season 2,11,16,10,5,1,11,Virtus.pro,9,20,0.51 
+2015,10,19,21:00,Virtus.pro,fnatic,cache,ESL ESEA Pro League Season 2,16,19,9,6,6,9,Virtus.pro,25,27,0.88 
+2015,10,18,21:25,fnatic,Virtus.pro,train,ESL ESEA Pro League Season 2,19,17,7,8,8,7,Virtus.pro,28,26,1.01 
+2015,10,18,20:00,PENTA,Virtus.pro,cache,ESL ESEA Pro League Season 2,16,8,10,5,6,3,Virtus.pro,9,21,0.49 
+2015,10,18,19:00,NiP,Virtus.pro,inferno,ESL ESEA Pro League Season 2,12,16,11,4,1,12,Virtus.pro,21,21,0.95 
+2015,10,18,18:00,EnVyUs,Virtus.pro,dust2,ESL ESEA Pro League Season 2,16,5,12,3,4,2,Virtus.pro,7,20,0.32 
+2015,10,16,17:00,NatusVincere,Virtus.pro,mirage,Azubu.tv Showmatch,14,16,5,10,9,6,Virtus.pro,16,20,0.81 
+2015,10,16,17:00,Virtus.pro,NatusVincere,inferno,Azubu.tv Showmatch,16,14,8,7,8,7,Virtus.pro,24,24,0.99 
+2015,10,16,17:00,NatusVincere,Virtus.pro,train,Azubu.tv Showmatch,13,16,8,7,5,9,Virtus.pro,22,20,1.09 
+2015,10,16,17:00,Virtus.pro,NatusVincere,cobblestone,Azubu.tv Showmatch,9,16,4,11,5,5,Virtus.pro,11,22,0.51 
+2015,10,04,15:15,Virtus.pro,TSM,overpass,PGL Season 1 Finals,12,16,6,9,6,7,Virtus.pro,14,21,0.68 
+2015,10,04,15:15,TSM,Virtus.pro,train,PGL Season 1 Finals,16,12,8,7,8,5,Virtus.pro,21,23,0.88 
+2015,10,04,12:00,fnatic,Virtus.pro,dust2,PGL Season 1 Finals,12,16,5,10,7,6,Virtus.pro,28,19,1.33 
+2015,10,04,12:00,fnatic,Virtus.pro,train,PGL Season 1 Finals,12,16,6,9,6,7,Virtus.pro,15,18,0.82 
+2015,10,03,17:45,TSM,Virtus.pro,train,PGL Season 1 Finals,16,14,7,8,9,6,Virtus.pro,17,19,0.87 
+2015,10,03,17:45,Virtus.pro,TSM,inferno,PGL Season 1 Finals,12,16,11,4,1,12,Virtus.pro,27,21,1.34 
+2015,10,02,13:00,Liquid,Virtus.pro,mirage,PGL Season 1 Finals,9,16,6,9,3,7,Virtus.pro,17,17,0.95 
+2015,10,02,13:00,Virtus.pro,Liquid,overpass,PGL Season 1 Finals,16,14,10,5,6,9,Virtus.pro,15,21,0.78 
+2015,09,30,22:15,TSM,Virtus.pro,cache,FACEIT League 2015 Stage 3,16,11,8,7,8,4,Virtus.pro,18,22,0.82 
+2015,09,30,21:15,Virtus.pro,Titan,inferno,ESL ESEA Pro League Season 2,14,16,6,9,8,7,Virtus.pro,19,22,0.79 
+2015,09,30,20:00,EnVyUs,Virtus.pro,mirage,ESL ESEA Pro League Season 2,19,16,7,8,8,7,Virtus.pro,17,26,0.80 
+2015,09,30,19:00,fnatic,Virtus.pro,dust2,FACEIT League 2015 Stage 3,10,16,9,6,1,10,Virtus.pro,17,15,1.07 
+2015,09,29,22:00,EnVyUs,Virtus.pro,mirage,FACEIT League 2015 Stage 3,14,16,9,6,5,10,Virtus.pro,14,24,0.63 
+2015,09,29,21:00,Virtus.pro,NatusVincere,mirage,ESL ESEA Pro League Season 2,8,16,7,8,1,8,Virtus.pro,12,17,0.73 
+2015,09,29,20:00,Virtus.pro,SK,overpass,ESL ESEA Pro League Season 2,16,8,10,5,6,3,Virtus.pro,17,17,0.95 
+2015,09,29,19:00,HellRaisers,Virtus.pro,cobblestone,ESL ESEA Pro League Season 2,9,16,4,11,5,5,Virtus.pro,22,16,1.31 
+2015,09,26,18:00,Virtus.pro,EnVyUs,cobblestone,Gfinity 2015 Champion of Champ..,6,16,5,10,1,6,Virtus.pro,13,20,0.65 
+2015,09,26,18:00,EnVyUs,Virtus.pro,cache,Gfinity 2015 Champion of Champ..,16,7,11,4,5,3,Virtus.pro,8,19,0.48 
+2015,09,26,18:00,Virtus.pro,EnVyUs,mirage,Gfinity 2015 Champion of Champ..,16,9,8,7,8,2,Virtus.pro,20,18,1.13 
+2015,09,26,18:00,Virtus.pro,EnVyUs,inferno,Gfinity 2015 Champion of Champ..,12,16,2,13,10,3,Virtus.pro,17,24,0.71 
+2015,09,26,18:00,Virtus.pro,EnVyUs,train,Gfinity 2015 Champion of Champ..,16,8,11,4,5,4,Virtus.pro,13,14,0.84 
+2015,09,24,20:00,Virtus.pro,Orbit,mirage,Global Offensive Champions Lea..,16,10,13,2,3,8,Virtus.pro,22,14,1.35 
+2015,09,24,20:00,Virtus.pro,Orbit,cobblestone,Global Offensive Champions Lea..,6,16,3,12,3,4,Virtus.pro,10,19,0.52 
+2015,09,24,20:00,Orbit,Virtus.pro,train,Global Offensive Champions Lea..,10,16,6,9,4,7,Virtus.pro,22,17,1.17 
+2015,09,24,17:40,TSM,Virtus.pro,train,Counter Pit League,16,3,14,1,2,2,Virtus.pro,8,18,0.49 
+2015,09,24,17:40,TSM,Virtus.pro,overpass,Counter Pit League,16,11,10,5,6,6,Virtus.pro,14,22,0.69 
+2015,09,12,17:00,Virtus.pro,TSM,mirage,ESL ESEA Dubai Invitational 20..,16,14,12,3,4,11,Virtus.pro,21,19,1.06 
+2015,09,12,17:00,Virtus.pro,TSM,cobblestone,ESL ESEA Dubai Invitational 20..,16,7,9,6,7,1,Virtus.pro,19,11,1.27 
+2015,09,12,17:00,TSM,Virtus.pro,dust2,ESL ESEA Dubai Invitational 20..,16,3,12,3,4,0,Virtus.pro,10,19,0.59 
+2015,09,12,17:00,Virtus.pro,TSM,train,ESL ESEA Dubai Invitational 20..,16,7,11,4,5,3,Virtus.pro,16,14,1.10 
+2015,09,12,17:00,TSM,Virtus.pro,overpass,ESL ESEA Dubai Invitational 20..,16,13,10,5,6,8,Virtus.pro,23,22,1.14 
+2015,09,11,20:45,fnatic,Virtus.pro,cache,ESL ESEA Dubai Invitational 20..,4,16,4,11,0,5,Virtus.pro,11,12,0.90 
+2015,09,11,20:45,Virtus.pro,fnatic,train,ESL ESEA Dubai Invitational 20..,16,5,11,4,5,1,Virtus.pro,15,9,1.17 
+2015,09,11,20:45,Virtus.pro,fnatic,cobblestone,ESL ESEA Dubai Invitational 20..,7,16,5,10,2,6,Virtus.pro,14,21,0.63 
+2015,09,10,17:30,EnVyUs,Virtus.pro,cache,ESL ESEA Dubai Invitational 20..,7,16,0,15,7,1,Virtus.pro,20,17,1.24 
+2015,09,10,14:20,NiP,Virtus.pro,mirage,ESL ESEA Dubai Invitational 20..,7,16,7,8,0,8,Virtus.pro,18,15,1.16 
+2015,09,08,22:30,NatusVincere,Virtus.pro,mirage,Gaming Paradise 2015,22,18,11,4,4,11,Virtus.pro,21,31,0.71 
+2015,09,08,13:00,E-frag.net,Virtus.pro,overpass,Gaming Paradise 2015,8,16,7,8,1,8,Virtus.pro,15,13,1.07 
+2015,09,08,00:30,Virtus.pro,Titan,inferno,Gaming Paradise 2015,8,16,2,13,6,3,Virtus.pro,19,18,1.03 
+2015,09,08,00:30,Virtus.pro,Titan,train,Gaming Paradise 2015,10,16,9,6,1,10,Virtus.pro,18,21,0.89 
+2015,09,08,00:30,Titan,Virtus.pro,overpass,Gaming Paradise 2015,15,19,8,7,7,8,Virtus.pro,32,25,1.22 
+2015,09,07,15:30,CSGO-Saloon,Virtus.pro,dust2,Gaming Paradise 2015,3,16,3,12,0,4,Virtus.pro,18,9,1.37 
+2015,09,07,15:30,Virtus.pro,CSGO-Saloon,mirage,Gaming Paradise 2015,16,4,12,3,4,1,Virtus.pro,15,10,1.09 
+2015,09,02,21:00,Virtus.pro,EnVyUs,train,Counter Pit League,20,22,12,3,3,12,Virtus.pro,18,31,0.65 
+2015,09,02,21:00,Virtus.pro,EnVyUs,inferno,Counter Pit League,10,16,6,9,4,7,Virtus.pro,9,21,0.45 
+2015,08,29,18:00,Virtus.pro,NatusVincere,overpass,PGL Season 1,16,11,9,6,7,5,Virtus.pro,20,21,0.95 
+2015,08,29,18:00,NatusVincere,Virtus.pro,train,PGL Season 1,24,26,12,3,3,12,Virtus.pro,31,33,0.87 
+2015,08,29,18:00,Virtus.pro,NatusVincere,inferno,PGL Season 1,16,6,9,6,7,0,Virtus.pro,19,11,1.42 
+2015,08,28,18:00,Virtus.pro,TSM,mirage,PGL Season 1,16,12,12,3,4,9,Virtus.pro,21,19,1.05 
+2015,08,28,18:00,TSM,Virtus.pro,cache,PGL Season 1,12,16,10,5,2,11,Virtus.pro,27,19,1.34 
+2015,08,28,18:00,Virtus.pro,TSM,overpass,PGL Season 1,6,16,5,10,1,6,Virtus.pro,9,20,0.50 
+2015,08,28,18:00,TSM,Virtus.pro,train,PGL Season 1,14,16,8,7,6,9,Virtus.pro,21,23,0.87 
+2015,08,28,18:00,Virtus.pro,TSM,inferno,PGL Season 1,13,16,7,8,6,8,Virtus.pro,27,19,1.32 
+2015,08,27,18:00,Kinguin,Virtus.pro,train,PGL Season 1,8,16,7,8,1,8,Virtus.pro,21,14,1.31 
+2015,08,27,18:00,Virtus.pro,Kinguin,cache,PGL Season 1,16,10,7,8,9,2,Virtus.pro,26,18,1.40 
+2015,08,26,21:00,Virtus.pro,NatusVincere,overpass,PGL Season 1,6,16,5,10,1,6,Virtus.pro,16,20,0.89 
+2015,08,26,21:00,Virtus.pro,NatusVincere,inferno,PGL Season 1,13,16,8,7,5,9,Virtus.pro,19,21,0.95 
+2015,08,26,21:00,NatusVincere,Virtus.pro,train,PGL Season 1,13,16,8,7,5,9,Virtus.pro,17,19,0.95 
+2015,08,23,15:30,fnatic,Virtus.pro,cobblestone,ESL One Cologne 2015,16,7,8,7,8,0,Virtus.pro,9,19,0.52 
+2015,08,23,15:30,Virtus.pro,fnatic,inferno,ESL One Cologne 2015,14,16,7,8,7,8,Virtus.pro,20,23,0.94 
+2015,08,23,15:30,fnatic,Virtus.pro,mirage,ESL One Cologne 2015,6,16,6,9,0,7,Virtus.pro,22,11,1.64 
+2015,08,22,18:00,Virtus.pro,NiP,inferno,ESL One Cologne 2015,16,5,11,4,5,1,Virtus.pro,9,18,0.53 
+2015,08,22,18:00,NiP,Virtus.pro,train,ESL One Cologne 2015,14,16,9,6,5,10,Virtus.pro,14,21,0.71 
+2015,08,20,21:05,Virtus.pro,Cloud9,cobblestone,ESL One Cologne 2015,16,8,8,7,8,1,Virtus.pro,12,15,0.80 
+2015,08,20,18:15,Virtus.pro,Immunity,cobblestone,ESL One Cologne 2015,16,8,9,6,7,2,Virtus.pro,22,13,1.48 
+2015,07,26,22:15,NatusVincere,Virtus.pro,mirage,CEVO Professional Season 7 Fin..,15,19,10,5,5,10,Virtus.pro,21,21,0.96 
+2015,07,26,22:15,Virtus.pro,NatusVincere,cobblestone,CEVO Professional Season 7 Fin..,7,16,6,9,1,7,Virtus.pro,15,17,0.83 
+2015,07,26,22:15,NatusVincere,Virtus.pro,cache,CEVO Professional Season 7 Fin..,11,16,10,5,1,11,Virtus.pro,28,20,1.44 
+2015,07,26,22:15,Virtus.pro,NatusVincere,overpass,CEVO Professional Season 7 Fin..,16,8,11,4,5,4,Virtus.pro,23,15,1.47 
+2015,07,26,19:15,Virtus.pro,Cloud9,inferno,CEVO Professional Season 7 Fin..,16,11,14,1,2,10,Virtus.pro,19,18,1.05 
+2015,07,26,19:15,Virtus.pro,Cloud9,cache,CEVO Professional Season 7 Fin..,7,16,4,11,3,5,Virtus.pro,9,20,0.48 
+2015,07,26,19:15,Virtus.pro,Cloud9,train,CEVO Professional Season 7 Fin..,16,5,13,2,3,3,Virtus.pro,11,9,1.01 
+2015,07,25,16:45,NatusVincere,Virtus.pro,train,CEVO Professional Season 7 Fin..,5,16,5,10,0,6,Virtus.pro,30,10,2.23 
+2015,07,25,16:45,Virtus.pro,NatusVincere,overpass,CEVO Professional Season 7 Fin..,19,15,6,9,9,6,Virtus.pro,31,23,1.44 
+2015,07,24,23:00,Virtus.pro,TempoStorm,cache,CEVO Professional Season 7 Fin..,16,13,11,4,5,9,Virtus.pro,15,21,0.72 
+2015,07,24,23:00,TempoStorm,Virtus.pro,train,CEVO Professional Season 7 Fin..,9,16,8,7,1,9,Virtus.pro,23,15,1.30 
+2015,07,17,12:15,Kinguin,Virtus.pro,cache,FACEIT League 2015 Stage 2 Fin..,16,0,15,0,1,0,Virtus.pro,6,16,0.35 
+2015,07,17,12:15,Kinguin,Virtus.pro,dust2,FACEIT League 2015 Stage 2 Fin..,16,12,7,8,9,4,Virtus.pro,23,18,1.21 
+2015,07,17,12:15,Virtus.pro,Kinguin,train,FACEIT League 2015 Stage 2 Fin..,21,17,9,6,6,9,Virtus.pro,33,27,1.20 
+2015,07,16,14:00,Virtus.pro,NatusVincere,overpass,FACEIT League 2015 Stage 2 Fin..,12,16,7,8,5,8,Virtus.pro,12,20,0.67 
+2015,07,04,18:30,Virtus.pro,fnatic,dust2,ESL ESEA Pro League Season 1 F..,9,16,4,11,5,5,Virtus.pro,15,20,0.85 
+2015,07,04,18:30,Virtus.pro,fnatic,overpass,ESL ESEA Pro League Season 1 F..,3,16,3,12,0,4,Virtus.pro,13,15,0.83 
+2015,07,04,18:30,Virtus.pro,fnatic,cache,ESL ESEA Pro League Season 1 F..,16,12,7,8,9,4,Virtus.pro,23,18,1.16 
+2015,07,02,18:15,Virtus.pro,Cloud9,overpass,ESL ESEA Pro League Season 1 F..,16,10,10,5,6,5,Virtus.pro,16,16,0.94 
+2015,07,02,12:50,Luminosity,Virtus.pro,cobblestone,ESL ESEA Pro League Season 1 F..,4,16,4,11,0,5,Virtus.pro,12,12,0.94 
+2015,06,30,20:00,Virtus.pro,Titan,cache,FACEIT League 2015 Stage 2,16,13,9,6,7,7,Virtus.pro,25,18,1.21 
+2015,06,27,19:30,Virtus.pro,mousesports,train,Gfinity 2015 Summer Masters 1,20,22,7,8,8,7,Virtus.pro,32,31,1.05 
+2015,06,27,19:30,mousesports,Virtus.pro,mirage,Gfinity 2015 Summer Masters 1,16,13,11,4,5,9,Virtus.pro,15,24,0.61 
+2015,06,27,19:30,mousesports,Virtus.pro,dust2,Gfinity 2015 Summer Masters 1,15,19,11,4,4,11,Virtus.pro,23,22,1.00 
+2015,06,27,15:15,Cloud9,Virtus.pro,dust2,Gfinity 2015 Summer Masters 1,5,16,4,11,1,5,Virtus.pro,14,16,0.78 
+2015,06,27,15:15,Cloud9,Virtus.pro,overpass,Gfinity 2015 Summer Masters 1,13,16,9,6,4,10,Virtus.pro,16,21,0.85 
+2015,06,26,21:30,mousesports,Virtus.pro,cache,Gfinity 2015 Summer Masters 1,16,5,11,4,5,1,Virtus.pro,13,18,0.80 
+2015,06,26,21:30,Virtus.pro,mousesports,cobblestone,Gfinity 2015 Summer Masters 1,20,22,4,11,11,4,Virtus.pro,30,28,1.08 
+2015,06,24,20:15,Virtus.pro,EnVyUs,overpass,FACEIT League 2015 Stage 2,16,5,11,4,5,1,Virtus.pro,21,16,1.31 
+2015,06,24,17:00,NatusVincere,Virtus.pro,cobblestone,CEVO Professional Season 7,10,16,5,10,5,6,Virtus.pro,18,17,0.95 
+2015,06,24,17:00,Virtus.pro,NatusVincere,inferno,CEVO Professional Season 7,16,6,13,2,3,4,Virtus.pro,18,14,1.11 
+2015,06,23,20:00,EnVyUs,Virtus.pro,cache,E-sport-bets Celebration Show-..,16,11,8,7,8,4,Virtus.pro,14,22,0.63 
+2015,06,23,20:00,EnVyUs,Virtus.pro,train,E-sport-bets Celebration Show-..,16,5,10,5,6,0,Virtus.pro,11,18,0.61 
+2015,06,23,20:00,EnVyUs,Virtus.pro,dust2,E-sport-bets Celebration Show-..,16,12,9,6,7,6,Virtus.pro,21,23,1.02 
+2015,06,23,19:00,fnatic,Virtus.pro,overpass,FACEIT League 2015 Stage 2,16,12,6,9,10,3,Virtus.pro,18,19,0.88 
+2015,06,23,18:00,EnVyUs,Virtus.pro,cache,FACEIT League 2015 Stage 2,2,16,2,13,0,3,Virtus.pro,19,7,1.70 
+2015,06,22,20:00,Virtus.pro,Titan,mirage,FACEIT League 2015 Stage 2,14,16,7,8,7,8,Virtus.pro,17,26,0.66 
+2015,06,22,19:00,Virtus.pro,dignitas,overpass,ESL ESEA Pro League Season 1,16,13,9,6,7,7,Virtus.pro,17,20,0.86 
+2015,06,18,21:00,fnatic,Virtus.pro,cobblestone,ESL ESEA Pro League Season 1,16,2,13,2,3,0,Virtus.pro,11,15,0.73 
+2015,06,17,21:00,Virtus.pro,NatusVincere,cache,ESL ESEA Pro League Season 1,16,8,11,4,5,4,Virtus.pro,19,17,1.07 
+2015,06,17,19:00,NiP,Virtus.pro,train,FACEIT League 2015 Stage 2,21,17,11,4,4,11,Virtus.pro,26,32,0.81 
+2015,06,16,21:15,Virtus.pro,mousesports,inferno,ESL ESEA Pro League Season 1,16,8,10,5,6,3,Virtus.pro,14,19,0.68 
+2015,06,16,20:15,Virtus.pro,mousesports,train,ESL ESEA Pro League Season 1,16,14,7,8,9,6,Virtus.pro,16,19,0.79 
+2015,06,15,20:15,HellRaisers,Virtus.pro,inferno,ESL ESEA Pro League Season 1,12,16,8,7,4,9,Virtus.pro,24,19,1.23 
+2015,06,11,22:30,Virtus.pro,dignitas,mirage,Global Offensive Champions Lea..,12,16,9,6,3,10,Virtus.pro,13,24,0.53 
+2015,06,11,22:30,dignitas,Virtus.pro,cobblestone,Global Offensive Champions Lea..,26,23,11,4,4,11,Virtus.pro,32,35,0.91 
+2015,06,11,20:00,Virtus.pro,NatusVincere,cobblestone,FACEIT League 2015 Stage 2,16,2,13,2,3,0,Virtus.pro,17,8,1.53 
+2015,06,11,19:00,HellRaisers,Virtus.pro,mirage,ESL ESEA Pro League Season 1,19,22,10,5,5,10,Virtus.pro,24,30,0.81 
+2015,06,10,21:00,Virtus.pro,TSM,overpass,ESL ESEA Pro League Season 1,10,16,9,6,1,10,Virtus.pro,9,22,0.44 
+2015,06,10,20:00,Virtus.pro,Titan,cache,ESL ESEA Pro League Season 1,16,7,9,6,7,1,Virtus.pro,25,12,1.58 
+2015,06,09,22:00,G2,Virtus.pro,dust2,Counter Pit League,8,16,6,9,2,7,Virtus.pro,21,13,1.25 
+2015,06,09,22:00,G2,Virtus.pro,overpass,Counter Pit League,7,16,6,9,1,7,Virtus.pro,11,15,0.76 
+2015,06,09,20:15,Virtus.pro,Titan,mirage,CEVO Professional Season 7,16,8,8,7,8,1,Virtus.pro,24,17,1.39 
+2015,06,09,20:15,Titan,Virtus.pro,cobblestone,CEVO Professional Season 7,16,13,7,8,9,5,Virtus.pro,19,19,0.95 
+2015,06,09,19:00,NatusVincere,Virtus.pro,dust2,ESL ESEA Pro League Season 1,6,16,4,11,2,5,Virtus.pro,18,11,1.28 
+2015,06,08,20:00,Virtus.pro,FlipSid3,cobblestone,ESL ESEA Pro League Season 1,16,10,7,8,9,2,Virtus.pro,20,19,1.00 
+2015,06,03,22:00,Virtus.pro,TSM,overpass,FACEIT League 2015 Stage 2,16,4,15,0,1,4,Virtus.pro,20,14,1.46 
+2015,06,03,20:00,Virtus.pro,mousesports,cache,CEVO Professional Season 7,16,14,8,7,8,7,Virtus.pro,17,19,0.89 
+2015,06,03,20:00,mousesports,Virtus.pro,cobblestone,CEVO Professional Season 7,16,11,8,7,8,4,Virtus.pro,14,20,0.80 
+2015,06,03,18:00,dignitas,Virtus.pro,mirage,Game Show CS:GO League Season ..,16,4,12,3,4,1,Virtus.pro,12,18,0.79 
+2015,06,03,18:00,Virtus.pro,dignitas,cache,Game Show CS:GO League Season ..,13,16,7,8,6,8,Virtus.pro,19,19,0.97 
+2015,05,31,19:00,fnatic,Virtus.pro,cobblestone,ESL ESEA Pro League Season 1,16,13,8,7,8,6,Virtus.pro,23,21,1.05 
+2015,05,31,17:00,EnVyUs,Virtus.pro,dust2,ESL ESEA Pro League Season 1,16,11,8,7,8,4,Virtus.pro,11,21,0.56 
+2015,05,28,21:00,Virtus.pro,Titan,overpass,ESL ESEA Pro League Season 1,16,10,11,4,5,6,Virtus.pro,27,16,1.43 
+2015,05,27,19:00,dignitas,Virtus.pro,mirage,Fragbite Masters Season 4,16,12,6,9,10,3,Virtus.pro,21,22,0.95 
+2015,05,27,17:00,fnatic,Virtus.pro,mirage,Fragbite Masters Season 4,16,12,8,7,8,5,Virtus.pro,11,21,0.55 
+2015,05,27,17:00,fnatic,Virtus.pro,inferno,Fragbite Masters Season 4,16,3,13,2,3,1,Virtus.pro,5,17,0.31 
+2015,05,26,20:00,NatusVincere,Virtus.pro,train,Counter Pit League,17,19,11,4,4,11,Virtus.pro,30,23,1.22 
+2015,05,26,20:00,Virtus.pro,NatusVincere,cobblestone,Counter Pit League,8,16,7,8,1,8,Virtus.pro,19,18,1.30 
+2015,05,25,21:30,Virtus.pro,CPLAY,cobblestone,Fragbite Masters Season 4,16,13,8,7,8,6,Virtus.pro,23,16,1.27 
+2015,05,25,21:30,CPLAY,Virtus.pro,inferno,Fragbite Masters Season 4,10,16,10,5,0,11,Virtus.pro,19,15,1.16 
+2015,05,25,20:00,FlipSid3,Virtus.pro,mirage,ESL ESEA Pro League Season 1,14,16,10,5,4,11,Virtus.pro,21,24,0.96 
+2015,05,21,23:00,Virtus.pro,G2,cobblestone,Global Offensive Champions Lea..,16,13,11,4,5,9,Virtus.pro,15,19,0.87 
+2015,05,21,22:15,G2,Virtus.pro,mirage,Global Offensive Champions Lea..,14,16,13,2,1,14,Virtus.pro,19,24,0.85 
+2015,05,21,19:00,dignitas,Virtus.pro,cache,Counter Pit League,16,12,6,9,10,3,Virtus.pro,12,23,0.63 
+2015,05,21,19:00,Virtus.pro,dignitas,train,Counter Pit League,16,4,11,4,5,0,Virtus.pro,16,9,1.23 
+2015,05,20,22:15,Virtus.pro,NiP,overpass,CEVO Professional Season 7,22,25,8,7,7,8,Virtus.pro,22,32,0.74 
+2015,05,20,22:15,Virtus.pro,NiP,cache,CEVO Professional Season 7,10,16,6,9,4,7,Virtus.pro,13,23,0.60 
+2015,05,20,20:15,Virtus.pro,PENTA,inferno,ESL ESEA Pro League Season 1,16,10,11,4,5,6,Virtus.pro,22,20,1.16 
+2015,05,19,22:50,HellRaisers,Virtus.pro,dust2,Fragbite Masters Season 4,16,8,9,6,7,2,Virtus.pro,12,21,0.69 
+2015,05,19,22:50,Virtus.pro,HellRaisers,train,Fragbite Masters Season 4,9,16,8,7,1,9,Virtus.pro,11,20,0.60 
+2015,05,19,22:50,Virtus.pro,HellRaisers,overpass,Fragbite Masters Season 4,19,16,6,9,9,6,Virtus.pro,26,23,1.10 
+2015,05,19,19:20,FlipSid3,Virtus.pro,mirage,Game Show CS:GO League Season ..,11,16,4,11,7,5,Virtus.pro,21,17,1.08 
+2015,05,19,19:20,Virtus.pro,FlipSid3,cobblestone,Game Show CS:GO League Season ..,16,4,13,2,3,2,Virtus.pro,12,11,0.96 
+2015,05,17,21:00,fnatic,Virtus.pro,dust2,Gfinity 2015 Spring Masters 2,19,16,7,8,8,7,Virtus.pro,26,27,1.07 
+2015,05,17,21:00,fnatic,Virtus.pro,cache,Gfinity 2015 Spring Masters 2,16,9,12,3,4,6,Virtus.pro,17,21,0.91 
+2015,05,17,21:00,fnatic,Virtus.pro,cobblestone,Gfinity 2015 Spring Masters 2,16,10,11,4,5,6,Virtus.pro,12,20,0.64 
+2015,05,17,16:30,Virtus.pro,NatusVincere,inferno,Gfinity 2015 Spring Masters 2,25,22,12,3,3,12,Virtus.pro,43,30,1.37 
+2015,05,17,16:30,NatusVincere,Virtus.pro,train,Gfinity 2015 Spring Masters 2,17,19,10,5,5,10,Virtus.pro,26,25,1.00 
+2015,05,16,21:00,Virtus.pro,Immunity,mirage,Gfinity 2015 Spring Masters 2,16,4,13,2,3,2,Virtus.pro,16,13,1.13 
+2015,05,16,21:00,Virtus.pro,Immunity,cache,Gfinity 2015 Spring Masters 2,16,7,12,3,4,4,Virtus.pro,20,13,1.28 
+2015,05,16,18:30,Virtus.pro,EnVyUs,cache,Gfinity 2015 Spring Masters 2,16,4,12,3,4,1,Virtus.pro,13,10,1.04 
+2015,05,16,18:30,EnVyUs,Virtus.pro,train,Gfinity 2015 Spring Masters 2,10,16,10,5,0,11,Virtus.pro,12,15,0.84 
+2015,05,16,13:15,Virtus.pro,Titan,mirage,Gfinity 2015 Spring Masters 2,10,16,4,11,6,5,Virtus.pro,12,20,0.71 
+2015,05,16,13:15,Titan,Virtus.pro,cobblestone,Gfinity 2015 Spring Masters 2,16,4,11,4,5,0,Virtus.pro,9,19,0.53 
+2015,05,15,20:45,Virtus.pro,Cloud9,train,Gfinity 2015 Spring Masters 2,16,7,12,3,4,4,Virtus.pro,12,14,0.81 
+2015,05,15,20:45,Virtus.pro,Cloud9,cache,Gfinity 2015 Spring Masters 2,16,9,9,6,7,3,Virtus.pro,22,16,1.21 
+2015,05,13,22:15,Virtus.pro,EnVyUs,train,ESL ESEA Pro League Season 1,15,19,8,7,7,8,Virtus.pro,24,26,0.94 
+2015,05,13,19:00,Virtus.pro,NatusVincere,cobblestone,Global Offensive Champions Lea..,14,16,7,8,7,8,Virtus.pro,18,21,0.84 
+2015,05,13,18:00,Virtus.pro,NatusVincere,mirage,Global Offensive Champions Lea..,16,11,7,8,9,3,Virtus.pro,22,20,1.15 
+2015,05,12,19:00,TSM,Virtus.pro,dust2,ESL ESEA Pro League Season 1,9,16,7,8,2,8,Virtus.pro,14,17,0.82 
+2015,05,11,22:15,Virtus.pro,LGB,overpass,CEVO Professional Season 7,5,16,4,11,1,5,Virtus.pro,11,18,0.69 
+2015,05,11,22:15,LGB,Virtus.pro,mirage,CEVO Professional Season 7,8,16,7,8,1,8,Virtus.pro,15,15,0.88 
+2015,05,11,20:15,NiP,Virtus.pro,train,ESL ESEA Pro League Season 1,11,16,10,5,1,11,Virtus.pro,18,22,0.84 
+2015,05,07,23:45,HellRaisers,Virtus.pro,mirage,CEVO Professional Season 7,4,16,4,11,0,5,Virtus.pro,19,13,1.34 
+2015,05,07,20:00,PENTA,Virtus.pro,inferno,ESL ESEA Pro League Season 1,9,16,4,11,5,5,Virtus.pro,20,12,1.30 
+2015,05,07,19:00,Virtus.pro,NiP,cache,ESL ESEA Pro League Season 1,16,3,12,3,4,0,Virtus.pro,22,9,1.73 
+2015,05,06,22:15,Virtus.pro,G2,train,CEVO Professional Season 7,16,2,13,2,3,0,Virtus.pro,16,10,1.49 
+2015,05,06,22:15,G2,Virtus.pro,cobblestone,CEVO Professional Season 7,12,16,7,8,5,8,Virtus.pro,11,22,0.54 
+2015,05,06,20:25,Virtus.pro,x6tence,cache,CEVO Professional Season 7,16,4,14,1,2,3,Virtus.pro,21,10,1.66 
+2015,05,06,20:25,x6tence,Virtus.pro,overpass,CEVO Professional Season 7,6,16,3,12,3,4,Virtus.pro,11,16,0.69 
+2015,05,06,18:00,CPLAY,Virtus.pro,mirage,Fragbite Masters Season 4,10,16,9,6,1,10,Virtus.pro,23,20,1.17 
+2015,05,06,18:00,CPLAY,Virtus.pro,inferno,Fragbite Masters Season 4,14,16,4,11,10,5,Virtus.pro,21,15,1.09 
+2015,05,05,18:00,fnatic,Virtus.pro,cache,Game Show CS:GO League Season ..,16,5,12,3,4,2,Virtus.pro,13,18,0.69 
+2015,05,05,18:00,fnatic,Virtus.pro,cobblestone,Game Show CS:GO League Season ..,7,16,5,10,2,6,Virtus.pro,22,15,1.39 
+2015,05,05,18:00,fnatic,Virtus.pro,mirage,Game Show CS:GO League Season ..,19,15,10,5,5,10,Virtus.pro,26,27,0.93 
+2015,05,03,18:53,Virtus.pro,NiP,cache,FACEIT League 2015 Stage 1 Fin..,14,16,8,7,6,9,Virtus.pro,11,22,0.64 
+2015,05,03,16:00,Virtus.pro,NiP,overpass,FACEIT League 2015 Stage 1 Fin..,16,5,11,4,5,1,Virtus.pro,16,12,1.15 
+2015,05,03,16:00,Virtus.pro,NiP,inferno,FACEIT League 2015 Stage 1 Fin..,6,16,3,12,3,4,Virtus.pro,13,19,0.68 
+2015,05,02,18:15,Virtus.pro,TSM,overpass,FACEIT League 2015 Stage 1 Fin..,16,12,7,8,9,4,Virtus.pro,23,18,1.23 
+2015,05,02,18:15,Virtus.pro,TSM,inferno,FACEIT League 2015 Stage 1 Fin..,6,16,6,9,0,7,Virtus.pro,8,19,0.44 
+2015,05,02,18:15,Virtus.pro,TSM,mirage,FACEIT League 2015 Stage 1 Fin..,16,4,11,4,5,0,Virtus.pro,21,11,1.53 
+2015,05,01,16:15,Virtus.pro,eLevate,cobblestone,FACEIT League 2015 Stage 1 Fin..,16,10,8,7,8,3,Virtus.pro,18,17,1.02 
+2015,05,01,16:15,Virtus.pro,eLevate,nuke,FACEIT League 2015 Stage 1 Fin..,16,14,11,4,5,10,Virtus.pro,22,19,1.11 
+2015,04,29,20:00,Publiclir.se,Virtus.pro,train,CEVO Professional Season 7,5,16,4,11,1,5,Virtus.pro,24,10,1.60 
+2015,04,29,20:00,Virtus.pro,Publiclir.se,cache,CEVO Professional Season 7,16,10,7,8,9,2,Virtus.pro,20,21,0.93 
+2015,04,28,22:00,Virtus.pro,dignitas,mirage,Global Offensive Champions Lea..,11,16,10,5,1,11,Virtus.pro,11,24,0.47 
+2015,04,28,21:00,Virtus.pro,dignitas,cache,Global Offensive Champions Lea..,16,7,12,3,4,4,Virtus.pro,23,13,1.47 
+2015,04,23,21:00,Virtus.pro,LGB,overpass,FACEIT League 2015 Stage 1,12,16,10,5,2,11,Virtus.pro,29,24,1.31 
+2015,04,23,20:00,Virtus.pro,LGB,mirage,FACEIT League 2015 Stage 1,16,14,7,8,9,6,Virtus.pro,22,21,0.97 
+2015,04,23,19:00,Virtus.pro,NatusVincere,cobblestone,FACEIT League 2015 Stage 1,9,16,8,7,1,9,Virtus.pro,7,17,0.54 
+2015,04,22,22:00,Virtus.pro,EnVyUs,overpass,FACEIT League 2015 Stage 1,16,9,11,4,5,5,Virtus.pro,19,18,1.07 
+2015,04,19,21:40,Virtus.pro,fnatic,cache,ESEA Invite Season 18 Global F..,16,13,9,6,7,7,Virtus.pro,16,17,0.94 
+2015,04,19,21:40,Virtus.pro,fnatic,inferno,ESEA Invite Season 18 Global F..,9,16,6,9,3,7,Virtus.pro,15,20,0.78 
+2015,04,19,21:40,fnatic,Virtus.pro,season,ESEA Invite Season 18 Global F..,14,16,3,12,11,4,Virtus.pro,23,20,1.26 
+2015,04,19,03:00,Titan,Virtus.pro,inferno,ESEA Invite Season 18 Global F..,4,16,4,11,0,5,Virtus.pro,9,12,0.73 
+2015,04,19,03:00,Virtus.pro,Titan,cache,ESEA Invite Season 18 Global F..,16,13,9,6,7,7,Virtus.pro,21,20,0.98 
+2015,04,19,03:00,Virtus.pro,Titan,nuke,ESEA Invite Season 18 Global F..,11,16,7,8,4,8,Virtus.pro,29,17,1.50 
+2015,04,18,21:15,Virtus.pro,mousesports,cache,ESEA Invite Season 18 Global F..,16,11,7,8,9,3,Virtus.pro,22,20,1.00 
+2015,04,18,21:15,Virtus.pro,mousesports,mirage,ESEA Invite Season 18 Global F..,16,6,12,3,4,3,Virtus.pro,24,11,1.66 
+2015,04,17,23:00,Nihilum,Virtus.pro,inferno,ESEA Invite Season 18 Global F..,13,16,9,6,4,10,Virtus.pro,21,21,1.03 
+2015,04,17,23:00,Virtus.pro,Nihilum,cache,ESEA Invite Season 18 Global F..,16,7,12,3,4,4,Virtus.pro,18,12,1.30 
+2015,04,14,21:35,Virtus.pro,Titan,mirage,FACEIT League 2015 Stage 1,21,17,4,11,11,4,Virtus.pro,30,29,1.01 
+2015,04,11,10:00,Virtus.pro,NatusVincere,inferno,ESL Pro League Winter 2014/15 ..,9,16,3,12,6,4,Virtus.pro,8,20,0.45 
+2015,04,11,10:00,NatusVincere,Virtus.pro,mirage,ESL Pro League Winter 2014/15 ..,16,4,12,3,4,1,Virtus.pro,10,17,0.60 
+2015,04,11,10:00,Virtus.pro,NatusVincere,cache,ESL Pro League Winter 2014/15 ..,16,5,10,5,6,0,Virtus.pro,24,10,1.71 
+2015,04,10,10:30,Virtus.pro,TSM,mirage,ESL Pro League Winter 2014/15 ..,12,16,11,4,1,12,Virtus.pro,19,19,1.02 
+2015,04,10,10:30,TSM,Virtus.pro,cache,ESL Pro League Winter 2014/15 ..,14,16,11,4,3,12,Virtus.pro,25,18,1.27 
+2015,04,10,10:30,Virtus.pro,TSM,overpass,ESL Pro League Winter 2014/15 ..,12,16,6,9,6,7,Virtus.pro,18,21,0.89 
+2015,04,06,23:00,Virtus.pro,fnatic,mirage,FACEIT League 2015 Stage 1,16,6,9,6,7,0,Virtus.pro,23,15,1.45 
+2015,04,06,22:00,Virtus.pro,TSM,inferno,FACEIT League 2015 Stage 1,6,16,6,9,0,7,Virtus.pro,11,19,0.58 
+2015,04,06,18:00,Virtus.pro,FlipSid3,inferno,CCS Kick-off Season Last Chanc..,9,16,6,9,3,7,Virtus.pro,11,22,0.54 
+2015,04,06,18:00,Virtus.pro,FlipSid3,nuke,CCS Kick-off Season Last Chanc..,21,19,10,5,5,10,Virtus.pro,37,28,1.28 
+2015,04,06,18:00,Virtus.pro,FlipSid3,cobblestone,CCS Kick-off Season Last Chanc..,14,16,7,8,7,8,Virtus.pro,18,21,0.90 
+2015,04,04,22:00,Virtus.pro,TSM,inferno,Copenhagen Games 2015,16,10,11,4,5,6,Virtus.pro,17,19,0.88 
+2015,04,04,22:00,TSM,Virtus.pro,cobblestone,Copenhagen Games 2015,14,16,4,11,10,5,Virtus.pro,27,17,1.40 
+2015,04,04,17:00,TSM,Virtus.pro,cache,Copenhagen Games 2015,14,16,10,5,4,11,Virtus.pro,20,22,0.89 
+2015,04,04,17:00,TSM,Virtus.pro,nuke,Copenhagen Games 2015,14,16,9,6,5,10,Virtus.pro,28,20,1.32 
+2015,04,04,17:00,Virtus.pro,TSM,mirage,Copenhagen Games 2015,12,16,10,5,2,11,Virtus.pro,15,23,0.74 
+2015,04,04,13:30,Virtus.pro,G2,cache,Copenhagen Games 2015,16,13,10,5,6,8,Virtus.pro,16,24,0.68 
+2015,04,04,13:30,Virtus.pro,G2,mirage,Copenhagen Games 2015,16,0,15,0,1,0,Virtus.pro,21,9,2.00 
+2015,04,04,10:00,Virtus.pro,CPLAY,overpass,Copenhagen Games 2015,16,13,10,5,6,8,Virtus.pro,19,16,1.03 
+2015,04,04,10:00,CPLAY,Virtus.pro,cache,Copenhagen Games 2015,4,16,4,11,0,5,Virtus.pro,21,9,1.70 
+2015,04,03,22:30,Virtus.pro,Atlantis,inferno,Copenhagen Games 2015,16,4,12,3,4,1,Virtus.pro,26,11,1.86 
+2015,04,03,22:30,Virtus.pro,Atlantis,mirage,Copenhagen Games 2015,16,8,13,2,3,6,Virtus.pro,19,14,1.22 
+2015,04,03,15:30,Virtus.pro,Publiclir.se,cache,Copenhagen Games 2015,16,5,11,4,5,1,Virtus.pro,15,13,1.10 
+2015,04,03,15:30,Virtus.pro,Publiclir.se,mirage,Copenhagen Games 2015,16,2,14,1,2,1,Virtus.pro,19,7,1.61 
+2015,04,03,12:00,Virtus.pro,Lions,nuke,Copenhagen Games 2015,16,2,14,1,2,1,Virtus.pro,24,7,2.19 
+2015,04,03,12:00,Lions,Virtus.pro,inferno,Copenhagen Games 2015,11,16,4,11,7,5,Virtus.pro,22,15,1.26 
+2015,03,28,13:00,TSM,Virtus.pro,overpass,SLTV StarSeries XII Finals,19,17,12,3,3,12,Virtus.pro,20,26,0.84 
+2015,03,28,13:00,TSM,Virtus.pro,inferno,SLTV StarSeries XII Finals,12,16,11,4,1,12,Virtus.pro,13,19,0.75 
+2015,03,28,13:00,Virtus.pro,TSM,cache,SLTV StarSeries XII Finals,12,16,10,5,2,11,Virtus.pro,21,19,1.02 
+2015,03,27,18:00,NiP,Virtus.pro,inferno,SLTV StarSeries XII Finals,16,6,12,3,4,3,Virtus.pro,17,17,1.04 
+2015,03,27,18:00,NiP,Virtus.pro,mirage,SLTV StarSeries XII Finals,16,6,14,1,2,5,Virtus.pro,15,17,1.02 
+2015,03,25,22:00,Titan,Virtus.pro,cobblestone,FACEIT League 2015 Stage 1,15,21,8,7,7,8,Virtus.pro,19,22,0.84 
+2015,03,25,19:00,Virtus.pro,NiP,mirage,FACEIT League 2015 Stage 1,7,16,7,8,0,8,Virtus.pro,15,20,0.80 
+2015,03,22,19:00,Virtus.pro,Cloud9,inferno,Gfinity 2015 Spring Masters 1,16,3,12,3,4,0,Virtus.pro,15,12,1.20 
+2015,03,22,19:00,Virtus.pro,Cloud9,nuke,Gfinity 2015 Spring Masters 1,16,13,8,7,8,6,Virtus.pro,21,20,1.02 
+2015,03,22,13:00,NiP,Virtus.pro,inferno,Gfinity 2015 Spring Masters 1,16,12,5,10,11,2,Virtus.pro,13,22,0.60 
+2015,03,22,13:00,Virtus.pro,NiP,mirage,Gfinity 2015 Spring Masters 1,16,7,9,6,7,1,Virtus.pro,28,12,1.89 
+2015,03,22,13:00,Virtus.pro,NiP,nuke,Gfinity 2015 Spring Masters 1,10,16,9,6,1,10,Virtus.pro,19,18,1.04 
+2015,03,21,20:42,Virtus.pro,Cloud9,inferno,Gfinity 2015 Spring Masters 1,16,5,13,2,3,3,Virtus.pro,22,10,1.63 
+2015,03,21,17:40,Cloud9,Virtus.pro,nuke,Gfinity 2015 Spring Masters 1,8,16,5,10,3,6,Virtus.pro,26,15,1.48 
+2015,03,21,17:40,Cloud9,Virtus.pro,cobblestone,Gfinity 2015 Spring Masters 1,16,9,7,8,9,1,Virtus.pro,17,19,0.95 
+2015,03,20,20:00,Infused,Virtus.pro,inferno,Gfinity 2015 Spring Masters 1,10,16,7,8,3,8,Virtus.pro,18,18,0.94 
+2015,03,20,20:00,Virtus.pro,Infused,cache,Gfinity 2015 Spring Masters 1,16,10,7,8,9,2,Virtus.pro,17,19,0.94 
+2015,03,18,20:00,EnVyUs,Virtus.pro,overpass,CCS Kick-off Season,16,9,14,1,2,8,Virtus.pro,14,20,0.75 
+2015,03,18,20:00,Virtus.pro,EnVyUs,inferno,CCS Kick-off Season,10,16,8,7,2,9,Virtus.pro,14,19,0.75 
+2015,03,18,20:00,EnVyUs,Virtus.pro,mirage,CCS Kick-off Season,10,16,6,9,4,7,Virtus.pro,16,17,0.95 
+2015,03,18,16:00,Virtus.pro,NiP,inferno,CCS Kick-off Season,4,16,3,12,1,4,Virtus.pro,6,18,0.33 
+2015,03,18,16:00,Virtus.pro,NiP,mirage,CCS Kick-off Season,14,16,12,3,2,13,Virtus.pro,16,19,0.86 
+2015,03,17,16:45,EnVyUs,Virtus.pro,cache,CCS Kick-off Season,16,5,10,5,6,0,Virtus.pro,13,19,0.76 
+2015,03,14,19:36,fnatic,Virtus.pro,mirage,ESL One Katowice 2015,16,8,8,7,8,1,Virtus.pro,10,19,0.57 
+2015,03,14,17:00,Virtus.pro,fnatic,cobblestone,ESL One Katowice 2015,17,19,9,6,6,9,Virtus.pro,26,27,0.94 
+2015,03,13,19:45,Virtus.pro,KeydStars,nuke,ESL One Katowice 2015,16,1,14,1,2,0,Virtus.pro,14,4,1.45 
+2015,03,13,19:45,KeydStars,Virtus.pro,overpass,ESL One Katowice 2015,19,17,11,4,4,11,Virtus.pro,21,25,0.80 
+2015,03,13,19:45,Virtus.pro,KeydStars,mirage,ESL One Katowice 2015,16,4,12,3,4,1,Virtus.pro,18,10,1.28 
+2015,03,12,21:40,Virtus.pro,Cloud9,inferno,ESL One Katowice 2015,16,11,12,3,4,8,Virtus.pro,22,20,1.13 
+2015,03,12,19:35,Virtus.pro,3DMAX,overpass,ESL One Katowice 2015,16,5,12,3,4,2,Virtus.pro,21,12,1.41 
+2015,02,26,21:15,Virtus.pro,NatusVincere,mirage,FACEIT League 2015 Stage 1,16,7,10,5,6,2,Virtus.pro,24,14,1.49 
+2015,02,25,21:00,fnatic,Virtus.pro,mirage,FACEIT League 2015 Stage 1,14,16,6,9,8,7,Virtus.pro,21,19,1.06 
+2015,02,19,21:15,NiP,Virtus.pro,nuke,FACEIT League 2015 Stage 1,16,6,14,1,2,5,Virtus.pro,16,19,0.81 
+2015,02,19,19:00,Virtus.pro,TSM,mirage,FACEIT League 2015 Stage 1,16,13,9,6,7,7,Virtus.pro,25,20,1.19 
+2015,02,18,19:00,Virtus.pro,EnVyUs,cobblestone,FACEIT League 2015 Stage 1,16,10,12,3,4,7,Virtus.pro,19,16,1.17 
+2015,02,17,23:00,Virtus.pro,fnatic,nuke,King of Majors,14,16,11,4,3,12,Virtus.pro,23,18,1.20 
+2015,02,17,23:00,Virtus.pro,fnatic,cache,King of Majors,9,16,3,12,6,4,Virtus.pro,12,20,0.75 
+2015,02,17,20:07,NiP,Virtus.pro,nuke,King of Majors,11,16,8,7,3,9,Virtus.pro,22,17,1.18 
+2015,02,17,20:07,Virtus.pro,NiP,cache,King of Majors,9,16,6,9,3,7,Virtus.pro,12,19,0.67 
+2015,02,17,19:50,NiP,Virtus.pro,mirage,King of Majors,9,16,6,9,3,7,Virtus.pro,19,18,1.00 
+2015,02,16,23:24,EnVyUs,Virtus.pro,cache,King of Majors,3,16,3,12,0,4,Virtus.pro,15,12,1.20 
+2015,02,16,23:24,EnVyUs,Virtus.pro,cobblestone,King of Majors,10,16,3,12,7,4,Virtus.pro,15,15,1.03 
+2015,02,16,17:00,fnatic,Virtus.pro,cache,King of Majors,16,3,12,3,4,0,Virtus.pro,15,17,0.93 
+2015,02,16,17:00,Virtus.pro,fnatic,cache,King of Majors,10,16,7,8,3,8,Virtus.pro,15,21,0.82 
+2015,02,07,18:00,Virtus.pro,Titan,cache,Inferno Online Pantamera Chall..,16,2,13,2,3,0,Virtus.pro,11,13,0.80 
+2015,02,07,16:00,Virtus.pro,NiP,nuke,Inferno Online Pantamera Chall..,15,15,11,4,4,11,Virtus.pro,25,20,1.07 
+2015,02,07,14:00,Virtus.pro,fnatic,mirage,Inferno Online Pantamera Chall..,15,15,12,3,3,12,Virtus.pro,17,19,0.91 
+2015,02,07,13:00,LGB,Virtus.pro,cache,Inferno Online Pantamera Chall..,16,11,8,7,8,4,Virtus.pro,14,22,0.63 
+2015,02,07,12:00,EnVyUs,Virtus.pro,cache,Inferno Online Pantamera Chall..,16,10,7,8,9,2,Virtus.pro,22,22,1.01 
+2015,01,30,20:30,HellRaisers,Virtus.pro,inferno,ASUS ROG Winter 2015,16,10,9,6,7,4,Virtus.pro,17,18,0.93 
+2015,01,30,18:55,Virtus.pro,PENTA,mirage,ASUS ROG Winter 2015,9,16,7,8,2,8,Virtus.pro,14,20,0.77 
+2015,01,30,16:30,Virtus.pro,volgare,cache,ASUS ROG Winter 2015,16,3,14,1,2,2,Virtus.pro,16,12,1.22 
+2015,01,21,18:00,HellRaisers,Virtus.pro,mirage,SLTV StarSeries XII,16,8,11,4,5,4,Virtus.pro,14,20,0.79 
+2015,01,21,18:00,HellRaisers,Virtus.pro,inferno,SLTV StarSeries XII,9,16,8,7,1,9,Virtus.pro,23,13,1.42 
+2015,01,21,18:00,HellRaisers,Virtus.pro,dust2,SLTV StarSeries XII,16,12,13,2,3,10,Virtus.pro,18,22,0.94 
+2015,01,20,21:15,Virtus.pro,Deponeret,cobblestone,SLTV StarSeries XII,16,3,13,2,3,1,Virtus.pro,10,9,0.93 
+2015,01,20,21:15,Virtus.pro,Deponeret,nuke,SLTV StarSeries XII,16,8,9,6,7,2,Virtus.pro,22,15,1.43 
+2014,12,21,23:50,Virtus.pro,Reason,nuke,Acer A-Split Invitational powe..,16,7,12,3,4,4,Virtus.pro,18,15,1.06 
+2014,12,21,23:50,Reason,Virtus.pro,cobblestone,Acer A-Split Invitational powe..,11,16,8,7,3,9,Virtus.pro,16,16,1.00 
+2014,12,21,17:15,Reason,Virtus.pro,mirage,Acer A-Split Invitational powe..,6,16,5,10,1,6,Virtus.pro,27,15,1.63 
+2014,12,21,17:15,Reason,Virtus.pro,cobblestone,Acer A-Split Invitational powe..,12,16,10,5,2,11,Virtus.pro,22,17,1.14 
+2014,12,21,15:00,Virtus.pro,mousesports,overpass,Acer A-Split Invitational powe..,16,13,9,6,7,7,Virtus.pro,26,17,1.33 
+2014,12,21,15:00,mousesports,Virtus.pro,cache,Acer A-Split Invitational powe..,4,16,4,11,0,5,Virtus.pro,23,10,1.66 
+2014,12,20,19:25,Virtus.pro,PENTA,mirage,Acer A-Split Invitational powe..,16,11,9,6,7,5,Virtus.pro,26,19,1.33 
+2014,12,20,19:25,PENTA,Virtus.pro,cache,Acer A-Split Invitational powe..,8,16,4,11,4,5,Virtus.pro,16,15,0.94 
+2014,12,20,19:25,Virtus.pro,PENTA,dust2,Acer A-Split Invitational powe..,11,16,9,6,2,10,Virtus.pro,9,22,0.56 
+2014,12,20,17:20,Virtus.pro,dotpiXels,cobblestone,Acer A-Split Invitational powe..,16,4,12,3,4,1,Virtus.pro,15,12,1.07 
+2014,12,20,17:20,dotpiXels,Virtus.pro,cache,Acer A-Split Invitational powe..,5,16,5,10,0,6,Virtus.pro,18,14,1.18 
+2014,12,20,13:00,myKPV,Virtus.pro,cache,Acer A-Split Invitational powe..,7,16,4,11,3,5,Virtus.pro,24,12,1.59 
+2014,12,20,13:00,myKPV,Virtus.pro,nuke,Acer A-Split Invitational powe..,14,16,5,10,9,6,Virtus.pro,18,22,0.78 
+2014,12,18,21:37,Virtus.pro,k1ck,cobblestone,ESL Pro League Winter 2014/15,16,3,13,2,3,1,Virtus.pro,15,11,1.13 
+2014,12,18,21:30,k1ck,Virtus.pro,inferno,ESL Pro League Winter 2014/15,12,16,9,6,3,10,Virtus.pro,22,19,1.12 
+2014,12,07,20:20,fnatic,Virtus.pro,train,ESEA Invite Season 17 Global F..,16,13,9,6,7,7,Virtus.pro,25,19,1.27 
+2014,12,07,20:20,Virtus.pro,fnatic,dust2,ESEA Invite Season 17 Global F..,13,16,6,9,7,7,Virtus.pro,14,22,0.72 
+2014,12,07,20:20,Virtus.pro,fnatic,mirage,ESEA Invite Season 17 Global F..,10,16,5,10,5,6,Virtus.pro,16,22,0.82 
+2014,12,07,20:20,fnatic,Virtus.pro,cache,ESEA Invite Season 17 Global F..,16,10,7,8,9,2,Virtus.pro,17,21,0.86 
+2014,12,07,04:45,fnatic,Virtus.pro,mirage,ESEA Invite Season 17 Global F..,14,16,11,4,3,12,Virtus.pro,22,22,0.95 
+2014,12,07,04:45,Virtus.pro,fnatic,cache,ESEA Invite Season 17 Global F..,16,12,9,6,7,6,Virtus.pro,27,19,1.39 
+2014,12,06,18:45,Cloud9,Virtus.pro,inferno,ESEA Invite Season 17 Global F..,10,16,5,10,5,6,Virtus.pro,16,18,0.83 
+2014,12,06,18:45,Cloud9,Virtus.pro,train,ESEA Invite Season 17 Global F..,12,16,4,11,8,5,Virtus.pro,11,21,0.64 
+2014,12,06,18:45,Virtus.pro,Cloud9,season,ESEA Invite Season 17 Global F..,7,16,6,9,1,7,Virtus.pro,15,17,0.91 
+2014,12,06,02:05,iBUYPOWER,Virtus.pro,inferno,ESEA Invite Season 17 Global F..,22,25,10,5,5,10,Virtus.pro,31,33,0.91 
+2014,12,06,02:05,iBUYPOWER,Virtus.pro,train,ESEA Invite Season 17 Global F..,10,16,9,6,1,10,Virtus.pro,21,15,1.27 
+2014,12,06,02:05,Virtus.pro,iBUYPOWER,cache,ESEA Invite Season 17 Global F..,4,16,3,12,1,4,Virtus.pro,10,20,0.48 
+2014,12,06,00:00,All-StarsNA,All-StarsEurope,dust2,ESEA Invite Season 17 All-Star,5,16,4,11,1,5,All-Stars Europe,23,10,1.51 
+2014,11,29,13:10,NiP,Virtus.pro,inferno,DreamHack Winter 2014,16,8,14,1,2,7,Virtus.pro,17,19,0.91 
+2014,11,29,13:10,NiP,Virtus.pro,cache,DreamHack Winter 2014,9,16,5,10,4,6,Virtus.pro,19,13,1.26 
+2014,11,29,13:10,Virtus.pro,NiP,nuke,DreamHack Winter 2014,20,22,12,3,3,12,Virtus.pro,29,31,0.94 
+2014,11,28,14:30,PENTA,Virtus.pro,mirage,DreamHack Winter 2014,5,16,3,12,2,4,Virtus.pro,14,11,1.03 
+2014,11,28,14:30,Virtus.pro,PENTA,cache,DreamHack Winter 2014,16,9,12,3,4,6,Virtus.pro,29,10,1.85 
+2014,11,27,20:45,Virtus.pro,NatusVincere,nuke,DreamHack Winter 2014,16,2,14,1,2,1,Virtus.pro,15,8,1.44 
+2014,11,27,18:45,Virtus.pro,myXMG,inferno,DreamHack Winter 2014,16,2,14,1,2,1,Virtus.pro,15,7,1.49 
+2014,11,17,19:00,Virtus.pro,mousesports,mirage,BenQ All-Star Showmatch #2,14,16,7,8,7,8,Virtus.pro,17,20,0.84 
+2014,11,16,20:45,Virtus.pro,Cloud9,cache,Caseking King of Kings,16,8,10,5,6,3,Virtus.pro,23,16,1.37 
+2014,11,16,20:45,Virtus.pro,Cloud9,overpass,Caseking King of Kings,16,12,11,4,5,8,Virtus.pro,24,17,1.22 
+2014,11,16,15:00,NiP,Virtus.pro,mirage,Caseking King of Kings,8,16,5,10,3,6,Virtus.pro,15,17,0.86 
+2014,11,16,15:00,NiP,Virtus.pro,inferno,Caseking King of Kings,9,16,7,8,2,8,Virtus.pro,18,12,1.17 
+2014,11,13,21:00,Titan,Virtus.pro,inferno,Caseking King of Kings,8,16,6,9,2,7,Virtus.pro,26,15,1.48 
+2014,11,13,21:00,Titan,Virtus.pro,cache,Caseking King of Kings,22,25,4,11,11,4,Virtus.pro,32,34,0.92 
+2014,11,13,18:00,Virtus.pro,LondonC,overpass,Caseking King of Kings,14,16,7,8,7,8,Virtus.pro,19,23,0.89 
+2014,11,08,21:00,Virtus.pro,fnatic,cache,Fragbite Masters Season 3,9,16,3,12,6,4,Virtus.pro,12,18,0.72 
+2014,11,08,21:00,fnatic,Virtus.pro,overpass,Fragbite Masters Season 3,16,3,12,3,4,0,Virtus.pro,14,15,0.89 
+2014,11,08,17:00,LDLC,Virtus.pro,inferno,Fragbite Masters Season 3,16,0,15,0,1,0,Virtus.pro,4,16,0.25 
+2014,11,08,17:00,LDLC,Virtus.pro,dust2,Fragbite Masters Season 3,16,5,13,2,3,3,Virtus.pro,14,20,0.76 
+2014,11,08,17:00,LDLC,Virtus.pro,overpass,Fragbite Masters Season 3,9,16,6,9,3,7,Virtus.pro,14,14,0.92 
+2014,11,02,10:45,Virtus.pro,NatusVincere,inferno,ESWC 2014,16,3,12,3,4,0,Virtus.pro,17,11,1.34 
+2014,11,02,10:45,Virtus.pro,NatusVincere,nuke,ESWC 2014,11,16,11,4,0,12,Virtus.pro,19,19,0.94 
+2014,11,02,10:45,NatusVincere,Virtus.pro,mirage,ESWC 2014,12,16,5,10,7,6,Virtus.pro,16,21,0.71 
+2014,11,01,15:30,fnatic,Virtus.pro,inferno,ESWC 2014,16,12,10,5,6,7,Virtus.pro,13,22,0.60 
+2014,11,01,15:30,Virtus.pro,fnatic,overpass,ESWC 2014,7,16,6,9,1,7,Virtus.pro,8,16,0.59 
+2014,11,01,12:02,Virtus.pro,dignitas,mirage,ESWC 2014,16,12,10,5,6,7,Virtus.pro,15,18,0.88 
+2014,11,01,12:00,dignitas,Virtus.pro,inferno,ESWC 2014,16,14,9,6,7,8,Virtus.pro,26,20,1.36 
+2014,11,01,12:00,Virtus.pro,dignitas,overpass,ESWC 2014,16,9,11,4,5,5,Virtus.pro,27,14,1.80 
+2014,10,30,18:00,Virtus.pro,Planetkey,nuke,ESWC 2014,16,5,14,1,2,4,Virtus.pro,20,11,1.35 
+2014,10,30,16:20,LDLC,Virtus.pro,overpass,ESWC 2014,13,16,9,6,4,10,Virtus.pro,17,23,0.76 
+2014,10,30,15:00,Virtus.pro,Cloud9,cache,ESWC 2014,11,16,7,8,4,8,Virtus.pro,24,21,1.15 
+2014,10,30,11:34,Virtus.pro,VirtualImpact,mirage,ESWC 2014,16,0,15,0,1,0,Virtus.pro,19,5,1.95 
+2014,10,30,11:30,Virtus.pro,AlienTech,cache,ESWC 2014,16,10,12,3,4,7,Virtus.pro,29,12,1.84 
+2014,10,25,19:18,fnatic,Virtus.pro,mirage,FACEIT League Season 2 Finals,16,7,10,5,6,2,Virtus.pro,15,20,0.78 
+2014,10,25,18:32,fnatic,Virtus.pro,inferno,FACEIT League Season 2 Finals,16,8,14,1,2,7,Virtus.pro,11,20,0.57 
+2014,10,25,11:58,Cloud9,Virtus.pro,inferno,FACEIT League Season 2 Finals,6,16,6,9,0,7,Virtus.pro,25,14,1.77 
+2014,10,25,10:52,Virtus.pro,Cloud9,cache,FACEIT League Season 2 Finals,11,16,3,12,8,4,Virtus.pro,22,23,1.04 
+2014,10,24,19:04,Virtus.pro,LDLC,inferno,FACEIT League Season 2 Finals,14,16,12,3,2,13,Virtus.pro,25,23,1.10 
+2014,10,24,15:45,Virtus.pro,LDLC,cache,FACEIT League Season 2 Finals,7,16,6,9,1,7,Virtus.pro,11,21,0.50 
+2014,10,21,18:00,Virtus.pro,dignitas,mirage,Fragbite Masters Season 3,16,11,10,5,6,6,Virtus.pro,23,20,1.16 
+2014,10,21,18:00,dignitas,Virtus.pro,overpass,Fragbite Masters Season 3,12,16,9,6,3,10,Virtus.pro,27,17,1.32 
+2014,10,20,20:00,dignitas,Virtus.pro,overpass,Hitbox Arena Championship 3,16,9,13,2,3,7,Virtus.pro,17,22,0.86 
+2014,10,20,20:00,Virtus.pro,dignitas,inferno,Hitbox Arena Championship 3,7,16,6,9,1,7,Virtus.pro,16,17,0.97 
+2014,10,20,20:00,dignitas,Virtus.pro,cache,Hitbox Arena Championship 3,6,16,5,10,1,6,Virtus.pro,28,13,1.69 
+2014,10,16,20:00,Virtus.pro,HellRaisers,inferno,Fragbite Masters Season 3,16,9,10,5,6,4,Virtus.pro,14,19,0.76 
+2014,10,16,20:00,Virtus.pro,HellRaisers,overpass,Fragbite Masters Season 3,22,20,14,1,1,14,Virtus.pro,37,28,1.26 
+2014,10,16,20:00,Virtus.pro,HellRaisers,cache,Fragbite Masters Season 3,2,16,2,13,0,3,Virtus.pro,8,15,0.57 
+2014,10,12,17:15,Virtus.pro,Titan,mirage,Fragbite Masters Season 3,16,12,6,9,10,3,Virtus.pro,14,21,0.68 
+2014,10,12,17:15,Virtus.pro,Titan,cache,Fragbite Masters Season 3,16,4,11,4,5,0,Virtus.pro,21,9,1.60 
+2014,10,09,23:00,Virtus.pro,fnatic,cache,FACEIT League EU Season 2,16,7,13,2,3,5,Virtus.pro,9,16,0.68 
+2014,10,09,19:00,Virtus.pro,ALTERNATEaTTaX,inferno,Hitbox Arena Championship 3,16,4,12,3,4,1,Virtus.pro,15,11,1.14 
+2014,10,09,19:00,Virtus.pro,ALTERNATEaTTaX,mirage,Hitbox Arena Championship 3,14,16,10,5,4,11,Virtus.pro,34,18,1.58 
+2014,10,09,19:00,Virtus.pro,ALTERNATEaTTaX,cache,Hitbox Arena Championship 3,19,17,7,8,8,7,Virtus.pro,27,27,1.02 
+2014,10,09,18:00,Virtus.pro,dignitas,overpass,FACEIT League EU Season 2,16,7,9,6,7,1,Virtus.pro,16,12,1.07 
+2014,10,08,20:10,Virtus.pro,Epsilon,mirage,FACEIT League EU Season 2,16,6,12,3,4,3,Virtus.pro,18,13,1.20 
+2014,10,07,22:01,Virtus.pro,LDLC,cache,FACEIT League EU Season 2,16,21,8,7,7,8,Virtus.pro,25,27,0.99 
+2014,10,06,22:10,Titan,Virtus.pro,nuke,FACEIT League EU Season 2,7,16,6,9,1,7,Virtus.pro,17,12,1.13 
+2014,10,01,18:50,NiP,Virtus.pro,season,FACEIT League EU Season 2,16,12,9,6,7,6,Virtus.pro,16,19,0.80 
+2014,09,30,20:00,Titan,Virtus.pro,cache,SLTV StarSeries XI,16,14,6,9,10,5,Virtus.pro,24,20,1.06 
+2014,09,28,23:14,TheLoneRangers,Virtus.pro,cache,SLTV StarSeries XI,5,16,4,11,1,5,Virtus.pro,15,13,1.16 
+2014,09,28,17:00,Virtus.pro,NiP,inferno,FACEIT League EU Season 2,16,7,11,4,5,3,Virtus.pro,14,16,0.78 
+2014,09,28,16:00,Virtus.pro,HellRaisers,inferno,FACEIT League EU Season 2,16,2,13,2,3,0,Virtus.pro,26,9,2.29 
+2014,09,27,18:00,Titan,Virtus.pro,cache,SLTV StarSeries XI,12,16,6,9,6,7,Virtus.pro,21,17,1.13 
+2014,09,27,18:00,dAT,Virtus.pro,mirage,SLTV StarSeries XI,15,15,10,5,5,10,Virtus.pro,21,19,1.02 
+2014,09,25,20:10,Virtus.pro,OverGaming,cache,SLTV StarSeries XI,4,16,4,11,0,5,Virtus.pro,13,19,0.70 
+2014,09,25,19:00,Virtus.pro,NatusVincere,season,SLTV StarSeries XI,16,13,5,10,11,3,Virtus.pro,23,19,1.36 
+2014,09,23,21:27,Virtus.pro,mousesports,mirage,Game Show CS:GO League,13,16,7,8,6,8,Virtus.pro,18,21,0.86 
+2014,09,21,19:00,LondonC,dignitas,cache,Hitbox Arena Championship 3,8,16,5,10,3,6,dignitas,19,16,1.27 
+2014,09,21,19:00,LondonC,dignitas,inferno,Hitbox Arena Championship 3,13,16,5,10,8,6,dignitas,21,23,0.88 
+2014,09,21,19:00,dignitas,LondonC,dust2,Hitbox Arena Championship 3,14,16,9,6,5,10,dignitas,21,22,1.02 
+2014,09,18,22:00,Virtus.pro,Titan,mirage,FACEIT League EU Season 2,11,16,10,5,1,11,Virtus.pro,16,21,0.77 
+2014,09,18,19:00,mousesports,Virtus.pro,mirage,Hitbox Arena Championship 3,14,16,11,4,3,12,Virtus.pro,30,17,1.44 
+2014,09,18,19:00,mousesports,Virtus.pro,overpass,Hitbox Arena Championship 3,19,15,12,3,3,12,Virtus.pro,21,22,0.91 
+2014,09,18,19:00,Virtus.pro,mousesports,cache,Hitbox Arena Championship 3,16,11,10,5,6,6,Virtus.pro,25,17,1.38 
+2014,09,18,17:50,CPHWolves,Virtus.pro,cache,SLTV StarSeries XI,15,15,8,7,7,8,Virtus.pro,19,19,0.96 
+2014,09,17,20:00,LDLC,Virtus.pro,cache,FACEIT League EU Season 2,16,14,9,6,7,8,Virtus.pro,25,23,1.06 
+2014,09,16,20:00,myXMG,Virtus.pro,overpass,Game Show CS:GO League,13,16,5,10,8,6,Virtus.pro,34,15,1.83 
+2014,09,16,19:00,Virtus.pro,OneShot,mirage,SLTV StarSeries XI,16,1,14,1,2,0,Virtus.pro,17,7,1.59 
+2014,09,15,19:15,Virtus.pro,Orbit,mirage,Game Show CS:GO League,10,16,5,10,5,6,Virtus.pro,21,18,1.10 
+2014,09,15,19:15,Nostalgie,Virtus.pro,mirage,Game Show CS:GO League,6,16,5,10,1,6,Virtus.pro,13,12,0.92 
+2014,09,14,20:40,ESC,Virtus.pro,mirage,SLTV StarSeries XI,15,15,12,3,3,12,Virtus.pro,20,20,0.93 
+2014,09,11,20:00,Virtus.pro,Epsilon,cache,FACEIT League EU Season 2,26,22,10,5,5,10,Virtus.pro,41,35,1.21 
+2014,09,10,21:10,Virtus.pro,fnatic,cache,FACEIT League EU Season 2,14,16,12,3,2,13,Virtus.pro,17,22,0.75 
+2014,09,10,19:00,myXMG,Virtus.pro,mirage,Hitbox Arena Championship 3,3,16,3,12,0,4,Virtus.pro,17,8,1.40 
+2014,09,10,19:00,myXMG,Virtus.pro,overpass,Hitbox Arena Championship 3,13,16,9,6,4,10,Virtus.pro,21,18,1.15 
+2014,09,08,18:30,fnatic,Virtus.pro,inferno,CS:GO Legends Series #2,16,7,13,2,3,5,Virtus.pro,13,20,0.70 
+2014,09,08,18:30,fnatic,Virtus.pro,mirage,CS:GO Legends Series #2,16,3,12,3,4,0,Virtus.pro,8,17,0.47 
+2014,09,08,18:30,Virtus.pro,fnatic,cache,CS:GO Legends Series #2,14,16,12,3,2,13,Virtus.pro,16,23,0.69 
+2014,09,04,23:00,dignitas,Virtus.pro,season,FACEIT League EU Season 2,11,16,7,8,4,8,Virtus.pro,23,17,1.19 
+2014,09,03,22:35,Virtus.pro,HellRaisers,mirage,FACEIT League EU Season 2,16,3,12,3,4,0,Virtus.pro,20,10,1.63 
+2014,09,01,18:45,NiP,Virtus.pro,dust2,CS:GO Legends Series #1,13,16,9,6,4,10,Virtus.pro,20,21,0.93 
+2014,09,01,18:45,NiP,Virtus.pro,inferno,CS:GO Legends Series #1,19,16,10,5,5,10,Virtus.pro,19,24,0.78 
+2014,09,01,18:45,NiP,Virtus.pro,overpass,CS:GO Legends Series #1,16,11,8,7,8,4,Virtus.pro,23,20,1.14 
+2014,09,01,18:45,Virtus.pro,NiP,mirage,CS:GO Legends Series #1,16,1,14,1,2,0,Virtus.pro,21,8,1.84 
+2014,09,01,18:45,NiP,Virtus.pro,nuke,CS:GO Legends Series #1,9,16,8,7,1,9,Virtus.pro,23,12,1.33 
+2014,08,27,18:00,Virtus.pro,HellRaisers,inferno,Caseking of the Hill #6,7,16,5,10,2,6,Virtus.pro,14,20,0.74 
+2014,08,27,18:00,Virtus.pro,HellRaisers,nuke,Caseking of the Hill #6,9,16,6,9,3,7,Virtus.pro,12,20,0.59 
+2014,08,27,18:00,HellRaisers,Virtus.pro,overpass,Caseking of the Hill #6,9,16,7,8,2,8,Virtus.pro,27,15,1.58 
+2014,08,16,15:45,LDLC,Virtus.pro,mirage,ESL One Cologne 2014,16,12,10,5,6,7,Virtus.pro,17,24,0.69 
+2014,08,16,15:45,Virtus.pro,LDLC,dust2,ESL One Cologne 2014,14,16,7,8,7,8,Virtus.pro,28,23,1.36 
+2014,08,15,17:45,Virtus.pro,iBUYPOWER,cache,ESL One Cologne 2014,16,2,13,2,3,0,Virtus.pro,16,7,1.50 
+2014,08,15,15:55,Virtus.pro,fnatic,overpass,ESL One Cologne 2014,16,19,10,5,5,10,Virtus.pro,23,26,0.90 
+2014,08,14,14:30,Virtus.pro,dAT,overpass,ESL One Cologne 2014,16,7,9,6,7,1,Virtus.pro,17,10,1.33 
+2014,08,07,20:20,Virtus.pro,mousesports,mirage,SLTV StarSeries X,16,12,9,6,7,6,Virtus.pro,18,22,0.92 
+2014,08,07,19:27,Titan,Virtus.pro,inferno,SLTV StarSeries X,14,16,6,9,8,7,Virtus.pro,34,20,1.68 
+2014,08,06,19:00,LDLC,Virtus.pro,inferno,SLTV StarSeries X,16,11,9,6,7,5,Virtus.pro,21,23,0.99 
+2014,08,05,19:10,Virtus.pro,OverGaming,mirage,SLTV StarSeries X,16,10,7,8,9,2,Virtus.pro,22,17,1.12 
+2014,08,03,22:15,Titan,Virtus.pro,nuke,Gfinity 3,12,16,12,3,0,13,Virtus.pro,20,20,1.02 
+2014,08,03,22:15,Titan,Virtus.pro,mirage,Gfinity 3,4,16,4,11,0,5,Virtus.pro,16,10,1.19 
+2014,08,03,19:30,dignitas,Virtus.pro,inferno,Gfinity 3,12,16,10,5,2,11,Virtus.pro,24,19,1.21 
+2014,08,03,19:30,Virtus.pro,dignitas,cache,Gfinity 3,16,2,13,2,3,0,Virtus.pro,19,12,1.44 
+2014,08,03,19:30,dignitas,Virtus.pro,dust2,Gfinity 3,16,7,12,3,4,4,Virtus.pro,8,18,0.49 
+2014,08,03,12:55,LondonC,Virtus.pro,nuke,Gfinity 3,3,16,2,13,1,3,Virtus.pro,25,10,1.88 
+2014,08,03,12:55,Virtus.pro,LondonC,cache,Gfinity 3,16,4,14,1,2,3,Virtus.pro,26,10,1.93 
+2014,08,03,12:55,LondonC,Virtus.pro,inferno,Gfinity 3,16,14,11,4,5,10,Virtus.pro,16,21,0.79 
+2014,08,03,01:00,Virtus.pro,fm-eSports,mirage,Gfinity 3,16,1,14,1,2,0,Virtus.pro,23,9,1.89 
+2014,08,02,21:35,Virtus.pro,dignitas,nuke,Gfinity 3,7,16,2,13,5,3,Virtus.pro,13,18,0.90 
+2014,08,02,18:30,Titan,Virtus.pro,mirage,Gfinity 3,15,15,6,9,9,6,Virtus.pro,18,24,0.76 
+2014,08,02,15:50,mousesports,Virtus.pro,cache,Gfinity 3,16,9,11,4,5,5,Virtus.pro,17,21,0.88 
+2014,08,02,14:00,ESG!,Virtus.pro,cache,Gfinity 3,12,16,8,7,4,9,Virtus.pro,27,20,1.27 
+2014,07,29,22:25,Virtus.pro,ESC,mirage,SLTV StarSeries X,16,10,9,6,7,4,Virtus.pro,29,17,1.58 
+2014,07,28,20:00,Virtus.pro,NatusVincere,mirage,SLTV StarSeries X,13,16,4,11,9,5,Virtus.pro,23,20,1.06 
+2014,07,25,21:00,Virtus.pro,Epsilon,inferno,SLTV StarSeries X,6,16,3,12,3,4,Virtus.pro,10,19,0.60 
+2014,07,25,20:00,Virtus.pro,USSR,mirage,SLTV StarSeries X,16,7,11,4,5,3,Virtus.pro,21,12,1.35 
+2014,07,25,19:00,Virtus.pro,fnatic,inferno,SLTV StarSeries X,15,15,8,7,7,8,Virtus.pro,17,23,0.74 
+2014,07,09,21:15,ESG!,Virtus.pro,train,SLTV StarSeries X,16,13,7,8,9,5,Virtus.pro,16,20,0.75 
+2014,07,09,20:00,Virtus.pro,Nostalgie,mirage,SLTV StarSeries X,16,6,10,5,6,1,Virtus.pro,22,14,1.42 
+2014,07,09,19:00,Berzerk,Virtus.pro,inferno,SLTV StarSeries X,4,16,4,11,0,5,Virtus.pro,12,12,0.91 
+2014,07,08,21:00,Virtus.pro,OnlineBOTS,mirage,SLTV StarSeries X,16,8,9,6,7,2,Virtus.pro,23,12,1.52 
+2014,07,08,20:20,Reason,Virtus.pro,inferno,SLTV StarSeries X,6,16,6,9,0,7,Virtus.pro,22,10,1.54 
+2014,07,08,19:00,HellRaisers,Virtus.pro,inferno,SLTV StarSeries X,11,16,7,8,4,8,Virtus.pro,23,15,1.24 
+2014,07,06,18:00,ESC,Virtus.pro,mirage,ESL Pro Series Poland Season 8..,12,16,8,7,4,9,Virtus.pro,29,21,1.38 
+2014,07,06,18:00,Virtus.pro,ESC,train,ESL Pro Series Poland Season 8..,16,13,8,7,8,6,Virtus.pro,13,20,0.73 
+2014,06,29,19:10,Virtus.pro,compLexity,season,ESEA Invite Season 16 Global F..,13,16,8,7,5,9,Virtus.pro,24,23,1.08 
+2014,06,29,19:10,Virtus.pro,compLexity,inferno,ESEA Invite Season 16 Global F..,7,16,3,12,4,4,Virtus.pro,10,19,0.58 
+2014,06,29,19:10,compLexity,Virtus.pro,cache,ESEA Invite Season 16 Global F..,11,16,9,6,2,10,Virtus.pro,16,19,0.82 
+2014,06,29,16:00,Virtus.pro,NatusVincere,train,ESEA Invite Season 16 Global F..,16,9,9,6,7,3,Virtus.pro,24,14,1.44 
+2014,06,29,16:00,Virtus.pro,NatusVincere,mirage,ESEA Invite Season 16 Global F..,14,16,10,5,4,11,Virtus.pro,23,22,0.98 
+2014,06,29,16:00,NatusVincere,Virtus.pro,season,ESEA Invite Season 16 Global F..,10,16,7,8,3,8,Virtus.pro,17,19,0.90 
+2014,06,29,06:00,NiP,Virtus.pro,cache,ESEA Invite Season 16 Global F..,8,16,4,11,4,5,Virtus.pro,26,17,1.43 
+2014,06,29,06:00,NiP,Virtus.pro,train,ESEA Invite Season 16 Global F..,16,12,8,7,8,5,Virtus.pro,20,22,0.98 
+2014,06,29,06:00,Virtus.pro,NiP,inferno,ESEA Invite Season 16 Global F..,16,14,9,6,7,8,Virtus.pro,28,24,1.15 
+2014,06,29,03:00,iBUYPOWER,Virtus.pro,season,ESEA Invite Season 16 Global F..,16,14,10,5,6,9,Virtus.pro,22,23,1.05 
+2014,06,29,03:00,iBUYPOWER,Virtus.pro,inferno,ESEA Invite Season 16 Global F..,14,16,11,4,3,12,Virtus.pro,22,22,1.14 
+2014,06,29,03:00,Virtus.pro,iBUYPOWER,cache,ESEA Invite Season 16 Global F..,8,16,5,10,3,6,Virtus.pro,11,22,0.55 
+2014,06,29,01:30,Virtus.pro,NetcodeGuides.com,cache,ESEA Invite Season 16 Global F..,16,3,12,3,4,0,Virtus.pro,17,11,1.34 
+2014,06,29,01:30,Virtus.pro,NetcodeGuides.com,mirage,ESEA Invite Season 16 Global F..,16,0,15,0,1,0,Virtus.pro,17,8,1.59 
+2014,06,27,23:30,All-StarsNA,All-StarsEurope,dust2,ESEA Invite Season 16 All-Star,16,12,9,6,7,6,All-Stars Europe,13,24,0.55 
+2014,06,16,10:00,NatusVincere,Virtus.pro,mirage,DreamHack Summer 2014,16,9,10,5,6,4,Virtus.pro,5,21,0.30 
+2014,06,16,10:00,Virtus.pro,NatusVincere,inferno,DreamHack Summer 2014,9,16,7,8,2,8,Virtus.pro,19,22,1.08 
+2014,06,14,21:35,Virtus.pro,SK,train,DreamHack Summer 2014,16,12,13,2,3,10,Virtus.pro,21,17,1.11 
+2014,06,14,20:30,LondonC,Virtus.pro,mirage,DreamHack Summer 2014,4,16,4,11,0,5,Virtus.pro,19,15,1.35 
+2014,06,11,20:20,Virtus.pro,myRevenge,nuke,ESL Pro Series Poland Season 8,16,4,12,3,4,1,Virtus.pro,20,12,1.63 
+2014,06,10,20:00,Virtus.pro,WYBOROWA,inferno,ESL Pro Series Poland Season 8,16,9,9,6,7,3,Virtus.pro,39,10,2.49 
+2014,06,02,21:30,Virtus.pro,noMERCY,mirage,ESL Pro Series Poland Season 8,16,6,12,3,4,3,Virtus.pro,22,11,1.59 
+2014,06,01,21:20,Virtus.pro,dignitas,season,FACEIT Spring League 2014,16,14,10,5,6,9,Virtus.pro,31,20,1.56 
+2014,06,01,21:20,Virtus.pro,dignitas,inferno,FACEIT Spring League 2014,16,10,10,5,6,5,Virtus.pro,25,17,1.33 
+2014,06,01,18:15,Virtus.pro,Titan,cache,FACEIT Spring League 2014,16,4,11,4,5,0,Virtus.pro,16,10,1.34 
+2014,06,01,18:15,Titan,Virtus.pro,mirage,FACEIT Spring League 2014,8,16,7,8,1,8,Virtus.pro,19,17,1.19 
+2014,06,01,18:15,dignitas,Virtus.pro,mirage,FACEIT Spring League 2014,16,7,9,6,7,1,Virtus.pro,15,19,0.86 
+2014,06,01,18:15,dignitas,Virtus.pro,dust2,FACEIT Spring League 2014,16,5,11,4,5,1,Virtus.pro,13,18,0.88 
+2014,06,01,18:15,dignitas,Virtus.pro,season,FACEIT Spring League 2014,13,16,4,11,9,5,Virtus.pro,23,22,1.04 
+2014,05,31,17:15,LDLC,Virtus.pro,season,FACEIT Spring League 2014,4,16,4,11,0,5,Virtus.pro,19,11,1.33 
+2014,05,31,17:15,LDLC,Virtus.pro,inferno,FACEIT Spring League 2014,16,13,8,7,8,6,Virtus.pro,14,24,0.58 
+2014,05,31,17:15,LDLC,Virtus.pro,train,FACEIT Spring League 2014,9,16,8,7,1,9,Virtus.pro,28,18,1.65 
+2014,05,27,21:00,Virtus.pro,TEAMGLOBAL,cache,FACEIT Spring League 2014,16,8,9,6,7,2,Virtus.pro,22,20,1.14 
+2014,05,27,20:00,Virtus.pro,Titan,mirage,FACEIT Spring League 2014,16,7,13,2,3,5,Virtus.pro,20,15,1.21 
+2014,05,21,20:15,NiP,Virtus.pro,dust2,FACEIT Spring League 2014,10,16,2,13,8,3,Virtus.pro,16,15,0.97 
+2014,05,21,19:00,Virtus.pro,LDLC,inferno,FACEIT Spring League 2014,7,16,6,9,1,7,Virtus.pro,16,19,0.99 
+2014,05,14,21:30,fnatic,Virtus.pro,mirage,FACEIT Spring League 2014,6,16,6,9,0,7,Virtus.pro,12,17,0.72 
+2014,05,08,20:00,Virtus.pro,Wizards,mirage,FACEIT Spring League 2014,16,2,13,2,3,0,Virtus.pro,27,8,2.33 
+2014,05,07,22:00,Virtus.pro,Titan,cache,FACEIT Spring League 2014,16,11,8,7,8,4,Virtus.pro,32,20,1.61 
+2014,05,03,15:00,NiP,Virtus.pro,dust2,SLTV StarSeries IX Finals,16,12,12,3,4,9,Virtus.pro,23,23,1.06 
+2014,05,03,15:00,NiP,Virtus.pro,train,SLTV StarSeries IX Finals,10,16,8,7,2,9,Virtus.pro,22,16,1.29 
+2014,05,03,15:00,NiP,Virtus.pro,inferno,SLTV StarSeries IX Finals,16,14,6,9,10,5,Virtus.pro,26,22,1.25 
+2014,05,02,18:30,Virtus.pro,Titan,mirage,SLTV StarSeries IX Finals,17,19,11,4,4,11,Virtus.pro,29,34,0.91 
+2014,05,02,18:30,Titan,Virtus.pro,dust2,SLTV StarSeries IX Finals,16,10,5,10,11,0,Virtus.pro,24,20,1.28 
+2014,04,30,20:00,Virtus.pro,dignitas,inferno,FACEIT Spring League 2014,13,16,8,7,5,9,Virtus.pro,18,21,1.00 
+2014,04,27,22:20,LGB,Virtus.pro,inferno,E-sport-bets.com 3rd Anniversa..,16,11,10,5,6,6,Virtus.pro,17,22,0.78 
+2014,04,27,21:30,Virtus.pro,HellRaisers,mirage,E-sport-bets.com 3rd Anniversa..,16,7,12,3,4,4,Virtus.pro,20,16,1.20 
+2014,04,26,20:20,HellRaisers,Virtus.pro,inferno,E-sport-bets.com 3rd Anniversa..,11,16,9,6,2,10,Virtus.pro,26,20,1.32 
+2014,04,26,19:20,Virtus.pro,Wizards,mirage,E-sport-bets.com 3rd Anniversa..,16,8,8,7,8,1,Virtus.pro,16,19,0.92 
+2014,04,19,19:00,NiP,Virtus.pro,dust2,Copenhagen Games 2014,16,13,7,8,9,5,Virtus.pro,23,21,1.11 
+2014,04,19,19:00,NiP,Virtus.pro,inferno,Copenhagen Games 2014,16,6,9,6,7,0,Virtus.pro,15,16,0.98 
+2014,04,19,19:00,NiP,Virtus.pro,train,Copenhagen Games 2014,12,16,4,11,8,5,Virtus.pro,24,17,1.24 
+2014,04,19,14:00,Virtus.pro,LDLC,mirage,Copenhagen Games 2014,16,5,12,3,4,2,Virtus.pro,25,14,1.87 
+2014,04,19,14:00,LDLC,Virtus.pro,dust2,Copenhagen Games 2014,16,12,10,5,6,7,Virtus.pro,20,25,0.79 
+2014,04,19,14:00,Virtus.pro,LDLC,inferno,Copenhagen Games 2014,16,11,10,5,6,6,Virtus.pro,19,18,1.05 
+2014,04,19,10:00,Virtus.pro,LGB,mirage,Copenhagen Games 2014,16,9,11,4,5,5,Virtus.pro,24,12,1.48 
+2014,04,19,10:00,LGB,Virtus.pro,nuke,Copenhagen Games 2014,13,16,8,7,5,9,Virtus.pro,23,17,1.20 
+2014,04,18,21:00,ESC,Virtus.pro,dust2,Copenhagen Games 2014,3,16,3,12,0,4,Virtus.pro,20,8,1.57 
+2014,04,18,21:00,Virtus.pro,ESC,train,Copenhagen Games 2014,16,8,10,5,6,3,Virtus.pro,21,12,1.45 

@@ -1,0 +1,6 @@
+2014,12,17,21:30,LDLC,DEMGUNZ,inferno,ESL Pro League Winter 2014/15,16,3,13,2,3,1,DEMGUNZ,7,17,0.42 
+2014,12,17,21:30,DEMGUNZ,LDLC,overpass,ESL Pro League Winter 2014/15,6,16,4,11,2,5,DEMGUNZ,15,17,0.97 
+2014,08,03,01:00,Virtus.pro,fm-eSports,mirage,Gfinity 3,16,1,14,1,2,0,fm-eSports,10,17,0.53 
+2014,08,02,21:45,fm-eSports,ESG!,inferno,Gfinity 3,6,16,6,9,0,7,fm-eSports,12,18,0.74 
+2014,08,02,17:20,fm-eSports,Titan,mirage,Gfinity 3,4,16,4,11,0,5,fm-eSports,4,17,0.32 
+2014,08,02,11:15,mousesports,fm-eSports,mirage,Gfinity 3,16,3,12,3,4,0,fm-eSports,9,17,0.51 

@@ -1,0 +1,11 @@
+2015,11,08,17:30,Revival,VegaSquadron,inferno,SLTV ProSeries XIV,16,14,9,6,7,8,Revival,29,16,1.46 
+2015,11,08,17:30,VegaSquadron,Revival,dust2,SLTV ProSeries XIV,8,16,3,12,5,4,Revival,17,13,1.21 
+2015,11,08,17:30,Revival,VegaSquadron,mirage,SLTV ProSeries XIV,8,16,7,8,1,8,Revival,16,20,0.84 
+2015,11,08,15:00,CAZ,Revival,mirage,SLTV ProSeries XIV,16,8,13,2,3,6,Revival,13,19,0.74 
+2015,11,08,15:00,CAZ,Revival,inferno,SLTV ProSeries XIV,16,12,9,6,7,6,Revival,17,20,0.86 
+2015,11,06,21:30,Revival,neXtPlease!,mirage,SLTV ProSeries XIV,19,16,6,9,9,6,Revival,28,23,1.13 
+2015,11,06,21:30,neXtPlease!,Revival,cobblestone,SLTV ProSeries XIV,16,19,5,10,10,5,Revival,21,25,0.85 
+2015,10,05,17:30,SkinsVault,WorstPlayers,dust2,D!ngIT $2000 Weekly Cup #20,17,21,6,9,9,6,SkinsVault,29,26,1.26 
+2015,10,05,17:30,WorstPlayers,SkinsVault,mirage,D!ngIT $2000 Weekly Cup #20,16,8,11,4,5,4,SkinsVault,7,6,1.18 
+2015,09,18,16:25,PiTER,NewEra,tuscan,Rising Showmatch,10,16,4,11,6,5,New Era,22,17,1.19 
+2015,09,18,16:25,NewEra,PiTER,season,Rising Showmatch,11,16,8,7,3,9,New Era,23,22,1.01 

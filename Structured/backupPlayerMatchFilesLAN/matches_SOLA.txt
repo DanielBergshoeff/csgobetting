@@ -1,0 +1,9 @@
+2016,04,23,13:30,AllGamers,eFuture,cache,Pro Gamers League 2016 Spring,16,10,11,4,5,6,eFuture,12,23,0.55 
+2016,04,23,13:30,AllGamers,eFuture,cobblestone,Pro Gamers League 2016 Spring,16,11,10,5,6,6,eFuture,20,21,1.01 
+2015,12,19,09:00,BornOfFire,Wings,cache,SL i-League StarSeries XIV Chi..,9,16,2,13,7,3,Born Of Fire,8,19,0.56 
+2015,12,19,09:00,Wings,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,10,12,3,4,7,Born Of Fire,11,23,0.51 
+2015,12,18,13:30,TyLoo,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,Born Of Fire,5,17,0.31 
+2015,12,18,13:30,BornOfFire,TyLoo,cache,SL i-League StarSeries XIV Chi..,1,16,0,15,1,1,Born Of Fire,8,16,0.48 
+2015,12,17,10:40,BornOfFire,Goalie,cache,SL i-League StarSeries XIV Chi..,16,7,11,4,5,3,Born Of Fire,26,10,1.78 
+2015,12,17,10:40,BornOfFire,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,19,9,6,6,9,Born Of Fire,21,26,0.78 
+2015,12,17,10:40,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV Chi..,12,16,10,5,2,11,Born Of Fire,24,17,1.20 

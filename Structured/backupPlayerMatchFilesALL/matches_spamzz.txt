@@ -1,0 +1,11 @@
+2015,12,06,07:00,Groovy,OVP,dust2,TecnoLAN Pasarela 2015 LAN Fin..,16,11,7,8,9,3,OVP,13,21,0.63 
+2015,12,06,07:00,Groovy,OVP,cache,TecnoLAN Pasarela 2015 LAN Fin..,16,13,10,5,6,8,OVP,16,26,0.65 
+2015,12,06,05:00,Artyk,OVP,cache,TecnoLAN Pasarela 2015 LAN Fin..,10,16,5,10,5,6,OVP,22,19,1.15 
+2015,12,05,09:00,OVP,Groovy,train,TecnoLAN Pasarela 2015 LAN Fin..,3,16,2,13,1,3,OVP,6,18,0.37 
+2015,12,05,09:00,Groovy,OVP,mirage,TecnoLAN Pasarela 2015 LAN Fin..,16,6,10,5,6,1,OVP,11,19,0.58 
+2015,12,05,07:20,TheHuggies,OVP,overpass,TecnoLAN Pasarela 2015 LAN Fin..,6,16,3,12,3,4,OVP,20,14,1.29 
+2015,12,05,07:20,OVP,TheHuggies,inferno,TecnoLAN Pasarela 2015 LAN Fin..,16,7,13,2,3,5,OVP,15,12,1.04 
+2015,12,05,03:30,OVP,GamersINC,cache,TecnoLAN Pasarela 2015 LAN Fin..,16,6,11,4,5,2,OVP,28,12,1.86 
+2015,12,05,03:30,GamersINC,OVP,mirage,TecnoLAN Pasarela 2015 LAN Fin..,14,16,5,10,9,6,OVP,16,23,0.71 
+2015,06,17,23:15,Colombia,Brazil,cache,World Championships 2015 South..,9,16,8,7,1,9,Colombia,17,18,0.98 
+2015,06,17,23:15,Colombia,Brazil,dust2,World Championships 2015 South..,12,16,3,12,9,4,Colombia,15,24,0.69 

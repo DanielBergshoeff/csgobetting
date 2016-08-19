@@ -1,0 +1,6 @@
+2015,09,03,12:00,Indonesia,Vietnam,dust2,World Championships 2015 Asian..,13,16,8,7,5,9,Indonesia,10,26,0.39 
+2015,09,03,12:00,Indonesia,Vietnam,mirage,World Championships 2015 Asian..,11,16,7,8,4,8,Indonesia,13,22,0.62 
+2015,09,02,14:30,Indonesia,China,inferno,World Championships 2015 Asian..,12,16,5,10,7,6,Indonesia,16,24,0.66 
+2015,09,02,14:30,China,Indonesia,cache,World Championships 2015 Asian..,16,4,11,4,5,0,Indonesia,4,19,0.21 
+2015,09,01,13:00,Indonesia,Philippines,mirage,World Championships 2015 Asian..,16,2,14,1,2,1,Indonesia,14,9,1.28 
+2015,09,01,12:00,Nepal,Indonesia,dust2,World Championships 2015 Asian..,4,16,3,12,1,4,Indonesia,10,10,0.97 

@@ -1,0 +1,63 @@
+2016,08,15,19:00,DarkPassage,SpaceSoldiers,cache,WESG 2016 Turkey,9,16,7,8,2,8,Space Soldiers,18,17,1.03 
+2016,08,15,19:00,DarkPassage,SpaceSoldiers,cobblestone,WESG 2016 Turkey,8,16,4,11,4,5,Space Soldiers,16,13,1.05 
+2016,08,14,22:15,SpaceSoldiers,HWA,cache,WESG 2016 Turkey,16,14,12,3,4,11,Space Soldiers,20,23,0.90 
+2016,08,14,22:15,SpaceSoldiers,HWA,cobblestone,WESG 2016 Turkey,16,11,4,11,12,0,Space Soldiers,18,20,0.90 
+2016,08,10,21:20,Magistra,Millenium,dust2,xfunction Masters 2016,13,16,10,5,3,11,Millenium,23,18,1.17 
+2016,08,10,21:20,Millenium,Magistra,cache,xfunction Masters 2016,16,12,5,10,11,2,Millenium,18,20,0.92 
+2016,08,10,21:20,Magistra,Millenium,nuke,xfunction Masters 2016,16,13,11,4,5,9,Millenium,22,22,1.05 
+2016,08,06,11:15,SpaceSoldiers,Millenium,dust2,ASUS ROG Summer 2016,16,11,8,7,8,4,Millenium,17,21,0.99 
+2016,08,06,11:15,Millenium,SpaceSoldiers,cobblestone,ASUS ROG Summer 2016,13,16,8,7,5,9,Millenium,21,25,0.84 
+2016,08,05,13:45,Millenium,Escape,mirage,ASUS ROG Summer 2016,16,13,8,7,8,6,Millenium,26,19,1.25 
+2016,08,05,11:30,Epsilon,Millenium,mirage,ASUS ROG Summer 2016,10,16,5,10,5,6,Millenium,13,19,0.70 
+2016,08,01,22:00,Spirit,Millenium,cache,Betway Invitational,16,11,7,8,9,3,Millenium,11,19,0.69 
+2016,08,01,22:00,Millenium,Spirit,mirage,Betway Invitational,14,16,5,10,9,6,Millenium,15,20,0.73 
+2016,07,31,20:45,Millenium,LGR,nuke,Betway Invitational,14,16,8,7,6,9,Millenium,10,21,0.58 
+2016,07,31,20:45,LGR,Millenium,dust2,Betway Invitational,5,16,2,13,3,3,Millenium,14,15,0.90 
+2016,07,31,20:45,LGR,Millenium,cache,Betway Invitational,16,11,10,5,6,6,Millenium,14,22,0.65 
+2016,07,30,21:00,Spirit,Millenium,cache,Betway Invitational,9,16,6,9,3,7,Millenium,17,13,1.12 
+2016,07,30,21:00,Spirit,Millenium,mirage,Betway Invitational,10,16,5,10,5,6,Millenium,20,19,1.15 
+2016,07,04,20:10,AGG,Millenium,overpass,xfunction Masters 2016,9,16,5,10,4,6,Millenium,27,18,1.64 
+2016,07,02,16:45,LDLC,Millenium,cobblestone,ESL National Championship Fran..,16,9,9,6,7,3,Millenium,12,23,0.54 
+2016,07,02,16:45,LDLC,Millenium,cache,ESL National Championship Fran..,16,14,4,11,12,3,Millenium,14,24,0.59 
+2016,07,02,13:50,RedInstinct,Millenium,overpass,ESL National Championship Fran..,14,16,5,10,9,6,Millenium,24,22,1.06 
+2016,07,02,13:50,Millenium,RedInstinct,cache,ESL National Championship Fran..,16,12,11,4,5,8,Millenium,23,18,1.21 
+2016,06,28,19:15,EURONICS,Millenium,mirage,xfunction Masters 2016,2,16,2,13,0,3,Millenium,14,12,1.08 
+2016,06,23,21:15,Tricked,Millenium,inferno,xfunction Challenge,19,17,9,6,6,9,Millenium,23,29,0.79 
+2016,06,23,21:15,Tricked,Millenium,train,xfunction Challenge,16,5,13,2,3,3,Millenium,12,17,0.72 
+2016,06,23,21:15,Tricked,Millenium,dust2,xfunction Challenge,13,16,6,9,7,7,Millenium,23,20,1.12 
+2016,06,08,21:00,Millenium,GameAgents,inferno,xfunction Challenge,16,1,14,1,2,0,Millenium,11,12,0.85 
+2016,06,08,21:00,GameAgents,Millenium,cache,xfunction Challenge,9,16,5,10,4,6,Millenium,23,15,1.26 
+2016,06,08,21:00,GameAgents,Millenium,mirage,xfunction Challenge,19,17,7,8,8,7,Millenium,26,26,0.93 
+2016,05,28,19:00,LDLC,Millenium,dust2,DreamHack ZOWIE Open Summer 20..,16,11,6,9,10,2,Millenium,17,21,0.90 
+2016,05,25,21:15,Epsilon,Millenium,dust2,xfunction Challenge,15,19,8,7,7,8,Millenium,27,21,1.21 
+2016,05,25,21:15,Epsilon,Millenium,overpass,xfunction Challenge,16,11,6,9,10,2,Millenium,17,17,0.98 
+2016,05,25,21:15,Epsilon,Millenium,cache,xfunction Challenge,16,19,11,4,4,11,Millenium,26,26,0.98 
+2016,05,18,22:25,Millenium,ImperioMultimedia,dust2,xfunction Challenge,16,8,13,2,3,6,Millenium,15,16,0.99 
+2016,05,18,22:25,Millenium,ImperioMultimedia,inferno,xfunction Challenge,16,2,13,2,3,0,Millenium,19,7,1.54 
+2016,05,08,20:15,Millenium,Alpha,mirage,xfunction Challenge,8,16,3,12,5,4,Millenium,12,21,0.57 
+2016,05,03,22:55,Millenium,ExoticIsland,inferno,xfunction Challenge,16,13,13,2,3,11,Millenium,20,19,1.10 
+2016,05,01,15:00,ENCE,Millenium,dust2,DreamHack Regional Minor Champ..,16,3,13,2,3,1,Millenium,6,17,0.38 
+2016,05,01,15:00,ENCE,Millenium,cache,DreamHack Regional Minor Champ..,16,4,11,4,5,0,Millenium,13,19,0.70 
+2016,04,30,18:50,Tricked,Millenium,mirage,DreamHack Regional Minor Champ..,8,16,6,9,2,7,Millenium,22,15,1.29 
+2016,03,28,10:00,LDLCBlue,Millenium,inferno,Gamers Assembly 2016,12,16,12,3,0,13,Millenium,30,15,1.56 
+2016,03,27,18:50,Millenium,Platinium,dust2,Gamers Assembly 2016,16,14,7,8,9,6,Millenium,26,22,1.17 
+2016,03,27,18:50,Millenium,Platinium,mirage,Gamers Assembly 2016,16,6,10,5,6,1,Millenium,21,12,1.38 
+2016,03,27,14:00,LDLCBlue,Millenium,dust2,Gamers Assembly 2016,14,16,6,9,8,7,Millenium,20,19,1.03 
+2016,03,27,14:00,LDLCBlue,Millenium,overpass,Gamers Assembly 2016,10,16,3,12,7,4,Millenium,23,20,1.17 
+2016,02,05,17:00,EpiphanyBolt,Millenium,dust2,Assembly Winter 2016,16,12,9,6,7,6,Millenium,19,19,0.93 
+2016,02,05,15:30,Millenium,ENCE,dust2,Assembly Winter 2016,12,16,2,13,10,3,Millenium,17,25,0.70 
+2015,09,28,19:00,Slovakia,Turkey,cobblestone,World Championships 2015 Europ..,16,2,13,2,3,0,Turkey,9,17,0.53 
+2015,09,28,17:00,Turkey,Finland,mirage,World Championships 2015 Europ..,3,16,3,12,0,4,Turkey,13,17,0.66 
+2014,10,21,21:00,NiP,Epsilon,inferno,Fragbite Masters Season 3,16,7,10,5,6,2,Epsilon,5,21,0.28 
+2014,10,21,21:00,NiP,Epsilon,cache,Fragbite Masters Season 3,19,15,11,4,4,11,Epsilon,16,30,0.59 
+2014,10,19,12:00,Epsilon,NatusVincere,overpass,SLTV StarSeries XI Finals,12,16,11,4,1,12,Epsilon,14,21,0.73 
+2014,10,19,12:00,Epsilon,NatusVincere,inferno,SLTV StarSeries XI Finals,10,16,3,12,7,4,Epsilon,16,24,0.76 
+2014,10,18,13:30,Titan,Epsilon,cache,SLTV StarSeries XI Finals,16,13,10,5,6,8,Epsilon,16,21,0.83 
+2014,10,18,13:30,Titan,Epsilon,dust2,SLTV StarSeries XI Finals,16,10,8,7,8,3,Epsilon,16,20,0.88 
+2014,10,16,22:30,myXMG,Epsilon,inferno,Fragbite Masters Season 3,5,16,5,10,0,6,Epsilon,8,10,0.86 
+2014,10,12,23:15,France,Turkey,dust2,European Championship 2014,16,5,10,5,6,0,Turkey,9,18,0.50 
+2014,10,10,22:30,Turkey,Belarus,nuke,European Championship 2014,10,16,4,11,6,5,Turkey,15,21,0.84 
+2014,09,30,00:16,Poland,Turkey,inferno,European Championship 2014,16,3,12,3,4,0,Turkey,9,17,0.60 
+2014,09,15,23:50,Belgium,Turkey,dust2,European Championship 2014,16,7,9,6,7,1,Turkey,22,20,1.09 
+2014,09,14,20:00,Epsilon,LDLC,inferno,ESWC 2014 France Vakarm.net pr..,9,16,7,8,2,8,Epsilon,19,20,0.98 
+2014,09,14,20:00,LDLC,Epsilon,cache,ESWC 2014 France Vakarm.net pr..,16,5,11,4,5,1,Epsilon,11,18,0.69 

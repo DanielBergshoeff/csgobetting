@@ -1,0 +1,4 @@
+2015,08,11,18:30,Luxembourg,Spain,inferno,World Championships 2015 Europ..,7,16,4,11,3,5,Luxembourg,14,16,0.96 
+2015,08,11,18:30,Spain,Luxembourg,dust2,World Championships 2015 Europ..,16,5,10,5,6,0,Luxembourg,16,18,0.89 
+2014,08,17,17:00,Moldova,Luxembourg,inferno,European Championship 2014 Qua..,16,2,13,2,3,0,Luxembourg,8,17,0.45 
+2014,08,17,17:00,Moldova,Luxembourg,dust2,European Championship 2014 Qua..,16,1,14,1,2,0,Luxembourg,6,16,0.34 

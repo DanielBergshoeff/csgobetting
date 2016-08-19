@@ -1,0 +1,5 @@
+2016,08,12,16:00,Signature,autocracy,cache,ESEA Open Season 22 Asia,16,14,7,8,9,6,autocracy,20,23,0.84 
+2016,08,12,16:00,autocracy,Signature,train,ESEA Open Season 22 Asia,10,16,7,8,3,8,autocracy,14,20,0.75 
+2016,08,06,13:00,B.O.O.T,autocracy,overpass,ESEA Open Season 22 Asia,12,16,5,10,7,6,autocracy,20,19,1.09 
+2016,08,06,13:00,autocracy,B.O.O.T,dust2,ESEA Open Season 22 Asia,16,11,10,5,6,6,autocracy,8,18,0.52 
+2016,08,06,13:00,B.O.O.T,autocracy,mirage,ESEA Open Season 22 Asia,16,5,11,4,5,1,autocracy,12,18,0.65 

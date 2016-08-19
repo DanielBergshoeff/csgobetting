@@ -1,0 +1,140 @@
+2016,06,20,19:00,NiP,Immortals,mirage,DreamHack ZOWIE Open Summer 20..,13,16,3,12,10,4,Immortals,21,19,1.07 
+2016,06,20,19:00,Immortals,NiP,cache,DreamHack ZOWIE Open Summer 20..,16,10,9,6,7,4,Immortals,15,15,0.89 
+2016,06,20,11:00,Immortals,GODSENT,train,DreamHack ZOWIE Open Summer 20..,16,8,9,6,7,2,Immortals,16,12,1.06 
+2016,06,20,11:00,Immortals,GODSENT,mirage,DreamHack ZOWIE Open Summer 20..,12,16,5,10,7,6,Immortals,20,22,0.94 
+2016,06,20,11:00,Immortals,GODSENT,cache,DreamHack ZOWIE Open Summer 20..,16,11,9,6,7,5,Immortals,17,17,0.91 
+2016,06,19,18:00,Immortals,SK,train,DreamHack ZOWIE Open Summer 20..,16,8,12,3,4,5,Immortals,18,11,1.24 
+2016,06,19,18:00,SK,Immortals,overpass,DreamHack ZOWIE Open Summer 20..,9,16,5,10,4,6,Immortals,24,14,1.46 
+2016,06,19,18:00,SK,Immortals,cobblestone,DreamHack ZOWIE Open Summer 20..,16,6,9,6,7,0,Immortals,13,17,0.78 
+2016,06,19,12:00,ENCE,Immortals,cobblestone,DreamHack ZOWIE Open Summer 20..,7,16,5,10,2,6,Immortals,12,12,0.95 
+2016,06,19,12:00,ENCE,Immortals,mirage,DreamHack ZOWIE Open Summer 20..,14,16,6,9,8,7,Immortals,25,19,1.25 
+2016,06,18,18:00,SK,Immortals,train,DreamHack ZOWIE Open Summer 20..,16,13,6,9,10,4,Immortals,14,23,0.63 
+2016,06,12,15:30,FlipSid3,Immortals,train,ESL One Cologne 2016 Main Qual..,16,12,11,4,5,8,Immortals,14,22,0.68 
+2016,06,11,14:20,Empire,Immortals,cobblestone,ESL One Cologne 2016 Main Qual..,7,16,3,12,4,4,Immortals,23,13,1.54 
+2016,06,10,15:45,Immortals,TyLoo,cache,ESL One Cologne 2016 Main Qual..,11,16,5,10,6,6,Immortals,10,20,0.52 
+2016,06,09,18:30,EnVyUs,Immortals,dust2,ESL One Cologne 2016 Main Qual..,16,6,9,6,7,0,Immortals,20,18,1.36 
+2016,05,22,20:40,TempoStorm,OpTic,nuke,MLG Regional Minor Championshi..,12,16,8,7,4,9,Tempo Storm,15,23,0.63 
+2016,05,22,20:40,TempoStorm,OpTic,train,MLG Regional Minor Championshi..,13,16,8,7,5,9,Tempo Storm,15,21,0.70 
+2016,05,22,20:40,OpTic,TempoStorm,dust2,MLG Regional Minor Championshi..,13,16,7,8,6,8,Tempo Storm,26,18,1.26 
+2016,05,22,18:00,TSM,TempoStorm,cobblestone,MLG Regional Minor Championshi..,14,16,5,10,9,6,Tempo Storm,33,21,1.61 
+2016,05,22,18:00,TempoStorm,TSM,dust2,MLG Regional Minor Championshi..,16,6,11,4,5,2,Tempo Storm,27,10,1.84 
+2016,05,21,22:55,TempoStorm,OpTic,cobblestone,MLG Regional Minor Championshi..,6,16,5,10,1,6,Tempo Storm,10,21,0.47 
+2016,05,21,22:55,TempoStorm,OpTic,train,MLG Regional Minor Championshi..,7,16,7,8,0,8,Tempo Storm,7,20,0.39 
+2016,05,21,18:00,TempoStorm,Selfless,cobblestone,MLG Regional Minor Championshi..,16,5,10,5,6,0,Tempo Storm,26,13,1.65 
+2016,05,21,18:00,TempoStorm,Selfless,cache,MLG Regional Minor Championshi..,16,4,13,2,3,2,Tempo Storm,21,7,1.84 
+2016,05,19,23:15,TempoStorm,NRG,mirage,MLG Regional Minor Championshi..,16,13,8,7,8,6,Tempo Storm,24,17,1.15 
+2016,05,19,18:20,TSM,TempoStorm,cobblestone,MLG Regional Minor Championshi..,7,16,3,12,4,4,Tempo Storm,21,11,1.49 
+2016,05,16,04:45,ZePugGodz,TempoStorm,cobblestone,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Tempo Storm,19,10,1.53 
+2016,05,16,04:45,TempoStorm,ZePugGodz,cache,ESEA Premier Season 21 North A..,16,14,6,9,10,5,Tempo Storm,26,17,1.29 
+2016,05,16,02:40,Vault,TempoStorm,cobblestone,ESEA Premier Season 21 North A..,1,16,1,14,0,2,Tempo Storm,21,5,2.05 
+2016,05,16,02:40,Vault,TempoStorm,train,ESEA Premier Season 21 North A..,13,16,9,6,4,10,Tempo Storm,24,16,1.22 
+2016,05,09,00:30,Luminosity,TempoStorm,cobblestone,DreamHack Austin 2016,16,9,9,6,7,3,Tempo Storm,10,19,0.58 
+2016,05,09,00:30,TempoStorm,Luminosity,mirage,DreamHack Austin 2016,9,16,6,9,3,7,Tempo Storm,11,20,0.69 
+2016,05,08,17:00,Cloud9,TempoStorm,cache,DreamHack Austin 2016,11,16,2,13,9,3,Tempo Storm,19,18,1.01 
+2016,05,08,17:00,TempoStorm,Cloud9,inferno,DreamHack Austin 2016,19,16,9,6,6,9,Tempo Storm,25,25,1.00 
+2016,05,08,17:00,Cloud9,TempoStorm,cobblestone,DreamHack Austin 2016,16,13,8,7,8,6,Tempo Storm,16,19,0.80 
+2016,05,07,06:15,Liquid,TempoStorm,cobblestone,DreamHack Austin 2016,10,16,4,11,6,5,Tempo Storm,16,17,1.00 
+2016,05,06,23:30,TempoStorm,NRG,cache,DreamHack Austin 2016,16,5,11,4,5,1,Tempo Storm,12,12,0.97 
+2016,05,01,16:30,SK,TempoStorm,cobblestone,CEVO Gfinity Professional Seas..,8,16,3,12,5,4,Tempo Storm,19,13,1.20 
+2016,05,01,16:30,TempoStorm,SK,mirage,CEVO Gfinity Professional Seas..,9,16,6,9,3,7,Tempo Storm,18,18,0.97 
+2016,05,01,16:30,TempoStorm,SK,dust2,CEVO Gfinity Professional Seas..,19,17,8,7,7,8,Tempo Storm,34,22,1.41 
+2016,05,01,16:30,TempoStorm,SK,cache,CEVO Gfinity Professional Seas..,16,5,14,1,2,4,Tempo Storm,18,9,1.49 
+2016,04,30,16:45,TempoStorm,Virtus.pro,mirage,CEVO Gfinity Professional Seas..,16,11,12,3,4,8,Tempo Storm,27,17,1.33 
+2016,04,30,16:45,TempoStorm,Virtus.pro,cache,CEVO Gfinity Professional Seas..,13,16,9,6,4,10,Tempo Storm,24,23,1.08 
+2016,04,30,16:45,Virtus.pro,TempoStorm,inferno,CEVO Gfinity Professional Seas..,16,4,13,2,3,2,Tempo Storm,8,16,0.58 
+2016,04,30,16:45,TempoStorm,Virtus.pro,train,CEVO Gfinity Professional Seas..,16,7,12,3,4,4,Tempo Storm,16,13,1.06 
+2016,04,30,16:45,TempoStorm,Virtus.pro,dust2,CEVO Gfinity Professional Seas..,16,9,10,5,6,4,Tempo Storm,16,13,1.02 
+2016,04,29,13:45,dignitas,TempoStorm,cache,CEVO Gfinity Professional Seas..,14,16,10,5,4,11,Tempo Storm,28,20,1.32 
+2016,04,29,13:45,TempoStorm,dignitas,cobblestone,CEVO Gfinity Professional Seas..,12,16,8,7,4,9,Tempo Storm,17,19,0.87 
+2016,04,29,13:45,TempoStorm,dignitas,mirage,CEVO Gfinity Professional Seas..,16,12,9,6,7,6,Tempo Storm,23,17,1.11 
+2016,04,28,11:00,SK,TempoStorm,cobblestone,CEVO Gfinity Professional Seas..,6,16,3,12,3,4,Tempo Storm,17,9,1.34 
+2016,04,28,11:00,TempoStorm,SK,train,CEVO Gfinity Professional Seas..,16,12,14,1,2,11,Tempo Storm,25,20,1.23 
+2016,04,14,21:15,TempoStorm,EnVyUs,inferno,DreamHack Masters Malmö 2016,14,16,6,9,8,7,Tempo Storm,24,17,1.14 
+2016,04,14,21:15,EnVyUs,TempoStorm,dust2,DreamHack Masters Malmö 2016,16,9,7,8,9,1,Tempo Storm,17,17,1.04 
+2016,04,13,21:30,Virtus.pro,TempoStorm,mirage,DreamHack Masters Malmö 2016,16,9,9,6,7,3,Tempo Storm,15,18,0.89 
+2016,04,12,21:30,EnVyUs,TempoStorm,cobblestone,DreamHack Masters Malmö 2016,14,16,3,12,11,4,Tempo Storm,14,19,0.71 
+2016,03,04,13:30,TempoStorm,NatusVincere,mirage,IEM Katowice 2016,13,16,10,5,3,11,Tempo Storm,11,21,0.60 
+2016,03,04,13:30,NatusVincere,TempoStorm,cobblestone,IEM Katowice 2016,15,19,3,12,12,3,Tempo Storm,17,24,0.78 
+2016,03,04,13:30,TempoStorm,NatusVincere,overpass,IEM Katowice 2016,10,16,6,9,4,7,Tempo Storm,14,17,0.82 
+2016,03,03,21:00,Astralis,TempoStorm,cache,IEM Katowice 2016,16,12,13,2,3,10,Tempo Storm,17,18,0.92 
+2016,03,03,19:55,EnVyUs,TempoStorm,mirage,IEM Katowice 2016,7,16,5,10,2,6,Tempo Storm,23,13,1.42 
+2016,03,03,18:30,Virtus.pro,TempoStorm,cobblestone,IEM Katowice 2016,9,16,2,13,7,3,Tempo Storm,23,16,1.50 
+2016,03,03,16:00,FaZe,TempoStorm,dust2,IEM Katowice 2016,19,16,5,10,10,5,Tempo Storm,24,28,0.90 
+2016,03,03,14:40,TempoStorm,E-frag.net,inferno,IEM Katowice 2016,16,13,6,9,10,4,Tempo Storm,14,18,0.75 
+2016,02,28,17:00,TempoStorm,FlipSid3,train,MLG Columbus 2016 Main Qualifi..,5,16,2,13,3,3,Tempo Storm,11,18,0.58 
+2016,02,28,17:00,FlipSid3,TempoStorm,cache,MLG Columbus 2016 Main Qualifi..,16,5,10,5,6,0,Tempo Storm,12,17,0.69 
+2016,02,27,17:00,TempoStorm,Selfless,inferno,MLG Columbus 2016 Main Qualifi..,16,4,12,3,4,1,Tempo Storm,23,9,1.73 
+2016,02,26,20:30,TempoStorm,G2,dust2,MLG Columbus 2016 Main Qualifi..,13,16,8,7,5,9,Tempo Storm,23,21,1.15 
+2016,01,08,14:30,GamesAcademy,KeydStars,dust2,MAX5 Invitational,15,15,5,10,10,5,Games Academy,25,18,1.20 
+2016,01,07,23:30,GamesAcademy,NTN,train,MAX5 Invitational,16,0,15,0,1,0,Games Academy,16,3,1.86 
+2016,01,07,16:30,GamesAcademy,Gathers,mirage,MAX5 Invitational,16,0,15,0,1,0,Games Academy,15,4,1.87 
+2016,01,06,16:30,GamesAcademy,AlienTech,cobblestone,MAX5 Invitational,14,16,6,9,8,7,Games Academy,24,19,1.18 
+2015,11,22,02:40,Luminosity,NatusVincere,overpass,IEM San Jose 2015,17,19,8,7,7,8,Luminosity,19,29,0.68 
+2015,11,22,02:40,Luminosity,NatusVincere,mirage,IEM San Jose 2015,13,16,9,6,4,10,Luminosity,16,22,0.76 
+2015,11,19,07:15,Luminosity,Renegades,dust2,RGN Pro Series Championship,12,16,10,5,2,11,Luminosity,16,23,0.69 
+2015,11,19,07:15,Luminosity,Renegades,train,RGN Pro Series Championship,12,16,8,7,4,9,Luminosity,19,20,0.92 
+2015,11,19,04:00,GamesAcademy,Luminosity,cache,RGN Pro Series Championship,13,16,3,12,10,4,Luminosity,20,23,0.90 
+2015,11,19,04:00,GamesAcademy,Luminosity,train,RGN Pro Series Championship,7,16,5,10,2,6,Luminosity,8,15,0.62 
+2015,11,19,04:00,Luminosity,GamesAcademy,dust2,RGN Pro Series Championship,13,16,5,10,8,6,Luminosity,18,23,0.85 
+2015,11,18,22:00,Luminosity,Liquid,dust2,RGN Pro Series Championship,11,16,9,6,2,10,Luminosity,10,18,0.69 
+2015,11,18,22:00,Luminosity,Liquid,overpass,RGN Pro Series Championship,19,17,7,8,8,7,Luminosity,28,23,1.20 
+2015,11,18,22:00,Liquid,Luminosity,inferno,RGN Pro Series Championship,22,19,11,4,4,11,Luminosity,28,27,0.92 
+2015,11,18,05:30,Luminosity,Enemy,train,RGN Pro Series Championship,16,3,12,3,4,0,Luminosity,18,11,1.41 
+2015,11,18,05:30,Enemy,Luminosity,mirage,RGN Pro Series Championship,17,19,5,10,10,5,Luminosity,21,25,0.82 
+2015,11,17,23:45,CLGRed,Luminosity,inferno,RGN Pro Series Championship,3,16,2,13,1,3,Luminosity,15,12,1.11 
+2015,11,17,22:30,Winterfox,Luminosity,mirage,RGN Pro Series Championship,9,16,6,9,3,7,Luminosity,22,16,1.19 
+2015,11,17,21:00,Luminosity,Torqued,mirage,RGN Pro Series Championship,16,7,9,6,7,1,Luminosity,24,14,1.65 
+2015,11,15,21:35,Luminosity,Cloud9,dust2,iBUYPOWER Cup 2015,7,16,2,13,5,3,Luminosity,14,19,0.78 
+2015,11,15,21:35,Cloud9,Luminosity,cobblestone,iBUYPOWER Cup 2015,16,9,12,3,4,6,Luminosity,10,19,0.65 
+2015,11,14,21:05,Renegades,Luminosity,cobblestone,iBUYPOWER Cup 2015,0,16,0,15,0,1,Luminosity,18,4,1.84 
+2015,11,14,19:00,Luminosity,Winterfox,dust2,iBUYPOWER Cup 2015,16,5,11,4,5,1,Luminosity,27,9,2.01 
+2015,11,07,23:55,Luminosity,Titan,inferno,CEVO Professional Season 8 Fin..,14,16,9,6,5,10,Luminosity,18,21,0.80 
+2015,11,07,23:55,Luminosity,Titan,cobblestone,CEVO Professional Season 8 Fin..,16,11,12,3,4,8,Luminosity,18,16,1.02 
+2015,11,07,23:55,Titan,Luminosity,cache,CEVO Professional Season 8 Fin..,16,11,7,8,9,3,Luminosity,14,23,0.62 
+2015,11,07,17:50,Luminosity,mousesports,mirage,CEVO Professional Season 8 Fin..,7,16,4,11,3,5,Luminosity,7,21,0.43 
+2015,11,07,17:50,Luminosity,mousesports,dust2,CEVO Professional Season 8 Fin..,12,16,11,4,1,12,Luminosity,17,21,0.92 
+2015,11,06,23:00,Titan,Luminosity,cobblestone,CEVO Professional Season 8 Fin..,10,16,8,7,2,9,Luminosity,20,11,1.25 
+2015,11,06,23:00,Luminosity,Titan,cache,CEVO Professional Season 8 Fin..,16,6,10,5,6,1,Luminosity,21,11,1.65 
+2015,10,31,19:30,Luminosity,NatusVincere,overpass,DreamHack Open Cluj-Napoca 201..,13,16,9,6,4,10,Luminosity,23,20,1.10 
+2015,10,31,19:30,NatusVincere,Luminosity,dust2,DreamHack Open Cluj-Napoca 201..,16,14,9,6,7,8,Luminosity,21,22,0.94 
+2015,10,29,17:30,Luminosity,fnatic,inferno,DreamHack Open Cluj-Napoca 201..,16,13,7,8,9,5,Luminosity,19,21,0.91 
+2015,10,28,12:00,Luminosity,Cloud9,dust2,DreamHack Open Cluj-Napoca 201..,16,11,8,7,8,4,Luminosity,18,17,1.03 
+2015,09,07,06:50,CLG,Luminosity,cobblestone,WinOut $20,000 CS:GO Champions..,16,1,14,1,2,0,Luminosity,10,17,0.53 
+2015,09,07,06:50,Luminosity,CLG,mirage,WinOut $20,000 CS:GO Champions..,16,6,12,3,4,3,Luminosity,23,11,1.65 
+2015,09,07,06:50,CLG,Luminosity,overpass,WinOut $20,000 CS:GO Champions..,16,6,10,5,6,1,Luminosity,9,19,0.56 
+2015,09,07,03:00,3sUP,Luminosity,inferno,WinOut $20,000 CS:GO Champions..,7,16,4,11,3,5,Luminosity,22,13,1.51 
+2015,09,07,03:00,3sUP,Luminosity,overpass,WinOut $20,000 CS:GO Champions..,6,16,3,12,3,4,Luminosity,15,11,1.08 
+2015,09,07,03:00,Luminosity,3sUP,train,WinOut $20,000 CS:GO Champions..,10,16,4,11,6,5,Luminosity,14,20,0.79 
+2015,09,06,23:00,CLG,Luminosity,cache,WinOut $20,000 CS:GO Champions..,16,6,10,5,6,1,Luminosity,7,19,0.38 
+2015,09,06,23:00,Luminosity,CLG,train,WinOut $20,000 CS:GO Champions..,16,1,14,1,2,0,Luminosity,10,6,1.09 
+2015,09,06,23:00,CLG,Luminosity,cobblestone,WinOut $20,000 CS:GO Champions..,16,3,12,3,4,0,Luminosity,9,16,0.68 
+2015,09,06,04:30,3sUP,Luminosity,cobblestone,WinOut $20,000 CS:GO Champions..,13,16,12,3,1,13,Luminosity,29,14,1.60 
+2015,09,06,04:30,Luminosity,3sUP,cache,WinOut $20,000 CS:GO Champions..,16,11,12,3,4,8,Luminosity,15,16,0.90 
+2015,09,06,01:30,Nexus,Luminosity,cache,WinOut $20,000 CS:GO Champions..,8,16,6,9,2,7,Luminosity,19,12,1.19 
+2015,09,06,01:30,Luminosity,Nexus,overpass,WinOut $20,000 CS:GO Champions..,16,5,10,5,6,0,Luminosity,14,16,0.92 
+2015,09,05,21:00,GamesAcademy,Luminosity,mirage,WinOut $20,000 CS:GO Champions..,10,16,9,6,1,10,Luminosity,17,19,0.90 
+2015,09,05,19:30,Luminosity,EZonTheSoul,dust2,WinOut $20,000 CS:GO Champions..,16,1,14,1,2,0,Luminosity,22,5,2.17 
+2015,08,22,21:00,Luminosity,fnatic,mirage,ESL One Cologne 2015,14,16,7,8,7,8,Luminosity,18,20,0.93 
+2015,08,22,21:00,fnatic,Luminosity,train,ESL One Cologne 2015,16,5,12,3,4,2,Luminosity,8,18,0.63 
+2015,08,21,22:05,Luminosity,FlipSid3,cobblestone,ESL One Cologne 2015,22,18,9,6,6,9,Luminosity,31,26,1.05 
+2015,08,20,18:05,EnVyUs,Luminosity,cobblestone,ESL One Cologne 2015,19,16,8,7,7,8,Luminosity,13,28,0.52 
+2015,08,20,15:25,Luminosity,Kinguin,overpass,ESL One Cologne 2015,16,6,10,5,6,1,Luminosity,22,12,1.65 
+2015,07,10,19:00,KeydStars,Boreal,mirage,ESWC 2015,16,3,12,3,4,0,Keyd Stars,15,11,1.22 
+2015,07,10,17:30,KeydStars,Cloud9,overpass,ESWC 2015,6,16,5,10,1,6,Keyd Stars,13,17,0.73 
+2015,07,10,16:00,KeydStars,FlipSid3,cobblestone,ESWC 2015,13,16,8,7,5,9,Keyd Stars,11,24,0.50 
+2015,07,03,18:45,fnatic,KeydStars,train,ESL ESEA Pro League Season 1 F..,19,16,8,7,7,8,Keyd Stars,21,24,0.86 
+2015,07,03,18:45,fnatic,KeydStars,inferno,ESL ESEA Pro League Season 1 F..,16,5,12,3,4,2,Keyd Stars,15,18,0.88 
+2015,07,02,21:38,KeydStars,CLG,cache,ESL ESEA Pro League Season 1 F..,9,16,8,7,1,9,Keyd Stars,18,16,1.01 
+2015,07,02,16:50,TSM,KeydStars,inferno,ESL ESEA Pro League Season 1 F..,12,16,7,8,5,8,Keyd Stars,14,23,0.60 
+2015,03,13,19:45,Virtus.pro,KeydStars,nuke,ESL One Katowice 2015,16,1,14,1,2,0,Keyd Stars,9,17,0.58 
+2015,03,13,19:45,KeydStars,Virtus.pro,overpass,ESL One Katowice 2015,19,17,11,4,4,11,Keyd Stars,32,24,1.24 
+2015,03,13,19:45,Virtus.pro,KeydStars,mirage,ESL One Katowice 2015,16,4,12,3,4,1,Keyd Stars,12,17,0.80 
+2015,03,12,21:30,CLG,KeydStars,dust2,ESL One Katowice 2015,8,16,2,13,6,3,Keyd Stars,19,13,1.20 
+2015,03,12,19:35,HellRaisers,KeydStars,inferno,ESL One Katowice 2015,12,16,10,5,2,11,Keyd Stars,24,16,1.40 
+2015,03,12,18:00,KeydStars,NiP,inferno,ESL One Katowice 2015,9,16,2,13,7,3,Keyd Stars,18,18,1.04 
+2015,02,15,19:00,KaBuM.TD,dignitas,inferno,ESL One Katowice 2015 Main Qua..,16,3,13,2,3,1,KaBuM.TD,15,5,1.41 
+2015,02,15,13:45,INSHOCK,KaBuM.TD,nuke,ESL One Katowice 2015 Main Qua..,11,16,9,6,2,10,KaBuM.TD,17,15,1.04 
+2015,02,15,11:00,mousesports,KaBuM.TD,dust2,ESL One Katowice 2015 Main Qua..,16,10,9,6,7,4,KaBuM.TD,12,19,0.69 
+2015,01,24,22:02,NiP,KaBuM.TD,inferno,MLG X-Games Aspen 2015,16,3,14,1,2,2,KaBuM.TD,6,17,0.35 
+2015,01,24,06:40,dignitas,KaBuM.TD,dust2,MLG X-Games Aspen 2015,16,4,12,3,4,1,KaBuM.TD,11,17,0.61 
+2015,01,24,01:25,Cloud9,KaBuM.TD,mirage,MLG X-Games Aspen 2015,4,16,4,11,0,5,KaBuM.TD,18,12,1.40 

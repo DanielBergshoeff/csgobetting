@@ -1,0 +1,19 @@
+2016,07,24,09:45,X,Epsilon,cobblestone,Pro Gamer League 2016 Summer F..,14,16,6,9,8,7,X,19,22,0.94 
+2016,07,24,09:45,X,Epsilon,dust2,Pro Gamer League 2016 Summer F..,10,16,6,9,4,7,X,19,19,0.96 
+2016,07,24,09:45,Epsilon,X,train,Pro Gamer League 2016 Summer F..,16,6,11,4,5,2,X,14,21,0.83 
+2016,07,22,11:00,X,TyLoo,train,Pro Gamer League 2016 Summer F..,16,9,8,7,8,2,X,14,19,0.71 
+2016,07,22,11:00,TyLoo,X,mirage,Pro Gamer League 2016 Summer F..,10,16,8,7,2,9,X,20,18,1.01 
+2016,07,22,07:30,X,VG.CyberZen,overpass,Pro Gamer League 2016 Summer F..,16,10,8,7,8,3,X,35,14,1.95 
+2016,07,22,05:45,X,EP,overpass,Pro Gamer League 2016 Summer F..,16,0,15,0,1,0,X,18,4,2.10 
+2016,07,22,04:00,X,FIVE,overpass,Pro Gamer League 2016 Summer F..,16,9,10,5,6,4,X,32,17,1.89 
+2016,06,19,18:00,Immortals,SK,train,DreamHack ZOWIE Open Summer 20..,16,8,12,3,4,5,SK,10,19,0.59 
+2016,06,19,18:00,SK,Immortals,overpass,DreamHack ZOWIE Open Summer 20..,9,16,5,10,4,6,SK,10,18,0.68 
+2016,06,19,18:00,SK,Immortals,cobblestone,DreamHack ZOWIE Open Summer 20..,16,6,9,6,7,0,SK,12,16,0.89 
+2016,06,18,21:00,Astralis,SK,overpass,DreamHack ZOWIE Open Summer 20..,16,12,6,9,10,3,SK,21,23,0.94 
+2016,06,18,18:00,SK,Immortals,train,DreamHack ZOWIE Open Summer 20..,16,13,6,9,10,4,SK,26,19,1.31 
+2016,03,24,23:00,Iwku,Krydsild,cache,Copenhagen Games 2016 BYOC Qua..,16,5,10,5,6,0,Krydsild,16,17,1.07 
+2016,03,24,23:00,Iwku,Krydsild,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,5,13,2,3,3,Krydsild,14,20,0.87 
+2016,03,24,19:00,Krydsild,Aquiver.BLU,inferno,Copenhagen Games 2016 BYOC Qua..,19,16,11,4,4,11,Krydsild,24,24,1.01 
+2016,03,24,19:00,Krydsild,Aquiver.BLU,cache,Copenhagen Games 2016 BYOC Qua..,16,7,9,6,7,1,Krydsild,25,13,1.52 
+2016,03,24,15:30,Krydsild,OBEY,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,10,8,7,8,3,Krydsild,27,16,1.76 
+2016,03,24,13:00,Krydsild,WDHA,dust2,Copenhagen Games 2016 BYOC Qua..,16,11,10,5,6,6,Krydsild,22,14,1.25 

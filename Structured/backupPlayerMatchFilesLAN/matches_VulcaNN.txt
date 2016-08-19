@@ -1,0 +1,3 @@
+2016,03,24,17:00,eXtatus,Inside,inferno,Copenhagen Games 2016 BYOC Qua..,16,1,15,0,1,1,Inside,8,16,0.51 
+2016,03,24,15:30,Telos,Inside,cobblestone,Copenhagen Games 2016 BYOC Qua..,14,16,7,8,7,8,Inside,11,20,0.60 
+2016,03,24,13:00,eXtatus,Inside,dust2,Copenhagen Games 2016 BYOC Qua..,16,3,15,0,1,3,Inside,6,16,0.39 

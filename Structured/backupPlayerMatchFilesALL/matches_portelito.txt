@@ -1,0 +1,16 @@
+2015,05,14,18:00,AlienTech.Black,nerdRage,cache,Fragbite Masters Season 4,7,16,6,9,1,7,AlienTech.Black,12,19,0.68 
+2015,05,14,18:00,nerdRage,AlienTech.Black,dust2,Fragbite Masters Season 4,16,9,10,5,6,4,AlienTech.Black,14,18,0.79 
+2015,05,13,21:00,AlienTech.Black,Acer,cache,Fragbite Masters Season 4,12,16,7,8,5,8,AlienTech.Black,14,19,0.74 
+2015,05,13,21:00,Acer,AlienTech.Black,dust2,Fragbite Masters Season 4,16,6,10,5,6,1,AlienTech.Black,16,17,0.92 
+2015,05,06,19:00,AlienTech.Black,G2,cobblestone,Counter Pit League Qualifier,5,16,4,11,1,5,AlienTech.Black,12,18,0.73 
+2015,05,06,19:00,G2,AlienTech.Black,dust2,Counter Pit League Qualifier,13,16,9,6,4,10,AlienTech.Black,27,19,1.34 
+2015,05,06,19:00,AlienTech.Black,G2,mirage,Counter Pit League Qualifier,8,16,8,7,0,9,AlienTech.Black,13,20,0.66 
+2015,04,29,18:00,G2,k1ck,mirage,99Damage Arena #6,16,2,13,2,3,0,k1ck,10,17,0.54 
+2015,04,29,18:00,k1ck,G2,cache,99Damage Arena #6,12,16,10,5,2,11,k1ck,11,22,0.54 
+2015,04,28,21:15,KILLERFISH,k1ck,inferno,99Damage Arena #6,13,16,6,9,7,7,k1ck,9,17,0.62 
+2015,04,28,21:15,KILLERFISH,k1ck,dust2,99Damage Arena #6,14,16,10,5,4,11,k1ck,23,20,1.09 
+2015,04,28,21:15,KILLERFISH,k1ck,cache,99Damage Arena #6,16,12,8,7,8,5,k1ck,16,18,0.87 
+2015,04,25,19:30,KILLERFISH,k1ck,mirage,Acer Predator Masters powered ..,16,2,13,2,3,0,k1ck,13,17,0.81 
+2015,04,25,19:30,k1ck,KILLERFISH,cache,Acer Predator Masters powered ..,12,16,6,9,6,7,k1ck,18,20,1.02 
+2015,04,25,19:30,KILLERFISH,k1ck,dust2,Acer Predator Masters powered ..,12,16,10,5,2,11,k1ck,26,16,1.35 
+2015,04,25,18:15,k1ck,Atlantis,cache,Acer Predator Masters powered ..,16,10,7,8,9,2,k1ck,20,17,1.04 

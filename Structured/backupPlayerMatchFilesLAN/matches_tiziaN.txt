@@ -1,0 +1,44 @@
+2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,train,ESL Meisterschaft Spring 2016 ..,12,16,8,7,4,9,ALTERNATE aTTaX,6,23,0.32 
+2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,dust2,ESL Meisterschaft Spring 2016 ..,11,16,7,8,4,8,ALTERNATE aTTaX,19,20,1.04 
+2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,cache,ESL Meisterschaft Spring 2016 ..,16,6,12,3,4,3,ALTERNATE aTTaX,14,12,1.09 
+2016,05,07,20:45,PENTA,ALTERNATEaTTaX,cobblestone,ESL Meisterschaft Spring 2016 ..,6,16,3,12,3,4,ALTERNATE aTTaX,22,13,1.46 
+2016,05,07,20:45,ALTERNATEaTTaX,PENTA,dust2,ESL Meisterschaft Spring 2016 ..,16,8,10,5,6,3,ALTERNATE aTTaX,19,11,1.39 
+2016,03,25,15:45,Preparation,ALTERNATEaTTaX,cache,Copenhagen Games 2016,16,11,9,6,7,5,ALTERNATE aTTaX,12,17,0.72 
+2016,03,25,13:20,Fragsters,ALTERNATEaTTaX,inferno,Copenhagen Games 2016,4,16,4,11,0,5,ALTERNATE aTTaX,13,9,1.08 
+2016,03,25,12:00,ALTERNATEaTTaX,Preparation,cobblestone,Copenhagen Games 2016,8,16,4,11,4,5,ALTERNATE aTTaX,17,18,0.96 
+2016,02,28,20:00,ALTERNATEaTTaX,Preparation,cache,Pantamera CS:GO Challenge 2016,12,16,7,8,5,8,ALTERNATE aTTaX,25,22,1.11 
+2016,02,28,20:00,ALTERNATEaTTaX,Preparation,mirage,Pantamera CS:GO Challenge 2016,8,16,3,12,5,4,ALTERNATE aTTaX,21,17,1.21 
+2016,02,28,18:00,ALTERNATEaTTaX,Ancient,cobblestone,Pantamera CS:GO Challenge 2016,3,16,3,12,0,4,ALTERNATE aTTaX,14,16,0.96 
+2016,02,28,18:00,ALTERNATEaTTaX,Ancient,overpass,Pantamera CS:GO Challenge 2016,5,16,2,13,3,3,ALTERNATE aTTaX,10,18,0.54 
+2016,02,27,21:40,ALTERNATEaTTaX,Torpedo,cobblestone,Pantamera CS:GO Challenge 2016,16,13,5,10,11,3,ALTERNATE aTTaX,26,20,1.26 
+2016,02,27,20:10,ALTERNATEaTTaX,Orgless,cache,Pantamera CS:GO Challenge 2016,16,13,9,6,7,7,ALTERNATE aTTaX,14,19,0.72 
+2016,02,27,18:00,ALTERNATEaTTaX,AliGon,cache,Pantamera CS:GO Challenge 2016,16,9,6,9,10,0,ALTERNATE aTTaX,21,17,1.17 
+2016,02,13,19:30,ALTERNATEaTTaX,E-frag.net,dust2,Acer Predator Masters powered ..,4,16,4,11,0,5,ALTERNATE aTTaX,15,13,1.00 
+2016,02,13,19:30,ALTERNATEaTTaX,E-frag.net,cobblestone,Acer Predator Masters powered ..,14,16,7,8,7,8,ALTERNATE aTTaX,19,20,0.86 
+2016,02,13,15:30,ALTERNATEaTTaX,HellRaisers,cache,Acer Predator Masters powered ..,21,17,8,7,7,8,ALTERNATE aTTaX,23,28,0.80 
+2016,02,13,15:30,ALTERNATEaTTaX,HellRaisers,overpass,Acer Predator Masters powered ..,8,16,6,9,2,7,ALTERNATE aTTaX,16,18,0.93 
+2016,02,13,15:30,ALTERNATEaTTaX,HellRaisers,cobblestone,Acer Predator Masters powered ..,16,2,14,1,2,1,ALTERNATE aTTaX,12,9,1.00 
+2016,02,12,18:00,ALTERNATEaTTaX,LDLCWhite,mirage,Acer Predator Masters powered ..,16,10,11,4,5,6,ALTERNATE aTTaX,16,19,0.87 
+2016,02,12,18:00,ALTERNATEaTTaX,LDLCWhite,cobblestone,Acer Predator Masters powered ..,7,16,6,9,1,7,ALTERNATE aTTaX,11,19,0.64 
+2016,02,12,18:00,LDLCWhite,ALTERNATEaTTaX,cache,Acer Predator Masters powered ..,16,21,6,9,9,6,ALTERNATE aTTaX,21,22,0.85 
+2016,02,11,23:55,E-frag.net,ALTERNATEaTTaX,cache,Acer Predator Masters powered ..,16,8,11,4,5,4,ALTERNATE aTTaX,10,19,0.54 
+2016,02,11,23:55,ALTERNATEaTTaX,E-frag.net,cobblestone,Acer Predator Masters powered ..,7,16,6,9,1,7,ALTERNATE aTTaX,11,21,0.55 
+2015,12,05,19:50,KILLERFISH,PENTA,cache,ESL Meisterschaft Winter 2015 ..,10,16,8,7,2,9,KILLERFISH,16,18,0.88 
+2015,12,05,19:50,KILLERFISH,PENTA,cobblestone,ESL Meisterschaft Winter 2015 ..,8,16,8,7,0,9,KILLERFISH,18,18,1.10 
+2015,12,05,19:50,PENTA,KILLERFISH,dust2,ESL Meisterschaft Winter 2015 ..,17,19,10,5,5,10,KILLERFISH,19,23,0.91 
+2015,12,05,14:00,KILLERFISH,BLUEJAYS,cobblestone,ESL Meisterschaft Winter 2015 ..,16,8,12,3,4,5,KILLERFISH,18,18,1.02 
+2015,12,05,14:00,BLUEJAYS,KILLERFISH,cache,ESL Meisterschaft Winter 2015 ..,9,16,2,13,7,3,KILLERFISH,14,16,0.81 
+2015,05,02,17:30,PlayingDucks,KILLERFISH,mirage,ESL Frühlingsmeisterschaft 201..,12,16,7,8,5,8,Playing Ducks,17,22,0.81 
+2015,05,02,17:30,KILLERFISH,PlayingDucks,overpass,ESL Frühlingsmeisterschaft 201..,16,10,8,7,8,3,Playing Ducks,17,18,0.91 
+2015,04,04,12:00,Orbit,PlayingDucks,cache,Copenhagen Games 2015,16,10,9,6,7,4,Playing Ducks,21,16,1.21 
+2015,04,04,10:00,Publiclir.se,PlayingDucks,cache,Copenhagen Games 2015,11,16,8,7,3,9,Playing Ducks,26,18,1.31 
+2015,04,03,22:30,PlayingDucks,jQntefabrikkeN,mirage,Copenhagen Games 2015,16,6,11,4,5,2,Playing Ducks,14,15,0.98 
+2015,04,03,19:00,PlayingDucks,SpaceSoldiers,cache,Copenhagen Games 2015,7,16,6,9,1,7,Playing Ducks,13,18,0.73 
+2015,04,03,19:00,SpaceSoldiers,PlayingDucks,dust2,Copenhagen Games 2015,13,16,10,5,3,11,Playing Ducks,14,21,0.73 
+2015,04,03,19:00,SpaceSoldiers,PlayingDucks,cobblestone,Copenhagen Games 2015,16,13,12,3,4,10,Playing Ducks,18,20,0.97 
+2015,04,03,15:30,PlayingDucks,Property,cache,Copenhagen Games 2015,9,16,4,11,5,5,Playing Ducks,21,20,1.05 
+2015,04,03,15:30,PlayingDucks,Property,mirage,Copenhagen Games 2015,10,16,4,11,6,5,Playing Ducks,23,18,1.12 
+2015,04,03,12:00,PlayingDucks,SpaceSoldiers,mirage,Copenhagen Games 2015,16,3,12,3,4,0,Playing Ducks,15,10,1.20 
+2015,04,03,12:00,PlayingDucks,SpaceSoldiers,cache,Copenhagen Games 2015,16,14,10,5,6,9,Playing Ducks,16,21,0.79 
+2014,09,25,15:45,ALTERNATEaTTaX,Titan,cache,DreamHack Stockholm CS:GO Invi..,12,16,5,10,7,6,ALTERNATE aTTaX,12,17,0.74 
+2014,09,25,12:55,NiP,ALTERNATEaTTaX,inferno,DreamHack Stockholm CS:GO Invi..,16,8,10,5,6,3,ALTERNATE aTTaX,11,17,0.69 

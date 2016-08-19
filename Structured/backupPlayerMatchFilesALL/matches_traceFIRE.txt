@@ -1,0 +1,44 @@
+2016,08,05,06:00,AllGamers,LGD,cache,SL i-League S2 China Finals,16,12,9,6,7,6,LGD,20,21,1.05 
+2016,08,05,06:00,LGD,AllGamers,mirage,SL i-League S2 China Finals,7,16,4,11,3,5,LGD,22,17,1.37 
+2016,07,29,15:00,LGD,EHOME,overpass,SL i-League S2 China Qualifier,13,16,7,8,6,8,LGD,23,19,1.22 
+2016,07,29,15:00,EHOME,LGD,mirage,SL i-League S2 China Qualifier,16,2,13,2,3,0,LGD,5,18,0.26 
+2016,07,20,15:00,LGD,EDG,train,SL i-League S2 China Qualifier,16,8,9,6,7,2,LGD,14,13,0.93 
+2016,07,20,15:00,EDG,LGD,mirage,SL i-League S2 China Qualifier,16,19,6,9,9,6,LGD,30,26,1.12 
+2016,07,20,12:30,LGD,5Love.N4,cache,SL i-League S2 China Qualifier,16,9,8,7,8,2,LGD,28,15,1.61 
+2016,07,20,12:30,LGD,5Love.N4,mirage,SL i-League S2 China Qualifier,16,6,11,4,5,2,LGD,10,13,0.77 
+2016,07,07,08:00,VG.CyberZen,LGD,train,WCA Season 2 China Qualifier,16,2,13,2,3,0,LGD,7,16,0.48 
+2016,07,07,08:00,VG.CyberZen,LGD,cobblestone,WCA Season 2 China Qualifier,16,5,10,5,6,0,LGD,11,18,0.64 
+2016,06,19,10:10,LGD,MVPproject,mirage,H-Cup Season 2,13,16,3,12,10,4,LGD,16,20,0.81 
+2016,06,19,10:10,MVPproject,LGD,cache,H-Cup Season 2,16,7,11,4,5,3,LGD,6,20,0.32 
+2016,06,19,08:00,LGD,EHOME,cobblestone,WCA Season 2 China Qualifier,6,16,2,13,4,3,LGD,6,20,0.35 
+2016,06,19,08:00,LGD,EHOME,mirage,WCA Season 2 China Qualifier,16,7,11,4,5,3,LGD,16,12,1.10 
+2016,06,18,08:00,LGD,FIVE,overpass,WCA Season 2 China Qualifier,19,17,8,7,7,8,LGD,20,24,0.98 
+2016,06,18,08:00,FIVE,LGD,mirage,WCA Season 2 China Qualifier,12,16,10,5,2,11,LGD,33,19,1.58 
+2016,06,15,08:00,AllGamers,LGD,mirage,WCA Season 2 China Qualifier,14,16,7,8,7,8,LGD,16,21,0.83 
+2016,06,15,08:00,LGD,AllGamers,cache,WCA Season 2 China Qualifier,12,16,9,6,3,10,LGD,14,23,0.58 
+2016,05,27,11:00,TyLoo,LGD,cache,H-Cup Season 1,16,13,10,5,6,8,LGD,29,20,1.47 
+2016,05,27,11:00,LGD,TyLoo,mirage,H-Cup Season 1,4,16,4,11,0,5,LGD,17,17,1.09 
+2016,05,25,14:00,LGD,New4,cache,H-Cup Season 1,16,14,12,3,4,11,LGD,22,22,0.97 
+2016,05,25,14:00,New4,LGD,mirage,H-Cup Season 1,11,16,7,8,4,8,LGD,19,18,1.03 
+2016,04,23,16:15,LGD,BornOfFire,inferno,SL i-League Invitational China..,10,16,6,9,4,7,LGD,12,19,0.69 
+2016,04,23,16:15,BornOfFire,LGD,cobblestone,SL i-League Invitational China..,16,8,8,7,8,1,LGD,16,21,0.92 
+2016,04,21,15:05,LGD,MVP.karnal,cache,Rising Stars SEA Promotional C..,6,16,3,12,3,4,LGD,15,17,0.89 
+2016,04,21,11:05,nxl,LGD,mirage,Rising Stars SEA Promotional C..,16,9,9,6,7,3,LGD,18,20,0.86 
+2016,04,21,07:00,New4,LGD,mirage,SL i-League Invitational China..,10,16,9,6,1,10,LGD,18,19,0.95 
+2016,04,21,07:00,LGD,New4,cache,SL i-League Invitational China..,10,16,5,10,5,6,LGD,18,17,1.08 
+2016,04,21,07:00,New4,LGD,inferno,SL i-League Invitational China..,5,16,5,10,0,6,LGD,19,12,1.60 
+2016,04,14,15:25,AllGamers,LGD,inferno,SL i-League Invitational China..,11,16,6,9,5,7,LGD,24,15,1.26 
+2016,04,14,15:25,LGD,AllGamers,cache,SL i-League Invitational China..,16,9,7,8,9,1,LGD,15,16,0.91 
+2016,04,10,15:25,LGD,HG,mirage,SL i-League Invitational China..,16,7,12,3,4,4,LGD,17,11,1.12 
+2016,04,10,15:25,HG,LGD,inferno,SL i-League Invitational China..,19,17,5,10,10,5,LGD,21,26,0.91 
+2016,04,03,13:00,LGD,MVPproject,cobblestone,SL i-League Invitational China..,2,16,2,13,0,3,LGD,4,16,0.28 
+2016,04,03,13:00,LGD,MVPproject,cache,SL i-League Invitational China..,16,13,8,7,8,6,LGD,25,22,1.18 
+2015,12,19,06:00,GANK,AllGamers,overpass,SL i-League StarSeries XIV Chi..,10,16,6,9,4,7,GANK,18,21,0.85 
+2015,12,19,06:00,AllGamers,GANK,mirage,SL i-League StarSeries XIV Chi..,13,16,5,10,8,6,GANK,27,20,1.21 
+2015,12,19,06:00,GANK,AllGamers,cache,SL i-League StarSeries XIV Chi..,6,16,3,12,3,4,GANK,14,19,0.75 
+2015,12,18,06:30,Dictionary,GANK,dust2,SL i-League StarSeries XIV Chi..,4,16,4,11,0,5,GANK,23,13,1.57 
+2015,12,18,06:30,GANK,Dictionary,mirage,SL i-League StarSeries XIV Chi..,16,5,10,5,6,0,GANK,17,13,1.15 
+2015,12,17,08:30,GANK,AllGamers,mirage,SL i-League StarSeries XIV Chi..,10,16,7,8,3,8,GANK,14,19,0.71 
+2015,12,17,08:30,AllGamers,GANK,cache,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,GANK,13,16,0.86 
+2015,12,06,16:00,GANK,pow,cache,SL i-League StarSeries XIV,16,1,14,1,2,0,GANK,19,10,1.61 
+2015,12,06,16:00,GANK,pow,cobblestone,SL i-League StarSeries XIV,16,5,13,2,3,3,GANK,14,10,1.21 

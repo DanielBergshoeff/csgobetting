@@ -1,0 +1,13 @@
+2015,11,25,04:30,Noble,SKDC,inferno,SL i-League StarSeries XIV,8,16,6,9,2,7,Noble,11,20,0.64 
+2015,11,25,04:30,Noble,SKDC,mirage,SL i-League StarSeries XIV,7,16,3,12,4,4,Noble,16,17,0.97 
+2015,11,25,04:30,Noble,SKDC,overpass,SL i-League StarSeries XIV,22,18,7,8,8,7,Noble,37,29,1.26 
+2015,11,13,04:00,Noble,Winterfox,cobblestone,SL i-League StarSeries XIV,9,16,8,7,1,9,Noble,20,18,1.18 
+2015,11,13,04:00,Winterfox,Noble,cache,SL i-League StarSeries XIV,7,16,6,9,1,7,Noble,16,13,1.09 
+2015,11,13,04:00,Winterfox,Noble,dust2,SL i-League StarSeries XIV,16,10,9,6,7,4,Noble,16,20,0.81 
+2015,11,05,04:00,compLexity,Noble,cache,SL i-League StarSeries XIV,19,16,8,7,7,8,Noble,25,27,0.93 
+2015,11,05,04:00,compLexity,Noble,cobblestone,SL i-League StarSeries XIV,16,12,7,8,9,4,Noble,16,22,0.76 
+2015,08,01,22:15,TempoStorm,Noble,cache,ESL One Cologne 2015 NA Qualif..,16,10,10,5,6,5,Noble,18,20,0.86 
+2015,08,01,19:00,Noble,Cloud9,cobblestone,ESL One Cologne 2015 NA Qualif..,2,16,2,13,0,3,Noble,5,17,0.31 
+2015,05,16,02:30,NobleHonor,ACE,dust2,CS Select #12,7,16,5,10,2,6,Noble Honor,6,20,0.32 
+2015,05,16,02:30,NobleHonor,ACE,cache,CS Select #12,14,16,7,8,7,8,Noble Honor,15,26,0.58 
+2015,05,16,02:30,ACE,NobleHonor,inferno,CS Select #12,16,3,12,3,4,0,Noble Honor,8,16,0.54 

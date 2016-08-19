@@ -1,0 +1,122 @@
+2016,07,11,16:00,LDLC,PRIDE,overpass,Hitbox Challenger Cup #2,15,19,7,8,8,7,LDLC,23,26,0.88 
+2016,07,11,16:00,LDLC,PRIDE,cache,Hitbox Challenger Cup #2,4,16,4,11,0,5,LDLC,10,19,0.49 
+2016,07,11,16:00,LDLC,PRIDE,train,Hitbox Challenger Cup #2,16,13,13,2,3,11,LDLC,18,23,0.83 
+2016,07,02,16:45,LDLC,Millenium,cobblestone,ESL National Championship Fran..,16,9,9,6,7,3,LDLC,18,14,1.12 
+2016,07,02,16:45,LDLC,Millenium,cache,ESL National Championship Fran..,16,14,4,11,12,3,LDLC,18,25,0.73 
+2016,07,02,11:15,WEGOTGAME,LDLC,dust2,ESL National Championship Fran..,10,16,4,11,6,5,LDLC,10,19,0.59 
+2016,07,02,11:15,LDLC,WEGOTGAME,cache,ESL National Championship Fran..,16,12,4,11,12,1,LDLC,14,23,0.63 
+2016,06,28,17:15,PENTA,LDLC,inferno,Operation: Kinguin #3,16,7,8,7,8,0,LDLC,6,21,0.31 
+2016,06,28,17:15,PENTA,LDLC,dust2,Operation: Kinguin #3,13,16,7,8,6,8,LDLC,19,15,1.22 
+2016,06,28,17:15,LDLC,PENTA,cache,Operation: Kinguin #3,14,16,7,8,7,8,LDLC,26,24,1.10 
+2016,06,27,22:30,Spirit,LDLC,overpass,Hitbox Challenger Cup #2,19,17,9,6,6,9,LDLC,18,28,0.63 
+2016,06,27,22:30,LDLC,Spirit,train,Hitbox Challenger Cup #2,16,8,12,3,4,5,LDLC,18,14,1.14 
+2016,06,27,22:30,Spirit,LDLC,cache,Hitbox Challenger Cup #2,16,12,8,7,8,5,LDLC,9,22,0.51 
+2016,06,14,20:30,LDLC,eSuba,nuke,Razer Rising Stars European Le..,16,8,10,5,6,3,LDLC,11,16,0.70 
+2016,06,14,20:30,LDLC,eSuba,dust2,Razer Rising Stars European Le..,16,2,13,2,3,0,LDLC,12,11,1.00 
+2016,06,14,18:15,Kinguin,LDLC,cache,Razer Rising Stars European Le..,16,10,8,7,8,3,LDLC,19,19,0.94 
+2016,06,14,18:15,LDLC,Kinguin,overpass,Razer Rising Stars European Le..,11,16,6,9,5,7,LDLC,12,23,0.56 
+2016,06,14,16:00,LDLC,Bpro,cache,Razer Rising Stars European Le..,7,16,4,11,3,5,LDLC,15,17,0.86 
+2016,06,14,16:00,Bpro,LDLC,cobblestone,Razer Rising Stars European Le..,8,16,7,8,1,8,LDLC,18,17,1.11 
+2016,06,08,17:15,LDLC,Phenomenon,cache,Operation: Kinguin #3,10,16,4,11,6,5,LDLC,17,22,0.81 
+2016,06,08,17:15,LDLC,Phenomenon,dust2,Operation: Kinguin #3,9,16,6,9,3,7,LDLC,17,20,0.92 
+2016,06,07,20:00,LDLC,ex-CPHWolves,overpass,Razer Rising Stars European Le..,10,16,6,9,4,7,LDLC,15,19,0.79 
+2016,06,07,20:00,LDLC,ex-CPHWolves,dust2,Razer Rising Stars European Le..,18,22,6,9,9,6,LDLC,23,23,0.90 
+2016,06,07,16:00,PRIDE,LDLC,overpass,Razer Rising Stars European Le..,9,16,6,9,3,7,LDLC,19,18,0.98 
+2016,06,07,16:00,LDLC,PRIDE,nuke,Razer Rising Stars European Le..,14,16,4,11,10,5,LDLC,22,21,1.03 
+2016,06,04,18:15,LDLC,CPHWolves,overpass,DreamHack ZOWIE Open Summer 20..,5,16,4,11,1,5,LDLC,9,19,0.55 
+2016,06,01,17:30,LDLC,eSuba,cache,Operation: Kinguin #3,16,12,10,5,6,7,LDLC,23,16,1.28 
+2016,06,01,17:30,LDLC,eSuba,cobblestone,Operation: Kinguin #3,16,13,12,3,4,10,LDLC,18,19,0.92 
+2016,05,31,20:15,LDLC,Orbit,overpass,Razer Rising Stars European Le..,9,16,8,7,1,9,LDLC,20,19,1.17 
+2016,05,31,20:15,LDLC,Orbit,dust2,Razer Rising Stars European Le..,16,4,12,3,4,1,LDLC,20,11,1.52 
+2016,05,29,12:15,PENTA,LDLC,nuke,DreamHack ZOWIE Open Summer 20..,19,17,6,9,9,6,LDLC,30,30,0.99 
+2016,05,29,12:15,PENTA,LDLC,dust2,DreamHack ZOWIE Open Summer 20..,6,16,4,11,2,5,LDLC,22,11,1.59 
+2016,05,29,12:15,LDLC,PENTA,cache,DreamHack ZOWIE Open Summer 20..,14,16,7,8,7,8,LDLC,22,19,1.11 
+2016,05,28,19:00,LDLC,Millenium,dust2,DreamHack ZOWIE Open Summer 20..,16,11,6,9,10,2,LDLC,18,17,1.01 
+2016,05,24,22:00,Escape,LDLC,overpass,Razer Rising Stars European Le..,16,6,10,5,6,1,LDLC,11,18,0.62 
+2016,05,24,22:00,Escape,LDLC,dust2,Razer Rising Stars European Le..,13,16,3,12,10,4,LDLC,13,19,0.68 
+2016,05,19,20:00,AGG,LDLC,train,Razer Rising Stars European Le..,16,2,13,2,3,0,LDLC,2,18,0.09 
+2016,05,19,20:00,LDLC,AGG,overpass,Razer Rising Stars European Le..,17,19,7,8,8,7,LDLC,23,28,0.86 
+2016,05,19,17:00,LDLC,k1ck,cache,Operation: Kinguin #3,16,1,14,1,2,0,LDLC,17,8,1.47 
+2016,05,19,17:00,LDLC,k1ck,dust2,Operation: Kinguin #3,16,2,13,2,3,0,LDLC,14,9,1.22 
+2016,05,17,20:00,ALTERNATEaTTaX,LDLC,dust2,Razer Rising Stars European Le..,9,16,3,12,6,4,LDLC,20,17,1.16 
+2016,05,17,20:00,ALTERNATEaTTaX,LDLC,cache,Razer Rising Stars European Le..,12,16,10,5,2,11,LDLC,15,20,0.78 
+2016,05,09,17:00,Tricked,LDLC,dust2,Operation: Kinguin #3,9,16,6,9,3,7,LDLC,9,14,0.73 
+2016,05,09,17:00,LDLC,Tricked,cache,Operation: Kinguin #3,16,9,11,4,5,5,LDLC,16,19,0.87 
+2016,03,28,10:00,LDLCBlue,Millenium,inferno,Gamers Assembly 2016,12,16,12,3,0,13,LDLC Blue,20,21,1.03 
+2016,03,27,19:15,LDLCBlue,DeadPixels,cobblestone,Gamers Assembly 2016,16,5,13,2,3,3,LDLC Blue,16,11,1.19 
+2016,03,27,14:00,LDLCBlue,Millenium,dust2,Gamers Assembly 2016,14,16,6,9,8,7,LDLC Blue,20,25,0.87 
+2016,03,27,14:00,LDLCBlue,Millenium,overpass,Gamers Assembly 2016,10,16,3,12,7,4,LDLC Blue,15,19,0.75 
+2016,03,23,21:30,YP,LDLCBlue,dust2,SL I-League Invitational #1 EU..,16,12,9,6,7,6,LDLC Blue,15,21,0.78 
+2016,03,23,21:30,YP,LDLCBlue,cobblestone,SL I-League Invitational #1 EU..,16,7,8,7,8,0,LDLC Blue,13,20,0.63 
+2016,03,23,21:30,YP,LDLCBlue,overpass,SL I-League Invitational #1 EU..,10,16,6,9,4,7,LDLC Blue,21,15,1.15 
+2016,03,23,20:00,CPHWolves,LDLCBlue,inferno,SL I-League Invitational #1 EU..,10,16,6,9,4,7,LDLC Blue,17,16,1.04 
+2016,03,21,19:00,LDLCBlue,SK,train,Operation: Kinguin #2,3,16,3,12,0,4,LDLC Blue,9,19,0.46 
+2016,03,21,19:00,SK,LDLCBlue,dust2,Operation: Kinguin #2,14,16,5,10,9,6,LDLC Blue,28,21,1.49 
+2016,03,21,19:00,SK,LDLCBlue,cobblestone,Operation: Kinguin #2,16,1,14,1,2,0,LDLC Blue,5,17,0.28 
+2016,03,19,18:45,LDLCBlue,HellRaisers,inferno,DreamHack Masters Malmö 2016 E..,7,16,3,12,4,4,LDLC Blue,5,17,0.42 
+2016,03,16,19:00,LDLCBlue,GameAgents,inferno,Operation: Kinguin #2,16,10,9,6,7,4,LDLC Blue,25,14,1.69 
+2016,03,16,19:00,GameAgents,LDLCBlue,train,Operation: Kinguin #2,5,16,4,11,1,5,LDLC Blue,21,14,1.60 
+2016,03,14,23:30,Platinium,LDLCBlue,dust2,UnderDogs #2,14,16,6,9,8,7,LDLC Blue,22,23,0.94 
+2016,03,14,23:30,LDLCBlue,Platinium,train,UnderDogs #2,16,13,12,3,4,10,LDLC Blue,22,23,1.14 
+2016,03,14,23:30,LDLCBlue,Platinium,inferno,UnderDogs #2,19,22,12,3,3,12,LDLC Blue,28,28,0.97 
+2016,03,12,17:45,c5,LDLCBlue,inferno,DreamHack Masters Malmö 2016 E..,16,7,11,4,5,3,LDLC Blue,9,19,0.54 
+2016,03,07,21:00,DeadPixels,LDLCBlue,overpass,UnderDogs #2,14,16,13,2,1,14,LDLC Blue,23,21,1.08 
+2016,03,07,21:00,LDLCBlue,DeadPixels,cobblestone,UnderDogs #2,16,10,9,6,7,4,LDLC Blue,12,14,0.81 
+2016,03,07,21:00,DeadPixels,LDLCBlue,dust2,UnderDogs #2,16,12,5,10,11,2,LDLC Blue,24,24,1.06 
+2016,02,29,19:00,EpiphanyBolt,LDLCBlue,dust2,Operation: Kinguin #2,3,16,3,12,0,4,LDLC Blue,25,11,1.78 
+2016,02,29,19:00,EpiphanyBolt,LDLCBlue,inferno,Operation: Kinguin #2,11,16,6,9,5,7,LDLC Blue,19,19,1.09 
+2016,02,29,19:00,EpiphanyBolt,LDLCBlue,cobblestone,Operation: Kinguin #2,16,6,9,6,7,0,LDLC Blue,15,19,0.84 
+2016,02,06,13:00,LDLCWhite,LDLCBlue,mirage,Assembly Winter 2016,16,9,9,6,7,3,LDLC Blue,12,22,0.52 
+2016,02,06,13:00,LDLCBlue,LDLCWhite,cobblestone,Assembly Winter 2016,2,16,2,13,0,3,LDLC Blue,7,16,0.42 
+2016,02,05,12:55,LDLCBlue,RCTIC,train,Assembly Winter 2016,16,14,9,6,7,8,LDLC Blue,22,23,1.04 
+2016,02,05,11:45,CPHWolves,LDLCBlue,overpass,Assembly Winter 2016,13,16,6,9,7,7,LDLC Blue,32,17,1.68 
+2016,01,31,18:00,Revival,LDLCBlue,train,Rising Stars Europe #1,16,9,10,5,6,4,LDLC Blue,16,17,0.94 
+2016,01,31,18:00,LDLCBlue,Revival,mirage,Rising Stars Europe #1,9,16,3,12,6,4,LDLC Blue,13,23,0.52 
+2016,01,12,22:00,LDLCBlue,CG,mirage,D!ngIT $2000 Weekly Cup #33,10,16,9,6,1,10,LDLC Blue,16,20,0.84 
+2016,01,12,18:30,Quest,LDLCBlue,train,D!ngIT $2000 Weekly Cup #33,2,16,2,13,0,3,LDLC Blue,17,11,1.43 
+2016,01,11,21:00,LDLCBlue,CG,overpass,D!ngIT $2000 Weekly Cup #33,6,16,5,10,1,6,LDLC Blue,12,19,0.67 
+2016,01,11,21:00,LDLCBlue,CG,dust2,D!ngIT $2000 Weekly Cup #33,4,16,4,11,0,5,LDLC Blue,8,17,0.49 
+2016,01,11,21:00,LDLCBlue,CG,cobblestone,D!ngIT $2000 Weekly Cup #33,16,12,9,6,7,6,LDLC Blue,22,20,1.06 
+2015,12,09,18:00,LDLCBlue,E-frag.net,dust2,99Damage Arena #17,5,16,5,10,0,6,LDLC Blue,9,16,0.66 
+2015,12,09,18:00,LDLCBlue,E-frag.net,cobblestone,99Damage Arena #17,12,16,4,11,8,5,LDLC Blue,15,21,0.69 
+2015,12,08,19:00,EYESONU,LDLCBlue,overpass,99Damage Arena #17,14,16,10,5,4,11,LDLC Blue,19,19,1.00 
+2015,12,08,19:00,LDLCBlue,EYESONU,mirage,99Damage Arena #17,2,16,2,13,0,3,LDLC Blue,7,14,0.54 
+2015,12,08,19:00,LDLCBlue,EYESONU,cobblestone,99Damage Arena #17,16,2,13,2,3,0,LDLC Blue,23,7,1.95 
+2015,12,03,21:20,Titan,EnVyUs,cache,SL i-League StarSeries XIV,8,16,5,10,3,6,EnVyUs,2,3,0.66 
+2015,12,03,20:00,LDLCBlue,OnlineBOTS,mirage,QuickShot Arena #17,7,16,7,8,0,8,LDLC Blue,13,19,0.74 
+2015,12,03,18:15,BX3,LDLCBlue,mirage,QuickShot Arena #17,22,19,5,10,10,5,LDLC Blue,43,28,1.45 
+2015,11,15,22:50,LDLCBlue,PENTA,dust2,Red Dot Closed Qualifier,11,16,6,9,5,7,LDLC Blue,13,22,0.62 
+2015,11,09,19:15,LDLCWhite,LDLCBlue,cobblestone,UnderDogs #1,16,8,11,4,5,4,LDLC Blue,18,21,0.95 
+2015,11,09,19:15,LDLCBlue,LDLCWhite,dust2,UnderDogs #1,10,16,9,6,1,10,LDLC Blue,14,22,0.64 
+2015,11,09,19:15,LDLCWhite,LDLCBlue,overpass,UnderDogs #1,13,16,12,3,1,13,LDLC Blue,22,18,1.14 
+2015,11,09,19:15,LDLCBlue,LDLCWhite,inferno,UnderDogs #1,25,28,6,9,9,6,LDLC Blue,49,38,1.30 
+2015,11,09,19:15,LDLCWhite,LDLCBlue,mirage,UnderDogs #1,16,19,5,10,10,5,LDLC Blue,34,24,1.32 
+2015,10,19,21:00,Platinium,LDLCBlue,mirage,UnderDogs #1,8,16,4,11,4,5,LDLC Blue,16,18,0.86 
+2015,10,19,21:00,Platinium,LDLCBlue,dust2,UnderDogs #1,16,11,10,5,6,6,LDLC Blue,18,21,0.93 
+2015,10,19,21:00,LDLCBlue,Platinium,inferno,UnderDogs #1,16,6,12,3,4,3,LDLC Blue,22,12,1.44 
+2015,09,28,19:30,RedInstinct,LDLCBlue,dust2,UnderDogs #1,5,16,2,13,3,3,LDLC Blue,20,11,1.43 
+2015,09,28,19:30,RedInstinct,LDLCBlue,cobblestone,UnderDogs #1,13,16,4,11,9,5,LDLC Blue,25,21,1.17 
+2015,09,16,21:30,France,Netherlands,cobblestone,World Championships 2015 Europ..,16,10,7,8,9,2,France,16,19,0.85 
+2015,09,16,19:30,TS-Netteux,LDLCBlue,mirage,LevelDown Championship,16,13,10,5,6,8,LDLC Blue,24,19,1.17 
+2015,09,13,15:00,LDLCBlue,Reason,cobblestone,DreamHack Open Cluj-Napoca 201..,5,16,3,12,2,4,LDLC Blue,20,16,1.40 
+2015,09,13,15:00,Reason,LDLCBlue,dust2,DreamHack Open Cluj-Napoca 201..,16,10,9,6,7,4,LDLC Blue,15,20,0.76 
+2015,09,13,12:00,PENTA,LDLCBlue,dust2,DreamHack Open Cluj-Napoca 201..,8,16,3,12,5,4,LDLC Blue,29,14,1.76 
+2015,09,13,12:00,LDLCBlue,PENTA,inferno,DreamHack Open Cluj-Napoca 201..,16,1,14,1,2,0,LDLC Blue,24,8,2.12 
+2015,09,13,12:00,LDLCBlue,PENTA,mirage,DreamHack Open Cluj-Napoca 201..,9,16,8,7,1,9,LDLC Blue,13,20,0.71 
+2015,09,12,19:30,LDLCBlue,VegaSquadron,dust2,DreamHack Open Cluj-Napoca 201..,16,4,12,3,4,1,LDLC Blue,18,13,1.41 
+2015,05,27,20:00,ENCORE,LDLCBlue,dust2,RGN Pro Series EU,11,16,5,10,6,6,LDLC Blue,20,18,1.04 
+2015,05,23,18:00,Epsilon,LDLCBlue,train,D!ngIT $2000 Weekly Cup #1,16,4,12,3,4,1,LDLC Blue,13,17,0.81 
+2015,05,23,16:00,LDLCBlue,ESC,train,D!ngIT $2000 Weekly Cup #1,16,19,5,10,10,5,LDLC Blue,29,28,1.10 
+2015,05,23,16:00,ESC,LDLCBlue,inferno,D!ngIT $2000 Weekly Cup #1,16,3,12,3,4,0,LDLC Blue,11,18,0.59 
+2015,05,22,21:00,KILLERFISH,LDLCBlue,dust2,D!ngIT $2000 Weekly Cup #1,10,16,3,12,7,4,LDLC Blue,20,19,0.97 
+2015,05,22,21:00,KILLERFISH,LDLCBlue,cobblestone,D!ngIT $2000 Weekly Cup #1,8,16,5,10,3,6,LDLC Blue,19,18,1.08 
+2015,05,22,21:00,KILLERFISH,LDLCBlue,cache,D!ngIT $2000 Weekly Cup #1,16,5,10,5,6,0,LDLC Blue,13,19,0.73 
+2015,05,21,22:00,Epsilon,LDLCBlue,dust2,RGN Pro Series EU,13,16,10,5,3,11,LDLC Blue,21,20,1.08 
+2015,05,18,20:00,LDLCBlue,dignitas,inferno,RGN Pro Series EU,13,16,6,9,7,7,LDLC Blue,25,20,1.23 
+2015,05,14,23:00,LDLCWhite,LDLCBlue,inferno,RGN Pro Series EU Closed Quali..,16,5,11,4,5,1,LDLC Blue,16,19,0.85 
+2015,05,09,00:00,Awsomniac,LDLCBlue,overpass,DreamHack Open Tours 2015 BYOC..,16,13,9,6,7,7,LDLC Blue,19,21,0.95 
+2015,05,08,20:30,LDLCBlue,LDLCWhite,cobblestone,DreamHack Open Tours 2015 BYOC..,8,16,7,8,1,8,LDLC Blue,11,20,0.54 
+2015,05,08,19:35,Awsomniac,LDLCBlue,dust2,DreamHack Open Tours 2015 BYOC..,12,16,4,11,8,5,LDLC Blue,24,23,1.11 
+2015,05,04,22:00,CPLAY,LDLCBlue,cobblestone,RGN Pro Series EU Closed Quali..,13,16,8,7,5,9,LDLC Blue,23,20,1.18 
+2014,11,24,00:20,Orbit,GGL,dust2,Go4CS:GO Cup #122,16,5,11,4,5,1,GGL,13,19,0.65 
+2014,11,24,00:20,GGL,Orbit,inferno,Go4CS:GO Cup #122,17,19,11,4,4,11,GGL,25,27,0.86 

@@ -1,0 +1,20 @@
+2016,08,06,09:45,TyLoo,AllGamers,train,SL i-League S2 China Finals,16,7,10,5,6,2,AllGamers,13,19,0.79 
+2016,08,06,09:45,AllGamers,TyLoo,cache,SL i-League S2 China Finals,5,16,5,10,0,6,AllGamers,11,20,0.53 
+2016,08,05,06:00,AllGamers,LGD,cache,SL i-League S2 China Finals,16,12,9,6,7,6,AllGamers,22,22,1.02 
+2016,08,05,06:00,LGD,AllGamers,mirage,SL i-League S2 China Finals,7,16,4,11,3,5,AllGamers,11,16,0.75 
+2016,07,28,15:25,Nface,AllGamers,mirage,SL i-League S2 China Qualifier,8,16,5,10,3,6,AllGamers,17,17,0.97 
+2016,07,28,15:25,AllGamers,Nface,cache,SL i-League S2 China Qualifier,16,9,8,7,8,2,AllGamers,15,13,0.99 
+2016,07,27,15:00,AllGamers,B.O.O.T,cobblestone,SL i-League S2 China Qualifier,16,12,6,9,10,3,AllGamers,16,22,0.74 
+2016,07,27,15:00,B.O.O.T,AllGamers,cache,SL i-League S2 China Qualifier,14,16,8,7,6,9,AllGamers,17,23,0.76 
+2016,07,27,12:15,EP,AllGamers,cobblestone,SL i-League S2 China Qualifier,12,16,6,9,6,7,AllGamers,12,21,0.62 
+2016,07,27,12:15,EP,AllGamers,mirage,SL i-League S2 China Qualifier,16,11,8,7,8,4,AllGamers,6,19,0.45 
+2016,07,27,12:15,EP,AllGamers,cache,SL i-League S2 China Qualifier,5,16,4,11,1,5,AllGamers,20,11,1.43 
+2016,06,19,11:00,FIVE,AllGamers,mirage,WCA Season 2 China Qualifier,22,18,9,6,6,9,AllGamers,16,30,0.64 
+2016,06,19,11:00,AllGamers,FIVE,cache,WCA Season 2 China Qualifier,16,7,10,5,6,2,AllGamers,12,13,0.92 
+2016,06,17,11:00,EHOME,AllGamers,train,WCA Season 2 China Qualifier,16,4,11,4,5,0,AllGamers,11,17,0.61 
+2016,06,17,11:00,EHOME,AllGamers,cobblestone,WCA Season 2 China Qualifier,16,9,10,5,6,4,AllGamers,21,21,1.04 
+2016,06,15,08:00,AllGamers,LGD,mirage,WCA Season 2 China Qualifier,14,16,7,8,7,8,AllGamers,16,23,0.75 
+2016,06,15,08:00,LGD,AllGamers,cache,WCA Season 2 China Qualifier,12,16,9,6,3,10,AllGamers,16,20,0.81 
+2016,05,26,12:15,AllGamers,FIVE,cache,H-Cup Season 1,4,16,3,12,1,4,AllGamers,7,18,0.40 
+2016,05,26,12:15,FIVE,AllGamers,mirage,H-Cup Season 1,16,8,11,4,5,4,AllGamers,12,19,0.64 
+2016,04,23,16:20,TyLoo,eFuture.BJ,overpass,Pro Gamers League 2016 Spring,16,9,11,4,5,5,eFuture.BJ,14,20,0.79 

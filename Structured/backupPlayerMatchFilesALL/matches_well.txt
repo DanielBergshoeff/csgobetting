@@ -1,0 +1,5 @@
+2015,09,01,18:00,Pries,dope,cobblestone,Rising Tornado #4,19,17,8,7,7,8,dope,23,24,1.00 
+2015,09,01,18:00,Pries,dope,dust2,Rising Tornado #4,16,6,14,1,2,5,dope,12,18,0.63 
+2015,08,29,14:00,dope,ACG,mirage,Rising Tornado #4,19,17,8,7,7,8,dope,31,21,1.41 
+2015,08,29,14:00,dope,ACG,cache,Rising Tornado #4,12,16,6,9,6,7,dope,15,23,0.68 
+2015,08,29,14:00,dope,ACG,dust2,Rising Tornado #4,16,14,7,8,9,6,dope,13,22,0.66 

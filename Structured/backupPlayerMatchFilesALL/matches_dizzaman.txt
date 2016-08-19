@@ -1,0 +1,3 @@
+2014,08,29,20:00,Ireland,Portugal,mirage,European Championship 2014 Qua..,9,16,3,12,6,4,Ireland,13,20,0.62 
+2014,08,29,20:00,Portugal,Ireland,nuke,European Championship 2014 Qua..,16,19,9,6,6,9,Ireland,23,25,0.88 
+2014,08,29,20:00,Ireland,Portugal,inferno,European Championship 2014 Qua..,10,16,6,9,4,7,Ireland,11,18,0.65 

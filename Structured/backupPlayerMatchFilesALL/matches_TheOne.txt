@@ -1,0 +1,6 @@
+2016,05,14,16:15,cooL,neXtPlease!,mirage,PC Garage Clutch Masters by St..,2,16,2,13,0,3,cooL,9,17,0.50 
+2016,05,14,15:00,cooL,XPC,cache,PC Garage Clutch Masters by St..,9,16,4,11,5,5,cooL,13,19,0.75 
+2016,05,14,10:00,IGG,cooL,train,PC Garage Clutch Masters by St..,9,16,5,10,4,6,cooL,20,12,1.26 
+2016,02,23,23:00,aZ,iNation,mirage,Balkan Challenge #1,2,16,2,13,0,3,aZ,12,17,0.76 
+2016,02,23,21:00,aZ,ENRAGE,mirage,Balkan Challenge #1,16,13,7,8,9,5,aZ,12,23,0.55 
+2016,02,23,19:00,iNation,aZ,cache,Balkan Challenge #1,16,14,10,5,6,9,aZ,19,20,0.96 

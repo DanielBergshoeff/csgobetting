@@ -1,0 +1,38 @@
+2015,12,07,22:00,EZskins.com,LondonC,inferno,Acer Predator Masters powered ..,16,12,10,5,6,7,EZskins.com,17,17,0.93 
+2015,12,07,22:00,LondonC,EZskins.com,overpass,Acer Predator Masters powered ..,16,3,13,2,3,1,EZskins.com,4,17,0.26 
+2015,11,21,18:00,Infused,EZskins.com,overpass,Gfinity CS:GO UK Championship ..,3,16,3,12,0,4,EZskins.com,12,11,0.96 
+2015,11,21,18:00,EZskins.com,Infused,inferno,Gfinity CS:GO UK Championship ..,16,7,11,4,5,3,EZskins.com,17,10,1.20 
+2015,11,21,18:00,EZskins.com,Infused,mirage,Gfinity CS:GO UK Championship ..,16,8,10,5,6,3,EZskins.com,19,17,1.04 
+2015,11,21,18:00,Infused,EZskins.com,cache,Gfinity CS:GO UK Championship ..,16,7,10,5,6,2,EZskins.com,11,16,0.72 
+2015,11,21,18:00,Infused,EZskins.com,train,Gfinity CS:GO UK Championship ..,16,14,9,6,7,8,EZskins.com,22,20,1.06 
+2015,11,12,22:15,PENTA,EZskins.com,cache,Acer Predator Masters powered ..,16,7,9,6,7,1,EZskins.com,16,21,0.78 
+2015,11,12,22:15,PENTA,EZskins.com,mirage,Acer Predator Masters powered ..,16,6,12,3,4,3,EZskins.com,10,20,0.51 
+2015,11,04,20:00,EZskins.com,E-frag.net,mirage,Acer Predator Masters powered ..,13,16,9,6,4,10,EZskins.com,15,21,0.70 
+2015,11,04,20:00,E-frag.net,EZskins.com,dust2,Acer Predator Masters powered ..,16,4,12,3,4,1,EZskins.com,11,16,0.71 
+2015,06,25,21:45,Planetkey,Infused,cobblestone,D!ngIT $2000 Weekly Cup #6,8,16,7,8,1,8,Infused,24,12,1.56 
+2015,06,25,21:45,Planetkey,Infused,dust2,D!ngIT $2000 Weekly Cup #6,5,16,4,11,1,5,Infused,20,10,1.58 
+2015,04,27,23:00,fm-eSports,Infused,nuke,ESL UK Premiership Season 1,14,16,9,6,5,10,Infused,26,18,1.19 
+2015,04,27,23:00,fm-eSports,Infused,dust2,ESL UK Premiership Season 1,16,11,9,6,7,5,Infused,22,17,1.31 
+2015,04,27,23:00,fm-eSports,Infused,mirage,ESL UK Premiership Season 1,9,16,6,9,3,7,Infused,25,13,1.46 
+2015,04,27,20:00,Infused,GLG,nuke,ESL UK Premiership Season 1,16,4,12,3,4,1,Infused,14,13,0.99 
+2015,04,27,20:00,Infused,GLG,dust2,ESL UK Premiership Season 1,16,14,5,10,11,4,Infused,19,17,0.98 
+2015,04,27,20:00,GLG,Infused,cache,ESL UK Premiership Season 1,16,14,9,6,7,8,Infused,20,17,1.01 
+2015,03,21,16:00,Orbit,Infused,inferno,Gfinity 2015 Spring Masters 1,16,9,11,4,5,5,Infused,14,19,0.73 
+2015,03,21,16:00,Infused,Orbit,cache,Gfinity 2015 Spring Masters 1,7,16,4,11,3,5,Infused,11,19,0.57 
+2015,03,20,20:00,Infused,Virtus.pro,inferno,Gfinity 2015 Spring Masters 1,10,16,7,8,3,8,Infused,14,18,0.75 
+2015,03,20,20:00,Virtus.pro,Infused,cache,Gfinity 2015 Spring Masters 1,16,10,7,8,9,2,Infused,17,23,0.77 
+2014,09,28,23:14,TheLoneRangers,Virtus.pro,cache,SLTV StarSeries XI,5,16,4,11,1,5,The Lone Rangers,10,18,0.54 
+2014,09,27,20:25,Epsilon,TheLoneRangers,cache,SLTV StarSeries XI,15,15,7,8,8,7,The Lone Rangers,20,21,0.92 
+2014,09,26,14:00,HellRaisers,TheLoneRangers,dust2,SLTV StarSeries XI,16,3,13,2,3,1,The Lone Rangers,9,18,0.44 
+2014,09,23,23:20,NiP,TheLoneRangers,cache,SLTV StarSeries XI,16,3,13,2,3,1,The Lone Rangers,8,17,0.53 
+2014,09,23,22:20,TheLoneRangers,A-Gaming,cache,SLTV StarSeries XI,16,7,11,4,5,3,The Lone Rangers,22,14,1.47 
+2014,09,19,23:29,Orbit,TheLoneRangers,dust2,SLTV StarSeries XI,8,16,7,8,1,8,The Lone Rangers,17,19,0.86 
+2014,09,19,19:09,TheLoneRangers,myXMG,dust2,SLTV StarSeries XI,8,16,3,12,5,4,The Lone Rangers,13,19,0.74 
+2014,09,16,22:00,LDLC,TheLoneRangers,dust2,SLTV StarSeries XI,16,4,11,4,5,0,The Lone Rangers,8,16,0.50 
+2014,08,26,21:30,UnitedKingdom,Malta,mirage,European Championship 2014 Qua..,16,0,15,0,1,0,United Kingdom,16,5,1.69 
+2014,08,26,21:30,Malta,UnitedKingdom,dust2,European Championship 2014 Qua..,2,16,2,13,0,3,United Kingdom,16,4,1.57 
+2014,08,02,23:45,fnatic,Infused,inferno,Gfinity 3,16,12,13,2,3,10,Infused,14,22,0.65 
+2014,08,02,21:45,Infused,Epsilon,inferno,Gfinity 3,7,16,6,9,1,7,Infused,20,17,1.19 
+2014,08,02,18:30,iBUYPOWER,Infused,inferno,Gfinity 3,15,15,10,5,5,10,Infused,22,16,1.26 
+2014,08,02,17:25,Infused,NiP,cache,Gfinity 3,12,16,5,10,7,6,Infused,23,20,1.10 
+2014,08,02,12:30,LondonC,Infused,inferno,Gfinity 3,16,6,12,3,4,3,Infused,12,17,0.90 

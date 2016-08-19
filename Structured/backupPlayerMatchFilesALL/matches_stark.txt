@@ -1,0 +1,82 @@
+2016,02,07,10:00,nEophyte,ezkatka,cache,Płońsk eSports Chall..,16,12,7,8,9,4,ezkatka,22,21,1.05 
+2016,02,07,10:00,nEophyte,ezkatka,dust2,Płońsk eSports Chall..,16,3,13,2,3,1,ezkatka,9,17,0.57 
+2016,01,05,22:00,ezkatka,nEophyte,cache,D!ngIT $2000 Weekly Cup #32,7,16,5,10,2,6,ezkatka,15,19,0.76 
+2016,01,05,19:30,ezkatka,YP,cache,D!ngIT $2000 Weekly Cup #32,6,16,5,10,1,6,ezkatka,12,17,0.77 
+2015,12,06,16:00,GANK,pow,cache,SL i-League StarSeries XIV,16,1,14,1,2,0,pow,6,17,0.29 
+2015,12,06,16:00,GANK,pow,cobblestone,SL i-League StarSeries XIV,16,5,13,2,3,3,pow,12,17,0.77 
+2015,12,06,13:40,BOW,pow,mirage,Fulcrum Gamers League,5,16,2,13,3,3,pow,23,10,1.65 
+2015,12,06,13:40,pow,BOW,dust2,Fulcrum Gamers League,16,8,10,5,6,3,pow,26,12,1.65 
+2015,12,05,13:40,inchk1ng,pow,cache,Fulcrum Gamers League,16,7,8,7,8,0,pow,11,20,0.53 
+2015,12,05,13:40,inchk1ng,pow,train,Fulcrum Gamers League,16,2,13,2,3,0,pow,11,17,0.62 
+2015,12,04,12:30,VariousArtists,pow,inferno,SL i-League StarSeries XIV,4,16,3,12,1,4,pow,21,9,1.73 
+2015,12,04,12:30,pow,VariousArtists,cache,SL i-League StarSeries XIV,17,19,8,7,7,8,pow,21,30,0.75 
+2015,12,04,12:30,pow,VariousArtists,dust2,SL i-League StarSeries XIV,16,10,12,3,4,7,pow,24,19,1.28 
+2015,12,02,12:30,TyLoo,pow,inferno,SL i-League StarSeries XIV,16,4,12,3,4,1,pow,15,18,0.85 
+2015,12,02,12:30,pow,TyLoo,overpass,SL i-League StarSeries XIV,3,16,3,12,0,4,pow,6,17,0.38 
+2015,11,27,14:10,pow,CyberZen,train,Fulcrum Gamers League,12,16,10,5,2,11,pow,13,22,0.60 
+2015,11,27,14:10,pow,CyberZen,inferno,Fulcrum Gamers League,12,16,4,11,8,5,pow,13,20,0.66 
+2015,11,27,12:30,pow,TyLoo,overpass,Fulcrum Gamers League,13,16,6,9,7,7,pow,22,22,0.99 
+2015,11,27,12:30,TyLoo,pow,mirage,Fulcrum Gamers League,16,3,12,3,4,0,pow,11,17,0.66 
+2015,11,26,12:00,pow,PUZZLES,inferno,Fulcrum Gamers League,9,16,3,12,6,4,pow,18,17,1.09 
+2015,11,26,12:00,PUZZLES,pow,train,Fulcrum Gamers League,16,4,12,3,4,1,pow,6,19,0.32 
+2015,11,13,20:15,CSGOBESTPOT.com,ttc,dust2,QuickShot Showmatches,7,16,5,10,2,6,CSGOBESTPOT.com,13,19,0.74 
+2015,11,13,20:15,CSGOBESTPOT.com,ttc,cache,QuickShot Showmatches,13,16,4,11,9,5,CSGOBESTPOT.com,23,20,1.10 
+2015,11,03,21:15,MaxAndRelax,Arcade,dust2,D!ngIT $2000 Weekly Cup #24,2,16,2,13,0,3,MaxAndRelax,4,16,0.28 
+2015,11,03,17:45,MaxAndRelax,Reason,cache,D!ngIT $2000 Weekly Cup #24,16,10,12,3,4,7,MaxAndRelax,15,18,0.78 
+2015,11,02,18:00,MaxAndRelax,Arcade,dust2,D!ngIT $2000 Weekly Cup #24,21,26,5,10,10,5,MaxAndRelax,29,36,0.89 
+2015,10,30,20:00,MaxAndRelax,EuropeanMisfits,mirage,QuickShot Showmatches,16,3,14,1,2,2,MaxAndRelax,20,12,1.49 
+2015,10,30,20:00,EuropeanMisfits,MaxAndRelax,cache,QuickShot Showmatches,16,12,7,8,9,4,MaxAndRelax,23,22,1.05 
+2015,10,30,20:00,EuropeanMisfits,MaxAndRelax,dust2,QuickShot Showmatches,11,16,10,5,1,11,MaxAndRelax,19,19,0.94 
+2015,10,27,21:30,WildSource,VegaSquadron,mirage,D!ngIT $2000 Weekly Cup #23,12,16,11,4,1,12,WildSource,17,21,0.79 
+2015,10,27,18:45,WildSource,Epsilon,train,D!ngIT $2000 Weekly Cup #23,7,16,6,9,1,7,WildSource,13,20,0.70 
+2015,10,27,18:45,Epsilon,WildSource,cache,D!ngIT $2000 Weekly Cup #23,16,11,6,9,10,2,WildSource,18,22,0.86 
+2015,10,27,18:45,Epsilon,WildSource,mirage,D!ngIT $2000 Weekly Cup #23,13,16,8,7,5,9,WildSource,21,19,1.07 
+2015,10,26,21:00,VegaSquadron,WildSource,dust2,D!ngIT $2000 Weekly Cup #23,4,16,4,11,0,5,WildSource,14,13,1.04 
+2015,10,26,21:00,VegaSquadron,WildSource,mirage,D!ngIT $2000 Weekly Cup #23,10,16,6,9,4,7,WildSource,24,19,1.21 
+2015,10,02,22:30,ESC,NoProblem!,overpass,QuickShot Arena #9,2,16,2,13,0,3,ESC,7,17,0.53 
+2015,10,02,22:30,NoProblem!,ESC,cache,QuickShot Arena #9,14,16,7,8,7,8,ESC,24,20,1.08 
+2015,10,02,22:30,ESC,NoProblem!,mirage,QuickShot Arena #9,11,16,6,9,5,7,ESC,16,20,0.81 
+2015,10,02,17:00,ESC,WorstPlayers,train,QuickShot Arena #9,16,4,11,4,5,0,ESC,18,8,1.42 
+2015,10,02,17:00,ESC,WorstPlayers,mirage,QuickShot Arena #9,16,19,11,4,4,11,ESC,21,25,0.83 
+2015,10,02,17:00,WorstPlayers,ESC,cache,QuickShot Arena #9,14,16,7,8,7,8,ESC,25,21,1.10 
+2015,09,22,19:20,ESC,VERYT0X1C,cache,ESL Polish Championship Season..,10,16,5,10,5,6,ESC,18,19,1.04 
+2015,09,22,19:20,VERYT0X1C,ESC,cobblestone,ESL Polish Championship Season..,16,9,8,7,8,2,ESC,10,21,0.46 
+2015,09,17,21:00,ESC,RCTIC,cache,QuickShot Arena #7,16,14,5,10,11,4,ESC,19,22,0.86 
+2015,09,17,21:00,RCTIC,ESC,mirage,QuickShot Arena #7,14,16,8,7,6,9,ESC,19,17,1.08 
+2015,09,17,17:00,ESC,RCTIC,cache,QuickShot Arena #7,16,8,10,5,6,3,ESC,13,12,1.08 
+2015,09,17,17:00,ESC,RCTIC,mirage,QuickShot Arena #7,6,16,5,10,1,6,ESC,11,18,0.67 
+2015,09,17,17:00,ESC,RCTIC,dust2,QuickShot Arena #7,16,8,9,6,7,2,ESC,14,17,0.82 
+2015,09,16,17:00,nerdRage,ESC,cache,QuickShot Arena #7,8,16,7,8,1,8,ESC,18,17,1.06 
+2015,09,16,17:00,ESC,nerdRage,dust2,QuickShot Arena #7,16,13,12,3,4,10,ESC,20,20,0.97 
+2015,09,16,17:00,nerdRage,ESC,mirage,QuickShot Arena #7,16,8,9,6,7,2,ESC,4,21,0.24 
+2015,09,15,23:30,Lions,ESC,overpass,D!ngIT $2000 Weekly Cup #17,16,11,13,2,3,9,ESC,15,19,0.86 
+2015,09,15,22:20,ESC,EuropeanMisfits,mirage,D!ngIT $2000 Weekly Cup #17,21,19,13,2,2,13,ESC,26,30,0.88 
+2015,09,15,19:45,Lions,ESC,train,D!ngIT $2000 Weekly Cup #17,16,9,10,5,6,4,ESC,14,18,0.84 
+2015,09,15,19:45,Lions,ESC,cache,D!ngIT $2000 Weekly Cup #17,16,14,5,10,11,4,ESC,14,22,0.67 
+2015,09,14,20:00,ESC,summa.gg,train,D!ngIT $2000 Weekly Cup #17,21,17,8,7,7,8,ESC,19,31,0.61 
+2015,09,14,20:00,summa.gg,ESC,mirage,D!ngIT $2000 Weekly Cup #17,15,21,7,8,8,7,ESC,17,21,0.80 
+2015,09,13,20:30,ESC,eBettle,dust2,99Damage Arena #14,14,16,10,5,4,11,ESC,22,26,0.86 
+2015,09,13,20:30,ESC,eBettle,cobblestone,99Damage Arena #14,5,16,5,10,0,6,ESC,5,15,0.46 
+2015,09,13,20:30,eBettle,ESC,mirage,99Damage Arena #14,11,16,6,9,5,7,ESC,22,16,1.23 
+2015,09,13,18:00,ESC,Epsilon,cache,99Damage Arena #14,16,13,11,4,5,9,ESC,16,21,0.79 
+2015,09,13,18:00,Epsilon,ESC,mirage,99Damage Arena #14,13,16,8,7,5,9,ESC,14,23,0.65 
+2015,09,10,21:45,eBettle,ESC,mirage,QuickShot Arena #6,16,9,8,7,8,2,ESC,10,18,0.59 
+2015,09,09,21:45,KappaKappa,ESC,mirage,QuickShot Arena #6,11,16,6,9,5,7,ESC,17,21,0.94 
+2015,09,09,19:30,ESC,eBettle,dust2,QuickShot Arena #6,8,16,8,7,0,9,ESC,9,18,0.69 
+2015,09,09,19:30,eBettle,ESC,mirage,QuickShot Arena #6,16,3,12,3,4,0,ESC,9,18,0.47 
+2015,09,08,20:00,GdanskLions,ESC,overpass,ESL Polish Championship Season..,16,11,10,5,6,6,ESC,19,20,0.95 
+2015,09,08,20:00,GdanskLions,ESC,mirage,ESL Polish Championship Season..,9,16,2,13,7,3,ESC,21,15,1.24 
+2015,09,08,20:00,GdanskLions,ESC,inferno,ESL Polish Championship Season..,16,13,8,7,8,6,ESC,16,22,0.70 
+2015,09,02,20:10,ESC,EpiphanyBolt,mirage,AlienTech CS:GO European Cup I,17,19,7,8,8,7,ESC,16,21,0.79 
+2015,09,01,22:00,ESC,Team8,mirage,AlienTech CS:GO European Cup I,16,7,11,4,5,3,ESC,23,13,1.39 
+2015,09,01,20:15,EpiphanyBolt,ESC,mirage,AlienTech CS:GO European Cup I,16,6,10,5,6,1,ESC,8,17,0.52 
+2015,09,01,18:00,Epsilon,ESC,inferno,D!ngIT $2000 Weekly Cup #15,16,5,11,4,5,1,ESC,16,15,1.15 
+2015,08,31,17:30,ESC,nerdRage,cache,D!ngIT $2000 Weekly Cup #15,8,16,4,11,4,5,ESC,17,20,0.97 
+2015,08,31,17:30,ESC,nerdRage,mirage,D!ngIT $2000 Weekly Cup #15,13,16,6,9,7,7,ESC,35,19,1.81 
+2015,08,31,17:30,nerdRage,ESC,inferno,D!ngIT $2000 Weekly Cup #15,18,21,9,6,6,9,ESC,26,25,1.00 
+2014,10,15,20:00,AMNESIA,HAXCON,cobblestone,ESL Pro Series Poland Season 9,12,16,6,9,6,7,AMNESIA,21,13,1.22 
+2014,10,12,19:00,ePlay,AMNESIA,dust2,ESL Pro Series Poland Season 9,5,16,2,13,3,3,AMNESIA,21,12,1.52 
+2014,10,12,18:00,ALSEN,AMNESIA,nuke,ESL Pro Series Poland Season 9,10,16,8,7,2,9,AMNESIA,19,14,1.10 
+2014,10,12,17:00,AMNESIA,eliminacja,cobblestone,ESL Pro Series Poland Season 9,16,8,11,4,5,4,AMNESIA,9,19,0.51 
+2014,10,06,20:00,AMNESIA,ESC,overpass,ESL Pro Series Poland Season 9,10,16,8,7,2,9,AMNESIA,15,24,0.66 
+2014,10,01,20:00,31337,AMNESIA,mirage,ESL Pro Series Poland Season 9,16,1,14,1,2,0,AMNESIA,8,16,0.48 

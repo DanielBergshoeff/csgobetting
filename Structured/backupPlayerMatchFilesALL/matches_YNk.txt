@@ -1,0 +1,29 @@
+2015,09,15,19:30,Netherlands,Serbia,inferno,World Championships 2015 Europ..,15,15,6,9,9,6,Serbia,18,22,0.80 
+2015,09,15,18:30,Serbia,Spain,mirage,World Championships 2015 Europ..,8,16,6,9,2,7,Serbia,7,18,0.47 
+2015,09,14,23:00,Serbia,France,inferno,World Championships 2015 Europ..,7,16,4,11,3,5,Serbia,23,20,1.24 
+2015,08,18,18:00,k1ck,GamePub,inferno,D!ngIT $2000 Weekly Cup #13,16,3,13,2,3,1,GamePub,9,17,0.48 
+2015,05,11,20:45,iNation,TRICKED,cache,GamePlan Pro League,7,16,6,9,1,7,iNation,8,20,0.42 
+2015,05,11,20:45,TRICKED,iNation,inferno,GamePlan Pro League,16,6,12,3,4,3,iNation,15,17,0.99 
+2015,05,11,20:45,TRICKED,iNation,mirage,GamePlan Pro League,13,16,10,5,3,11,iNation,17,21,0.89 
+2015,04,19,18:00,Wrecking,iNation,mirage,ESL South East Europe Champion..,16,9,8,7,8,2,iNation,21,17,1.15 
+2015,04,19,18:00,iNation,Wrecking,inferno,ESL South East Europe Champion..,16,12,7,8,9,4,iNation,16,23,0.71 
+2015,04,19,18:00,Wrecking,iNation,cache,ESL South East Europe Champion..,16,1,14,1,2,0,iNation,15,17,1.04 
+2015,01,12,18:00,iNation,ALTERNATEaTTaX,mirage,99Damage Arena #4,14,16,8,7,6,9,iNation,25,22,1.17 
+2015,01,12,18:00,ALTERNATEaTTaX,iNation,cache,99Damage Arena #4,19,17,8,7,7,8,iNation,31,19,1.31 
+2015,01,04,19:17,aimface,myRevenge,mirage,New Year Invitational,16,2,13,2,3,0,aimface,16,10,1.30 
+2014,11,03,19:00,Poland,Serbia,dust2,European Championship 2014,16,3,12,3,4,0,Serbia,11,16,0.80 
+2014,11,03,19:00,Poland,Serbia,cache,European Championship 2014,14,16,8,7,6,9,Serbia,23,22,1.23 
+2014,11,03,19:00,Poland,Serbia,mirage,European Championship 2014,16,4,11,4,5,0,Serbia,9,17,0.61 
+2014,10,12,21:20,Germany,Serbia,inferno,European Championship 2014,16,6,11,4,5,2,Serbia,20,16,1.32 
+2014,09,29,23:15,Sweden,Serbia,inferno,European Championship 2014,16,5,11,4,5,1,Serbia,8,17,0.53 
+2014,09,28,21:15,Serbia,Finland,mirage,European Championship 2014,16,12,11,4,5,8,Serbia,18,22,0.90 
+2014,09,04,21:00,Portugal,Serbia,inferno,European Championship 2014,14,16,8,7,6,9,Serbia,14,23,0.60 
+2014,05,25,23:00,iNation,HEADSHOTBG,inferno,Gaming Challenge 2014,22,20,13,2,2,13,iNation,30,31,0.96 
+2014,05,25,23:00,iNation,HEADSHOTBG,mirage,Gaming Challenge 2014,12,16,7,8,5,8,iNation,21,19,1.00 
+2014,05,25,23:00,HEADSHOTBG,iNation,nuke,Gaming Challenge 2014,12,16,10,5,2,11,iNation,16,19,0.84 
+2014,05,25,21:00,iNation,E-Frag,inferno,Gaming Challenge 2014,16,5,11,4,5,1,iNation,17,13,1.10 
+2014,05,25,21:00,E-Frag,iNation,mirage,Gaming Challenge 2014,10,16,8,7,2,9,iNation,19,17,1.07 
+2014,05,25,18:00,iNation,SENSEi,mirage,Gaming Challenge 2014,16,6,11,4,5,2,iNation,14,8,1.24 
+2014,05,25,18:00,iNation,SENSEi,inferno,Gaming Challenge 2014,16,7,9,6,7,1,iNation,25,13,1.57 
+2014,05,25,11:00,iNation,proWince,mirage,Gaming Challenge 2014,16,12,12,3,4,9,iNation,21,14,1.28 
+2014,05,25,10:00,DELTA,iNation,nuke,Gaming Challenge 2014,13,16,12,3,1,13,iNation,35,19,1.79 

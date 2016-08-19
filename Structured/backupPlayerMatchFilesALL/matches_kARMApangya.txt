@@ -1,0 +1,11 @@
+2016,01,26,18:30,neXtPlease!,CeX,mirage,D!ngIT $2000 Weekly Cup #35,16,9,11,4,5,5,CeX,21,18,1.23 
+2016,01,25,18:30,CeX,seven,dust2,D!ngIT $2000 Weekly Cup #35,9,16,8,7,1,9,CeX,14,18,0.79 
+2016,01,25,18:30,CeX,seven,mirage,D!ngIT $2000 Weekly Cup #35,16,10,12,3,4,7,CeX,23,12,1.42 
+2016,01,25,18:30,CeX,seven,cache,D!ngIT $2000 Weekly Cup #35,14,16,7,8,7,8,CeX,22,20,1.04 
+2015,11,17,21:00,CSGO-Saloon,CeX,mirage,D!ngIT $2000 Weekly Cup #26,16,6,9,6,7,0,CeX,17,17,1.02 
+2015,11,17,18:30,CeX,DICKHOUSE,train,D!ngIT $2000 Weekly Cup #26,13,16,8,7,5,9,CeX,18,21,0.86 
+2015,11,17,18:30,CeX,DICKHOUSE,mirage,D!ngIT $2000 Weekly Cup #26,16,7,12,3,4,4,CeX,9,12,0.77 
+2015,11,17,18:30,DICKHOUSE,CeX,cache,D!ngIT $2000 Weekly Cup #26,16,5,10,5,6,0,CeX,14,17,0.91 
+2015,11,16,20:00,CeX,CSGO-Saloon,mirage,D!ngIT $2000 Weekly Cup #26,16,12,10,5,6,7,CeX,13,19,0.71 
+2015,11,16,20:00,CeX,CSGO-Saloon,dust2,D!ngIT $2000 Weekly Cup #26,16,9,10,5,6,4,CeX,17,14,1.18 
+2015,08,18,19:00,Reason,Dobry&Gaming,cache,Hitbox Arena Showdown Invitati..,10,16,8,7,2,9,Reason,16,21,0.78 

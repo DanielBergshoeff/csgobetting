@@ -1,0 +1,11 @@
+2015,12,05,16:30,PENTA,Planetkey,mirage,ESL Meisterschaft Winter 2015 ..,19,15,10,5,5,10,Planetkey,19,26,0.80 
+2015,12,05,16:30,Planetkey,PENTA,cache,ESL Meisterschaft Winter 2015 ..,3,16,3,12,0,4,Planetkey,6,18,0.34 
+2015,08,09,12:45,Planetkey,mousesports,cobblestone,ESL Sommermeisterschaft 2015 F..,15,19,11,4,4,11,Planetkey,17,23,0.75 
+2015,08,09,12:45,mousesports,Planetkey,dust2,ESL Sommermeisterschaft 2015 F..,16,5,11,4,5,1,Planetkey,10,18,0.60 
+2015,08,09,12:45,mousesports,Planetkey,cache,ESL Sommermeisterschaft 2015 F..,11,16,7,8,4,8,Planetkey,20,19,1.03 
+2014,12,20,01:30,Reason,ALTERNATEaTTaX,dust2,Acer A-Split Invitational powe..,16,11,8,7,8,4,ALTERNATE aTTaX,10,20,0.59 
+2014,12,20,01:30,ALTERNATEaTTaX,Reason,overpass,Acer A-Split Invitational powe..,5,16,2,13,3,3,ALTERNATE aTTaX,9,15,0.65 
+2014,12,19,23:30,ALTERNATEaTTaX,mousesports,cache,Acer A-Split Invitational powe..,14,16,10,5,4,11,ALTERNATE aTTaX,25,21,1.23 
+2014,12,19,23:30,ALTERNATEaTTaX,mousesports,inferno,Acer A-Split Invitational powe..,6,16,5,10,1,6,ALTERNATE aTTaX,14,19,0.77 
+2014,09,06,13:00,Planetkey,MTW,nuke,ESL Pro Series Germany Summer ..,16,5,11,4,5,1,MTW,12,18,0.73 
+2014,09,06,13:00,Planetkey,MTW,dust2,ESL Pro Series Germany Summer ..,16,12,12,3,4,9,MTW,16,20,0.81 

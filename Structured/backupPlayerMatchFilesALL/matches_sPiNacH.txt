@@ -1,0 +1,57 @@
+2016,08,03,13:00,Signature,EDG,cobblestone,E-Sports Festival CS:GO Tourna..,16,19,7,8,8,7,EDG,17,26,0.76 
+2016,08,03,13:00,EDG,Signature,cache,E-Sports Festival CS:GO Tourna..,16,5,11,4,5,1,EDG,21,13,1.26 
+2016,08,03,13:00,Signature,EDG,mirage,E-Sports Festival CS:GO Tourna..,19,15,5,10,10,5,EDG,21,29,0.77 
+2016,08,02,13:00,EDG,MiTH,cobblestone,E-Sports Festival CS:GO Tourna..,16,13,6,9,10,4,EDG,18,23,0.81 
+2016,08,02,13:00,EDG,MiTH,mirage,E-Sports Festival CS:GO Tourna..,16,7,13,2,3,5,EDG,20,14,1.40 
+2016,07,29,12:15,EDG,5Love.N4,cobblestone,SL i-League S2 China Qualifier,16,1,14,1,2,0,EDG,15,7,1.42 
+2016,07,29,12:15,EDG,5Love.N4,cache,SL i-League S2 China Qualifier,16,9,9,6,7,3,EDG,23,19,1.15 
+2016,07,22,15:00,AC-130,EDG,cobblestone,MixBOT Pro-League Golden,16,8,10,5,6,3,EDG,13,21,0.65 
+2016,07,22,15:00,EDG,AC-130,mirage,MixBOT Pro-League Golden,16,9,11,4,5,5,EDG,13,15,0.88 
+2016,07,22,15:00,EDG,AC-130,cache,MixBOT Pro-League Golden,11,16,7,8,4,8,EDG,15,22,0.72 
+2016,07,20,15:00,LGD,EDG,train,SL i-League S2 China Qualifier,16,8,9,6,7,2,EDG,14,19,0.78 
+2016,07,20,15:00,EDG,LGD,mirage,SL i-League S2 China Qualifier,16,19,6,9,9,6,EDG,33,28,1.22 
+2016,07,20,09:00,EHOME,EDG,cobblestone,SL i-League S2 China Qualifier,16,7,12,3,4,4,EDG,15,20,0.88 
+2016,07,20,09:00,EHOME,EDG,mirage,SL i-League S2 China Qualifier,16,9,8,7,8,2,EDG,21,20,1.07 
+2016,06,17,08:10,EDG,VG.CyberZen,mirage,WCA Season 2 China Qualifier,13,16,12,3,1,13,EDG,16,22,0.78 
+2016,06,17,08:10,EDG,VG.CyberZen,nuke,WCA Season 2 China Qualifier,4,16,4,11,0,5,EDG,5,17,0.33 
+2016,06,16,08:00,BornOfFire,EDG,cache,WCA Season 2 China Qualifier,16,11,5,10,11,1,EDG,17,22,0.87 
+2016,06,16,08:00,BornOfFire,EDG,dust2,WCA Season 2 China Qualifier,16,13,6,9,10,4,EDG,17,22,0.81 
+2016,06,15,12:00,EDG,TheMongolz,dust2,MixBOT Pro-League Golden,10,16,8,7,2,9,EDG,18,17,1.04 
+2016,06,15,12:00,TheMongolz,EDG,cache,MixBOT Pro-League Golden,6,16,4,11,2,5,EDG,14,11,1.02 
+2016,06,15,12:00,EDG,TheMongolz,mirage,MixBOT Pro-League Golden,8,16,7,8,1,8,EDG,17,19,0.91 
+2016,06,14,12:00,EDG,New4,mirage,WCA Season 2 China Qualifier,16,6,14,1,2,5,EDG,13,12,1.00 
+2016,06,14,12:00,New4,EDG,cache,WCA Season 2 China Qualifier,16,3,12,3,4,0,EDG,9,18,0.47 
+2016,04,28,08:00,EDG,New4,mirage,WCA Season 1 Qualifier,16,9,13,2,3,7,EDG,13,15,0.92 
+2016,04,28,08:00,EDG,New4,cache,WCA Season 1 Qualifier,16,9,7,8,9,1,EDG,15,14,0.93 
+2016,04,22,16:15,EDG,MVPproject,cobblestone,SL i-League Invitational China..,6,16,3,12,3,4,EDG,8,18,0.45 
+2016,04,22,16:15,MVPproject,EDG,mirage,SL i-League Invitational China..,16,8,8,7,8,1,EDG,16,15,0.94 
+2016,04,22,16:15,EDG,MVPproject,cache,SL i-League Invitational China..,16,10,10,5,6,5,EDG,23,17,1.27 
+2016,04,21,10:10,HG,EDG,cobblestone,SL i-League Invitational China..,3,16,3,12,0,4,EDG,19,9,1.57 
+2016,04,21,10:10,HG,EDG,dust2,SL i-League Invitational China..,17,19,1,14,14,1,EDG,34,26,1.27 
+2016,04,20,17:10,EDG,inchk1ng,overpass,Rising Stars SEA Promotional C..,14,16,11,4,3,12,EDG,23,26,0.87 
+2016,04,20,15:45,EDG,MOTV,cache,Rising Stars SEA Promotional C..,16,9,9,6,7,3,EDG,16,16,0.85 
+2016,04,20,13:10,EDG,TheMongolz,dust2,Rising Stars SEA Promotional C..,14,16,8,7,6,9,EDG,22,20,1.06 
+2016,04,10,13:10,EDG,BornOfFire,dust2,SL i-League Invitational China..,12,16,5,10,7,6,EDG,15,20,0.74 
+2016,04,10,13:10,BornOfFire,EDG,cobblestone,SL i-League Invitational China..,16,12,9,6,7,6,EDG,30,21,1.47 
+2016,04,08,13:10,New4,EDG,cache,SL i-League Invitational China..,7,16,4,11,3,5,EDG,19,14,1.24 
+2016,04,08,13:10,EDG,New4,mirage,SL i-League Invitational China..,16,9,13,2,3,7,EDG,7,16,0.53 
+2016,03,30,16:00,TyLoo,EDG,mirage,SL i-League Invitational China..,16,7,9,6,7,1,EDG,9,20,0.48 
+2016,03,30,16:00,EDG,TyLoo,cache,SL i-League Invitational China..,6,16,2,13,4,3,EDG,13,19,0.63 
+2016,03,22,08:00,EDG,AllGamers,overpass,WCA Season 1 Qualifier,16,5,13,2,3,3,EDG,21,14,1.44 
+2016,03,22,08:00,AllGamers,EDG,mirage,WCA Season 1 Qualifier,2,16,2,13,0,3,EDG,16,8,1.45 
+2016,03,15,08:30,TyLoo,EDG,mirage,WCA Season 1 Qualifier,16,9,12,3,4,6,EDG,12,22,0.55 
+2016,03,15,08:30,EDG,TyLoo,cobblestone,WCA Season 1 Qualifier,13,16,8,7,5,9,EDG,21,24,0.85 
+2016,03,13,06:25,Legacy,EDG,mirage,DreamHack Masters Malmö 2016 A..,16,13,12,3,4,10,EDG,18,25,0.83 
+2016,03,13,06:25,EDG,Legacy,dust2,DreamHack Masters Malmö 2016 A..,10,16,6,9,4,7,EDG,11,19,0.68 
+2016,03,12,13:45,Emc,EDG,mirage,DreamHack Masters Malmö 2016 A..,16,19,7,8,8,7,EDG,26,26,1.01 
+2015,12,06,16:00,GANK,pow,cache,SL i-League StarSeries XIV,16,1,14,1,2,0,pow,19,16,1.29 
+2015,12,06,16:00,GANK,pow,cobblestone,SL i-League StarSeries XIV,16,5,13,2,3,3,pow,12,20,0.60 
+2015,12,06,13:40,BOW,pow,mirage,Fulcrum Gamers League,5,16,2,13,3,3,pow,27,15,1.80 
+2015,12,06,13:40,pow,BOW,dust2,Fulcrum Gamers League,16,8,10,5,6,3,pow,15,15,0.95 
+2015,12,05,13:40,inchk1ng,pow,cache,Fulcrum Gamers League,16,7,8,7,8,0,pow,12,19,0.68 
+2015,12,05,13:40,inchk1ng,pow,train,Fulcrum Gamers League,16,2,13,2,3,0,pow,14,16,1.06 
+2015,12,04,12:30,VariousArtists,pow,inferno,SL i-League StarSeries XIV,4,16,3,12,1,4,pow,15,13,1.00 
+2015,12,04,12:30,pow,VariousArtists,cache,SL i-League StarSeries XIV,17,19,8,7,7,8,pow,18,33,0.58 
+2015,12,04,12:30,pow,VariousArtists,dust2,SL i-League StarSeries XIV,16,10,12,3,4,7,pow,21,17,1.27 
+2015,12,02,12:30,TyLoo,pow,inferno,SL i-League StarSeries XIV,16,4,12,3,4,1,pow,7,17,0.44 
+2015,12,02,12:30,pow,TyLoo,overpass,SL i-League StarSeries XIV,3,16,3,12,0,4,pow,6,16,0.45 

@@ -1,0 +1,7 @@
+2016,03,24,17:00,Aquiver.RED,Tekweb,inferno,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Tekweb,6,17,0.36 
+2016,03,24,15:30,InfluxNordic,Tekweb,cobblestone,Copenhagen Games 2016 BYOC Qua..,2,16,2,13,0,3,Tekweb,15,7,1.55 
+2016,03,24,13:00,Tekweb,Plantronics,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,2,13,3,3,Tekweb,4,20,0.20 
+2015,04,02,21:40,re:take,MnM,cache,Copenhagen Games 2015,16,19,9,6,6,9,re:take,21,25,0.81 
+2015,04,02,19:00,Lemondogs,re:take,cache,Copenhagen Games 2015,16,4,12,3,4,1,re:take,5,16,0.40 
+2015,04,02,14:00,myKPV,re:take,dust2,Copenhagen Games 2015,16,10,12,3,4,7,re:take,12,23,0.57 
+2015,04,02,14:00,myKPV,re:take,inferno,Copenhagen Games 2015,16,9,11,4,5,5,re:take,8,17,0.57 

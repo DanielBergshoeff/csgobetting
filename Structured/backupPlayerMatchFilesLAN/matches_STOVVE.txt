@@ -1,0 +1,26 @@
+2015,12,20,13:00,SkitLite,Torpedo,mirage,ESL Nordic Nationals Winter 20..,11,16,5,10,6,6,SkitLite,18,19,0.88 
+2015,12,20,13:00,SkitLite,Torpedo,cache,ESL Nordic Nationals Winter 20..,14,16,3,12,11,4,SkitLite,22,22,1.06 
+2015,12,19,20:55,SkitLite,demise,mirage,ESL Nordic Nationals Winter 20..,16,9,9,6,7,3,SkitLite,23,14,1.29 
+2015,12,19,14:55,SkitLite,NoProblem!,mirage,ESL Nordic Nationals Winter 20..,11,16,9,6,2,10,SkitLite,22,22,1.05 
+2015,10,30,11:00,SkitLite,RCTIC,mirage,ASUS ROG Nordic Challenge,12,16,6,9,6,7,SkitLite,20,19,1.00 
+2015,10,30,11:00,RCTIC,SkitLite,train,ASUS ROG Nordic Challenge,16,7,11,4,5,3,SkitLite,13,20,0.78 
+2015,07,30,20:00,SkitLite,ROCCAT,cache,Assembly Summer 2015 AMD CS:GO..,8,16,5,10,3,6,SkitLite,20,18,1.21 
+2015,07,30,18:00,KappaKappa,SkitLite,cache,Assembly Summer 2015 AMD CS:GO..,11,16,8,7,3,9,SkitLite,26,16,1.44 
+2015,07,30,16:00,SkitLite,eBettle,cobblestone,Assembly Summer 2015 AMD CS:GO..,8,16,4,11,4,5,SkitLite,20,21,1.04 
+2014,12,14,19:15,Finland,Sweden,mirage,European Championship 2014 LAN..,8,16,7,8,1,8,Finland,10,20,0.51 
+2014,12,14,19:15,Finland,Sweden,cache,European Championship 2014 LAN..,5,16,5,10,0,6,Finland,14,18,0.81 
+2014,12,14,12:30,Finland,Poland,cache,European Championship 2014 LAN..,11,16,9,6,2,10,Finland,13,19,0.71 
+2014,12,14,12:30,Poland,Finland,dust2,European Championship 2014 LAN..,16,8,10,5,6,3,Finland,7,20,0.40 
+2014,10,04,16:50,Hanatauki,GLSHAKER,cache,Areena #5 by ROCCAT,15,15,8,7,7,8,GL SHAKER,32,24,1.34 
+2014,10,04,15:45,GLSHAKER,Menace,inferno,Areena #5 by ROCCAT,13,16,8,7,5,9,GL SHAKER,21,21,0.99 
+2014,10,04,14:15,ROTY,GLSHAKER,cache,Areena #5 by ROCCAT,16,6,9,6,7,0,GL SHAKER,20,18,1.36 
+2014,10,04,14:00,GLSHAKER,Jynttä,inferno,Areena #5 by ROCCAT,13,16,9,6,4,10,GL SHAKER,24,23,1.12 
+2014,10,04,12:00,GLSHAKER,myMDL,mirage,Areena #5 by ROCCAT,16,13,9,6,7,7,GL SHAKER,30,22,1.28 
+2014,10,04,10:55,GLSHAKER,Superstars,dust2,Areena #5 by ROCCAT,6,16,5,10,1,6,GL SHAKER,12,17,0.75 
+2014,08,02,15:30,myRevenge,Recursive,cache,ASUS ROG Summer 2014,16,5,14,1,2,4,Recursive,12,17,0.83 
+2014,08,02,15:30,myRevenge,Recursive,mirage,ASUS ROG Summer 2014,16,14,9,6,7,8,Recursive,18,22,0.80 
+2014,08,02,12:30,Games4u,Recursive,inferno,ASUS ROG Summer 2014,11,16,6,9,5,7,Recursive,27,15,1.54 
+2014,08,02,12:30,Games4u,Recursive,dust2,ASUS ROG Summer 2014,14,16,7,8,7,8,Recursive,24,17,1.22 
+2014,08,01,22:20,PENTA,Recursive,inferno,ASUS ROG Summer 2014,20,22,8,7,7,8,Recursive,37,30,1.23 
+2014,08,01,21:20,Recursive,MARVEL,dust2,ASUS ROG Summer 2014,16,3,12,3,4,0,Recursive,15,8,1.32 
+2014,08,01,20:00,Nostalgie,Recursive,inferno,ASUS ROG Summer 2014,16,6,13,2,3,4,Recursive,15,17,0.83 

@@ -1,0 +1,9 @@
+2015,11,16,21:30,Epsilon,nerdRage,cache,Global Grand Masters #1,16,6,10,5,6,1,nerdRage,11,19,0.66 
+2015,11,16,20:00,AliGon,nerdRage,mirage,Global Grand Masters #1,16,3,12,3,4,0,nerdRage,4,19,0.27 
+2015,11,16,17:30,ESC,nerdRage,cache,Global Grand Masters #1,16,10,7,8,9,2,nerdRage,19,19,0.94 
+2015,11,09,22:30,nerdRage,eSuba,mirage,D!ngIT $2000 Weekly Cup #25,12,16,9,6,3,10,nerdRage,16,24,0.78 
+2015,11,09,20:30,nerdRage,Enso,mirage,D!ngIT $2000 Weekly Cup #25,12,16,5,10,7,6,nerdRage,22,18,1.13 
+2015,11,09,20:30,nerdRage,Enso,dust2,D!ngIT $2000 Weekly Cup #25,7,16,5,10,2,6,nerdRage,13,20,0.70 
+2015,11,08,12:30,ESC,nerdRage,train,Swelder's Showmatch,16,0,15,0,1,0,nerdRage,9,16,0.54 
+2015,11,08,12:30,nerdRage,ESC,dust2,Swelder's Showmatch,16,13,9,6,7,7,nerdRage,24,23,1.14 
+2015,11,08,12:30,ESC,nerdRage,mirage,Swelder's Showmatch,16,8,13,2,3,6,nerdRage,13,18,0.75 

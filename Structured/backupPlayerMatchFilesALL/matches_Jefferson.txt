@@ -1,0 +1,2 @@
+2016,07,06,23:15,Uruguay,Chile,cobblestone,World Championships 2016 South..,1,16,1,14,0,2,Uruguay,6,17,0.29 
+2016,07,06,23:15,Uruguay,Chile,cache,World Championships 2016 South..,5,16,1,14,4,2,Uruguay,13,17,0.73 

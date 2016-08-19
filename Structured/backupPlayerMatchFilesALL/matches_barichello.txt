@@ -1,0 +1,5 @@
+2015,09,15,21:30,Romania,Poland,mirage,World Championships 2015 Europ..,8,16,6,9,2,7,Romania,14,19,0.73 
+2015,05,25,18:00,Wrecking,neXtPlease!,cache,Balkan Championship Season 2,5,16,4,11,1,5,neXtPlease!,13,9,1.03 
+2015,05,25,18:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,15,19,9,6,6,9,neXtPlease!,27,15,1.29 
+2015,05,14,21:00,Airwalk,neXtPlease!,mirage,Balkan Championship Season 2,2,16,2,13,0,3,neXtPlease!,15,6,1.34 
+2015,05,14,21:00,neXtPlease!,Airwalk,inferno,Balkan Championship Season 2,16,4,13,2,3,2,neXtPlease!,13,9,1.14 

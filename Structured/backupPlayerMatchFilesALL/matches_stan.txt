@@ -1,0 +1,7 @@
+2015,05,11,05:15,Cloud9,ACE,inferno,CEVO Professional Season 7,16,5,12,3,4,2,ACE,14,18,0.81 
+2015,05,11,05:15,ACE,Cloud9,overpass,CEVO Professional Season 7,14,16,9,6,5,10,ACE,14,24,0.61 
+2015,05,09,02:00,LunatiK,ACE,cache,CS Select #11,10,16,10,5,0,11,ACE,26,17,1.32 
+2015,05,09,02:00,ACE,LunatiK,inferno,CS Select #11,16,10,12,3,4,7,ACE,24,19,1.33 
+2015,05,09,02:00,LunatiK,ACE,dust2,CS Select #11,4,16,4,11,0,5,ACE,19,10,1.46 
+2015,05,08,04:15,vVv,ACE,inferno,CEVO Professional Season 7,14,16,10,5,4,11,ACE,21,20,1.03 
+2015,05,08,04:15,ACE,vVv,cache,CEVO Professional Season 7,14,16,7,8,7,8,ACE,21,20,1.07 

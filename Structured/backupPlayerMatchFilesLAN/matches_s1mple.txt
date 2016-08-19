@@ -1,0 +1,122 @@
+2016,07,10,17:00,SK,Liquid,cobblestone,ESL One Cologne 2016,16,6,10,5,6,1,Liquid,11,18,0.62 
+2016,07,10,17:00,Liquid,SK,train,ESL One Cologne 2016,7,16,7,8,0,8,Liquid,10,17,0.75 
+2016,07,09,19:30,Liquid,fnatic,cache,ESL One Cologne 2016,16,13,11,4,5,9,Liquid,31,20,1.35 
+2016,07,09,19:30,fnatic,Liquid,cobblestone,ESL One Cologne 2016,13,16,5,10,8,6,Liquid,24,20,1.16 
+2016,07,08,17:00,NatusVincere,Liquid,cobblestone,ESL One Cologne 2016,6,16,2,13,4,3,Liquid,28,13,1.90 
+2016,07,08,17:00,NatusVincere,Liquid,nuke,ESL One Cologne 2016,12,16,8,7,4,9,Liquid,24,19,1.19 
+2016,07,08,17:00,Liquid,NatusVincere,train,ESL One Cologne 2016,11,16,10,5,1,11,Liquid,15,22,0.74 
+2016,07,07,19:00,Liquid,mousesports,mirage,ESL One Cologne 2016,16,6,11,4,5,2,Liquid,20,11,1.35 
+2016,07,07,19:00,Liquid,mousesports,cobblestone,ESL One Cologne 2016,16,11,9,6,7,5,Liquid,21,18,1.14 
+2016,07,06,16:00,Virtus.pro,Liquid,cobblestone,ESL One Cologne 2016,16,12,6,9,10,3,Liquid,27,21,1.20 
+2016,07,05,16:00,EnVyUs,Liquid,train,ESL One Cologne 2016,7,16,6,9,1,7,Liquid,14,14,0.90 
+2016,06,25,18:05,G2,Liquid,nuke,ECS Season 1 Finals,16,11,11,4,5,7,Liquid,10,21,0.53 
+2016,06,25,18:05,Liquid,G2,dust2,ECS Season 1 Finals,6,16,5,10,1,6,Liquid,13,20,0.75 
+2016,06,25,18:05,Liquid,G2,cobblestone,ECS Season 1 Finals,16,12,6,9,10,3,Liquid,14,20,0.78 
+2016,06,24,16:10,Liquid,Luminosity,train,ECS Season 1 Finals,12,16,5,10,7,6,Liquid,15,18,0.86 
+2016,06,24,14:45,G2,Liquid,cobblestone,ECS Season 1 Finals,6,16,6,9,0,7,Liquid,19,11,1.31 
+2016,05,21,09:00,GODSENT,WorstPlayers,overpass,SL i-League Invitational #1,16,6,9,6,7,0,Worst Players,22,17,1.55 
+2016,05,21,09:00,GODSENT,WorstPlayers,cobblestone,SL i-League Invitational #1,11,16,6,9,5,7,Worst Players,30,19,1.47 
+2016,05,21,09:00,WorstPlayers,GODSENT,mirage,SL i-League Invitational #1,14,16,4,11,10,5,Worst Players,28,24,1.17 
+2016,05,19,13:30,SK,WorstPlayers,cache,SL i-League Invitational #1,8,16,5,10,3,6,Worst Players,26,10,1.94 
+2016,05,19,13:30,WorstPlayers,SK,mirage,SL i-League Invitational #1,16,8,8,7,8,1,Worst Players,33,12,2.06 
+2016,05,19,09:30,Virtus.pro,WorstPlayers,cobblestone,SL i-League Invitational #1,16,13,7,8,9,5,Worst Players,19,21,0.85 
+2016,05,19,09:30,Virtus.pro,WorstPlayers,cache,SL i-League Invitational #1,17,19,7,8,8,7,Worst Players,38,24,1.33 
+2016,05,19,09:30,Virtus.pro,WorstPlayers,mirage,SL i-League Invitational #1,16,5,10,5,6,0,Worst Players,10,18,0.65 
+2016,04,13,11:00,TyLoo,Liquid,cobblestone,DreamHack Masters Malmö 2016,22,19,10,5,5,10,Liquid,28,34,0.91 
+2016,04,12,12:30,mousesports,Liquid,dust2,DreamHack Masters Malmö 2016,16,13,7,8,9,5,Liquid,21,23,0.87 
+2016,04,03,18:00,AmericasAll-Stars,EuropeAll-Stars,nuke,MLG Columbus 2016 All-Star Mat..,22,19,11,4,4,11,Americas All-Stars,36,32,1.15 
+2016,04,02,23:45,Liquid,Luminosity,cache,MLG Columbus 2016,16,19,9,6,6,9,Liquid,29,26,1.08 
+2016,04,02,23:45,Liquid,Luminosity,mirage,MLG Columbus 2016,15,19,7,8,8,7,Liquid,24,26,0.95 
+2016,04,01,22:00,Liquid,CLG,mirage,MLG Columbus 2016,16,6,9,6,7,0,Liquid,26,14,1.57 
+2016,04,01,22:00,Liquid,CLG,cache,MLG Columbus 2016,16,13,3,12,13,1,Liquid,25,21,1.27 
+2016,03,30,23:20,fnatic,Liquid,dust2,MLG Columbus 2016,19,22,5,10,10,5,Liquid,37,27,1.26 
+2016,03,29,19:30,FaZe,Liquid,cache,MLG Columbus 2016,11,16,3,12,8,4,Liquid,15,16,0.93 
+2016,02,28,00:10,Liquid,HellRaisers,dust2,MLG Columbus 2016 Main Qualifi..,16,14,6,9,10,5,Liquid,12,26,0.48 
+2016,02,28,00:10,Liquid,HellRaisers,overpass,MLG Columbus 2016 Main Qualifi..,7,16,6,9,1,7,Liquid,14,21,0.71 
+2016,02,28,00:10,HellRaisers,Liquid,cache,MLG Columbus 2016 Main Qualifi..,4,16,4,11,0,5,Liquid,15,15,1.06 
+2016,02,26,22:45,YP,Liquid,overpass,MLG Columbus 2016 Main Qualifi..,2,16,2,13,0,3,Liquid,17,11,1.33 
+2016,02,26,17:00,HellRaisers,Liquid,dust2,MLG Columbus 2016 Main Qualifi..,22,20,8,7,7,8,Liquid,39,32,1.22 
+2015,09,26,21:30,HellRaisers,Vexed,overpass,DreamHack Open Cluj-Napoca 201..,13,16,11,4,2,12,HellRaisers,23,21,1.23 
+2015,09,26,21:30,HellRaisers,Vexed,dust2,DreamHack Open Cluj-Napoca 201..,16,7,11,4,5,3,HellRaisers,25,11,1.74 
+2015,09,26,21:30,Vexed,HellRaisers,cobblestone,DreamHack Open Cluj-Napoca 201..,16,11,5,10,11,1,HellRaisers,17,15,0.95 
+2015,09,25,18:00,Titan,HellRaisers,cobblestone,DreamHack Open Cluj-Napoca 201..,16,7,13,2,3,5,HellRaisers,12,21,0.56 
+2015,09,25,18:00,Titan,HellRaisers,dust2,DreamHack Open Cluj-Napoca 201..,16,13,6,9,10,4,HellRaisers,20,22,0.93 
+2015,09,25,18:00,HellRaisers,Titan,overpass,DreamHack Open Cluj-Napoca 201..,16,8,8,7,8,1,HellRaisers,34,13,2.09 
+2015,09,25,15:10,Vexed,HellRaisers,dust2,DreamHack Open Cluj-Napoca 201..,7,16,1,14,6,2,HellRaisers,27,14,1.60 
+2015,09,25,15:10,Vexed,HellRaisers,cobblestone,DreamHack Open Cluj-Napoca 201..,11,16,7,8,4,8,HellRaisers,25,18,1.30 
+2015,07,12,18:30,NatusVincere,FlipSid3,inferno,ESWC 2015,16,1,14,1,2,0,FlipSid3,10,16,0.64 
+2015,07,12,18:30,FlipSid3,NatusVincere,mirage,ESWC 2015,9,16,7,8,2,8,FlipSid3,21,21,1.02 
+2015,07,11,23:00,NiP,FlipSid3,overpass,ESWC 2015,12,16,6,9,6,7,FlipSid3,26,19,1.36 
+2015,07,11,23:00,FlipSid3,NiP,mirage,ESWC 2015,16,10,13,2,3,8,FlipSid3,26,15,1.49 
+2015,07,11,23:00,NiP,FlipSid3,inferno,ESWC 2015,16,1,14,1,2,0,FlipSid3,8,17,0.43 
+2015,07,10,19:00,Cloud9,FlipSid3,cache,ESWC 2015,16,10,7,8,9,2,FlipSid3,18,21,0.91 
+2015,07,10,17:30,FlipSid3,Boreal,cache,ESWC 2015,16,4,12,3,4,1,FlipSid3,23,8,1.86 
+2015,07,10,16:00,KeydStars,FlipSid3,cobblestone,ESWC 2015,13,16,8,7,5,9,FlipSid3,19,19,0.93 
+2015,06,25,23:50,Kinguin,FlipSid3,cache,Gaming Paradise Inhouse Qualif..,16,8,9,6,7,2,FlipSid3,10,20,0.51 
+2015,06,25,23:50,Kinguin,FlipSid3,inferno,Gaming Paradise Inhouse Qualif..,16,4,14,1,2,3,FlipSid3,7,16,0.51 
+2015,06,25,21:00,G2,FlipSid3,cobblestone,Gaming Paradise Inhouse Qualif..,15,19,12,3,3,12,FlipSid3,27,23,1.09 
+2015,06,25,21:00,G2,FlipSid3,cache,Gaming Paradise Inhouse Qualif..,3,16,3,12,0,4,FlipSid3,13,12,1.06 
+2015,06,25,16:20,Kinguin,FlipSid3,train,Gaming Paradise Inhouse Qualif..,25,22,7,8,8,7,FlipSid3,30,32,0.95 
+2015,06,25,16:20,Kinguin,FlipSid3,mirage,Gaming Paradise Inhouse Qualif..,16,13,9,6,7,7,FlipSid3,22,22,0.99 
+2015,06,25,16:20,FlipSid3,Kinguin,cache,Gaming Paradise Inhouse Qualif..,16,12,9,6,7,6,FlipSid3,26,16,1.31 
+2015,06,24,23:00,G2,FlipSid3,cobblestone,Gaming Paradise Inhouse Qualif..,10,16,9,6,1,10,FlipSid3,17,16,1.15 
+2015,06,24,23:00,G2,FlipSid3,mirage,Gaming Paradise Inhouse Qualif..,11,16,10,5,1,11,FlipSid3,31,16,1.57 
+2015,06,21,11:00,NatusVincere,FlipSid3,inferno,SLTV StarSeries XIII Finals,16,5,11,4,5,1,FlipSid3,13,19,0.71 
+2015,06,21,11:00,NatusVincere,FlipSid3,cobblestone,SLTV StarSeries XIII Finals,16,4,12,3,4,1,FlipSid3,9,17,0.59 
+2015,06,20,11:30,HellRaisers,FlipSid3,cache,SLTV StarSeries XIII Finals,9,16,6,9,3,7,FlipSid3,28,13,1.72 
+2015,06,20,11:30,FlipSid3,GPlay,mirage,SLTV StarSeries XIII Finals,16,12,7,8,9,4,FlipSid3,26,21,1.27 
+2015,06,20,10:10,EnVyUs,FlipSid3,inferno,SLTV StarSeries XIII Finals,14,16,8,7,6,9,FlipSid3,28,20,1.46 
+2015,06,19,19:00,FlipSid3,G2,mirage,SLTV StarSeries XIII Finals,16,5,11,4,5,1,FlipSid3,25,8,1.97 
+2015,06,19,16:49,NatusVincere,FlipSid3,cobblestone,SLTV StarSeries XIII Finals,16,13,8,7,8,6,FlipSid3,31,21,1.54 
+2015,06,13,21:45,FlipSid3,Titan,cache,DreamHack Open Summer 2015,11,16,7,8,4,8,FlipSid3,28,21,1.31 
+2015,06,13,20:30,LGB,FlipSid3,cache,DreamHack Open Summer 2015,5,16,5,10,0,6,FlipSid3,19,10,1.51 
+2015,06,13,18:45,Titan,FlipSid3,cobblestone,DreamHack Open Summer 2015,19,16,5,10,10,5,FlipSid3,40,27,1.46 
+2015,05,09,18:30,dignitas,FlipSid3,mirage,DreamHack Open Tours 2015,16,4,13,2,3,2,FlipSid3,13,18,0.83 
+2015,05,09,16:10,Awsomniac,FlipSid3,cobblestone,DreamHack Open Tours 2015,6,16,2,13,4,3,FlipSid3,27,11,1.99 
+2015,05,09,13:30,dignitas,FlipSid3,mirage,DreamHack Open Tours 2015,19,17,9,6,6,9,FlipSid3,39,26,1.49 
+2015,04,19,22:15,HellRaisers,FlipSid3,overpass,CIS LAN Championship,10,16,8,7,2,9,FlipSid3,20,13,1.23 
+2015,04,19,22:15,HellRaisers,FlipSid3,cobblestone,CIS LAN Championship,7,16,7,8,0,8,FlipSid3,25,14,1.56 
+2015,04,19,15:45,HellRaisers,FlipSid3,inferno,CIS LAN Championship,13,16,8,7,5,9,FlipSid3,19,24,0.75 
+2015,04,19,15:45,HellRaisers,FlipSid3,mirage,CIS LAN Championship,9,16,7,8,2,8,FlipSid3,30,15,1.77 
+2015,04,18,19:00,USSR,FlipSid3,inferno,CIS LAN Championship,7,16,5,10,2,6,FlipSid3,20,12,1.24 
+2015,04,18,19:00,USSR,FlipSid3,nuke,CIS LAN Championship,8,16,8,7,0,9,FlipSid3,25,18,1.39 
+2015,04,17,22:30,FlipSid3,ACES,cobblestone,CIS LAN Championship,16,12,10,5,6,7,FlipSid3,26,21,1.21 
+2015,04,17,19:30,FlipSid3,GGWP,cobblestone,CIS LAN Championship,16,6,11,4,5,2,FlipSid3,14,10,1.11 
+2015,04,04,18:00,FlipSid3,dignitas,mirage,Copenhagen Games 2015,4,16,4,11,0,5,FlipSid3,7,19,0.39 
+2015,04,04,16:45,LGB,FlipSid3,mirage,Copenhagen Games 2015,3,16,3,12,0,4,FlipSid3,15,9,1.24 
+2015,04,04,15:15,FlipSid3,3DMAX,cache,Copenhagen Games 2015,19,17,11,4,4,11,FlipSid3,34,26,1.35 
+2015,04,04,13:30,FlipSid3,CPLAY,inferno,Copenhagen Games 2015,16,14,12,3,4,11,FlipSid3,38,18,2.02 
+2015,04,04,12:00,FlipSid3,SpaceSoldiers,nuke,Copenhagen Games 2015,16,14,13,2,3,12,FlipSid3,28,24,1.27 
+2015,04,04,10:00,FlipSid3,Menace,mirage,Copenhagen Games 2015,16,11,11,4,5,7,FlipSid3,31,18,1.55 
+2015,04,03,22:30,FlipSid3,dignitas,mirage,Copenhagen Games 2015,10,16,5,10,5,6,FlipSid3,19,24,0.99 
+2015,04,03,22:30,FlipSid3,dignitas,inferno,Copenhagen Games 2015,8,16,7,8,1,8,FlipSid3,22,19,1.18 
+2015,04,03,19:00,FlipSid3,Fraternitas,inferno,Copenhagen Games 2015,16,10,5,10,11,0,FlipSid3,25,18,1.41 
+2015,04,03,19:00,Fraternitas,FlipSid3,nuke,Copenhagen Games 2015,14,16,8,7,6,9,FlipSid3,18,22,0.80 
+2015,04,03,15:30,FlipSid3,CPLAY,cobblestone,Copenhagen Games 2015,19,22,13,2,2,13,FlipSid3,29,29,0.94 
+2015,04,03,15:30,FlipSid3,CPLAY,overpass,Copenhagen Games 2015,20,22,7,8,8,7,FlipSid3,43,30,1.39 
+2015,04,03,15:30,FlipSid3,CPLAY,nuke,Copenhagen Games 2015,16,3,12,3,4,0,FlipSid3,17,9,1.51 
+2015,04,03,12:00,FlipSid3,Temp.no,cache,Copenhagen Games 2015,16,3,14,1,2,2,FlipSid3,20,10,1.63 
+2015,04,03,12:00,FlipSid3,Temp.no,nuke,Copenhagen Games 2015,16,1,14,1,2,0,FlipSid3,19,11,1.70 
+2014,11,28,11:00,NiP,HellRaisers,inferno,DreamHack Winter 2014,16,6,10,5,6,1,HellRaisers,10,18,0.58 
+2014,11,28,11:00,HellRaisers,NiP,dust2,DreamHack Winter 2014,5,16,2,13,3,3,HellRaisers,15,18,0.82 
+2014,11,27,14:40,fnatic,HellRaisers,mirage,DreamHack Winter 2014,14,16,11,4,3,12,HellRaisers,27,18,1.36 
+2014,11,27,13:35,Cloud9,HellRaisers,inferno,DreamHack Winter 2014,5,16,2,13,3,3,HellRaisers,21,11,1.64 
+2014,11,01,12:00,fnatic,HellRaisers,inferno,ESWC 2014,16,10,12,3,4,7,HellRaisers,13,18,0.83 
+2014,11,01,12:00,HellRaisers,fnatic,nuke,ESWC 2014,11,16,8,7,3,9,HellRaisers,19,22,0.95 
+2014,10,31,16:30,HellRaisers,KaBuM.TD,mirage,ESWC 2014,16,5,13,2,3,3,HellRaisers,21,12,1.49 
+2014,10,31,14:30,NiP,HellRaisers,overpass,ESWC 2014,10,16,9,6,1,10,HellRaisers,27,16,1.54 
+2014,10,31,13:05,Titan,HellRaisers,mirage,ESWC 2014,6,16,6,9,0,7,HellRaisers,15,15,0.93 
+2014,10,31,11:50,HellRaisers,CPHWolves,dust2,ESWC 2014,7,16,7,8,0,8,HellRaisers,15,19,0.79 
+2014,10,31,09:45,HellRaisers,Platinium,dust2,ESWC 2014,16,12,6,9,10,3,HellRaisers,19,16,1.08 
+2014,10,05,14:15,NatusVincere,HellRaisers,overpass,Game Show CS:GO League LAN Fin..,16,13,9,6,7,7,HellRaisers,19,22,0.84 
+2014,10,05,14:15,HellRaisers,NatusVincere,dust2,Game Show CS:GO League LAN Fin..,16,6,11,4,5,2,HellRaisers,22,12,1.52 
+2014,10,05,14:15,HellRaisers,NatusVincere,cache,Game Show CS:GO League LAN Fin..,16,6,11,4,5,2,HellRaisers,26,13,1.53 
+2014,10,05,14:15,NatusVincere,HellRaisers,mirage,Game Show CS:GO League LAN Fin..,16,1,14,1,2,0,HellRaisers,5,16,0.33 
+2014,10,05,08:30,Virtus.pro,HellRaisers,overpass,Game Show CS:GO League LAN Fin..,9,16,3,12,6,4,HellRaisers,22,16,1.21 
+2014,10,05,08:30,Virtus.pro,HellRaisers,inferno,Game Show CS:GO League LAN Fin..,16,8,12,3,4,5,HellRaisers,12,18,0.67 
+2014,10,05,08:30,Virtus.pro,HellRaisers,mirage,Game Show CS:GO League LAN Fin..,19,22,10,5,5,10,HellRaisers,30,28,1.00 
+2014,10,04,12:00,NatusVincere,HellRaisers,inferno,Game Show CS:GO League LAN Fin..,16,12,9,6,7,6,HellRaisers,19,22,0.82 
+2014,10,04,12:00,HellRaisers,NatusVincere,mirage,Game Show CS:GO League LAN Fin..,14,16,9,6,5,10,HellRaisers,20,23,0.94 
+2014,10,03,08:20,HellRaisers,myXMG,inferno,Game Show CS:GO League LAN Fin..,16,11,8,7,8,4,HellRaisers,24,18,1.21 
+2014,10,03,08:20,HellRaisers,myXMG,mirage,Game Show CS:GO League LAN Fin..,16,7,11,4,5,3,HellRaisers,33,10,2.32 
+2014,10,03,08:20,myXMG,HellRaisers,overpass,Game Show CS:GO League LAN Fin..,16,8,14,1,2,7,HellRaisers,20,21,0.94 

@@ -1,0 +1,27 @@
+2016,08,15,12:30,AthleticoBH,SYF,mirage,ESEA Open Season 22 Oceania,16,10,7,8,9,2,SYF,19,17,1.05 
+2016,08,15,12:30,AthleticoBH,SYF,nuke,ESEA Open Season 22 Oceania,14,16,6,9,8,7,SYF,24,21,1.15 
+2016,08,15,12:30,AthleticoBH,SYF,overpass,ESEA Open Season 22 Oceania,16,7,10,5,6,2,SYF,12,19,0.63 
+2016,08,11,12:30,F7,SYF,cache,ESEA Open Season 22 Oceania,14,16,8,7,6,9,SYF,32,17,1.63 
+2016,08,11,12:30,SYF,F7,train,ESEA Open Season 22 Oceania,16,11,11,4,5,7,SYF,22,14,1.33 
+2016,07,25,12:00,SYF,Reload,mirage,CyberGamer Oceania eSports Mas..,16,2,13,2,3,0,SYF,14,5,1.34 
+2016,07,25,12:00,Reload,SYF,cobblestone,CyberGamer Oceania eSports Mas..,10,16,7,8,3,8,SYF,28,18,1.57 
+2016,07,25,12:00,SYF,Reload,train,CyberGamer Oceania eSports Mas..,20,22,12,3,3,12,SYF,27,31,0.90 
+2016,07,19,12:00,Legacy,SYF,cache,CyberGamer Oceania eSports Mas..,11,16,7,8,4,8,SYF,19,15,1.10 
+2016,07,19,12:00,Legacy,SYF,dust2,CyberGamer Oceania eSports Mas..,9,16,5,10,4,6,SYF,21,14,1.22 
+2016,07,19,12:00,Legacy,SYF,train,CyberGamer Oceania eSports Mas..,16,12,12,3,4,9,SYF,18,19,0.92 
+2016,07,17,12:00,ASDF,SYF,dust2,CyberGamer Oceania eSports Mas..,16,11,8,7,8,4,SYF,20,20,1.02 
+2016,07,17,12:00,SYF,ASDF,overpass,CyberGamer Oceania eSports Mas..,11,16,6,9,5,7,SYF,13,22,0.60 
+2016,07,10,12:00,InFamous,SYF,mirage,CyberGamer Oceania eSports Mas..,9,16,3,12,6,4,SYF,23,14,1.34 
+2016,07,10,12:00,SYF,InFamous,cache,CyberGamer Oceania eSports Mas..,16,5,12,3,4,2,SYF,18,14,1.29 
+2016,07,05,11:30,AVANTGARDE,SYF,train,CyberGamer Oceania eSports Mas..,16,13,10,5,6,8,SYF,18,25,0.83 
+2016,07,05,11:30,SYF,AVANTGARDE,mirage,CyberGamer Oceania eSports Mas..,14,16,7,8,7,8,SYF,20,22,0.81 
+2016,07,05,11:30,SYF,AVANTGARDE,cache,CyberGamer Oceania eSports Mas..,16,14,5,10,11,4,SYF,19,19,0.93 
+2016,04,21,11:00,Legacy,Chiefs,cache,PGL KeSPA Minor Oceania Qualif..,16,5,13,2,3,3,Chiefs,11,17,0.81 
+2016,04,21,11:00,Legacy,Chiefs,mirage,PGL KeSPA Minor Oceania Qualif..,16,14,6,9,10,5,Chiefs,22,21,1.01 
+2016,04,21,11:00,Chiefs,Legacy,inferno,PGL KeSPA Minor Oceania Qualif..,16,8,12,3,4,5,Chiefs,17,16,0.96 
+2015,09,22,14:00,AthleticoBH,AnimalSquad,cobblestone,FACEIT League 2015 Stage 3 OCE..,10,16,6,9,4,7,Athletico BH,16,16,0.92 
+2015,09,22,14:00,AnimalSquad,AthleticoBH,inferno,FACEIT League 2015 Stage 3 OCE..,21,15,9,6,6,9,Athletico BH,20,21,0.88 
+2015,09,21,13:00,VoxEminor,AthleticoBH,overpass,FACEIT League 2015 Stage 3 OCE..,12,16,9,6,3,10,Athletico BH,17,15,0.97 
+2015,09,21,13:00,VoxEminor,AthleticoBH,cobblestone,FACEIT League 2015 Stage 3 OCE..,8,16,2,13,6,3,Athletico BH,18,11,1.21 
+2015,05,27,12:00,SYF,Exile5,mirage,FACEIT League 2015 Stage 2 Oce..,9,16,6,9,3,7,SYF,21,18,1.26 
+2015,05,27,12:00,Exile5,SYF,cobblestone,FACEIT League 2015 Stage 2 Oce..,16,2,14,1,2,1,SYF,16,16,1.06 

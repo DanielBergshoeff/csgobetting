@@ -1,0 +1,60 @@
+2016,08,15,19:00,DarkPassage,SpaceSoldiers,cache,WESG 2016 Turkey,9,16,7,8,2,8,DarkPassage,19,18,1.10 
+2016,08,15,19:00,DarkPassage,SpaceSoldiers,cobblestone,WESG 2016 Turkey,8,16,4,11,4,5,DarkPassage,14,20,0.94 
+2016,08,14,22:30,Millennium,DarkPassage,mirage,WESG 2016 Turkey,6,16,6,9,0,7,DarkPassage,28,12,1.86 
+2016,08,14,22:30,DarkPassage,Millennium,cobblestone,WESG 2016 Turkey,25,23,8,7,7,8,DarkPassage,40,32,1.22 
+2016,08,08,16:00,Turkey,Uzbekistan,cobblestone,World Championships 2016 Europ..,16,2,13,2,3,0,Turkey,16,7,1.47 
+2016,08,08,16:00,Uzbekistan,Turkey,train,World Championships 2016 Europ..,10,16,9,6,1,10,Turkey,22,15,1.32 
+2016,08,07,15:10,Refuse,DarkPassage,cache,ECS Season 2 EU Open Qualifier..,16,12,9,6,7,6,DarkPassage,16,22,0.74 
+2016,07,31,17:00,DarkPassage,Spirit,dust2,Betway Invitational,11,16,3,12,8,4,DarkPassage,21,17,1.21 
+2016,07,31,17:00,Spirit,DarkPassage,mirage,Betway Invitational,24,28,8,7,7,8,DarkPassage,45,39,1.22 
+2016,07,31,17:00,DarkPassage,Spirit,cobblestone,Betway Invitational,14,16,4,11,10,5,DarkPassage,24,24,1.08 
+2016,07,30,17:00,DarkPassage,LGR,cobblestone,Betway Invitational,12,16,6,9,6,7,DarkPassage,19,15,1.07 
+2016,07,30,17:00,LGR,DarkPassage,dust2,Betway Invitational,16,9,11,4,5,5,DarkPassage,18,16,1.03 
+2016,07,28,20:20,DarkPassage,PENTA,cache,RGN Pro Series II EU Closed Qu..,16,10,8,7,8,3,DarkPassage,20,15,1.10 
+2016,07,28,20:20,PENTA,DarkPassage,cobblestone,RGN Pro Series II EU Closed Qu..,10,16,7,8,3,8,DarkPassage,28,14,1.63 
+2016,07,24,19:00,ArchAngels,DarkPassage,mirage,RGN Pro Series II EU Closed Qu..,16,7,9,6,7,1,DarkPassage,21,20,1.02 
+2016,07,24,19:00,DarkPassage,ArchAngels,cache,RGN Pro Series II EU Closed Qu..,22,19,7,8,8,7,DarkPassage,43,22,1.64 
+2016,07,24,19:00,ArchAngels,DarkPassage,cobblestone,RGN Pro Series II EU Closed Qu..,16,6,11,4,5,2,DarkPassage,25,18,1.36 
+2016,05,29,12:15,ex-Deathtrap,ENCE,cache,DreamHack ZOWIE Open Summer 20..,14,16,9,6,5,10,ex-Deathtrap,25,21,1.17 
+2016,05,29,12:15,ENCE,ex-Deathtrap,mirage,DreamHack ZOWIE Open Summer 20..,16,6,11,4,5,2,ex-Deathtrap,15,18,0.82 
+2016,05,28,18:00,ex-Deathtrap,fguru,cache,DreamHack ZOWIE Open Summer 20..,16,11,6,9,10,2,ex-Deathtrap,26,16,1.44 
+2016,05,25,21:15,FiVe,Deathtrap,cache,RGN Pro Series II EU Closed Qu..,7,16,7,8,0,8,Deathtrap,26,11,2.00 
+2016,05,25,21:15,Deathtrap,FiVe,cobblestone,RGN Pro Series II EU Closed Qu..,16,11,7,8,9,3,Deathtrap,25,16,1.28 
+2016,05,18,19:00,Deathtrap,k1ck,dust2,RGN Pro Series II EU Closed Qu..,16,14,5,10,11,4,Deathtrap,24,22,1.10 
+2016,05,18,19:00,k1ck,Deathtrap,cache,RGN Pro Series II EU Closed Qu..,14,16,9,6,5,10,Deathtrap,28,21,1.24 
+2016,05,12,21:00,Deathtrap,CS-GO.rs,dust2,Balkan Championship Season 3,16,3,12,3,4,0,Deathtrap,16,7,1.49 
+2016,05,09,19:00,Deathtrap,iNation,cache,Balkan Championship Season 3,16,5,10,5,6,0,Deathtrap,12,13,0.87 
+2016,04,23,21:30,XPC,Deathtrap,cache,Balkan Championship Season 3,16,6,10,5,6,1,Deathtrap,11,18,0.67 
+2016,04,22,22:00,GameAgents,Deathtrap,cobblestone,Balkan Championship Season 3,16,12,11,4,5,8,Deathtrap,12,21,0.71 
+2016,04,11,21:15,Deathtrap,Pixel,dust2,Balkan Championship Season 3,19,16,6,9,9,6,Deathtrap,32,24,1.24 
+2016,04,07,19:00,Bpro,Deathtrap,train,Balkan Championship Season 3,16,8,11,4,5,4,Deathtrap,18,21,0.87 
+2016,04,04,21:00,aimclub,Deathtrap,cache,Balkan Championship Season 3,16,12,6,9,10,3,Deathtrap,29,18,1.51 
+2016,03,30,19:00,Deathtrap,TogetherAsOne,cache,Balkan Championship Season 3,16,8,9,6,7,2,Deathtrap,25,11,1.67 
+2016,03,27,18:00,Deathtrap,SuperMassive,cache,Balkan Championship Season 3,16,3,12,3,4,0,Deathtrap,12,9,0.96 
+2016,03,22,22:00,RB,Deathtrap,dust2,Balkan Championship Season 3,9,16,8,7,1,9,Deathtrap,24,12,1.53 
+2016,03,08,23:50,ex-Epiphany,Deathtrap,cobblestone,Razer Rising Stars European Le..,16,6,11,4,5,2,Deathtrap,13,19,0.66 
+2016,03,08,21:50,Deathtrap,GameAgents,mirage,Razer Rising Stars European Le..,16,6,9,6,7,0,Deathtrap,20,14,1.21 
+2016,02,24,21:15,Pixel,Deathtrap,mirage,Balkan Challenge #1,12,16,4,11,8,5,Deathtrap,24,18,1.17 
+2016,02,24,21:15,Pixel,Deathtrap,inferno,Balkan Challenge #1,14,16,7,8,7,8,Deathtrap,24,20,1.15 
+2016,02,24,19:00,Deathtrap,iNation,train,Balkan Challenge #1,16,10,11,4,5,6,Deathtrap,19,13,1.20 
+2016,02,22,22:00,Deathtrap,GIANT5,cache,Balkan Challenge #1,16,9,11,4,5,5,Deathtrap,31,14,1.95 
+2016,02,22,20:00,Deathtrap,Pixel,cobblestone,Balkan Challenge #1,16,13,5,10,11,3,Deathtrap,21,19,1.13 
+2016,01,10,12:00,Deathtrap,FlipSid3,cache,DreamHack Open Leipzig 2016 Cl..,4,16,4,11,0,5,Deathtrap,7,18,0.46 
+2016,01,10,12:00,Deathtrap,FlipSid3,train,DreamHack Open Leipzig 2016 Cl..,17,21,5,10,10,5,Deathtrap,38,25,1.42 
+2015,09,28,19:00,Slovakia,Turkey,cobblestone,World Championships 2015 Europ..,16,2,13,2,3,0,Turkey,10,16,0.72 
+2015,09,28,17:00,Turkey,Finland,mirage,World Championships 2015 Europ..,3,16,3,12,0,4,Turkey,5,17,0.37 
+2015,08,29,15:00,Turkey,Georgia,mirage,World Championships 2015 Europ..,16,10,10,5,6,5,Turkey,15,18,0.89 
+2015,08,29,15:00,Georgia,Turkey,dust2,World Championships 2015 Europ..,16,11,8,7,8,4,Turkey,18,19,0.93 
+2015,08,29,15:00,Georgia,Turkey,cache,World Championships 2015 Europ..,10,16,7,8,3,8,Turkey,17,15,1.05 
+2015,05,22,21:00,H2B,SpaceSoldiers,mirage,Balkan Championship Season 2,13,16,8,7,5,9,Space Soldiers,19,19,0.93 
+2015,05,22,21:00,H2B,SpaceSoldiers,dust2,Balkan Championship Season 2,16,13,4,11,12,2,Space Soldiers,20,16,1.04 
+2015,05,22,21:00,H2B,SpaceSoldiers,cache,Balkan Championship Season 2,12,16,6,9,6,7,Space Soldiers,14,16,0.81 
+2015,04,20,18:00,TRICKED,WMTF,cobblestone,ESL South East Europe Champion..,8,16,3,12,5,4,WMTF,23,11,1.56 
+2015,04,20,18:00,TRICKED,WMTF,inferno,ESL South East Europe Champion..,16,5,12,3,4,2,WMTF,19,18,1.23 
+2015,04,20,18:00,TRICKED,WMTF,mirage,ESL South East Europe Champion..,10,16,7,8,3,8,WMTF,25,14,1.43 
+2015,04,16,18:00,Wrecking,WMTF,cache,ESL South East Europe Champion..,5,16,4,11,1,5,WMTF,20,7,1.46 
+2015,04,16,18:00,Wrecking,WMTF,mirage,ESL South East Europe Champion..,11,16,10,5,1,11,WMTF,28,16,1.39 
+2015,04,16,18:00,WMTF,Wrecking,inferno,ESL South East Europe Champion..,14,16,12,3,2,13,WMTF,19,21,0.93 
+2014,12,13,18:25,ZajebaNi,SpaceSoldiers,mirage,South East Europe Championship,10,16,7,8,3,8,Space Soldiers,21,11,1.39 
+2014,12,13,18:18,ZajebaNi,SpaceSoldiers,dust2,South East Europe Championship,2,16,2,13,0,3,Space Soldiers,17,6,1.59 
+2014,09,30,22:00,Turkey,Norway,inferno,European Championship 2014,14,16,9,6,5,10,Turkey,23,20,1.05 

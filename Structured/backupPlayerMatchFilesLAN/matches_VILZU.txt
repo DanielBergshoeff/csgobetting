@@ -1,0 +1,19 @@
+2014,10,05,19:45,juho'steam,sAw'steam,mirage,Areena #6 by ROCCAT,5,16,3,12,2,4,sAw's team,17,10,1.27 
+2014,10,05,19:45,sAw'steam,juho'steam,nuke,Areena #6 by ROCCAT,16,9,13,2,3,7,sAw's team,25,14,1.31 
+2014,10,05,18:50,sAw'steam,naSu'steam,nuke,Areena #6 by ROCCAT,16,12,12,3,4,9,sAw's team,30,15,1.56 
+2014,10,05,17:40,sAw'steam,juho'steam,dust2,Areena #6 by ROCCAT,16,19,9,6,6,9,sAw's team,23,25,0.96 
+2014,10,05,16:45,naSu'steam,sAw'steam,mirage,Areena #6 by ROCCAT,14,16,12,3,2,13,sAw's team,20,20,0.96 
+2014,10,05,14:30,sAw'steam,juho'steam,mirage,Areena #6 by ROCCAT,15,15,9,6,6,9,sAw's team,22,20,1.10 
+2014,10,05,13:10,Twista'steam,sAw'steam,dust2,Areena #6 by ROCCAT,16,13,10,5,6,8,sAw's team,19,22,0.88 
+2014,10,05,12:20,KIPSIk'steam,sAw'steam,mirage,Areena #6 by ROCCAT,11,16,7,8,4,8,sAw's team,17,18,0.99 
+2014,10,05,11:20,naSu'steam,sAw'steam,nuke,Areena #6 by ROCCAT,13,16,7,8,6,8,sAw's team,19,20,0.88 
+2014,10,05,10:25,sAw'steam,fAlsu'steam,dust2,Areena #6 by ROCCAT,16,10,9,6,7,4,sAw's team,19,14,1.12 
+2014,10,05,09:35,sAw'steam,osku'steam,mirage,Areena #6 by ROCCAT,16,6,10,5,6,1,sAw's team,14,12,1.01 
+2014,10,04,15:35,Superstars,myMDL,mirage,Areena #5 by ROCCAT,16,10,7,8,9,2,myMDL,23,19,1.14 
+2014,10,04,13:50,Hanatauki,myMDL,mirage,Areena #5 by ROCCAT,16,14,7,8,9,6,myMDL,23,22,1.03 
+2014,10,04,12:55,Menace,myMDL,dust2,Areena #5 by ROCCAT,16,9,11,4,5,5,myMDL,13,22,0.67 
+2014,10,04,12:00,GLSHAKER,myMDL,mirage,Areena #5 by ROCCAT,16,13,9,6,7,7,myMDL,25,21,1.17 
+2014,10,04,11:00,ROTY,myMDL,mirage,Areena #5 by ROCCAT,13,16,10,5,3,11,myMDL,21,18,1.03 
+2014,10,04,10:00,Jynttä,myMDL,inferno,Areena #5 by ROCCAT,16,7,11,4,5,3,myMDL,20,18,1.08 
+2014,07,31,18:30,Joutsenlaulu,TMVG,dust2,ASUS ROG Summer 2014,13,16,8,7,5,9,Joutsenlaulu,19,21,0.87 
+2014,07,31,16:00,Publiclir.se,Joutsenlaulu,mirage,ASUS ROG Summer 2014,16,3,12,3,4,0,Joutsenlaulu,9,18,0.47 

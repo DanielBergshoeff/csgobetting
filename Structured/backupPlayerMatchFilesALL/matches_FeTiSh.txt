@@ -1,0 +1,112 @@
+2015,02,15,19:00,KaBuM.TD,dignitas,inferno,ESL One Katowice 2015 Main Qua..,16,3,13,2,3,1,dignitas,6,18,0.31 
+2015,02,15,18:42,dignitas,VoxEminor,inferno,ESL One Katowice 2015 Main Qua..,13,16,3,12,10,4,dignitas,17,19,0.85 
+2015,02,15,16:20,ESC,dignitas,mirage,ESL One Katowice 2015 Main Qua..,11,16,6,9,5,7,dignitas,7,19,0.50 
+2015,01,20,21:15,Virtus.pro,Deponeret,cobblestone,SLTV StarSeries XII,16,3,13,2,3,1,Deponeret,6,18,0.31 
+2015,01,20,21:15,Virtus.pro,Deponeret,nuke,SLTV StarSeries XII,16,8,9,6,7,2,Deponeret,13,19,0.70 
+2015,01,20,18:00,PENTA,Deponeret,mirage,SLTV StarSeries XII,11,16,8,7,3,9,Deponeret,13,23,0.59 
+2015,01,20,18:00,Deponeret,PENTA,dust2,SLTV StarSeries XII,19,17,7,8,8,7,Deponeret,19,27,0.74 
+2014,11,28,21:15,dignitas,NatusVincere,mirage,DreamHack Winter 2014,13,16,12,3,1,13,dignitas,19,25,0.77 
+2014,11,28,21:15,NatusVincere,dignitas,cobblestone,DreamHack Winter 2014,16,3,12,3,4,0,dignitas,9,18,0.50 
+2014,11,27,14:00,dignitas,iBUYPOWER,nuke,DreamHack Winter 2014,16,7,13,2,3,5,dignitas,15,12,1.06 
+2014,11,27,12:10,dignitas,PENTA,nuke,DreamHack Winter 2014,16,9,13,2,3,7,dignitas,18,13,1.11 
+2014,11,08,13:00,dignitas,fnatic,mirage,Fragbite Masters Season 3,13,16,12,3,1,13,dignitas,19,23,0.90 
+2014,11,08,13:00,fnatic,dignitas,inferno,Fragbite Masters Season 3,16,6,11,4,5,2,dignitas,7,18,0.47 
+2014,11,04,19:00,LDLC,dignitas,inferno,Hitbox Arena Championship 3,13,16,8,7,5,9,dignitas,13,19,0.76 
+2014,11,01,12:02,Virtus.pro,dignitas,mirage,ESWC 2014,16,12,10,5,6,7,dignitas,21,18,1.20 
+2014,11,01,12:00,dignitas,Virtus.pro,inferno,ESWC 2014,16,14,9,6,7,8,dignitas,25,19,1.22 
+2014,11,01,12:00,Virtus.pro,dignitas,overpass,ESWC 2014,16,9,11,4,5,5,dignitas,10,21,0.51 
+2014,10,31,17:30,dignitas,iBUYPOWER,inferno,ESWC 2014,16,14,9,6,7,8,dignitas,10,25,0.47 
+2014,10,31,15:30,dignitas,mousesports,dust2,ESWC 2014,16,5,10,5,6,0,dignitas,10,9,0.95 
+2014,10,31,12:40,Cipangu.GO,dignitas,nuke,ESWC 2014,9,16,9,6,0,10,dignitas,15,13,0.99 
+2014,10,31,11:30,GPlay,dignitas,inferno,ESWC 2014,5,16,4,11,1,5,dignitas,11,14,0.72 
+2014,10,31,09:45,dignitas,3DMAX,dust2,ESWC 2014,16,2,13,2,3,0,dignitas,11,8,1.16 
+2014,10,28,18:00,dignitas,NatusVincere,dust2,Fragbite Masters Season 3,16,2,13,2,3,0,dignitas,7,7,0.86 
+2014,10,28,18:00,NatusVincere,dignitas,inferno,Fragbite Masters Season 3,17,19,9,6,6,9,dignitas,27,32,0.85 
+2014,10,25,11:47,iBUYPOWER,dignitas,nuke,FACEIT League Season 2 Finals,13,16,11,4,2,12,dignitas,17,20,0.90 
+2014,10,25,10:38,iBUYPOWER,dignitas,dust2,FACEIT League Season 2 Finals,16,3,12,3,4,0,dignitas,6,17,0.35 
+2014,10,24,16:15,fnatic,dignitas,mirage,FACEIT League Season 2 Finals,16,5,11,4,5,1,dignitas,9,20,0.45 
+2014,10,24,15:25,fnatic,dignitas,overpass,FACEIT League Season 2 Finals,16,3,13,2,3,1,dignitas,11,18,0.62 
+2014,10,21,18:00,Virtus.pro,dignitas,mirage,Fragbite Masters Season 3,16,11,10,5,6,6,dignitas,11,21,0.52 
+2014,10,20,20:00,dignitas,Virtus.pro,overpass,Hitbox Arena Championship 3,16,9,13,2,3,7,dignitas,19,12,1.29 
+2014,10,20,20:00,Virtus.pro,dignitas,inferno,Hitbox Arena Championship 3,7,16,6,9,1,7,dignitas,22,14,1.47 
+2014,10,20,20:00,dignitas,Virtus.pro,cache,Hitbox Arena Championship 3,6,16,5,10,1,6,dignitas,7,19,0.46 
+2014,10,14,21:10,NiP,dignitas,dust2,Fragbite Masters Season 3,3,16,3,12,0,4,dignitas,12,9,1.02 
+2014,10,14,21:10,NiP,dignitas,inferno,Fragbite Masters Season 3,14,16,10,5,4,11,dignitas,14,21,0.67 
+2014,10,10,20:00,MTW,dignitas,dust2,Hitbox Arena Championship 3,6,16,5,10,1,6,dignitas,11,14,0.82 
+2014,10,10,20:00,MTW,dignitas,overpass,Hitbox Arena Championship 3,4,16,4,11,0,5,dignitas,11,10,0.90 
+2014,10,09,21:00,dignitas,HellRaisers,mirage,FACEIT League EU Season 2,16,5,12,3,4,2,dignitas,17,11,1.26 
+2014,10,09,19:00,dignitas,Titan,overpass,FACEIT League EU Season 2,7,16,3,12,4,4,dignitas,10,20,0.55 
+2014,10,09,18:00,Virtus.pro,dignitas,overpass,FACEIT League EU Season 2,16,7,9,6,7,1,dignitas,10,21,0.51 
+2014,10,07,23:17,dignitas,Epsilon,dust2,FACEIT League EU Season 2,16,7,9,6,7,1,dignitas,14,9,1.08 
+2014,10,07,19:00,dignitas,Titan,inferno,FACEIT League EU Season 2,16,11,10,5,6,6,dignitas,20,15,1.17 
+2014,10,06,21:00,dignitas,NiP,overpass,FACEIT League EU Season 2,16,9,11,4,5,5,dignitas,15,18,0.87 
+2014,10,06,19:00,LDLC,dignitas,dust2,FACEIT League EU Season 2,16,13,6,9,10,4,dignitas,19,20,0.94 
+2014,10,04,20:48,dignitas,mousesports,mirage,Fragbite Masters Season 3,16,11,8,7,8,4,dignitas,21,14,1.25 
+2014,10,04,20:40,dignitas,mousesports,overpass,Fragbite Masters Season 3,16,1,14,1,2,0,dignitas,8,10,0.83 
+2014,09,25,22:55,dignitas,3DMAX,dust2,DreamHack Stockholm CS:GO Invi..,17,19,4,11,11,4,dignitas,17,23,0.77 
+2014,09,25,20:45,fnatic,dignitas,cache,DreamHack Stockholm CS:GO Invi..,19,16,12,3,3,12,dignitas,15,25,0.67 
+2014,09,25,19:30,dignitas,CPHWolves,inferno,DreamHack Stockholm CS:GO Invi..,16,14,11,4,5,10,dignitas,9,20,0.54 
+2014,09,18,21:00,dignitas,NiP,dust2,FACEIT League EU Season 2,16,4,11,4,5,0,dignitas,12,6,1.17 
+2014,09,17,22:35,Epsilon,dignitas,overpass,FACEIT League EU Season 2,8,16,3,12,5,4,dignitas,18,12,1.18 
+2014,09,15,21:15,OverGaming,dignitas,inferno,Hitbox Arena Championship 3,8,16,6,9,2,7,dignitas,10,14,0.71 
+2014,09,15,21:15,OverGaming,dignitas,nuke,Hitbox Arena Championship 3,18,22,1,14,14,1,dignitas,20,27,0.73 
+2014,09,10,23:00,dignitas,HellRaisers,nuke,FACEIT League EU Season 2,31,28,10,5,5,10,dignitas,41,42,0.98 
+2014,09,04,23:00,dignitas,Virtus.pro,season,FACEIT League EU Season 2,11,16,7,8,4,8,dignitas,5,22,0.31 
+2014,08,17,09:20,dignitas,fnatic,overpass,ESL One Cologne 2014,14,16,11,4,3,12,dignitas,15,23,0.67 
+2014,08,17,09:20,fnatic,dignitas,dust2,ESL One Cologne 2014,16,11,9,6,7,5,dignitas,17,17,1.11 
+2014,08,16,13:25,Epsilon,dignitas,inferno,ESL One Cologne 2014,8,16,1,14,7,2,dignitas,14,15,0.91 
+2014,08,16,13:25,dignitas,Epsilon,dust2,ESL One Cologne 2014,16,9,11,4,5,5,dignitas,18,13,1.13 
+2014,08,15,20:30,dignitas,Titan,nuke,ESL One Cologne 2014,16,1,14,1,2,0,dignitas,21,9,1.59 
+2014,08,15,19:00,dignitas,Cloud9,mirage,ESL One Cologne 2014,14,16,10,5,4,11,dignitas,22,19,1.01 
+2014,08,14,17:30,dignitas,VoxEminor,dust2,ESL One Cologne 2014,16,9,9,6,7,3,dignitas,15,16,0.91 
+2014,08,03,19:30,dignitas,Virtus.pro,inferno,Gfinity 3,12,16,10,5,2,11,dignitas,16,22,0.74 
+2014,08,03,19:30,Virtus.pro,dignitas,cache,Gfinity 3,16,2,13,2,3,0,dignitas,5,18,0.23 
+2014,08,03,19:30,dignitas,Virtus.pro,dust2,Gfinity 3,16,7,12,3,4,4,dignitas,13,11,1.00 
+2014,08,03,14:30,NiP,dignitas,inferno,Gfinity 3,11,16,6,9,5,7,dignitas,17,17,0.89 
+2014,08,03,14:30,dignitas,NiP,cache,Gfinity 3,16,4,12,3,4,1,dignitas,11,13,0.80 
+2014,08,02,21:35,Virtus.pro,dignitas,nuke,Gfinity 3,7,16,2,13,5,3,dignitas,19,17,1.03 
+2014,08,02,20:15,mousesports,dignitas,dust2,Gfinity 3,11,16,4,11,7,5,dignitas,17,19,0.88 
+2014,08,02,17:20,dignitas,ESG!,dust2,Gfinity 3,16,7,12,3,4,4,dignitas,13,12,0.96 
+2014,08,02,13:25,Titan,dignitas,inferno,Gfinity 3,7,16,4,11,3,5,dignitas,13,17,0.79 
+2014,06,22,22:00,dignitas,NiP,dust2,Team Dignitas CS:GO SCAN Invit..,16,5,11,4,5,1,dignitas,13,12,0.92 
+2014,06,22,22:00,NiP,dignitas,nuke,Team Dignitas CS:GO SCAN Invit..,16,7,9,6,7,1,dignitas,7,22,0.29 
+2014,06,22,22:00,dignitas,NiP,season,Team Dignitas CS:GO SCAN Invit..,16,10,10,5,6,5,dignitas,10,18,0.62 
+2014,06,22,18:00,dignitas,dAT,inferno,Team Dignitas CS:GO SCAN Invit..,16,2,13,2,3,0,dignitas,12,8,1.11 
+2014,06,22,18:00,dignitas,dAT,nuke,Team Dignitas CS:GO SCAN Invit..,16,13,10,5,6,8,dignitas,26,19,1.35 
+2014,06,22,13:00,Refuse,dignitas,nuke,Team Dignitas CS:GO SCAN Invit..,4,16,4,11,0,5,dignitas,20,11,1.43 
+2014,06,22,13:00,dignitas,Refuse,mirage,Team Dignitas CS:GO SCAN Invit..,16,9,12,3,4,6,dignitas,14,17,0.85 
+2014,06,01,21:20,Virtus.pro,dignitas,season,FACEIT Spring League 2014,16,14,10,5,6,9,dignitas,16,20,0.81 
+2014,06,01,21:20,Virtus.pro,dignitas,inferno,FACEIT Spring League 2014,16,10,10,5,6,5,dignitas,17,22,0.83 
+2014,06,01,18:15,dignitas,Virtus.pro,mirage,FACEIT Spring League 2014,16,7,9,6,7,1,dignitas,20,11,1.35 
+2014,06,01,18:15,dignitas,Virtus.pro,dust2,FACEIT Spring League 2014,16,5,11,4,5,1,dignitas,18,10,1.36 
+2014,06,01,18:15,dignitas,Virtus.pro,season,FACEIT Spring League 2014,13,16,4,11,9,5,dignitas,15,21,0.69 
+2014,05,31,15:00,Titan,dignitas,inferno,FACEIT Spring League 2014,10,16,6,9,4,7,dignitas,8,15,0.65 
+2014,05,31,15:00,Titan,dignitas,mirage,FACEIT Spring League 2014,12,16,8,7,4,9,dignitas,22,24,0.94 
+2014,05,22,21:30,dignitas,fnatic,dust2,FACEIT Spring League 2014,16,12,5,10,11,2,dignitas,17,18,0.99 
+2014,05,21,21:00,LDLC,dignitas,inferno,FACEIT Spring League 2014,9,16,7,8,2,8,dignitas,12,16,0.79 
+2014,05,19,21:15,NiP,dignitas,inferno,Mikz Challenge,16,9,10,5,6,4,dignitas,14,18,0.86 
+2014,05,19,21:15,NiP,dignitas,dust2,Mikz Challenge,16,1,14,1,2,0,dignitas,6,16,0.45 
+2014,05,19,21:09,fnatic,dignitas,inferno,Mikz Challenge,7,16,5,10,2,6,dignitas,16,10,1.14 
+2014,05,19,18:15,dignitas,fnatic,mirage,Mikz Challenge,22,20,8,7,7,8,dignitas,21,30,0.68 
+2014,05,18,20:20,NiP,dignitas,dust2,Mikz Challenge,16,6,11,4,5,2,dignitas,12,19,0.67 
+2014,05,18,20:20,NiP,dignitas,nuke,Mikz Challenge,10,16,5,10,5,6,dignitas,13,16,0.89 
+2014,05,18,20:20,dignitas,NiP,inferno,Mikz Challenge,11,16,10,5,1,11,dignitas,21,22,1.06 
+2014,05,15,19:00,Titan,dignitas,dust2,FACEIT Spring League 2014,11,16,7,8,4,8,dignitas,12,16,0.75 
+2014,05,14,22:30,dignitas,LGB,mirage,FACEIT Spring League 2014,8,16,8,7,0,9,dignitas,13,18,0.70 
+2014,05,08,19:00,dignitas,NiP,inferno,FACEIT Spring League 2014,16,12,11,4,5,8,dignitas,12,20,0.65 
+2014,05,07,19:00,dignitas,Wizards,inferno,FACEIT Spring League 2014,16,6,13,2,3,4,dignitas,14,13,1.00 
+2014,04,30,20:00,Virtus.pro,dignitas,inferno,FACEIT Spring League 2014,13,16,8,7,5,9,dignitas,14,24,0.62 
+2014,04,28,23:40,dignitas,NiP,dust2,eSportsventure Cup,6,16,6,9,0,7,dignitas,12,18,0.71 
+2014,04,28,23:40,NiP,dignitas,inferno,eSportsventure Cup,11,16,8,7,3,9,dignitas,14,17,0.91 
+2014,04,28,23:40,dignitas,NiP,nuke,eSportsventure Cup,7,16,4,11,3,5,dignitas,10,18,0.63 
+2014,04,28,20:30,dignitas,fnatic,inferno,eSportsventure Cup,25,22,10,5,5,10,dignitas,22,33,0.75 
+2014,04,28,20:30,fnatic,dignitas,mirage,eSportsventure Cup,16,11,12,3,4,8,dignitas,14,21,0.79 
+2014,04,28,20:30,dignitas,fnatic,dust2,eSportsventure Cup,16,11,9,6,7,5,dignitas,18,16,0.98 
+2014,04,22,20:00,Clan-Mystik,dignitas,mirage,Gfinity Alienware Pro League S..,7,16,7,8,0,8,dignitas,19,16,1.12 
+2014,04,22,20:00,dignitas,Clan-Mystik,nuke,Gfinity Alienware Pro League S..,16,8,12,3,4,5,dignitas,21,13,1.42 
+2014,04,19,14:00,NiP,dignitas,nuke,Copenhagen Games 2014,16,11,12,3,4,8,dignitas,21,19,1.11 
+2014,04,19,14:00,dignitas,NiP,inferno,Copenhagen Games 2014,15,19,11,4,4,11,dignitas,14,23,0.71 
+2014,04,19,10:00,dignitas,fnatic,mirage,Copenhagen Games 2014,19,16,9,6,6,9,dignitas,25,23,1.06 
+2014,04,19,10:00,dignitas,fnatic,inferno,Copenhagen Games 2014,22,20,10,5,5,10,dignitas,27,31,0.89 
+2014,04,18,21:00,dignitas,H2k,inferno,Copenhagen Games 2014,16,11,12,3,4,8,dignitas,14,17,0.80 
+2014,04,18,21:00,H2k,dignitas,mirage,Copenhagen Games 2014,9,16,6,9,3,7,dignitas,13,18,0.76 

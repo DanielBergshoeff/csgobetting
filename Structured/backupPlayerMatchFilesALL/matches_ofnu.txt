@@ -1,0 +1,60 @@
+2016,05,21,11:55,Immunity,TyLoo,overpass,Showmatch CS:GO,7,16,5,10,2,6,Immunity,8,18,0.49 
+2016,05,21,11:55,Immunity,TyLoo,cache,Showmatch CS:GO,6,16,6,9,0,7,Immunity,13,16,0.80 
+2016,05,19,05:40,Immunity,MVP.karnal,overpass,WCA Season 1 APAC Finals,16,3,13,2,3,1,Immunity,17,10,1.62 
+2016,05,19,05:40,Immunity,MVP.karnal,dust2,WCA Season 1 APAC Finals,16,13,8,7,8,6,Immunity,18,18,1.05 
+2016,05,19,05:40,Immunity,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,10,13,2,3,8,Immunity,22,17,1.26 
+2016,05,19,05:40,MVP.karnal,Immunity,cobblestone,WCA Season 1 APAC Finals,16,9,9,6,7,3,Immunity,18,19,0.96 
+2016,05,18,07:35,TheMongolz,Immunity,overpass,WCA Season 1 APAC Finals,10,16,9,6,1,10,Immunity,21,16,1.26 
+2016,05,18,07:35,Immunity,TheMongolz,cache,WCA Season 1 APAC Finals,16,11,6,9,10,2,Immunity,17,17,0.96 
+2016,04,21,14:00,Immunity,Legacy,mirage,PGL KeSPA Minor Oceania Qualif..,19,17,9,6,6,9,Legacy,20,26,0.74 
+2016,04,21,14:00,Legacy,Immunity,cache,PGL KeSPA Minor Oceania Qualif..,14,16,5,10,9,6,Legacy,24,21,1.16 
+2016,04,21,11:00,Legacy,Chiefs,cache,PGL KeSPA Minor Oceania Qualif..,16,5,13,2,3,3,Legacy,12,7,1.16 
+2016,04,21,11:00,Legacy,Chiefs,mirage,PGL KeSPA Minor Oceania Qualif..,16,14,6,9,10,5,Legacy,27,24,1.22 
+2016,04,21,11:00,Chiefs,Legacy,inferno,PGL KeSPA Minor Oceania Qualif..,16,8,12,3,4,5,Legacy,14,20,0.79 
+2016,03,13,09:15,VG.CyberZen,Legacy,overpass,DreamHack Masters Malmö 2016 A..,16,7,9,6,7,1,Legacy,15,18,0.82 
+2016,03,13,09:15,Legacy,VG.CyberZen,dust2,DreamHack Masters Malmö 2016 A..,17,19,5,10,10,5,Legacy,30,25,1.22 
+2016,03,13,06:25,Legacy,EDG,mirage,DreamHack Masters Malmö 2016 A..,16,13,12,3,4,10,Legacy,29,21,1.42 
+2016,03,13,06:25,EDG,Legacy,dust2,DreamHack Masters Malmö 2016 A..,10,16,6,9,4,7,Legacy,17,16,0.99 
+2015,12,10,12:00,Legacy,Exile5,cobblestone,Counter Pit League Season 2,16,13,8,7,8,6,Legacy,19,18,1.00 
+2015,12,10,12:00,Legacy,Exile5,mirage,Counter Pit League Season 2,22,18,12,3,3,12,Legacy,36,30,1.22 
+2015,12,09,10:00,Chiefs,Legacy,dust2,Counter Pit League Season 2,1,16,1,14,0,2,Legacy,21,6,1.97 
+2015,12,09,10:00,Legacy,Chiefs,mirage,Counter Pit League Season 2,16,12,9,6,7,6,Legacy,19,21,0.94 
+2015,12,07,12:00,VoxEminor,Legacy,mirage,Counter Pit League Season 2,8,16,7,8,1,8,Legacy,17,15,1.04 
+2015,12,07,12:00,VoxEminor,Legacy,cobblestone,Counter Pit League Season 2,8,16,5,10,3,6,Legacy,23,13,1.54 
+2015,12,06,10:00,Legacy,Immunity,cache,Counter Pit League Season 2,6,16,2,13,4,3,Legacy,11,17,0.68 
+2015,12,06,10:00,Legacy,Immunity,inferno,Counter Pit League Season 2,11,16,6,9,5,7,Legacy,16,20,0.86 
+2015,12,05,09:00,Legacy,TRIDENT,mirage,Counter Pit League Season 2,16,4,13,2,3,2,Legacy,12,14,0.83 
+2015,12,05,09:00,TRIDENT,Legacy,cache,Counter Pit League Season 2,10,16,3,12,7,4,Legacy,20,16,1.18 
+2015,11,27,12:00,Legacy,Liquid,cache,FACEIT League 2015 Stage 3 Fin..,11,16,7,8,4,8,Legacy,17,21,0.88 
+2015,11,27,12:00,Legacy,Liquid,cobblestone,FACEIT League 2015 Stage 3 Fin..,8,16,3,12,5,4,Legacy,13,21,0.60 
+2015,11,26,13:00,Virtus.pro,Legacy,cobblestone,FACEIT League 2015 Stage 3 Fin..,16,12,9,6,7,6,Legacy,21,19,1.20 
+2015,11,16,22:00,DeadPixels,Legacy,mirage,Red Dot Closed Qualifier,16,7,9,6,7,1,Legacy,14,21,0.71 
+2015,11,16,19:00,E-frag.net,Legacy,inferno,Red Dot Closed Qualifier,15,5,10,5,5,0,Legacy,10,19,0.56 
+2015,10,18,12:00,AnimalSquad,fSociety,cache,FACEIT League 2015 Stage 3,21,18,6,9,9,6,Animal Squad,34,25,1.23 
+2015,10,17,13:00,AnimalSquad,Chiefs,cache,FACEIT League 2015 Stage 3,11,16,9,6,2,10,Animal Squad,20,20,0.96 
+2015,10,16,11:30,Immunity,AnimalSquad,mirage,FACEIT League 2015 Stage 3,9,16,5,10,4,6,Animal Squad,23,12,1.47 
+2015,10,04,13:40,Exile5,AnimalSquad,mirage,FACEIT League 2015 Stage 3,16,8,9,6,7,2,Animal Squad,12,20,0.72 
+2015,10,03,14:15,AnimalSquad,Renegades,cache,FACEIT League 2015 Stage 3,16,8,10,5,6,3,Animal Squad,17,10,1.26 
+2015,09,22,14:00,AthleticoBH,AnimalSquad,cobblestone,FACEIT League 2015 Stage 3 OCE..,10,16,6,9,4,7,Animal Squad,13,16,0.82 
+2015,09,22,14:00,AnimalSquad,AthleticoBH,inferno,FACEIT League 2015 Stage 3 OCE..,21,15,9,6,6,9,Animal Squad,21,25,0.82 
+2015,09,21,13:00,RiP,AnimalSquad,dust2,FACEIT League 2015 Stage 3 OCE..,7,16,4,11,3,5,Animal Squad,14,10,1.12 
+2015,09,21,13:00,RiP,AnimalSquad,mirage,FACEIT League 2015 Stage 3 OCE..,10,16,4,11,6,5,Animal Squad,25,15,1.42 
+2015,06,21,12:00,AVANTGARDE,Exile5,dust2,FACEIT League 2015 Stage 2,13,16,5,10,8,6,Exile5,24,17,1.31 
+2015,06,20,13:30,Renegades,Exile5,inferno,FACEIT League 2015 Stage 2,16,11,7,8,9,3,Exile5,20,19,1.05 
+2015,05,31,13:00,Exile5,Immunity,mirage,FACEIT League 2015 Stage 2,3,16,3,12,0,4,Exile5,8,17,0.47 
+2015,05,30,23:20,NewZealand,Australia,mirage,World Championships 2015 Ocean..,12,16,11,4,1,12,New Zealand,21,19,1.01 
+2015,05,30,23:20,Australia,NewZealand,dust2,World Championships 2015 Ocean..,16,4,12,3,4,1,New Zealand,14,20,0.76 
+2015,05,30,10:00,Steelseries,Exile5,dust2,FACEIT League 2015 Stage 2 Oce..,14,16,10,5,4,11,Exile5,21,20,1.07 
+2015,05,30,10:00,Exile5,Steelseries,cobblestone,FACEIT League 2015 Stage 2 Oce..,16,6,11,4,5,2,Exile5,24,10,1.75 
+2015,05,30,01:00,NewZealand,Australia,cobblestone,World Championships 2015 Ocean..,11,16,6,9,5,7,New Zealand,19,20,0.93 
+2015,05,30,01:00,Australia,NewZealand,mirage,World Championships 2015 Ocean..,16,7,12,3,4,4,New Zealand,15,18,0.90 
+2015,05,28,12:00,Exile5,Streamline,cache,FACEIT League 2015 Stage 2 Oce..,13,16,12,3,1,13,Exile5,20,19,1.08 
+2015,05,28,12:00,Streamline,Exile5,inferno,FACEIT League 2015 Stage 2 Oce..,16,8,10,5,6,3,Exile5,8,19,0.46 
+2015,05,28,12:00,Streamline,Exile5,mirage,FACEIT League 2015 Stage 2 Oce..,9,16,8,7,1,9,Exile5,20,18,1.13 
+2015,05,27,12:00,SYF,Exile5,mirage,FACEIT League 2015 Stage 2 Oce..,9,16,6,9,3,7,Exile5,20,17,1.07 
+2015,05,27,12:00,Exile5,SYF,cobblestone,FACEIT League 2015 Stage 2 Oce..,16,2,14,1,2,1,Exile5,15,7,1.32 
+2015,04,05,13:00,AVANTGARDE,Chiefs,mirage,FACEIT League 2015 Stage 1,12,16,4,11,8,5,Chiefs,23,19,1.26 
+2015,03,29,12:00,TRIDENT,Chiefs,cache,FACEIT League 2015 Stage 1,10,16,6,9,4,7,Chiefs,22,18,1.09 
+2015,03,22,10:00,Chiefs,VoxEminor,mirage,FACEIT League 2015 Stage 1,16,5,12,3,4,2,Chiefs,15,10,1.22 
+2015,03,01,10:00,Streamline,Chiefs,cache,FACEIT League 2015 Stage 1,8,16,7,8,1,8,Chiefs,18,12,1.20 
+2015,02,22,12:00,Immunity,Chiefs,mirage,FACEIT League 2015 Stage 1,26,24,8,7,7,8,Chiefs,37,33,1.10 

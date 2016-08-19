@@ -1,0 +1,6 @@
+2016,07,17,11:30,Reasonfe,EYESportsfe,overpass,StarLadder Female Stars Champi..,16,8,8,7,8,1,EYESports fe,11,21,0.56 
+2016,07,17,11:30,EYESportsfe,Reasonfe,cobblestone,StarLadder Female Stars Champi..,6,16,4,11,2,5,EYESports fe,19,16,1.29 
+2016,07,17,11:30,EYESportsfe,Reasonfe,train,StarLadder Female Stars Champi..,16,10,13,2,3,8,EYESports fe,16,17,0.86 
+2016,07,16,14:45,Secretfe,EYESportsfe,train,StarLadder Female Stars Champi..,16,9,12,3,4,6,EYESports fe,15,22,0.69 
+2016,07,16,14:45,EYESportsfe,Secretfe,cobblestone,StarLadder Female Stars Champi..,8,16,3,12,5,4,EYESports fe,13,20,0.69 
+2016,07,16,14:45,Secretfe,EYESportsfe,mirage,StarLadder Female Stars Champi..,14,16,8,7,6,9,EYESports fe,24,23,0.99 

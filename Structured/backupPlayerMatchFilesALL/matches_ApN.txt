@@ -1,0 +1,5 @@
+2015,04,02,23:10,FUGL?,Blight,inferno,Copenhagen Games 2015,16,9,9,6,7,3,Blight,14,19,0.74 
+2015,04,02,20:30,INSHOCK,Blight,mirage,Copenhagen Games 2015,16,8,9,6,7,2,Blight,12,21,0.62 
+2015,04,02,19:00,Blight,h$fyre,mirage,Copenhagen Games 2015,16,11,9,6,7,5,Blight,18,18,0.98 
+2015,04,02,15:30,Blight,Sapiens,dust2,Copenhagen Games 2015,16,9,7,8,9,1,Blight,19,16,1.18 
+2015,04,02,14:00,Blight,FoxamoX,inferno,Copenhagen Games 2015,16,1,14,1,2,0,Blight,11,6,1.24 

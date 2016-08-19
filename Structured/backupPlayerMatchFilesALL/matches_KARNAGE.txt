@@ -1,0 +1,5 @@
+2016,05,09,00:45,RivaL,Kingdom,mirage,MLG Regional Minor North Ameri..,16,9,12,3,4,6,Kingdom,22,18,1.31 
+2016,05,08,20:40,Kingdom,DISMAY,dust2,MLG Regional Minor North Ameri..,16,8,9,6,7,2,Kingdom,18,11,1.21 
+2016,05,08,18:00,Kingdom,WithoutaRoof,cobblestone,MLG Regional Minor North Ameri..,8,16,6,9,2,7,Kingdom,6,22,0.30 
+2016,05,08,18:00,WithoutaRoof,Kingdom,dust2,MLG Regional Minor North Ameri..,16,14,10,5,6,9,Kingdom,20,22,1.05 
+2016,03,23,05:45,One,MistGlobals,train,Razer Rising Stars NA League Q..,13,16,4,11,9,5,Mist Globals,23,20,1.06 

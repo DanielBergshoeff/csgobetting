@@ -1,0 +1,32 @@
+2016,08,14,15:30,Entropy,finshhh,cobblestone,ECS Season 2 EU Open Qualifier..,16,11,6,9,10,2,finshhh,21,20,1.03 
+2016,06,21,21:00,MeMyself&I,beGenius,mirage,UnderDogs #3,16,10,8,7,8,3,MeMyself&I,16,19,0.80 
+2016,06,21,21:00,beGenius,MeMyself&I,train,UnderDogs #3,8,16,6,9,2,7,MeMyself&I,21,12,1.33 
+2016,06,06,20:00,MeMyself&I,WeGotGame,mirage,UnderDogs #3,16,5,11,4,5,1,MeMyself&I,11,11,0.85 
+2016,06,06,20:00,WeGotGame,MeMyself&I,cobblestone,UnderDogs #3,11,16,4,11,7,5,MeMyself&I,15,18,0.84 
+2016,06,04,18:25,visomvet,MeMyself&I,cache,DreamHack ZOWIE Open Summer 20..,16,7,9,6,7,1,MeMyself&I,9,17,0.59 
+2016,05,30,22:15,MeMyself&I,Nativ,dust2,UnderDogs #3,16,8,12,3,4,5,MeMyself&I,22,14,1.44 
+2016,05,30,22:15,Nativ,MeMyself&I,overpass,UnderDogs #3,8,16,4,11,4,5,MeMyself&I,16,13,1.03 
+2016,04,25,21:00,DeadPixels,ALTERNATEaTTaX,cache,Uprise Champions Cup Season 4,12,16,5,10,7,6,Dead Pixels,21,22,1.03 
+2016,04,25,21:00,ALTERNATEaTTaX,DeadPixels,dust2,Uprise Champions Cup Season 4,16,12,6,9,10,3,Dead Pixels,26,17,1.49 
+2016,03,27,19:15,LDLCBlue,DeadPixels,cobblestone,Gamers Assembly 2016,16,5,13,2,3,3,Dead Pixels,12,19,0.83 
+2016,03,07,21:00,DeadPixels,LDLCBlue,overpass,UnderDogs #2,14,16,13,2,1,14,Dead Pixels,26,21,1.08 
+2016,03,07,21:00,LDLCBlue,DeadPixels,cobblestone,UnderDogs #2,16,10,9,6,7,4,Dead Pixels,16,20,0.81 
+2016,03,07,21:00,DeadPixels,LDLCBlue,dust2,UnderDogs #2,16,12,5,10,11,2,Dead Pixels,21,19,0.99 
+2016,02,22,23:00,WaRLegenD,DeadPixels,dust2,UnderDogs #2,11,16,6,9,5,7,Dead Pixels,19,19,0.98 
+2016,02,22,23:00,WaRLegenD,DeadPixels,overpass,UnderDogs #2,12,16,6,9,6,7,Dead Pixels,14,20,0.71 
+2016,01,10,12:00,E-frag.net,DeadPixels,dust2,DreamHack Open Leipzig 2016 Cl..,16,7,10,5,6,2,Dead Pixels,11,21,0.62 
+2016,01,10,12:00,DeadPixels,E-frag.net,cache,DreamHack Open Leipzig 2016 Cl..,3,16,3,12,0,4,Dead Pixels,5,18,0.29 
+2015,12,14,18:00,DeadPixels,NoProblem!,mirage,Game On European Invitational,3,16,3,12,0,4,Dead Pixels,8,17,0.53 
+2015,12,14,18:00,NoProblem!,DeadPixels,train,Game On European Invitational,16,10,8,7,8,3,Dead Pixels,14,21,0.81 
+2015,11,24,20:00,Vexed,DeadPixels,cobblestone,Red Dot Closed Qualifier,16,11,7,8,9,3,Dead Pixels,16,20,0.79 
+2015,11,24,20:00,DeadPixels,Vexed,overpass,Red Dot Closed Qualifier,14,16,7,8,7,8,Dead Pixels,22,22,0.98 
+2015,11,16,23:00,GreyFace,DeadPixels,overpass,Red Dot Closed Qualifier,2,16,2,13,0,3,Dead Pixels,11,12,0.91 
+2015,11,16,22:00,DeadPixels,Legacy,mirage,Red Dot Closed Qualifier,16,7,9,6,7,1,Dead Pixels,26,13,1.53 
+2015,11,16,20:00,GreyFace,DeadPixels,cache,Red Dot Closed Qualifier,16,6,9,6,7,0,Dead Pixels,10,18,0.61 
+2015,09,18,21:30,WEGOTGAME,DeadPixels,cache,LevelDown Championship,22,19,11,4,4,11,Dead Pixels,25,28,0.85 
+2015,09,18,21:30,DeadPixels,WEGOTGAME,dust2,LevelDown Championship,4,16,2,13,2,3,Dead Pixels,9,18,0.46 
+2015,09,17,22:15,DeadPixels,RedInstinct,mirage,LevelDown Championship,16,1,14,1,2,0,Dead Pixels,14,7,1.27 
+2015,09,17,22:15,RedInstinct,DeadPixels,cobblestone,LevelDown Championship,16,11,7,8,9,3,Dead Pixels,13,24,0.51 
+2015,09,17,22:15,RedInstinct,DeadPixels,dust2,LevelDown Championship,5,16,5,10,0,6,Dead Pixels,18,9,1.38 
+2015,09,15,22:15,DeadPixels,melty,cache,LevelDown Championship,16,10,8,7,8,3,Dead Pixels,21,17,1.18 
+2015,09,15,21:15,AsusROG,DeadPixels,mirage,LevelDown Championship,4,16,3,12,1,4,Dead Pixels,13,12,0.93 

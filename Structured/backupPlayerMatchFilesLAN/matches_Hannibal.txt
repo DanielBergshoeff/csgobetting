@@ -1,0 +1,3 @@
+2016,06,25,13:00,5Peaks,MineSki,overpass,MPGL Season 8 Finals,4,16,4,11,0,5,MineSki,12,8,1.08 
+2016,06,25,13:00,5Peaks,MineSki,dust2,MPGL Season 8 Finals,7,16,1,14,6,2,MineSki,17,13,1.07 
+2016,06,25,13:00,MineSki,5Peaks,cobblestone,MPGL Season 8 Finals,16,8,11,4,5,4,MineSki,15,14,0.96 

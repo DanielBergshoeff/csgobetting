@@ -1,0 +1,16 @@
+2016,03,24,19:00,WinOut,eXtatus,cache,Copenhagen Games 2016 BYOC Qua..,16,6,9,6,7,0,eXtatus,8,19,0.47 
+2016,03,24,19:00,WinOut,eXtatus,dust2,Copenhagen Games 2016 BYOC Qua..,16,12,11,4,5,8,eXtatus,13,21,0.65 
+2016,03,24,17:00,eXtatus,Inside,inferno,Copenhagen Games 2016 BYOC Qua..,16,1,15,0,1,1,eXtatus,8,9,0.78 
+2016,03,24,15:30,SpaceSoldiers,eXtatus,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,15,0,1,3,eXtatus,16,18,0.90 
+2016,03,24,13:00,eXtatus,Inside,dust2,Copenhagen Games 2016 BYOC Qua..,16,3,15,0,1,3,eXtatus,17,7,1.57 
+2016,03,22,19:00,eXtatus,Enso,dust2,Game Show Spring Invitational ..,16,19,6,9,9,6,eXtatus,19,26,0.71 
+2016,03,22,19:00,eXtatus,Enso,cache,Game Show Spring Invitational ..,12,16,6,9,6,7,eXtatus,10,23,0.49 
+2016,03,21,19:00,eXtatus,RCTIC,mirage,Game Show Spring Invitational ..,5,16,4,11,1,5,eXtatus,11,20,0.59 
+2016,03,21,19:00,eXtatus,RCTIC,dust2,Game Show Spring Invitational ..,13,16,5,10,8,6,eXtatus,15,17,0.77 
+2016,02,23,19:00,Method,nEophyte,mirage,Game Show Spring Invitational ..,20,22,6,9,9,6,nEophyte,11,29,0.49 
+2016,02,23,19:00,nEophyte,Method,cobblestone,Game Show Spring Invitational ..,16,7,9,6,7,1,nEophyte,19,18,1.04 
+2015,11,24,22:15,melty,Fraternitas,cache,D!ngIT $2000 Weekly Cup #27,16,3,13,2,3,1,Fraternitas,3,17,0.22 
+2015,11,24,21:00,ESC,Fraternitas,mirage,D!ngIT $2000 Weekly Cup #27,14,16,7,8,7,8,Fraternitas,20,24,0.87 
+2015,11,24,17:30,hard'N'play,Fraternitas,inferno,D!ngIT $2000 Weekly Cup #27,10,16,5,10,5,6,Fraternitas,15,14,0.99 
+2015,11,23,20:30,Fraternitas,melty,inferno,D!ngIT $2000 Weekly Cup #27,7,16,2,13,5,3,Fraternitas,12,18,0.69 
+2015,11,23,20:30,Fraternitas,melty,dust2,D!ngIT $2000 Weekly Cup #27,10,16,4,11,6,5,Fraternitas,19,22,1.03 

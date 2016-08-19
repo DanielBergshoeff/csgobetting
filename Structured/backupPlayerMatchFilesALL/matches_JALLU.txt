@@ -1,0 +1,42 @@
+2016,08,12,22:10,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,14,16,8,7,6,9,KoN Finland,19,20,0.94 
+2016,08,12,20:45,KoNSweden,KoNFinland,dust2,King of Nordic Season 4,3,16,2,13,1,3,KoN Finland,12,11,1.09 
+2016,08,12,19:15,KoNFinland,KoNDenmark,cache,King of Nordic Season 4,16,3,13,2,3,1,KoN Finland,17,11,1.34 
+2016,05,06,22:35,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,12,16,5,10,7,6,KoN Finland,21,18,1.13 
+2016,04,22,22:00,KoNDenmark,KoNFinland,dust2,King of Nordic Season 3,15,21,5,10,10,5,KoN Finland,22,25,0.92 
+2016,04,08,21:30,KoNNorway,KoNFinland,mirage,King of Nordic Season 3,7,16,6,9,1,7,KoN Finland,21,12,1.41 
+2016,04,01,20:30,KoNNorway,KoNFinland,cache,King of Nordic Season 3,9,16,7,8,2,8,KoN Finland,13,20,0.74 
+2016,01,08,21:30,KoNFinland,KoNSweden,inferno,King of Nordic Season 2,7,16,4,11,3,5,KoN Finland,11,19,0.67 
+2016,01,08,20:15,KoNFinland,KoNNorway,mirage,King of Nordic Season 2,16,5,13,2,3,3,KoN Finland,13,11,1.07 
+2015,12,20,13:00,SkitLite,Torpedo,mirage,ESL Nordic Nationals Winter 20..,11,16,5,10,6,6,SkitLite,27,16,1.62 
+2015,12,20,13:00,SkitLite,Torpedo,cache,ESL Nordic Nationals Winter 20..,14,16,3,12,11,4,SkitLite,17,23,0.74 
+2015,12,19,20:55,SkitLite,demise,mirage,ESL Nordic Nationals Winter 20..,16,9,9,6,7,3,SkitLite,17,20,0.82 
+2015,12,19,14:55,SkitLite,NoProblem!,mirage,ESL Nordic Nationals Winter 20..,11,16,9,6,2,10,SkitLite,12,23,0.58 
+2015,11,06,21:30,KoNDenmark,KoNFinland,cache,King of Nordic Season 2,16,12,6,9,10,3,KoN Finland,18,20,0.94 
+2015,10,30,21:45,KoNSweden,KoNFinland,dust2,King of Nordic Season 2,8,16,6,9,2,7,KoN Finland,18,13,1.17 
+2015,10,30,11:00,SkitLite,RCTIC,mirage,ASUS ROG Nordic Challenge,12,16,6,9,6,7,SkitLite,18,20,1.00 
+2015,10,30,11:00,RCTIC,SkitLite,train,ASUS ROG Nordic Challenge,16,7,11,4,5,3,SkitLite,10,19,0.61 
+2015,10,23,21:30,KoNFinland,KoNDenmark,cache,King of Nordic Season 2,16,2,13,2,3,0,KoN Finland,12,7,1.15 
+2015,10,16,21:45,KoNNorway,KoNFinland,cache,King of Nordic Season 2,3,16,3,12,0,4,KoN Finland,18,8,1.54 
+2015,10,09,21:45,Finland,Sweden,dust2,King of Nordic Season 2,16,5,13,2,3,3,Finland,17,13,1.24 
+2015,09,04,21:45,Denmark,Finland,dust2,King of Nordic Season 1,10,16,4,11,6,5,Finland,23,17,1.38 
+2015,09,04,20:25,Sweden,Finland,mirage,King of Nordic Season 1,13,16,10,5,3,11,Finland,23,18,1.29 
+2015,09,04,19:00,Finland,Norway,cache,King of Nordic Season 1,16,12,8,7,8,5,Finland,23,20,1.09 
+2015,08,21,19:20,Finland,Denmark,mirage,King of Nordic Season 1,14,16,10,5,4,11,Finland,16,23,0.79 
+2015,08,11,22:15,PiTER,ROCCAT,mirage,D!ngIT $2000 Weekly Cup #12,16,13,7,8,9,5,ROCCAT,14,24,0.68 
+2015,08,10,22:00,ROCCAT,Phenomenon,cache,D!ngIT $2000 Weekly Cup #12,18,21,8,7,7,8,ROCCAT,27,26,1.01 
+2015,08,10,22:00,Phenomenon,ROCCAT,dust2,D!ngIT $2000 Weekly Cup #12,16,14,11,4,5,10,ROCCAT,17,19,0.81 
+2015,08,10,20:00,ROCCAT,CAZ,dust2,D!ngIT $2000 Weekly Cup #12,16,6,10,5,6,1,ROCCAT,17,12,1.25 
+2015,08,10,20:00,CAZ,ROCCAT,cache,D!ngIT $2000 Weekly Cup #12,11,16,4,11,7,5,ROCCAT,15,19,0.79 
+2015,07,30,20:00,SkitLite,ROCCAT,cache,Assembly Summer 2015 AMD CS:GO..,8,16,5,10,3,6,SkitLite,12,17,0.75 
+2015,07,30,18:00,KappaKappa,SkitLite,cache,Assembly Summer 2015 AMD CS:GO..,11,16,8,7,3,9,SkitLite,22,16,1.19 
+2015,07,30,16:00,SkitLite,eBettle,cobblestone,Assembly Summer 2015 AMD CS:GO..,8,16,4,11,4,5,SkitLite,14,18,0.79 
+2014,10,05,00:00,Jynttä,Hanatauki,dust2,Areena #5 by ROCCAT,16,12,10,5,6,7,Jynttä,26,15,1.49 
+2014,10,05,00:00,Hanatauki,Jynttä,cache,Areena #5 by ROCCAT,9,16,5,10,4,6,Jynttä,17,18,0.89 
+2014,10,04,22:50,ROTY,Jynttä,mirage,Areena #5 by ROCCAT,16,12,9,6,7,6,Jynttä,16,23,0.79 
+2014,10,04,22:50,Jynttä,ROTY,nuke,Areena #5 by ROCCAT,5,16,4,11,1,5,Jynttä,18,17,1.04 
+2014,10,04,16:40,Jynttä,Superstars,mirage,Areena #5 by ROCCAT,16,14,5,10,11,4,Jynttä,26,18,1.24 
+2014,10,04,15:00,ROTY,Jynttä,mirage,Areena #5 by ROCCAT,15,15,9,6,6,9,Jynttä,17,25,0.69 
+2014,10,04,14:00,GLSHAKER,Jynttä,inferno,Areena #5 by ROCCAT,13,16,9,6,4,10,Jynttä,24,20,1.16 
+2014,10,04,12:00,Jynttä,Menace,dust2,Areena #5 by ROCCAT,9,16,7,8,2,8,Jynttä,22,16,1.27 
+2014,10,04,11:00,Hanatauki,Jynttä,mirage,Areena #5 by ROCCAT,10,16,4,11,6,5,Jynttä,19,18,1.06 
+2014,10,04,10:00,Jynttä,myMDL,inferno,Areena #5 by ROCCAT,16,7,11,4,5,3,Jynttä,19,15,1.07 

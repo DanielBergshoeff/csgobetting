@@ -1,0 +1,7 @@
+2015,12,03,22:00,eXplosive,YP,dust2,Uprise Champions Cup: Europe,7,16,6,9,1,7,YP,10,14,0.76 
+2015,12,03,22:00,eXplosive,YP,mirage,Uprise Champions Cup: Europe,16,12,8,7,8,5,YP,13,20,0.70 
+2015,12,03,22:00,eXplosive,YP,cache,Uprise Champions Cup: Europe,10,16,4,11,6,5,YP,16,20,0.84 
+2015,12,02,22:20,YP,E-frag.net,mirage,Uprise Champions Cup: Europe,12,16,12,3,0,13,YP,11,24,0.53 
+2015,12,02,22:20,E-frag.net,YP,dust2,Uprise Champions Cup: Europe,16,6,10,5,6,1,YP,11,19,0.61 
+2015,10,05,22:00,SkinsVault,KILLERFISH,cache,D!ngIT $2000 Weekly Cup #20,3,16,2,13,1,3,SkinsVault,9,16,0.59 
+2014,08,01,20:00,OverGaming,USSR,inferno,SLTV StarSeries X,16,3,12,3,4,0,USSR,6,17,0.35 

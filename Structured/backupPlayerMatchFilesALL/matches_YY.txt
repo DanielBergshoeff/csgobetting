@@ -1,0 +1,5 @@
+2016,07,30,09:15,MasterGrade,FIVE,nuke,SL i-League S2 China Qualifier,7,16,3,12,4,4,Master Grade,12,18,0.64 
+2016,07,30,09:15,FIVE,MasterGrade,train,SL i-League S2 China Qualifier,8,16,6,9,2,7,Master Grade,18,14,1.06 
+2016,07,30,09:15,FIVE,MasterGrade,cache,SL i-League S2 China Qualifier,16,7,10,5,6,2,Master Grade,18,20,1.06 
+2016,07,26,12:00,BornOfFire,MasterGrade,dust2,SL i-League S2 China Qualifier,16,3,12,3,4,0,Master Grade,8,18,0.43 
+2016,07,26,12:00,MasterGrade,BornOfFire,cobblestone,SL i-League S2 China Qualifier,7,16,6,9,1,7,Master Grade,14,17,0.82 

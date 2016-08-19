@@ -1,0 +1,8 @@
+2016,05,20,20:45,KoNSweden,KoNFinland,mirage,King of Nordic Season 4,16,13,6,9,10,4,KoN Finland,22,21,1.08 
+2016,03,25,23:00,KoNSweden,KoNFinland,inferno,King of Nordic Season 3,16,12,12,3,4,9,KoN Finland,18,21,0.93 
+2016,03,18,22:30,KoNSweden,KoNFinland,dust2,King of Nordic Season 3,4,16,1,14,3,2,KoN Finland,18,9,1.43 
+2016,03,18,21:30,KoNNorway,KoNFinland,mirage,King of Nordic Season 3,12,16,7,8,5,8,KoN Finland,18,17,0.98 
+2016,01,15,21:30,KoNSweden,KoNFinland,mirage,King of Nordic Season 2,16,14,12,3,4,11,KoN Finland,20,17,1.05 
+2016,01,15,20:15,KoNNorway,KoNFinland,mirage,King of Nordic Season 2,5,16,5,10,0,6,KoN Finland,18,12,1.20 
+2015,08,28,20:30,Denmark,Finland,mirage,King of Nordic Season 1,20,20,7,8,8,7,Finland,43,26,1.52 
+2015,08,28,19:00,Norway,Finland,inferno,King of Nordic Season 1,12,16,5,10,7,6,Finland,21,14,1.28 

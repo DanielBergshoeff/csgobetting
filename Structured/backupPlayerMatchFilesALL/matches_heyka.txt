@@ -1,0 +1,13 @@
+2015,09,01,21:15,Phenomenon,hard'N'play,train,Rising Tornado #4,16,4,12,3,4,1,hard'N'play,14,17,0.82 
+2015,09,01,21:15,Phenomenon,hard'N'play,cache,Rising Tornado #4,16,2,13,2,3,0,hard'N'play,7,16,0.48 
+2014,10,14,18:00,Nostalgie,UNNAMED,dust2,CIS Rising League Season 1,16,12,9,6,7,6,UNNAMED,15,23,0.66 
+2014,10,14,18:00,UNNAMED,Nostalgie,season,CIS Rising League Season 1,9,16,5,10,4,6,UNNAMED,11,18,0.64 
+2014,08,26,20:00,97club,UNNAMED,mirage,CIS Rising League Season 1,16,9,11,4,5,5,UNNAMED,7,22,0.33 
+2014,08,26,20:00,UNNAMED,97club,dust2,CIS Rising League Season 1,10,16,3,12,7,4,UNNAMED,14,21,0.76 
+2014,08,09,21:00,UNNAMED,USSR,inferno,CIS Rising League Season 1,17,21,8,7,7,8,UNNAMED,30,27,1.05 
+2014,08,09,21:00,USSR,UNNAMED,nuke,CIS Rising League Season 1,12,16,11,4,1,12,UNNAMED,25,18,1.24 
+2014,08,09,21:00,UNNAMED,USSR,dust2,CIS Rising League Season 1,4,16,4,11,0,5,UNNAMED,13,17,0.81 
+2014,07,05,19:00,UNNAMED,Faith,season,CIS Rising League Season 1,7,16,6,9,1,7,UNNAMED,16,18,0.83 
+2014,07,05,19:00,Faith,UNNAMED,mirage,CIS Rising League Season 1,16,11,9,6,7,5,UNNAMED,18,23,0.76 
+2014,06,17,20:00,ACES,USSR,mirage,CIS Rising League Season 1,18,21,4,11,11,4,ACES,27,31,1.01 
+2014,06,17,20:00,USSR,ACES,dust2,CIS Rising League Season 1,16,7,9,6,7,1,ACES,13,19,0.79 

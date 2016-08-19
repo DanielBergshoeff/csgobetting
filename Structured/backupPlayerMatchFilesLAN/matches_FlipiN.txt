@@ -1,0 +1,17 @@
+2016,02,20,10:30,G2,x6tence,train,ESL Barcelona CS:GO Invitation..,16,3,12,3,4,0,x6tence,8,17,0.47 
+2016,02,19,21:40,x6tence,Vexed,cobblestone,ESL Barcelona CS:GO Invitation..,2,16,2,13,0,3,x6tence,4,16,0.28 
+2016,02,19,17:45,Astralis,x6tence,mirage,ESL Barcelona CS:GO Invitation..,16,2,13,2,3,0,x6tence,4,17,0.23 
+2015,12,06,19:00,gBots,x6tence,mirage,LVP Season 9 Division de Honor..,16,8,8,7,8,1,x6tence,13,20,0.64 
+2015,12,06,19:00,x6tence,gBots,dust2,LVP Season 9 Division de Honor..,11,16,9,6,2,10,x6tence,15,19,0.79 
+2015,12,06,15:00,overGame,x6tence,cobblestone,LVP Season 9 Division de Honor..,12,16,6,9,6,7,x6tence,17,15,1.01 
+2015,12,06,15:00,overGame,x6tence,cache,LVP Season 9 Division de Honor..,16,8,8,7,8,1,x6tence,13,20,0.71 
+2015,12,06,15:00,x6tence,overGame,mirage,LVP Season 9 Division de Honor..,16,7,14,1,2,6,x6tence,13,12,0.96 
+2015,12,05,15:15,NewSkillInfinity,x6tence,cobblestone,LVP Season 9 Division de Honor..,6,16,4,11,2,5,x6tence,17,12,1.15 
+2015,12,04,22:00,x6tence,Atlantis,inferno,LVP Season 9 Division de Honor..,16,13,10,5,6,8,x6tence,26,17,1.45 
+2015,10,04,10:30,x6tence,Epsilon,cache,SocialNat Master League,10,16,5,10,5,6,x6tence,15,20,0.85 
+2015,10,04,10:30,Epsilon,x6tence,mirage,SocialNat Master League,11,16,10,5,1,11,x6tence,19,20,0.93 
+2015,10,04,10:30,x6tence,Epsilon,overpass,SocialNat Master League,15,21,3,12,12,3,x6tence,22,26,0.85 
+2014,07,19,11:20,OverGaming,Epsilon,nuke,DreamHack Valencia 2014,9,16,6,9,3,7,OverGaming,11,22,0.49 
+2014,07,19,11:20,OverGaming,Epsilon,mirage,DreamHack Valencia 2014,12,16,6,9,6,7,OverGaming,18,22,0.86 
+2014,07,18,20:40,INSHOCK,OverGaming,nuke,DreamHack Valencia 2014,13,16,10,5,3,11,OverGaming,16,15,0.97 
+2014,07,18,18:45,k1ck,OverGaming,inferno,DreamHack Valencia 2014,16,9,13,2,3,7,OverGaming,18,16,1.15 

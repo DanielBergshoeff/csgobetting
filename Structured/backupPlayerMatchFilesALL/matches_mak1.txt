@@ -1,0 +1,4 @@
+2015,11,15,11:00,NoobTubers,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,3,12,3,4,0,E-frag.net Staff,6,17,0.44 
+2015,11,15,11:00,NoobTubers,E-frag.netStaff,cobblestone,Virtus.pro Staff Cup #3,16,12,3,12,13,0,E-frag.net Staff,18,21,0.99 
+2015,11,13,16:00,NiPStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,12,16,5,10,7,6,E-frag.net Staff,12,17,0.72 
+2015,11,13,16:00,NiPStaff,E-frag.netStaff,mirage,Virtus.pro Staff Cup #3,11,16,7,8,4,8,E-frag.net Staff,14,19,0.76 

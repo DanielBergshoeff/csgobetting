@@ -1,0 +1,17 @@
+2016,08,10,02:15,SteamAnalyst,Rush,mirage,ESEA Premier Season 22 North A..,15,19,6,9,9,6,SteamAnalyst,25,24,0.92 
+2016,08,10,02:15,SteamAnalyst,Rush,cobblestone,ESEA Premier Season 22 North A..,7,16,1,14,6,2,SteamAnalyst,10,19,0.66 
+2016,08,05,02:15,SteamAnalyst,Kaliber,cobblestone,ESEA Premier Season 22 North A..,16,13,6,9,10,4,SteamAnalyst,18,18,0.91 
+2016,08,05,02:15,Kaliber,SteamAnalyst,dust2,ESEA Premier Season 22 North A..,3,16,3,12,0,4,SteamAnalyst,14,10,1.28 
+2016,08,05,02:15,SteamAnalyst,Kaliber,cache,ESEA Premier Season 22 North A..,9,16,6,9,3,7,SteamAnalyst,14,18,0.77 
+2016,03,11,03:15,TempoStorm,8Minded,cobblestone,CEVO Gfinity Professional Seas..,16,9,11,4,5,5,8 Minded,11,21,0.57 
+2016,03,11,03:15,TempoStorm,8Minded,dust2,CEVO Gfinity Professional Seas..,16,11,11,4,5,7,8 Minded,9,22,0.49 
+2016,03,10,06:00,AGG,8Minded,mirage,Stream.me Gauntlet ,16,3,14,1,2,2,8 Minded,11,17,0.84 
+2016,02,25,04:00,Bee'sMoneyCrew,myRevenge,dust2,Stream.me Gauntlet ,16,10,7,8,9,2,Bee's Money Crew,22,12,1.35 
+2016,02,25,04:00,myRevenge,Bee'sMoneyCrew,cache,Stream.me Gauntlet ,9,16,6,9,3,7,Bee's Money Crew,20,14,1.26 
+2016,02,19,03:54,Bee'sMoneyCrew,Enemy,cache,CEVO Gfinity Professional Seas..,10,16,3,12,7,4,Bee's Money Crew,18,21,0.91 
+2016,02,19,03:54,Enemy,Bee'sMoneyCrew,mirage,CEVO Gfinity Professional Seas..,16,5,10,5,6,0,Bee's Money Crew,10,17,0.58 
+2016,02,15,02:00,Bee'sMoneyCrew,Vault,dust2,CEVO Gfinity Professional Seas..,5,16,2,13,3,3,Bee's Money Crew,11,16,0.71 
+2016,02,15,02:00,Bee'sMoneyCrew,Vault,mirage,CEVO Gfinity Professional Seas..,16,12,9,6,7,6,Bee's Money Crew,18,17,0.96 
+2016,02,15,02:00,Bee'sMoneyCrew,Vault,cobblestone,CEVO Gfinity Professional Seas..,11,16,9,6,2,10,Bee's Money Crew,17,23,0.71 
+2015,09,05,03:15,Excellence,BitterSweetGG,overpass,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,BitterSweetGG,9,17,0.56 
+2015,09,05,01:30,CLG,BitterSweetGG,mirage,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,BitterSweetGG,4,17,0.23 

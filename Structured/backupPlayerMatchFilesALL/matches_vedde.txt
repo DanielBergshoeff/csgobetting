@@ -1,0 +1,4 @@
+2016,04,08,19:15,KoNNorway,KoNDenmark,inferno,King of Nordic Season 3,16,11,7,8,9,3,KoN Denmark,17,19,0.88 
+2016,03,11,21:30,KoNFinland,KoNDenmark,cache,King of Nordic Season 3,16,12,7,8,9,4,KoN Denmark,12,20,0.59 
+2016,03,11,20:15,KoNDenmark,KoNNorway,cache,King of Nordic Season 3,16,5,11,4,5,1,KoN Denmark,17,11,1.18 
+2016,03,04,20:15,KoNFinland,KoNDenmark,inferno,King of Nordic Season 3,16,6,11,4,5,2,KoN Denmark,11,20,0.54 

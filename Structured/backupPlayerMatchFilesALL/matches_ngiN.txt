@@ -1,0 +1,143 @@
+2016,08,15,19:00,DarkPassage,SpaceSoldiers,cache,WESG 2016 Turkey,9,16,7,8,2,8,Space Soldiers,21,14,1.36 
+2016,08,15,19:00,DarkPassage,SpaceSoldiers,cobblestone,WESG 2016 Turkey,8,16,4,11,4,5,Space Soldiers,14,12,1.02 
+2016,08,14,22:15,SpaceSoldiers,HWA,cache,WESG 2016 Turkey,16,14,12,3,4,11,Space Soldiers,23,19,1.21 
+2016,08,14,22:15,SpaceSoldiers,HWA,cobblestone,WESG 2016 Turkey,16,11,4,11,12,0,Space Soldiers,17,14,1.05 
+2016,08,06,19:30,SpaceSoldiers,Epsilon,cobblestone,ASUS ROG Summer 2016,16,5,11,4,5,1,Space Soldiers,17,12,1.25 
+2016,08,06,19:30,Epsilon,SpaceSoldiers,cache,ASUS ROG Summer 2016,11,16,7,8,4,8,Space Soldiers,12,14,0.85 
+2016,08,06,11:15,SpaceSoldiers,Millenium,dust2,ASUS ROG Summer 2016,16,11,8,7,8,4,Space Soldiers,21,13,1.22 
+2016,08,06,11:15,Millenium,SpaceSoldiers,cobblestone,ASUS ROG Summer 2016,13,16,8,7,5,9,Space Soldiers,21,16,1.23 
+2016,08,05,22:30,Tricked,SpaceSoldiers,cobblestone,ASUS ROG Summer 2016,6,16,2,13,4,3,Space Soldiers,15,10,1.20 
+2016,08,05,22:30,Tricked,SpaceSoldiers,train,ASUS ROG Summer 2016,14,16,12,3,2,13,Space Soldiers,23,17,1.13 
+2016,08,05,20:30,ENCE,SpaceSoldiers,mirage,ASUS ROG Summer 2016,22,19,5,10,10,5,Space Soldiers,23,25,0.84 
+2016,08,05,19:00,Tricked,SpaceSoldiers,dust2,ASUS ROG Summer 2016,11,16,3,12,8,4,Space Soldiers,23,17,1.25 
+2016,07,30,18:10,SpaceSoldiers,Spirit,mirage,GG Masters,20,22,6,9,9,6,Space Soldiers,26,32,0.78 
+2016,07,30,18:10,Spirit,SpaceSoldiers,cobblestone,GG Masters,16,13,7,8,9,5,Space Soldiers,16,21,0.79 
+2016,07,26,21:00,SpaceSoldiers,Tricked,nuke,GG Masters,16,14,11,4,5,10,Space Soldiers,14,20,0.80 
+2016,07,26,21:00,Tricked,SpaceSoldiers,cobblestone,GG Masters,11,16,9,6,2,10,Space Soldiers,19,15,1.08 
+2016,07,26,19:25,Spirit,SpaceSoldiers,mirage,GG Masters,16,11,10,5,6,6,Space Soldiers,14,21,0.70 
+2016,07,22,17:35,SpaceSoldiers,DenDD,nuke,Hitbox Challenger Cup #2,14,16,11,4,3,12,Space Soldiers,21,21,0.93 
+2016,07,22,17:35,DenDD,SpaceSoldiers,cache,Hitbox Challenger Cup #2,16,8,9,6,7,2,Space Soldiers,12,20,0.60 
+2016,07,22,17:35,DenDD,SpaceSoldiers,mirage,Hitbox Challenger Cup #2,7,16,6,9,1,7,Space Soldiers,19,12,1.31 
+2016,07,19,22:25,SpaceSoldiers,ENCE,dust2,Operation: Kinguin #3,7,16,5,10,2,6,Space Soldiers,11,17,0.66 
+2016,07,19,22:25,ENCE,SpaceSoldiers,train,Operation: Kinguin #3,16,7,11,4,5,3,Space Soldiers,12,20,0.64 
+2016,07,19,22:25,ENCE,SpaceSoldiers,cobblestone,Operation: Kinguin #3,14,16,11,4,3,12,Space Soldiers,14,22,0.68 
+2016,07,18,21:30,SpaceSoldiers,ALTERNATEaTTaX,cache,Operation: Kinguin #3,16,11,7,8,9,3,Space Soldiers,16,16,0.96 
+2016,07,18,21:30,ALTERNATEaTTaX,SpaceSoldiers,mirage,Operation: Kinguin #3,15,19,7,8,8,7,Space Soldiers,16,22,0.72 
+2016,07,18,18:30,Iwku,SpaceSoldiers,train,Razer Rising Stars European Le..,4,16,4,11,0,5,Space Soldiers,17,11,1.22 
+2016,07,18,18:30,SpaceSoldiers,Iwku,cache,Razer Rising Stars European Le..,16,3,12,3,4,0,Space Soldiers,11,8,1.02 
+2016,07,18,16:00,PRIDE,SpaceSoldiers,mirage,Razer Rising Stars European Le..,14,16,8,7,6,9,Space Soldiers,18,16,1.02 
+2016,07,18,16:00,SpaceSoldiers,PRIDE,cobblestone,Razer Rising Stars European Le..,16,5,11,4,5,1,Space Soldiers,20,9,1.40 
+2016,07,14,23:00,ALTERNATEaTTaX,SpaceSoldiers,dust2,BlasterX INETKOX League Season..,16,7,13,2,3,5,Space Soldiers,7,18,0.43 
+2016,07,14,23:00,ALTERNATEaTTaX,SpaceSoldiers,cobblestone,BlasterX INETKOX League Season..,16,19,3,12,12,3,Space Soldiers,15,24,0.66 
+2016,07,14,20:10,Kinguin,SpaceSoldiers,dust2,BlasterX INETKOX League Season..,7,16,4,11,3,5,Space Soldiers,15,10,1.13 
+2016,07,14,20:10,SpaceSoldiers,Kinguin,mirage,BlasterX INETKOX League Season..,16,14,7,8,9,6,Space Soldiers,18,22,0.82 
+2016,07,13,18:15,MK,SpaceSoldiers,cache,Hitbox Challenger Cup #2,16,11,12,3,4,8,Space Soldiers,15,19,0.79 
+2016,07,13,18:15,MK,SpaceSoldiers,overpass,Hitbox Challenger Cup #2,16,9,8,7,8,2,Space Soldiers,32,18,1.79 
+2016,07,13,18:15,SpaceSoldiers,MK,cobblestone,Hitbox Challenger Cup #2,16,3,12,3,4,0,Space Soldiers,10,10,0.92 
+2016,06,29,20:30,SpaceSoldiers,EpiphanyBolt,overpass,Operation: Kinguin #3,16,5,14,1,2,4,Space Soldiers,14,12,1.04 
+2016,06,29,20:30,SpaceSoldiers,EpiphanyBolt,mirage,Operation: Kinguin #3,14,16,4,11,10,5,Space Soldiers,21,23,0.85 
+2016,06,29,20:30,EpiphanyBolt,SpaceSoldiers,train,Operation: Kinguin #3,8,16,7,8,1,8,Space Soldiers,26,10,1.77 
+2016,06,29,18:00,SpaceSoldiers,Kinguin,nuke,Razer Rising Stars European Le..,16,12,8,7,8,5,Space Soldiers,15,14,0.90 
+2016,06,28,21:45,DenDD,SpaceSoldiers,cobblestone,Hitbox Challenger Cup #2,3,16,3,12,0,4,Space Soldiers,17,6,1.46 
+2016,06,28,21:45,DenDD,SpaceSoldiers,overpass,Hitbox Challenger Cup #2,15,19,10,5,5,10,Space Soldiers,21,21,0.93 
+2016,06,28,21:45,SpaceSoldiers,DenDD,mirage,Hitbox Challenger Cup #2,9,16,4,11,5,5,Space Soldiers,16,18,1.09 
+2016,06,28,19:15,PRIDE,SpaceSoldiers,mirage,BlasterX INETKOX League Season..,9,16,8,7,1,9,Space Soldiers,18,15,1.09 
+2016,06,28,19:15,SpaceSoldiers,PRIDE,train,BlasterX INETKOX League Season..,16,4,14,1,2,3,Space Soldiers,11,11,0.97 
+2016,06,22,22:00,SpaceSoldiers,iNETKOXTV,train,BlasterX INETKOX League Season..,11,16,4,11,7,5,Space Soldiers,13,20,0.68 
+2016,06,22,22:00,SpaceSoldiers,iNETKOXTV,mirage,BlasterX INETKOX League Season..,13,16,9,6,4,10,Space Soldiers,20,19,1.08 
+2016,06,22,20:15,SpaceSoldiers,Gambit,cobblestone,Operation: Kinguin #3,4,16,4,11,0,5,Space Soldiers,10,19,0.57 
+2016,06,22,20:15,Gambit,SpaceSoldiers,dust2,Operation: Kinguin #3,16,8,7,8,9,0,Space Soldiers,14,18,0.76 
+2016,06,09,21:15,SpaceSoldiers,Spirit,cache,owayo Masters I,10,16,9,6,1,10,Space Soldiers,17,19,0.90 
+2016,06,09,21:15,Spirit,SpaceSoldiers,mirage,owayo Masters I,13,16,11,4,2,12,Space Soldiers,14,17,0.88 
+2016,06,09,21:15,SpaceSoldiers,Spirit,cobblestone,owayo Masters I,10,16,7,8,3,8,Space Soldiers,11,17,0.75 
+2016,06,05,18:15,ENCE,SpaceSoldiers,dust2,DreamHack ZOWIE Open Summer 20..,16,9,10,5,6,4,Space Soldiers,18,17,0.98 
+2016,06,05,18:15,SpaceSoldiers,ENCE,mirage,DreamHack ZOWIE Open Summer 20..,19,17,8,7,7,8,Space Soldiers,24,20,1.16 
+2016,06,05,18:15,ENCE,SpaceSoldiers,cobblestone,DreamHack ZOWIE Open Summer 20..,16,13,10,5,6,8,Space Soldiers,15,22,0.71 
+2016,06,05,15:30,Dobry&Gaming,SpaceSoldiers,cache,DreamHack ZOWIE Open Summer 20..,10,16,6,9,4,7,Space Soldiers,18,13,1.14 
+2016,06,05,15:30,Dobry&Gaming,SpaceSoldiers,cobblestone,DreamHack ZOWIE Open Summer 20..,12,16,4,11,8,5,Space Soldiers,19,18,1.00 
+2016,06,05,12:00,FluffyGangsters,SpaceSoldiers,train,DreamHack ZOWIE Open Summer 20..,13,16,7,8,6,8,Space Soldiers,21,16,1.13 
+2016,06,05,12:00,FluffyGangsters,SpaceSoldiers,dust2,DreamHack ZOWIE Open Summer 20..,13,16,6,9,7,7,Space Soldiers,17,15,1.00 
+2016,06,04,19:10,SpaceSoldiers,Bpro,mirage,DreamHack ZOWIE Open Summer 20..,16,9,13,2,3,7,Space Soldiers,15,11,1.14 
+2016,06,01,22:00,DenDD,SpaceSoldiers,cache,Razer Rising Stars European Le..,8,16,6,9,2,7,Space Soldiers,16,16,1.02 
+2016,06,01,22:00,DenDD,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,13,16,4,11,9,5,Space Soldiers,21,16,1.13 
+2016,05,31,18:00,Orbit,SpaceSoldiers,dust2,BlasterX INETKOX League Season..,3,16,3,12,0,4,Space Soldiers,22,10,1.54 
+2016,05,31,18:00,Orbit,SpaceSoldiers,train,BlasterX INETKOX League Season..,16,12,8,7,8,5,Space Soldiers,19,20,0.90 
+2016,05,29,12:45,Arcade,SpaceSoldiers,cache,DreamHack ZOWIE Open Summer 20..,16,5,13,2,3,3,Space Soldiers,11,17,0.73 
+2016,05,29,12:45,Arcade,SpaceSoldiers,cobblestone,DreamHack ZOWIE Open Summer 20..,12,16,5,10,7,6,Space Soldiers,20,17,1.04 
+2016,05,29,12:45,Arcade,SpaceSoldiers,mirage,DreamHack ZOWIE Open Summer 20..,19,17,8,7,7,8,Space Soldiers,18,24,0.79 
+2016,05,26,20:15,eSuba,SpaceSoldiers,cache,Razer Rising Stars European Le..,2,16,2,13,0,3,Space Soldiers,14,8,1.33 
+2016,05,26,20:15,eSuba,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,8,16,5,10,3,6,Space Soldiers,18,12,1.18 
+2016,05,25,23:15,CPHWolves,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,16,4,11,4,5,0,Space Soldiers,8,16,0.56 
+2016,05,25,23:15,CPHWolves,SpaceSoldiers,train,Razer Rising Stars European Le..,16,14,7,8,9,6,Space Soldiers,15,24,0.72 
+2016,05,25,20:15,Tricked,SpaceSoldiers,cache,BlasterX INETKOX League Season..,12,16,8,7,4,9,Space Soldiers,23,18,1.25 
+2016,05,25,20:15,Tricked,SpaceSoldiers,mirage,BlasterX INETKOX League Season..,20,22,13,2,2,13,Space Soldiers,28,28,0.99 
+2016,05,19,22:20,HeyGuys,SpaceSoldiers,mirage,Razer Rising Stars European Le..,11,16,9,6,2,10,Space Soldiers,23,15,1.29 
+2016,05,19,22:20,HeyGuys,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,6,16,3,12,3,4,Space Soldiers,19,15,1.19 
+2016,05,18,20:15,SpaceSoldiers,Orbit,inferno,Operation: Kinguin #3,6,16,5,10,1,6,Space Soldiers,6,20,0.30 
+2016,05,18,20:15,Orbit,SpaceSoldiers,train,Operation: Kinguin #3,16,14,12,3,4,11,Space Soldiers,15,22,0.71 
+2016,05,17,22:00,Bpro,SpaceSoldiers,train,Razer Rising Stars European Le..,6,16,6,9,0,7,Space Soldiers,15,13,1.09 
+2016,05,17,22:00,Bpro,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,3,16,3,12,0,4,Space Soldiers,16,10,1.18 
+2016,05,05,17:15,CSGO2x,SpaceSoldiers,cache,Operation: Kinguin #3,13,16,6,9,7,7,Space Soldiers,25,20,1.21 
+2016,05,05,17:15,CSGO2x,SpaceSoldiers,train,Operation: Kinguin #3,1,16,1,14,0,2,Space Soldiers,12,9,1.08 
+2016,05,01,15:00,GameAgents,SpaceSoldiers,train,DreamHack Regional Minor Champ..,16,14,9,6,7,8,Space Soldiers,15,18,0.82 
+2016,05,01,15:00,GameAgents,SpaceSoldiers,cache,DreamHack Regional Minor Champ..,16,7,11,4,5,3,Space Soldiers,23,18,1.32 
+2016,04,29,19:30,AGG,SpaceSoldiers,dust2,Global Offensive Champions Lea..,16,19,6,9,9,6,Space Soldiers,18,24,0.85 
+2016,04,29,19:30,AGG,SpaceSoldiers,mirage,Global Offensive Champions Lea..,9,16,6,9,3,7,Space Soldiers,17,15,1.13 
+2016,04,29,19:30,AGG,SpaceSoldiers,train,Global Offensive Champions Lea..,12,16,7,8,5,8,Space Soldiers,20,19,0.92 
+2016,04,27,17:30,GameAgents,SpaceSoldiers,dust2,Operation: Kinguin #3,8,16,5,10,3,6,Space Soldiers,13,16,0.82 
+2016,04,27,17:30,GameAgents,SpaceSoldiers,train,Operation: Kinguin #3,11,16,4,11,7,5,Space Soldiers,22,18,1.10 
+2016,04,21,18:00,SpaceSoldiers,dignitas,cobblestone,Global Offensive Champions Lea..,16,13,8,7,8,6,Space Soldiers,17,19,0.93 
+2016,04,21,18:00,dignitas,SpaceSoldiers,inferno,Global Offensive Champions Lea..,14,16,9,6,5,10,Space Soldiers,22,15,1.27 
+2016,04,07,20:00,GODSENT,SpaceSoldiers,cobblestone,Global Offensive Champions Lea..,5,16,4,11,1,5,Space Soldiers,15,16,0.90 
+2016,04,07,20:00,GODSENT,SpaceSoldiers,mirage,Global Offensive Champions Lea..,10,16,9,6,1,10,Space Soldiers,16,13,1.08 
+2016,03,26,16:00,SpaceSoldiers,E-frag.net,train,Copenhagen Games 2016,4,16,4,11,0,5,Space Soldiers,14,16,0.83 
+2016,03,26,16:00,E-frag.net,SpaceSoldiers,cache,Copenhagen Games 2016,19,17,10,5,5,10,Space Soldiers,19,24,0.76 
+2016,03,25,22:00,SK,SpaceSoldiers,cobblestone,Copenhagen Games 2016,7,16,5,10,2,6,Space Soldiers,12,15,0.80 
+2016,03,25,22:00,SK,SpaceSoldiers,mirage,Copenhagen Games 2016,14,16,7,8,7,8,Space Soldiers,16,19,0.82 
+2016,03,25,22:00,SpaceSoldiers,SK,dust2,Copenhagen Games 2016,1,16,1,14,0,2,Space Soldiers,5,15,0.38 
+2016,03,25,15:20,Iwku,SpaceSoldiers,train,Copenhagen Games 2016,7,16,2,13,5,3,Space Soldiers,19,15,1.18 
+2016,03,25,13:15,SpaceSoldiers,RCTIC,mirage,Copenhagen Games 2016,16,6,10,5,6,1,Space Soldiers,16,14,1.06 
+2016,03,25,11:50,SpaceSoldiers,HellRaisers,cache,Copenhagen Games 2016,6,16,6,9,0,7,Space Soldiers,14,20,0.76 
+2016,03,24,23:00,BX3,SpaceSoldiers,inferno,Copenhagen Games 2016 BYOC Qua..,7,16,6,9,1,7,Space Soldiers,13,13,0.88 
+2016,03,24,23:00,BX3,SpaceSoldiers,cobblestone,Copenhagen Games 2016 BYOC Qua..,10,16,7,8,3,8,Space Soldiers,23,18,1.24 
+2016,03,24,19:00,Flash,SpaceSoldiers,cache,Copenhagen Games 2016 BYOC Qua..,5,16,2,13,3,3,Space Soldiers,9,13,0.72 
+2016,03,24,19:00,SpaceSoldiers,Flash,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,7,8,7,8,0,Space Soldiers,27,14,1.78 
+2016,03,24,15:30,SpaceSoldiers,eXtatus,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,15,0,1,3,Space Soldiers,10,11,0.84 
+2016,03,24,13:00,Telos,SpaceSoldiers,dust2,Copenhagen Games 2016 BYOC Qua..,1,16,1,14,0,2,Space Soldiers,10,5,1.14 
+2016,03,20,13:00,AGG,SpaceSoldiers,train,DreamHack Masters Malmö 2016 E..,16,11,13,2,3,9,Space Soldiers,23,18,1.20 
+2016,03,20,13:00,AGG,SpaceSoldiers,cobblestone,DreamHack Masters Malmö 2016 E..,16,8,11,4,5,4,Space Soldiers,9,19,0.51 
+2016,03,19,17:50,SpaceSoldiers,nGw,mirage,DreamHack Masters Malmö 2016 E..,16,3,12,3,4,0,Space Soldiers,15,10,1.20 
+2016,03,15,23:30,HellRaisers,SpaceSoldiers,cobblestone,Global Offensive Champions Lea..,7,16,4,11,3,5,Space Soldiers,17,15,1.05 
+2016,03,15,22:45,VwS,SpaceSoldiers,train,Global Offensive Champions Lea..,10,16,5,10,5,6,Space Soldiers,12,17,0.71 
+2016,03,15,19:00,SpaceSoldiers,HellRaisers,inferno,Global Offensive Champions Lea..,11,16,7,8,4,8,Space Soldiers,12,18,0.73 
+2016,03,08,20:50,SpaceSoldiers,Arcade,cobblestone,Razer Rising Stars European Le..,16,12,11,4,5,8,Space Soldiers,17,19,0.89 
+2016,03,08,19:00,Epsilon,SpaceSoldiers,mirage,Razer Rising Stars European Le..,19,21,3,12,12,3,Space Soldiers,28,28,0.96 
+2016,01,07,21:00,SpaceSoldiers,PENTA,cache,PGL Regional Minor Championshi..,14,16,5,10,9,6,Space Soldiers,13,23,0.63 
+2016,01,07,21:00,SpaceSoldiers,PENTA,dust2,PGL Regional Minor Championshi..,16,7,8,7,8,0,Space Soldiers,20,13,1.31 
+2016,01,07,21:00,SpaceSoldiers,PENTA,cobblestone,PGL Regional Minor Championshi..,14,16,6,9,8,7,Space Soldiers,18,21,0.84 
+2015,12,16,23:00,SpaceSoldiers,Vexed,mirage,Operation: Kinguin,16,11,4,11,12,0,Space Soldiers,23,15,1.25 
+2015,12,15,17:00,Vexed,SpaceSoldiers,train,Operation: Kinguin,7,16,4,11,3,5,Space Soldiers,14,13,0.96 
+2015,12,15,17:00,Vexed,SpaceSoldiers,dust2,Operation: Kinguin,11,16,4,11,7,5,Space Soldiers,17,23,0.71 
+2015,12,14,19:30,nEophyte,SpaceSoldiers,train,Operation: Kinguin,9,16,6,9,3,7,Space Soldiers,19,15,1.08 
+2015,12,14,19:30,nEophyte,SpaceSoldiers,cache,Operation: Kinguin,7,16,6,9,1,7,Space Soldiers,16,13,1.09 
+2015,12,11,17:00,FlipSid3,SpaceSoldiers,mirage,QuickShot Arena #18,16,11,7,8,9,3,Space Soldiers,15,23,0.67 
+2015,12,11,17:00,SpaceSoldiers,FlipSid3,train,QuickShot Arena #18,6,16,3,12,3,4,Space Soldiers,12,18,0.74 
+2015,12,11,17:00,FlipSid3,SpaceSoldiers,cobblestone,QuickShot Arena #18,2,16,2,13,0,3,Space Soldiers,13,8,1.12 
+2015,12,09,22:00,SpaceSoldiers,nEophyte,mirage,QuickShot Arena #18,16,13,7,8,9,5,Space Soldiers,24,19,1.13 
+2015,12,09,20:45,LondonC,SpaceSoldiers,dust2,QuickShot Arena #18,16,10,9,6,7,4,Space Soldiers,21,20,1.11 
+2015,12,09,17:00,SpaceSoldiers,nEophyte,cobblestone,QuickShot Arena #18,16,6,13,2,3,4,Space Soldiers,21,11,1.42 
+2015,12,04,22:30,NoProblem!,SpaceSoldiers,train,QuickShot Arena #17,10,16,8,7,2,9,Space Soldiers,14,12,0.93 
+2015,12,04,22:30,SpaceSoldiers,NoProblem!,cache,QuickShot Arena #17,25,23,9,6,6,9,Space Soldiers,42,31,1.23 
+2015,12,04,17:00,SpaceSoldiers,eSuba,dust2,QuickShot Arena #17,16,4,12,3,4,1,Space Soldiers,13,7,1.13 
+2015,12,04,17:00,SpaceSoldiers,eSuba,train,QuickShot Arena #17,16,4,14,1,2,3,Space Soldiers,12,12,0.94 
+2015,12,04,17:00,eSuba,SpaceSoldiers,mirage,QuickShot Arena #17,19,17,7,8,8,7,Space Soldiers,15,30,0.50 
+2015,12,03,21:00,BX3,SpaceSoldiers,dust2,QuickShot Arena #17,14,16,11,4,3,12,Space Soldiers,17,20,0.80 
+2015,12,03,18:00,SpaceSoldiers,OnlineBOTS,cobblestone,Game Show Global eSports Cup 2..,16,3,12,3,4,0,Space Soldiers,16,9,1.38 
+2015,12,03,18:00,OnlineBOTS,SpaceSoldiers,cache,Game Show Global eSports Cup 2..,10,16,3,12,7,4,Space Soldiers,14,17,0.91 
+2015,11,29,20:00,Caseking,KILLERFISH,train,99Damage League Season 2,5,16,4,11,1,5,Caseking,9,18,0.53 
+2015,11,29,20:00,KILLERFISH,Caseking,overpass,99Damage League Season 2,16,7,10,5,6,2,Caseking,11,18,0.78 
+2015,11,24,19:00,PENTA,Caseking,cobblestone,99Damage League Season 2,16,11,9,6,7,5,Caseking,10,21,0.51 
+2015,11,24,19:00,PENTA,Caseking,mirage,99Damage League Season 2,16,4,11,4,5,0,Caseking,5,18,0.29 
+2015,10,20,18:00,Seelachs,uX,dust2,99Damage League Season 1,15,19,9,6,6,9,Seelachs,20,20,0.96 
+2015,10,20,18:00,Seelachs,uX,mirage,99Damage League Season 1,16,14,8,7,8,7,Seelachs,22,21,1.09 
+2015,10,20,18:00,Seelachs,uX,cache,99Damage League Season 1,7,16,5,10,2,6,Seelachs,17,18,1.00 

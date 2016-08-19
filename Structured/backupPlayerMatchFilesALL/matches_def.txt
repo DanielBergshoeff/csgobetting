@@ -1,0 +1,69 @@
+2016,08,04,14:00,Preparation,BinaryDragons,overpass,Adrenaline Cyber League,18,21,9,6,6,9,Binary Dragons,27,28,0.93 
+2016,08,04,14:00,Preparation,BinaryDragons,cobblestone,Adrenaline Cyber League,16,9,6,9,10,0,Binary Dragons,15,21,0.68 
+2016,08,04,14:00,BinaryDragons,Preparation,dust2,Adrenaline Cyber League,21,19,6,9,9,6,Binary Dragons,25,29,0.98 
+2016,07,10,11:00,Vesuvius,BinaryDragons,mirage,Game Show Open Season 4 Playof..,16,6,12,3,4,3,Binary Dragons,7,20,0.39 
+2016,07,10,11:00,Vesuvius,BinaryDragons,cache,Game Show Open Season 4 Playof..,16,4,11,4,5,0,Binary Dragons,11,17,0.64 
+2016,07,09,11:00,BinaryDragons,GameplayDNA,cache,Game Show Open Season 4 Playof..,11,16,7,8,4,8,Binary Dragons,19,17,1.04 
+2016,07,09,11:00,GameplayDNA,BinaryDragons,mirage,Game Show Open Season 4 Playof..,6,16,5,10,1,6,Binary Dragons,13,12,1.00 
+2016,07,09,11:00,GameplayDNA,BinaryDragons,cobblestone,Game Show Open Season 4 Playof..,16,12,12,3,4,9,Binary Dragons,13,20,0.72 
+2016,03,11,19:00,eXplosive,DEEZNUTS,cache,Razer Rising Stars European Le..,10,16,7,8,3,8,eXplosive,13,20,0.67 
+2016,03,08,22:50,ex-Epiphany,eXplosive,mirage,Razer Rising Stars European Le..,16,0,15,0,1,0,eXplosive,3,16,0.19 
+2016,03,06,16:00,Empire,eXplosive,mirage,Binary Dragons Cup Season 2,16,8,11,4,5,4,eXplosive,14,21,0.66 
+2016,03,06,16:00,eXplosive,Empire,cache,Binary Dragons Cup Season 2,12,16,7,8,5,8,eXplosive,17,22,0.76 
+2016,03,06,16:00,eXplosive,Empire,cobblestone,Binary Dragons Cup Season 2,16,10,7,8,9,2,eXplosive,21,15,1.15 
+2016,02,06,18:30,eXplosive,Arcade,dust2,Binary Dragons Hellstore Winte..,5,16,2,13,3,3,eXplosive,9,16,0.61 
+2016,02,06,18:30,Arcade,eXplosive,cache,Binary Dragons Hellstore Winte..,13,16,3,12,10,4,eXplosive,15,21,0.72 
+2016,02,06,18:30,eXplosive,Arcade,mirage,Binary Dragons Hellstore Winte..,12,16,6,9,6,7,eXplosive,9,18,0.58 
+2016,01,23,14:00,BinaryDragons,eXplosive,mirage,StarLadder Regional Minor Cham..,16,14,7,8,9,6,eXplosive,25,20,1.14 
+2016,01,22,15:45,Gambit,eXplosive,cache,StarLadder Regional Minor Cham..,16,4,11,4,5,0,eXplosive,12,18,0.70 
+2015,12,13,21:00,Revival,eXplosive,train,Game Show Global eSports Cup 2..,22,20,9,6,6,9,eXplosive,28,31,0.94 
+2015,12,13,21:00,Revival,eXplosive,cobblestone,Game Show Global eSports Cup 2..,3,16,3,12,0,4,eXplosive,17,6,1.49 
+2015,12,13,21:00,Revival,eXplosive,mirage,Game Show Global eSports Cup 2..,16,11,9,6,7,5,eXplosive,10,21,0.58 
+2015,12,12,19:00,eXplosive,PiTER,cache,Game Show Global eSports Cup 2..,11,16,4,11,7,5,eXplosive,8,22,0.42 
+2015,12,12,19:00,PiTER,eXplosive,cobblestone,Game Show Global eSports Cup 2..,16,3,12,3,4,0,eXplosive,11,16,0.70 
+2015,12,12,19:00,PiTER,eXplosive,mirage,Game Show Global eSports Cup 2..,10,16,4,11,6,5,eXplosive,19,14,1.12 
+2015,12,12,16:00,eXplosive,HS.GG,cache,Game Show Global eSports Cup 2..,16,10,7,8,9,2,eXplosive,19,16,1.19 
+2015,12,12,16:00,HS.GG,eXplosive,cobblestone,Game Show Global eSports Cup 2..,11,16,4,11,7,5,eXplosive,22,13,1.23 
+2015,12,03,22:00,eXplosive,YP,dust2,Uprise Champions Cup: Europe,7,16,6,9,1,7,eXplosive,12,15,0.85 
+2015,12,03,22:00,eXplosive,YP,mirage,Uprise Champions Cup: Europe,16,12,8,7,8,5,eXplosive,18,18,1.06 
+2015,12,03,22:00,eXplosive,YP,cache,Uprise Champions Cup: Europe,10,16,4,11,6,5,eXplosive,12,19,0.63 
+2015,12,03,16:00,eXplosive,RCTIC,train,Uprise Champions Cup: Europe,16,11,12,3,4,8,eXplosive,10,15,0.72 
+2015,12,03,16:00,eXplosive,RCTIC,cache,Uprise Champions Cup: Europe,16,1,14,1,2,0,eXplosive,15,7,1.49 
+2015,12,01,22:00,eXplosive,YPLadies,dust2,UCC ShowMatch Cup,16,4,13,2,3,2,eXplosive,12,15,0.91 
+2015,12,01,22:00,eXplosive,YPLadies,cache,UCC ShowMatch Cup,16,4,13,2,3,2,eXplosive,14,11,1.01 
+2015,12,01,19:00,eXplosive,LPM,mirage,UCC ShowMatch Cup,16,9,9,6,7,3,eXplosive,14,16,0.85 
+2015,12,01,19:00,LPM,eXplosive,cache,UCC ShowMatch Cup,5,16,5,10,0,6,eXplosive,15,8,1.24 
+2015,11,25,15:00,eXplosive,YP,mirage,Uprise Champions Cup: Europe,6,16,6,9,0,7,eXplosive,12,18,0.68 
+2015,11,25,15:00,eXplosive,YP,dust2,Uprise Champions Cup: Europe,9,16,2,13,7,3,eXplosive,12,18,0.86 
+2015,11,25,15:00,YP,eXplosive,cache,Uprise Champions Cup: Europe,4,16,4,11,0,5,eXplosive,8,9,0.84 
+2015,11,23,17:00,eXplosive,SpaceSoldiers,dust2,99Damage Arena #15,5,16,4,11,1,5,eXplosive,6,19,0.37 
+2015,11,23,17:00,SpaceSoldiers,eXplosive,mirage,99Damage Arena #15,16,12,11,4,5,8,eXplosive,19,18,0.98 
+2015,11,21,19:30,BX3,eXplosive,dust2,QuickShot Arena #15,16,14,10,5,6,9,eXplosive,12,22,0.59 
+2015,11,21,19:30,eXplosive,BX3,train,QuickShot Arena #15,9,16,4,11,5,5,eXplosive,14,17,0.78 
+2015,11,21,19:30,eXplosive,BX3,mirage,QuickShot Arena #15,16,8,14,1,2,7,eXplosive,17,13,1.14 
+2015,11,20,20:45,eXplosive,LowLandLions,dust2,QuickShot Arena #15,16,11,9,6,7,5,eXplosive,15,16,1.03 
+2015,11,20,17:00,eXplosive,Refuse,cache,QuickShot Arena #15,16,3,12,3,4,0,eXplosive,13,8,1.29 
+2015,11,16,19:45,Enso,eXplosive,mirage,CIS LAN Championship #2,16,11,10,5,6,6,eXplosive,14,20,0.77 
+2015,11,16,19:45,Enso,eXplosive,dust2,CIS LAN Championship #2,22,20,10,5,5,10,eXplosive,27,29,0.93 
+2015,11,16,13:10,YP,eXplosive,dust2,CIS LAN Championship #2,16,13,5,10,11,3,eXplosive,13,24,0.62 
+2015,11,16,13:10,YP,eXplosive,cache,CIS LAN Championship #2,16,10,8,7,8,3,eXplosive,21,18,1.17 
+2015,10,25,21:25,Arcade,ACG,cache,Uprise Champions Cup: Europe C..,16,10,6,9,10,1,ACG,12,20,0.60 
+2015,10,25,19:20,Enso,ACG,mirage,Uprise Champions Cup: Europe C..,2,16,2,13,0,3,ACG,9,13,0.77 
+2015,10,25,19:20,Enso,ACG,dust2,Uprise Champions Cup: Europe C..,14,16,9,6,5,10,ACG,14,20,0.74 
+2015,10,25,16:00,Arcade,ACG,cobblestone,Uprise Champions Cup: Europe C..,16,11,9,6,7,5,ACG,23,20,1.20 
+2015,10,25,16:00,ACG,Arcade,cache,Uprise Champions Cup: Europe C..,16,10,10,5,6,5,ACG,20,14,1.18 
+2015,10,25,16:00,ACG,Arcade,mirage,Uprise Champions Cup: Europe C..,17,19,10,5,5,10,ACG,27,23,1.05 
+2015,10,25,12:00,ACG,Enervate,mirage,Rising Tornado #5,4,16,1,14,3,2,ACG,8,17,0.51 
+2015,10,25,12:00,Enervate,ACG,cache,Rising Tornado #5,16,4,12,3,4,1,ACG,6,16,0.47 
+2015,10,24,19:00,ACG,Enso,train,Uprise Champions Cup: Europe C..,16,14,13,2,3,12,ACG,25,15,1.34 
+2015,10,24,19:00,Enso,ACG,mirage,Uprise Champions Cup: Europe C..,14,16,10,5,4,11,ACG,28,19,1.35 
+2015,10,24,19:00,Enso,ACG,dust2,Uprise Champions Cup: Europe C..,16,8,11,4,5,4,ACG,16,19,0.90 
+2015,10,19,17:00,Pries,ACG,mirage,Rising Tornado #5,18,22,9,6,6,9,ACG,35,27,1.21 
+2015,10,19,17:00,Pries,ACG,cache,Rising Tornado #5,2,16,2,13,0,3,ACG,17,7,1.45 
+2015,10,16,18:00,PiTER,ACG,mirage,Rising Tornado #5,16,10,10,5,6,5,ACG,20,20,0.92 
+2015,10,16,18:00,PiTER,ACG,cobblestone,Rising Tornado #5,16,14,5,10,11,4,ACG,16,22,0.74 
+2015,08,30,11:30,ACG,HD4R,cache,Rising Tornado #4,6,16,5,10,1,6,ACG,11,17,0.71 
+2015,08,30,11:30,ACG,HD4R,mirage,Rising Tornado #4,14,16,8,7,6,9,ACG,17,22,0.79 
+2015,08,29,14:00,dope,ACG,mirage,Rising Tornado #4,19,17,8,7,7,8,ACG,20,27,0.83 
+2015,08,29,14:00,dope,ACG,cache,Rising Tornado #4,12,16,6,9,6,7,ACG,25,16,1.32 
+2015,08,29,14:00,dope,ACG,dust2,Rising Tornado #4,16,14,7,8,9,6,ACG,15,23,0.69 

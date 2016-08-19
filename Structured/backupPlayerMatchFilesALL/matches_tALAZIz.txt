@@ -1,0 +1,12 @@
+2016,05,14,13:40,neXtPlease!,IGG,mirage,PC Garage Clutch Masters by St..,16,8,8,7,8,1,IGG,13,21,0.60 
+2016,05,14,10:00,IGG,cooL,train,PC Garage Clutch Masters by St..,9,16,5,10,4,6,IGG,8,18,0.54 
+2016,03,24,20:00,neXtPlease!,aimclub,mirage,Balkan Championship Season 3,11,16,7,8,4,8,neXtPlease!,16,19,0.89 
+2015,12,19,20:00,XPC,Revolte,cache,Rising Stars Balkan #2,16,19,9,6,6,9,XPC,21,27,0.75 
+2015,12,18,20:00,iNation,XPC,dust2,Rising Stars Balkan #2,16,10,11,4,5,6,XPC,22,18,1.09 
+2015,12,18,20:00,XPC,iNation,mirage,Rising Stars Balkan #2,7,16,6,9,1,7,XPC,12,17,0.67 
+2015,05,14,19:00,IGG,Rock,cache,Balkan Championship Season 2,4,16,4,11,0,5,IGG,10,18,0.53 
+2015,05,14,19:00,Rock,IGG,inferno,Balkan Championship Season 2,16,9,12,3,4,6,IGG,18,20,0.93 
+2015,05,07,18:00,IGG,228,inferno,Balkan Championship Season 2,16,2,13,2,3,0,IGG,18,7,1.85 
+2015,05,07,18:00,228,IGG,mirage,Balkan Championship Season 2,10,16,7,8,3,8,IGG,15,13,1.07 
+2015,05,06,16:30,Rock,IGG,inferno,Balkan Championship Season 2,16,11,8,7,8,4,IGG,14,20,0.71 
+2015,05,06,16:30,Rock,IGG,cobblestone,Balkan Championship Season 2,16,11,12,3,4,8,IGG,15,23,0.69 

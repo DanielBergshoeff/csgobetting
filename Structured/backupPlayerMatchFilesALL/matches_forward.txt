@@ -1,0 +1,6 @@
+2015,08,29,15:00,Turkey,Georgia,mirage,World Championships 2015 Europ..,16,10,10,5,6,5,Georgia,12,20,0.62 
+2015,08,29,15:00,Georgia,Turkey,dust2,World Championships 2015 Europ..,16,11,8,7,8,4,Georgia,21,16,1.11 
+2015,08,29,15:00,Georgia,Turkey,cache,World Championships 2015 Europ..,10,16,7,8,3,8,Georgia,8,19,0.57 
+2015,08,10,18:30,Austria,Georgia,inferno,World Championships 2015 Europ..,12,16,6,9,6,7,Georgia,14,20,0.78 
+2015,08,10,18:30,Austria,Georgia,dust2,World Championships 2015 Europ..,14,16,11,4,3,12,Georgia,22,24,0.99 
+2015,08,10,18:30,Georgia,Austria,cache,World Championships 2015 Europ..,7,16,7,8,0,8,Georgia,13,17,0.79 

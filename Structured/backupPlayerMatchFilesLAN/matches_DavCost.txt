@@ -1,0 +1,52 @@
+2016,07,13,22:15,Virtus.pro,Gambit,mirage,ELEAGUE Season 1,16,6,13,2,3,4,Gambit,7,19,0.43 
+2016,07,13,22:15,Gambit,Virtus.pro,dust2,ELEAGUE Season 1,17,19,7,8,8,7,Gambit,25,20,1.09 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,16,11,7,8,9,3,Worst Players,18,18,1.11 
+2016,05,01,17:00,FluffyGangsters,WorstPlayers,dust2,StarLadder Minor CIS - Cologne..,16,14,7,8,9,6,Worst Players,23,18,1.16 
+2016,05,01,13:00,ANOX,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,11,16,5,10,6,6,Worst Players,29,14,1.76 
+2016,05,01,13:00,WorstPlayers,ANOX,cache,StarLadder Minor CIS - Cologne..,9,16,8,7,1,9,Worst Players,14,20,0.72 
+2016,05,01,13:00,ANOX,WorstPlayers,mirage,StarLadder Minor CIS - Cologne..,9,16,5,10,4,6,Worst Players,28,12,1.66 
+2016,04,30,16:45,WorstPlayers,Empire,train,StarLadder Minor CIS - Cologne..,11,16,10,5,1,11,Worst Players,14,20,0.67 
+2016,04,30,16:45,WorstPlayers,Empire,dust2,StarLadder Minor CIS - Cologne..,10,16,5,10,5,6,Worst Players,13,20,0.65 
+2016,04,30,16:44,Empire,WorstPlayers,mirage,StarLadder Minor CIS - Cologne..,16,19,10,5,5,10,Worst Players,39,19,1.70 
+2016,04,28,19:00,ANOX,WorstPlayers,cobblestone,StarLadder Minor CIS - Cologne..,14,16,9,6,5,10,Worst Players,23,21,1.08 
+2016,04,28,19:00,WorstPlayers,ANOX,train,StarLadder Minor CIS - Cologne..,16,10,10,5,6,5,Worst Players,13,16,0.78 
+2016,04,28,14:30,WorstPlayers,Vesuvius,mirage,StarLadder Minor CIS - Cologne..,16,3,14,1,2,2,Worst Players,17,9,1.42 
+2016,02,26,22:45,YP,Liquid,overpass,MLG Columbus 2016 Main Qualifi..,2,16,2,13,0,3,YP,7,17,0.47 
+2016,02,26,19:00,mousesports,YP,cobblestone,MLG Columbus 2016 Main Qualifi..,16,1,14,1,2,0,YP,4,16,0.28 
+2015,11,17,20:45,USSR,PiTER,overpass,CIS LAN Championship #2,13,16,9,6,4,10,USSR,16,21,0.75 
+2015,11,17,20:45,PiTER,USSR,mirage,CIS LAN Championship #2,16,10,12,3,4,7,USSR,22,20,1.03 
+2015,11,17,12:45,USSR,VegaSquadron,dust2,CIS LAN Championship #2,7,16,4,11,3,5,USSR,11,18,0.68 
+2015,11,17,12:45,USSR,VegaSquadron,overpass,CIS LAN Championship #2,14,16,5,10,9,6,USSR,22,24,0.93 
+2015,11,17,12:45,VegaSquadron,USSR,mirage,CIS LAN Championship #2,11,16,9,6,2,10,USSR,28,20,1.46 
+2015,10,29,12:35,FlipSid3,mousesports,overpass,DreamHack Open Cluj-Napoca 201..,8,16,3,12,5,4,FlipSid3,12,18,0.74 
+2015,10,28,13:30,FlipSid3,TSM,cache,DreamHack Open Cluj-Napoca 201..,6,16,2,13,4,3,FlipSid3,7,19,0.46 
+2015,09,26,15:45,FlipSid3,CPHWolves,overpass,DreamHack Open Cluj-Napoca 201..,16,13,10,5,6,8,FlipSid3,21,18,1.07 
+2015,09,26,15:45,FlipSid3,CPHWolves,mirage,DreamHack Open Cluj-Napoca 201..,16,10,11,4,5,6,FlipSid3,13,17,0.77 
+2015,09,23,19:30,FlipSid3,CLG,train,DreamHack Open Cluj-Napoca 201..,12,16,8,7,4,9,FlipSid3,18,21,0.84 
+2015,09,23,19:30,FlipSid3,CLG,cache,DreamHack Open Cluj-Napoca 201..,14,16,5,10,9,6,FlipSid3,22,16,1.15 
+2015,09,23,12:30,FlipSid3,CPHWolves,mirage,DreamHack Open Cluj-Napoca 201..,16,12,4,11,12,1,FlipSid3,30,15,1.67 
+2015,09,23,12:30,CPHWolves,FlipSid3,train,DreamHack Open Cluj-Napoca 201..,2,14,1,14,1,0,FlipSid3,12,9,1.09 
+2015,08,21,22:05,Luminosity,FlipSid3,cobblestone,ESL One Cologne 2015,22,18,9,6,6,9,FlipSid3,22,30,0.75 
+2015,08,21,20:40,mousesports,FlipSid3,cobblestone,ESL One Cologne 2015,14,16,7,8,7,8,FlipSid3,20,22,0.87 
+2015,08,20,14:00,EnVyUs,FlipSid3,inferno,ESL One Cologne 2015,16,3,12,3,4,0,FlipSid3,11,18,0.77 
+2015,07,25,21:45,dignitas,FlipSid3,mirage,ESL One Cologne 2015 European ..,16,19,12,3,3,12,FlipSid3,24,25,1.04 
+2015,07,25,20:30,FlipSid3,KILLERFISH,mirage,ESL One Cologne 2015 European ..,16,14,9,6,7,8,FlipSid3,23,23,0.93 
+2015,07,25,18:45,FlipSid3,Property,cobblestone,ESL One Cologne 2015 European ..,16,3,12,3,4,0,FlipSid3,15,12,1.02 
+2015,07,25,17:00,FlipSid3,PENTA,overpass,ESL One Cologne 2015 European ..,19,17,7,8,8,7,FlipSid3,31,28,1.09 
+2015,07,25,15:00,FlipSid3,KILLERFISH,mirage,ESL One Cologne 2015 European ..,14,16,5,10,9,6,FlipSid3,17,24,0.73 
+2015,04,19,11:30,TEAMSWAGYOLO,ACES,cobblestone,CIS LAN Championship,13,16,5,10,8,6,TEAMSWAGYOLO,22,17,1.17 
+2015,04,19,11:30,ACES,TEAMSWAGYOLO,cache,CIS LAN Championship,16,5,11,4,5,1,TEAMSWAGYOLO,13,16,0.89 
+2015,04,19,11:30,TEAMSWAGYOLO,ACES,mirage,CIS LAN Championship,16,6,12,3,4,3,TEAMSWAGYOLO,23,14,1.46 
+2015,04,18,21:30,GGWP,TEAMSWAGYOLO,inferno,CIS LAN Championship,17,19,7,8,8,7,TEAMSWAGYOLO,24,23,0.96 
+2015,04,18,21:30,TEAMSWAGYOLO,GGWP,cache,CIS LAN Championship,16,9,10,5,6,4,TEAMSWAGYOLO,23,16,1.50 
+2015,04,18,21:30,TEAMSWAGYOLO,GGWP,mirage,CIS LAN Championship,20,22,10,5,5,10,TEAMSWAGYOLO,19,33,0.65 
+2015,04,18,14:00,TEAMSWAGYOLO,WEPLAY,cobblestone,CIS LAN Championship,16,9,10,5,6,4,TEAMSWAGYOLO,12,20,0.63 
+2015,04,18,14:00,WEPLAY,TEAMSWAGYOLO,mirage,CIS LAN Championship,10,16,6,9,4,7,TEAMSWAGYOLO,22,16,1.38 
+2015,04,17,18:00,TEAMSWAGYOLO,USSR,cobblestone,CIS LAN Championship,9,16,6,9,3,7,TEAMSWAGYOLO,17,20,0.87 
+2015,04,17,16:00,PiTER,TEAMSWAGYOLO,mirage,CIS LAN Championship,7,16,4,11,3,5,TEAMSWAGYOLO,22,16,1.48 
+2015,04,17,14:00,HellRaisers,TEAMSWAGYOLO,cache,CIS LAN Championship,16,3,13,2,3,1,TEAMSWAGYOLO,11,18,0.65 
+2015,03,12,15:45,VoxEminor,FlipSid3,cache,ESL One Katowice 2015,16,2,13,2,3,0,FlipSid3,13,15,1.03 
+2015,03,12,14:50,NatusVincere,FlipSid3,mirage,ESL One Katowice 2015,16,2,14,1,2,1,FlipSid3,8,17,0.51 
+2015,02,14,21:00,FlipSid3,PiTER,mirage,ESL One Katowice 2015 Main Qua..,16,3,12,3,4,0,FlipSid3,14,11,1.11 
+2015,02,14,19:40,LGB,FlipSid3,inferno,ESL One Katowice 2015 Main Qua..,16,11,8,7,8,4,FlipSid3,19,21,1.01 
+2015,02,14,18:15,FlipSid3,Liquid,mirage,ESL One Katowice 2015 Main Qua..,16,14,10,5,6,9,FlipSid3,19,20,0.96 

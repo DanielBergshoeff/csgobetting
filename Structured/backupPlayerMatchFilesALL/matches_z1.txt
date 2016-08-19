@@ -1,0 +1,28 @@
+2016,08,12,16:00,Ukraine,Greece,train,World Championships 2016 Europ..,16,3,12,3,4,0,Ukraine,9,11,0.77 
+2016,08,10,17:00,Vesuvius,Comanche,dust2,Adrenaline Cyber League,16,10,6,9,10,1,Comanche,15,18,0.93 
+2016,08,10,17:00,Comanche,Vesuvius,mirage,Adrenaline Cyber League,13,16,7,8,6,8,Comanche,20,19,0.98 
+2016,08,04,18:10,Comanche,NokSuKao,train,Adrenaline Cyber League,20,22,9,6,6,9,Comanche,36,29,1.29 
+2016,08,04,18:10,NokSuKao,Comanche,mirage,Adrenaline Cyber League,16,9,10,5,6,4,Comanche,16,20,0.79 
+2016,08,02,18:00,Preparation,EpiphanyBolt,train,Betway Invitational,16,13,5,10,11,3,Preparation,23,20,1.12 
+2016,08,02,18:00,Preparation,EpiphanyBolt,overpass,Betway Invitational,10,16,5,10,5,6,Preparation,16,21,0.78 
+2016,08,02,18:00,Preparation,EpiphanyBolt,mirage,Betway Invitational,16,5,12,3,4,2,Preparation,22,9,1.56 
+2016,07,10,17:00,Quest,Vesuvius,mirage,Game Show Open Season 4 Playof..,16,5,11,4,5,1,Quest,32,11,2.30 
+2016,07,10,17:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,0,16,0,15,0,1,Quest,13,7,1.39 
+2016,07,09,17:30,Quest,GameplayDNA,mirage,Game Show Open Season 4 Playof..,16,8,10,5,6,3,Quest,23,14,1.33 
+2016,07,09,17:30,GameplayDNA,Quest,cobblestone,Game Show Open Season 4 Playof..,7,16,7,8,0,8,Quest,14,10,1.10 
+2016,07,09,15:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,14,16,7,8,7,8,Quest,20,19,0.93 
+2016,07,09,15:00,Vesuvius,Quest,cache,Game Show Open Season 4 Playof..,11,16,6,9,5,7,Quest,19,18,1.10 
+2016,06,21,18:15,PENTA,Quest,mirage,RGN Pro Series II EU Closed Qu..,16,9,12,3,4,6,Quest,17,20,0.82 
+2016,06,21,18:15,Quest,PENTA,cache,RGN Pro Series II EU Closed Qu..,7,16,7,8,0,8,Quest,13,14,0.94 
+2016,06,02,21:00,Quest,Tricked,train,RGN Pro Series II EU Closed Qu..,12,16,10,5,2,11,Quest,20,20,0.97 
+2016,06,02,21:00,Quest,Tricked,cobblestone,RGN Pro Series II EU Closed Qu..,11,16,3,12,8,4,Quest,21,19,1.04 
+2016,06,02,21:00,Tricked,Quest,dust2,RGN Pro Series II EU Closed Qu..,13,16,11,4,2,12,Quest,18,21,0.92 
+2016,05,24,21:00,ANOX,Quest,dust2,RGN Pro Series II EU Closed Qu..,6,16,6,9,0,7,Quest,17,13,1.14 
+2016,05,24,21:00,Quest,ANOX,mirage,RGN Pro Series II EU Closed Qu..,19,17,11,4,4,11,Quest,33,22,1.29 
+2016,04,20,20:00,Tempest,FluffyGangsters,mirage,StarLadder Regional Minor Cham..,17,19,10,5,5,10,Tempest,27,23,1.10 
+2016,04,20,20:00,FluffyGangsters,Tempest,dust2,StarLadder Regional Minor Cham..,19,16,5,10,10,5,Tempest,19,23,0.80 
+2016,03,19,18:25,FluffyGangsters,Tempest,mirage,DreamHack Masters Malmö 2016 E..,16,5,11,4,5,1,Tempest,9,19,0.49 
+2015,12,11,18:00,Supreme,ELTZ,cobblestone,Game Show Global eSports Cup 2..,7,16,3,12,4,4,Supreme,12,21,0.66 
+2015,12,11,18:00,Supreme,ELTZ,train,Game Show Global eSports Cup 2..,7,16,3,12,4,4,Supreme,20,19,1.10 
+2015,12,11,18:00,Supreme,ELTZ,mirage,Game Show Global eSports Cup 2..,16,11,9,6,7,5,Supreme,24,17,1.26 
+2014,09,14,20:00,Kazakhstan,Ukraine,dust2,European Championship 2014,9,16,7,8,2,8,Ukraine,23,17,1.27 

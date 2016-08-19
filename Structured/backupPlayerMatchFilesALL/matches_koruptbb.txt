@@ -1,0 +1,2 @@
+2015,08,09,20:00,In-Finity,Altitude,cache,Fight Night: Season I,16,5,11,4,5,1,Altitude,13,18,0.66 
+2015,08,09,20:00,In-Finity,Altitude,overpass,Fight Night: Season I,16,12,7,8,9,4,Altitude,19,19,1.06 

@@ -1,0 +1,19 @@
+2016,03,15,23:00,ExAequo,EasyFix,cache,Personal Gamer,16,8,10,5,6,3,ExAequo,13,11,1.02 
+2016,03,15,23:00,ExAequo,EasyFix,train,Personal Gamer,16,12,6,9,10,3,ExAequo,21,22,0.93 
+2015,10,25,13:15,ExAequo,NextGaming,cobblestone,Milan Games Week 2015 League b..,16,10,10,5,6,5,ExAequo,20,16,1.11 
+2015,10,25,13:15,ExAequo,NextGaming,dust2,Milan Games Week 2015 League b..,16,11,7,8,9,3,ExAequo,19,17,1.06 
+2015,10,15,22:00,ExAequo,iDomina,cache,Milan Games Week 2015 League b..,16,5,11,4,5,1,ExAequo,11,10,0.92 
+2015,10,15,22:00,ExAequo,iDomina,dust2,Milan Games Week 2015 League b..,16,2,14,1,2,1,ExAequo,14,9,1.19 
+2015,10,13,22:00,TES,ExAequo,dust2,Milan Games Week 2015 League b..,6,16,3,12,3,4,ExAequo,14,12,1.03 
+2015,10,13,22:00,TES,ExAequo,cobblestone,Milan Games Week 2015 League b..,9,16,4,11,5,5,ExAequo,12,13,0.84 
+2015,10,09,21:00,EasyFix,ExAequo,cache,Milan Games Week 2015 League b..,14,16,6,9,8,7,ExAequo,13,20,0.71 
+2015,10,09,21:00,ExAequo,EasyFix,dust2,Milan Games Week 2015 League b..,16,7,10,5,6,2,ExAequo,10,16,0.66 
+2015,10,07,21:00,ExAequo,RIPFonty,cache,Milan Games Week 2015 League b..,16,9,8,7,8,2,ExAequo,15,13,1.06 
+2015,10,07,21:00,ExAequo,RIPFonty,cobblestone,Milan Games Week 2015 League b..,16,1,14,1,2,0,ExAequo,15,4,1.63 
+2015,10,06,20:00,ExAequo,SwagSilicone,cobblestone,Milan Games Week 2015 League b..,16,1,14,1,2,0,ExAequo,20,5,1.80 
+2015,10,06,20:00,ExAequo,SwagSilicone,dust2,Milan Games Week 2015 League b..,16,7,12,3,4,4,ExAequo,22,12,1.69 
+2015,08,30,15:00,Spain,Italy,dust2,World Championships 2015 Europ..,16,3,13,2,3,1,Italy,6,18,0.34 
+2015,08,30,15:00,Spain,Italy,train,World Championships 2015 Europ..,13,16,9,6,4,10,Italy,22,17,1.11 
+2015,08,30,15:00,Italy,Spain,inferno,World Championships 2015 Europ..,13,16,9,6,4,10,Italy,17,21,0.83 
+2014,08,28,21:02,Italy,Belarus,nuke,European Championship 2014 Qua..,4,16,4,11,0,5,Italy,16,18,1.01 
+2014,08,28,21:00,Italy,Belarus,dust2,European Championship 2014 Qua..,7,16,6,9,1,7,Italy,13,20,0.65 

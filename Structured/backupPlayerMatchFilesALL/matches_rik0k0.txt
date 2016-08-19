@@ -1,0 +1,8 @@
+2016,08,12,02:45,Blight,Prospects,cobblestone,SL i-League S2 Americas Qualif..,13,16,5,10,8,6,Prospects,26,17,1.41 
+2016,08,12,02:45,Prospects,Blight,overpass,SL i-League S2 Americas Qualif..,22,19,6,9,9,6,Prospects,29,27,1.01 
+2016,08,11,03:45,Kaliber,Prospects,train,SL i-League S2 Americas Qualif..,19,17,10,5,5,10,Prospects,31,22,1.23 
+2016,08,11,03:45,Prospects,Kaliber,cobblestone,SL i-League S2 Americas Qualif..,15,19,7,8,8,7,Prospects,26,25,1.01 
+2016,08,11,03:45,Kaliber,Prospects,mirage,SL i-League S2 Americas Qualif..,17,19,7,8,8,7,Prospects,21,26,0.84 
+2016,08,09,03:15,compLexity,Prospects,cobblestone,SL i-League S2 Americas Qualif..,12,16,10,5,2,11,Prospects,21,18,1.13 
+2016,08,09,03:15,Prospects,compLexity,cache,SL i-League S2 Americas Qualif..,12,16,5,10,7,6,Prospects,18,25,0.75 
+2016,08,09,03:15,Prospects,compLexity,overpass,SL i-League S2 Americas Qualif..,16,6,10,5,6,1,Prospects,12,15,0.77 

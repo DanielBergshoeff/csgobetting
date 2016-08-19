@@ -1,0 +1,13 @@
+2015,04,02,23:30,FONA,Badger,dust2,Copenhagen Games 2015,5,16,5,10,0,6,FONA,13,16,0.93 
+2015,04,02,21:30,SpaceSoldiers,FONA,dust2,Copenhagen Games 2015,16,8,9,6,7,2,FONA,8,20,0.44 
+2015,04,02,19:00,FONA,Sapiens,mirage,Copenhagen Games 2015,16,8,12,3,4,5,FONA,23,11,1.46 
+2015,04,02,15:30,FONA,DENiED,dust2,Copenhagen Games 2015,22,19,10,5,5,10,FONA,31,25,1.19 
+2014,10,04,08:30,Virtus.pro,myXMG,dust2,Game Show CS:GO League LAN Fin..,16,13,7,8,9,5,myXMG,13,21,0.64 
+2014,10,04,08:30,Virtus.pro,myXMG,mirage,Game Show CS:GO League LAN Fin..,16,6,13,2,3,4,myXMG,13,17,0.81 
+2014,10,03,08:20,HellRaisers,myXMG,inferno,Game Show CS:GO League LAN Fin..,16,11,8,7,8,4,myXMG,16,22,0.80 
+2014,10,03,08:20,HellRaisers,myXMG,mirage,Game Show CS:GO League LAN Fin..,16,7,11,4,5,3,myXMG,6,20,0.32 
+2014,10,03,08:20,myXMG,HellRaisers,overpass,Game Show CS:GO League LAN Fin..,16,8,14,1,2,7,myXMG,15,18,0.82 
+2014,08,31,11:00,HellRaisers,myXMG,inferno,SLTV StarSeries X Finals,16,8,10,5,6,3,myXMG,5,22,0.27 
+2014,08,31,11:00,HellRaisers,myXMG,dust2,SLTV StarSeries X Finals,16,8,9,6,7,2,myXMG,9,20,0.47 
+2014,08,30,11:15,fnatic,myXMG,mirage,SLTV StarSeries X Finals,16,2,13,2,3,0,myXMG,4,18,0.19 
+2014,08,30,11:15,fnatic,myXMG,dust2,SLTV StarSeries X Finals,16,4,11,4,5,0,myXMG,7,19,0.36 

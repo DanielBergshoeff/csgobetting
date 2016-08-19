@@ -1,0 +1,141 @@
+2016,08,14,15:15,ANOX,slisk,dust2,ECS Season 2 EU Open Qualifier..,7,16,5,10,2,6,ANOX,6,20,0.35 
+2016,08,08,15:15,ANOX,DenDD,mirage,xfunction Masters 2016,4,16,3,12,1,4,ANOX,11,18,0.60 
+2016,08,08,15:15,DenDD,ANOX,cobblestone,xfunction Masters 2016,16,11,6,9,10,2,ANOX,19,21,0.90 
+2016,07,28,19:10,LowLandLions,ANOX,overpass,Game Show Spring Invitational ..,14,16,6,9,8,7,ANOX,26,21,1.14 
+2016,07,28,19:10,LowLandLions,ANOX,cobblestone,Game Show Spring Invitational ..,7,16,4,11,3,5,ANOX,16,14,1.03 
+2016,07,26,22:00,ANOX,Delete,overpass,xfunction Masters 2016,16,5,13,2,3,3,ANOX,19,12,1.38 
+2016,07,24,21:15,ANOX,ALTERNATEaTTaX,nuke,xfunction Masters 2016,6,16,4,11,2,5,ANOX,12,19,0.67 
+2016,07,24,19:00,ANOX,eXtatus,mirage,Game Show Spring Invitational ..,16,7,12,3,4,4,ANOX,32,14,1.89 
+2016,07,21,16:00,Enso,ANOX,mirage,Game Show Spring Invitational ..,11,16,2,13,9,3,ANOX,20,17,1.11 
+2016,06,29,21:15,ANOX,Alpha,mirage,xfunction Masters 2016,16,4,11,4,5,0,ANOX,7,10,0.70 
+2016,06,12,20:15,PENTA,ANOX,overpass,RGN Pro Series II EU Closed Qu..,16,2,14,1,2,1,ANOX,15,16,1.14 
+2016,06,12,20:15,ANOX,PENTA,cache,RGN Pro Series II EU Closed Qu..,6,16,5,10,1,6,ANOX,12,18,0.84 
+2016,05,04,17:10,eSuba,Arcade,mirage,Operation: Kinguin #3,13,16,7,8,6,8,Arcade,21,16,1.09 
+2016,05,04,17:10,Arcade,eSuba,inferno,Operation: Kinguin #3,16,13,10,5,6,8,Arcade,14,22,0.64 
+2016,04,29,13:00,Empire,Arcade,nuke,StarLadder Minor CIS - Cologne..,16,14,12,3,4,11,Arcade,24,20,1.23 
+2016,04,28,11:55,Arcade,FluffyGangsters,train,StarLadder Minor CIS - Cologne..,13,16,7,8,6,8,Arcade,21,18,1.13 
+2016,03,26,21:30,Arcade,Torpedo,overpass,SL I-League Invitational #1 EU..,13,16,8,7,5,9,Arcade,18,20,1.03 
+2016,03,26,21:30,Arcade,Torpedo,cache,SL I-League Invitational #1 EU..,12,16,6,9,6,7,Arcade,19,15,1.09 
+2016,03,26,19:00,FluffyGangsters,Arcade,inferno,SL I-League Invitational #1 EU..,13,16,9,6,4,10,Arcade,24,18,1.20 
+2016,03,26,19:00,Arcade,FluffyGangsters,mirage,SL I-League Invitational #1 EU..,16,3,13,2,3,1,Arcade,22,6,1.86 
+2016,03,25,19:00,PENTA,Arcade,mirage,SL I-League Invitational #1 EU..,13,16,5,10,8,6,Arcade,16,19,0.82 
+2016,03,21,19:00,Arcade,HellRaisers,overpass,SL I-League Invitational #1 EU..,13,16,8,7,5,9,Arcade,20,21,0.98 
+2016,03,19,18:55,ENCE,Arcade,cache,DreamHack Masters Malmö 2016 E..,16,8,12,3,4,5,Arcade,14,17,0.87 
+2016,03,08,20:50,SpaceSoldiers,Arcade,cobblestone,Razer Rising Stars European Le..,16,12,11,4,5,8,Arcade,23,21,1.10 
+2016,03,08,18:00,LittleEinsteins,Arcade,mirage,Razer Rising Stars European Le..,12,16,5,10,7,6,Arcade,26,17,1.39 
+2016,02,06,18:30,eXplosive,Arcade,dust2,Binary Dragons Hellstore Winte..,5,16,2,13,3,3,Arcade,10,12,0.80 
+2016,02,06,18:30,Arcade,eXplosive,cache,Binary Dragons Hellstore Winte..,13,16,3,12,10,4,Arcade,18,20,0.95 
+2016,02,06,18:30,eXplosive,Arcade,mirage,Binary Dragons Hellstore Winte..,12,16,6,9,6,7,Arcade,18,20,0.87 
+2016,02,05,20:15,KoNNorway,KoNFinland,inferno,King of Nordic Season 3,16,8,7,8,9,0,KoN Finland,18,20,0.96 
+2016,01,24,13:00,Rebels,Arcade,train,StarLadder Regional Minor Cham..,16,11,9,6,7,5,Arcade,16,19,0.93 
+2016,01,24,13:00,Rebels,Arcade,mirage,StarLadder Regional Minor Cham..,9,16,5,10,4,6,Arcade,20,14,1.17 
+2016,01,24,13:00,Rebels,Arcade,overpass,StarLadder Regional Minor Cham..,26,24,7,8,8,7,Arcade,31,33,1.04 
+2016,01,22,17:00,Method,Arcade,mirage,StarLadder Regional Minor Cham..,10,16,7,8,3,8,Arcade,18,17,0.99 
+2016,01,22,17:00,Method,Arcade,dust2,StarLadder Regional Minor Cham..,11,16,7,8,4,8,Arcade,19,18,1.03 
+2016,01,22,17:00,Arcade,Method,train,StarLadder Regional Minor Cham..,6,16,5,10,1,6,Arcade,14,17,0.80 
+2016,01,22,13:15,Quest,Arcade,cache,StarLadder Regional Minor Cham..,13,16,7,8,6,8,Arcade,17,15,1.08 
+2015,12,17,20:00,Phoenix,Arcade,mirage,99Damage Arena #18,16,11,7,8,9,3,Arcade,8,19,0.51 
+2015,12,17,20:00,Arcade,Phoenix,dust2,99Damage Arena #18,16,12,7,8,9,4,Arcade,17,17,0.99 
+2015,12,17,20:00,Phoenix,Arcade,cache,99Damage Arena #18,16,12,10,5,6,7,Arcade,19,18,1.00 
+2015,12,17,18:00,Arcade,CPLAY,inferno,99Damage Arena #18,16,4,12,3,4,1,Arcade,22,11,1.52 
+2015,12,17,18:00,Arcade,CPLAY,mirage,99Damage Arena #18,16,2,13,2,3,0,Arcade,22,8,1.86 
+2015,12,16,18:00,Arcade,G2,mirage,ELEAGUE Road to Vegas Closed E..,6,16,3,12,3,4,Arcade,27,18,1.67 
+2015,12,16,18:00,G2,Arcade,cache,ELEAGUE Road to Vegas Closed E..,12,16,4,11,8,5,Arcade,17,22,0.74 
+2015,12,16,18:00,Arcade,G2,inferno,ELEAGUE Road to Vegas Closed E..,13,16,10,5,3,11,Arcade,23,20,1.14 
+2015,12,14,21:00,FlipSid3,Arcade,mirage,Game Show Global eSports Cup 2..,16,10,8,7,8,3,Arcade,13,21,0.71 
+2015,12,14,21:00,Arcade,FlipSid3,train,Game Show Global eSports Cup 2..,12,16,7,8,5,8,Arcade,22,21,1.01 
+2015,12,14,21:00,Arcade,FlipSid3,cache,Game Show Global eSports Cup 2..,16,12,9,6,7,6,Arcade,20,17,1.06 
+2015,12,06,18:00,NPME,Arcade,mirage,Game Show Global eSports Cup 2..,6,16,4,11,2,5,Arcade,14,12,1.03 
+2015,12,06,18:00,NPME,Arcade,inferno,Game Show Global eSports Cup 2..,8,16,6,9,2,7,Arcade,21,12,1.43 
+2015,12,05,18:00,Arcade,Handface,inferno,Game Show Global eSports Cup 2..,19,15,12,3,3,12,Arcade,23,22,1.01 
+2015,12,05,18:00,Arcade,Handface,dust2,Game Show Global eSports Cup 2..,16,14,3,12,13,2,Arcade,24,16,1.15 
+2015,11,29,22:00,VegaSquadron,PiTER,cache,Uprise Champions Cup: Europe,14,16,2,13,12,3,Vega Squadron,18,20,0.95 
+2015,11,29,22:00,PiTER,VegaSquadron,mirage,Uprise Champions Cup: Europe,16,9,8,7,8,2,Vega Squadron,18,18,1.11 
+2015,11,29,16:00,Epsilon,VegaSquadron,overpass,Uprise Champions Cup: Europe,16,7,11,4,5,3,Vega Squadron,9,19,0.49 
+2015,11,29,16:00,Epsilon,VegaSquadron,inferno,Uprise Champions Cup: Europe,16,14,5,10,11,4,Vega Squadron,13,23,0.63 
+2015,11,29,16:00,VegaSquadron,Epsilon,cache,Uprise Champions Cup: Europe,16,8,12,3,4,5,Vega Squadron,22,16,1.23 
+2015,11,26,19:00,VegaSquadron,HellRaisers,dust2,99Damage Arena #15,16,19,8,7,7,8,Vega Squadron,25,25,0.95 
+2015,11,26,19:00,VegaSquadron,HellRaisers,inferno,99Damage Arena #15,12,16,7,8,5,8,Vega Squadron,32,19,1.67 
+2015,11,25,18:00,VegaSquadron,LowLandLions,overpass,99Damage Arena #15,16,0,15,0,1,0,Vega Squadron,20,8,1.89 
+2015,11,25,18:00,LowLandLions,VegaSquadron,mirage,99Damage Arena #15,11,16,6,9,5,7,Vega Squadron,18,16,1.02 
+2015,11,24,18:00,SpaceSoldiers,VegaSquadron,inferno,99Damage Arena #15,7,16,5,10,2,6,Vega Squadron,25,16,1.48 
+2015,11,24,18:00,VegaSquadron,SpaceSoldiers,mirage,99Damage Arena #15,16,9,10,5,6,4,Vega Squadron,26,14,1.60 
+2015,11,19,19:00,VegaSquadron,PiTER,cache,CIS LAN Championship #2,9,16,6,9,3,7,Vega Squadron,21,20,1.07 
+2015,11,19,19:00,PiTER,VegaSquadron,overpass,CIS LAN Championship #2,16,7,10,5,6,2,Vega Squadron,17,17,1.06 
+2015,11,19,19:00,PiTER,VegaSquadron,mirage,CIS LAN Championship #2,16,8,11,4,5,4,Vega Squadron,15,20,0.80 
+2015,11,19,10:20,PiTER,VegaSquadron,dust2,CIS LAN Championship #2,13,16,9,6,4,10,Vega Squadron,21,18,0.99 
+2015,11,19,10:20,PiTER,VegaSquadron,mirage,CIS LAN Championship #2,16,19,7,8,8,7,Vega Squadron,31,26,1.15 
+2015,11,18,09:15,VegaSquadron,YP,cache,CIS LAN Championship #2,16,3,12,3,4,0,Vega Squadron,15,6,1.37 
+2015,11,18,09:15,VegaSquadron,YP,inferno,CIS LAN Championship #2,19,17,10,5,5,10,Vega Squadron,34,22,1.32 
+2015,11,17,16:30,PARTY,VegaSquadron,mirage,CIS LAN Championship #2,11,16,10,5,1,11,Vega Squadron,24,18,1.21 
+2015,11,17,16:30,VegaSquadron,PARTY,dust2,CIS LAN Championship #2,6,16,6,9,0,7,Vega Squadron,17,16,1.13 
+2015,11,17,16:30,PARTY,VegaSquadron,cache,CIS LAN Championship #2,11,16,3,12,8,4,Vega Squadron,19,13,1.18 
+2015,11,17,12:45,USSR,VegaSquadron,dust2,CIS LAN Championship #2,7,16,4,11,3,5,Vega Squadron,17,10,1.28 
+2015,11,17,12:45,USSR,VegaSquadron,overpass,CIS LAN Championship #2,14,16,5,10,9,6,Vega Squadron,23,16,1.18 
+2015,11,17,12:45,VegaSquadron,USSR,mirage,CIS LAN Championship #2,11,16,9,6,2,10,Vega Squadron,26,20,1.23 
+2015,11,08,17:30,Revival,VegaSquadron,inferno,SLTV ProSeries XIV,16,14,9,6,7,8,Vega Squadron,34,21,1.58 
+2015,11,08,17:30,VegaSquadron,Revival,dust2,SLTV ProSeries XIV,8,16,3,12,5,4,Vega Squadron,17,19,0.96 
+2015,11,08,17:30,Revival,VegaSquadron,mirage,SLTV ProSeries XIV,8,16,7,8,1,8,Vega Squadron,21,16,1.22 
+2015,11,07,18:00,VegaSquadron,Enso,inferno,SLTV ProSeries XIV,4,16,4,11,0,5,Vega Squadron,17,15,1.41 
+2015,11,07,18:00,Enso,VegaSquadron,overpass,SLTV ProSeries XIV,12,16,5,10,7,6,Vega Squadron,27,17,1.35 
+2015,11,07,18:00,Enso,VegaSquadron,dust2,SLTV ProSeries XIV,16,11,7,8,9,3,Vega Squadron,21,21,1.00 
+2015,11,06,19:15,VegaSquadron,USSR,cache,SLTV ProSeries XIV,16,12,12,3,4,9,Vega Squadron,18,16,1.03 
+2015,11,06,19:15,VegaSquadron,USSR,mirage,SLTV ProSeries XIV,16,12,9,6,7,6,Vega Squadron,24,16,1.36 
+2015,11,01,17:00,Refuse,VegaSquadron,overpass,QuickShot Showmatches,5,16,4,11,1,5,Vega Squadron,10,9,0.89 
+2015,11,01,17:00,Refuse,VegaSquadron,cache,QuickShot Showmatches,13,16,3,12,10,4,Vega Squadron,29,19,1.36 
+2015,11,01,17:00,Refuse,VegaSquadron,mirage,QuickShot Showmatches,16,8,8,7,8,1,Vega Squadron,13,19,0.82 
+2015,10,27,23:15,Epsilon,VegaSquadron,cache,D!ngIT $2000 Weekly Cup #23,16,13,4,11,12,2,Vega Squadron,9,20,0.51 
+2015,10,27,21:30,WildSource,VegaSquadron,mirage,D!ngIT $2000 Weekly Cup #23,12,16,11,4,1,12,Vega Squadron,18,16,1.03 
+2015,10,27,17:30,PiTER,VegaSquadron,mirage,D!ngIT $2000 Weekly Cup #23,14,16,3,12,11,4,Vega Squadron,22,19,1.09 
+2015,10,26,21:00,VegaSquadron,WildSource,dust2,D!ngIT $2000 Weekly Cup #23,4,16,4,11,0,5,Vega Squadron,11,19,0.56 
+2015,10,26,21:00,VegaSquadron,WildSource,mirage,D!ngIT $2000 Weekly Cup #23,10,16,6,9,4,7,Vega Squadron,24,21,1.06 
+2015,10,23,20:00,ttc,VegaSquadron,mirage,QuickShot Showmatches,5,16,5,10,0,6,Vega Squadron,21,10,1.57 
+2015,10,23,20:00,ttc,VegaSquadron,dust2,QuickShot Showmatches,7,16,6,9,1,7,Vega Squadron,18,11,1.26 
+2015,10,17,18:30,Recursive,JDWI,overpass,Jimm's CS:GO Challenge,16,10,9,6,7,4,JDWI,10,23,0.44 
+2015,10,17,18:30,JDWI,Recursive,cache,Jimm's CS:GO Challenge,16,13,8,7,8,6,JDWI,11,18,0.71 
+2015,10,17,18:30,JDWI,Recursive,mirage,Jimm's CS:GO Challenge,1,16,1,14,0,2,JDWI,10,16,0.61 
+2015,10,17,16:30,TMVG,JDWI,dust2,Jimm's CS:GO Challenge,16,9,10,5,6,4,JDWI,12,17,0.75 
+2015,10,17,16:30,TMVG,JDWI,inferno,Jimm's CS:GO Challenge,16,4,12,3,4,1,JDWI,10,18,0.56 
+2015,10,14,20:00,VegaSquadron,RCTIC,dust2,QuickShot Showmatches,8,16,4,11,4,5,Vega Squadron,23,18,1.22 
+2015,10,14,20:00,RCTIC,VegaSquadron,mirage,QuickShot Showmatches,2,16,2,13,0,3,Vega Squadron,16,8,1.36 
+2015,10,14,20:00,VegaSquadron,RCTIC,overpass,QuickShot Showmatches,17,19,6,9,9,6,Vega Squadron,27,23,1.02 
+2015,10,13,20:00,Lions,VegaSquadron,overpass,D!ngIT $2000 Weekly Cup #21,16,12,12,3,4,9,Vega Squadron,16,19,0.88 
+2015,10,12,22:45,VegaSquadron,NoProblem!,mirage,D!ngIT $2000 Weekly Cup #21,16,5,11,4,5,1,Vega Squadron,15,13,1.10 
+2015,10,12,20:45,VegaSquadron,Lions,cache,D!ngIT $2000 Weekly Cup #21,8,16,3,12,5,4,Vega Squadron,13,19,0.72 
+2015,10,12,20:45,Lions,VegaSquadron,inferno,D!ngIT $2000 Weekly Cup #21,16,7,8,7,8,0,Vega Squadron,9,18,0.53 
+2015,09,29,17:00,Enervate,VegaSquadron,cache,Uprise Champions Cup Season 3 ..,16,2,13,2,3,0,Vega Squadron,7,16,0.45 
+2015,09,29,17:00,VegaSquadron,Enervate,mirage,Uprise Champions Cup Season 3 ..,16,19,5,10,10,5,Vega Squadron,27,24,1.02 
+2015,09,29,11:00,VegaSquadron,Nostalgie,dust2,Uprise Champions Cup Season 3 ..,16,14,4,11,12,3,Vega Squadron,19,21,1.04 
+2015,09,29,11:00,VegaSquadron,Nostalgie,mirage,Uprise Champions Cup Season 3 ..,16,7,13,2,3,5,Vega Squadron,21,15,1.32 
+2015,09,28,14:00,VegaSquadron,PiTER,mirage,Uprise Champions Cup Season 3 ..,11,16,5,10,6,6,Vega Squadron,27,18,1.60 
+2015,09,28,14:00,PiTER,VegaSquadron,cache,Uprise Champions Cup Season 3 ..,16,13,9,6,7,7,Vega Squadron,20,20,0.97 
+2015,09,28,10:20,RCTIC,VegaSquadron,dust2,Uprise Champions Cup Season 3 ..,16,19,6,9,9,6,Vega Squadron,28,22,1.14 
+2015,09,28,10:20,VegaSquadron,RCTIC,mirage,Uprise Champions Cup Season 3 ..,16,14,3,12,13,2,Vega Squadron,19,20,0.90 
+2015,09,14,20:15,VegaSquadron,eBettle,dust2,99Damage Arena #14,4,16,4,11,0,5,Vega Squadron,11,17,0.61 
+2015,09,14,20:15,VegaSquadron,eBettle,mirage,99Damage Arena #14,16,9,12,3,4,6,Vega Squadron,13,19,0.72 
+2015,09,14,20:15,VegaSquadron,eBettle,overpass,99Damage Arena #14,3,16,3,12,0,4,Vega Squadron,12,17,0.74 
+2015,09,12,19:30,LDLCBlue,VegaSquadron,dust2,DreamHack Open Cluj-Napoca 201..,16,4,12,3,4,1,Vega Squadron,15,19,0.84 
+2015,09,11,19:15,VegaSquadron,Nostalgie,mirage,Uprise Champions Cup Season 3,16,6,10,5,6,1,Vega Squadron,21,10,1.45 
+2015,09,11,19:15,Nostalgie,VegaSquadron,cache,Uprise Champions Cup Season 3,3,16,2,13,1,3,Vega Squadron,19,6,1.70 
+2015,09,10,18:15,E-frag.net,VegaSquadron,cache,Uprise Champions Cup Season 3,16,13,7,8,9,5,Vega Squadron,17,18,0.86 
+2015,09,10,18:15,E-frag.net,VegaSquadron,dust2,Uprise Champions Cup Season 3,12,16,9,6,3,10,Vega Squadron,33,15,1.74 
+2015,09,10,18:15,E-frag.net,VegaSquadron,mirage,Uprise Champions Cup Season 3,19,17,10,5,5,10,Vega Squadron,33,22,1.41 
+2015,09,09,21:00,Pries,VegaSquadron,mirage,Uprise Champions Cup Season 3,8,16,5,10,3,6,Vega Squadron,17,13,1.11 
+2015,09,09,21:00,Pries,VegaSquadron,cache,Uprise Champions Cup Season 3,6,16,6,9,0,7,Vega Squadron,14,14,1.09 
+2015,09,07,18:30,VegaSquadron,Pries,mirage,Rising Tornado #4,14,16,3,12,11,4,Vega Squadron,17,19,0.83 
+2015,09,07,18:30,Pries,VegaSquadron,cache,Rising Tornado #4,16,8,10,5,6,3,Vega Squadron,12,20,0.65 
+2015,09,01,21:00,Kinguin,VegaSquadron,dust2,FACEIT League 2015 Stage 3 EU ..,16,9,6,9,10,0,Vega Squadron,14,16,0.92 
+2015,09,01,21:00,Kinguin,VegaSquadron,cache,FACEIT League 2015 Stage 3 EU ..,16,7,11,4,5,3,Vega Squadron,17,18,1.10 
+2015,08,31,22:15,Enso,VegaSquadron,mirage,Rising Tornado #4,12,16,11,4,1,12,Vega Squadron,18,17,0.92 
+2015,08,31,22:15,Enso,VegaSquadron,dust2,Rising Tornado #4,9,16,8,7,1,9,Vega Squadron,22,14,1.30 
+2015,08,30,22:45,VegaSquadron,KappaKappa,cache,FACEIT League 2015 Stage 3 EU ..,16,7,13,2,3,5,Vega Squadron,14,14,0.90 
+2015,08,30,20:30,VegaSquadron,Dobry&Gaming,mirage,FACEIT League 2015 Stage 3 EU ..,16,6,12,3,4,3,Vega Squadron,30,8,2.08 
+2015,08,26,21:00,VegaSquadron,Phenomenon,cache,Rising Tornado #4,16,7,13,2,3,5,Vega Squadron,16,14,1.10 
+2015,08,26,21:00,VegaSquadron,Phenomenon,mirage,Rising Tornado #4,16,9,12,3,4,6,Vega Squadron,26,16,1.58 
+2015,06,02,21:30,Evolution,ACES,cache,Rising Tornado #1,13,16,6,9,7,7,ACES,13,19,0.74 
+2015,06,02,20:45,ACES,NewEra,mirage,Rising Tornado #1,19,16,12,3,3,12,ACES,34,23,1.34 
+2015,05,23,18:00,VegaSquadron,PiTER,mirage,Uprise Champions Cup Season 2 ..,16,8,13,2,3,6,Vega Squadron,17,12,1.08 
+2015,05,23,18:00,VegaSquadron,PiTER,inferno,Uprise Champions Cup Season 2 ..,16,14,11,4,5,10,Vega Squadron,20,17,1.10 
+2015,04,25,21:00,NewEra,VegaSquadron,cache,Uprise Champions Cup Season 2,8,16,5,10,3,6,Vega Squadron,20,13,1.22 
+2015,04,25,21:00,VegaSquadron,NewEra,mirage,Uprise Champions Cup Season 2,16,9,13,2,3,7,Vega Squadron,24,13,1.45 
+2015,04,25,18:00,NewEra,VegaSquadron,inferno,Uprise Champions Cup Season 2,16,14,7,8,9,6,Vega Squadron,14,20,0.72 

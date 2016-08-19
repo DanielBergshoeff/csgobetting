@@ -1,0 +1,9 @@
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,cobblestone,Copenhagen Games 2015 female,16,8,11,4,5,4,ALTERNATE fe,12,20,0.67 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,nuke,Copenhagen Games 2015 female,16,11,12,3,4,8,ALTERNATE fe,12,18,0.73 
+2015,04,03,21:30,Epsilonfe,ALTERNATEfe,cache,Copenhagen Games 2015 female,12,16,6,9,6,7,ALTERNATE fe,21,16,1.08 
+2015,04,03,15:00,ALTERNATEfe,eSportEngine,mirage,Copenhagen Games 2015 female,6,16,4,11,2,5,ALTERNATE fe,15,19,0.97 
+2015,04,03,15:00,ALTERNATEfe,eSportEngine,nuke,Copenhagen Games 2015 female,5,16,5,10,0,6,ALTERNATE fe,13,18,0.77 
+2014,09,21,21:35,Epsilonfe,OverGaming,mirage,Hitbox Arena Championship 3,13,16,10,5,3,11,Epsilon fe,16,20,0.85 
+2014,09,21,21:35,Epsilonfe,OverGaming,dust2,Hitbox Arena Championship 3,4,16,3,12,1,4,Epsilon fe,9,18,0.57 
+2014,09,18,21:30,LondonC,Epsilonfe,dust2,Hitbox Arena Championship 3,16,2,14,1,2,1,Epsilon fe,13,16,0.92 
+2014,09,18,21:30,Epsilonfe,LondonC,mirage,Hitbox Arena Championship 3,5,16,2,13,3,3,Epsilon fe,15,19,0.84 

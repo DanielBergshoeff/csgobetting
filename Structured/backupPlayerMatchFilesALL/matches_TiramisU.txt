@@ -1,0 +1,17 @@
+2016,04,23,11:30,BornOfFire,B.O.O.T,inferno,Pro Gamers League 2016 Spring,16,3,12,3,4,0,B.O.O.T,8,18,0.46 
+2016,04,23,11:30,BornOfFire,B.O.O.T,mirage,Pro Gamers League 2016 Spring,16,10,9,6,7,4,B.O.O.T,16,23,0.72 
+2016,04,17,13:00,HG,B.O.O.T,inferno,SL i-League Invitational China..,16,9,9,6,7,3,B.O.O.T,15,17,0.83 
+2016,04,15,13:00,B.O.O.T,VG.CyberZen,inferno,SL i-League Invitational China..,11,16,9,6,2,10,B.O.O.T,18,20,0.92 
+2016,04,15,13:00,VG.CyberZen,B.O.O.T,mirage,SL i-League Invitational China..,16,6,12,3,4,3,B.O.O.T,10,20,0.48 
+2016,04,13,13:10,MVPproject,B.O.O.T,cache,SL i-League Invitational China..,16,5,13,2,3,3,B.O.O.T,17,17,1.16 
+2016,04,13,13:10,MVPproject,B.O.O.T,mirage,SL i-League Invitational China..,16,6,14,1,2,5,B.O.O.T,7,18,0.41 
+2016,04,06,15:00,AllGamers,B.O.O.T,cache,SL i-League Invitational China..,16,8,9,6,7,2,B.O.O.T,18,20,1.00 
+2016,04,06,15:00,B.O.O.T,AllGamers,mirage,SL i-League Invitational China..,8,16,6,9,2,7,B.O.O.T,7,21,0.39 
+2015,11,30,12:30,EFV,AllGamers,inferno,SL i-League StarSeries XIV,8,16,5,10,3,6,EFV,14,20,0.72 
+2015,11,30,12:30,EFV,AllGamers,cache,SL i-League StarSeries XIV,5,16,4,11,1,5,EFV,15,16,0.87 
+2015,11,30,12:30,AllGamers,EFV,dust2,SL i-League StarSeries XIV,19,22,9,6,6,9,EFV,24,29,0.84 
+2015,11,28,16:15,EFV,CyberZen,inferno,SL i-League StarSeries XIV,9,16,6,9,3,7,EFV,19,18,1.00 
+2015,11,28,16:15,CyberZen,EFV,mirage,SL i-League StarSeries XIV,16,3,12,3,4,0,EFV,10,18,0.57 
+2015,11,26,16:00,verying,EFV,cache,SL i-League StarSeries XIV,11,16,8,7,3,9,EFV,22,16,1.16 
+2015,11,26,16:00,verying,EFV,mirage,SL i-League StarSeries XIV,3,16,2,13,1,3,EFV,15,11,1.06 
+2015,11,26,16:00,EFV,verying,inferno,SL i-League StarSeries XIV,10,16,4,11,6,5,EFV,16,22,0.75 

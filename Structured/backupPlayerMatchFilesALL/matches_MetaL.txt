@@ -1,0 +1,26 @@
+2016,07,26,21:00,Awsomniac,E-Corp,overpass,UnderDogs #4,16,9,8,7,8,2,E-Corp,16,17,1.05 
+2016,07,26,21:00,E-Corp,Awsomniac,cache,UnderDogs #4,16,14,11,4,5,10,E-Corp,17,22,0.73 
+2016,07,26,21:00,Awsomniac,E-Corp,dust2,UnderDogs #4,16,2,13,2,3,0,E-Corp,9,18,0.48 
+2016,07,25,20:00,E-Corp,beGenius,cache,UnderDogs #4,16,3,12,3,4,0,E-Corp,22,10,1.75 
+2016,07,25,20:00,beGenius,E-Corp,mirage,UnderDogs #4,12,16,5,10,7,6,E-Corp,19,19,0.99 
+2016,05,30,20:30,WeGotGame,E-Corp,mirage,UnderDogs #3,16,10,10,5,6,5,E-Corp,19,20,0.98 
+2016,05,30,20:30,WeGotGame,E-Corp,train,UnderDogs #3,16,5,11,4,5,1,E-Corp,10,18,0.51 
+2016,03,08,00:00,LPDC,Platinium,inferno,UnderDogs #2,14,16,11,4,3,12,LPDC,13,22,0.70 
+2016,03,08,00:00,Platinium,LPDC,train,UnderDogs #2,16,1,14,1,2,0,LPDC,6,17,0.33 
+2015,10,09,20:30,Belgium,Norway,dust2,World Championships 2015,12,16,5,10,7,6,Belgium,19,21,0.94 
+2015,10,09,20:30,Norway,Belgium,inferno,World Championships 2015,16,19,9,6,6,9,Belgium,25,23,1.04 
+2015,10,09,20:30,Belgium,Norway,mirage,World Championships 2015,16,19,8,7,7,8,Belgium,30,25,1.13 
+2015,10,09,15:15,Belgium,Singapore,dust2,World Championships 2015,16,6,9,6,7,0,Belgium,20,17,1.29 
+2015,10,09,13:45,Belgium,Canada,train,World Championships 2015,9,16,9,6,0,10,Belgium,12,22,0.55 
+2015,10,05,19:15,unKnights,Pulse,inferno,UnderDogs #1,5,16,5,10,0,6,unKnights,15,16,1.01 
+2015,10,05,19:15,Pulse,unKnights,cache,UnderDogs #1,16,11,8,7,8,4,unKnights,17,19,0.90 
+2015,10,05,19:15,unKnights,Pulse,mirage,UnderDogs #1,22,19,9,6,6,9,unKnights,37,26,1.29 
+2015,10,01,23:00,Belgium,Finland,inferno,World Championships 2015 Europ..,16,14,10,5,6,9,Belgium,16,16,1.03 
+2015,09,17,19:40,Norway,Belgium,cache,World Championships 2015 Europ..,16,12,8,7,8,5,Belgium,15,18,0.88 
+2015,09,16,00:15,unKnights,melty,dust2,LevelDown Championship,13,16,6,9,7,7,unKnights,22,19,1.10 
+2015,09,15,23:30,unKnights,AsusROG,train,LevelDown Championship,16,0,15,0,1,0,unKnights,15,3,1.56 
+2015,09,15,20:00,unKnights,melty,cobblestone,LevelDown Championship,12,16,5,10,7,6,unKnights,15,20,0.78 
+2014,10,12,20:15,Belgium,Norway,dust2,European Championship 2014,10,16,7,8,3,8,Belgium,12,18,0.66 
+2014,10,06,18:00,France,Belgium,dust2,European Championship 2014,16,9,10,5,6,4,Belgium,12,22,0.59 
+2014,09,22,18:00,Belgium,Poland,mirage,European Championship 2014,9,16,2,13,7,3,Belgium,20,19,1.03 
+2014,09,15,23:50,Belgium,Turkey,dust2,European Championship 2014,16,7,9,6,7,1,Belgium,23,12,1.53 

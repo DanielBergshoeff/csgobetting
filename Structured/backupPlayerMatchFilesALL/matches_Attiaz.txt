@@ -1,0 +1,14 @@
+2016,04,28,18:10,SuperstarS,AIMERZZ,cache,Rising Stars Africa Promotiona..,9,16,5,10,4,6,SuperstarS,17,18,1.03 
+2016,04,28,18:10,SuperstarS,AIMERZZ,mirage,Rising Stars Africa Promotiona..,10,16,9,6,1,10,SuperstarS,15,24,0.70 
+2015,12,18,23:10,RvN,Hyper4mance,train,AFKG MENA Championship,16,6,11,4,5,2,Hyper4mance,12,19,0.67 
+2015,12,18,23:10,Hyper4mance,RvN,mirage,AFKG MENA Championship,16,13,7,8,9,5,Hyper4mance,20,18,0.99 
+2015,12,18,23:10,RvN,Hyper4mance,dust2,AFKG MENA Championship,21,17,8,7,7,8,Hyper4mance,20,29,0.72 
+2015,10,08,16:30,Russia,Tunisia,overpass,World Championships 2015,16,4,11,4,5,0,Tunisia,8,19,0.40 
+2015,10,08,16:30,Russia,Tunisia,inferno,World Championships 2015,16,3,12,3,4,0,Tunisia,5,17,0.31 
+2015,10,08,13:30,Tunisia,Kyrgyzstan,dust2,World Championships 2015,10,16,3,12,7,4,Tunisia,20,17,1.13 
+2015,10,08,13:30,Tunisia,Kyrgyzstan,mirage,World Championships 2015,14,16,7,8,7,8,Tunisia,22,19,1.24 
+2015,08,13,15:00,Tunisia,SouthAfrica,inferno,World Championships 2015 Afric..,16,1,14,1,2,0,Tunisia,23,4,2.20 
+2015,08,13,13:00,Tunisia,Egypt,cache,World Championships 2015 Afric..,16,10,12,3,4,7,Tunisia,17,16,1.02 
+2015,08,12,15:20,Tunisia,Libya,inferno,World Championships 2015 Afric..,16,6,12,3,4,3,Tunisia,15,12,1.07 
+2015,08,11,15:45,Tunisia,Morocco,cache,World Championships 2015 Afric..,16,3,12,3,4,0,Tunisia,13,10,1.11 
+2015,08,11,14:00,Algeria,Tunisia,inferno,World Championships 2015 Afric..,12,16,5,10,7,6,Tunisia,18,17,1.09 

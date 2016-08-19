@@ -1,0 +1,7 @@
+2015,10,04,13:00,carboN,Bravado,mirage,MWEB GameZone Masters Series,13,16,8,7,5,9,carboN,20,23,0.88 
+2015,10,04,13:00,carboN,Bravado,inferno,MWEB GameZone Masters Series,8,16,5,10,3,6,carboN,18,19,1.04 
+2015,10,03,16:15,Aperture,carboN,inferno,MWEB GameZone Masters Series,10,16,7,8,3,8,carboN,15,19,0.75 
+2015,10,03,16:15,Aperture,carboN,cache,MWEB GameZone Masters Series,9,16,8,7,1,9,carboN,22,13,1.50 
+2015,07,11,02:00,Renegades,Bravado,inferno,ESWC 2015,16,5,12,3,4,2,Bravado,11,19,0.52 
+2015,07,11,01:00,Bravado,CLG,dust2,ESWC 2015,7,16,3,12,4,4,Bravado,12,19,0.63 
+2015,07,10,21:45,EnVyUs,Bravado,inferno,ESWC 2015,16,3,12,3,4,0,Bravado,8,18,0.43 

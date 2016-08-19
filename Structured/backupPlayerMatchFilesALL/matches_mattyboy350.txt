@@ -1,0 +1,2 @@
+2015,04,02,17:00,FreeTransfer,MIXERINO,nuke,Copenhagen Games 2015,16,2,13,2,3,0,MIXERINO,6,18,0.28 
+2015,04,02,14:00,MIXERINO,FreeTransfer,inferno,Copenhagen Games 2015,1,16,1,14,0,2,MIXERINO,5,17,0.28 

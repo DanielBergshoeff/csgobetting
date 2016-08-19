@@ -1,0 +1,6 @@
+2016,06,17,11:00,EHOME,AllGamers,train,WCA Season 2 China Qualifier,16,4,11,4,5,0,AllGamers,18,16,1.15 
+2016,06,17,11:00,EHOME,AllGamers,cobblestone,WCA Season 2 China Qualifier,16,9,10,5,6,4,AllGamers,11,18,0.71 
+2016,06,15,08:00,AllGamers,LGD,mirage,WCA Season 2 China Qualifier,14,16,7,8,7,8,AllGamers,24,21,1.15 
+2016,06,15,08:00,LGD,AllGamers,cache,WCA Season 2 China Qualifier,12,16,9,6,3,10,AllGamers,22,18,1.20 
+2016,05,26,12:15,AllGamers,FIVE,cache,H-Cup Season 1,4,16,3,12,1,4,AllGamers,10,18,0.59 
+2016,05,26,12:15,FIVE,AllGamers,mirage,H-Cup Season 1,16,8,11,4,5,4,AllGamers,22,19,1.15 

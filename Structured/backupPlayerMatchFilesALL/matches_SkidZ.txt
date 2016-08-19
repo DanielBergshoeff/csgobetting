@@ -1,0 +1,4 @@
+2015,09,01,16:30,Belarus,Ireland,dust2,World Championships 2015 Europ..,19,17,6,9,9,6,Ireland,22,26,0.82 
+2015,09,01,16:30,Ireland,Belarus,mirage,World Championships 2015 Europ..,0,16,0,15,0,1,Ireland,6,16,0.31 
+2015,08,14,17:00,Ireland,Greece,dust2,World Championships 2015 Europ..,16,14,6,9,10,5,Ireland,19,20,0.86 
+2015,08,14,17:00,Greece,Ireland,cobblestone,World Championships 2015 Europ..,5,16,4,11,1,5,Ireland,19,9,1.58 

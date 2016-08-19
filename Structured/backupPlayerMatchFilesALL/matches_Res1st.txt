@@ -1,0 +1,14 @@
+2016,04,26,22:00,XPC,Pixel,mirage,Balkan Championship Season 3,16,6,11,4,5,2,Pixel,20,17,1.13 
+2016,04,22,19:00,Pixel,CS-GO.rs,cobblestone,Balkan Championship Season 3,14,16,7,8,7,8,Pixel,17,23,0.74 
+2016,04,11,21:15,Deathtrap,Pixel,dust2,Balkan Championship Season 3,19,16,6,9,9,6,Pixel,19,24,0.81 
+2016,04,07,20:15,aimclub,Pixel,mirage,Balkan Championship Season 3,16,10,8,7,8,3,Pixel,15,20,0.71 
+2016,03,12,17:15,n1ce,GameAgents,inferno,EsportFest 2016,15,19,6,9,9,6,n1ce,27,27,0.95 
+2016,03,12,17:15,n1ce,GameAgents,dust2,EsportFest 2016,16,8,12,3,4,5,n1ce,12,14,0.88 
+2016,03,12,17:15,n1ce,GameAgents,cache,EsportFest 2016,13,16,8,7,5,9,n1ce,14,24,0.58 
+2015,11,28,11:45,E-frag.net,Ancients,inferno,ESL South East Europe Champion..,16,3,14,1,2,2,Ancients,6,18,0.40 
+2015,11,28,10:00,CSGO.one,Ancients,overpass,ESL South East Europe Champion..,16,3,12,3,4,0,Ancients,12,18,0.69 
+2015,09,24,18:00,MaxAndRelax,volgare,dust2,GameAgents League Season 2,16,10,6,9,10,1,volgare,14,21,0.70 
+2015,09,24,18:00,MaxAndRelax,volgare,mirage,GameAgents League Season 2,19,16,8,7,7,8,volgare,12,23,0.60 
+2015,09,21,22:20,Orbit,volgare,overpass,GameAgents League Season 2,14,16,7,8,7,8,volgare,19,24,0.79 
+2015,09,21,22:20,Orbit,volgare,dust2,GameAgents League Season 2,16,10,9,6,7,4,volgare,12,22,0.60 
+2015,09,12,19:10,volgare,MIXCAT,mirage,DreamHack Open Cluj-Napoca 201..,11,16,8,7,3,9,volgare,13,23,0.59 

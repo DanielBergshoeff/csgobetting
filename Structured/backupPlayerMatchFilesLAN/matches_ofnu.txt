@@ -1,0 +1,9 @@
+2016,05,19,05:40,Immunity,MVP.karnal,overpass,WCA Season 1 APAC Finals,16,3,13,2,3,1,Immunity,17,10,1.62 
+2016,05,19,05:40,Immunity,MVP.karnal,dust2,WCA Season 1 APAC Finals,16,13,8,7,8,6,Immunity,18,18,1.05 
+2016,05,19,05:40,Immunity,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,10,13,2,3,8,Immunity,22,17,1.26 
+2016,05,19,05:40,MVP.karnal,Immunity,cobblestone,WCA Season 1 APAC Finals,16,9,9,6,7,3,Immunity,18,19,0.96 
+2016,05,18,07:35,TheMongolz,Immunity,overpass,WCA Season 1 APAC Finals,10,16,9,6,1,10,Immunity,21,16,1.26 
+2016,05,18,07:35,Immunity,TheMongolz,cache,WCA Season 1 APAC Finals,16,11,6,9,10,2,Immunity,17,17,0.96 
+2015,11,27,12:00,Legacy,Liquid,cache,FACEIT League 2015 Stage 3 Fin..,11,16,7,8,4,8,Legacy,17,21,0.88 
+2015,11,27,12:00,Legacy,Liquid,cobblestone,FACEIT League 2015 Stage 3 Fin..,8,16,3,12,5,4,Legacy,13,21,0.60 
+2015,11,26,13:00,Virtus.pro,Legacy,cobblestone,FACEIT League 2015 Stage 3 Fin..,16,12,9,6,7,6,Legacy,21,19,1.20 

@@ -1,0 +1,17 @@
+2016,08,11,19:00,Montenegro,Italy,mirage,World Championships 2016 Europ..,16,8,13,2,3,6,Italy,10,17,0.66 
+2016,08,11,19:00,Italy,Montenegro,cache,World Championships 2016 Europ..,9,16,5,10,4,6,Italy,11,18,0.74 
+2016,03,15,23:00,ExAequo,EasyFix,cache,Personal Gamer,16,8,10,5,6,3,ExAequo,19,15,1.11 
+2016,03,15,23:00,ExAequo,EasyFix,train,Personal Gamer,16,12,6,9,10,3,ExAequo,20,17,1.21 
+2015,10,25,16:20,TES,EasyFix,inferno,Milan Games Week 2015 League b..,16,11,11,4,5,7,TES,16,14,1.00 
+2015,10,25,16:20,TES,EasyFix,cache,Milan Games Week 2015 League b..,14,16,7,8,7,8,TES,30,21,1.35 
+2015,10,25,16:20,EasyFix,TES,dust2,Milan Games Week 2015 League b..,14,16,5,10,9,6,TES,24,19,1.08 
+2015,10,15,22:00,TES,EasyFix,cache,Milan Games Week 2015 League b..,12,16,11,4,1,12,TES,21,20,1.07 
+2015,10,15,22:00,EasyFix,TES,mirage,Milan Games Week 2015 League b..,13,16,10,5,3,11,TES,24,17,1.27 
+2015,10,13,22:00,TES,ExAequo,dust2,Milan Games Week 2015 League b..,6,16,3,12,3,4,TES,16,18,0.91 
+2015,10,13,22:00,TES,ExAequo,cobblestone,Milan Games Week 2015 League b..,9,16,4,11,5,5,TES,15,20,0.90 
+2015,10,08,22:00,RIPFonty,TES,mirage,Milan Games Week 2015 League b..,14,16,3,12,11,4,TES,26,25,1.01 
+2015,10,08,22:00,RIPFonty,TES,cache,Milan Games Week 2015 League b..,21,18,7,8,8,7,TES,30,27,1.06 
+2015,10,06,21:00,TES,iDomina,cobblestone,Milan Games Week 2015 League b..,16,8,8,7,8,1,TES,16,12,1.06 
+2015,10,06,21:00,iDomina,TES,mirage,Milan Games Week 2015 League b..,8,16,4,11,4,5,TES,25,11,1.65 
+2015,10,01,22:00,TES,SwagSilicone,mirage,Milan Games Week 2015 League b..,16,10,11,4,5,6,TES,19,15,1.09 
+2015,10,01,22:00,SwagSilicone,TES,cobblestone,Milan Games Week 2015 League b..,16,12,9,6,7,6,TES,15,19,0.79 

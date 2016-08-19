@@ -1,0 +1,8 @@
+2016,03,14,22:00,ImperioMultimedia,k1ck,inferno,AlienTech CS:GO League,13,16,10,5,3,11,k1ck,24,21,1.10 
+2016,03,14,22:00,k1ck,ImperioMultimedia,cobblestone,AlienTech CS:GO League,11,16,6,9,5,7,k1ck,11,23,0.50 
+2014,07,19,11:30,HellRaisers,Outbreak,dust2,DreamHack Valencia 2014,16,6,11,4,5,2,Outbreak,13,18,0.75 
+2014,07,19,11:30,HellRaisers,Outbreak,mirage,DreamHack Valencia 2014,13,16,11,4,2,12,Outbreak,19,18,0.95 
+2014,07,19,11:30,Outbreak,HellRaisers,inferno,DreamHack Valencia 2014,14,16,8,7,6,9,Outbreak,15,21,0.74 
+2014,07,18,16:15,webSPELL,Outbreak,dust2,DreamHack Valencia 2014,16,19,5,10,10,5,Outbreak,20,26,0.76 
+2014,07,18,14:00,Geduld,Outbreak,inferno,DreamHack Valencia 2014,7,16,3,12,4,4,Outbreak,16,15,0.92 
+2014,07,18,11:30,webSPELL,Outbreak,inferno,DreamHack Valencia 2014,19,17,10,5,5,10,Outbreak,23,24,0.98 

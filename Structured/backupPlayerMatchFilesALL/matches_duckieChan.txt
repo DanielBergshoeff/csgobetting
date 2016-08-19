@@ -1,0 +1,4 @@
+2015,09,15,22:20,ESC,EuropeanMisfits,mirage,D!ngIT $2000 Weekly Cup #17,21,19,13,2,2,13,European Misfits,22,28,0.78 
+2015,09,15,18:30,summa.gg,EuropeanMisfits,inferno,D!ngIT $2000 Weekly Cup #17,7,16,4,11,3,5,European Misfits,17,17,0.98 
+2015,09,14,17:30,Lions,EuropeanMisfits,cobblestone,D!ngIT $2000 Weekly Cup #17,16,14,9,6,7,8,European Misfits,17,20,0.84 
+2015,09,14,17:30,Lions,EuropeanMisfits,cache,D!ngIT $2000 Weekly Cup #17,16,12,7,8,9,4,European Misfits,17,21,0.77 

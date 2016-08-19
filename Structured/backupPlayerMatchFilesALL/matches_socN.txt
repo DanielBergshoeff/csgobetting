@@ -1,0 +1,16 @@
+2015,09,17,19:50,uberg33ks,RCTIC,mirage,QuickShot Arena #7,10,16,8,7,2,9,uber g33ks,18,18,1.05 
+2015,09,16,20:15,RCTIC,uberg33ks,cache,QuickShot Arena #7,16,13,5,10,11,3,uber g33ks,14,19,0.72 
+2015,09,16,20:15,RCTIC,uberg33ks,mirage,QuickShot Arena #7,14,16,9,6,5,10,uber g33ks,19,20,0.94 
+2015,09,16,20:15,RCTIC,uberg33ks,dust2,QuickShot Arena #7,19,15,8,7,7,8,uber g33ks,22,25,0.84 
+2015,05,04,21:00,CPHWolves,dignitas,cobblestone,Acer Predator Masters powered ..,10,16,8,7,2,9,CPH Wolves,11,21,0.56 
+2015,05,04,21:00,dignitas,CPHWolves,inferno,Acer Predator Masters powered ..,16,11,9,6,7,5,CPH Wolves,12,19,0.67 
+2015,05,03,21:55,CPHWolves,dignitas,mirage,Global Offensive Champions Lea..,8,16,7,8,1,8,CPH Wolves,19,19,0.93 
+2015,05,03,21:00,CPHWolves,dignitas,cobblestone,Global Offensive Champions Lea..,16,5,15,0,1,5,CPH Wolves,15,10,1.16 
+2015,04,28,22:30,fm-eSports,UnitedEstonia,dust2,ESL UK Premiership Season 1,16,14,8,7,8,7,fm-eSports,17,23,0.74 
+2015,04,28,22:30,UnitedEstonia,fm-eSports,inferno,ESL UK Premiership Season 1,12,16,10,5,2,11,fm-eSports,27,18,1.30 
+2015,04,27,23:00,fm-eSports,Infused,nuke,ESL UK Premiership Season 1,14,16,9,6,5,10,fm-eSports,18,18,0.94 
+2015,04,27,23:00,fm-eSports,Infused,dust2,ESL UK Premiership Season 1,16,11,9,6,7,5,fm-eSports,17,14,1.00 
+2015,04,27,23:00,fm-eSports,Infused,mirage,ESL UK Premiership Season 1,9,16,6,9,3,7,fm-eSports,16,20,0.86 
+2015,04,27,20:00,UnitedEstonia,fm-eSports,cobblestone,ESL UK Premiership Season 1,11,16,3,12,8,4,fm-eSports,21,20,1.01 
+2015,04,27,20:00,fm-eSports,UnitedEstonia,inferno,ESL UK Premiership Season 1,11,16,8,7,3,9,fm-eSports,16,16,0.96 
+2015,04,27,20:00,UnitedEstonia,fm-eSports,nuke,ESL UK Premiership Season 1,5,16,4,11,1,5,fm-eSports,21,14,1.55 

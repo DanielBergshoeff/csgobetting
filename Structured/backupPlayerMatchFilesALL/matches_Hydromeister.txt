@@ -1,0 +1,5 @@
+2015,08,14,14:00,SouthAfrica,Algeria,dust2,World Championships 2015 Afric..,1,16,1,14,0,2,Algeria,17,8,1.54 
+2015,08,12,16:30,Egypt,Algeria,cache,World Championships 2015 Afric..,16,9,6,9,10,0,Algeria,20,17,1.18 
+2015,08,12,14:00,Libya,Algeria,dust2,World Championships 2015 Afric..,15,15,7,8,8,7,Libya,16,19,0.84 
+2015,08,11,14:00,Algeria,Tunisia,inferno,World Championships 2015 Afric..,12,16,5,10,7,6,Algeria,16,19,0.86 
+2015,08,10,14:00,Morocco,Algeria,dust2,World Championships 2015 Afric..,15,15,7,8,8,7,Algeria,15,20,0.83 

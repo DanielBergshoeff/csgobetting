@@ -1,0 +1,17 @@
+2016,03,25,13:20,Fragsters,ALTERNATEaTTaX,inferno,Copenhagen Games 2016,4,16,4,11,0,5,Fragsters,9,19,0.45 
+2016,03,25,12:00,Fragsters,dignitas,overpass,Copenhagen Games 2016,7,16,2,13,5,3,Fragsters,13,20,0.65 
+2016,03,24,23:00,FAB,Fragsters,inferno,Copenhagen Games 2016 BYOC Qua..,7,16,5,10,2,6,Fragsters,17,11,1.35 
+2016,03,24,23:00,FAB,Fragsters,mirage,Copenhagen Games 2016 BYOC Qua..,7,16,6,9,1,7,Fragsters,17,12,1.16 
+2016,03,24,19:00,Fragsters,Aquiver.RED,mirage,Copenhagen Games 2016 BYOC Qua..,16,6,10,5,6,1,Fragsters,22,13,1.35 
+2016,03,24,19:00,Aquiver.RED,Fragsters,inferno,Copenhagen Games 2016 BYOC Qua..,14,16,10,5,4,11,Fragsters,24,21,1.13 
+2016,03,24,15:30,Fragsters,Isak,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,Fragsters,13,6,1.25 
+2016,03,24,13:00,EasternVikings,Fragsters,dust2,Copenhagen Games 2016 BYOC Qua..,13,16,5,10,8,6,Fragsters,14,19,0.74 
+2016,02,19,18:00,OnlineRol,RedPanda,cache,Showmatch CS:GO,16,11,5,10,11,1,OnlineRol,18,15,1.01 
+2016,02,19,18:00,RedPanda,OnlineRol,dust2,Showmatch CS:GO,5,16,5,10,0,6,OnlineRol,17,13,1.18 
+2015,10,19,22:15,nerdRage,stfuNerd,inferno,D!ngIT $2000 Weekly Cup #22,12,16,7,8,5,8,nerdRage,21,22,0.88 
+2015,10,19,20:30,LondonC,nerdRage,inferno,D!ngIT $2000 Weekly Cup #22,16,3,12,3,4,0,nerdRage,9,18,0.47 
+2015,10,19,20:30,LondonC,nerdRage,cache,D!ngIT $2000 Weekly Cup #22,16,7,9,6,7,1,nerdRage,13,16,0.77 
+2015,04,02,21:40,Badger,Sapiens,mirage,Copenhagen Games 2015,16,10,10,5,6,5,Sapiens,10,21,0.50 
+2015,04,02,19:00,FONA,Sapiens,mirage,Copenhagen Games 2015,16,8,12,3,4,5,Sapiens,13,20,0.69 
+2015,04,02,17:00,FoxamoX,Sapiens,nuke,Copenhagen Games 2015,10,16,2,13,8,3,Sapiens,21,16,1.18 
+2015,04,02,15:30,Blight,Sapiens,dust2,Copenhagen Games 2015,16,9,7,8,9,1,Sapiens,14,19,0.80 

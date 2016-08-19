@@ -1,0 +1,68 @@
+2016,06,04,18:30,KILLERFISH,TEAM1231,cobblestone,DreamHack ZOWIE Open Summer 20..,16,7,11,4,5,3,TEAM1231,8,19,0.46 
+2016,04,27,19:00,RB,Pixel,dust2,Balkan Championship Season 3,19,16,7,8,8,7,RB,26,25,1.04 
+2016,04,13,21:00,RB,iNation,cache,Balkan Championship Season 3,16,6,10,5,6,1,RB,26,14,1.60 
+2015,12,06,19:00,gBots,x6tence,mirage,LVP Season 9 Division de Honor..,16,8,8,7,8,1,x6tence,10,20,0.51 
+2015,12,06,19:00,x6tence,gBots,dust2,LVP Season 9 Division de Honor..,11,16,9,6,2,10,x6tence,17,18,0.99 
+2015,12,06,15:00,overGame,x6tence,cobblestone,LVP Season 9 Division de Honor..,12,16,6,9,6,7,x6tence,25,19,1.19 
+2015,12,06,15:00,overGame,x6tence,cache,LVP Season 9 Division de Honor..,16,8,8,7,8,1,x6tence,25,18,1.41 
+2015,12,06,15:00,x6tence,overGame,mirage,LVP Season 9 Division de Honor..,16,7,14,1,2,6,x6tence,26,15,1.61 
+2015,12,05,15:15,NewSkillInfinity,x6tence,cobblestone,LVP Season 9 Division de Honor..,6,16,4,11,2,5,x6tence,20,12,1.29 
+2015,12,04,22:00,x6tence,Atlantis,inferno,LVP Season 9 Division de Honor..,16,13,10,5,6,8,x6tence,21,21,1.01 
+2015,11,15,20:45,gBots,x6tence,inferno,LVP Season 9 Division de Honor..,13,16,6,9,7,7,x6tence,21,21,0.95 
+2015,11,15,20:45,gBots,x6tence,mirage,LVP Season 9 Division de Honor..,7,16,7,8,0,8,x6tence,9,15,0.64 
+2015,11,12,19:00,x6tence,overGame,cobblestone,LVP Season 9 Division de Honor..,16,11,9,6,7,5,x6tence,20,15,1.15 
+2015,11,12,19:00,x6tence,overGame,cache,LVP Season 9 Division de Honor..,4,16,4,11,0,5,x6tence,6,14,0.52 
+2015,11,12,19:00,overGame,x6tence,mirage,LVP Season 9 Division de Honor..,8,16,8,7,0,9,x6tence,13,17,0.76 
+2015,10,07,18:30,x6tence,OverGaming,mirage,LVP Season 9 División de Honor..,12,16,10,5,2,11,x6tence,27,22,1.27 
+2015,10,07,18:30,x6tence,OverGaming,cache,LVP Season 9 División de Honor..,5,16,5,10,0,6,x6tence,10,19,0.50 
+2015,10,04,10:30,x6tence,Epsilon,cache,SocialNat Master League,10,16,5,10,5,6,x6tence,14,23,0.63 
+2015,10,04,10:30,Epsilon,x6tence,mirage,SocialNat Master League,11,16,10,5,1,11,x6tence,21,18,1.27 
+2015,10,04,10:30,x6tence,Epsilon,overpass,SocialNat Master League,15,21,3,12,12,3,x6tence,17,29,0.63 
+2015,10,01,19:00,XPRESIV'E,x6tence,overpass,LVP Season 9 División de Honor..,11,16,4,11,7,5,x6tence,24,21,1.14 
+2015,10,01,19:00,x6tence,XPRESIV'E,mirage,LVP Season 9 División de Honor..,16,14,7,8,9,6,x6tence,22,22,0.98 
+2015,09,13,12:00,LondonC,x6tence,cache,DreamHack Open Cluj-Napoca 201..,16,5,11,4,5,1,x6tence,11,17,0.62 
+2015,09,13,12:00,LondonC,x6tence,mirage,DreamHack Open Cluj-Napoca 201..,13,16,10,5,3,11,x6tence,25,22,1.08 
+2015,09,13,12:00,x6tence,LondonC,dust2,DreamHack Open Cluj-Napoca 201..,7,16,5,10,2,6,x6tence,15,16,0.99 
+2015,09,12,21:00,x6tence,KOWABUNGA,cache,DreamHack Open Cluj-Napoca 201..,16,7,8,7,8,0,x6tence,15,16,0.82 
+2015,09,01,15:00,Macedonia,Romania,cache,World Championships 2015 Europ..,14,16,7,8,7,8,Macedonia,23,20,1.13 
+2015,09,01,15:00,Romania,Macedonia,mirage,World Championships 2015 Europ..,16,4,11,4,5,0,Macedonia,10,18,0.56 
+2015,05,26,20:00,EZPZ_LS,H2B,cache,Balkan Championship Season 2,16,5,14,1,2,4,EZPZ_LS,18,11,1.27 
+2015,05,26,20:00,H2B,EZPZ_LS,mirage,Balkan Championship Season 2,6,16,5,10,1,6,EZPZ_LS,17,14,1.07 
+2015,05,26,20:00,H2B,EZPZ_LS,dust2,Balkan Championship Season 2,19,17,5,10,10,5,EZPZ_LS,19,27,0.73 
+2015,04,27,22:00,ENTiTY,Rock,dust2,Balkan Superleague,12,16,8,7,4,9,ENTiTY,17,20,0.82 
+2015,04,23,23:00,ENTiTY,GPlay,dust2,Balkan Superleague,9,16,5,10,4,6,ENTiTY,7,7,0.84 
+2015,04,22,22:15,neXtPlease!,ENTiTY,cache,Balkan Superleague,16,8,9,6,7,2,ENTiTY,11,20,0.57 
+2015,04,22,20:30,EZPZ_LS,DelinquentHabits,mirage,ESL South East Europe Champion..,16,9,8,7,8,2,EZPZ_LS,27,12,1.56 
+2015,04,22,20:30,EZPZ_LS,DelinquentHabits,inferno,ESL South East Europe Champion..,16,1,14,1,2,0,EZPZ_LS,14,8,1.26 
+2015,04,21,21:15,ENTiTY,GIANT5,cache,Balkan Superleague,16,6,11,4,5,2,ENTiTY,22,11,1.44 
+2015,04,16,21:30,XPC,EZPZ_LS,inferno,ESL South East Europe Champion..,16,5,12,3,4,2,EZPZ_LS,13,18,0.77 
+2015,04,16,21:30,XPC,EZPZ_LS,mirage,ESL South East Europe Champion..,16,14,7,8,9,6,EZPZ_LS,17,22,0.88 
+2015,01,04,19:30,aimface,GPlay,cache,New Year Invitational,4,16,4,11,0,5,aimface,8,17,0.49 
+2015,01,04,19:30,aimface,GPlay,dust2,New Year Invitational,12,16,5,10,7,6,aimface,21,17,1.04 
+2015,01,04,19:30,GPlay,aimface,mirage,New Year Invitational,3,16,3,12,0,4,aimface,15,10,1.35 
+2015,01,04,19:30,aimface,GPlay,nuke,New Year Invitational,16,9,11,4,5,5,aimface,23,12,1.54 
+2015,01,04,19:17,myRevenge,aimface,overpass,New Year Invitational,15,19,13,2,2,13,aimface,25,23,1.03 
+2015,01,04,19:17,aimface,myRevenge,mirage,New Year Invitational,16,2,13,2,3,0,aimface,12,5,1.24 
+2015,01,04,15:20,myRevenge,aimface,dust2,New Year Invitational,16,14,5,10,11,4,aimface,14,22,0.70 
+2015,01,03,21:20,aimface,volgare,inferno,New Year Invitational,16,9,10,5,6,4,aimface,19,15,1.05 
+2015,01,03,21:20,aimface,volgare,mirage,New Year Invitational,16,4,11,4,5,0,aimface,17,12,1.25 
+2015,01,02,21:25,myRevenge,aimface,cache,New Year Invitational,16,9,10,5,6,4,aimface,20,19,1.12 
+2015,01,02,21:25,myRevenge,aimface,dust2,New Year Invitational,16,7,9,6,7,1,aimface,12,19,0.68 
+2015,01,02,21:25,myRevenge,aimface,mirage,New Year Invitational,7,16,4,11,3,5,aimface,18,12,1.25 
+2014,12,17,20:07,GPlay,aimface,cache,South East Europe Championship,16,4,11,4,5,0,aimface,7,16,0.46 
+2014,12,17,20:00,GPlay,aimface,dust2,South East Europe Championship,16,11,7,8,9,3,aimface,21,23,1.00 
+2014,12,17,20:00,GPlay,aimface,mirage,South East Europe Championship,13,16,9,6,4,10,aimface,20,17,1.07 
+2014,12,13,18:25,volgare,aimface,inferno,South East Europe Championship,12,16,9,6,3,10,aimface,26,14,1.45 
+2014,12,13,18:25,volgare,aimface,mirage,South East Europe Championship,14,16,8,7,6,9,aimface,32,18,1.64 
+2014,11,05,16:30,Netherlands,Macedonia,dust2,European Championship 2014,16,10,10,5,6,5,Macedonia,19,20,0.98 
+2014,11,05,16:30,Netherlands,Macedonia,mirage,European Championship 2014,16,7,11,4,5,3,Macedonia,10,20,0.55 
+2014,10,09,23:15,Denmark,Macedonia,dust2,European Championship 2014,16,1,14,1,2,0,Macedonia,8,17,0.43 
+2014,10,05,21:00,Latvia,Macedonia,inferno,European Championship 2014,13,16,11,4,2,12,Macedonia,20,17,1.06 
+2014,09,09,21:00,Slovakia,Macedonia,mirage,European Championship 2014,16,1,14,1,2,0,Macedonia,10,17,0.63 
+2014,08,18,21:00,Macedonia,Greece,dust2,European Championship 2014 Qua..,16,14,5,10,11,4,Macedonia,16,21,0.81 
+2014,08,18,21:00,Greece,Macedonia,inferno,European Championship 2014 Qua..,16,2,13,2,3,0,Macedonia,10,16,0.62 
+2014,08,18,21:00,Macedonia,Greece,mirage,European Championship 2014 Qua..,16,6,10,5,6,1,Macedonia,29,8,2.23 
+2014,05,25,18:00,iNation,SENSEi,mirage,Gaming Challenge 2014,16,6,11,4,5,2,SENSEi,14,16,0.89 
+2014,05,25,18:00,iNation,SENSEi,inferno,Gaming Challenge 2014,16,7,9,6,7,1,SENSEi,19,15,1.28 
+2014,05,25,13:00,SENSEi,HEADSHOTBG,mirage,Gaming Challenge 2014,12,16,5,10,7,6,SENSEi,17,22,0.76 
+2014,05,25,12:00,SENSEi,KOH,inferno,Gaming Challenge 2014,16,6,14,1,2,5,SENSEi,25,10,1.79 

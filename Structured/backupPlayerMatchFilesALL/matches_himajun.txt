@@ -1,0 +1,13 @@
+2016,08,12,16:00,4dimensioN,Orange,inferno,ESEA Open Season 22 Asia,11,16,5,10,6,6,4dimensioN,19,22,0.87 
+2016,08,12,16:00,4dimensioN,Orange,cache,ESEA Open Season 22 Asia,16,14,9,6,7,8,4dimensioN,34,21,1.54 
+2016,08,12,16:00,4dimensioN,Orange,train,ESEA Open Season 22 Asia,13,16,8,7,5,9,4dimensioN,20,21,0.94 
+2016,08,08,15:00,MVP.karnal,4dimensioN,dust2,ESEA Open Season 22 Asia,14,16,4,11,10,5,4dimensioN,27,18,1.19 
+2016,08,08,15:00,4dimensioN,MVP.karnal,mirage,ESEA Open Season 22 Asia,16,11,11,4,5,7,4dimensioN,27,20,1.28 
+2015,08,30,14:00,Singapore,Japan,mirage,World Championships 2015 Asian..,16,12,12,3,4,9,Japan,23,22,1.03 
+2015,08,30,12:00,SouthKorea,Japan,mirage,World Championships 2015 Asian..,6,16,3,12,3,4,Japan,18,17,1.16 
+2015,08,29,12:00,Vietnam,Japan,cache,World Championships 2015 Asian..,16,12,5,10,11,2,Japan,19,23,0.90 
+2014,10,31,17:30,Cipangu.GO,mousesports,cache,ESWC 2014,4,16,3,12,1,4,Cipangu.GO,13,18,0.77 
+2014,10,31,15:30,GPlay,Cipangu.GO,nuke,ESWC 2014,16,2,15,0,1,2,Cipangu.GO,4,18,0.19 
+2014,10,31,12:40,Cipangu.GO,dignitas,nuke,ESWC 2014,9,16,9,6,0,10,Cipangu.GO,12,20,0.68 
+2014,10,31,11:30,3DMAX,Cipangu.GO,cache,ESWC 2014,16,2,13,2,3,0,Cipangu.GO,11,17,0.78 
+2014,10,31,10:30,Cipangu.GO,iBUYPOWER,inferno,ESWC 2014,1,16,1,14,0,2,Cipangu.GO,16,17,1.06 

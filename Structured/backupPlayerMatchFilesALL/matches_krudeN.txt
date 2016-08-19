@@ -1,0 +1,21 @@
+2016,08,14,10:30,GrinnyBankers,Skyfire,mirage,ESL ANZ Championship Season 2 ..,8,16,3,12,5,4,Skyfire,16,14,0.92 
+2016,08,14,10:30,Skyfire,GrinnyBankers,cobblestone,ESL ANZ Championship Season 2 ..,16,2,13,2,3,0,Skyfire,10,9,0.97 
+2016,08,12,13:00,Supremacy,Skyfire,cache,ESEA Open Season 22 Oceania,2,16,2,13,0,3,Skyfire,16,12,1.18 
+2016,08,12,13:00,Skyfire,Supremacy,train,ESEA Open Season 22 Oceania,16,10,7,8,9,2,Skyfire,25,14,1.36 
+2016,07,26,12:00,Skyfire,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,7,16,5,10,2,6,Skyfire,11,20,0.53 
+2016,07,26,12:00,Skyfire,AthleticoBH,cache,CyberGamer Oceania eSports Mas..,16,13,8,7,8,6,Skyfire,25,18,1.23 
+2016,07,26,12:00,AthleticoBH,Skyfire,train,CyberGamer Oceania eSports Mas..,16,5,11,4,5,1,Skyfire,9,19,0.49 
+2016,07,19,11:00,Skyfire,Parallax,cache,CyberGamer Oceania eSports Mas..,10,16,6,9,4,7,Skyfire,16,17,0.91 
+2016,07,19,11:00,Parallax,Skyfire,train,CyberGamer Oceania eSports Mas..,16,11,7,8,9,3,Skyfire,20,19,1.10 
+2016,07,19,11:00,Skyfire,Parallax,cobblestone,CyberGamer Oceania eSports Mas..,19,16,4,11,11,4,Skyfire,27,25,1.04 
+2016,07,18,12:00,GUTS,Skyfire,nuke,CyberGamer Oceania eSports Mas..,6,16,5,10,1,6,Skyfire,23,11,1.52 
+2016,07,18,12:00,Skyfire,GUTS,dust2,CyberGamer Oceania eSports Mas..,9,16,6,9,3,7,Skyfire,14,19,0.76 
+2016,07,18,12:00,GUTS,Skyfire,cache,CyberGamer Oceania eSports Mas..,8,16,4,11,4,5,Skyfire,22,13,1.33 
+2016,07,11,12:00,Exile5,Skyfire,dust2,CyberGamer Oceania eSports Mas..,9,16,4,11,5,5,Skyfire,16,12,1.05 
+2016,07,11,12:00,Exile5,Skyfire,cobblestone,CyberGamer Oceania eSports Mas..,10,16,7,8,3,8,Skyfire,27,15,1.53 
+2016,07,11,12:00,Skyfire,Exile5,cache,CyberGamer Oceania eSports Mas..,14,16,6,9,8,7,Skyfire,17,20,0.78 
+2016,07,05,12:00,Chiefs,Skyfire,cobblestone,CyberGamer Oceania eSports Mas..,12,16,6,9,6,7,Skyfire,16,19,0.84 
+2016,07,05,12:00,Skyfire,Chiefs,dust2,CyberGamer Oceania eSports Mas..,16,13,7,8,9,5,Skyfire,29,20,1.47 
+2016,07,05,12:00,Chiefs,Skyfire,mirage,CyberGamer Oceania eSports Mas..,16,10,7,8,9,2,Skyfire,12,20,0.64 
+2015,09,21,13:00,RiP,AnimalSquad,dust2,FACEIT League 2015 Stage 3 OCE..,7,16,4,11,3,5,RiP,16,22,0.77 
+2015,09,21,13:00,RiP,AnimalSquad,mirage,FACEIT League 2015 Stage 3 OCE..,10,16,4,11,6,5,RiP,16,21,0.72 

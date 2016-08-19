@@ -1,0 +1,4 @@
+2016,01,09,01:00,Gathers,NTN,dust2,MAX5 Invitational,13,16,10,5,3,11,Gathers,18,19,1.08 
+2016,01,08,21:45,Gathers,KeydStars,cache,MAX5 Invitational,11,16,9,6,2,10,Gathers,19,18,1.05 
+2016,01,07,16:30,GamesAcademy,Gathers,mirage,MAX5 Invitational,16,0,15,0,1,0,Gathers,5,16,0.30 
+2016,01,07,00:00,Gathers,AlienTech,cache,MAX5 Invitational,6,16,4,11,2,5,Gathers,17,18,0.90 

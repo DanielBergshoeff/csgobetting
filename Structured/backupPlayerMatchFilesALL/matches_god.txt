@@ -1,0 +1,7 @@
+2015,11,29,16:00,JSG,BornOfFire,cache,SL i-League StarSeries XIV,14,16,4,11,10,5,JSG,18,23,0.75 
+2015,11,29,16:00,JSG,BornOfFire,dust2,SL i-League StarSeries XIV,8,16,7,8,1,8,JSG,16,19,0.87 
+2015,11,29,16:00,JSG,BornOfFire,mirage,SL i-League StarSeries XIV,16,10,8,7,8,3,JSG,16,17,0.91 
+2015,11,27,15:00,Goalie,JSG,train,SL i-League StarSeries XIV,16,12,12,3,4,9,JSG,17,19,0.94 
+2015,11,27,15:00,JSG,Goalie,cache,SL i-League StarSeries XIV,9,16,6,9,3,7,JSG,17,21,0.79 
+2014,08,01,17:25,RCTIC,Paranoia,inferno,ASUS ROG Summer 2014,16,3,12,3,4,0,Paranoia,7,18,0.44 
+2014,08,01,16:00,Games4u,Paranoia,dust2,ASUS ROG Summer 2014,19,16,13,2,2,13,Paranoia,21,28,0.83 

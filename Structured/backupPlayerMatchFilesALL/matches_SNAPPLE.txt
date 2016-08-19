@@ -1,0 +1,22 @@
+2016,05,29,11:15,XPC,neXtPlease!,overpass,ESL South East Europe Champion..,16,10,7,8,9,2,neXtPlease!,24,22,1.14 
+2016,05,29,09:25,aimclub,neXtPlease!,cobblestone,ESL South East Europe Champion..,22,20,8,7,7,8,neXtPlease!,26,34,0.73 
+2016,05,14,17:30,XPC,neXtPlease!,cobblestone,PC Garage Clutch Masters by St..,16,11,5,10,11,1,neXtPlease!,18,22,0.90 
+2016,05,14,17:30,XPC,neXtPlease!,cache,PC Garage Clutch Masters by St..,16,5,11,4,5,1,neXtPlease!,12,18,0.70 
+2016,05,14,16:15,cooL,neXtPlease!,mirage,PC Garage Clutch Masters by St..,2,16,2,13,0,3,neXtPlease!,19,10,1.70 
+2016,05,14,13:40,neXtPlease!,IGG,mirage,PC Garage Clutch Masters by St..,16,8,8,7,8,1,neXtPlease!,22,15,1.36 
+2016,05,14,12:30,neXtPlease!,XPC,cobblestone,PC Garage Clutch Masters by St..,9,16,6,9,3,7,neXtPlease!,9,22,0.45 
+2016,04,03,19:00,neXtPlease!,CS-GO.rs,inferno,Balkan Championship Season 3,16,14,3,12,13,2,neXtPlease!,25,17,1.22 
+2016,03,31,21:00,XPC,neXtPlease!,train,Balkan Championship Season 3,16,8,11,4,5,4,neXtPlease!,23,17,1.35 
+2015,09,16,20:00,Denmark,Romania,mirage,World Championships 2015 Europ..,16,8,12,3,4,5,Romania,18,19,0.92 
+2015,09,16,19:00,Kazakhstan,Romania,cache,World Championships 2015 Europ..,16,14,7,8,9,6,Romania,28,24,1.17 
+2015,09,16,17:00,Portugal,Romania,dust2,World Championships 2015 Europ..,16,11,6,9,10,2,Romania,18,19,0.95 
+2015,09,15,21:30,Romania,Poland,mirage,World Championships 2015 Europ..,8,16,6,9,2,7,Romania,15,21,0.77 
+2015,09,14,17:00,Latvia,Romania,inferno,World Championships 2015 Europ..,15,15,13,2,2,13,Romania,28,19,1.45 
+2015,09,01,15:00,Macedonia,Romania,cache,World Championships 2015 Europ..,14,16,7,8,7,8,Romania,20,21,0.94 
+2015,09,01,15:00,Romania,Macedonia,mirage,World Championships 2015 Europ..,16,4,11,4,5,0,Romania,21,11,1.51 
+2015,08,12,17:00,Montenegro,Romania,cache,World Championships 2015 Europ..,13,16,8,7,5,9,Romania,25,18,1.29 
+2015,08,12,17:00,Romania,Montenegro,cobblestone,World Championships 2015 Europ..,16,9,8,7,8,2,Romania,22,14,1.26 
+2015,05,04,19:00,GIANT5,neXtPlease!,inferno,Balkan Superleague,13,16,5,10,8,6,neXtPlease!,25,15,1.29 
+2015,04,23,22:15,neXtPlease!,Rock,inferno,ESL South East Europe Champion..,13,16,11,4,2,12,neXtPlease!,16,21,0.87 
+2015,04,23,22:15,Rock,neXtPlease!,dust2,ESL South East Europe Champion..,16,11,9,6,7,5,neXtPlease!,20,23,0.91 
+2015,04,22,22:15,neXtPlease!,ENTiTY,cache,Balkan Superleague,16,8,9,6,7,2,neXtPlease!,21,13,1.30 

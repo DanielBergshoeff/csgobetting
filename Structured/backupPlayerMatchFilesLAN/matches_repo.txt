@@ -1,0 +1,25 @@
+2016,02,28,19:10,Vexed,CLG,train,MLG Columbus 2016 Main Qualifi..,13,16,7,8,6,8,Vexed,12,18,0.72 
+2016,02,28,19:10,CLG,Vexed,cobblestone,MLG Columbus 2016 Main Qualifi..,3,16,3,12,0,4,Vexed,17,10,1.38 
+2016,02,28,19:10,Vexed,CLG,dust2,MLG Columbus 2016 Main Qualifi..,13,16,9,6,4,10,Vexed,14,21,0.71 
+2016,02,27,20:40,Splyce,Vexed,mirage,MLG Columbus 2016 Main Qualifi..,16,7,11,4,5,3,Vexed,11,18,0.60 
+2016,02,26,01:15,SK,Vexed,train,MLG Columbus 2016 Main Qualifi..,10,16,3,12,7,4,Vexed,22,17,1.17 
+2016,02,20,18:00,dignitas,Vexed,cobblestone,ESL Barcelona CS:GO Invitation..,16,5,12,3,4,2,Vexed,10,20,0.46 
+2016,02,20,13:30,G2,Vexed,overpass,ESL Barcelona CS:GO Invitation..,16,9,10,5,6,4,Vexed,11,23,0.60 
+2016,02,19,21:40,x6tence,Vexed,cobblestone,ESL Barcelona CS:GO Invitation..,2,16,2,13,0,3,Vexed,11,6,1.12 
+2016,02,19,19:05,dignitas,Vexed,mirage,ESL Barcelona CS:GO Invitation..,16,7,9,6,7,1,Vexed,7,17,0.54 
+2016,02,12,13:00,Vexed,CSGL,cobblestone,Acer Predator Masters powered ..,18,21,4,11,11,4,Vexed,25,29,0.89 
+2016,02,12,13:00,CSGL,Vexed,train,Acer Predator Masters powered ..,6,16,3,12,3,4,Vexed,16,11,1.20 
+2016,02,12,13:00,CSGL,Vexed,mirage,Acer Predator Masters powered ..,16,10,12,3,4,7,Vexed,13,20,0.65 
+2016,02,11,23:30,Vexed,HellRaisers,cobblestone,Acer Predator Masters powered ..,14,16,7,8,7,8,Vexed,22,21,1.11 
+2016,02,11,23:30,HellRaisers,Vexed,inferno,Acer Predator Masters powered ..,16,14,8,7,8,7,Vexed,15,20,0.73 
+2015,11,22,13:30,USSR,Vexed,mirage,Color League by EIZO & QPAD,8,16,6,9,2,7,Vexed,16,16,0.88 
+2015,11,22,13:30,Vexed,USSR,cache,Color League by EIZO & QPAD,16,9,12,3,4,6,Vexed,24,18,1.33 
+2015,11,22,13:30,Vexed,USSR,overpass,Color League by EIZO & QPAD,16,7,11,4,5,3,Vexed,13,14,0.94 
+2015,11,22,10:30,ImperialDragons,Vexed,cache,Color League by EIZO & QPAD,10,16,7,8,3,8,Vexed,28,19,1.43 
+2015,11,22,10:30,Vexed,ImperialDragons,mirage,Color League by EIZO & QPAD,16,8,11,4,5,4,Vexed,15,12,1.00 
+2015,11,22,10:30,Vexed,ImperialDragons,train,Color League by EIZO & QPAD,8,16,7,8,1,8,Vexed,7,21,0.37 
+2015,11,21,20:30,Vexed,USSR,inferno,Color League by EIZO & QPAD,14,16,5,10,9,6,Vexed,15,21,0.76 
+2015,11,21,20:30,USSR,Vexed,dust2,Color League by EIZO & QPAD,16,8,10,5,6,3,Vexed,16,19,0.87 
+2015,11,21,20:30,Vexed,USSR,overpass,Color League by EIZO & QPAD,25,22,9,6,6,9,Vexed,33,33,0.93 
+2015,11,21,14:15,ImperialDragons,Vexed,dust2,Color League by EIZO & QPAD,7,16,6,9,1,7,Vexed,15,13,1.08 
+2015,11,21,14:15,Vexed,ImperialDragons,mirage,Color League by EIZO & QPAD,19,15,6,9,9,6,Vexed,29,23,1.10 

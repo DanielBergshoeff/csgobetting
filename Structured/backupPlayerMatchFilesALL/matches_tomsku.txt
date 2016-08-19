@@ -1,0 +1,18 @@
+2016,06,03,20:45,KoNSweden,KoNFinland,mirage,King of Nordic Season 4,16,6,11,4,5,2,KoN Finland,12,19,0.67 
+2016,06,03,19:15,KoNFinland,KoNDenmark,cache,King of Nordic Season 4,16,14,10,5,6,9,KoN Finland,25,20,1.12 
+2015,12,20,13:00,SkitLite,Torpedo,mirage,ESL Nordic Nationals Winter 20..,11,16,5,10,6,6,SkitLite,17,21,0.88 
+2015,12,20,13:00,SkitLite,Torpedo,cache,ESL Nordic Nationals Winter 20..,14,16,3,12,11,4,SkitLite,16,23,0.71 
+2015,12,19,20:55,SkitLite,demise,mirage,ESL Nordic Nationals Winter 20..,16,9,9,6,7,3,SkitLite,24,17,1.32 
+2015,12,19,14:55,SkitLite,NoProblem!,mirage,ESL Nordic Nationals Winter 20..,11,16,9,6,2,10,SkitLite,24,21,1.18 
+2015,11,06,21:30,KoNDenmark,KoNFinland,cache,King of Nordic Season 2,16,12,6,9,10,3,KoN Finland,15,18,0.84 
+2015,10,30,21:45,KoNSweden,KoNFinland,dust2,King of Nordic Season 2,8,16,6,9,2,7,KoN Finland,16,15,1.06 
+2015,10,30,11:00,SkitLite,RCTIC,mirage,ASUS ROG Nordic Challenge,12,16,6,9,6,7,SkitLite,19,24,0.83 
+2015,10,30,11:00,RCTIC,SkitLite,train,ASUS ROG Nordic Challenge,16,7,11,4,5,3,SkitLite,19,19,1.21 
+2015,06,02,18:30,ENCORE,HellRaisers,cache,Acer Predator Masters powered ..,13,16,10,5,3,11,ENCORE,22,21,1.04 
+2015,06,02,18:30,HellRaisers,ENCORE,train,Acer Predator Masters powered ..,16,1,14,1,2,0,ENCORE,9,16,0.59 
+2015,05,27,21:45,LGB,ENCORE,inferno,Acer Predator Masters powered ..,16,9,8,7,8,2,ENCORE,12,18,0.69 
+2015,05,27,21:45,ENCORE,LGB,dust2,Acer Predator Masters powered ..,9,16,7,8,2,8,ENCORE,17,19,1.00 
+2015,05,27,21:45,ENCORE,LGB,cache,Acer Predator Masters powered ..,16,8,10,5,6,3,ENCORE,16,14,0.99 
+2015,05,27,20:00,ENCORE,LDLCBlue,dust2,RGN Pro Series EU,11,16,5,10,6,6,ENCORE,22,17,1.20 
+2015,05,26,21:30,Epsilon,ENCORE,mirage,RGN Pro Series EU,16,12,10,5,6,7,ENCORE,17,23,0.76 
+2015,05,26,20:00,dignitas,ENCORE,cache,RGN Pro Series EU,16,7,10,5,6,2,ENCORE,17,20,1.03 

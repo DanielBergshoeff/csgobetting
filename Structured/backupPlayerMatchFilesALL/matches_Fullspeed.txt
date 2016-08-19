@@ -1,0 +1,21 @@
+2016,07,06,19:30,ALTERNATEaTTaX,iNETKOXTV,cache,BlasterX INETKOX League Season..,10,16,5,10,5,6,iNETKOXTV,22,17,1.15 
+2016,07,06,19:30,iNETKOXTV,ALTERNATEaTTaX,train,BlasterX INETKOX League Season..,9,16,6,9,3,7,iNETKOXTV,22,20,1.18 
+2016,06,22,22:00,SpaceSoldiers,iNETKOXTV,train,BlasterX INETKOX League Season..,11,16,4,11,7,5,iNETKOXTV,23,19,1.21 
+2016,06,22,22:00,SpaceSoldiers,iNETKOXTV,mirage,BlasterX INETKOX League Season..,13,16,9,6,4,10,iNETKOXTV,28,22,1.28 
+2016,06,15,22:25,Orbit,iNETKOXTV,train,BlasterX INETKOX League Season..,16,7,9,6,7,1,iNETKOXTV,22,17,1.37 
+2016,06,15,22:25,Orbit,iNETKOXTV,cache,BlasterX INETKOX League Season..,16,8,12,3,4,5,iNETKOXTV,18,17,1.03 
+2016,06,14,20:20,Kinguin,iNETKOXTV,cache,BlasterX INETKOX League Season..,16,10,7,8,9,2,iNETKOXTV,21,21,1.21 
+2016,06,14,20:20,iNETKOXTV,Kinguin,mirage,BlasterX INETKOX League Season..,3,16,3,12,0,4,iNETKOXTV,9,18,0.50 
+2016,06,06,22:00,PRIDE,iNETKOXTV,nuke,BlasterX INETKOX League Season..,16,14,11,4,5,10,iNETKOXTV,27,22,1.22 
+2016,06,06,22:00,PRIDE,iNETKOXTV,train,BlasterX INETKOX League Season..,14,16,9,6,5,10,iNETKOXTV,21,23,0.89 
+2016,05,31,20:15,Tricked,iNETKOXTV,dust2,BlasterX INETKOX League Season..,19,16,11,4,4,11,iNETKOXTV,30,28,1.14 
+2016,05,31,20:15,Tricked,iNETKOXTV,mirage,BlasterX INETKOX League Season..,19,15,5,10,10,5,iNETKOXTV,36,26,1.50 
+2016,05,28,19:15,iNETKOXTV,Refuse,inferno,GeForce CUP at ESPORT NOW 2016,8,16,7,8,1,8,iNETKOXTV,12,19,0.73 
+2016,05,28,19:15,iNETKOXTV,Refuse,dust2,GeForce CUP at ESPORT NOW 2016,11,16,4,11,7,5,iNETKOXTV,20,21,1.04 
+2016,05,28,19:15,iNETKOXTV,Refuse,cache,GeForce CUP at ESPORT NOW 2016,16,6,11,4,5,2,iNETKOXTV,13,14,0.84 
+2016,05,25,18:00,iNETKOXTV,AGG,dust2,BlasterX INETKOX League Season..,6,16,3,12,3,4,iNETKOXTV,11,20,0.65 
+2016,05,25,18:00,iNETKOXTV,AGG,nuke,BlasterX INETKOX League Season..,11,16,5,10,6,6,iNETKOXTV,18,20,0.88 
+2015,09,16,20:00,Distinct5,31337,mirage,ESL Polish Championship Season..,3,16,3,12,0,4,Distinct5,15,14,1.09 
+2015,09,16,20:00,31337,Distinct5,cache,ESL Polish Championship Season..,19,17,4,11,11,4,Distinct5,19,30,0.64 
+2015,09,02,21:00,Distinct5,eBettle,mirage,ESL Polish Championship Season..,10,16,8,7,2,9,Distinct5,16,17,0.93 
+2015,09,02,21:00,Distinct5,eBettle,overpass,ESL Polish Championship Season..,9,16,7,8,2,8,Distinct5,5,20,0.35 

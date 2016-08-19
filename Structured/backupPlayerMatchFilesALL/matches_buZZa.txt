@@ -1,0 +1,23 @@
+2016,04,28,01:00,Luminosity,WithoutaRoof,dust2,ECS Season 1,16,6,9,6,7,0,Without a Roof,10,19,0.54 
+2016,04,28,01:00,Luminosity,WithoutaRoof,mirage,ECS Season 1,16,5,11,4,5,1,Without a Roof,2,21,0.08 
+2015,12,15,03:00,AstralAuthority,Splyce,mirage,RGN Showseries,7,16,3,12,4,4,Astral Authority,19,17,1.16 
+2015,12,15,03:00,Splyce,AstralAuthority,cache,RGN Showseries,16,5,10,5,6,0,Astral Authority,13,21,0.57 
+2015,12,14,03:00,AstralAuthority,Leader-1,mirage,RGN Showseries,16,13,6,9,10,4,Astral Authority,23,22,1.12 
+2015,12,14,03:00,Leader-1,AstralAuthority,cache,RGN Showseries,13,16,9,6,4,10,Astral Authority,22,19,1.20 
+2015,12,02,07:30,AstralAuthority,NexusStorm,cache,QuickShot Arena NA #1,12,16,4,11,8,5,Nexus Storm,25,19,1.24 
+2015,12,02,04:00,Gosu,NexusStorm,inferno,QuickShot Arena NA #1,6,16,2,13,4,3,Nexus Storm,13,12,0.89 
+2015,12,02,04:00,Gosu,NexusStorm,cache,QuickShot Arena NA #1,6,16,3,12,3,4,Nexus Storm,20,12,1.32 
+2015,12,01,02:00,AstralAuthority,NexusStorm,inferno,QuickShot Arena NA #1,9,16,4,11,5,5,Nexus Storm,24,16,1.51 
+2015,12,01,02:00,NexusStorm,AstralAuthority,mirage,QuickShot Arena NA #1,16,12,6,9,10,3,Nexus Storm,24,21,1.25 
+2015,06,03,02:00,TempoStorm,vVv,mirage,CEVO Professional Season 7,16,2,13,2,3,0,vVv,6,18,0.38 
+2015,06,03,02:00,vVv,TempoStorm,cache,CEVO Professional Season 7,8,16,8,7,0,9,vVv,15,20,0.83 
+2015,06,02,04:15,Nihilum,vVv,mirage,CEVO Professional Season 7,16,13,6,9,10,4,vVv,13,28,0.46 
+2015,06,02,04:15,vVv,Nihilum,cache,CEVO Professional Season 7,16,12,10,5,6,7,vVv,10,10,0.95 
+2015,05,05,04:15,vVv,affNity,mirage,CEVO Professional Season 7,16,10,7,8,9,2,affNity,16,22,0.75 
+2015,05,05,04:15,affNity,vVv,cache,CEVO Professional Season 7,16,6,10,5,6,1,affNity,18,12,1.19 
+2015,05,04,02:00,SKDC,affNity,cache,CEVO Professional Season 7,16,14,10,5,6,9,affNity,25,23,1.20 
+2015,05,04,02:00,SKDC,affNity,dust2,CEVO Professional Season 7,7,16,5,10,2,6,affNity,13,11,0.97 
+2015,04,30,04:30,affNity,TempoStorm,cache,CEVO Professional Season 7,16,19,6,9,9,6,affNity,20,27,0.85 
+2015,04,30,04:30,TempoStorm,affNity,cobblestone,CEVO Professional Season 7,16,8,8,7,8,1,affNity,10,19,0.54 
+2015,04,29,04:30,Method,affNity,inferno,CEVO Professional Season 7,16,1,14,1,2,0,affNity,6,17,0.29 
+2015,04,29,04:30,affNity,Method,mirage,CEVO Professional Season 7,16,12,8,7,8,5,affNity,28,17,1.51 

@@ -1,0 +1,14 @@
+2014,10,04,16:40,Jynttä,Superstars,mirage,Areena #5 by ROCCAT,16,14,5,10,11,4,Superstars,22,21,0.99 
+2014,10,04,15:35,Superstars,myMDL,mirage,Areena #5 by ROCCAT,16,10,7,8,9,2,Superstars,15,15,0.85 
+2014,10,04,14:00,Menace,Superstars,mirage,Areena #5 by ROCCAT,15,15,10,5,5,10,Superstars,12,21,0.62 
+2014,10,04,12:00,ROTY,Superstars,dust2,Areena #5 by ROCCAT,16,3,13,2,3,1,Superstars,11,16,0.66 
+2014,10,04,10:55,GLSHAKER,Superstars,dust2,Areena #5 by ROCCAT,6,16,5,10,1,6,Superstars,17,12,1.11 
+2014,10,04,10:00,Hanatauki,Superstars,mirage,Areena #5 by ROCCAT,16,10,7,8,9,2,Superstars,19,19,1.01 
+2014,07,31,18:30,Joutsenlaulu,TMVG,dust2,ASUS ROG Summer 2014,13,16,8,7,5,9,Joutsenlaulu,18,18,0.99 
+2014,07,31,16:00,Publiclir.se,Joutsenlaulu,mirage,ASUS ROG Summer 2014,16,3,12,3,4,0,Joutsenlaulu,12,17,0.80 
+2014,06,28,14:05,suNny'steam,Twista'steam,mirage,Areena #4 by SteelSeries,16,3,13,2,3,1,Twista's team,12,17,0.80 
+2014,06,28,12:40,Twista'steam,allu'steam,train,Areena #4 by SteelSeries,16,4,14,1,2,3,Twista's team,17,8,1.49 
+2014,06,28,11:45,Twista'steam,KIPSIk'steam,mirage,Areena #4 by SteelSeries,15,15,10,5,5,10,Twista's team,34,20,1.57 
+2014,06,28,11:15,Twista'steam,shaker'steam,train,Areena #4 by SteelSeries,16,2,13,2,3,0,Twista's team,14,9,1.35 
+2014,06,28,10:25,Twista'steam,duffman'steam,dust2,Areena #4 by SteelSeries,3,16,3,12,0,4,Twista's team,8,17,0.53 
+2014,06,28,09:50,Twista'steam,dRiim'steam,dust2,Areena #4 by SteelSeries,5,16,2,13,3,3,Twista's team,6,18,0.36 

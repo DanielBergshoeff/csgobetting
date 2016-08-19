@@ -1,0 +1,7 @@
+2016,07,24,23:15,ExoticIsland,Magistra,train,xfunction Masters 2016,5,16,4,11,1,5,Exotic Island,12,17,0.69 
+2016,07,04,22:10,Tricked,ExoticIsland,nuke,xfunction Masters 2016,16,5,13,2,3,3,Exotic Island,10,18,0.57 
+2016,05,04,22:00,ExoticIsland,ImperioMultimedia,inferno,xfunction Challenge,4,16,1,14,3,2,Exotic Island,15,15,0.95 
+2016,05,03,22:55,Millenium,ExoticIsland,inferno,xfunction Challenge,16,13,13,2,3,11,Exotic Island,21,23,0.91 
+2015,11,20,14:05,uPGaming.hellfive,IHAVEADREAM,cache,AlienTech AllStars,13,16,9,6,4,10,IHAVEADREAM,24,20,1.06 
+2015,11,20,12:45,IHAVEADREAM,KeydStars,cobblestone,AlienTech AllStars,9,16,2,13,7,3,IHAVEADREAM,18,18,1.18 
+2015,11,20,11:25,Epsilon,IHAVEADREAM,cache,AlienTech AllStars,16,3,13,2,3,1,IHAVEADREAM,7,18,0.44 

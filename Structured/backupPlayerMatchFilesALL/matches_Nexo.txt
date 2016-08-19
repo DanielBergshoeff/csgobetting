@@ -1,0 +1,26 @@
+2015,11,25,22:00,Torpedo,ALSEN,mirage,QuickShot Arena #16,19,17,5,10,10,5,ALSEN,21,31,0.79 
+2015,11,25,19:30,PiTER,ALSEN,mirage,QuickShot Arena #16,13,16,9,6,4,10,ALSEN,21,20,1.06 
+2015,11,25,18:15,Torpedo,ALSEN,mirage,QuickShot Arena #16,16,13,7,8,9,5,ALSEN,15,21,0.72 
+2015,11,21,16:45,ImperialDragons,ALSEN,mirage,Color League by EIZO & QPAD,16,10,9,6,7,4,ALSEN,15,20,0.83 
+2015,11,21,16:45,ImperialDragons,ALSEN,train,Color League by EIZO & QPAD,11,16,5,10,6,6,ALSEN,18,18,0.94 
+2015,11,21,16:45,ALSEN,ImperialDragons,inferno,Color League by EIZO & QPAD,10,16,2,13,8,3,ALSEN,14,18,0.77 
+2015,11,21,10:40,USSR,ALSEN,mirage,Color League by EIZO & QPAD,16,5,11,4,5,1,ALSEN,11,17,0.70 
+2015,11,21,10:40,USSR,ALSEN,cache,Color League by EIZO & QPAD,16,13,6,9,10,4,ALSEN,21,23,1.05 
+2015,11,21,10:40,ALSEN,USSR,dust2,Color League by EIZO & QPAD,16,14,6,9,10,5,ALSEN,19,20,0.90 
+2015,10,03,16:00,31337,ATB,dust2,ESL Polish Championship Season..,14,16,11,4,3,12,31337,18,20,1.01 
+2015,10,03,16:00,31337,ATB,cache,ESL Polish Championship Season..,16,10,9,6,7,4,31337,27,16,1.52 
+2015,10,03,16:00,ATB,31337,mirage,ESL Polish Championship Season..,25,23,6,9,9,6,31337,33,32,1.03 
+2015,10,03,13:00,CSGL,31337,cache,ESL Polish Championship Season..,16,13,8,7,8,6,31337,14,21,0.73 
+2015,10,03,13:00,CSGL,31337,mirage,ESL Polish Championship Season..,16,5,12,3,4,2,31337,11,17,0.65 
+2015,09,24,19:00,ATB,31337,cache,ESL Polish Championship Season..,10,16,3,12,7,4,31337,26,16,1.46 
+2015,09,24,19:00,31337,ATB,train,ESL Polish Championship Season..,16,6,9,6,7,0,31337,22,10,1.60 
+2015,09,16,20:00,Distinct5,31337,mirage,ESL Polish Championship Season..,3,16,3,12,0,4,31337,14,11,1.14 
+2015,09,16,20:00,31337,Distinct5,cache,ESL Polish Championship Season..,19,17,4,11,11,4,31337,26,21,1.09 
+2015,09,09,20:00,31337,ATB,dust2,ESL Polish Championship Season..,10,16,9,6,1,10,31337,18,25,0.81 
+2015,09,09,20:00,ATB,31337,mirage,ESL Polish Championship Season..,10,16,5,10,5,6,31337,25,18,1.28 
+2015,09,09,20:00,31337,ATB,cache,ESL Polish Championship Season..,9,16,3,12,6,4,31337,13,21,0.66 
+2014,10,15,20:00,AMNESIA,HAXCON,cobblestone,ESL Pro Series Poland Season 9,12,16,6,9,6,7,HAXCON,15,21,0.70 
+2014,10,12,20:15,eliminacja,HAXCON,dust2,ESL Pro Series Poland Season 9,8,16,3,12,5,4,HAXCON,16,17,0.94 
+2014,10,08,22:00,ePlay,HAXCON,cobblestone,ESL Pro Series Poland Season 9,16,2,14,1,2,1,HAXCON,9,17,0.50 
+2014,10,01,22:00,noMERCY,HAXCON,mirage,ESL Pro Series Poland Season 9,16,5,12,3,4,2,HAXCON,12,17,0.66 
+2014,09,28,19:00,ESC,HAXCON,nuke,ESL Pro Series Poland Season 9,16,8,11,4,5,4,HAXCON,20,20,1.19 

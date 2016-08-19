@@ -1,0 +1,12 @@
+2016,06,05,12:00,KILLERFISH,Tricked,cobblestone,DreamHack ZOWIE Open Summer 20..,5,16,4,11,1,5,KILLERFISH,11,16,0.71 
+2016,06,05,12:00,Tricked,KILLERFISH,train,DreamHack ZOWIE Open Summer 20..,16,11,9,6,7,5,KILLERFISH,17,18,0.93 
+2016,06,04,18:30,KILLERFISH,TEAM1231,cobblestone,DreamHack ZOWIE Open Summer 20..,16,7,11,4,5,3,KILLERFISH,19,10,1.28 
+2015,09,23,21:35,KILLERFISH,uX,cache,99Damage League Season 1,16,10,10,5,6,5,uX,16,16,1.07 
+2015,09,23,21:35,KILLERFISH,uX,train,99Damage League Season 1,16,3,13,2,3,1,uX,10,17,0.59 
+2015,09,15,21:00,uX,Caseking,train,99Damage League Season 1,16,7,11,4,5,3,uX,23,12,1.53 
+2015,09,15,21:00,uX,Caseking,cache,99Damage League Season 1,16,6,12,3,4,3,uX,22,8,1.59 
+2015,09,08,19:00,Planetkey,uX,cache,99Damage League Season 1,16,11,11,4,5,7,uX,20,20,1.11 
+2015,09,01,21:00,uX,myKPV,cache,99Damage League Season 1,16,11,8,7,8,4,uX,19,13,1.18 
+2015,09,01,21:00,uX,myKPV,mirage,99Damage League Season 1,5,16,3,12,2,4,uX,11,19,0.54 
+2015,08,25,21:45,uX,PENTA,dust2,99Damage League Season 1,2,16,2,13,0,3,uX,7,14,0.54 
+2015,08,25,21:45,PENTA,uX,mirage,99Damage League Season 1,19,17,7,8,8,7,uX,21,25,0.85 

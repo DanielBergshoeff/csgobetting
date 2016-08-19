@@ -1,0 +1,5 @@
+2015,04,28,20:00,UnitedEstonia,GLG,inferno,ESL UK Premiership Season 1,16,14,7,8,9,6,GLG,16,21,0.75 
+2015,04,28,20:00,GLG,UnitedEstonia,cache,ESL UK Premiership Season 1,7,16,5,10,2,6,GLG,12,19,0.65 
+2015,04,27,20:00,Infused,GLG,nuke,ESL UK Premiership Season 1,16,4,12,3,4,1,GLG,13,17,0.90 
+2015,04,27,20:00,Infused,GLG,dust2,ESL UK Premiership Season 1,16,14,5,10,11,4,GLG,21,22,0.98 
+2015,04,27,20:00,GLG,Infused,cache,ESL UK Premiership Season 1,16,14,9,6,7,8,GLG,15,20,0.79 

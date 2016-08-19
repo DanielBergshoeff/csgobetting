@@ -1,0 +1,58 @@
+2015,08,14,03:00,Nexus,Swarm,mirage,CS Select #24,11,16,7,8,4,8,Nexus,20,19,1.10 
+2015,08,14,03:00,Nexus,Swarm,cobblestone,CS Select #24,10,16,7,8,3,8,Nexus,18,20,0.95 
+2015,06,23,02:00,ACE,Luminosity,mirage,ESL ESEA Pro League Season 1,8,16,5,10,3,6,ACE,14,21,0.71 
+2015,06,21,03:15,ACE,Nihilum,cobblestone,ESL ESEA Pro League Season 1,14,16,6,9,8,7,ACE,24,21,1.15 
+2015,06,21,02:30,KeydStars,ACE,inferno,ESL ESEA Pro League Season 1,16,3,12,3,4,0,ACE,7,16,0.50 
+2015,06,21,00:00,Method,ACE,dust2,ESL ESEA Pro League Season 1,22,19,10,5,5,10,ACE,33,30,1.12 
+2015,06,18,04:45,Liquid,ACE,train,ESL ESEA Pro League Season 1,16,2,15,0,1,2,ACE,6,18,0.31 
+2015,06,18,02:00,ACE,Liquid,dust2,CEVO Professional Season 7,5,16,4,11,1,5,ACE,12,20,0.71 
+2015,06,18,02:00,ACE,Liquid,train,CEVO Professional Season 7,12,16,8,7,4,9,ACE,23,24,1.09 
+2015,06,12,03:00,CLG,ACE,mirage,ESL ESEA Pro League Season 1,16,2,13,2,3,0,ACE,7,17,0.56 
+2015,06,11,02:00,ACE,TempoStorm,overpass,ESL ESEA Pro League Season 1,9,16,3,12,6,4,ACE,14,22,0.64 
+2015,06,09,03:00,ACE,affNity,cache,ESL ESEA Pro League Season 1,2,16,2,13,0,3,ACE,6,17,0.45 
+2015,06,04,04:30,WinOut.net,ACE,mirage,RGN Pro Series NA Closed Quali..,14,16,9,6,5,10,ACE,17,22,0.79 
+2015,06,04,04:30,ACE,WinOut.net,overpass,RGN Pro Series NA Closed Quali..,14,16,7,8,7,8,ACE,13,20,0.69 
+2015,06,04,04:30,WinOut.net,ACE,inferno,RGN Pro Series NA Closed Quali..,7,16,5,10,2,6,ACE,22,13,1.46 
+2015,06,03,04:15,LunatiK,ACE,inferno,CEVO Professional Season 7,16,8,9,6,7,2,ACE,16,21,0.78 
+2015,06,03,04:15,LunatiK,ACE,dust2,CEVO Professional Season 7,16,9,11,4,5,5,ACE,14,18,0.74 
+2015,06,02,05:00,mouseSpaz,ACE,train,ESL ESEA Pro League Season 1,16,5,10,5,6,0,ACE,18,18,0.97 
+2015,06,02,04:00,ACE,Cloud9,cobblestone,ESL ESEA Pro League Season 1,3,16,3,12,0,4,ACE,8,18,0.46 
+2015,06,01,01:00,ACE,Nihilum,cobblestone,FACEIT League 2015 Stage 2 NA ..,10,16,5,10,5,6,ACE,18,20,0.95 
+2015,06,01,01:00,Nihilum,ACE,cache,FACEIT League 2015 Stage 2 NA ..,11,16,8,7,3,9,ACE,23,19,1.19 
+2015,06,01,01:00,ACE,Nihilum,inferno,FACEIT League 2015 Stage 2 NA ..,7,16,3,12,4,4,ACE,11,18,0.60 
+2015,05,29,04:15,SKDC,ACE,inferno,CEVO Professional Season 7,16,8,14,1,2,7,ACE,10,16,0.64 
+2015,05,29,04:15,SKDC,ACE,mirage,CEVO Professional Season 7,16,11,12,3,4,8,ACE,14,18,0.77 
+2015,05,29,02:00,eLevate,ACE,dust2,ESL ESEA Pro League Season 1,16,7,8,7,8,0,ACE,14,21,0.81 
+2015,05,28,04:15,TempoStorm,ACE,dust2,FACEIT League 2015 Stage 2 NA ..,13,16,9,6,4,10,ACE,23,19,1.12 
+2015,05,28,04:15,TempoStorm,ACE,inferno,FACEIT League 2015 Stage 2 NA ..,8,16,8,7,0,9,ACE,24,14,1.54 
+2015,05,27,02:00,ACE,Nihilum,mirage,CEVO Professional Season 7,8,16,5,10,3,6,ACE,23,17,1.23 
+2015,05,27,02:00,Nihilum,ACE,cobblestone,CEVO Professional Season 7,16,3,12,3,4,0,ACE,8,17,0.56 
+2015,05,26,01:30,SinisterGG,ACE,inferno,FACEIT League 2015 Stage 2 NA ..,8,16,5,10,3,6,ACE,13,16,0.80 
+2015,05,26,01:30,SinisterGG,ACE,cache,FACEIT League 2015 Stage 2 NA ..,13,16,2,13,11,3,ACE,30,18,1.51 
+2015,05,25,03:00,Liquid,ACE,cache,ESL ESEA Pro League Season 1,16,6,10,5,6,1,ACE,10,19,0.52 
+2015,05,25,02:00,Luminosity,ACE,inferno,ESL ESEA Pro League Season 1,16,5,11,4,5,1,ACE,10,17,0.66 
+2015,05,22,02:00,ACE,Nihilum,mirage,ESL ESEA Pro League Season 1,9,16,4,11,5,5,ACE,17,19,0.98 
+2015,05,19,04:15,affNity,ACE,cobblestone,ESL ESEA Pro League Season 1,10,16,8,7,2,9,ACE,20,18,1.07 
+2015,05,19,02:00,ACE,mouseSpaz,inferno,ESL ESEA Pro League Season 1,16,3,12,3,4,0,ACE,18,7,1.52 
+2015,05,16,02:30,NobleHonor,ACE,dust2,CS Select #12,7,16,5,10,2,6,ACE,23,9,1.61 
+2015,05,16,02:30,NobleHonor,ACE,cache,CS Select #12,14,16,7,8,7,8,ACE,24,19,1.10 
+2015,05,16,02:30,ACE,NobleHonor,inferno,CS Select #12,16,3,12,3,4,0,ACE,8,9,0.81 
+2015,05,15,04:15,ACE,affNity,cache,CEVO Professional Season 7,17,19,9,6,6,9,ACE,25,26,0.94 
+2015,05,15,04:15,ACE,affNity,dust2,CEVO Professional Season 7,6,16,2,13,4,3,ACE,13,18,0.80 
+2015,05,13,05:00,KeydStars,ACE,inferno,ESL ESEA Pro League Season 1,16,11,6,9,10,2,ACE,16,21,0.87 
+2015,05,13,04:00,eLevate,ACE,train,ESL ESEA Pro League Season 1,16,1,14,1,2,0,ACE,5,17,0.28 
+2015,05,12,04:15,ACE,Method,overpass,CEVO Professional Season 7,6,16,6,9,0,7,ACE,19,17,1.17 
+2015,05,12,04:15,Method,ACE,mirage,CEVO Professional Season 7,16,12,6,9,10,3,ACE,19,20,0.95 
+2015,05,11,05:15,Cloud9,ACE,inferno,CEVO Professional Season 7,16,5,12,3,4,2,ACE,7,20,0.32 
+2015,05,11,05:15,ACE,Cloud9,overpass,CEVO Professional Season 7,14,16,9,6,5,10,ACE,18,20,0.89 
+2015,05,09,02:00,LunatiK,ACE,cache,CS Select #11,10,16,10,5,0,11,ACE,25,16,1.34 
+2015,05,09,02:00,ACE,LunatiK,inferno,CS Select #11,16,10,12,3,4,7,ACE,28,13,1.80 
+2015,05,09,02:00,LunatiK,ACE,dust2,CS Select #11,4,16,4,11,0,5,ACE,18,9,1.37 
+2015,05,08,04:15,vVv,ACE,inferno,CEVO Professional Season 7,14,16,10,5,4,11,ACE,20,21,0.90 
+2015,05,08,04:15,ACE,vVv,cache,CEVO Professional Season 7,14,16,7,8,7,8,ACE,15,24,0.70 
+2015,05,06,02:00,ACE,TempoStorm,dust2,ESL ESEA Pro League Season 1,6,16,1,14,5,2,ACE,7,19,0.43 
+2015,05,05,03:00,CLG,ACE,overpass,ESL ESEA Pro League Season 1,16,1,14,1,2,0,ACE,10,17,0.63 
+2015,05,05,01:00,ACE,CLG,inferno,CEVO Professional Season 7,10,16,8,7,2,9,ACE,14,21,0.72 
+2015,05,05,01:00,CLG,ACE,dust2,CEVO Professional Season 7,16,10,12,3,4,7,ACE,9,21,0.49 
+2015,04,29,02:00,SKDC,vVv,inferno,CEVO Professional Season 7,13,16,6,9,7,7,SKDC,26,19,1.39 
+2015,04,29,02:00,vVv,SKDC,cache,CEVO Professional Season 7,16,7,9,6,7,1,SKDC,21,17,1.18 

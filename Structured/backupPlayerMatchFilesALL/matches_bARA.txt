@@ -1,0 +1,21 @@
+2014,10,06,20:00,es4x,Faith,dust2,CIS Rising League Season 1,18,21,8,7,7,8,es4x,7,16,0.65 
+2014,09,23,19:00,EZpeezy,k1ck,dust2,Fragbite Masters Season 3 Qual..,9,16,3,12,6,4,EZpeezy,17,21,0.84 
+2014,08,06,20:00,Nostalgie,ESG!,mirage,SLTV StarSeries X,9,16,7,8,2,8,Nostalgie,17,21,0.81 
+2014,07,29,22:25,Nostalgie,Reason,inferno,SLTV StarSeries X,16,6,10,5,6,1,Nostalgie,24,11,1.54 
+2014,07,29,19:00,fnatic,Nostalgie,mirage,SLTV StarSeries X,14,16,10,5,4,11,Nostalgie,22,22,0.97 
+2014,07,15,21:00,Epsilon,Nostalgie,mirage,SLTV StarSeries X,16,7,13,2,3,5,Nostalgie,20,18,1.23 
+2014,07,15,20:00,OverGaming,Nostalgie,mirage,SLTV StarSeries X,16,5,10,5,6,0,Nostalgie,7,18,0.42 
+2014,07,15,19:00,Nostalgie,LDLC,dust2,SLTV StarSeries X,1,16,1,14,0,2,Nostalgie,6,17,0.29 
+2014,07,10,21:00,OnlineBOTS,Nostalgie,train,SLTV StarSeries X,16,6,11,4,5,2,Nostalgie,12,17,0.72 
+2014,07,09,20:00,Virtus.pro,Nostalgie,mirage,SLTV StarSeries X,16,6,10,5,6,1,Nostalgie,6,19,0.34 
+2014,07,09,19:00,ESC,Nostalgie,mirage,SLTV StarSeries X,16,7,10,5,6,2,Nostalgie,7,20,0.39 
+2014,07,07,21:20,HellRaisers,Nostalgie,dust2,SLTV StarSeries X,16,8,9,6,7,2,Nostalgie,12,20,0.60 
+2014,07,06,20:20,mousesports,Nostalgie,mirage,SLTV StarSeries X,16,3,12,3,4,0,Nostalgie,5,18,0.26 
+2014,06,19,21:00,Faith,Nostalgie,cache,CIS Rising League Season 1,11,16,8,7,3,9,Nostalgie,29,17,1.54 
+2014,06,19,21:00,Nostalgie,Faith,dust2,CIS Rising League Season 1,16,3,12,3,4,0,Nostalgie,25,8,1.97 
+2014,06,19,21:00,Faith,Nostalgie,inferno,CIS Rising League Season 1,16,4,11,4,5,0,Nostalgie,11,18,0.63 
+2014,05,05,19:00,Nostalgie,FlipSid3,dust2,SLTV ProSeries IX,16,9,8,7,8,2,Nostalgie,18,14,1.05 
+2014,05,05,19:00,FlipSid3,Nostalgie,inferno,SLTV ProSeries IX,14,16,6,9,8,7,Nostalgie,16,23,0.73 
+2014,05,05,19:00,FlipSid3,Nostalgie,mirage,SLTV ProSeries IX,16,8,10,5,6,3,Nostalgie,19,17,1.12 
+2014,04,29,18:00,Nostalgie,USSR,mirage,SLTV ProSeries IX,15,19,10,5,5,10,Nostalgie,16,25,0.66 
+2014,04,29,18:00,USSR,Nostalgie,dust2,SLTV ProSeries IX,16,3,12,3,4,0,Nostalgie,11,18,0.59 

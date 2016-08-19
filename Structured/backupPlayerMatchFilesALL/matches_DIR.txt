@@ -1,0 +1,11 @@
+2015,12,19,06:00,GANK,AllGamers,overpass,SL i-League StarSeries XIV Chi..,10,16,6,9,4,7,GANK,19,16,1.15 
+2015,12,19,06:00,AllGamers,GANK,mirage,SL i-League StarSeries XIV Chi..,13,16,5,10,8,6,GANK,27,16,1.36 
+2015,12,19,06:00,GANK,AllGamers,cache,SL i-League StarSeries XIV Chi..,6,16,3,12,3,4,GANK,14,19,0.72 
+2015,12,18,06:30,Dictionary,GANK,dust2,SL i-League StarSeries XIV Chi..,4,16,4,11,0,5,GANK,23,11,1.62 
+2015,12,18,06:30,GANK,Dictionary,mirage,SL i-League StarSeries XIV Chi..,16,5,10,5,6,0,GANK,19,11,1.42 
+2015,12,17,08:30,GANK,AllGamers,mirage,SL i-League StarSeries XIV Chi..,10,16,7,8,3,8,GANK,12,19,0.65 
+2015,12,17,08:30,AllGamers,GANK,cache,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,GANK,7,18,0.32 
+2015,12,06,16:00,GANK,pow,cache,SL i-League StarSeries XIV,16,1,14,1,2,0,GANK,21,9,1.86 
+2015,12,06,16:00,GANK,pow,cobblestone,SL i-League StarSeries XIV,16,5,13,2,3,3,GANK,21,9,1.61 
+2015,12,02,15:00,GANK,VariousArtists,cache,SL i-League StarSeries XIV,16,13,7,8,9,5,GANK,29,16,1.52 
+2015,12,02,15:00,VariousArtists,GANK,cobblestone,SL i-League StarSeries XIV,5,16,4,11,1,5,GANK,14,11,1.06 

@@ -1,0 +1,2 @@
+2016,08,12,13:00,Supremacy,Skyfire,cache,ESEA Open Season 22 Oceania,2,16,2,13,0,3,Supremacy,4,16,0.28 
+2016,08,12,13:00,Skyfire,Supremacy,train,ESEA Open Season 22 Oceania,16,10,7,8,9,2,Supremacy,17,21,0.90 

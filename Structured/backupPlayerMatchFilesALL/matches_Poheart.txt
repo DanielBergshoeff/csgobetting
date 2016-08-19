@@ -1,0 +1,6 @@
+2016,07,01,11:00,India,HongKong,cache,World Championships 2016 Asian..,6,16,4,11,2,5,Hong Kong,15,12,1.02 
+2016,07,01,11:00,HongKong,India,mirage,World Championships 2016 Asian..,16,8,9,6,7,2,Hong Kong,15,13,0.99 
+2016,06,27,15:00,Taiwan,HongKong,cache,World Championships 2016 Asian..,4,16,4,11,0,5,Hong Kong,19,8,1.43 
+2016,06,27,15:00,HongKong,Taiwan,mirage,World Championships 2016 Asian..,16,6,9,6,7,0,Hong Kong,22,12,1.50 
+2016,06,22,11:00,SriLanka,HongKong,dust2,World Championships 2016 Asian..,6,16,4,11,2,5,Hong Kong,16,11,1.12 
+2016,06,22,11:00,HongKong,SriLanka,mirage,World Championships 2016 Asian..,16,2,14,1,2,1,Hong Kong,16,6,1.51 

@@ -1,0 +1,2 @@
+2015,08,16,20:15,Aperture,Veneration,mirage,Fight Night: Season I,16,2,13,2,3,0,Veneration,13,16,0.89 
+2015,08,16,20:15,Aperture,Veneration,inferno,Fight Night: Season I,16,6,10,5,6,1,Veneration,7,19,0.46 

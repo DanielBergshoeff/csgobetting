@@ -1,0 +1,32 @@
+2016,08,10,16:00,Serbia,Malta,train,World Championships 2016 Europ..,16,4,13,2,3,2,Serbia,8,8,0.94 
+2016,08,10,16:00,Malta,Serbia,cache,World Championships 2016 Europ..,4,16,1,14,3,2,Serbia,5,4,1.04 
+2016,07,16,09:35,GamePub,faithIN,cache,GamePub 2016,11,16,6,9,5,7,GamePub,13,23,0.61 
+2016,07,16,09:35,GamePub,faithIN,mirage,GamePub 2016,16,1,14,1,2,0,GamePub,16,6,1.55 
+2016,07,16,09:35,GamePub,faithIN,dust2,GamePub 2016,5,16,4,11,1,5,GamePub,11,17,0.62 
+2016,03,31,20:15,Pixel,iNation,mirage,Balkan Championship Season 3,16,11,9,6,7,5,iNation,9,18,0.57 
+2015,11,17,22:00,DICKHOUSE,CSGO-Saloon,cache,D!ngIT $2000 Weekly Cup #26,16,9,9,6,7,3,CSGO-Saloon,12,21,0.58 
+2015,11,17,21:00,CSGO-Saloon,CeX,mirage,D!ngIT $2000 Weekly Cup #26,16,6,9,6,7,0,CSGO-Saloon,12,17,0.75 
+2015,11,17,17:30,CSGO-Saloon,malefiQ,inferno,D!ngIT $2000 Weekly Cup #26,16,9,10,5,6,4,CSGO-Saloon,18,14,1.19 
+2015,11,16,20:00,CeX,CSGO-Saloon,mirage,D!ngIT $2000 Weekly Cup #26,16,12,10,5,6,7,CSGO-Saloon,13,20,0.68 
+2015,11,16,20:00,CeX,CSGO-Saloon,dust2,D!ngIT $2000 Weekly Cup #26,16,9,10,5,6,4,CSGO-Saloon,12,19,0.67 
+2015,11,10,19:15,LDLCWhite,GRS.GP,inferno,Counter Pit League Season 2 Qu..,16,3,12,3,4,0,GRS.GP,7,18,0.47 
+2015,09,29,21:15,GRS.GP,mySemperFi,dust2,D!ngIT $2000 Weekly Cup #19,2,16,2,13,0,3,GRS.GP,7,15,0.53 
+2015,09,28,23:15,k1ck,GRS.GP,dust2,D!ngIT $2000 Weekly Cup #19,9,16,5,10,4,6,GRS.GP,17,16,1.00 
+2015,09,28,20:45,mySemperFi,GRS.GP,cache,D!ngIT $2000 Weekly Cup #19,16,5,11,4,5,1,GRS.GP,10,19,0.59 
+2015,09,28,20:45,mySemperFi,GRS.GP,dust2,D!ngIT $2000 Weekly Cup #19,16,8,9,6,7,2,GRS.GP,15,22,0.69 
+2015,09,08,10:30,E-frag.net,MiA,cache,Gaming Paradise 2015,16,4,12,3,4,1,MiA,5,19,0.28 
+2015,08,18,18:00,k1ck,GamePub,inferno,D!ngIT $2000 Weekly Cup #13,16,3,13,2,3,1,GamePub,10,16,0.63 
+2015,08,17,17:30,Games4ufe,GamePub,dust2,D!ngIT $2000 Weekly Cup #13,16,14,7,8,9,6,GamePub,18,22,0.82 
+2015,08,17,17:30,Games4ufe,GamePub,mirage,D!ngIT $2000 Weekly Cup #13,16,7,13,2,3,5,GamePub,9,19,0.49 
+2015,08,17,17:30,Games4ufe,GamePub,cache,D!ngIT $2000 Weekly Cup #13,9,16,3,12,6,4,GamePub,10,15,0.73 
+2015,06,03,21:00,TRICKED,JakeBube,mirage,Balkan Championship Season 2,16,7,11,4,5,3,Jake Bube,13,18,0.78 
+2015,06,03,21:00,JakeBube,TRICKED,cache,Balkan Championship Season 2,6,16,3,12,3,4,Jake Bube,12,20,0.64 
+2015,05,19,18:00,JakeBube,MiA,dust2,Balkan Championship Season 2,16,14,5,10,11,4,Jake Bube,27,18,1.41 
+2015,05,19,18:00,MiA,JakeBube,cache,Balkan Championship Season 2,16,8,11,4,5,4,Jake Bube,16,20,0.81 
+2015,05,19,18:00,MiA,JakeBube,inferno,Balkan Championship Season 2,11,16,7,8,4,8,Jake Bube,16,18,0.90 
+2015,05,17,19:00,TRICKED,JakeBube,mirage,Balkan Championship Season 2,16,12,9,6,7,6,Jake Bube,20,25,0.81 
+2015,05,17,19:00,JakeBube,TRICKED,inferno,Balkan Championship Season 2,6,16,6,9,0,7,Jake Bube,18,18,1.02 
+2014,05,25,18:00,iNation,SENSEi,mirage,Gaming Challenge 2014,16,6,11,4,5,2,SENSEi,9,19,0.56 
+2014,05,25,18:00,iNation,SENSEi,inferno,Gaming Challenge 2014,16,7,9,6,7,1,SENSEi,8,21,0.41 
+2014,05,25,13:00,SENSEi,HEADSHOTBG,mirage,Gaming Challenge 2014,12,16,5,10,7,6,SENSEi,12,22,0.55 
+2014,05,25,12:00,SENSEi,KOH,inferno,Gaming Challenge 2014,16,6,14,1,2,5,SENSEi,16,12,1.03 

@@ -1,0 +1,10 @@
+2016,07,15,11:30,KIYF,Wololos,mirage,DreamHack Valencia 2016,3,16,2,13,1,3,KIYF,8,18,0.43 
+2016,07,15,11:30,KIYF,Wololos,train,DreamHack Valencia 2016,6,16,3,12,3,4,KIYF,11,21,0.64 
+2015,12,06,15:00,overGame,x6tence,cobblestone,LVP Season 9 Division de Honor..,12,16,6,9,6,7,overGame,22,22,0.98 
+2015,12,06,15:00,overGame,x6tence,cache,LVP Season 9 Division de Honor..,16,8,8,7,8,1,overGame,11,15,0.74 
+2015,12,06,15:00,x6tence,overGame,mirage,LVP Season 9 Division de Honor..,16,7,14,1,2,6,overGame,19,21,0.96 
+2015,12,05,16:30,Play2Win,overGame,train,LVP Season 9 Division de Honor..,12,16,8,7,4,9,overGame,14,18,0.79 
+2015,12,05,16:30,Play2Win,overGame,overpass,LVP Season 9 Division de Honor..,6,16,3,12,3,4,overGame,16,10,1.24 
+2015,12,05,16:30,Play2Win,overGame,dust2,LVP Season 9 Division de Honor..,16,12,11,4,5,8,overGame,13,20,0.66 
+2015,12,05,12:00,gBots,overGame,cache,LVP Season 9 Division de Honor..,16,10,9,6,7,4,overGame,13,19,0.73 
+2015,12,04,17:30,Play2Win,overGame,cache,LVP Season 9 Division de Honor..,8,16,4,11,4,5,overGame,20,13,1.26 

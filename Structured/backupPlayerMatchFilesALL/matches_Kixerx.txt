@@ -1,0 +1,20 @@
+2016,08,04,10:00,EHOME,B.O.O.T,mirage,SL i-League S2 China Finals,12,16,4,11,8,5,EHOME,7,21,0.41 
+2016,08,04,10:00,EHOME,B.O.O.T,cobblestone,SL i-League S2 China Finals,16,2,13,2,3,0,EHOME,15,11,1.17 
+2016,08,04,10:00,EHOME,B.O.O.T,cache,SL i-League S2 China Finals,18,22,7,8,8,7,EHOME,26,35,0.83 
+2016,07,29,15:00,LGD,EHOME,overpass,SL i-League S2 China Qualifier,13,16,7,8,6,8,EHOME,21,20,0.96 
+2016,07,29,15:00,EHOME,LGD,mirage,SL i-League S2 China Qualifier,16,2,13,2,3,0,EHOME,16,8,1.45 
+2016,07,29,09:00,EHOME,5Love.N4,nuke,SL i-League S2 China Qualifier,16,9,10,5,6,4,EHOME,21,15,1.14 
+2016,07,29,09:00,5Love.N4,EHOME,train,SL i-League S2 China Qualifier,4,16,3,12,1,4,EHOME,16,12,1.23 
+2016,07,29,09:00,EHOME,5Love.N4,mirage,SL i-League S2 China Qualifier,14,16,6,9,8,7,EHOME,15,26,0.60 
+2016,07,20,09:00,EHOME,EDG,cobblestone,SL i-League S2 China Qualifier,16,7,12,3,4,4,EHOME,17,14,1.14 
+2016,07,20,09:00,EHOME,EDG,mirage,SL i-League S2 China Qualifier,16,9,8,7,8,2,EHOME,16,15,0.88 
+2016,06,22,13:00,EHOME,BornOfFire,dust2,WCA Season 2 China Qualifier,16,9,9,6,7,3,EHOME,30,15,1.72 
+2016,06,22,13:00,EHOME,BornOfFire,cobblestone,WCA Season 2 China Qualifier,19,16,8,7,7,8,EHOME,26,21,1.11 
+2016,06,19,08:00,LGD,EHOME,cobblestone,WCA Season 2 China Qualifier,6,16,2,13,4,3,EHOME,29,9,1.93 
+2016,06,19,08:00,LGD,EHOME,mirage,WCA Season 2 China Qualifier,16,7,11,4,5,3,EHOME,8,18,0.52 
+2016,06,17,11:00,EHOME,AllGamers,train,WCA Season 2 China Qualifier,16,4,11,4,5,0,EHOME,14,11,1.21 
+2016,06,17,11:00,EHOME,AllGamers,cobblestone,WCA Season 2 China Qualifier,16,9,10,5,6,4,EHOME,15,15,1.08 
+2015,11,30,15:20,verying,CyberZen,inferno,SL i-League StarSeries XIV,4,16,4,11,0,5,verying,11,17,0.70 
+2015,11,30,15:20,CyberZen,verying,cache,SL i-League StarSeries XIV,16,7,9,6,7,1,verying,9,19,0.47 
+2015,11,28,12:30,verying,AllGamers,cache,SL i-League StarSeries XIV,1,16,1,14,0,2,verying,9,17,0.54 
+2015,11,28,12:30,AllGamers,verying,inferno,SL i-League StarSeries XIV,16,3,12,3,4,0,verying,8,16,0.51 

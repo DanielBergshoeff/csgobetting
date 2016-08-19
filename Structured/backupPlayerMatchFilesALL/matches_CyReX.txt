@@ -1,0 +1,6 @@
+2015,12,19,17:30,CamelRiders,VivaAlgeria,inferno,AFKG MENA Championship,10,16,9,6,1,10,Camel Riders,6,24,0.30 
+2015,12,19,17:30,VivaAlgeria,CamelRiders,cobblestone,AFKG MENA Championship,9,16,4,11,5,5,Camel Riders,11,19,0.63 
+2015,12,19,17:30,CamelRiders,VivaAlgeria,cache,AFKG MENA Championship,9,16,6,9,3,7,Camel Riders,12,24,0.46 
+2015,12,18,23:10,CamelRiders,JustPassingBy,inferno,AFKG MENA Championship,16,5,10,5,6,0,Camel Riders,13,10,1.08 
+2015,12,18,23:10,JustPassingBy,CamelRiders,cobblestone,AFKG MENA Championship,16,10,10,5,6,5,Camel Riders,17,20,0.89 
+2015,12,18,23:10,CamelRiders,JustPassingBy,cache,AFKG MENA Championship,16,13,8,7,8,6,Camel Riders,17,26,0.71 

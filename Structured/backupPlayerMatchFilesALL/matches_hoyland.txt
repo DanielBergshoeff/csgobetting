@@ -1,0 +1,9 @@
+2016,05,08,14:30,PANTERS,demise,mirage,Telenor League Spring 2016,10,16,8,7,2,9,PANTERS,17,21,0.84 
+2016,05,08,14:30,PANTERS,demise,inferno,Telenor League Spring 2016,11,16,7,8,4,8,PANTERS,17,21,0.88 
+2016,04,23,17:20,deadweight,PANTERS,mirage,DreamHack Regional Minor Champ..,16,12,13,2,3,10,PANTERS,17,20,0.89 
+2015,08,29,20:50,Aspen,Reason,dust2,FACEIT League 2015 Stage 3 EU ..,8,16,5,10,3,6,Aspen,17,21,0.89 
+2014,11,05,19:00,Sweden,Norway,inferno,European Championship 2014,19,17,11,4,4,11,Norway,20,25,0.87 
+2014,11,05,19:00,Sweden,Norway,cache,European Championship 2014,16,14,7,8,9,6,Norway,21,22,1.02 
+2014,11,05,19:00,Norway,Sweden,mirage,European Championship 2014,22,20,11,4,4,11,Norway,28,30,0.89 
+2014,04,18,21:00,dignitas,H2k,inferno,Copenhagen Games 2014,16,11,12,3,4,8,H2k,14,20,0.73 
+2014,04,18,21:00,H2k,dignitas,mirage,Copenhagen Games 2014,9,16,6,9,3,7,H2k,22,21,1.07 

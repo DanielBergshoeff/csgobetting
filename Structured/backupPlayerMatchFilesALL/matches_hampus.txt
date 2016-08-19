@@ -1,0 +1,26 @@
+2016,08,07,19:05,AGG,passions,mirage,ECS Season 2 EU Open Qualifier..,16,9,9,6,7,3,passions,21,19,1.18 
+2016,08,07,17:25,passions,mixbanan,mirage,ECS Season 2 EU Open Qualifier..,16,8,10,5,6,3,passions,17,15,1.04 
+2016,08,07,16:25,aimclub,passions,mirage,ECS Season 2 EU Open Qualifier..,11,16,8,7,3,9,passions,19,20,0.99 
+2016,08,07,15:35,passions,HEADSHOTBG,mirage,ECS Season 2 EU Open Qualifier..,16,6,10,5,6,1,passions,14,15,0.95 
+2016,07,21,16:00,MK,Iwku,train,Razer Rising Stars European Le..,16,12,7,8,9,4,Iwku,23,23,1.10 
+2016,07,21,16:00,MK,Iwku,overpass,Razer Rising Stars European Le..,14,16,5,10,9,6,Iwku,19,20,1.01 
+2016,05,07,19:00,Dreamcity,TzatzikiKlubben,dust2,BirdieLAN 26,6,16,6,9,0,7,TzatzikiKlubben,20,16,1.17 
+2016,05,07,19:00,TzatzikiKlubben,Dreamcity,inferno,BirdieLAN 26,23,26,6,9,9,6,TzatzikiKlubben,24,35,0.74 
+2016,05,07,19:00,Dreamcity,TzatzikiKlubben,mirage,BirdieLAN 26,14,16,6,9,8,7,TzatzikiKlubben,19,22,0.82 
+2016,04,08,20:45,Epsilon,miMo,cobblestone,Yoggi Yalla Cup,16,11,9,6,7,5,miMo,15,21,0.71 
+2016,04,08,20:45,miMo,Epsilon,overpass,Yoggi Yalla Cup,5,16,5,10,0,6,miMo,11,19,0.63 
+2016,02,20,20:30,Games4u,TzatzikiKlubben,cobblestone,Nordic Masters Season 2 Finals,16,9,10,5,6,4,TzatzikiKlubben,23,19,1.17 
+2016,02,20,20:30,Games4u,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,16,14,6,9,10,5,TzatzikiKlubben,27,22,1.22 
+2016,02,20,20:30,Games4u,TzatzikiKlubben,cache,Nordic Masters Season 2 Finals,12,16,7,8,5,8,TzatzikiKlubben,25,17,1.42 
+2016,02,20,14:30,Raepmashaekel,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,16,5,12,3,4,2,TzatzikiKlubben,9,16,0.55 
+2016,02,20,14:30,TzatzikiKlubben,Raepmashaekel,inferno,Nordic Masters Season 2 Finals,6,16,3,12,3,4,TzatzikiKlubben,15,15,0.99 
+2016,02,20,11:00,Games4u,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,14,16,7,8,7,8,TzatzikiKlubben,24,19,1.12 
+2015,12,18,21:30,KoNDenmark,KoNSweden,inferno,King of Nordic Season 2,16,7,10,5,6,2,KoN Sweden,14,18,0.81 
+2015,12,11,21:30,KoNDenmark,KoNSweden,mirage,King of Nordic Season 2,8,16,5,10,3,6,KoN Sweden,25,13,1.66 
+2015,12,04,21:30,KoNSweden,KoNDenmark,inferno,King of Nordic Season 2,16,12,10,5,6,7,KoN Sweden,17,23,0.82 
+2015,11,20,21:45,KoNSweden,KoNDenmark,inferno,King of Nordic Season 2,16,12,6,9,10,3,KoN Sweden,8,21,0.48 
+2015,11,13,20:30,KoNSweden,KoNFinland,mirage,King of Nordic Season 2,16,12,7,8,9,4,KoN Sweden,20,17,1.17 
+2015,11,13,19:20,KoNNorway,KoNSweden,cache,King of Nordic Season 2,10,16,3,12,7,4,KoN Sweden,22,18,1.23 
+2015,10,09,21:45,Finland,Sweden,dust2,King of Nordic Season 2,16,5,13,2,3,3,Sweden,15,17,0.97 
+2015,10,09,20:30,Denmark,Sweden,mirage,King of Nordic Season 2,5,16,5,10,0,6,Sweden,15,12,1.11 
+2015,10,09,19:15,Norway,Sweden,inferno,King of Nordic Season 2,6,16,4,11,2,5,Sweden,16,14,1.19 

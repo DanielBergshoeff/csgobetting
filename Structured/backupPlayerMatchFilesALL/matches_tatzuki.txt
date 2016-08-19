@@ -1,0 +1,5 @@
+2016,07,22,19:00,Overpowered,Executors,dust2,King of Adria,21,16,10,5,5,10,Executors,20,25,0.84 
+2016,07,22,19:00,Overpowered,Executors,cache,King of Adria,12,16,5,10,7,6,Executors,16,20,0.79 
+2016,07,22,19:00,Overpowered,Executors,train,King of Adria,16,8,8,7,8,1,Executors,11,22,0.52 
+2016,07,16,18:50,CS-GO.rs,Executors,cobblestone,GamePub 2016,16,9,8,7,8,2,Executors,12,18,0.75 
+2016,07,16,18:50,CS-GO.rs,Executors,dust2,GamePub 2016,22,20,9,6,6,9,Executors,28,30,1.02 

@@ -1,0 +1,14 @@
+2016,08,09,19:00,Croatia,Georgia,cache,World Championships 2016 Europ..,16,10,11,4,5,6,Croatia,16,13,1.06 
+2016,08,09,19:00,Georgia,Croatia,overpass,World Championships 2016 Europ..,6,16,3,12,3,4,Croatia,12,12,0.91 
+2015,08,12,18:30,Cyprus,Croatia,inferno,World Championships 2015 Europ..,10,16,5,10,5,6,Croatia,26,13,1.58 
+2015,08,12,18:30,Croatia,Cyprus,cache,World Championships 2015 Europ..,16,13,9,6,7,7,Croatia,17,17,1.01 
+2015,08,12,18:30,Croatia,Cyprus,dust2,World Championships 2015 Europ..,12,16,5,10,7,6,Croatia,10,19,0.64 
+2015,05,11,20:00,Rock,GIANT5,dust2,Balkan Superleague,16,12,10,5,6,7,GIANT5,23,20,1.19 
+2015,05,08,21:15,GIANT5,RB,dust2,Balkan Superleague,15,15,6,9,9,6,GIANT5,14,20,0.76 
+2015,05,04,20:20,HEADSHOTBG,GIANT5,inferno,Balkan Superleague,16,5,11,4,5,1,GIANT5,10,18,0.54 
+2015,05,04,19:00,GIANT5,neXtPlease!,inferno,Balkan Superleague,13,16,5,10,8,6,GIANT5,23,23,1.01 
+2015,04,21,21:15,ENTiTY,GIANT5,cache,Balkan Superleague,16,6,11,4,5,2,GIANT5,12,17,0.69 
+2015,04,15,21:15,TRICKED,GIANT5,inferno,Balkan Superleague,16,8,9,6,7,2,GIANT5,13,18,0.73 
+2015,04,14,20:20,GPlay,GIANT5,inferno,Balkan Superleague,16,0,15,0,1,0,GIANT5,10,16,0.59 
+2014,08,12,21:00,Croatia,Belarus,mirage,European Championship 2014 Qua..,9,16,6,9,3,7,Croatia,10,24,0.44 
+2014,08,12,21:00,Croatia,Belarus,dust2,European Championship 2014 Qua..,3,16,1,14,2,2,Croatia,4,17,0.26 

@@ -1,0 +1,7 @@
+2016,08,09,03:30,ForceofNature,LDDM,overpass,ESEA Open Season 22 Brazil,16,10,10,5,6,5,LDDM,13,21,0.60 
+2016,08,09,03:30,ForceofNature,LDDM,dust2,ESEA Open Season 22 Brazil,9,16,4,11,5,5,LDDM,13,13,0.92 
+2016,08,09,03:30,ForceofNature,LDDM,mirage,ESEA Open Season 22 Brazil,16,14,7,8,9,6,LDDM,23,19,1.06 
+2016,06,05,18:55,seven,GODS.WIN,cache,Tuddinn LAN 2 | 2016,16,3,12,3,4,0,GODS.WIN,8,18,0.43 
+2016,06,05,18:55,seven,GODS.WIN,dust2,Tuddinn LAN 2 | 2016,16,0,15,0,1,0,GODS.WIN,6,16,0.39 
+2016,03,14,02:10,LDDM,CNB,train,Razer Rising Stars South Ameri..,14,16,10,5,4,11,LDDM,16,24,0.65 
+2016,03,13,23:00,LDDM,TSG,cobblestone,Razer Rising Stars South Ameri..,16,5,11,4,5,1,LDDM,21,11,1.47 

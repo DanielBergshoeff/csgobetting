@@ -1,0 +1,7 @@
+2015,10,03,08:00,DeToNator,RapturePlay,cache,JCG CS:GO Premier 2015 Summer,8,16,4,11,4,5,DeToNator,11,21,0.51 
+2015,10,03,08:00,RapturePlay,DeToNator,dust2,JCG CS:GO Premier 2015 Summer,22,19,6,9,9,6,DeToNator,19,29,0.68 
+2014,10,31,17:30,Cipangu.GO,mousesports,cache,ESWC 2014,4,16,3,12,1,4,Cipangu.GO,11,18,0.60 
+2014,10,31,15:30,GPlay,Cipangu.GO,nuke,ESWC 2014,16,2,15,0,1,2,Cipangu.GO,12,18,0.69 
+2014,10,31,12:40,Cipangu.GO,dignitas,nuke,ESWC 2014,9,16,9,6,0,10,Cipangu.GO,16,20,0.84 
+2014,10,31,11:30,3DMAX,Cipangu.GO,cache,ESWC 2014,16,2,13,2,3,0,Cipangu.GO,6,17,0.36 
+2014,10,31,10:30,Cipangu.GO,iBUYPOWER,inferno,ESWC 2014,1,16,1,14,0,2,Cipangu.GO,6,17,0.33 

@@ -1,0 +1,7 @@
+2016,06,09,12:15,Expendables,Signature,cache,MixBOT Pro-League Golden,10,16,4,11,6,5,Expendables,19,20,0.95 
+2016,06,09,12:15,Expendables,Signature,dust2,MixBOT Pro-League Golden,14,16,7,8,7,8,Expendables,15,23,0.69 
+2016,02,21,17:00,Threats,Expendables,inferno,Born To Win Invitational Leagu..,16,12,13,2,3,10,Expendables,16,21,0.85 
+2016,02,21,14:00,J2G,Expendables,dust2,Born To Win Invitational Leagu..,19,17,2,13,13,2,Expendables,19,26,0.76 
+2015,11,12,14:00,Insidious,Expendables,cache,D!ngIT CS:GO Asia Invitational..,16,8,8,7,8,1,Expendables,13,20,0.71 
+2015,11,12,14:00,Insidious,Expendables,cobblestone,D!ngIT CS:GO Asia Invitational..,16,10,7,8,9,2,Expendables,12,19,0.74 
+2015,08,11,18:30,Luxembourg,Spain,inferno,World Championships 2015 Europ..,7,16,4,11,3,5,Luxembourg,22,18,1.33 

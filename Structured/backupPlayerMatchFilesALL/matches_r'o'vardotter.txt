@@ -1,0 +1,4 @@
+2015,08,09,21:45,Propertyfe,LGBfe,mirage,NiP TV Female Challenge,4,16,4,11,0,5,Property fe,11,17,0.76 
+2015,08,09,21:45,Propertyfe,LGBfe,dust2,NiP TV Female Challenge,2,16,2,13,0,3,Property fe,5,14,0.45 
+2015,08,09,15:30,ex-meltyfe,Propertyfe,cache,NiP TV Female Challenge,16,14,7,8,9,6,Property fe,28,25,1.26 
+2015,08,09,15:30,Propertyfe,ex-meltyfe,mirage,NiP TV Female Challenge,7,16,7,8,0,8,Property fe,8,17,0.55 

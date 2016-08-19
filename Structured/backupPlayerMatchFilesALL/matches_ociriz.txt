@@ -1,0 +1,22 @@
+2016,05,20,20:45,KoNSweden,KoNFinland,mirage,King of Nordic Season 4,16,13,6,9,10,4,KoN Finland,20,23,0.99 
+2016,03,25,23:00,KoNSweden,KoNFinland,inferno,King of Nordic Season 3,16,12,12,3,4,9,KoN Finland,20,20,0.97 
+2016,03,18,22:30,KoNSweden,KoNFinland,dust2,King of Nordic Season 3,4,16,1,14,3,2,KoN Finland,12,13,0.96 
+2016,03,18,21:30,KoNNorway,KoNFinland,mirage,King of Nordic Season 3,12,16,7,8,5,8,KoN Finland,18,17,0.98 
+2016,03,04,22:30,KoNSweden,KoNFinland,dust2,King of Nordic Season 3,16,8,13,2,3,6,KoN Finland,17,20,0.92 
+2016,03,04,21:30,KoNFinland,KoNNorway,dust2,King of Nordic Season 3,16,3,13,2,3,1,KoN Finland,8,10,0.80 
+2016,03,04,20:15,KoNFinland,KoNDenmark,inferno,King of Nordic Season 3,16,6,11,4,5,2,KoN Finland,14,9,1.09 
+2014,08,02,12:30,Menace,Nostalgie,nuke,ASUS ROG Summer 2014,12,16,11,4,1,12,Menace,17,25,0.68 
+2014,08,02,12:30,Menace,Nostalgie,mirage,ASUS ROG Summer 2014,16,9,10,5,6,4,Menace,17,20,0.87 
+2014,08,02,12:30,Menace,Nostalgie,dust2,ASUS ROG Summer 2014,10,16,9,6,1,10,Menace,17,18,0.91 
+2014,07,31,19:35,Menace,TMVG,mirage,ASUS ROG Summer 2014,19,15,9,6,6,9,Menace,31,20,1.37 
+2014,07,31,18:30,Publiclir.se,Menace,mirage,ASUS ROG Summer 2014,16,13,9,6,7,7,Menace,11,21,0.55 
+2014,07,31,16:00,Menace,TMVG,dust2,ASUS ROG Summer 2014,19,16,8,7,7,8,Menace,26,24,1.06 
+2014,06,28,18:20,suNny'steam,duffman'steam,dust2,Areena #4 by SteelSeries,9,16,3,12,6,4,suNny's team,14,20,0.70 
+2014,06,28,16:35,suNny'steam,KIPSIk'steam,mirage,Areena #4 by SteelSeries,11,16,9,6,2,10,suNny's team,17,22,0.76 
+2014,06,28,16:35,suNny'steam,KIPSIk'steam,inferno,Areena #4 by SteelSeries,12,16,10,5,2,11,suNny's team,29,18,1.49 
+2014,06,28,14:45,dRiim'steam,suNny'steam,dust2,Areena #4 by SteelSeries,10,16,9,6,1,10,suNny's team,26,18,1.44 
+2014,06,28,14:05,suNny'steam,Twista'steam,mirage,Areena #4 by SteelSeries,16,3,13,2,3,1,suNny's team,17,12,1.20 
+2014,06,28,13:10,KIPSIk'steam,suNny'steam,dust2,Areena #4 by SteelSeries,16,14,6,9,10,5,suNny's team,23,19,1.04 
+2014,06,28,12:00,shaker'steam,suNny'steam,inferno,Areena #4 by SteelSeries,10,16,8,7,2,9,suNny's team,19,15,1.16 
+2014,06,28,11:15,suNny'steam,duffman'steam,inferno,Areena #4 by SteelSeries,16,7,9,6,7,1,suNny's team,19,13,1.30 
+2014,06,28,09:45,suNny'steam,allu'steam,dust2,Areena #4 by SteelSeries,11,16,4,11,7,5,suNny's team,10,21,0.60 

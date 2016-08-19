@@ -1,0 +1,4 @@
+2015,11,14,11:00,LCStaff,NiPStaff,cache,Virtus.pro Staff Cup #3,19,16,11,4,4,11,NiP Staff,16,26,0.62 
+2015,11,14,11:00,LCStaff,NiPStaff,mirage,Virtus.pro Staff Cup #3,16,4,11,4,5,0,NiP Staff,14,17,0.82 
+2015,11,13,16:00,NiPStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,12,16,5,10,7,6,NiP Staff,19,24,0.91 
+2015,11,13,16:00,NiPStaff,E-frag.netStaff,mirage,Virtus.pro Staff Cup #3,11,16,7,8,4,8,NiP Staff,11,24,0.50 

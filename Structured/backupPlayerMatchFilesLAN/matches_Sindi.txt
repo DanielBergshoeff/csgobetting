@@ -1,0 +1,9 @@
+2016,07,17,11:30,Reasonfe,EYESportsfe,overpass,StarLadder Female Stars Champi..,16,8,8,7,8,1,EYESports fe,14,18,0.81 
+2016,07,17,11:30,EYESportsfe,Reasonfe,cobblestone,StarLadder Female Stars Champi..,6,16,4,11,2,5,EYESports fe,10,16,0.63 
+2016,07,17,11:30,EYESportsfe,Reasonfe,train,StarLadder Female Stars Champi..,16,10,13,2,3,8,EYESports fe,17,20,0.82 
+2016,07,16,14:45,Secretfe,EYESportsfe,train,StarLadder Female Stars Champi..,16,9,12,3,4,6,EYESports fe,15,21,0.82 
+2016,07,16,14:45,EYESportsfe,Secretfe,cobblestone,StarLadder Female Stars Champi..,8,16,3,12,5,4,EYESports fe,21,20,1.18 
+2016,07,16,14:45,Secretfe,EYESportsfe,mirage,StarLadder Female Stars Champi..,14,16,8,7,6,9,EYESports fe,18,21,0.82 
+2014,10,30,18:15,Karma,ACESLadies,mirage,ESWC 2014 Female,16,14,8,7,8,7,ACES Ladies,24,21,1.18 
+2014,10,30,17:00,ACESLadies,3DMAXfe,inferno,ESWC 2014 Female,8,16,8,7,0,9,ACES Ladies,17,20,0.99 
+2014,10,30,15:30,ALTERNATEfe,ACESLadies,nuke,ESWC 2014 Female,9,16,8,7,1,9,ACES Ladies,25,20,1.25 

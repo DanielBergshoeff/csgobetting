@@ -1,0 +1,15 @@
+2016,05,20,21:30,Selfless,WinOut,cobblestone,MLG Regional Minor Championshi..,16,14,6,9,10,5,WinOut,18,21,0.80 
+2016,05,20,21:30,WinOut,Selfless,cache,MLG Regional Minor Championshi..,16,6,9,6,7,0,WinOut,21,11,1.55 
+2016,05,20,21:30,WinOut,Selfless,dust2,MLG Regional Minor Championshi..,6,16,3,12,3,4,WinOut,14,20,0.68 
+2016,05,20,00:20,Winterfox,WinOut,cobblestone,MLG Regional Minor Championshi..,12,16,7,8,5,8,WinOut,26,21,1.29 
+2016,05,19,20:30,WinOut,OpTic,train,MLG Regional Minor Championshi..,2,16,2,13,0,3,WinOut,5,17,0.28 
+2016,01,10,20:00,Luminosity,KeydStars,cobblestone,MAX5 Invitational,16,11,14,1,2,10,Keyd Stars,20,21,1.08 
+2016,01,10,20:00,KeydStars,Luminosity,mirage,MAX5 Invitational,2,16,2,13,0,3,Keyd Stars,7,17,0.40 
+2016,01,10,20:00,Luminosity,KeydStars,cache,MAX5 Invitational,16,4,12,3,4,1,Keyd Stars,14,17,0.88 
+2016,01,09,14:45,KeydStars,g3x,cobblestone,MAX5 Invitational,16,10,9,6,7,4,Keyd Stars,22,16,1.13 
+2016,01,09,14:45,g3x,KeydStars,inferno,MAX5 Invitational,16,12,12,3,4,9,Keyd Stars,18,22,0.92 
+2016,01,09,14:45,KeydStars,g3x,cache,MAX5 Invitational,16,14,8,7,8,7,Keyd Stars,24,22,1.20 
+2016,01,08,21:45,Gathers,KeydStars,cache,MAX5 Invitational,11,16,9,6,2,10,Keyd Stars,14,19,0.74 
+2016,01,08,14:30,GamesAcademy,KeydStars,dust2,MAX5 Invitational,15,15,5,10,10,5,Keyd Stars,19,24,0.83 
+2016,01,07,20:15,KeydStars,AlienTech,cache,MAX5 Invitational,16,8,10,5,6,3,Keyd Stars,23,12,1.55 
+2016,01,06,21:00,NTN,KeydStars,inferno,MAX5 Invitational,9,16,4,11,5,5,Keyd Stars,18,16,1.01 

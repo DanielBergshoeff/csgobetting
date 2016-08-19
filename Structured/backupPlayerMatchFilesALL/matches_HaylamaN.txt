@@ -1,0 +1,5 @@
+2016,04,29,22:10,aTw,AIMERZZ,mirage,Rising Stars Africa Promotiona..,4,16,3,12,1,4,aTw,14,18,0.81 
+2016,04,29,22:10,aTw,AIMERZZ,cobblestone,Rising Stars Africa Promotiona..,10,16,4,11,6,5,aTw,22,15,1.25 
+2016,04,27,20:45,Infire,aTw,cache,Rising Stars Africa Promotiona..,14,16,4,11,10,5,aTw,32,22,1.50 
+2016,04,27,20:45,aTw,Infire,mirage,Rising Stars Africa Promotiona..,13,16,4,11,9,5,aTw,17,19,0.89 
+2016,04,27,20:45,Infire,aTw,dust2,Rising Stars Africa Promotiona..,9,16,6,9,3,7,aTw,22,15,1.27 

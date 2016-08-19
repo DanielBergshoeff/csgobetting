@@ -1,0 +1,13 @@
+2015,12,10,12:00,Legacy,Exile5,cobblestone,Counter Pit League Season 2,16,13,8,7,8,6,Exile5,13,19,0.66 
+2015,12,09,12:00,Exile5,VoxEminor,mirage,Counter Pit League Season 2,4,16,4,11,0,5,Exile5,9,18,0.52 
+2015,12,09,12:00,Exile5,VoxEminor,dust2,Counter Pit League Season 2,4,16,2,13,2,3,Exile5,13,18,0.74 
+2015,12,08,12:00,Chiefs,Exile5,train,Counter Pit League Season 2,16,8,13,2,3,6,Exile5,12,18,0.84 
+2015,12,08,12:00,Chiefs,Exile5,mirage,Counter Pit League Season 2,16,13,9,6,7,7,Exile5,11,24,0.48 
+2015,12,06,12:00,Exile5,TRIDENT,mirage,Counter Pit League Season 2,16,14,8,7,8,7,Exile5,14,22,0.65 
+2015,12,06,12:00,Exile5,TRIDENT,cobblestone,Counter Pit League Season 2,16,12,5,10,11,2,Exile5,18,19,0.90 
+2015,12,03,11:00,Immunity,Exile5,overpass,Counter Pit League Season 2,5,16,3,12,2,4,Exile5,15,10,1.16 
+2015,12,03,11:00,Exile5,Immunity,cobblestone,Counter Pit League Season 2,10,16,3,12,7,4,Exile5,15,22,0.72 
+2015,03,29,12:00,TRIDENT,Chiefs,cache,FACEIT League 2015 Stage 1,10,16,6,9,4,7,TRIDENT,15,22,0.74 
+2015,03,22,12:00,TRIDENT,Immunity,dust2,FACEIT League 2015 Stage 1,11,16,5,10,6,6,TRIDENT,13,21,0.65 
+2015,03,01,11:00,VoxEminor,TRIDENT,cache,FACEIT League 2015 Stage 1,16,0,15,0,1,0,TRIDENT,4,16,0.21 
+2015,02,22,10:00,TRIDENT,AVANTGARDE,dust2,FACEIT League 2015 Stage 1,15,21,12,3,3,12,TRIDENT,25,25,1.06 

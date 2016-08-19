@@ -1,0 +1,6 @@
+2016,08,11,19:00,Montenegro,Italy,mirage,World Championships 2016 Europ..,16,8,13,2,3,6,Italy,14,19,0.80 
+2016,08,11,19:00,Italy,Montenegro,cache,World Championships 2016 Europ..,9,16,5,10,4,6,Italy,17,22,0.76 
+2016,03,15,23:00,ExAequo,EasyFix,cache,Personal Gamer,16,8,10,5,6,3,ExAequo,20,15,1.24 
+2016,03,15,23:00,ExAequo,EasyFix,train,Personal Gamer,16,12,6,9,10,3,ExAequo,21,21,0.91 
+2014,08,28,21:02,Italy,Belarus,nuke,European Championship 2014 Qua..,4,16,4,11,0,5,Italy,5,19,0.28 
+2014,08,28,21:00,Italy,Belarus,dust2,European Championship 2014 Qua..,7,16,6,9,1,7,Italy,9,20,0.48 

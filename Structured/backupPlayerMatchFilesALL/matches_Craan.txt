@@ -1,0 +1,11 @@
+2015,02,22,19:00,EternalConflict,eNergy,inferno,Battle for the Throne,6,16,5,10,1,6,Eternal Conflict,12,19,0.78 
+2015,02,22,19:00,EternalConflict,eNergy,cache,Battle for the Throne,4,16,4,11,0,5,Eternal Conflict,8,18,0.47 
+2015,02,19,20:45,EternalConflict,Bravado,cache,Battle for the Throne,21,16,8,7,7,8,Eternal Conflict,23,28,0.80 
+2015,02,19,20:45,Bravado,EternalConflict,inferno,Battle for the Throne,16,12,12,3,4,9,Eternal Conflict,12,23,0.57 
+2015,02,19,20:45,EternalConflict,Bravado,mirage,Battle for the Throne,31,28,13,2,2,13,Eternal Conflict,33,45,0.74 
+2014,10,11,20:45,eNergy,DamageControl,mirage,Telkom Gaming CS:GO Championsh..,19,22,10,5,5,10,Damage Control,32,25,1.18 
+2014,10,11,20:45,DamageControl,eNergy,dust2,Telkom Gaming CS:GO Championsh..,16,7,12,3,4,4,Damage Control,9,14,0.70 
+2014,10,11,20:45,eNergy,DamageControl,cache,Telkom Gaming CS:GO Championsh..,16,3,12,3,4,0,Damage Control,10,18,0.60 
+2014,10,11,17:00,In-Finity,DamageControl,mirage,Telkom Gaming CS:GO Championsh..,16,11,8,7,8,4,Damage Control,17,22,0.89 
+2014,10,11,17:00,DamageControl,In-Finity,dust2,Telkom Gaming CS:GO Championsh..,16,5,10,5,6,0,Damage Control,18,13,1.28 
+2014,10,11,17:00,In-Finity,DamageControl,cache,Telkom Gaming CS:GO Championsh..,16,11,10,5,6,6,Damage Control,15,21,0.77 

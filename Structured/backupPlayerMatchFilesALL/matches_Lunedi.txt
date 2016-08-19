@@ -1,0 +1,7 @@
+2015,08,10,22:45,FlipSid3,INFINITY,cobblestone,CEVO Professional Season 8 Pla..,16,3,12,3,4,0,INFINITY,10,18,0.67 
+2015,08,10,22:45,FlipSid3,INFINITY,cache,CEVO Professional Season 8 Pla..,16,14,8,7,8,7,INFINITY,17,23,0.82 
+2014,08,25,20:10,Games4u,dAT,mirage,FACEIT League 2 EU Closed Qual..,6,16,3,12,3,4,Games4u,10,17,0.67 
+2014,08,02,12:30,Games4u,Recursive,inferno,ASUS ROG Summer 2014,11,16,6,9,5,7,Games4u,13,21,0.67 
+2014,08,02,12:30,Games4u,Recursive,dust2,ASUS ROG Summer 2014,14,16,7,8,7,8,Games4u,20,24,0.86 
+2014,08,01,17:25,Games4u,Expert,mirage,ASUS ROG Summer 2014,16,2,13,2,3,0,Games4u,22,8,1.73 
+2014,08,01,16:00,Games4u,Paranoia,dust2,ASUS ROG Summer 2014,19,16,13,2,2,13,Games4u,25,23,1.03 

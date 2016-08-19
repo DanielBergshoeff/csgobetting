@@ -1,0 +1,5 @@
+2016,03,24,19:00,Orbit,OBEY,inferno,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,OBEY,15,17,0.87 
+2016,03,24,19:00,Orbit,OBEY,mirage,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,OBEY,9,17,0.51 
+2016,03,24,17:00,OBEY,eNergy,inferno,Copenhagen Games 2016 BYOC Qua..,16,7,10,5,6,2,OBEY,28,12,1.91 
+2016,03,24,15:30,Krydsild,OBEY,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,10,8,7,8,3,OBEY,14,21,0.70 
+2016,03,24,13:00,OBEY,eNergy,dust2,Copenhagen Games 2016 BYOC Qua..,16,14,8,7,8,7,OBEY,17,23,0.74 

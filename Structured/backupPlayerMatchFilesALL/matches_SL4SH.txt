@@ -1,0 +1,9 @@
+2016,03,19,22:00,FTW.EvoPrinfor,AlienTech,inferno,AlienTech CS:GO Invitational I,4,16,4,11,0,5,FTW.Evo Prinfor,10,18,0.59 
+2016,03,19,22:00,FTW.EvoPrinfor,AlienTech,cache,AlienTech CS:GO Invitational I,11,16,6,9,5,7,FTW.Evo Prinfor,10,22,0.59 
+2016,03,19,19:45,FTW.EvoPrinfor,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,12,16,8,7,4,9,FTW.Evo Prinfor,20,18,1.01 
+2016,03,19,18:45,FTW.EvoPrinfor,EasyMind,cache,AlienTech CS:GO Invitational I,16,3,12,3,4,0,FTW.Evo Prinfor,16,9,1.47 
+2015,11,20,18:15,FTW.EvoPrinfor,LECARTEL,mirage,AlienTech AllStars,15,15,6,9,9,6,FTW.Evo Prinfor,19,21,0.93 
+2015,11,20,17:00,Publiclir.se,FTW.EvoPrinfor,cache,AlienTech AllStars,16,0,15,0,1,0,FTW.Evo Prinfor,6,16,0.42 
+2015,11,20,15:45,FTW.EvoPrinfor,OnlineBOTS,cache,AlienTech AllStars,5,16,4,11,1,5,FTW.Evo Prinfor,14,18,0.78 
+2015,10,19,22:15,FTW.EvoPrinfor,KeydStars,inferno,AlienTech CS:GO TiTans I,9,16,8,7,1,9,FTW.Evo Prinfor,15,20,0.76 
+2015,10,13,22:00,FTW.EvoPrinfor,AlienTech,mirage,AlienTech CS:GO TiTans I,8,16,5,10,3,6,FTW.Evo Prinfor,13,18,0.75 

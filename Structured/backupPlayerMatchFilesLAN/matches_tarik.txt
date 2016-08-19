@@ -1,0 +1,148 @@
+2016,07,15,00:15,FaZe,CLG,dust2,ELEAGUE Season 1,22,19,7,8,8,7,CLG,22,32,0.73 
+2016,07,15,00:15,FaZe,CLG,cobblestone,ELEAGUE Season 1,14,16,7,8,7,8,CLG,17,21,0.80 
+2016,07,15,00:15,CLG,FaZe,mirage,ELEAGUE Season 1,4,16,4,11,0,5,CLG,12,15,0.85 
+2016,07,06,12:15,CLG,dignitas,cobblestone,ESL One Cologne 2016,1,16,1,14,0,2,CLG,5,14,0.46 
+2016,07,05,12:25,CLG,Gambit,dust2,ESL One Cologne 2016,13,16,7,8,6,8,CLG,16,23,0.69 
+2016,06,11,04:15,Astralis,CLG,overpass,ELEAGUE Season 1,16,11,7,8,9,3,CLG,17,20,0.93 
+2016,06,11,04:15,Astralis,CLG,dust2,ELEAGUE Season 1,16,19,9,6,6,9,CLG,22,26,0.83 
+2016,06,11,04:15,Astralis,CLG,mirage,ELEAGUE Season 1,16,7,11,4,5,3,CLG,8,19,0.46 
+2016,06,09,23:00,CLG,SK,overpass,ELEAGUE Season 1,16,14,12,3,4,11,CLG,26,20,1.32 
+2016,06,09,23:00,CLG,SK,cobblestone,ELEAGUE Season 1,16,10,7,8,9,2,CLG,17,18,0.98 
+2016,06,09,23:00,SK,CLG,train,ELEAGUE Season 1,16,6,12,3,4,3,CLG,14,19,0.80 
+2016,06,08,19:10,CLG,NRG,dust2,ELEAGUE Season 1,14,16,6,9,8,7,CLG,22,24,0.93 
+2016,06,08,18:00,CLG,NRG,train,ELEAGUE Season 1,16,7,10,5,6,2,CLG,22,10,1.49 
+2016,06,07,23:40,CLG,Astralis,dust2,ELEAGUE Season 1,6,16,6,9,0,7,CLG,14,19,0.75 
+2016,06,07,22:55,CLG,Astralis,train,ELEAGUE Season 1,2,16,2,13,0,3,CLG,9,18,0.58 
+2016,06,07,21:35,CLG,SK,overpass,ELEAGUE Season 1,16,14,12,3,4,11,CLG,24,22,1.14 
+2016,06,07,20:30,CLG,SK,nuke,ELEAGUE Season 1,3,16,3,12,0,4,CLG,10,15,0.64 
+2016,05,08,00:15,CLG,Cloud9,dust2,DreamHack Austin 2016,11,16,10,5,1,11,CLG,12,19,0.70 
+2016,05,08,00:15,Cloud9,CLG,mirage,DreamHack Austin 2016,12,16,12,3,0,13,CLG,21,17,1.15 
+2016,05,08,00:15,CLG,Cloud9,cache,DreamHack Austin 2016,16,19,10,5,5,10,CLG,25,23,1.03 
+2016,05,07,17:00,CLG,Splyce,dust2,DreamHack Austin 2016,16,10,11,4,5,6,CLG,18,15,1.08 
+2016,05,07,17:00,CLG,Splyce,train,DreamHack Austin 2016,19,16,4,11,11,4,CLG,32,24,1.24 
+2016,05,07,01:00,Cloud9,CLG,cobblestone,DreamHack Austin 2016,16,1,14,1,2,0,CLG,5,17,0.25 
+2016,04,14,14:30,GODSENT,CLG,cache,DreamHack Masters Malmö 2016,16,8,8,7,8,1,CLG,17,20,0.87 
+2016,04,14,14:30,CLG,GODSENT,overpass,DreamHack Masters Malmö 2016,16,19,12,3,3,12,CLG,26,24,1.11 
+2016,04,13,18:30,NatusVincere,CLG,dust2,DreamHack Masters Malmö 2016,19,15,7,8,8,7,CLG,25,24,1.02 
+2016,04,12,15:30,G2,CLG,dust2,DreamHack Masters Malmö 2016,2,16,2,13,0,3,CLG,19,8,1.63 
+2016,04,03,18:00,AmericasAll-Stars,EuropeAll-Stars,nuke,MLG Columbus 2016 All-Star Mat..,22,19,11,4,4,11,Americas All-Stars,30,29,1.03 
+2016,04,01,22:00,Liquid,CLG,mirage,MLG Columbus 2016,16,6,9,6,7,0,CLG,10,18,0.58 
+2016,04,01,22:00,Liquid,CLG,cache,MLG Columbus 2016,16,13,3,12,13,1,CLG,34,19,1.56 
+2016,03,31,22:00,Gambit,CLG,mirage,MLG Columbus 2016,10,16,6,9,4,7,CLG,28,13,1.62 
+2016,03,31,22:00,CLG,Gambit,cobblestone,MLG Columbus 2016,16,11,11,4,5,7,CLG,21,16,1.22 
+2016,03,31,22:00,CLG,Gambit,cache,MLG Columbus 2016,13,16,5,10,8,6,CLG,15,25,0.66 
+2016,03,31,01:25,CLG,Astralis,overpass,MLG Columbus 2016,9,16,8,7,1,9,CLG,11,19,0.63 
+2016,03,29,22:10,CLG,EnVyUs,cobblestone,MLG Columbus 2016,16,8,7,8,9,0,CLG,20,13,1.29 
+2016,02,28,19:10,Vexed,CLG,train,MLG Columbus 2016 Main Qualifi..,13,16,7,8,6,8,CLG,25,18,1.29 
+2016,02,28,19:10,CLG,Vexed,cobblestone,MLG Columbus 2016 Main Qualifi..,3,16,3,12,0,4,CLG,15,16,0.94 
+2016,02,28,19:10,Vexed,CLG,dust2,MLG Columbus 2016 Main Qualifi..,13,16,9,6,4,10,CLG,27,21,1.40 
+2016,02,27,19:20,CLG,SK,overpass,MLG Columbus 2016 Main Qualifi..,16,13,12,3,4,10,CLG,32,15,1.82 
+2016,02,27,02:50,CLG,Splyce,cache,MLG Columbus 2016 Main Qualifi..,14,16,9,6,5,10,CLG,21,24,0.88 
+2016,02,07,12:00,Astralis,CLG,dust2,Game Show Global eSports Cup 2..,16,4,11,4,5,0,CLG,15,19,0.84 
+2016,02,07,12:00,CLG,Astralis,overpass,Game Show Global eSports Cup 2..,3,16,3,12,0,4,CLG,8,18,0.46 
+2016,02,06,21:15,dignitas,CLG,overpass,Game Show Global eSports Cup 2..,16,10,9,6,7,4,CLG,16,21,0.74 
+2016,02,06,22:15,dignitas,CLG,cobblestone,Game Show Global eSports Cup 2..,16,14,8,7,8,7,CLG,19,22,0.82 
+2016,02,06,14:00,G2,CLG,cobblestone,Game Show Global eSports Cup 2..,10,16,4,11,6,5,CLG,12,16,0.81 
+2016,02,06,14:00,CLG,G2,inferno,Game Show Global eSports Cup 2..,6,16,5,10,1,6,CLG,15,18,0.85 
+2016,02,06,14:00,G2,CLG,dust2,Game Show Global eSports Cup 2..,14,16,7,8,7,8,CLG,13,23,0.61 
+2016,02,04,22:00,CLG,EnVyUs,cobblestone,Game Show Global eSports Cup 2..,4,16,4,11,0,5,CLG,12,17,0.74 
+2016,02,04,22:00,CLG,EnVyUs,cache,Game Show Global eSports Cup 2..,4,16,4,11,0,5,CLG,9,17,0.59 
+2016,02,04,22:00,CLG,EnVyUs,overpass,Game Show Global eSports Cup 2..,16,11,9,6,7,5,CLG,21,17,1.15 
+2016,02,04,19:00,CLG,FlipSid3,overpass,Game Show Global eSports Cup 2..,16,4,12,3,4,1,CLG,21,13,1.42 
+2016,02,04,19:00,FlipSid3,CLG,inferno,Game Show Global eSports Cup 2..,14,16,8,7,6,9,CLG,24,19,1.14 
+2016,02,04,09:30,CLG,EnVyUs,cache,Game Show Global eSports Cup 2..,13,16,9,6,4,10,CLG,18,22,0.88 
+2016,02,04,09:30,CLG,EnVyUs,train,Game Show Global eSports Cup 2..,6,16,5,10,1,6,CLG,12,18,0.66 
+2016,02,04,09:30,CLG,EnVyUs,overpass,Game Show Global eSports Cup 2..,16,12,8,7,8,5,CLG,19,17,1.09 
+2015,12,12,04:00,Luminosity,CLG,overpass,ESL ESEA Pro League Season 2 F..,16,12,8,7,8,5,CLG,13,21,0.63 
+2015,12,12,03:58,CLG,Luminosity,mirage,ESL ESEA Pro League Season 2 F..,8,16,7,8,1,8,CLG,14,20,0.74 
+2015,12,11,00:15,CLG,?,inferno,ESL ESEA Pro League Season 2 F..,6,16,5,10,1,6,CLG,14,17,0.95 
+2015,12,11,00:15,CLG,?,mirage,ESL ESEA Pro League Season 2 F..,12,16,10,5,2,11,CLG,14,20,0.71 
+2015,12,06,18:30,CLG,compLexity,train,Northern Arena 2015,16,6,12,3,4,3,CLG,16,11,1.12 
+2015,12,06,18:30,CLG,compLexity,mirage,Northern Arena 2015,21,16,8,7,7,8,CLG,30,22,1.27 
+2015,12,06,06:00,CLG,Splyce,cobblestone,Northern Arena 2015,16,8,11,4,5,4,CLG,23,20,1.23 
+2015,12,06,06:00,CLG,Splyce,dust2,Northern Arena 2015,16,7,11,4,5,3,CLG,17,12,1.18 
+2015,12,06,06:00,CLG,Splyce,train,Northern Arena 2015,8,16,7,8,1,8,CLG,18,18,1.02 
+2015,12,06,00:00,Nexus,CLG,mirage,Northern Arena 2015,6,16,4,11,2,5,CLG,27,9,1.88 
+2015,12,05,22:00,CLG,ACE,mirage,Northern Arena 2015,16,11,9,6,7,5,CLG,19,16,1.09 
+2015,12,05,20:00,CLG,3sUP,train,Northern Arena 2015,16,1,14,1,2,0,CLG,24,7,1.97 
+2015,11,21,19:40,G2,CLG,cache,IEM San Jose 2015,16,7,10,5,6,2,CLG,17,15,1.05 
+2015,11,21,19:40,G2,CLG,mirage,IEM San Jose 2015,19,17,8,7,7,8,CLG,20,23,0.82 
+2015,11,17,01:00,CLG,Nexus,mirage,RGN Pro Series Championship,16,7,8,7,8,0,CLG,13,13,0.93 
+2015,11,16,23:15,CLG,Enemy,cache,RGN Pro Series Championship,7,16,6,9,1,7,CLG,10,20,0.57 
+2015,11,16,21:45,CLG,Renegades,cobblestone,RGN Pro Series Championship,11,16,3,12,8,4,CLG,14,21,0.70 
+2015,11,15,19:00,CLG,Liquid,cobblestone,iBUYPOWER Cup 2015,12,16,6,9,6,7,CLG,16,20,0.90 
+2015,11,15,19:00,CLG,Liquid,overpass,iBUYPOWER Cup 2015,7,16,3,12,4,4,CLG,7,21,0.35 
+2015,11,14,22:55,CLG,Renegades,train,iBUYPOWER Cup 2015,16,10,9,6,7,4,CLG,19,14,1.17 
+2015,11,14,22:00,CLG,Winterfox,mirage,iBUYPOWER Cup 2015,16,2,14,1,2,1,CLG,21,8,1.85 
+2015,11,14,20:00,CLG,Renegades,dust2,iBUYPOWER Cup 2015,10,16,7,8,3,8,CLG,21,17,1.20 
+2015,10,30,20:10,NatusVincere,CLG,inferno,DreamHack Open Cluj-Napoca 201..,16,8,13,2,3,6,CLG,18,18,1.22 
+2015,10,30,20:10,CLG,NatusVincere,cobblestone,DreamHack Open Cluj-Napoca 201..,16,10,7,8,9,2,CLG,26,18,1.31 
+2015,10,30,20:10,NatusVincere,CLG,train,DreamHack Open Cluj-Napoca 201..,16,9,9,6,7,3,CLG,14,18,0.79 
+2015,10,29,15:55,dignitas,CLG,cobblestone,DreamHack Open Cluj-Napoca 201..,14,16,6,9,8,7,CLG,21,24,0.98 
+2015,10,28,20:15,NatusVincere,CLG,cobblestone,DreamHack Open Cluj-Napoca 201..,16,12,11,4,5,8,CLG,20,22,0.92 
+2015,10,09,14:30,USA,Netherlands,cache,World Championships 2015,8,16,6,9,2,7,USA,15,16,0.94 
+2015,10,09,11:00,France,USA,dust2,World Championships 2015,16,4,12,3,4,1,USA,10,18,0.53 
+2015,09,23,19:30,FlipSid3,CLG,train,DreamHack Open Cluj-Napoca 201..,12,16,8,7,4,9,CLG,19,21,0.85 
+2015,09,23,19:30,FlipSid3,CLG,cache,DreamHack Open Cluj-Napoca 201..,14,16,5,10,9,6,CLG,20,15,1.12 
+2015,09,23,15:30,CSGL,CLG,mirage,DreamHack Open Cluj-Napoca 201..,10,16,8,7,2,9,CLG,18,16,1.12 
+2015,09,23,15:30,CSGL,CLG,overpass,DreamHack Open Cluj-Napoca 201..,11,16,6,9,5,7,CLG,15,18,0.87 
+2015,09,23,15:30,CLG,CSGL,dust2,DreamHack Open Cluj-Napoca 201..,17,19,4,11,11,4,CLG,28,30,0.95 
+2015,09,07,06:50,CLG,Luminosity,cobblestone,WinOut $20,000 CS:GO Champions..,16,1,14,1,2,0,CLG,14,8,1.22 
+2015,09,07,06:50,Luminosity,CLG,mirage,WinOut $20,000 CS:GO Champions..,16,6,12,3,4,3,CLG,21,19,1.12 
+2015,09,07,06:50,CLG,Luminosity,overpass,WinOut $20,000 CS:GO Champions..,16,6,10,5,6,1,CLG,15,10,1.20 
+2015,09,06,23:00,CLG,Luminosity,cache,WinOut $20,000 CS:GO Champions..,16,6,10,5,6,1,CLG,18,14,1.19 
+2015,09,06,23:00,Luminosity,CLG,train,WinOut $20,000 CS:GO Champions..,16,1,14,1,2,0,CLG,9,16,0.63 
+2015,09,06,23:00,CLG,Luminosity,cobblestone,WinOut $20,000 CS:GO Champions..,16,3,12,3,4,0,CLG,20,9,1.61 
+2015,09,06,04:30,GamesAcademy,CLG,train,WinOut $20,000 CS:GO Champions..,8,16,4,11,4,5,CLG,24,13,1.60 
+2015,09,06,04:30,CLG,GamesAcademy,dust2,WinOut $20,000 CS:GO Champions..,16,6,12,3,4,3,CLG,20,10,1.65 
+2015,09,05,23:00,Enemy,CLG,mirage,WinOut $20,000 CS:GO Champions..,3,16,3,12,0,4,CLG,20,7,1.73 
+2015,09,05,23:00,CLG,Enemy,cache,WinOut $20,000 CS:GO Champions..,16,1,14,1,2,0,CLG,19,7,1.79 
+2015,09,05,02:55,CLG,ACE,dust2,WinOut $20,000 CS:GO Champions..,16,6,10,5,6,1,CLG,21,8,1.61 
+2015,09,05,01:30,CLG,BitterSweetGG,mirage,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,CLG,13,6,1.34 
+2015,08,21,16:50,NatusVincere,CLG,cobblestone,ESL One Cologne 2015,16,14,6,9,10,5,CLG,28,24,1.23 
+2015,08,21,16:41,CLG,eBettle,mirage,ESL One Cologne 2015,16,14,10,5,6,9,CLG,22,20,1.04 
+2015,08,20,14:00,NiP,CLG,dust2,ESL One Cologne 2015,16,13,7,8,9,5,CLG,23,21,1.07 
+2015,08,07,10:40,CLG,TSM,inferno,IEM Gamescom 2015,7,16,5,10,2,6,CLG,18,19,1.02 
+2015,08,06,13:45,CLG,EnVyUs,inferno,IEM Gamescom 2015,13,16,9,6,4,10,CLG,16,20,0.89 
+2015,08,06,10:45,CLG,TSM,train,IEM Gamescom 2015,12,16,10,5,2,11,CLG,29,22,1.33 
+2015,08,05,14:00,SK,CLG,overpass,IEM Gamescom 2015,16,12,12,3,4,9,CLG,23,18,1.27 
+2015,08,02,21:45,CLG,Liquid,mirage,ESL One Cologne 2015 NA Qualif..,16,14,6,9,10,5,CLG,22,19,1.09 
+2015,08,02,21:45,CLG,Liquid,cache,ESL One Cologne 2015 NA Qualif..,16,9,12,3,4,6,CLG,26,15,1.47 
+2015,08,02,01:00,Mythic,CLG,dust2,ESL One Cologne 2015 NA Qualif..,14,16,4,11,10,5,CLG,26,21,1.16 
+2015,08,01,23:30,eLevate,CLG,overpass,ESL One Cologne 2015 NA Qualif..,11,16,6,9,5,7,CLG,27,17,1.44 
+2015,07,26,04:20,CLG,Cloud9,cache,CEVO Professional Season 7 Fin..,9,16,7,8,2,8,CLG,12,18,0.77 
+2015,07,26,02:00,CLG,Cloud9,dust2,CEVO Professional Season 7 Fin..,12,16,2,13,10,3,CLG,14,18,0.79 
+2015,07,25,19:30,CLG,Liquid,dust2,CEVO Professional Season 7 Fin..,16,12,8,7,8,5,CLG,29,18,1.57 
+2015,07,25,19:30,Liquid,CLG,mirage,CEVO Professional Season 7 Fin..,16,3,12,3,4,0,CLG,15,15,0.98 
+2015,07,25,19:30,CLG,Liquid,train,CEVO Professional Season 7 Fin..,16,5,10,5,6,0,CLG,24,11,1.70 
+2015,07,25,02:00,CLG,Cloud9,cache,CEVO Professional Season 7 Fin..,17,19,2,13,13,2,CLG,26,25,0.97 
+2015,07,25,02:00,CLG,Cloud9,cobblestone,CEVO Professional Season 7 Fin..,10,16,9,6,1,10,CLG,20,18,1.09 
+2015,07,11,02:00,EnVyUs,CLG,cache,ESWC 2015,16,10,11,4,5,6,CLG,20,19,1.06 
+2015,07,11,01:00,Bravado,CLG,dust2,ESWC 2015,7,16,3,12,4,4,CLG,18,16,1.00 
+2015,07,10,21:45,Renegades,CLG,cache,ESWC 2015,16,13,5,10,11,3,CLG,21,17,1.04 
+2015,07,04,17:50,Cloud9,CLG,dust2,ESL ESEA Pro League Season 1 F..,16,8,9,6,7,2,CLG,14,18,0.81 
+2015,07,04,16:00,CLG,Cloud9,cache,ESL ESEA Pro League Season 1 F..,5,16,4,11,1,5,CLG,21,16,1.53 
+2015,07,02,21:38,KeydStars,CLG,cache,ESL ESEA Pro League Season 1 F..,9,16,8,7,1,9,CLG,24,15,1.43 
+2015,07,02,15:25,fnatic,CLG,mirage,ESL ESEA Pro League Season 1 F..,12,16,9,6,3,10,CLG,17,20,0.90 
+2015,04,19,00:50,CLG,mousesports,mirage,ESEA Invite Season 18 Global F..,9,16,2,13,7,3,CLG,18,20,0.93 
+2015,04,19,00:50,CLG,mousesports,dust2,ESEA Invite Season 18 Global F..,12,16,5,10,7,6,CLG,14,20,0.78 
+2015,04,18,17:00,CLG,Luminosity,dust2,ESEA Invite Season 18 Global F..,16,8,11,4,5,4,CLG,19,15,1.08 
+2015,04,18,17:00,CLG,Luminosity,mirage,ESEA Invite Season 18 Global F..,16,5,12,3,4,2,CLG,30,13,2.06 
+2015,04,17,21:00,fnatic,CLG,cache,ESEA Invite Season 18 Global F..,16,9,10,5,6,4,CLG,17,20,0.94 
+2015,04,17,21:00,CLG,fnatic,mirage,ESEA Invite Season 18 Global F..,6,16,4,11,2,5,CLG,18,16,1.09 
+2015,04,17,17:00,All-StarsEurope,All-StarsNA,dust2,ESEA Invite Season 18 All-Star,16,12,11,4,5,8,All-Stars NA,16,21,0.74 
+2015,04,16,01:30,eLevate,CLG,nuke,CEVO Professional Season 6 LAN..,17,19,14,1,1,14,CLG,20,26,0.80 
+2015,04,16,01:30,eLevate,CLG,dust2,CEVO Professional Season 6 LAN..,12,16,6,9,6,7,CLG,22,14,1.25 
+2015,04,16,01:30,CLG,eLevate,cache,CEVO Professional Season 6 LAN..,14,16,6,9,8,7,CLG,26,20,1.17 
+2015,04,15,00:00,CLG,Nihilum,inferno,CEVO Professional Season 6 LAN..,19,16,13,2,2,13,CLG,34,23,1.42 
+2015,04,15,00:00,Nihilum,CLG,cache,CEVO Professional Season 6 LAN..,13,16,4,11,9,5,CLG,28,19,1.39 
+2015,04,14,00:30,CLG,eLevate,dust2,CEVO Professional Season 6 LAN..,22,20,2,13,13,2,CLG,41,27,1.42 
+2015,04,14,00:30,eLevate,CLG,cache,CEVO Professional Season 6 LAN..,12,16,3,12,9,4,CLG,24,17,1.29 
+2015,03,12,21:30,CLG,KeydStars,dust2,ESL One Katowice 2015,8,16,2,13,6,3,CLG,13,18,0.73 
+2015,03,12,19:50,CLG,NiP,mirage,ESL One Katowice 2015,7,16,2,13,5,3,CLG,18,21,0.90 
+2015,03,12,17:50,HellRaisers,CLG,nuke,ESL One Katowice 2015,14,16,13,2,1,14,CLG,26,21,1.17 
+2015,02,14,13:50,CLG,Titan,dust2,ESL One Katowice 2015 Main Qua..,16,14,10,5,6,9,CLG,31,15,1.70 
+2015,02,14,11:00,CLG,G2,cache,ESL One Katowice 2015 Main Qua..,16,14,11,4,5,10,CLG,23,22,0.97 
+2015,01,24,19:48,fnatic,CLG,mirage,MLG X-Games Aspen 2015,16,7,12,3,4,4,CLG,15,19,0.76 
+2015,01,24,04:12,Liquid,CLG,cache,MLG X-Games Aspen 2015,16,5,14,1,2,4,CLG,12,19,0.67 
+2015,01,23,22:28,CLG,LDLC,dust2,MLG X-Games Aspen 2015,16,14,8,7,8,7,CLG,18,21,0.82 

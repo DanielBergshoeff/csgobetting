@@ -1,0 +1,38 @@
+2016,08,05,15:15,Epsilon,Escape,mirage,ASUS ROG Summer 2016,16,10,12,3,4,7,Escape,17,21,0.84 
+2016,08,05,15:15,Epsilon,Escape,nuke,ASUS ROG Summer 2016,16,8,12,3,4,5,Escape,19,21,0.91 
+2016,08,05,15:15,Epsilon,Escape,dust2,ASUS ROG Summer 2016,11,16,7,8,4,8,Escape,19,20,0.99 
+2016,08,05,13:45,Millenium,Escape,mirage,ASUS ROG Summer 2016,16,13,8,7,8,6,Escape,24,22,1.07 
+2016,08,05,11:45,Escape,LGR,cobblestone,ASUS ROG Summer 2016,16,11,9,6,7,5,Escape,18,18,0.98 
+2016,02,28,21:00,Ancient,Orgless,inferno,Pantamera CS:GO Challenge 2016,16,11,6,9,10,2,Orgless,22,18,1.19 
+2016,02,28,21:00,Ancient,Orgless,overpass,Pantamera CS:GO Challenge 2016,16,6,12,3,4,3,Orgless,6,18,0.40 
+2016,02,28,15:00,Orgless,Preparation,inferno,Pantamera CS:GO Challenge 2016,16,10,14,1,2,9,Orgless,19,19,1.01 
+2016,02,28,15:00,Orgless,Preparation,mirage,Pantamera CS:GO Challenge 2016,16,14,5,10,11,4,Orgless,25,15,1.32 
+2016,02,27,21:40,AliGon,Orgless,mirage,Pantamera CS:GO Challenge 2016,4,16,4,11,0,5,Orgless,14,12,1.03 
+2016,02,27,20:10,ALTERNATEaTTaX,Orgless,cache,Pantamera CS:GO Challenge 2016,16,13,9,6,7,7,Orgless,26,19,1.27 
+2016,02,27,18:15,Orgless,Torpedo,mirage,Pantamera CS:GO Challenge 2016,19,17,5,10,10,5,Orgless,21,26,0.76 
+2016,02,21,11:00,Games4u,RCTIC,cobblestone,Nordic Masters Season 2 Finals,4,16,1,14,3,2,Games4u,11,17,0.78 
+2016,02,21,11:00,RCTIC,Games4u,mirage,Nordic Masters Season 2 Finals,16,10,12,3,4,7,Games4u,17,19,0.90 
+2016,02,21,11:00,RCTIC,Games4u,cache,Nordic Masters Season 2 Finals,12,16,9,6,3,10,Games4u,23,14,1.26 
+2016,02,20,20:30,Games4u,TzatzikiKlubben,cobblestone,Nordic Masters Season 2 Finals,16,9,10,5,6,4,Games4u,21,15,1.26 
+2016,02,20,20:30,Games4u,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,16,14,6,9,10,5,Games4u,34,16,1.71 
+2016,02,20,20:30,Games4u,TzatzikiKlubben,cache,Nordic Masters Season 2 Finals,12,16,7,8,5,8,Games4u,21,23,1.02 
+2016,02,20,17:30,LGBfe,Games4u,cache,Nordic Masters Season 2 Finals,7,16,2,13,5,3,Games4u,22,11,1.48 
+2016,02,20,17:30,LGBfe,Games4u,dust2,Nordic Masters Season 2 Finals,3,16,3,12,0,4,Games4u,18,6,1.56 
+2016,02,20,11:00,Games4u,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,14,16,7,8,7,8,Games4u,13,20,0.71 
+2016,02,05,12:55,Orgless,CPHWolves,cobblestone,Assembly Winter 2016,8,16,5,10,3,6,Orgless,14,22,0.68 
+2016,02,05,11:45,Orgless,RCTIC,dust2,Assembly Winter 2016,8,16,8,7,0,9,Orgless,13,19,0.74 
+2016,01,31,17:00,PixelFire,E-frag.net,cobblestone,PGL Regional Minor Championshi..,8,16,5,10,3,6,PixelFire,18,17,1.01 
+2016,01,31,17:00,E-frag.net,PixelFire,mirage,PGL Regional Minor Championshi..,13,16,7,8,6,8,PixelFire,21,21,1.01 
+2016,01,31,17:00,PixelFire,E-frag.net,dust2,PGL Regional Minor Championshi..,12,16,7,8,5,8,PixelFire,20,18,0.99 
+2016,01,30,20:45,PixelFire,DenDD,train,PGL Regional Minor Championshi..,16,5,13,2,3,3,PixelFire,18,9,1.38 
+2016,01,30,20:45,DenDD,PixelFire,mirage,PGL Regional Minor Championshi..,38,41,11,4,4,11,PixelFire,63,54,1.18 
+2016,01,30,16:45,PixelFire,HellRaisers,overpass,PGL Regional Minor Championshi..,14,16,8,7,6,9,PixelFire,23,23,1.10 
+2016,01,30,16:45,PixelFire,HellRaisers,inferno,PGL Regional Minor Championshi..,14,16,6,9,8,7,PixelFire,21,21,1.06 
+2016,01,30,16:45,HellRaisers,PixelFire,mirage,PGL Regional Minor Championshi..,9,16,9,6,0,10,PixelFire,30,17,1.70 
+2016,01,30,13:30,PixelFire,DenDD,cobblestone,PGL Regional Minor Championshi..,16,2,13,2,3,0,PixelFire,19,8,1.53 
+2015,12,20,15:30,CSGOBESTPOT.com,NoProblem!,inferno,ESL Nordic Nationals Winter 20..,13,16,9,6,4,10,CSGOBESTPOT.com,22,19,1.12 
+2015,12,20,15:30,NoProblem!,CSGOBESTPOT.com,cache,ESL Nordic Nationals Winter 20..,16,13,8,7,8,6,CSGOBESTPOT.com,15,20,0.77 
+2015,12,20,10:45,CSGOBESTPOT.com,Reason,mirage,ESL Nordic Nationals Winter 20..,16,7,12,3,4,4,CSGOBESTPOT.com,13,12,0.96 
+2015,12,20,10:45,Reason,CSGOBESTPOT.com,cache,ESL Nordic Nationals Winter 20..,15,19,8,7,7,8,CSGOBESTPOT.com,25,22,1.04 
+2015,12,19,19:45,BX3,CSGOBESTPOT.com,cache,ESL Nordic Nationals Winter 20..,10,16,5,10,5,6,CSGOBESTPOT.com,27,16,1.52 
+2015,12,19,12:15,CSGOBESTPOT.com,ROCCAT,dust2,ESL Nordic Nationals Winter 20..,10,16,4,11,6,5,CSGOBESTPOT.com,14,20,0.79 

@@ -1,0 +1,6 @@
+2016,04,30,20:00,AIMERZZ,fRactals,dust2,Rising Stars Africa Promotiona..,22,19,7,8,8,7,fRactals,30,33,0.94 
+2016,04,30,20:00,fRactals,AIMERZZ,cache,Rising Stars Africa Promotiona..,12,16,2,13,10,3,fRactals,18,22,0.88 
+2016,04,29,19:00,TripGhazi,fRactals,inferno,Rising Stars Africa Promotiona..,15,19,9,6,6,9,fRactals,25,21,1.10 
+2016,04,29,19:00,TripGhazi,fRactals,overpass,Rising Stars Africa Promotiona..,13,16,6,9,7,7,fRactals,19,19,0.97 
+2016,04,27,18:10,drinkpizza!,fRactals,inferno,Rising Stars Africa Promotiona..,12,16,7,8,5,8,fRactals,11,15,0.79 
+2016,04,27,18:10,fRactals,drinkpizza!,cache,Rising Stars Africa Promotiona..,16,6,11,4,5,2,fRactals,14,11,1.02 

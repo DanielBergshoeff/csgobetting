@@ -1,0 +1,6 @@
+2015,12,20,18:00,ROCCAT,Torpedo,cache,ESL Nordic Nationals Winter 20..,9,16,6,9,3,7,ROCCAT,16,18,0.90 
+2015,12,20,18:00,Torpedo,ROCCAT,mirage,ESL Nordic Nationals Winter 20..,16,14,3,12,13,2,ROCCAT,14,21,0.69 
+2015,12,19,17:10,Reason,ROCCAT,mirage,ESL Nordic Nationals Winter 20..,9,16,5,10,4,6,ROCCAT,12,15,0.82 
+2015,12,19,12:15,CSGOBESTPOT.com,ROCCAT,dust2,ESL Nordic Nationals Winter 20..,10,16,4,11,6,5,ROCCAT,19,13,1.17 
+2015,12,16,21:00,k1ck,MIXCAT,dust2,AlienTech CS:GO European Cup I..,6,16,4,11,2,5,MIXCAT,13,11,0.98 
+2015,12,15,20:00,MIXCAT,OnlineBOTS,cache,AlienTech CS:GO European Cup I..,22,20,8,7,7,8,MIXCAT,27,32,0.83 

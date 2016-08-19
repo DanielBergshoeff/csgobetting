@@ -1,0 +1,64 @@
+2016,08,14,14:30,VG.CyberZen,dream[S]cape,nuke,ESEA Open Season 22 Asia,16,11,8,7,8,4,dream[S]cape,16,24,0.80 
+2016,08,14,14:30,dream[S]cape,VG.CyberZen,overpass,ESEA Open Season 22 Asia,12,16,6,9,6,7,dream[S]cape,17,22,0.79 
+2016,08,11,14:30,dream[S]cape,Brutality,cache,ESEA Open Season 22 Asia,16,9,9,6,7,3,dream[S]cape,9,20,0.58 
+2016,08,11,14:30,dream[S]cape,Brutality,train,ESEA Open Season 22 Asia,16,11,9,6,7,5,dream[S]cape,22,18,1.17 
+2016,08,08,16:00,MineSki,dream[S]cape,overpass,ESEA Open Season 22 Asia,10,16,7,8,3,8,dream[S]cape,23,13,1.46 
+2016,08,08,16:00,dream[S]cape,MineSki,dust2,ESEA Open Season 22 Asia,19,16,7,8,8,7,dream[S]cape,27,21,1.09 
+2016,08,08,16:00,dream[S]cape,MineSki,mirage,ESEA Open Season 22 Asia,12,16,8,7,4,9,dream[S]cape,20,19,1.02 
+2016,07,28,15:00,dream[S]cape,TheMongolz,cache,MixBOT Pro-League Golden,7,16,5,10,2,6,dream[S]cape,18,19,1.00 
+2016,07,28,15:00,dream[S]cape,TheMongolz,cobblestone,MixBOT Pro-League Golden,9,16,5,10,4,6,dream[S]cape,25,20,1.37 
+2016,07,28,15:00,TheMongolz,dream[S]cape,mirage,MixBOT Pro-League Golden,14,16,6,9,8,7,dream[S]cape,20,21,0.90 
+2016,07,27,15:00,dream[S]cape,MiTH,mirage,MixBOT Pro-League Golden,16,10,8,7,8,3,dream[S]cape,21,15,1.18 
+2016,07,27,15:00,dream[S]cape,MiTH,train,MixBOT Pro-League Golden,19,17,11,4,4,11,dream[S]cape,29,24,1.12 
+2016,07,25,15:00,dream[S]cape,Signature,mirage,MixBOT Pro-League Golden,16,5,13,2,3,3,dream[S]cape,26,12,1.85 
+2016,07,25,15:00,dream[S]cape,Signature,dust2,MixBOT Pro-League Golden,16,1,14,1,2,0,dream[S]cape,14,9,1.24 
+2016,07,19,12:00,Singapore,China,cobblestone,World Championships 2016 Asian..,8,16,3,12,5,4,Singapore,16,21,0.78 
+2016,07,19,12:00,Singapore,China,mirage,World Championships 2016 Asian..,13,16,7,8,6,8,Singapore,17,23,0.78 
+2016,07,19,12:00,China,Singapore,dust2,World Championships 2016 Asian..,16,11,8,7,8,4,Singapore,22,20,1.19 
+2016,07,14,14:45,Singapore,Indonesia,mirage,World Championships 2016 Asian..,16,8,13,2,3,6,Singapore,18,18,1.05 
+2016,07,14,14:45,Singapore,Indonesia,cobblestone,World Championships 2016 Asian..,16,10,10,5,6,5,Singapore,22,17,1.26 
+2016,07,14,14:45,Singapore,Indonesia,dust2,World Championships 2016 Asian..,10,16,2,13,8,3,Singapore,15,19,0.86 
+2016,07,12,14:30,Singapore,Vietnam,mirage,World Championships 2016 Asian..,16,13,6,9,10,4,Singapore,23,19,1.08 
+2016,07,12,14:30,Singapore,Vietnam,cobblestone,World Championships 2016 Asian..,11,16,3,12,8,4,Singapore,20,18,1.13 
+2016,07,12,14:30,Singapore,Vietnam,dust2,World Championships 2016 Asian..,16,12,5,10,11,2,Singapore,18,21,0.89 
+2016,07,12,13:15,Singapore,Philippines,cache,World Championships 2016 Asian..,16,7,10,5,6,2,Singapore,27,15,1.67 
+2016,07,12,10:00,China,Singapore,dust2,World Championships 2016 Asian..,16,13,5,10,11,3,Singapore,30,19,1.45 
+2016,07,02,11:40,Singapore,UAE,mirage,World Championships 2016 Asian..,16,8,8,7,8,1,Singapore,22,14,1.30 
+2016,07,02,11:40,Singapore,UAE,nuke,World Championships 2016 Asian..,16,13,7,8,9,5,Singapore,22,21,1.04 
+2016,04,17,16:10,dream[S]cape,TheMongolz,inferno,WCA 2016 APAC Qualifier,3,16,3,12,0,4,dream[S]cape,14,15,1.00 
+2016,04,17,16:10,dream[S]cape,TheMongolz,cache,WCA 2016 APAC Qualifier,5,16,5,10,0,6,dream[S]cape,16,17,1.04 
+2016,04,15,13:15,dream[S]cape,xqR,inferno,WCA 2016 APAC Qualifier,16,5,13,2,3,3,dream[S]cape,18,12,1.34 
+2016,04,15,13:15,dream[S]cape,xqR,train,WCA 2016 APAC Qualifier,16,5,12,3,4,2,dream[S]cape,20,11,1.43 
+2016,03,13,06:25,dream[S]cape,TyLoo,mirage,DreamHack Masters Malmö 2016 A..,8,16,4,11,4,5,dream[S]cape,11,19,0.60 
+2016,03,13,06:25,dream[S]cape,TyLoo,cobblestone,DreamHack Masters Malmö 2016 A..,9,16,5,10,4,6,dream[S]cape,17,21,0.81 
+2016,03,12,14:00,dream[S]cape,MineSki,inferno,DreamHack Masters Malmö 2016 A..,16,10,13,2,3,8,dream[S]cape,25,14,1.49 
+2016,02,28,15:00,MVP.karnal,dream[S]cape,mirage,Born To Win Invitational Leagu..,16,7,12,3,4,4,dream[S]cape,17,18,0.97 
+2016,02,28,15:00,dream[S]cape,MVP.karnal,cache,Born To Win Invitational Leagu..,4,16,4,11,0,5,dream[S]cape,11,15,0.78 
+2016,02,28,15:00,MVP.karnal,dream[S]cape,cobblestone,Born To Win Invitational Leagu..,14,16,10,5,4,11,dream[S]cape,20,21,0.94 
+2016,02,28,13:00,dream[S]cape,J2G,dust2,Born To Win Invitational Leagu..,16,7,9,6,7,1,dream[S]cape,22,13,1.43 
+2016,02,28,13:00,J2G,dream[S]cape,cobblestone,Born To Win Invitational Leagu..,6,16,5,10,1,6,dream[S]cape,17,17,1.15 
+2016,02,27,13:00,MiTH,dream[S]cape,cobblestone,Born To Win Invitational Leagu..,14,16,3,12,11,4,dream[S]cape,23,20,1.09 
+2016,02,27,13:00,MiTH,dream[S]cape,dust2,Born To Win Invitational Leagu..,14,16,10,5,4,11,dream[S]cape,34,20,1.68 
+2016,02,27,13:00,dream[S]cape,MiTH,cache,Born To Win Invitational Leagu..,5,16,5,10,0,6,dream[S]cape,9,18,0.50 
+2016,02,26,17:00,dream[S]cape,MVP.karnal,overpass,Born To Win Invitational Leagu..,7,16,5,10,2,6,dream[S]cape,26,21,1.57 
+2016,02,26,17:00,dream[S]cape,MVP.karnal,cache,Born To Win Invitational Leagu..,10,16,6,9,4,7,dream[S]cape,24,22,1.19 
+2016,02,22,15:00,dream[S]cape,Risky,cobblestone,Born To Win Invitational Leagu..,16,3,13,2,3,1,dream[S]cape,24,10,1.90 
+2016,02,20,15:00,MiTH,dream[S]cape,mirage,Born To Win Invitational Leagu..,16,8,13,2,3,6,dream[S]cape,12,20,0.58 
+2016,02,20,12:00,dream[S]cape,nxl,cache,Born To Win Invitational Leagu..,16,13,13,2,3,11,dream[S]cape,24,18,1.30 
+2015,12,16,10:00,T5,Insidious,dust2,D!ngIT CS:GO Asia Invitational..,5,16,2,13,3,3,Insidious,18,11,1.24 
+2015,12,16,10:00,Insidious,T5,mirage,D!ngIT CS:GO Asia Invitational..,16,2,14,1,2,1,Insidious,23,5,2.01 
+2015,12,12,13:00,Insidious,nxl,cobblestone,D!ngIT CS:GO Asia Invitational..,14,16,5,10,9,6,Insidious,19,23,0.87 
+2015,12,11,13:00,Insidious,Skyred,mirage,D!ngIT CS:GO Asia Invitational..,2,16,2,13,0,3,Insidious,16,17,0.92 
+2015,11,12,14:00,Insidious,Expendables,cache,D!ngIT CS:GO Asia Invitational..,16,8,8,7,8,1,Insidious,21,16,1.20 
+2015,11,12,14:00,Insidious,Expendables,cobblestone,D!ngIT CS:GO Asia Invitational..,16,10,7,8,9,2,Insidious,23,14,1.38 
+2015,11,08,11:00,TheMongolz,Insidious,cache,D!ngIT CS:GO Asia Invitational..,16,2,13,2,3,0,Insidious,6,17,0.36 
+2015,11,07,11:00,Insidious,TyLoo,cache,D!ngIT CS:GO Asia Invitational..,14,16,4,11,10,5,Insidious,19,20,0.90 
+2015,11,03,12:00,Insidious,Puzzle,train,MixBOT Pro-League Invite Seaso..,16,7,9,6,7,1,Insidious,22,14,1.50 
+2015,10,02,15:30,TheMongolz,Insidious,cobblestone,MixBOT Pro-League Invite Seaso..,16,3,12,3,4,0,Insidious,12,18,0.69 
+2015,10,02,15:30,Insidious,TheMongolz,inferno,MixBOT Pro-League Invite Seaso..,6,16,4,11,2,5,Insidious,12,20,0.61 
+2015,10,01,17:00,All-StarDragon,All-StarTiger,cache,Showmatch CS:GO,16,2,13,2,3,0,All-Star Dragon,16,7,1.60 
+2015,10,01,17:00,All-StarTiger,All-StarDragon,dust2,Showmatch CS:GO,12,16,5,10,7,6,All-Star Dragon,22,17,1.27 
+2015,09,18,16:50,MiraculousHawks,Insidious,dust2,MixBOT Pro-League Invite Seaso..,9,16,6,9,3,7,Insidious,25,14,1.59 
+2015,09,12,19:00,Insidious,Skyred,mirage,MixBOT Pro-League Invite Seaso..,5,16,4,11,1,5,Insidious,23,17,1.60 
+2015,09,12,16:40,Insidious,MOTV,cache,MixBOT Pro-League Invite Seaso..,16,11,9,6,7,5,Insidious,24,16,1.53 
+2015,04,17,14:00,Insidious,TyLoo,mirage,Rising Stars Asia #1,8,16,8,7,0,9,Insidious,18,18,1.05 

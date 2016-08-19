@@ -1,0 +1,18 @@
+2016,08,05,04:30,RONIN,EchoFox,dust2,ESEA Premier Season 22 North A..,7,16,1,14,6,2,RONIN,8,17,0.50 
+2016,08,05,04:30,RONIN,EchoFox,overpass,ESEA Premier Season 22 North A..,10,16,7,8,3,8,RONIN,14,19,0.78 
+2016,03,16,04:00,Prospects,Selfless,dust2,CEVO Gfinity Professional Seas..,11,16,4,11,7,5,Prospects,13,19,0.77 
+2016,03,16,04:00,Prospects,Selfless,cache,CEVO Gfinity Professional Seas..,11,16,9,6,2,10,Prospects,13,16,0.78 
+2015,12,16,04:30,ACE,UMass,cache,QuickShot Arena NA #2,13,16,4,11,9,5,ACE,23,21,1.09 
+2015,12,16,03:30,ACE,Incursion,cache,QuickShot Arena NA #2,16,4,12,3,4,1,ACE,17,8,1.34 
+2015,12,15,06:00,ACE,SetToDestroyX,dust2,QuickShot Arena NA #2,16,14,12,3,4,11,ACE,16,17,0.92 
+2015,12,15,03:30,ACE,Incursion,mirage,QuickShot Arena NA #2,11,16,6,9,5,7,ACE,13,18,0.70 
+2015,12,15,03:30,ACE,Incursion,inferno,QuickShot Arena NA #2,11,16,6,9,5,7,ACE,22,21,1.10 
+2015,12,06,00:00,3sUP,ACE,cobblestone,Northern Arena 2015,8,16,5,10,3,6,ACE,14,13,0.93 
+2015,12,05,22:00,CLG,ACE,mirage,Northern Arena 2015,16,11,9,6,7,5,ACE,8,21,0.45 
+2015,12,05,20:00,ACE,Nexus,inferno,Northern Arena 2015,7,16,3,12,4,4,ACE,13,17,0.81 
+2015,12,02,02:45,Nexus,AstralAuthority,cache,QuickShot Arena NA #1,14,16,10,5,4,11,Nexus,25,20,1.22 
+2015,12,01,04:15,Nexus,Gosu,dust2,QuickShot Arena NA #1,14,16,10,5,4,11,Nexus,11,18,0.65 
+2015,12,01,04:15,Nexus,Gosu,cache,QuickShot Arena NA #1,12,16,8,7,4,9,Nexus,25,18,1.31 
+2015,11,17,01:00,CLG,Nexus,mirage,RGN Pro Series Championship,16,7,8,7,8,0,Nexus,11,15,0.76 
+2015,11,16,23:15,Renegades,Nexus,inferno,RGN Pro Series Championship,16,8,12,3,4,5,Nexus,12,18,0.77 
+2015,11,16,21:45,Enemy,Nexus,cobblestone,RGN Pro Series Championship,16,2,13,2,3,0,Nexus,4,17,0.23 

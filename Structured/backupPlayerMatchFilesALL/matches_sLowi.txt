@@ -1,0 +1,14 @@
+2015,12,18,20:30,KoNDenmark,KoNFinland,inferno,King of Nordic Season 2,16,9,10,5,6,4,KoN Finland,14,20,0.75 
+2015,12,18,19:15,KoNNorway,KoNFinland,cache,King of Nordic Season 2,6,16,4,11,2,5,KoN Finland,25,8,1.81 
+2015,11,13,20:30,KoNSweden,KoNFinland,mirage,King of Nordic Season 2,16,12,7,8,9,4,KoN Finland,10,19,0.64 
+2015,11,06,21:30,KoNDenmark,KoNFinland,cache,King of Nordic Season 2,16,12,6,9,10,3,KoN Finland,24,22,1.14 
+2015,10,30,21:45,KoNSweden,KoNFinland,dust2,King of Nordic Season 2,8,16,6,9,2,7,KoN Finland,17,9,1.27 
+2015,10,30,11:00,SkitLite,RCTIC,mirage,ASUS ROG Nordic Challenge,12,16,6,9,6,7,SkitLite,19,20,1.01 
+2015,10,30,11:00,RCTIC,SkitLite,train,ASUS ROG Nordic Challenge,16,7,11,4,5,3,SkitLite,13,20,0.76 
+2015,10,23,21:30,KoNFinland,KoNDenmark,cache,King of Nordic Season 2,16,2,13,2,3,0,KoN Finland,11,12,0.78 
+2015,10,16,21:45,KoNNorway,KoNFinland,cache,King of Nordic Season 2,3,16,3,12,0,4,KoN Finland,21,7,1.74 
+2015,10,09,21:45,Finland,Sweden,dust2,King of Nordic Season 2,16,5,13,2,3,3,Finland,22,7,1.70 
+2015,09,04,21:45,Denmark,Finland,dust2,King of Nordic Season 1,10,16,4,11,6,5,Finland,23,17,1.33 
+2015,09,04,20:25,Sweden,Finland,mirage,King of Nordic Season 1,13,16,10,5,3,11,Finland,25,19,1.32 
+2015,09,04,19:00,Finland,Norway,cache,King of Nordic Season 1,16,12,8,7,8,5,Finland,14,17,0.80 
+2015,08,21,19:20,Finland,Denmark,mirage,King of Nordic Season 1,14,16,10,5,4,11,Finland,21,21,0.93 

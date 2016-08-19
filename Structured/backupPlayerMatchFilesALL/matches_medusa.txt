@@ -1,0 +1,6 @@
+2016,04,29,19:00,ANOX,BinaryDragonsGold,train,StarLadder Minor CIS - Cologne..,16,2,13,2,3,0,Binary Dragons Gold,10,17,0.64 
+2016,04,29,19:00,BinaryDragonsGold,ANOX,mirage,StarLadder Minor CIS - Cologne..,8,16,5,10,3,6,Binary Dragons Gold,15,17,0.86 
+2016,04,29,17:30,Vesuvius,BinaryDragonsGold,dust2,StarLadder Minor CIS - Cologne..,4,16,4,11,0,5,Binary Dragons Gold,20,9,1.57 
+2016,04,28,13:15,ANOX,BinaryDragonsGold,cache,StarLadder Minor CIS - Cologne..,16,5,11,4,5,1,Binary Dragons Gold,16,18,1.03 
+2016,04,20,17:00,eXplosive,BinaryDragonsGold,dust2,StarLadder Regional Minor Cham..,16,8,7,8,9,0,Binary Dragons Gold,19,18,0.99 
+2016,04,20,17:00,BinaryDragonsGold,eXplosive,cache,StarLadder Regional Minor Cham..,1,16,1,14,0,2,Binary Dragons Gold,5,16,0.33 

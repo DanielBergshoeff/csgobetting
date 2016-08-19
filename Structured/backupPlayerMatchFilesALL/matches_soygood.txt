@@ -1,0 +1,6 @@
+2015,09,22,11:00,Chiefs,Control.VP,cache,FACEIT League 2015 Stage 3 OCE..,16,12,9,6,7,6,Control.VP,13,21,0.63 
+2015,09,21,10:00,Control.VP,Molotov,inferno,FACEIT League 2015 Stage 3 OCE..,16,9,11,4,5,5,Control.VP,15,16,0.96 
+2015,09,21,10:00,Molotov,Control.VP,cache,FACEIT League 2015 Stage 3 OCE..,7,16,2,13,5,3,Control.VP,12,13,0.89 
+2015,05,27,11:00,Steelseries,Skyfire,dust2,FACEIT League 2015 Stage 2 Oce..,16,13,8,7,8,6,Skyfire,27,21,1.18 
+2015,05,27,11:00,Skyfire,Steelseries,overpass,FACEIT League 2015 Stage 2 Oce..,16,12,14,1,2,11,Skyfire,20,22,1.02 
+2015,05,27,11:00,Skyfire,Steelseries,cache,FACEIT League 2015 Stage 2 Oce..,14,16,5,10,9,6,Skyfire,19,22,0.86 

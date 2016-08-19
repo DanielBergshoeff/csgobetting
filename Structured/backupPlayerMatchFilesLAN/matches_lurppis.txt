@@ -1,0 +1,16 @@
+2014,10,05,16:00,osku'steam,Twista'steam,cache,Areena #6 by ROCCAT,6,16,6,9,0,7,Twista's team,13,15,0.86 
+2014,10,05,15:00,Twista'steam,naSu'steam,cache,Areena #6 by ROCCAT,13,16,8,7,5,9,Twista's team,22,20,1.11 
+2014,10,05,13:10,Twista'steam,sAw'steam,dust2,Areena #6 by ROCCAT,16,13,10,5,6,8,Twista's team,20,16,1.10 
+2014,10,05,11:25,Twista'steam,KIPSIk'steam,cache,Areena #6 by ROCCAT,15,15,6,9,9,6,Twista's team,16,24,0.67 
+2014,10,05,10:25,Twista'steam,juho'steam,mirage,Areena #6 by ROCCAT,15,15,8,7,7,8,Twista's team,22,21,1.03 
+2014,10,05,09:35,fAlsu'steam,Twista'steam,dust2,Areena #6 by ROCCAT,16,6,10,5,6,1,Twista's team,6,18,0.38 
+2014,10,05,00:00,Menace,ROTY,cache,Areena #5 by ROCCAT,4,16,3,12,1,4,ROTY,12,13,0.87 
+2014,10,05,00:00,ROTY,Menace,dust2,Areena #5 by ROCCAT,16,7,11,4,5,3,ROTY,11,14,0.74 
+2014,10,04,22:50,ROTY,Jynttä,mirage,Areena #5 by ROCCAT,16,12,9,6,7,6,ROTY,15,17,0.85 
+2014,10,04,22:50,Jynttä,ROTY,nuke,Areena #5 by ROCCAT,5,16,4,11,1,5,ROTY,8,14,0.59 
+2014,10,04,15:00,ROTY,Jynttä,mirage,Areena #5 by ROCCAT,15,15,9,6,6,9,ROTY,17,22,0.79 
+2014,10,04,14:15,ROTY,GLSHAKER,cache,Areena #5 by ROCCAT,16,6,9,6,7,0,ROTY,14,15,0.95 
+2014,10,04,12:40,Hanatauki,ROTY,dust2,Areena #5 by ROCCAT,9,16,3,12,6,4,ROTY,20,14,1.19 
+2014,10,04,12:00,ROTY,Superstars,dust2,Areena #5 by ROCCAT,16,3,13,2,3,1,ROTY,10,7,1.08 
+2014,10,04,11:00,ROTY,myMDL,mirage,Areena #5 by ROCCAT,13,16,10,5,3,11,ROTY,17,23,0.74 
+2014,10,04,10:00,ROTY,Menace,mirage,Areena #5 by ROCCAT,14,16,12,3,2,13,ROTY,14,25,0.60 

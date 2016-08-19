@@ -1,0 +1,5 @@
+2015,08,14,13:00,Morocco,SouthAfrica,dust2,World Championships 2015 Afric..,16,2,13,2,3,0,Morocco,15,6,1.40 
+2015,08,11,16:45,Egypt,Morocco,dust2,World Championships 2015 Afric..,16,6,10,5,6,1,Morocco,15,17,0.99 
+2015,08,11,15:45,Tunisia,Morocco,cache,World Championships 2015 Afric..,16,3,12,3,4,0,Morocco,5,18,0.26 
+2015,08,10,15:15,Morocco,Libya,cache,World Championships 2015 Afric..,16,6,10,5,6,1,Morocco,21,11,1.44 
+2015,08,10,14:00,Morocco,Algeria,dust2,World Championships 2015 Afric..,15,15,7,8,8,7,Morocco,22,19,1.03 

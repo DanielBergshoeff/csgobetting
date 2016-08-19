@@ -1,0 +1,6 @@
+2016,02,05,20:15,KoNNorway,KoNFinland,inferno,King of Nordic Season 3,16,8,7,8,9,0,KoN Finland,14,18,0.91 
+2015,10,17,18:30,Recursive,JDWI,overpass,Jimm's CS:GO Challenge,16,10,9,6,7,4,Recursive,15,17,0.83 
+2015,10,17,18:30,JDWI,Recursive,cache,Jimm's CS:GO Challenge,16,13,8,7,8,6,Recursive,14,21,0.67 
+2015,10,17,18:30,JDWI,Recursive,mirage,Jimm's CS:GO Challenge,1,16,1,14,0,2,Recursive,19,5,1.78 
+2015,10,17,13:40,RCTIC,Recursive,overpass,Jimm's CS:GO Challenge,16,12,6,9,10,3,Recursive,15,23,0.68 
+2015,10,17,13:40,RCTIC,Recursive,train,Jimm's CS:GO Challenge,16,10,9,6,7,4,Recursive,12,19,0.69 

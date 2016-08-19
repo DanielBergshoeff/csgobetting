@@ -1,0 +1,16 @@
+2016,04,22,11:00,inchk1ng,nxl,cache,Rising Stars SEA Promotional C..,14,16,10,5,4,11,inchk1ng,19,18,0.97 
+2016,04,22,11:00,nxl,inchk1ng,dust2,Rising Stars SEA Promotional C..,16,9,8,7,8,2,inchk1ng,15,17,0.88 
+2016,04,20,17:10,EDG,inchk1ng,overpass,Rising Stars SEA Promotional C..,14,16,11,4,3,12,inchk1ng,15,20,0.71 
+2016,04,20,14:30,inchk1ng,TheMongolz,cache,Rising Stars SEA Promotional C..,10,16,8,7,2,9,inchk1ng,21,17,1.14 
+2016,04,20,12:00,MOTV,inchk1ng,dust2,Rising Stars SEA Promotional C..,12,16,4,11,8,5,inchk1ng,22,16,1.11 
+2016,04,17,13:00,Immunity,inchk1ng,dust2,WCA 2016 APAC Qualifier,16,1,14,1,2,0,inchk1ng,4,17,0.23 
+2016,04,17,13:00,inchk1ng,Immunity,cache,WCA 2016 APAC Qualifier,9,16,5,10,4,6,inchk1ng,14,18,0.79 
+2016,04,17,13:00,inchk1ng,Immunity,inferno,WCA 2016 APAC Qualifier,16,8,10,5,6,3,inchk1ng,13,14,0.89 
+2016,04,15,13:00,inchk1ng,nxl,inferno,WCA 2016 APAC Qualifier,16,8,11,4,5,4,inchk1ng,21,14,1.24 
+2016,04,15,13:00,inchk1ng,nxl,mirage,WCA 2016 APAC Qualifier,8,16,5,10,3,6,inchk1ng,14,19,0.75 
+2016,04,15,13:00,nxl,inchk1ng,cache,WCA 2016 APAC Qualifier,3,16,3,12,0,4,inchk1ng,14,7,1.25 
+2016,03,13,10:00,Immunity,inchk1ng,inferno,DreamHack Masters Malmö 2016 A..,16,9,11,4,5,5,inchk1ng,14,18,0.72 
+2016,03,13,10:00,Immunity,inchk1ng,overpass,DreamHack Masters Malmö 2016 A..,7,16,6,9,1,7,inchk1ng,18,12,1.25 
+2016,03,13,10:00,inchk1ng,Immunity,cache,DreamHack Masters Malmö 2016 A..,6,16,4,11,2,5,inchk1ng,11,19,0.56 
+2016,03,13,06:40,inchk1ng,Risky,train,DreamHack Masters Malmö 2016 A..,16,3,12,3,4,0,inchk1ng,17,10,1.23 
+2016,03,13,06:40,inchk1ng,Risky,dust2,DreamHack Masters Malmö 2016 A..,16,8,11,4,5,4,inchk1ng,20,18,1.07 

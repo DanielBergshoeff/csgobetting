@@ -1,0 +1,8 @@
+2016,07,26,21:00,Awsomniac,E-Corp,overpass,UnderDogs #4,16,9,8,7,8,2,E-Corp,16,19,1.01 
+2016,07,26,21:00,E-Corp,Awsomniac,cache,UnderDogs #4,16,14,11,4,5,10,E-Corp,17,21,0.89 
+2016,07,26,21:00,Awsomniac,E-Corp,dust2,UnderDogs #4,16,2,13,2,3,0,E-Corp,1,18,0.05 
+2016,07,25,20:00,E-Corp,beGenius,cache,UnderDogs #4,16,3,12,3,4,0,E-Corp,20,11,1.47 
+2016,07,25,20:00,beGenius,E-Corp,mirage,UnderDogs #4,12,16,5,10,7,6,E-Corp,27,16,1.53 
+2015,11,25,21:00,LDLCWhite,unu.AiN,cobblestone,Game Show Global eSports Cup 2..,1,16,1,14,0,2,LDLC White,5,16,0.29 
+2015,11,25,21:00,LDLCWhite,unu.AiN,inferno,Game Show Global eSports Cup 2..,16,11,7,8,9,3,LDLC White,20,15,1.30 
+2014,09,28,17:00,myXMG,fusd0,inferno,Fragbite Masters Season 3 Qual..,16,3,12,3,4,0,fusd0,6,17,0.38 

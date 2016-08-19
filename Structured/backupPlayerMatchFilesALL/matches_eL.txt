@@ -1,0 +1,16 @@
+2016,02,28,13:00,dream[S]cape,J2G,dust2,Born To Win Invitational Leagu..,16,7,9,6,7,1,J2G,14,19,0.78 
+2016,02,28,13:00,J2G,dream[S]cape,cobblestone,Born To Win Invitational Leagu..,6,16,5,10,1,6,J2G,12,18,0.74 
+2016,02,27,16:30,J2G,MVP.karnal,cobblestone,Born To Win Invitational Leagu..,4,16,2,13,2,3,J2G,5,16,0.40 
+2016,02,27,16:30,J2G,MVP.karnal,mirage,Born To Win Invitational Leagu..,6,16,6,9,0,7,J2G,10,16,0.66 
+2016,02,26,14:00,J2G,MiTH,cobblestone,Born To Win Invitational Leagu..,16,3,12,3,4,0,J2G,18,8,1.36 
+2016,02,26,14:00,MiTH,J2G,mirage,Born To Win Invitational Leagu..,12,16,7,8,5,8,J2G,11,17,0.69 
+2016,02,26,14:00,J2G,MiTH,overpass,Born To Win Invitational Leagu..,10,16,4,11,6,5,J2G,6,24,0.34 
+2016,02,23,14:00,J2G,Threats,mirage,Born To Win Invitational Leagu..,16,12,12,3,4,9,J2G,17,18,0.86 
+2016,02,21,15:30,J2G,MVP.karnal,cobblestone,Born To Win Invitational Leagu..,9,16,6,9,3,7,J2G,5,20,0.33 
+2016,02,21,14:00,J2G,Expendables,dust2,Born To Win Invitational Leagu..,19,17,2,13,13,2,J2G,18,21,0.81 
+2015,12,09,16:00,TheMongolz,J2G,mirage,D!ngIT CS:GO Asia Invitational..,16,8,10,5,6,3,J2G,9,21,0.46 
+2015,12,09,14:30,J2G,T5,inferno,D!ngIT CS:GO Asia Invitational..,16,13,9,6,7,7,J2G,21,17,1.12 
+2015,12,07,13:00,J2G,TheMongolz,inferno,D!ngIT CS:GO Asia Invitational..,3,16,3,12,0,4,J2G,7,17,0.42 
+2015,11,04,17:30,TwistoFate,J2G,cache,MixBOT Pro-League Invite Seaso..,10,16,3,12,7,4,J2G,17,19,0.90 
+2015,10,16,16:00,m0nster,J2G,dust2,MixBOT Pro-League Invite Seaso..,10,16,4,11,6,5,J2G,15,18,0.82 
+2015,10,16,13:55,J2G,TwistoFate,cache,MixBOT Pro-League Invite Seaso..,12,16,8,7,4,9,J2G,15,24,0.63 

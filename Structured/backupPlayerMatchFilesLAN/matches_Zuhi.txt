@@ -1,0 +1,5 @@
+2016,05,01,14:45,eSuba,GUNRUNNERS,mirage,TIGER MASTERS Mid-season Final..,12,16,9,6,3,10,GUNRUNNERS,15,24,0.67 
+2016,05,01,14:45,GUNRUNNERS,eSuba,cache,TIGER MASTERS Mid-season Final..,16,14,5,10,11,4,GUNRUNNERS,29,21,1.30 
+2014,10,04,10:00,CyborgFactory,Fraternitas,mirage,MČR 2014,5,16,4,11,1,5,Cyborg Factory,22,16,1.43 
+2014,10,04,10:00,Fraternitas,CyborgFactory,dust2,MČR 2014,16,2,13,2,3,0,Cyborg Factory,6,17,0.39 
+2014,10,04,10:00,Fraternitas,CyborgFactory,season,MČR 2014,16,8,9,6,7,2,Cyborg Factory,14,20,0.67 

@@ -1,0 +1,17 @@
+2015,11,19,19:00,VegaSquadron,PiTER,cache,CIS LAN Championship #2,9,16,6,9,3,7,Vega Squadron,6,21,0.33 
+2015,11,19,19:00,PiTER,VegaSquadron,overpass,CIS LAN Championship #2,16,7,10,5,6,2,Vega Squadron,12,19,0.68 
+2015,11,19,19:00,PiTER,VegaSquadron,mirage,CIS LAN Championship #2,16,8,11,4,5,4,Vega Squadron,13,19,0.67 
+2015,11,19,10:20,PiTER,VegaSquadron,dust2,CIS LAN Championship #2,13,16,9,6,4,10,Vega Squadron,23,21,1.09 
+2015,11,19,10:20,PiTER,VegaSquadron,mirage,CIS LAN Championship #2,16,19,7,8,8,7,Vega Squadron,33,23,1.32 
+2015,11,18,09:15,VegaSquadron,YP,cache,CIS LAN Championship #2,16,3,12,3,4,0,Vega Squadron,12,7,1.17 
+2015,11,18,09:15,VegaSquadron,YP,inferno,CIS LAN Championship #2,19,17,10,5,5,10,Vega Squadron,27,22,1.14 
+2015,11,17,16:30,PARTY,VegaSquadron,mirage,CIS LAN Championship #2,11,16,10,5,1,11,Vega Squadron,16,14,0.97 
+2015,11,17,16:30,VegaSquadron,PARTY,dust2,CIS LAN Championship #2,6,16,6,9,0,7,Vega Squadron,5,16,0.41 
+2015,11,17,16:30,PARTY,VegaSquadron,cache,CIS LAN Championship #2,11,16,3,12,8,4,Vega Squadron,16,21,0.87 
+2015,11,17,12:45,USSR,VegaSquadron,dust2,CIS LAN Championship #2,7,16,4,11,3,5,Vega Squadron,11,12,0.79 
+2015,11,17,12:45,USSR,VegaSquadron,overpass,CIS LAN Championship #2,14,16,5,10,9,6,Vega Squadron,13,20,0.69 
+2015,11,17,12:45,VegaSquadron,USSR,mirage,CIS LAN Championship #2,11,16,9,6,2,10,Vega Squadron,14,19,0.74 
+2015,04,18,14:00,TEAMSWAGYOLO,WEPLAY,cobblestone,CIS LAN Championship,16,9,10,5,6,4,WEPLAY,20,17,1.06 
+2015,04,18,14:00,WEPLAY,TEAMSWAGYOLO,mirage,CIS LAN Championship,10,16,6,9,4,7,WEPLAY,23,20,1.07 
+2015,04,17,23:50,WEPLAY,GGWP,nuke,CIS LAN Championship,10,16,10,5,0,11,WEPLAY,24,14,1.38 
+2015,04,17,21:00,ACES,WEPLAY,inferno,CIS LAN Championship,16,12,8,7,8,5,WEPLAY,19,20,1.07 

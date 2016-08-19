@@ -1,0 +1,31 @@
+2016,08,14,10:30,GrinnyBankers,Skyfire,mirage,ESL ANZ Championship Season 2 ..,8,16,3,12,5,4,Skyfire,19,14,1.17 
+2016,08,14,10:30,Skyfire,GrinnyBankers,cobblestone,ESL ANZ Championship Season 2 ..,16,2,13,2,3,0,Skyfire,27,9,2.27 
+2016,07,28,11:30,Parallax,Chiefs,cache,CyberGamer Oceania eSports Mas..,16,12,7,8,9,4,Chiefs,16,24,0.72 
+2016,07,28,11:30,Chiefs,Parallax,overpass,CyberGamer Oceania eSports Mas..,16,10,12,3,4,7,Chiefs,24,16,1.35 
+2016,07,28,11:30,Chiefs,Parallax,dust2,CyberGamer Oceania eSports Mas..,13,16,7,8,6,8,Chiefs,18,23,0.83 
+2016,07,24,07:40,AthleticoBH,Chiefs,train,ESL Australia & NZ Championshi..,16,8,9,6,7,2,Chiefs,16,19,0.87 
+2016,07,24,07:40,AthleticoBH,Chiefs,dust2,ESL Australia & NZ Championshi..,16,12,7,8,9,4,Chiefs,21,15,1.19 
+2016,07,24,04:15,Chiefs,Parallax,train,ESL Australia & NZ Championshi..,12,16,6,9,6,7,Chiefs,22,19,1.08 
+2016,07,24,04:15,Chiefs,Parallax,mirage,ESL Australia & NZ Championshi..,16,8,11,4,5,4,Chiefs,9,16,0.68 
+2016,07,24,04:15,Parallax,Chiefs,cache,ESL Australia & NZ Championshi..,16,12,10,5,6,7,Chiefs,15,23,0.66 
+2016,07,23,10:30,Exile5,Chiefs,train,ESL Australia & NZ Championshi..,13,16,9,6,4,10,Chiefs,18,19,0.96 
+2016,07,23,10:30,Chiefs,Exile5,cache,ESL Australia & NZ Championshi..,16,6,9,6,7,0,Chiefs,18,15,1.10 
+2016,07,19,12:00,Chiefs,Exile5,train,CyberGamer Oceania eSports Mas..,16,7,11,4,5,3,Chiefs,29,12,1.90 
+2016,07,19,12:00,Exile5,Chiefs,mirage,CyberGamer Oceania eSports Mas..,7,16,4,11,3,5,Chiefs,18,12,1.22 
+2016,07,19,12:00,Exile5,Chiefs,cache,CyberGamer Oceania eSports Mas..,16,14,4,11,12,3,Chiefs,16,20,0.78 
+2016,07,18,12:00,AthleticoBH,Chiefs,train,CyberGamer Oceania eSports Mas..,16,8,12,3,4,5,Chiefs,15,18,0.82 
+2016,07,18,12:00,Chiefs,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,3,16,3,12,0,4,Chiefs,7,16,0.47 
+2016,07,18,12:00,AthleticoBH,Chiefs,cache,CyberGamer Oceania eSports Mas..,5,16,4,11,1,5,Chiefs,18,7,1.51 
+2016,07,11,12:00,Chiefs,GUTS,nuke,CyberGamer Oceania eSports Mas..,17,19,12,3,3,12,Chiefs,29,23,1.19 
+2016,07,11,12:00,Chiefs,GUTS,mirage,CyberGamer Oceania eSports Mas..,14,16,7,8,7,8,Chiefs,16,20,0.79 
+2016,07,11,12:00,GUTS,Chiefs,cache,CyberGamer Oceania eSports Mas..,12,16,2,13,10,3,Chiefs,23,17,1.32 
+2016,07,05,12:00,Chiefs,Skyfire,cobblestone,CyberGamer Oceania eSports Mas..,12,16,6,9,6,7,Chiefs,18,21,0.84 
+2016,07,05,12:00,Skyfire,Chiefs,dust2,CyberGamer Oceania eSports Mas..,16,13,7,8,9,5,Chiefs,22,20,1.03 
+2016,07,05,12:00,Chiefs,Skyfire,mirage,CyberGamer Oceania eSports Mas..,16,10,7,8,9,2,Chiefs,17,16,1.11 
+2016,06,30,09:00,NewZealand,Australia,mirage,World Championships 2016 Ocean..,2,16,2,13,0,3,Australia,17,9,1.52 
+2016,06,30,09:00,Australia,NewZealand,dust2,World Championships 2016 Ocean..,16,1,14,1,2,0,Australia,9,6,1.04 
+2015,09,22,11:00,Chiefs,Control.VP,inferno,FACEIT League 2015 Stage 3 OCE..,16,1,15,0,1,1,Control.VP,9,16,0.56 
+2015,09,22,11:00,Control.VP,Chiefs,mirage,FACEIT League 2015 Stage 3 OCE..,16,11,8,7,8,4,Control.VP,25,19,1.42 
+2015,09,22,11:00,Chiefs,Control.VP,cache,FACEIT League 2015 Stage 3 OCE..,16,12,9,6,7,6,Control.VP,26,23,1.19 
+2015,09,21,10:00,Control.VP,Molotov,inferno,FACEIT League 2015 Stage 3 OCE..,16,9,11,4,5,5,Control.VP,21,19,1.25 
+2015,09,21,10:00,Molotov,Control.VP,cache,FACEIT League 2015 Stage 3 OCE..,7,16,2,13,5,3,Control.VP,25,13,1.57 

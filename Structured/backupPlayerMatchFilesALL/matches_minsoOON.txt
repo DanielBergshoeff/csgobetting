@@ -1,0 +1,2 @@
+2015,09,15,02:00,Liquid,h00liGaNz,train,DreamHack Open Cluj-Napoca 201..,16,4,12,3,4,1,h00liGaNz,3,18,0.21 
+2015,09,15,02:00,h00liGaNz,Liquid,cache,DreamHack Open Cluj-Napoca 201..,6,16,5,10,1,6,h00liGaNz,11,18,0.65 

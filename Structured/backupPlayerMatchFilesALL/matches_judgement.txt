@@ -1,0 +1,5 @@
+2015,08,26,18:00,XPC,SpaceSoldiers,mirage,QuickShot Arena #4,12,16,3,12,9,4,XPC,11,24,0.53 
+2015,08,26,18:00,SpaceSoldiers,XPC,cobblestone,QuickShot Arena #4,16,2,13,2,3,0,XPC,3,16,0.23 
+2015,08,26,18:00,SpaceSoldiers,XPC,inferno,QuickShot Arena #4,8,16,5,10,3,6,XPC,14,12,1.02 
+2015,05,25,22:00,HellRaisers,XPC,overpass,FACEIT League 2015 Stage 2 EU ..,16,5,11,4,5,1,XPC,5,18,0.32 
+2015,05,25,22:00,HellRaisers,XPC,cache,FACEIT League 2015 Stage 2 EU ..,16,2,13,2,3,0,XPC,10,18,0.56 

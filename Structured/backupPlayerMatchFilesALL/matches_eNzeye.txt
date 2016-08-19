@@ -1,0 +1,4 @@
+2016,03,25,22:00,Rizefe,mConfe,cache,Copenhagen Games 2016 female,2,16,2,13,0,3,Rize fe,13,18,0.70 
+2016,03,25,22:00,mConfe,Rizefe,dust2,Copenhagen Games 2016 female,16,9,8,7,8,2,Rize fe,9,22,0.45 
+2016,03,25,16:30,YPLadies,Rizefe,dust2,Copenhagen Games 2016 female,16,3,12,3,4,0,Rize fe,9,18,0.47 
+2016,03,25,16:30,YPLadies,Rizefe,cobblestone,Copenhagen Games 2016 female,16,2,14,1,2,1,Rize fe,3,18,0.14 

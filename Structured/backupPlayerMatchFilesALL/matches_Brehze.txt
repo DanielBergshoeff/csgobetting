@@ -1,0 +1,69 @@
+2016,08,11,03:45,Kaliber,Prospects,train,SL i-League S2 Americas Qualif..,19,17,10,5,5,10,Kaliber,28,26,1.01 
+2016,08,11,03:45,Prospects,Kaliber,cobblestone,SL i-League S2 Americas Qualif..,15,19,7,8,8,7,Kaliber,22,21,0.94 
+2016,08,11,03:45,Kaliber,Prospects,mirage,SL i-League S2 Americas Qualif..,17,19,7,8,8,7,Kaliber,25,27,0.98 
+2016,08,10,03:15,Kaliber,Blight,cache,SL i-League S2 Americas Qualif..,16,6,11,4,5,2,Kaliber,16,14,1.14 
+2016,08,10,03:15,Blight,Kaliber,cobblestone,SL i-League S2 Americas Qualif..,1,16,1,14,0,2,Kaliber,18,9,1.58 
+2016,08,10,00:15,Kaliber,compLexity,cache,SL i-League S2 Americas Qualif..,16,3,12,3,4,0,Kaliber,24,12,1.72 
+2016,08,10,00:15,compLexity,Kaliber,dust2,SL i-League S2 Americas Qualif..,14,16,9,6,5,10,Kaliber,27,22,1.30 
+2016,08,05,02:15,SteamAnalyst,Kaliber,cobblestone,ESEA Premier Season 22 North A..,16,13,6,9,10,4,Kaliber,30,21,1.55 
+2016,08,05,02:15,Kaliber,SteamAnalyst,dust2,ESEA Premier Season 22 North A..,3,16,3,12,0,4,Kaliber,13,17,0.81 
+2016,08,05,02:15,SteamAnalyst,Kaliber,cache,ESEA Premier Season 22 North A..,9,16,6,9,3,7,Kaliber,23,16,1.20 
+2016,07,27,03:00,WinOut,Kaliber,mirage,StarPrime CyborWars 2016,16,11,13,2,3,9,Kaliber,15,23,0.67 
+2016,07,27,03:00,Kaliber,WinOut,train,StarPrime CyborWars 2016,12,16,7,8,5,8,Kaliber,20,20,0.87 
+2016,07,17,02:15,TSM,Kaliber,mirage,iBUYPOWER Invitational Summer ..,16,13,7,8,9,5,Kaliber,24,25,1.02 
+2016,07,17,02:15,Kaliber,TSM,train,iBUYPOWER Invitational Summer ..,5,16,3,12,2,4,Kaliber,17,18,0.99 
+2016,05,30,04:15,TSM,Kaliber,dust2,CyberPowerPC Summer 2016 Quali..,16,6,12,3,4,3,Kaliber,16,18,0.94 
+2016,05,30,04:15,TSM,Kaliber,mirage,CyberPowerPC Summer 2016 Quali..,16,13,9,6,7,7,Kaliber,17,22,0.83 
+2016,05,30,00:00,Prospects,Kaliber,mirage,CyberPowerPC Summer 2016 Quali..,13,16,6,9,7,7,Kaliber,25,20,1.31 
+2016,05,30,00:00,Prospects,Kaliber,overpass,CyberPowerPC Summer 2016 Quali..,16,19,13,2,2,13,Kaliber,30,28,1.18 
+2016,05,24,22:15,TSM,Kaliber,cobblestone,ECS Season 1,16,9,8,7,8,2,Kaliber,18,21,0.87 
+2016,05,19,22:20,Kaliber,TSM,overpass,MLG Regional Minor Championshi..,4,16,3,12,1,4,Kaliber,9,17,0.53 
+2016,05,19,19:20,Kaliber,NRG,mirage,MLG Regional Minor Championshi..,13,16,9,6,4,10,Kaliber,21,23,0.89 
+2016,05,18,01:00,Liquid,Kaliber,mirage,ECS Season 1,16,13,6,9,10,4,Kaliber,26,23,1.30 
+2016,05,18,01:00,Liquid,Kaliber,dust2,ECS Season 1,16,11,7,8,9,3,Kaliber,16,22,0.69 
+2016,05,15,23:00,ZePugGodz,Kaliber,train,ESEA Premier Season 21 North A..,16,10,8,7,8,3,Kaliber,24,21,1.20 
+2016,05,15,23:00,Kaliber,ZePugGodz,cache,ESEA Premier Season 21 North A..,18,22,6,9,9,6,Kaliber,31,32,1.01 
+2016,05,15,23:00,ZePugGodz,Kaliber,mirage,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Kaliber,27,9,2.17 
+2016,05,09,05:45,RivaL,WithoutaRoof,mirage,MLG Regional Minor North Ameri..,10,16,3,12,7,4,Without a Roof,21,16,1.14 
+2016,05,09,04:35,Prospects,WithoutaRoof,overpass,MLG Regional Minor North Ameri..,5,16,4,11,1,5,Without a Roof,15,12,1.22 
+2016,05,09,03:15,WithoutaRoof,Noble,dust2,MLG Regional Minor North Ameri..,16,12,8,7,8,5,Without a Roof,25,16,1.37 
+2016,05,08,20:55,TSM,WithoutaRoof,cache,MLG Regional Minor North Ameri..,16,6,12,3,4,3,Without a Roof,23,16,1.52 
+2016,05,08,20:55,TSM,WithoutaRoof,cobblestone,MLG Regional Minor North Ameri..,19,17,8,7,7,8,Without a Roof,21,30,0.72 
+2016,05,08,18:00,Kingdom,WithoutaRoof,cobblestone,MLG Regional Minor North Ameri..,8,16,6,9,2,7,Without a Roof,20,18,1.09 
+2016,05,08,18:00,WithoutaRoof,Kingdom,dust2,MLG Regional Minor North Ameri..,16,14,10,5,6,9,Without a Roof,25,22,1.17 
+2016,05,06,04:00,EchoFox,WithoutaRoof,dust2,ECS Season 1,16,10,10,5,6,5,Without a Roof,26,19,1.37 
+2016,05,06,04:00,WithoutaRoof,EchoFox,cobblestone,ECS Season 1,15,19,5,10,10,5,Without a Roof,31,25,1.32 
+2016,05,02,01:00,CLG,WithoutaRoof,dust2,ECS Season 1,16,12,8,7,8,5,Without a Roof,24,22,1.10 
+2016,05,02,01:00,CLG,WithoutaRoof,overpass,ECS Season 1,16,12,11,4,5,8,Without a Roof,23,22,1.28 
+2016,04,29,04:00,WithoutaRoof,Cloud9,cache,ECS Season 1,2,16,2,13,0,3,Without a Roof,4,18,0.19 
+2016,04,29,04:00,Cloud9,WithoutaRoof,dust2,ECS Season 1,16,5,11,4,5,1,Without a Roof,6,18,0.36 
+2016,04,19,04:00,compLexity,WithoutaRoof,mirage,ECS Season 1,11,16,5,10,6,6,Without a Roof,18,18,0.98 
+2016,04,19,04:00,compLexity,WithoutaRoof,cache,ECS Season 1,10,16,6,9,4,7,Without a Roof,20,16,1.14 
+2016,04,11,04:00,OpTic,WithoutaRoof,mirage,ECS Season 1,16,2,13,2,3,0,Without a Roof,10,17,0.61 
+2016,04,11,04:00,OpTic,WithoutaRoof,cobblestone,ECS Season 1,16,8,11,4,5,4,Without a Roof,13,19,0.65 
+2016,04,07,06:15,Obey.Alliance,KKona,overpass,ECS Season 1 Qualifier,16,9,10,5,6,4,Obey.Alliance,28,18,1.51 
+2016,04,07,06:15,KKona,Obey.Alliance,cache,ECS Season 1 Qualifier,6,16,5,10,1,6,Obey.Alliance,16,12,1.08 
+2016,04,07,04:00,Obey.Alliance,EchoFox,inferno,ECS Season 1 Qualifier,5,16,2,13,3,3,Obey.Alliance,15,14,1.03 
+2016,04,07,04:00,EchoFox,Obey.Alliance,mirage,ECS Season 1 Qualifier,19,15,5,10,10,5,Obey.Alliance,20,25,0.76 
+2016,03,25,04:00,KKona,Obey.Alliance,inferno,Stream.me Gauntlet ,13,16,9,6,4,10,Obey.Alliance,25,19,1.22 
+2016,03,25,04:00,Obey.Alliance,KKona,cache,Stream.me Gauntlet ,16,5,10,5,6,0,Obey.Alliance,24,11,1.95 
+2016,03,25,04:00,Obey.Alliance,KKona,overpass,Stream.me Gauntlet ,12,16,7,8,5,8,Obey.Alliance,19,22,0.93 
+2016,03,17,04:00,TempoStorm,Obey.Alliance,mirage,Stream.me Gauntlet ,16,9,12,3,4,6,Obey.Alliance,16,20,0.77 
+2016,03,17,04:00,TempoStorm,Obey.Alliance,inferno,Stream.me Gauntlet ,16,8,14,1,2,7,Obey.Alliance,15,20,0.75 
+2016,03,17,04:00,TempoStorm,Obey.Alliance,dust2,Stream.me Gauntlet ,8,16,3,12,5,4,Obey.Alliance,15,16,0.84 
+2016,02,26,02:30,Obey.Alliance,VexX,overpass,Stream.me Gauntlet ,16,7,11,4,5,3,Obey.Alliance,27,10,1.69 
+2016,02,26,02:30,Obey.Alliance,VexX,cache,Stream.me Gauntlet ,16,11,7,8,9,3,Obey.Alliance,21,20,0.90 
+2016,02,26,02:30,VexX,Obey.Alliance,train,Stream.me Gauntlet ,16,14,11,4,5,10,Obey.Alliance,23,23,0.99 
+2016,02,24,04:00,EvilNation,Obey.Alliance,dust2,Stream.me Gauntlet ,10,16,7,8,3,8,Obey.Alliance,17,15,1.03 
+2016,02,24,04:00,EvilNation,Obey.Alliance,cache,Stream.me Gauntlet ,13,16,9,6,4,10,Obey.Alliance,23,18,1.25 
+2016,02,23,03:00,Obey.Alliance,TempoStorm,mirage,GO:NA,16,7,9,6,7,1,Obey.Alliance,19,14,1.24 
+2016,01,16,23:30,Obey.Alliance,Winterfox,dust2,MLG Americas Minor Championshi..,14,16,8,7,6,9,Obey.Alliance,22,24,0.89 
+2016,01,16,23:30,Obey.Alliance,Winterfox,inferno,MLG Americas Minor Championshi..,16,12,10,5,6,7,Obey.Alliance,24,20,1.11 
+2016,01,16,23:30,Winterfox,Obey.Alliance,mirage,MLG Americas Minor Championshi..,16,9,6,9,10,0,Obey.Alliance,16,23,0.67 
+2015,12,18,00:00,VeloX,HiddenPotential,mirage,Game Show Global eSports Cup 2..,16,4,11,4,5,0,VeloX,17,10,1.35 
+2015,12,18,00:00,HiddenPotential,VeloX,cache,Game Show Global eSports Cup 2..,12,16,3,12,9,4,VeloX,24,20,1.22 
+2015,12,17,00:00,VeloX,CLG,cache,Game Show Global eSports Cup 2..,11,16,7,8,4,8,VeloX,25,18,1.28 
+2015,12,17,00:00,CLG,VeloX,cobblestone,Game Show Global eSports Cup 2..,16,3,12,3,4,0,VeloX,12,17,0.74 
+2015,12,17,00:00,CLG,VeloX,dust2,Game Show Global eSports Cup 2..,14,16,4,11,10,5,VeloX,22,20,1.10 
+2015,05,26,05:00,VeloX,affNity,dust2,FACEIT League 2015 Stage 2 NA ..,14,16,8,7,6,9,VeloX,27,19,1.36 
+2015,05,26,05:00,VeloX,affNity,cache,FACEIT League 2015 Stage 2 NA ..,11,16,7,8,4,8,VeloX,17,21,0.77 

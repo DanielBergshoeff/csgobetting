@@ -1,0 +1,191 @@
+2016,08,15,18:15,Tricked,ArchAngels,cobblestone,Stream.me Gauntlet EU #1,16,10,6,9,10,1,Tricked,27,14,1.49 
+2016,08,15,18:15,Tricked,ArchAngels,mirage,Stream.me Gauntlet EU #1,16,10,7,8,9,2,Tricked,20,16,1.11 
+2016,08,15,18:15,ArchAngels,Tricked,train,Stream.me Gauntlet EU #1,16,12,7,8,9,4,Tricked,14,20,0.69 
+2016,08,10,18:15,Tricked,PRIDE,mirage,Stream.me Gauntlet EU #1,16,11,13,2,3,9,Tricked,19,15,1.23 
+2016,08,10,18:15,PRIDE,Tricked,train,Stream.me Gauntlet EU #1,7,16,6,9,1,7,Tricked,18,15,1.09 
+2016,08,09,18:10,Tricked,AGG,nuke,xfunction Masters 2016,8,16,6,9,2,7,Tricked,15,18,0.87 
+2016,08,09,18:10,Tricked,AGG,cobblestone,xfunction Masters 2016,8,16,6,9,2,7,Tricked,10,18,0.65 
+2016,08,05,22:30,Tricked,SpaceSoldiers,cobblestone,ASUS ROG Summer 2016,6,16,2,13,4,3,Tricked,17,18,0.98 
+2016,08,05,22:30,Tricked,SpaceSoldiers,train,ASUS ROG Summer 2016,14,16,12,3,2,13,Tricked,22,19,1.05 
+2016,08,05,20:30,ArchAngels,Tricked,cobblestone,ASUS ROG Summer 2016,12,16,7,8,5,8,Tricked,17,21,0.88 
+2016,08,05,19:00,Tricked,SpaceSoldiers,dust2,ASUS ROG Summer 2016,11,16,3,12,8,4,Tricked,16,18,0.81 
+2016,07,28,21:45,Tricked,ALTERNATEaTTaX,overpass,Hitbox Challenger Cup #2,10,16,10,5,0,11,Tricked,15,17,0.88 
+2016,07,28,21:45,Tricked,ALTERNATEaTTaX,cobblestone,Hitbox Challenger Cup #2,6,16,3,12,3,4,Tricked,5,20,0.29 
+2016,07,26,21:00,SpaceSoldiers,Tricked,nuke,GG Masters,16,14,11,4,5,10,Tricked,17,20,0.86 
+2016,07,26,21:00,Tricked,SpaceSoldiers,cobblestone,GG Masters,11,16,9,6,2,10,Tricked,18,19,0.97 
+2016,07,26,18:10,Tricked,Kinguin,overpass,GG Masters,5,16,4,11,1,5,Tricked,9,19,0.49 
+2016,07,25,17:15,Tricked,Preparation,mirage,Stream.me Gauntlet EU #1,16,13,7,8,9,5,Tricked,17,17,0.95 
+2016,07,25,17:15,Preparation,Tricked,nuke,Stream.me Gauntlet EU #1,6,16,6,9,0,7,Tricked,15,11,1.11 
+2016,07,21,21:30,Tricked,ALTERNATEaTTaX,dust2,BlasterX INETKOX League Season..,12,16,6,9,6,7,Tricked,17,17,0.89 
+2016,07,21,21:30,Tricked,ALTERNATEaTTaX,train,BlasterX INETKOX League Season..,16,9,8,7,8,2,Tricked,13,9,1.03 
+2016,07,18,23:15,Epsilon,Tricked,nuke,Hitbox Challenger Cup #2,9,16,4,11,5,5,Tricked,20,12,1.32 
+2016,07,18,23:15,Epsilon,Tricked,cobblestone,Hitbox Challenger Cup #2,4,16,4,11,0,5,Tricked,21,9,1.50 
+2016,07,13,22:15,Tricked,Delete,overpass,RGN Pro Series II EU Closed Qu..,22,20,10,5,5,10,Tricked,27,28,0.96 
+2016,07,13,22:15,Delete,Tricked,cobblestone,RGN Pro Series II EU Closed Qu..,3,16,3,12,0,4,Tricked,16,11,1.29 
+2016,07,05,21:20,Tricked,Magistra,train,xfunction Masters 2016,22,19,9,6,6,9,Tricked,21,32,0.71 
+2016,07,04,22:10,Tricked,ExoticIsland,nuke,xfunction Masters 2016,16,5,13,2,3,3,Tricked,14,9,1.11 
+2016,07,04,16:00,Tricked,Secretfe,cobblestone,Hitbox Challenger Cup #2,16,5,10,5,6,0,Tricked,10,10,0.88 
+2016,07,04,16:00,Secretfe,Tricked,mirage,Hitbox Challenger Cup #2,1,16,1,14,0,2,Tricked,13,7,1.29 
+2016,07,03,19:15,PENTA,Tricked,mirage,Operation: Kinguin #3,16,7,12,3,4,4,Tricked,11,18,0.70 
+2016,07,03,19:15,PENTA,Tricked,overpass,Operation: Kinguin #3,16,7,12,3,4,4,Tricked,5,20,0.29 
+2016,07,03,19:15,Tricked,PENTA,cobblestone,Operation: Kinguin #3,16,13,8,7,8,6,Tricked,23,18,1.29 
+2016,06,30,16:00,Tricked,Kinguin,mirage,Hitbox Challenger Cup #2,6,16,5,10,1,6,Tricked,15,18,0.85 
+2016,06,30,16:00,Kinguin,Tricked,cobblestone,Hitbox Challenger Cup #2,16,11,9,6,7,5,Tricked,14,19,0.83 
+2016,06,29,17:15,k1ck,Tricked,inferno,Operation: Kinguin #3,7,16,5,10,2,6,Tricked,14,14,0.93 
+2016,06,29,17:15,Tricked,k1ck,train,Operation: Kinguin #3,3,16,3,12,0,4,Tricked,3,17,0.22 
+2016,06,29,17:15,k1ck,Tricked,dust2,Operation: Kinguin #3,1,16,1,14,0,2,Tricked,8,10,0.80 
+2016,06,25,20:00,Tricked,Singularity,dust2,Dust2.dk eOddset Kinguin #1,16,8,11,4,5,4,Tricked,13,13,0.92 
+2016,06,25,20:00,Tricked,Singularity,overpass,Dust2.dk eOddset Kinguin #1,16,9,12,3,4,6,Tricked,24,11,1.56 
+2016,06,25,16:00,Tricked,Magistra,cobblestone,Dust2.dk eOddset Kinguin #1,16,1,14,1,2,0,Tricked,20,9,1.71 
+2016,06,25,16:00,Magistra,Tricked,dust2,Dust2.dk eOddset Kinguin #1,21,25,12,3,3,12,Tricked,27,30,0.88 
+2016,06,25,14:45,Tricked,OnlineRol,dust2,Dust2.dk eOddset Kinguin #1,16,6,12,3,4,3,Tricked,15,10,1.15 
+2016,06,25,13:30,Tricked,Alpha,cobblestone,Dust2.dk eOddset Kinguin #1,16,6,14,1,2,5,Tricked,20,11,1.48 
+2016,06,25,12:00,EasternVikings,Tricked,dust2,Dust2.dk eOddset Kinguin #1,14,16,8,7,6,9,Tricked,14,17,0.84 
+2016,06,23,21:15,Tricked,Millenium,inferno,xfunction Challenge,19,17,9,6,6,9,Tricked,23,23,0.94 
+2016,06,23,21:15,Tricked,Millenium,train,xfunction Challenge,16,5,13,2,3,3,Tricked,18,13,1.19 
+2016,06,23,21:15,Tricked,Millenium,dust2,xfunction Challenge,13,16,6,9,7,7,Tricked,12,20,0.62 
+2016,06,22,20:00,Tricked,Orbit,dust2,BlasterX INETKOX League Season..,16,8,8,7,8,1,Tricked,13,15,0.88 
+2016,06,22,20:00,Orbit,Tricked,mirage,BlasterX INETKOX League Season..,16,13,10,5,6,8,Tricked,17,24,0.75 
+2016,06,14,19:00,Spirit,Tricked,dust2,owayo Masters I,16,10,12,3,4,7,Tricked,11,21,0.56 
+2016,06,14,19:00,Spirit,Tricked,inferno,owayo Masters I,6,16,5,10,1,6,Tricked,13,12,0.97 
+2016,06,14,19:00,Tricked,Spirit,mirage,owayo Masters I,11,16,6,9,5,7,Tricked,20,18,1.13 
+2016,06,09,22:00,Tricked,Kinguin,mirage,BlasterX INETKOX League Season..,7,16,3,12,4,4,Tricked,14,17,0.92 
+2016,06,09,22:00,Tricked,Kinguin,train,BlasterX INETKOX League Season..,19,16,11,4,4,11,Tricked,18,21,0.86 
+2016,06,09,18:00,Tricked,WEGOTGAME,dust2,owayo Masters I,16,12,7,8,9,4,Tricked,14,17,0.84 
+2016,06,09,18:00,Tricked,WEGOTGAME,cobblestone,owayo Masters I,8,16,2,13,6,3,Tricked,21,16,1.39 
+2016,06,09,18:00,WEGOTGAME,Tricked,train,owayo Masters I,14,16,12,3,2,13,Tricked,23,20,1.05 
+2016,06,07,22:30,Tricked,PRIDE,cobblestone,BlasterX INETKOX League Season..,9,16,6,9,3,7,Tricked,13,23,0.59 
+2016,06,07,22:30,Tricked,PRIDE,train,BlasterX INETKOX League Season..,12,16,7,8,5,8,Tricked,14,19,0.85 
+2016,06,06,21:15,Alpha,Tricked,train,xfunction Challenge,12,16,8,7,4,9,Tricked,24,20,1.20 
+2016,06,06,21:15,Tricked,Alpha,dust2,xfunction Challenge,13,16,12,3,1,13,Tricked,28,20,1.40 
+2016,06,06,21:15,Alpha,Tricked,mirage,xfunction Challenge,12,16,4,11,8,5,Tricked,11,18,0.66 
+2016,06,05,22:15,ENCE,Tricked,dust2,DreamHack ZOWIE Open Summer 20..,16,6,9,6,7,0,Tricked,16,16,0.99 
+2016,06,05,22:15,ENCE,Tricked,mirage,DreamHack ZOWIE Open Summer 20..,16,5,12,3,4,2,Tricked,7,18,0.42 
+2016,06,05,22:15,Tricked,ENCE,train,DreamHack ZOWIE Open Summer 20..,16,10,9,6,7,4,Tricked,25,13,1.48 
+2016,06,05,19:15,Tricked,Phenomenon,dust2,DreamHack ZOWIE Open Summer 20..,16,11,8,7,8,4,Tricked,27,14,1.51 
+2016,06,05,19:15,Phenomenon,Tricked,mirage,DreamHack ZOWIE Open Summer 20..,16,6,12,3,4,3,Tricked,10,19,0.57 
+2016,06,05,19:15,Phenomenon,Tricked,cobblestone,DreamHack ZOWIE Open Summer 20..,14,16,4,11,10,5,Tricked,16,21,0.77 
+2016,06,05,15:30,Tricked,AGG,cobblestone,DreamHack ZOWIE Open Summer 20..,16,13,8,7,8,6,Tricked,28,19,1.27 
+2016,06,05,15:30,AGG,Tricked,train,DreamHack ZOWIE Open Summer 20..,5,16,2,13,3,3,Tricked,13,15,0.81 
+2016,06,05,15:30,AGG,Tricked,mirage,DreamHack ZOWIE Open Summer 20..,19,17,7,8,8,7,Tricked,42,24,1.76 
+2016,06,05,12:00,KILLERFISH,Tricked,cobblestone,DreamHack ZOWIE Open Summer 20..,5,16,4,11,1,5,Tricked,19,8,1.51 
+2016,06,05,12:00,Tricked,KILLERFISH,train,DreamHack ZOWIE Open Summer 20..,16,11,9,6,7,5,Tricked,12,15,0.78 
+2016,06,02,21:00,Quest,Tricked,train,RGN Pro Series II EU Closed Qu..,12,16,10,5,2,11,Tricked,14,21,0.70 
+2016,06,02,21:00,Quest,Tricked,cobblestone,RGN Pro Series II EU Closed Qu..,11,16,3,12,8,4,Tricked,17,17,0.96 
+2016,06,02,21:00,Tricked,Quest,dust2,RGN Pro Series II EU Closed Qu..,13,16,11,4,2,12,Tricked,22,18,1.02 
+2016,05,31,20:15,Tricked,iNETKOXTV,dust2,BlasterX INETKOX League Season..,19,16,11,4,4,11,Tricked,21,27,0.84 
+2016,05,31,20:15,Tricked,iNETKOXTV,mirage,BlasterX INETKOX League Season..,19,15,5,10,10,5,Tricked,27,20,1.19 
+2016,05,30,20:15,Tricked,Arcade,cobblestone,Operation: Kinguin #3,6,16,5,10,1,6,Tricked,20,17,1.16 
+2016,05,30,20:15,Tricked,Arcade,mirage,Operation: Kinguin #3,12,16,4,11,8,5,Tricked,25,20,1.23 
+2016,05,30,20:15,Arcade,Tricked,inferno,Operation: Kinguin #3,13,16,9,6,4,10,Tricked,26,23,1.28 
+2016,05,29,15:40,Epsilon,Tricked,train,DreamHack ZOWIE Open Summer 20..,16,14,7,8,9,6,Tricked,21,19,1.00 
+2016,05,29,15:40,Tricked,Epsilon,mirage,DreamHack ZOWIE Open Summer 20..,5,16,5,10,0,6,Tricked,7,20,0.37 
+2016,05,29,15:40,Tricked,Epsilon,dust2,DreamHack ZOWIE Open Summer 20..,16,4,11,4,5,0,Tricked,18,6,1.50 
+2016,05,29,12:15,Tricked,WorstPlayers,cobblestone,DreamHack ZOWIE Open Summer 20..,16,9,8,7,8,2,Tricked,14,15,0.89 
+2016,05,29,12:15,Tricked,WorstPlayers,mirage,DreamHack ZOWIE Open Summer 20..,16,14,8,7,8,7,Tricked,27,20,1.37 
+2016,05,29,12:15,Tricked,WorstPlayers,dust2,DreamHack ZOWIE Open Summer 20..,9,16,8,7,1,9,Tricked,17,15,1.06 
+2016,05,28,18:30,Tricked,Escape,mirage,DreamHack ZOWIE Open Summer 20..,16,8,12,3,4,5,Tricked,17,15,1.07 
+2016,05,26,19:15,Tricked,Lions,cobblestone,xfunction Challenge,16,10,10,5,6,5,Tricked,30,12,1.78 
+2016,05,26,19:15,Tricked,Lions,inferno,xfunction Challenge,16,9,9,6,7,3,Tricked,13,16,0.77 
+2016,05,26,19:15,Lions,Tricked,train,xfunction Challenge,16,9,10,5,6,4,Tricked,13,20,0.64 
+2016,05,25,20:15,Tricked,SpaceSoldiers,cache,BlasterX INETKOX League Season..,12,16,8,7,4,9,Tricked,17,21,0.75 
+2016,05,25,20:15,Tricked,SpaceSoldiers,mirage,BlasterX INETKOX League Season..,20,22,13,2,2,13,Tricked,29,31,1.00 
+2016,05,19,20:00,PENTA,Tricked,dust2,RGN Pro Series II EU Closed Qu..,9,16,7,8,2,8,Tricked,21,13,1.21 
+2016,05,19,20:00,PENTA,Tricked,mirage,RGN Pro Series II EU Closed Qu..,14,16,11,4,3,12,Tricked,19,23,0.85 
+2016,05,19,20:00,Tricked,PENTA,cobblestone,RGN Pro Series II EU Closed Qu..,14,16,8,7,6,9,Tricked,20,21,1.00 
+2016,05,15,20:00,Tricked,Singularity,train,CS:GO Danmark League #1,10,16,6,9,4,7,Tricked,17,19,0.88 
+2016,05,15,20:00,Singularity,Tricked,cobblestone,CS:GO Danmark League #1,16,8,13,2,3,6,Tricked,8,18,0.65 
+2016,05,15,20:00,Singularity,Tricked,mirage,CS:GO Danmark League #1,11,16,7,8,4,8,Tricked,22,18,1.15 
+2016,05,10,21:15,Tricked,HeyGuys,inferno,xfunction Challenge,16,13,8,7,8,6,Tricked,23,15,1.20 
+2016,05,09,17:00,Tricked,LDLC,dust2,Operation: Kinguin #3,9,16,6,9,3,7,Tricked,15,20,0.78 
+2016,05,09,17:00,LDLC,Tricked,cache,Operation: Kinguin #3,16,9,11,4,5,5,Tricked,14,20,0.75 
+2016,05,08,22:00,Tricked,FTW.Prinfor,dust2,xfunction Challenge,16,3,12,3,4,0,Tricked,20,5,1.85 
+2016,05,02,20:55,Tricked,eSuba,mirage,Operation: Kinguin #3,16,9,10,5,6,4,Tricked,21,16,1.25 
+2016,05,02,20:55,eSuba,Tricked,cache,Operation: Kinguin #3,17,19,4,11,11,4,Tricked,25,25,1.01 
+2016,04,30,18:50,Tricked,Millenium,mirage,DreamHack Regional Minor Champ..,8,16,6,9,2,7,Tricked,8,19,0.45 
+2016,04,11,18:00,Tricked,Torpedo,inferno,Operation: Kinguin #2,11,16,5,10,6,6,Tricked,15,22,0.74 
+2016,04,11,18:00,Torpedo,Tricked,cobblestone,Operation: Kinguin #2,16,13,7,8,9,5,Tricked,19,21,0.95 
+2016,04,11,18:00,Torpedo,Tricked,mirage,Operation: Kinguin #2,14,16,9,6,5,10,Tricked,19,21,0.91 
+2016,03,24,19:00,FAB,Tricked,overpass,Copenhagen Games 2016 BYOC Qua..,16,12,8,7,8,5,Tricked,15,23,0.63 
+2016,03,24,19:00,FAB,Tricked,mirage,Copenhagen Games 2016 BYOC Qua..,16,6,10,5,6,1,Tricked,20,18,1.12 
+2016,03,24,19:00,Tricked,FAB,inferno,Copenhagen Games 2016 BYOC Qua..,16,9,9,6,7,3,Tricked,23,9,1.66 
+2016,03,24,15:30,Heroic,Tricked,cobblestone,Copenhagen Games 2016 BYOC Qua..,4,16,2,13,2,3,Tricked,16,10,1.25 
+2016,03,24,13:00,Tricked,Tog,dust2,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Tricked,12,7,1.38 
+2016,03,19,18:45,Tricked,WEGOTGAME,mirage,DreamHack Masters Malmö 2016 E..,13,16,8,7,5,9,Tricked,19,21,0.85 
+2016,03,15,19:00,SK,Tricked,cache,Operation: Kinguin #2,16,5,13,2,3,3,Tricked,11,17,0.73 
+2016,03,15,19:00,Tricked,SK,overpass,Operation: Kinguin #2,19,17,8,7,7,8,Tricked,27,28,0.90 
+2016,02,11,19:00,DenDD,Tricked,dust2,Uprise Champions Cup Season 4 ..,16,7,10,5,6,2,Tricked,11,19,0.62 
+2016,02,11,19:00,DenDD,Tricked,cache,Uprise Champions Cup Season 4 ..,16,12,10,5,6,7,Tricked,14,22,0.72 
+2016,02,09,20:00,Tricked,CPHWolves,inferno,Uprise Champions Cup Season 4 ..,16,11,8,7,8,4,Tricked,18,16,1.02 
+2015,12,20,10:45,CSGOBESTPOT.com,Reason,mirage,ESL Nordic Nationals Winter 20..,16,7,12,3,4,4,Reason,10,19,0.61 
+2015,12,20,10:45,Reason,CSGOBESTPOT.com,cache,ESL Nordic Nationals Winter 20..,15,19,8,7,7,8,Reason,21,25,0.80 
+2015,12,19,17:10,Reason,ROCCAT,mirage,ESL Nordic Nationals Winter 20..,9,16,5,10,4,6,Reason,18,17,0.93 
+2015,12,19,13:30,Reason,BX3,mirage,ESL Nordic Nationals Winter 20..,16,12,9,6,7,6,Reason,25,15,1.27 
+2015,12,10,19:30,Reason,YP,dust2,QuickShot Arena #18,5,16,2,13,3,3,Reason,10,16,0.62 
+2015,12,10,18:15,Reason,FlipSid3,mirage,QuickShot Arena #18,6,16,5,10,1,6,Reason,16,16,1.01 
+2015,11,12,20:30,Reason,RCTIC,train,QuickShot Arena #14,14,16,11,4,3,12,Reason,19,22,0.84 
+2015,11,11,22:00,Reason,ESC,cache,QuickShot Arena #14,16,14,6,9,10,5,Reason,27,18,1.39 
+2015,11,11,19:45,Reason,Vexed,mirage,QuickShot Arena #14,11,16,5,10,6,6,Reason,19,19,0.92 
+2015,11,11,19:45,Reason,Vexed,cobblestone,QuickShot Arena #14,6,16,6,9,0,7,Reason,11,20,0.54 
+2015,11,05,21:00,KILLERFISH,Reason,mirage,CSHUB Series Season 1,16,11,7,8,9,3,Reason,19,22,1.02 
+2015,11,05,21:00,Reason,KILLERFISH,cache,CSHUB Series Season 1,3,16,3,12,0,4,Reason,11,19,0.58 
+2015,11,05,21:00,KILLERFISH,Reason,train,CSHUB Series Season 1,8,16,5,10,3,6,Reason,10,18,0.60 
+2015,11,04,21:45,Reason,EpiphanyBolt,inferno,QuickShot Arena #13,16,6,10,5,6,1,Reason,22,8,1.78 
+2015,11,04,19:30,Reason,ESC,cache,QuickShot Arena #13,16,9,8,7,8,2,Reason,18,17,1.03 
+2015,11,04,18:15,Reason,uX,mirage,QuickShot Arena #13,13,16,5,10,8,6,Reason,12,21,0.63 
+2015,11,03,17:45,MaxAndRelax,Reason,cache,D!ngIT $2000 Weekly Cup #24,16,10,12,3,4,7,Reason,18,16,1.03 
+2015,11,02,21:15,Reason,AliGon,mirage,D!ngIT $2000 Weekly Cup #24,5,16,3,12,2,4,Reason,7,19,0.36 
+2015,11,02,21:15,AliGon,Reason,cache,D!ngIT $2000 Weekly Cup #24,8,16,2,13,6,3,Reason,20,15,1.32 
+2015,11,02,21:15,AliGon,Reason,train,D!ngIT $2000 Weekly Cup #24,16,1,14,1,2,0,Reason,12,16,0.81 
+2015,10,31,20:00,volgare,uX,cache,QuickShot Showmatches,8,16,2,13,6,3,volgare,8,18,0.51 
+2015,10,31,20:00,volgare,uX,inferno,QuickShot Showmatches,14,16,4,11,10,5,volgare,9,21,0.53 
+2015,10,17,16:30,Planetkey,EYESONU,mirage,99Damage League Season 1,16,14,7,8,9,6,EYES ON U,23,24,1.02 
+2015,10,17,16:30,EYESONU,Planetkey,cache,99Damage League Season 1,16,11,6,9,10,2,EYES ON U,19,16,1.03 
+2015,10,17,16:30,EYESONU,Planetkey,dust2,99Damage League Season 1,5,16,4,11,1,5,EYES ON U,11,14,0.85 
+2015,10,17,13:20,KILLERFISH,EYESONU,overpass,99Damage League Season 1,16,13,8,7,8,6,EYES ON U,10,24,0.45 
+2015,10,17,13:20,KILLERFISH,EYESONU,mirage,99Damage League Season 1,28,24,12,3,3,12,EYES ON U,39,36,1.12 
+2015,09,30,20:15,Planetkey,EYESONU,mirage,99Damage League Season 1,16,9,10,5,6,4,EYES ON U,12,20,0.70 
+2015,09,30,20:15,Planetkey,EYESONU,dust2,99Damage League Season 1,16,7,9,6,7,1,EYES ON U,8,21,0.46 
+2015,09,29,20:00,KILLERFISH,EYESONU,mirage,99Damage League Season 1,22,19,11,4,4,11,EYES ON U,30,27,1.07 
+2015,09,29,20:00,EYESONU,KILLERFISH,dust2,99Damage League Season 1,16,13,9,6,7,7,EYES ON U,20,20,0.97 
+2015,09,22,19:00,Caseking,EYESONU,inferno,99Damage League Season 1,16,13,9,6,7,7,EYES ON U,27,19,1.44 
+2015,09,22,19:00,Caseking,EYESONU,dust2,99Damage League Season 1,17,19,5,10,10,5,EYES ON U,27,24,1.16 
+2015,09,21,18:00,MaxAndRelax,Reason,mirage,GameAgents League Season 2,3,16,3,12,0,4,MaxAndRelax,6,18,0.34 
+2015,09,21,18:00,Reason,MaxAndRelax,inferno,GameAgents League Season 2,16,8,12,3,4,5,MaxAndRelax,7,19,0.51 
+2015,09,16,21:00,EYESONU,PlayingDucks,dust2,99Damage League Season 1,16,6,10,5,6,1,EYES ON U,11,14,0.79 
+2015,09,16,21:00,PlayingDucks,EYESONU,mirage,99Damage League Season 1,16,5,11,4,5,1,EYES ON U,7,19,0.36 
+2015,09,09,19:15,PENTA,myKPV,cache,99Damage League Season 1,9,16,6,9,3,7,myKPV,20,17,1.14 
+2015,09,09,19:15,PENTA,myKPV,overpass,99Damage League Season 1,16,12,9,6,7,6,myKPV,27,19,1.28 
+2015,09,01,21:00,uX,myKPV,cache,99Damage League Season 1,16,11,8,7,8,4,myKPV,15,17,0.87 
+2015,09,01,21:00,uX,myKPV,mirage,99Damage League Season 1,5,16,3,12,2,4,myKPV,15,11,1.21 
+2015,08,29,22:30,myKPV,Aftermatch,dust2,FACEIT League 2015 Stage 3 EU ..,12,16,9,6,3,10,myKPV,18,21,0.95 
+2015,08,26,21:00,myKPV,mousesports,cache,99Damage League Season 1,7,16,2,13,5,3,myKPV,10,20,0.57 
+2015,08,26,21:00,mousesports,myKPV,dust2,99Damage League Season 1,31,27,7,8,8,7,myKPV,42,42,0.96 
+2015,08,25,20:00,TSK,myKPV,mirage,D!ngIT $2000 Weekly Cup #14,16,14,6,9,10,5,myKPV,16,23,0.77 
+2015,08,24,22:00,myKPV,Games4ufe,inferno,D!ngIT $2000 Weekly Cup #14,16,5,13,2,3,3,myKPV,18,11,1.46 
+2015,08,24,20:00,myKPV,TSK,mirage,D!ngIT $2000 Weekly Cup #14,14,16,7,8,7,8,myKPV,26,21,1.20 
+2015,08,24,20:00,myKPV,TSK,cache,D!ngIT $2000 Weekly Cup #14,9,16,7,8,2,8,myKPV,12,20,0.66 
+2015,06,04,22:30,k1ck,myKPV,dust2,CEVO Main Season 7,16,19,10,5,5,10,myKPV,23,22,1.08 
+2015,05,31,11:00,myKPV,HellRaisers,overpass,DreamHack Open Summer 2015 Clo..,12,16,8,7,4,9,myKPV,14,22,0.70 
+2015,05,31,11:00,myKPV,HellRaisers,train,DreamHack Open Summer 2015 Clo..,11,16,7,8,4,8,myKPV,13,19,0.79 
+2015,05,31,11:00,myKPV,HellRaisers,cache,DreamHack Open Summer 2015 Clo..,16,5,13,2,3,3,myKPV,24,12,1.69 
+2015,05,02,16:00,mousesports,myKPV,mirage,ESL Frühlingsmeisterschaft 201..,16,1,14,1,2,0,myKPV,10,17,0.56 
+2015,05,02,16:00,myKPV,mousesports,inferno,ESL Frühlingsmeisterschaft 201..,3,16,3,12,0,4,myKPV,6,17,0.38 
+2015,04,04,10:00,myKPV,SpaceSoldiers,nuke,Copenhagen Games 2015,13,16,12,3,1,13,myKPV,20,20,0.93 
+2015,04,03,22:30,myKPV,FUGL?,nuke,Copenhagen Games 2015,16,3,12,3,4,0,myKPV,12,9,1.11 
+2015,04,03,19:00,Publiclir.se,myKPV,inferno,Copenhagen Games 2015,16,14,9,6,7,8,myKPV,18,22,0.82 
+2015,04,03,19:00,Publiclir.se,myKPV,cache,Copenhagen Games 2015,16,14,9,6,7,8,myKPV,17,21,0.81 
+2015,04,03,15:30,Lions,myKPV,mirage,Copenhagen Games 2015,8,16,8,7,0,9,myKPV,24,13,1.50 
+2015,04,03,15:30,myKPV,Lions,inferno,Copenhagen Games 2015,16,14,5,10,11,4,myKPV,17,21,0.81 
+2015,04,03,12:00,Publiclir.se,myKPV,mirage,Copenhagen Games 2015,16,12,9,6,7,6,myKPV,18,18,0.91 
+2015,04,03,12:00,myKPV,Publiclir.se,cache,Copenhagen Games 2015,10,16,7,8,3,8,myKPV,11,18,0.67 
+2015,04,03,12:00,myKPV,Publiclir.se,inferno,Copenhagen Games 2015,16,11,11,4,5,7,myKPV,28,20,1.49 
+2015,04,02,20:30,myKPV,Lions,cache,Copenhagen Games 2015,16,6,10,5,6,1,myKPV,26,14,1.68 
+2015,04,02,19:00,myKPV,partyastronauts,inferno,Copenhagen Games 2015,16,4,12,3,4,1,myKPV,22,11,1.87 
+2015,04,02,14:00,myKPV,re:take,dust2,Copenhagen Games 2015,16,10,12,3,4,7,myKPV,23,15,1.33 
+2015,04,02,14:00,myKPV,re:take,inferno,Copenhagen Games 2015,16,9,11,4,5,5,myKPV,29,14,1.79 
+2014,04,18,21:00,ESC,Virtus.pro,dust2,Copenhagen Games 2014,3,16,3,12,0,4,ESC,11,18,0.77 
+2014,04,18,21:00,Virtus.pro,ESC,train,Copenhagen Games 2014,16,8,10,5,6,3,ESC,8,19,0.50 
+2014,04,18,17:00,NecroRaisers,ESC,dust2,Copenhagen Games 2014,7,16,5,10,2,6,ESC,17,8,1.29 
+2014,04,18,17:00,NecroRaisers,ESC,nuke,Copenhagen Games 2014,8,16,7,8,1,8,ESC,13,18,0.73 
+2014,04,18,17:00,ESC,NecroRaisers,train,Copenhagen Games 2014,20,22,7,8,8,7,ESC,25,30,0.87 

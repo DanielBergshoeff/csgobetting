@@ -1,0 +1,12 @@
+2016,03,24,19:00,Bananaboys,naptoR.Factory,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,naptoR.Factory,8,16,0.59 
+2016,03,24,19:00,Bananaboys,naptoR.Factory,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,naptoR.Factory,9,17,0.66 
+2016,03,24,17:00,naptoR.Factory,FoxStratos,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,naptoR.Factory,18,7,1.59 
+2016,03,24,15:30,naptoR.Factory,SesiBaren,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,4,11,4,5,0,naptoR.Factory,22,9,1.66 
+2016,03,24,13:00,naptoR.Factory,FoxStratos,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,4,11,1,5,naptoR.Factory,14,19,0.83 
+2015,09,17,19:50,uberg33ks,RCTIC,mirage,QuickShot Arena #7,10,16,8,7,2,9,uber g33ks,17,15,1.05 
+2015,09,16,23:45,nerdRage,uberg33ks,mirage,QuickShot Arena #7,6,16,3,12,3,4,uber g33ks,18,11,1.33 
+2015,09,16,20:15,RCTIC,uberg33ks,cache,QuickShot Arena #7,16,13,5,10,11,3,uber g33ks,13,19,0.74 
+2015,09,16,20:15,RCTIC,uberg33ks,mirage,QuickShot Arena #7,14,16,9,6,5,10,uber g33ks,20,19,0.97 
+2015,09,16,20:15,RCTIC,uberg33ks,dust2,QuickShot Arena #7,19,15,8,7,7,8,uber g33ks,22,20,1.00 
+2015,04,02,17:00,naptoR.Factory,h$fyre,nuke,Copenhagen Games 2015,9,16,9,6,0,10,naptoR.Factory,18,17,0.98 
+2015,04,02,14:00,naptoR.Factory,h$fyre,inferno,Copenhagen Games 2015,14,16,6,9,8,7,naptoR.Factory,26,18,1.28 

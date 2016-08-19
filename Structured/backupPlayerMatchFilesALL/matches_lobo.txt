@@ -1,0 +1,9 @@
+2015,10,25,12:00,KeydStars,BulletsRage.Pro,mirage,AlienTech CS:GO TiTans I Final..,16,14,8,7,8,7,BulletsRage.Pro,10,22,0.52 
+2015,10,25,12:00,BulletsRage.Pro,KeydStars,overpass,AlienTech CS:GO TiTans I Final..,14,16,5,10,9,6,BulletsRage.Pro,19,21,0.93 
+2015,10,25,12:00,BulletsRage.Pro,KeydStars,inferno,AlienTech CS:GO TiTans I Final..,22,19,12,3,3,12,BulletsRage.Pro,20,25,0.84 
+2015,10,24,18:30,BulletsRage.Pro,k1ck,inferno,AlienTech CS:GO TiTans I Final..,16,11,8,7,8,4,BulletsRage.Pro,15,17,0.90 
+2015,10,24,15:45,AlienTech,BulletsRage.Pro,mirage,AlienTech CS:GO TiTans I Final..,16,7,8,7,8,0,BulletsRage.Pro,17,17,1.11 
+2015,10,24,15:45,AlienTech,BulletsRage.Pro,inferno,AlienTech CS:GO TiTans I Final..,16,3,12,3,4,0,BulletsRage.Pro,3,18,0.17 
+2015,10,20,22:00,FTW.PRO,BulletsRage.Pro,train,AlienTech CS:GO TiTans I,10,16,4,11,6,5,BulletsRage.Pro,17,16,1.06 
+2015,10,19,23:00,k1ck,BulletsRage.Pro,inferno,AlienTech CS:GO TiTans I,16,12,6,9,10,3,BulletsRage.Pro,12,21,0.64 
+2015,10,12,22:00,FTW.PRO,BulletsRage.Pro,inferno,AlienTech CS:GO TiTans I,8,16,6,9,2,7,BulletsRage.Pro,15,12,1.08 

@@ -1,0 +1,5 @@
+2016,02,20,10:30,G2,x6tence,train,ESL Barcelona CS:GO Invitation..,16,3,12,3,4,0,x6tence,10,16,0.60 
+2016,02,19,21:40,x6tence,Vexed,cobblestone,ESL Barcelona CS:GO Invitation..,2,16,2,13,0,3,x6tence,8,16,0.53 
+2016,02,19,17:45,Astralis,x6tence,mirage,ESL Barcelona CS:GO Invitation..,16,2,13,2,3,0,x6tence,5,18,0.23 
+2015,12,05,14:00,KIYF,Atlantis,inferno,LVP Season 9 Division de Honor..,2,16,1,14,1,2,KIYF,9,13,0.68 
+2015,12,04,19:30,KIYF,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,19,7,8,8,7,KIYF,29,21,1.23 

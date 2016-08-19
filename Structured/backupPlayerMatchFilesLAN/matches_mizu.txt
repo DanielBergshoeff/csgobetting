@@ -1,0 +1,7 @@
+2016,07,24,01:00,Exile5,AthleticoBH,train,ESL Australia & NZ Championshi..,19,22,9,6,6,9,Exile5,38,27,1.24 
+2016,07,24,01:00,AthleticoBH,Exile5,mirage,ESL Australia & NZ Championshi..,16,13,8,7,8,6,Exile5,23,23,1.03 
+2016,07,23,10:30,Exile5,Chiefs,train,ESL Australia & NZ Championshi..,13,16,9,6,4,10,Exile5,22,20,0.97 
+2016,07,23,10:30,Chiefs,Exile5,cache,ESL Australia & NZ Championshi..,16,6,9,6,7,0,Exile5,10,19,0.54 
+2015,11,27,12:00,Legacy,Liquid,cache,FACEIT League 2015 Stage 3 Fin..,11,16,7,8,4,8,Legacy,19,22,0.89 
+2015,11,27,12:00,Legacy,Liquid,cobblestone,FACEIT League 2015 Stage 3 Fin..,8,16,3,12,5,4,Legacy,5,18,0.38 
+2015,11,26,13:00,Virtus.pro,Legacy,cobblestone,FACEIT League 2015 Stage 3 Fin..,16,12,9,6,7,6,Legacy,15,23,0.63 

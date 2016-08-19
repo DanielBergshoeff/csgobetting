@@ -1,0 +1,5 @@
+2016,08,07,16:25,aimclub,passions,mirage,ECS Season 2 EU Open Qualifier..,11,16,8,7,3,9,aimclub,15,21,0.75 
+2016,08,07,15:05,aimclub,WWGGKTA,mirage,ECS Season 2 EU Open Qualifier..,16,8,11,4,5,4,aimclub,16,17,1.04 
+2016,06,14,16:00,LDLC,Bpro,cache,Razer Rising Stars European Le..,7,16,4,11,3,5,Bpro,13,18,0.78 
+2016,06,14,16:00,Bpro,LDLC,cobblestone,Razer Rising Stars European Le..,8,16,7,8,1,8,Bpro,10,18,0.58 
+2016,06,13,16:10,Bpro,ex-CPHWolves,train,Razer Rising Stars European Le..,12,16,7,8,5,8,Bpro,16,20,0.90 

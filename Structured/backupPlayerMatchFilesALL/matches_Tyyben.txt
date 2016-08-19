@@ -1,0 +1,4 @@
+2015,05,27,21:15,Vination,k1ck,mirage,CEVO Main Season 7,19,15,9,6,6,9,Vination,30,19,1.39 
+2015,05,24,21:00,Vination,dignitas,inferno,FACEIT League 2015 Stage 2 EU ..,5,16,3,12,2,4,Vination,14,18,0.87 
+2015,05,24,21:00,dignitas,Vination,mirage,FACEIT League 2015 Stage 2 EU ..,16,2,13,2,3,0,Vination,7,17,0.43 
+2015,05,24,21:00,Vination,dignitas,cache,FACEIT League 2015 Stage 2 EU ..,16,11,7,8,9,3,Vination,16,18,0.87 

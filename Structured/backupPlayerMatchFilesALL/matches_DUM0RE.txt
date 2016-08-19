@@ -1,0 +1,66 @@
+2016,07,19,03:15,TheFoundation,exceL,cache,RGN Pro Series II NA Closed Qu..,14,16,7,8,7,8,exceL,17,20,0.90 
+2016,07,19,03:15,TheFoundation,exceL,train,RGN Pro Series II NA Closed Qu..,16,3,12,3,4,0,exceL,11,15,0.75 
+2016,07,19,03:15,exceL,TheFoundation,dust2,RGN Pro Series II NA Closed Qu..,16,7,11,4,5,3,exceL,16,11,1.13 
+2016,05,09,01:35,RivaL,MostlyHomeless,train,MLG Regional Minor North Ameri..,16,6,10,5,6,1,Mostly Homeless,11,20,0.60 
+2016,05,08,23:50,MostlyHomeless,EchoFox,mirage,MLG Regional Minor North Ameri..,16,9,9,6,7,3,Mostly Homeless,13,15,0.85 
+2016,05,08,19:00,MostlyHomeless,Vault,dust2,MLG Regional Minor North Ameri..,8,16,4,11,4,5,Mostly Homeless,10,18,0.62 
+2016,05,08,19:00,MostlyHomeless,Vault,cobblestone,MLG Regional Minor North Ameri..,14,16,7,8,7,8,Mostly Homeless,17,23,0.76 
+2016,05,08,19:00,MostlyHomeless,Vault,train,MLG Regional Minor North Ameri..,16,14,12,3,4,11,Mostly Homeless,17,21,0.80 
+2015,12,16,04:30,ACE,UMass,cache,QuickShot Arena NA #2,13,16,4,11,9,5,ACE,14,22,0.64 
+2015,12,16,03:30,ACE,Incursion,cache,QuickShot Arena NA #2,16,4,12,3,4,1,ACE,21,12,1.58 
+2015,10,08,04:15,Liquid,Coast,mirage,CEVO Professional Season 8,16,7,9,6,7,1,Coast,11,17,0.66 
+2015,10,08,04:15,Liquid,Coast,cache,CEVO Professional Season 8,16,8,13,2,3,6,Coast,15,17,0.83 
+2015,10,08,02:00,Denial,Coast,mirage,CEVO Professional Season 8,16,6,10,5,6,1,Coast,15,20,0.75 
+2015,10,08,02:00,Coast,Denial,dust2,CEVO Professional Season 8,16,11,7,8,9,3,Coast,23,16,1.28 
+2015,10,02,05:00,Coast,Cloud9,mirage,ESL ESEA Pro League Season 2,13,16,8,7,5,9,Coast,24,23,1.20 
+2015,09,30,05:25,Coast,Winterfox,cache,ESL ESEA Pro League Season 2,7,16,6,9,1,7,Coast,7,19,0.40 
+2015,09,30,02:00,Luminosity,Coast,dust2,CEVO Professional Season 8,16,7,9,6,7,1,Coast,14,18,0.89 
+2015,09,30,02:00,Luminosity,Coast,mirage,CEVO Professional Season 8,16,10,9,6,7,4,Coast,9,20,0.52 
+2015,09,25,04:15,Conquest,Coast,cobblestone,CEVO Professional Season 8,16,6,11,4,5,2,Coast,14,18,0.81 
+2015,09,25,04:15,Coast,Conquest,inferno,CEVO Professional Season 8,4,16,2,13,2,3,Coast,17,16,1.28 
+2015,09,24,02:00,Method,Coast,mirage,CEVO Professional Season 8,16,13,9,6,7,7,Coast,21,17,1.14 
+2015,09,24,02:00,Method,Coast,dust2,CEVO Professional Season 8,16,13,6,9,10,4,Coast,14,20,0.70 
+2015,09,23,05:00,Coast,3sUP,inferno,ESL ESEA Pro League Season 2,16,11,11,4,5,7,Coast,19,17,0.95 
+2015,09,23,03:00,Coast,Splyce,inferno,ESL ESEA Pro League Season 2,16,3,13,2,3,1,Coast,22,8,1.93 
+2015,09,22,03:00,compLexity,Coast,train,RGN Freedom Cup,16,7,8,7,8,0,Coast,14,20,0.72 
+2015,09,21,02:00,Coast,compLexity,train,CEVO Professional Season 8,10,16,6,9,4,7,Coast,14,20,0.79 
+2015,09,18,05:00,CLG,Coast,overpass,ESL ESEA Pro League Season 2,16,1,14,1,2,0,Coast,4,17,0.20 
+2015,09,18,02:00,Cloud9,Coast,inferno,ESL ESEA Pro League Season 2,16,8,12,3,4,5,Coast,16,18,0.86 
+2015,09,17,05:00,Coast,compLexity,cobblestone,ESL ESEA Pro League Season 2,14,16,8,7,6,9,Coast,20,21,1.00 
+2015,09,17,04:00,Coast,Conquest,cobblestone,ESL ESEA Pro League Season 2,16,9,10,5,6,4,Coast,22,14,1.30 
+2015,09,17,03:00,Coast,Enemy,inferno,RGN Freedom Cup,11,16,6,9,5,7,Coast,13,18,0.89 
+2015,09,12,23:40,Coast,Conquest,dust2,iBUYPOWER Invitational Fall 20..,20,22,7,8,8,7,Coast,32,30,1.01 
+2015,09,12,23:40,Conquest,Coast,cobblestone,iBUYPOWER Invitational Fall 20..,16,6,13,2,3,4,Coast,16,16,0.99 
+2015,09,02,02:00,CLG,Coast,mirage,CEVO Professional Season 8,16,10,12,3,4,7,Coast,17,18,0.95 
+2015,09,02,02:00,CLG,Coast,cache,CEVO Professional Season 8,14,16,11,4,3,12,Coast,23,22,1.03 
+2015,08,31,04:15,Coast,Enemy,inferno,CEVO Professional Season 8,16,13,8,7,8,6,Coast,18,17,0.96 
+2015,08,31,04:15,Enemy,Coast,overpass,CEVO Professional Season 8,12,16,4,11,8,5,Coast,18,19,0.92 
+2015,08,24,04:15,LunatiK,Splyce,inferno,CEVO Professional Season 8,16,2,13,2,3,0,LunatiK,13,6,1.31 
+2015,08,24,04:15,Splyce,LunatiK,cache,CEVO Professional Season 8,16,10,10,5,6,5,LunatiK,19,20,0.95 
+2015,08,21,02:00,LunatiK,Mythic,inferno,CEVO Professional Season 8,16,9,10,5,6,4,LunatiK,12,11,0.90 
+2015,08,21,02:00,Mythic,LunatiK,cache,CEVO Professional Season 8,16,13,8,7,8,6,LunatiK,15,19,0.87 
+2015,08,17,04:15,3sUP,LunatiK,cache,CEVO Professional Season 8,4,16,4,11,0,5,LunatiK,13,11,1.00 
+2015,08,17,04:15,LunatiK,3sUP,overpass,CEVO Professional Season 8,16,5,13,2,3,3,LunatiK,14,12,0.99 
+2015,08,11,02:30,LunatiK,WOOSAH,inferno,CS Select #22,16,12,8,7,8,5,LunatiK,20,17,1.08 
+2015,08,11,02:30,LunatiK,WOOSAH,dust2,CS Select #22,16,14,5,10,11,4,LunatiK,19,20,0.90 
+2015,08,11,02:30,LunatiK,WOOSAH,overpass,CS Select #22,16,10,10,5,6,5,LunatiK,19,15,1.11 
+2015,08,09,04:00,SKDC,LunatiK,inferno,PGL Season 1 NA Qualifier,16,8,9,6,7,2,LunatiK,14,17,0.89 
+2015,08,09,04:00,LunatiK,SKDC,mirage,PGL Season 1 NA Qualifier,16,13,8,7,8,6,LunatiK,23,19,1.16 
+2015,08,09,04:00,SKDC,LunatiK,dust2,PGL Season 1 NA Qualifier,16,12,12,3,4,9,LunatiK,8,21,0.46 
+2015,06,24,02:15,eLevate,LunatiK,cobblestone,CEVO Professional Season 7,16,14,4,11,12,3,LunatiK,28,21,1.26 
+2015,06,24,02:15,LunatiK,eLevate,mirage,CEVO Professional Season 7,9,16,8,7,1,9,LunatiK,15,21,0.77 
+2015,05,07,05:00,LunatiK,MostlyHarmless,mirage,RGN Spring Classic,16,10,13,2,3,8,Mostly Harmless,18,22,0.95 
+2015,03,27,02:00,SKDC,eLevate,nuke,FACEIT League 2015 Stage 1,9,16,9,6,0,10,SKDC,15,18,0.92 
+2015,03,25,04:15,SKDC,Cloud9,dust2,FACEIT League 2015 Stage 1,5,16,2,13,3,3,SKDC,8,20,0.36 
+2015,03,20,02:00,eLevate,SKDC,nuke,FACEIT League 2015 Stage 1,16,13,11,4,5,9,SKDC,14,21,0.69 
+2015,02,27,05:04,Liquid,SKDC,mirage,FACEIT League 2015 Stage 1,16,4,13,2,3,2,SKDC,15,18,1.06 
+2015,02,25,05:20,Cloud9,SKDC,dust2,FACEIT League 2015 Stage 1,16,2,13,2,3,0,SKDC,9,17,0.50 
+2015,02,20,05:35,Mythic,SKDC,overpass,FACEIT League 2015 Stage 1,13,16,5,10,8,6,SKDC,18,20,0.87 
+2015,02,19,05:40,CLG,SKDC,dust2,FACEIT League 2015 Stage 1,14,16,2,13,12,3,SKDC,21,21,0.98 
+2014,10,02,03:00,Mobility,savage,inferno,FACEIT League NA Season 2,16,13,7,8,9,5,savage,14,21,0.67 
+2014,09,25,05:30,Cloud9,savage,nuke,FACEIT League NA Season 2,16,3,12,3,4,0,savage,9,18,0.53 
+2014,09,18,04:00,LunatiK,savage,inferno,FACEIT League NA Season 2,16,6,10,5,6,1,savage,7,18,0.44 
+2014,09,11,05:40,iBUYPOWER,savage,cache,FACEIT League NA Season 2,16,10,7,8,9,2,savage,18,20,0.92 
+2014,09,04,03:00,savage,NetcodeGuides.com,cache,FACEIT League NA Season 2,10,16,6,9,4,7,savage,16,22,0.71 
+2014,08,27,04:15,savage,Armata,dust2,FACEIT League 2 NA Closed Qual..,16,9,7,8,9,1,savage,16,15,1.02 
+2014,08,27,04:15,Armata,savage,inferno,FACEIT League 2 NA Closed Qual..,12,16,8,7,4,9,savage,17,18,0.84 

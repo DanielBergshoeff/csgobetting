@@ -1,0 +1,177 @@
+2016,08,12,04:35,BlackDragons,ProGaming,cache,Liga PRO GamersClub - JUL/16,16,10,11,4,5,6,Black Dragons,28,16,1.46 
+2016,08,12,04:35,BlackDragons,ProGaming,dust2,Liga PRO GamersClub - JUL/16,19,17,5,10,10,5,Black Dragons,19,26,0.73 
+2016,08,12,04:35,ProGaming,BlackDragons,mirage,Liga PRO GamersClub - JUL/16,16,5,12,3,4,2,Black Dragons,17,18,1.04 
+2016,08,11,04:15,RemoBrave,BlackDragons,cobblestone,Liga PRO GamersClub - JUL/16,12,16,5,10,7,6,Black Dragons,25,16,1.26 
+2016,08,11,04:15,RemoBrave,BlackDragons,dust2,Liga PRO GamersClub - JUL/16,6,16,5,10,1,6,Black Dragons,16,16,1.04 
+2016,08,11,04:15,BlackDragons,RemoBrave,mirage,Liga PRO GamersClub - JUL/16,14,16,9,6,5,10,Black Dragons,22,20,1.10 
+2016,08,10,04:20,BlackDragons,IDM,cache,Liga PRO GamersClub - JUL/16,16,8,11,4,5,4,Black Dragons,30,11,2.02 
+2016,08,10,04:20,IDM,BlackDragons,mirage,Liga PRO GamersClub - JUL/16,7,16,2,13,5,3,Black Dragons,20,14,1.37 
+2016,08,10,04:20,BlackDragons,IDM,cobblestone,Liga PRO GamersClub - JUL/16,12,16,7,8,5,8,Black Dragons,16,24,0.72 
+2016,07,14,04:15,BlackDragons,TeamOne,overpass,Liga PRO GamersClub - JUN/16,16,12,6,9,10,3,Black Dragons,22,20,1.03 
+2016,07,14,04:15,TeamOne,BlackDragons,train,Liga PRO GamersClub - JUN/16,16,14,10,5,6,9,Black Dragons,25,23,1.04 
+2016,07,14,04:15,TeamOne,BlackDragons,cache,Liga PRO GamersClub - JUN/16,11,16,6,9,5,7,Black Dragons,24,20,1.32 
+2016,07,13,04:10,Innova,BlackDragons,cache,Liga PRO GamersClub - JUN/16,17,19,7,8,8,7,Black Dragons,31,25,1.21 
+2016,07,13,04:10,Innova,BlackDragons,mirage,Liga PRO GamersClub - JUN/16,9,16,9,6,0,10,Black Dragons,24,14,1.32 
+2016,07,13,04:10,BlackDragons,Innova,train,Liga PRO GamersClub - JUN/16,10,16,6,9,4,7,Black Dragons,22,20,1.10 
+2016,05,23,20:10,CPHWolves,k1ck,cobblestone,Operation: Kinguin #3,16,12,6,9,10,3,k1ck,22,21,1.11 
+2016,05,23,20:10,k1ck,CPHWolves,dust2,Operation: Kinguin #3,4,16,3,12,1,4,k1ck,6,18,0.39 
+2016,05,11,17:20,HeyGuys,k1ck,mirage,Operation: Kinguin #3,16,4,11,4,5,0,k1ck,13,18,0.77 
+2016,05,11,17:20,k1ck,HeyGuys,dust2,Operation: Kinguin #3,11,16,7,8,4,8,k1ck,28,20,1.44 
+2016,05,11,17:20,k1ck,HeyGuys,cobblestone,Operation: Kinguin #3,22,20,7,8,8,7,k1ck,25,31,0.81 
+2016,05,04,20:20,k1ck,DenDD,cache,Operation: Kinguin #3,19,15,9,6,6,9,k1ck,30,22,1.33 
+2016,05,04,20:20,DenDD,k1ck,cobblestone,Operation: Kinguin #3,13,16,10,5,3,11,k1ck,25,21,1.13 
+2016,04,10,17:30,k1ck,gBots,inferno,AlienTech CS:GO League Finals,16,10,11,4,5,6,k1ck,23,15,1.44 
+2016,04,10,17:30,k1ck,gBots,mirage,AlienTech CS:GO League Finals,16,14,5,10,11,4,k1ck,22,21,1.09 
+2016,04,10,17:30,k1ck,gBots,cache,AlienTech CS:GO League Finals,8,16,2,13,6,3,k1ck,12,19,0.68 
+2016,04,09,18:00,k1ck,gBots,cobblestone,AlienTech CS:GO League Finals,16,11,7,8,9,3,k1ck,26,16,1.44 
+2016,04,09,18:00,k1ck,gBots,cache,AlienTech CS:GO League Finals,16,8,9,6,7,2,k1ck,28,12,1.75 
+2016,04,09,18:00,gBots,k1ck,mirage,AlienTech CS:GO League Finals,16,4,12,3,4,1,k1ck,9,18,0.49 
+2016,04,08,18:00,k1ck,k1ck,mirage,AlienTech CS:GO League Finals,16,14,6,9,10,5,k1ck,25,22,1.09 
+2016,04,08,18:00,k1ck,k1ck,cache,AlienTech CS:GO League Finals,6,16,4,11,2,5,k1ck,9,16,0.64 
+2016,04,08,18:00,k1ck,k1ck,cobblestone,AlienTech CS:GO League Finals,6,16,4,11,2,5,k1ck,10,18,0.55 
+2016,04,08,11:20,k1ck,ImperioMultimedia,cobblestone,AlienTech CS:GO League Finals,16,5,12,3,4,2,k1ck,17,13,1.26 
+2016,04,08,11:20,ImperioMultimedia,k1ck,cache,AlienTech CS:GO League Finals,2,16,2,13,0,3,k1ck,18,11,1.31 
+2016,03,24,22:00,k1ck,Torpedo,cobblestone,Operation: Kinguin #2,10,16,8,7,2,9,k1ck,17,21,0.81 
+2016,03,24,22:00,k1ck,Torpedo,mirage,Operation: Kinguin #2,13,16,10,5,3,11,k1ck,11,22,0.57 
+2016,03,21,22:15,CSGL,k1ck,cobblestone,Operation: Kinguin #2,19,17,5,10,10,5,k1ck,30,27,1.01 
+2016,03,21,22:15,k1ck,CSGL,cache,Operation: Kinguin #2,5,16,4,11,1,5,k1ck,8,19,0.45 
+2016,03,16,21:00,k1ck,gBots,mirage,AlienTech CS:GO League,9,16,5,10,4,6,k1ck,15,19,0.86 
+2016,03,16,21:00,k1ck,gBots,cobblestone,AlienTech CS:GO League,14,16,4,11,10,5,k1ck,23,18,1.14 
+2016,03,12,21:00,dreamWorks,TShow,cobblestone,Razer Rising Stars South Ameri..,16,3,12,3,4,0,TShow,20,16,1.47 
+2016,03,07,23:45,k1ck,AlienTech,cache,AlienTech CS:GO League,16,12,12,3,4,9,k1ck,28,18,1.38 
+2016,03,07,23:45,k1ck,AlienTech,cobblestone,AlienTech CS:GO League,12,16,8,7,4,9,k1ck,23,21,1.12 
+2016,03,07,21:00,k1ck,nerdRage,mirage,AlienTech CS:GO League,22,19,8,7,7,8,k1ck,42,26,1.54 
+2016,03,07,21:00,k1ck,nerdRage,cobblestone,AlienTech CS:GO League,19,17,7,8,8,7,k1ck,35,23,1.33 
+2016,02,25,19:00,k1ck,LDLCWhite,cobblestone,Operation: Kinguin #2,16,12,6,9,10,3,k1ck,28,16,1.58 
+2016,02,25,19:00,LDLCWhite,k1ck,cache,Operation: Kinguin #2,16,13,8,7,8,6,k1ck,17,20,0.86 
+2016,02,25,19:00,k1ck,LDLCWhite,dust2,Operation: Kinguin #2,16,10,10,5,6,5,k1ck,22,15,1.23 
+2016,02,23,21:15,k1ck,Galatics,cache,AlienTech CS:GO League,16,9,7,8,9,1,k1ck,24,15,1.36 
+2016,02,23,21:15,k1ck,Galatics,cobblestone,AlienTech CS:GO League,16,11,9,6,7,5,k1ck,23,16,1.26 
+2016,02,21,23:00,k1ck,ImperioMultimedia,inferno,AlienTech CS:GO League,13,16,7,8,6,8,k1ck,24,20,1.16 
+2016,02,21,23:00,k1ck,ImperioMultimedia,cache,AlienTech CS:GO League,16,3,12,3,4,0,k1ck,18,6,1.50 
+2016,02,16,23:00,k1ck,Publiclir.se,cache,AlienTech CS:GO League,3,16,3,12,0,4,k1ck,12,16,0.81 
+2016,02,16,23:00,Publiclir.se,k1ck,mirage,AlienTech CS:GO League,16,9,6,9,10,0,k1ck,26,20,1.47 
+2016,01,03,21:00,k1ck,MIXCAT,cobblestone,AlienTech CS:GO European Cup I..,13,16,2,13,11,3,k1ck,24,24,1.05 
+2016,01,03,21:00,k1ck,MIXCAT,mirage,AlienTech CS:GO European Cup I..,12,16,5,10,7,6,k1ck,21,17,1.22 
+2015,12,16,21:00,k1ck,MIXCAT,dust2,AlienTech CS:GO European Cup I..,6,16,4,11,2,5,k1ck,4,17,0.36 
+2015,12,14,21:00,k1ck,Publiclir.se,cobblestone,AlienTech CS:GO European Cup I..,16,14,6,9,10,5,k1ck,19,18,0.99 
+2015,11,22,19:00,k1ck,RCTIC,cobblestone,AlienTech AllStars,13,16,6,9,7,7,k1ck,18,22,0.88 
+2015,11,22,19:00,RCTIC,k1ck,dust2,AlienTech AllStars,16,14,4,11,12,3,k1ck,25,21,1.19 
+2015,11,22,11:30,OnlineBOTS,k1ck,inferno,AlienTech AllStars,13,16,9,6,4,10,k1ck,22,18,1.12 
+2015,11,22,11:30,k1ck,OnlineBOTS,dust2,AlienTech AllStars,16,7,12,3,4,4,k1ck,20,14,1.25 
+2015,11,21,15:55,k1ck,Epsilon,dust2,AlienTech AllStars,16,10,7,8,9,2,k1ck,18,13,1.08 
+2015,11,21,15:55,k1ck,Epsilon,overpass,AlienTech AllStars,16,3,12,3,4,0,k1ck,21,7,1.81 
+2015,11,20,23:00,k1ck,RCTIC,mirage,AlienTech AllStars,16,9,8,7,8,2,k1ck,22,12,1.46 
+2015,11,20,22:10,k1ck,Equilibrium,cache,AlienTech AllStars,16,7,9,6,7,1,k1ck,16,8,1.24 
+2015,11,20,20:25,k1ck,FTW.G2A,dust2,AlienTech AllStars,16,8,12,3,4,5,k1ck,18,17,1.01 
+2015,10,25,12:00,KeydStars,BulletsRage.Pro,mirage,AlienTech CS:GO TiTans I Final..,16,14,8,7,8,7,BulletsRage.Pro,23,21,1.16 
+2015,10,25,12:00,BulletsRage.Pro,KeydStars,overpass,AlienTech CS:GO TiTans I Final..,14,16,5,10,9,6,BulletsRage.Pro,26,22,1.12 
+2015,10,25,12:00,BulletsRage.Pro,KeydStars,inferno,AlienTech CS:GO TiTans I Final..,22,19,12,3,3,12,BulletsRage.Pro,29,28,1.01 
+2015,10,24,18:30,BulletsRage.Pro,k1ck,inferno,AlienTech CS:GO TiTans I Final..,16,11,8,7,8,4,BulletsRage.Pro,26,15,1.53 
+2015,10,24,15:45,AlienTech,BulletsRage.Pro,mirage,AlienTech CS:GO TiTans I Final..,16,7,8,7,8,0,BulletsRage.Pro,17,17,1.01 
+2015,10,24,15:45,AlienTech,BulletsRage.Pro,inferno,AlienTech CS:GO TiTans I Final..,16,3,12,3,4,0,BulletsRage.Pro,11,16,0.67 
+2015,10,20,22:00,FTW.PRO,BulletsRage.Pro,train,AlienTech CS:GO TiTans I,10,16,4,11,6,5,BulletsRage.Pro,22,15,1.16 
+2015,10,19,23:00,k1ck,BulletsRage.Pro,inferno,AlienTech CS:GO TiTans I,16,12,6,9,10,3,BulletsRage.Pro,19,22,0.78 
+2015,10,12,22:00,FTW.PRO,BulletsRage.Pro,inferno,AlienTech CS:GO TiTans I,8,16,6,9,2,7,BulletsRage.Pro,31,14,1.78 
+2015,10,08,20:00,gBots,OverGaming,cache,LVP Season 9 División de Honor..,16,3,12,3,4,0,OverGaming,7,17,0.42 
+2015,10,08,20:00,gBots,OverGaming,train,LVP Season 9 División de Honor..,16,7,9,6,7,1,OverGaming,12,19,0.65 
+2015,10,07,18:30,x6tence,OverGaming,mirage,LVP Season 9 División de Honor..,12,16,10,5,2,11,OverGaming,31,19,1.46 
+2015,10,07,18:30,x6tence,OverGaming,cache,LVP Season 9 División de Honor..,5,16,5,10,0,6,OverGaming,26,12,1.69 
+2015,10,04,14:45,OverGaming,Epsilon,train,SocialNat Master League,5,16,4,11,1,5,OverGaming,5,21,0.23 
+2015,10,04,14:45,Epsilon,OverGaming,mirage,SocialNat Master League,16,2,14,1,2,1,OverGaming,9,16,0.51 
+2015,10,03,15:00,summa.gg,OverGaming,cache,SocialNat Master League,7,16,2,13,5,3,OverGaming,21,14,1.33 
+2015,10,03,15:00,OverGaming,summa.gg,inferno,SocialNat Master League,16,8,11,4,5,4,OverGaming,17,14,1.10 
+2015,09,30,21:00,Portugal,Norway,overpass,World Championships 2015 Europ..,12,16,5,10,7,6,Portugal,27,20,1.25 
+2015,09,30,21:00,Portugal,Norway,cache,World Championships 2015 Europ..,21,25,9,6,6,9,Portugal,31,34,0.91 
+2015,09,30,21:00,Norway,Portugal,dust2,World Championships 2015 Europ..,14,16,3,12,11,4,Portugal,20,22,0.87 
+2015,09,16,18:00,Kazakhstan,Portugal,dust2,World Championships 2015 Europ..,3,16,2,13,1,3,Portugal,15,8,1.28 
+2015,09,16,17:00,Portugal,Romania,dust2,World Championships 2015 Europ..,16,11,6,9,10,2,Portugal,22,15,1.34 
+2015,09,14,18:00,Latvia,Portugal,dust2,World Championships 2015 Europ..,3,16,2,13,1,3,Portugal,10,12,0.80 
+2015,09,13,12:00,OverGaming,Dobry&Gaming,cache,DreamHack Open Cluj-Napoca 201..,8,16,7,8,1,8,OverGaming,13,16,0.80 
+2015,09,13,12:00,Dobry&Gaming,OverGaming,overpass,DreamHack Open Cluj-Napoca 201..,16,3,12,3,4,0,OverGaming,9,17,0.60 
+2015,09,12,19:45,OverGaming,KILLERFISH,cache,DreamHack Open Cluj-Napoca 201..,16,0,15,0,1,0,OverGaming,18,4,2.02 
+2015,09,05,19:50,OverGaming,LondonC,cache,DreamHack Open Cluj-Napoca 201..,6,16,5,10,1,6,OverGaming,9,16,0.62 
+2015,08,20,21:45,OverGaming,Reason,dust2,QuickShot Arena #3,6,16,2,13,4,3,OverGaming,9,18,0.52 
+2015,08,20,21:45,Reason,OverGaming,inferno,QuickShot Arena #3,16,13,10,5,6,8,OverGaming,23,19,1.10 
+2015,08,20,20:30,OverGaming,ESC,cobblestone,QuickShot Arena #3,19,16,10,5,5,10,OverGaming,22,22,0.99 
+2015,08,20,18:00,Reason,OverGaming,mirage,QuickShot Arena #3,19,17,11,4,4,11,OverGaming,28,26,1.05 
+2015,08,20,18:00,Reason,OverGaming,overpass,QuickShot Arena #3,16,6,9,6,7,0,OverGaming,17,17,1.25 
+2015,08,19,20:00,OverGaming,Teamless.gg,inferno,QuickShot Arena #3,16,12,9,6,7,6,OverGaming,15,22,0.75 
+2015,08,19,20:00,Teamless.gg,OverGaming,cache,QuickShot Arena #3,5,16,3,12,2,4,OverGaming,18,13,1.14 
+2015,08,17,20:00,dignitas,OverGaming,mirage,Hitbox Arena Showdown Invitati..,16,12,13,2,3,10,OverGaming,21,21,1.06 
+2015,08,17,20:00,OverGaming,dignitas,cache,Hitbox Arena Showdown Invitati..,4,16,4,11,0,5,OverGaming,17,17,1.04 
+2015,08,17,19:00,Publiclir.se,OverGaming,cache,Hitbox Arena Showdown Invitati..,13,16,9,6,4,10,OverGaming,19,18,1.02 
+2015,08,12,18:00,PENTA,OverGaming,mirage,99Damage Arena #12,16,5,13,2,3,3,OverGaming,10,17,0.61 
+2015,08,12,18:00,PENTA,OverGaming,inferno,99Damage Arena #12,16,6,10,5,6,1,OverGaming,16,20,0.92 
+2015,08,11,21:45,AlienTech,OverGaming,cache,99Damage Arena #12,12,16,3,12,9,4,OverGaming,18,17,1.00 
+2015,08,11,21:45,OverGaming,AlienTech,dust2,99Damage Arena #12,16,4,11,4,5,0,OverGaming,12,9,1.01 
+2015,08,11,18:00,MTW,OverGaming,mirage,99Damage Arena #12,12,16,8,7,4,9,OverGaming,20,19,1.00 
+2015,08,11,18:00,OverGaming,MTW,dust2,99Damage Arena #12,16,14,9,6,7,8,OverGaming,16,25,0.70 
+2015,08,11,18:00,MTW,OverGaming,cache,99Damage Arena #12,16,11,10,5,6,6,OverGaming,8,21,0.45 
+2015,07,25,18:15,OverGaming,KILLERFISH,mirage,ESL One Cologne 2015 European ..,8,16,8,7,0,9,OverGaming,14,20,0.74 
+2015,07,25,17:15,PiTER,OverGaming,cache,ESL One Cologne 2015 European ..,8,16,6,9,2,7,OverGaming,25,13,1.56 
+2015,07,25,13:30,OverGaming,dignitas,dust2,ESL One Cologne 2015 European ..,9,16,9,6,0,10,OverGaming,17,19,0.95 
+2015,05,25,19:00,1337,AlienTech.Black,cache,RGN Pro Series EU,16,6,11,4,5,2,AlienTech.Black,7,18,0.57 
+2015,05,14,18:00,AlienTech.Black,nerdRage,cache,Fragbite Masters Season 4,7,16,6,9,1,7,AlienTech.Black,17,20,0.93 
+2015,05,14,18:00,nerdRage,AlienTech.Black,dust2,Fragbite Masters Season 4,16,9,10,5,6,4,AlienTech.Black,13,21,0.63 
+2015,05,13,21:00,AlienTech.Black,Acer,cache,Fragbite Masters Season 4,12,16,7,8,5,8,AlienTech.Black,15,23,0.74 
+2015,05,13,21:00,Acer,AlienTech.Black,dust2,Fragbite Masters Season 4,16,6,10,5,6,1,AlienTech.Black,17,16,1.11 
+2015,05,06,19:00,AlienTech.Black,G2,cobblestone,Counter Pit League Qualifier,5,16,4,11,1,5,AlienTech.Black,16,16,0.94 
+2015,05,06,19:00,G2,AlienTech.Black,dust2,Counter Pit League Qualifier,13,16,9,6,4,10,AlienTech.Black,19,21,0.91 
+2015,05,06,19:00,AlienTech.Black,G2,mirage,Counter Pit League Qualifier,8,16,8,7,0,9,AlienTech.Black,11,18,0.68 
+2015,04,29,18:00,G2,k1ck,mirage,99Damage Arena #6,16,2,13,2,3,0,k1ck,10,18,0.53 
+2015,04,29,18:00,k1ck,G2,cache,99Damage Arena #6,12,16,10,5,2,11,k1ck,12,24,0.52 
+2015,04,28,21:15,KILLERFISH,k1ck,inferno,99Damage Arena #6,13,16,6,9,7,7,k1ck,21,19,1.05 
+2015,04,28,21:15,KILLERFISH,k1ck,dust2,99Damage Arena #6,14,16,10,5,4,11,k1ck,21,19,1.04 
+2015,04,28,21:15,KILLERFISH,k1ck,cache,99Damage Arena #6,16,12,8,7,8,5,k1ck,18,20,0.87 
+2015,04,25,19:30,KILLERFISH,k1ck,mirage,Acer Predator Masters powered ..,16,2,13,2,3,0,k1ck,9,18,0.51 
+2015,04,25,19:30,k1ck,KILLERFISH,cache,Acer Predator Masters powered ..,12,16,6,9,6,7,k1ck,26,21,1.19 
+2015,04,25,19:30,KILLERFISH,k1ck,dust2,Acer Predator Masters powered ..,12,16,10,5,2,11,k1ck,21,18,1.04 
+2015,04,25,18:15,k1ck,Atlantis,cache,Acer Predator Masters powered ..,16,10,7,8,9,2,k1ck,20,18,1.03 
+2015,04,22,18:00,k1ck,HellRaisers,mirage,DreamHack Open Tours 2015 Clos..,8,16,7,8,1,8,k1ck,12,19,0.68 
+2015,04,22,18:00,HellRaisers,k1ck,dust2,DreamHack Open Tours 2015 Clos..,16,9,8,7,8,2,k1ck,16,19,0.82 
+2015,04,22,18:00,k1ck,HellRaisers,inferno,DreamHack Open Tours 2015 Clos..,11,16,5,10,6,6,k1ck,9,21,0.49 
+2015,04,20,21:00,k1ck,G2,mirage,DreamHack Open Tours 2015 Clos..,16,14,12,3,4,11,k1ck,17,22,0.79 
+2015,04,20,21:00,G2,k1ck,cache,DreamHack Open Tours 2015 Clos..,16,14,13,2,3,12,k1ck,16,22,0.86 
+2015,04,20,21:00,G2,k1ck,dust2,DreamHack Open Tours 2015 Clos..,8,16,7,8,1,8,k1ck,23,18,1.17 
+2014,12,21,19:00,AlienTech,k1ck,cache,xfunction Masters by hitbox,6,16,6,9,0,7,k1ck,15,15,0.99 
+2014,12,21,19:00,AlienTech,k1ck,nuke,xfunction Masters by hitbox,11,16,9,6,2,10,k1ck,20,17,1.07 
+2014,12,21,19:00,k1ck,AlienTech,inferno,xfunction Masters by hitbox,20,22,13,2,2,13,k1ck,23,30,0.80 
+2014,12,18,21:37,Virtus.pro,k1ck,cobblestone,ESL Pro League Winter 2014/15,16,3,13,2,3,1,k1ck,9,17,0.57 
+2014,12,18,21:30,k1ck,Virtus.pro,inferno,ESL Pro League Winter 2014/15,12,16,9,6,3,10,k1ck,16,21,0.72 
+2014,11,24,18:30,Planetkey,k1ck,nuke,99Damage Arena #1,16,3,13,2,3,1,k1ck,8,18,0.52 
+2014,11,24,17:55,Planetkey,k1ck,dust2,99Damage Arena #1,16,9,8,7,8,2,k1ck,13,21,0.63 
+2014,11,15,15:30,mousesports,k1ck,dust2,GamersImpact Charity Drive,16,7,9,6,7,1,k1ck,12,19,0.65 
+2014,11,15,15:30,mousesports,k1ck,cache,GamersImpact Charity Drive,16,1,14,1,2,0,k1ck,7,17,0.41 
+2014,10,30,17:00,pow,k1ck,dust2,ESWC 2014,12,16,8,7,4,9,k1ck,22,21,1.07 
+2014,10,30,15:00,fnatic,k1ck,inferno,ESWC 2014,16,9,13,2,3,7,k1ck,10,21,0.51 
+2014,10,30,13:25,k1ck,eNergy,cache,ESWC 2014,16,8,12,3,4,5,k1ck,21,14,1.31 
+2014,10,30,12:00,LondonC,k1ck,inferno,ESWC 2014,8,16,6,9,2,7,k1ck,20,14,1.33 
+2014,10,30,10:00,NatusVincere,k1ck,inferno,ESWC 2014,16,5,11,4,5,1,k1ck,12,17,0.74 
+2014,10,10,19:00,Finland,Portugal,dust2,European Championship 2014,16,12,5,10,11,2,Portugal,17,20,0.86 
+2014,09,23,22:10,Property,k1ck,dust2,Fragbite Masters Season 3 Qual..,16,8,10,5,6,3,k1ck,8,23,0.31 
+2014,09,23,22:10,k1ck,Property,inferno,Fragbite Masters Season 3 Qual..,10,16,3,12,7,4,k1ck,12,20,0.64 
+2014,09,23,19:00,EZpeezy,k1ck,dust2,Fragbite Masters Season 3 Qual..,9,16,3,12,6,4,k1ck,23,16,1.36 
+2014,09,04,21:00,Portugal,Serbia,inferno,European Championship 2014,14,16,8,7,6,9,Portugal,22,19,1.05 
+2014,08,29,20:00,Ireland,Portugal,mirage,European Championship 2014 Qua..,9,16,3,12,6,4,Portugal,13,19,0.70 
+2014,08,29,20:00,Portugal,Ireland,nuke,European Championship 2014 Qua..,16,19,9,6,6,9,Portugal,37,24,1.44 
+2014,08,29,20:00,Ireland,Portugal,inferno,European Championship 2014 Qua..,10,16,6,9,4,7,Portugal,19,17,0.98 
+2014,07,27,15:30,ENCORE,k1ck,inferno,ESL One Cologne 2014 European ..,16,9,12,3,4,6,k1ck,11,16,0.71 
+2014,07,27,15:30,ENCORE,k1ck,dust2,ESL One Cologne 2014 European ..,16,12,10,5,6,7,k1ck,21,20,1.07 
+2014,07,26,20:30,USSR,k1ck,dust2,ESL One Cologne 2014 European ..,13,16,7,8,6,8,k1ck,25,23,1.07 
+2014,07,26,20:30,k1ck,USSR,inferno,ESL One Cologne 2014 European ..,21,18,10,5,5,10,k1ck,20,27,0.90 
+2014,07,26,13:00,k1ck,LondonC,nuke,ESL One Cologne 2014 European ..,9,16,9,6,0,10,k1ck,5,20,0.33 
+2014,07,26,13:00,k1ck,LondonC,dust2,ESL One Cologne 2014 European ..,16,14,7,8,9,6,k1ck,22,22,1.00 
+2014,07,26,13:00,LondonC,k1ck,inferno,ESL One Cologne 2014 European ..,16,7,12,3,4,4,k1ck,11,17,0.61 
+2014,07,19,22:45,k1ck,HellRaisers,nuke,DreamHack Valencia 2014,14,16,9,6,5,10,k1ck,19,22,0.84 
+2014,07,19,22:45,k1ck,HellRaisers,inferno,DreamHack Valencia 2014,11,16,10,5,1,11,k1ck,23,20,1.18 
+2014,07,19,22:45,HellRaisers,k1ck,dust2,DreamHack Valencia 2014,12,16,8,7,4,9,k1ck,19,20,0.92 
+2014,07,19,18:20,k1ck,LDLC,train,DreamHack Valencia 2014,9,16,8,7,1,9,k1ck,16,20,0.79 
+2014,07,19,18:20,LDLC,k1ck,dust2,DreamHack Valencia 2014,8,16,4,11,4,5,k1ck,26,13,1.76 
+2014,07,19,18:20,k1ck,LDLC,inferno,DreamHack Valencia 2014,20,22,11,4,4,11,k1ck,22,26,0.91 
+2014,07,19,11:15,Platinium,k1ck,nuke,DreamHack Valencia 2014,20,22,10,5,5,10,k1ck,29,26,1.03 
+2014,07,19,11:15,Platinium,k1ck,dust2,DreamHack Valencia 2014,14,16,8,7,6,9,k1ck,23,21,1.14 
+2014,07,19,11:15,Platinium,k1ck,inferno,DreamHack Valencia 2014,16,6,10,5,6,1,k1ck,12,16,0.78 
+2014,07,18,18:45,k1ck,OverGaming,inferno,DreamHack Valencia 2014,16,9,13,2,3,7,k1ck,18,13,1.18 
+2014,07,18,17:30,k1ck,INSHOCK,nuke,DreamHack Valencia 2014,16,2,13,2,3,0,k1ck,18,5,1.68 
+2014,05,30,19:00,k1ck,Reason,inferno,DreamHack Summer 2014 Closed Q..,7,16,6,9,1,7,k1ck,18,17,1.06 

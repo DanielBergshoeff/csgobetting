@@ -1,0 +1,7 @@
+2016,07,02,13:50,RedInstinct,Millenium,overpass,ESL National Championship Fran..,14,16,5,10,9,6,Red Instinct,22,25,0.86 
+2016,07,02,13:50,Millenium,RedInstinct,cache,ESL National Championship Fran..,16,12,11,4,5,8,Red Instinct,19,16,1.06 
+2016,03,27,18:50,Millenium,Platinium,dust2,Gamers Assembly 2016,16,14,7,8,9,6,Platinium,28,17,1.42 
+2016,03,27,18:50,Millenium,Platinium,mirage,Gamers Assembly 2016,16,6,10,5,6,1,Platinium,14,19,0.75 
+2015,05,08,22:45,Awsomniac,beGenius,inferno,DreamHack Open Tours 2015 BYOC..,16,10,10,5,6,5,beGenius,11,18,0.78 
+2015,05,08,21:40,beGenius,Immunity,mirage,DreamHack Open Tours 2015 BYOC..,16,12,10,5,6,7,beGenius,28,14,1.66 
+2015,05,08,19:35,LDLCWhite,beGenius,cache,DreamHack Open Tours 2015 BYOC..,16,9,7,8,9,1,beGenius,18,15,1.07 

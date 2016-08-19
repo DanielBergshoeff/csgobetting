@@ -1,0 +1,11 @@
+2015,10,15,21:15,XPC,Infused,cache,Global Offensive Champions Lea..,6,16,6,9,0,7,XPC,11,17,0.68 
+2015,10,15,21:15,XPC,Infused,mirage,Global Offensive Champions Lea..,5,16,5,10,0,6,XPC,10,17,0.66 
+2014,10,15,20:00,AMNESIA,HAXCON,cobblestone,ESL Pro Series Poland Season 9,12,16,6,9,6,7,AMNESIA,20,21,0.95 
+2014,10,12,19:00,ePlay,AMNESIA,dust2,ESL Pro Series Poland Season 9,5,16,2,13,3,3,AMNESIA,16,11,1.25 
+2014,10,12,18:00,ALSEN,AMNESIA,nuke,ESL Pro Series Poland Season 9,10,16,8,7,2,9,AMNESIA,22,16,1.23 
+2014,10,12,17:00,AMNESIA,eliminacja,cobblestone,ESL Pro Series Poland Season 9,16,8,11,4,5,4,AMNESIA,19,16,1.22 
+2014,10,06,20:00,AMNESIA,ESC,overpass,ESL Pro Series Poland Season 9,10,16,8,7,2,9,AMNESIA,13,19,0.70 
+2014,10,01,20:00,31337,AMNESIA,mirage,ESL Pro Series Poland Season 9,16,1,14,1,2,0,AMNESIA,6,17,0.36 
+2014,09,22,18:30,AMNESIA,noMERCY,inferno,ESL Pro Series Poland Season 9,5,16,4,11,1,5,AMNESIA,17,18,0.99 
+2014,06,11,21:15,ALSEN,noMERCY,nuke,ESL Pro Series Poland Season 8,16,9,13,2,3,7,ALSEN,22,16,1.14 
+2014,06,02,20:00,ALSEN,myRevenge,mirage,ESL Pro Series Poland Season 8,16,14,8,7,8,7,ALSEN,19,21,0.83 

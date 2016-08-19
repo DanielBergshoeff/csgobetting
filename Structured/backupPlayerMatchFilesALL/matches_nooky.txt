@@ -1,0 +1,71 @@
+2016,04,06,19:45,Planetkey,PENTA,mirage,Hitbox Challenger Cup,17,19,8,7,7,8,Planetkey,31,22,1.29 
+2016,03,23,20:00,Empire,Planetkey,cache,Hitbox Challenger Cup,8,16,3,12,5,4,Planetkey,21,17,1.28 
+2016,03,23,20:00,Planetkey,Empire,mirage,Hitbox Challenger Cup,12,16,7,8,5,8,Planetkey,24,22,1.02 
+2016,03,23,20:00,Planetkey,Empire,inferno,Hitbox Challenger Cup,16,3,12,3,4,0,Planetkey,23,9,1.90 
+2014,12,13,18:05,mousesports,Planetkey,mirage,ESL Pro Series Germany Winter ..,3,16,3,12,0,4,mousesports,9,18,0.62 
+2014,12,13,18:05,Planetkey,mousesports,dust2,ESL Pro Series Germany Winter ..,12,16,7,8,5,8,mousesports,22,17,1.12 
+2014,12,13,18:05,Planetkey,mousesports,overpass,ESL Pro Series Germany Winter ..,21,18,6,9,9,6,mousesports,29,24,1.10 
+2014,12,13,15:40,myKPV,mousesports,cache,ESL Pro Series Germany Winter ..,8,16,2,13,6,3,mousesports,21,17,1.11 
+2014,12,13,15:40,myKPV,mousesports,mirage,ESL Pro Series Germany Winter ..,9,16,5,10,4,6,mousesports,18,16,1.10 
+2014,12,11,21:09,mousesports,FlipSid3,cache,G2A.com December Cup Powered b..,16,13,8,7,8,6,mousesports,24,21,1.07 
+2014,12,11,21:00,mousesports,FlipSid3,mirage,G2A.com December Cup Powered b..,16,14,9,6,7,8,mousesports,11,20,0.60 
+2014,11,11,20:30,mousesports,PENTA,mirage,ESL Pro Series Germany Winter ..,16,4,12,3,4,1,mousesports,17,11,1.31 
+2014,11,11,19:00,mousesports,dotpiXels,cache,ESL Pro Series Germany Winter ..,21,17,7,8,8,7,mousesports,15,25,0.64 
+2014,10,23,18:00,mousesports,BadMonkey,mirage,Fragbite Masters Season 3,16,4,11,4,5,0,mousesports,12,11,1.04 
+2014,10,23,18:00,mousesports,BadMonkey,dust2,Fragbite Masters Season 3,16,4,11,4,5,0,mousesports,13,9,1.11 
+2014,10,12,21:20,Germany,Serbia,inferno,European Championship 2014,16,6,11,4,5,2,Germany,14,14,0.91 
+2014,10,12,20:20,Germany,Portugal,dust2,European Championship 2014,14,16,6,9,8,7,Germany,10,24,0.44 
+2014,10,01,23:00,Germany,Sweden,inferno,European Championship 2014,15,15,9,6,6,9,Germany,13,21,0.65 
+2014,09,08,20:00,Germany,Finland,mirage,European Championship 2014,10,16,8,7,2,9,Germany,10,23,0.46 
+2014,09,06,18:00,mousesports,Planetkey,mirage,ESL Pro Series Germany Summer ..,12,16,10,5,2,11,mousesports,18,20,0.94 
+2014,09,06,18:00,Planetkey,mousesports,inferno,ESL Pro Series Germany Summer ..,14,16,10,5,4,11,mousesports,22,17,1.10 
+2014,09,06,18:00,mousesports,Planetkey,dust2,ESL Pro Series Germany Summer ..,13,16,7,8,6,8,mousesports,17,21,0.83 
+2014,09,06,15:30,PlayingDucks,mousesports,cache,ESL Pro Series Germany Summer ..,8,16,3,12,5,4,mousesports,11,14,0.77 
+2014,09,06,15:30,mousesports,PlayingDucks,mirage,ESL Pro Series Germany Summer ..,16,6,10,5,6,1,mousesports,14,10,1.07 
+2014,08,05,20:15,mousesports,MTW,dust2,ESL Pro Series Germany Summer ..,16,6,9,6,7,0,mousesports,19,10,1.40 
+2014,08,05,19:00,mousesports,myKPV,cache,ESL Pro Series Germany Summer ..,16,7,12,3,4,4,mousesports,26,11,1.70 
+2014,08,03,11:30,fnatic,mousesports,inferno,Gfinity 3,19,17,13,2,2,13,mousesports,23,24,0.88 
+2014,08,03,11:30,mousesports,fnatic,dust2,Gfinity 3,16,10,8,7,8,3,mousesports,19,15,1.07 
+2014,08,03,11:30,fnatic,mousesports,mirage,Gfinity 3,16,12,13,2,3,10,mousesports,13,20,0.70 
+2014,08,03,01:00,Titan,mousesports,mirage,Gfinity 3,16,3,14,1,2,2,mousesports,8,16,0.66 
+2014,08,02,20:15,mousesports,dignitas,dust2,Gfinity 3,11,16,4,11,7,5,mousesports,20,21,0.99 
+2014,08,02,18:45,mousesports,ESG!,mirage,Gfinity 3,12,16,3,12,9,4,mousesports,13,21,0.67 
+2014,08,02,15:50,mousesports,Virtus.pro,cache,Gfinity 3,16,9,11,4,5,5,mousesports,16,10,1.16 
+2014,08,02,11:15,mousesports,fm-eSports,mirage,Gfinity 3,16,3,12,3,4,0,mousesports,14,9,1.29 
+2014,07,28,21:00,NatusVincere,mousesports,mirage,SLTV StarSeries X,9,16,5,10,4,6,mousesports,15,16,0.82 
+2014,07,27,17:25,CPHWolves,mousesports,inferno,ESL One Cologne 2014 European ..,16,11,9,6,7,5,mousesports,16,21,0.85 
+2014,07,27,17:25,mousesports,CPHWolves,dust2,ESL One Cologne 2014 European ..,10,16,5,10,5,6,mousesports,10,23,0.44 
+2014,07,26,20:30,mousesports,ESC,train,ESL One Cologne 2014 European ..,16,6,10,5,6,1,mousesports,14,11,0.97 
+2014,07,26,20:30,mousesports,ESC,dust2,ESL One Cologne 2014 European ..,16,11,9,6,7,5,mousesports,16,16,0.89 
+2014,07,26,20:30,mousesports,ESC,mirage,ESL One Cologne 2014 European ..,6,16,5,10,1,6,mousesports,8,20,0.46 
+2014,07,26,13:00,mousesports,dAT,mirage,ESL One Cologne 2014 European ..,10,16,4,11,6,5,mousesports,13,22,0.63 
+2014,07,26,13:00,mousesports,dAT,train,ESL One Cologne 2014 European ..,8,16,8,7,0,9,mousesports,10,19,0.54 
+2014,07,17,22:00,mousesports,fnatic,train,SLTV StarSeries X,9,16,4,11,5,5,mousesports,6,19,0.42 
+2014,07,10,20:00,mousesports,OnlineBOTS,mirage,SLTV StarSeries X,16,3,14,1,2,2,mousesports,15,10,1.17 
+2014,07,09,20:00,mousesports,Berzerk,dust2,SLTV StarSeries X,16,8,9,6,7,2,mousesports,12,12,0.87 
+2014,07,06,21:25,mousesports,Reason,train,SLTV StarSeries X,16,10,12,3,4,7,mousesports,22,16,1.20 
+2014,07,06,20:20,mousesports,Nostalgie,mirage,SLTV StarSeries X,16,3,12,3,4,0,mousesports,8,7,0.90 
+2014,07,06,19:20,mousesports,OverGaming,mirage,SLTV StarSeries X,16,11,11,4,5,7,mousesports,17,17,0.91 
+2014,06,25,20:00,mousesports,ESC,mirage,SLTV StarSeries X,16,13,10,5,6,8,mousesports,17,19,0.85 
+2014,06,22,14:00,mousesports,dAT,mirage,Team Dignitas CS:GO SCAN Invit..,16,10,12,3,4,7,mousesports,17,16,0.95 
+2014,06,22,14:00,mousesports,dAT,inferno,Team Dignitas CS:GO SCAN Invit..,16,8,12,3,4,5,mousesports,18,10,1.34 
+2014,06,22,14:00,mousesports,dAT,train,Team Dignitas CS:GO SCAN Invit..,8,16,7,8,1,8,mousesports,11,18,0.73 
+2014,06,03,21:30,Titan,mousesports,inferno,Hitbox Arena Championship,16,11,10,5,6,6,mousesports,18,20,0.91 
+2014,06,03,21:30,mousesports,Titan,mirage,Hitbox Arena Championship,9,16,5,10,4,6,mousesports,13,22,0.63 
+2014,06,03,21:30,Titan,mousesports,dust2,Hitbox Arena Championship,5,16,3,12,2,4,mousesports,10,12,0.89 
+2014,05,30,19:00,mousesports,ALTERNATEaTTaX,mirage,DreamHack Summer 2014 Closed Q..,9,16,5,10,4,6,mousesports,17,19,0.90 
+2014,05,15,21:15,Wizards,mousesports,mirage,Hitbox Arena Championship,3,16,0,15,3,1,mousesports,14,10,1.19 
+2014,05,15,21:15,mousesports,Wizards,dust2,Hitbox Arena Championship,16,5,11,4,5,1,mousesports,19,15,1.29 
+2014,05,14,19:00,mousesports,fnatic,dust2,Hitbox Arena Championship,12,16,6,9,6,7,mousesports,23,20,1.15 
+2014,05,14,19:00,mousesports,fnatic,inferno,Hitbox Arena Championship,23,26,9,6,6,9,mousesports,27,37,0.71 
+2014,05,13,21:09,mousesports,fm-eSports,dust2,Hitbox Arena Championship,16,6,9,6,7,0,mousesports,24,10,1.51 
+2014,05,13,21:00,mousesports,fm-eSports,inferno,Hitbox Arena Championship,16,10,9,6,7,4,mousesports,14,14,0.92 
+2014,05,10,19:20,mousesports,WildFire,inferno,ESL Pro Series Germany Spring ..,10,16,9,6,1,10,mousesports,13,16,0.82 
+2014,05,10,19:20,mousesports,WildFire,dust2,ESL Pro Series Germany Spring ..,19,21,6,9,9,6,mousesports,28,23,1.06 
+2014,05,10,13:00,mousesports,EnRoGRIFFINS,dust2,ESL Pro Series Germany Spring ..,16,7,10,5,6,2,mousesports,16,16,0.98 
+2014,05,10,13:00,EnRoGRIFFINS,mousesports,inferno,ESL Pro Series Germany Spring ..,12,16,8,7,4,9,mousesports,11,16,0.72 
+2014,04,25,23:40,NatusVincere,mousesports,train,E-sport-bets.com 3rd Anniversa..,16,13,7,8,9,5,mousesports,11,22,0.53 
+2014,04,25,21:10,LGB,mousesports,inferno,E-sport-bets.com 3rd Anniversa..,16,5,12,3,4,2,mousesports,18,17,1.20 
+2014,04,25,18:00,mousesports,NatusVincere,dust2,E-sport-bets.com 3rd Anniversa..,19,17,6,9,9,6,mousesports,18,23,0.74 
+2014,04,18,21:00,LDLC,mousesports,dust2,Copenhagen Games 2014,16,10,6,9,10,1,mousesports,11,21,0.56 
+2014,04,18,21:00,mousesports,LDLC,inferno,Copenhagen Games 2014,11,16,6,9,5,7,mousesports,13,19,0.77 

@@ -1,0 +1,162 @@
+2016,08,09,21:20,X,GODSENT,cobblestone,SL i-League S2 Europe Qualifie..,16,10,7,8,9,2,GODSENT,16,20,0.81 
+2016,08,09,21:20,GODSENT,X,dust2,SL i-League S2 Europe Qualifie..,16,4,11,4,5,0,GODSENT,19,9,1.62 
+2016,08,09,21:20,X,GODSENT,train,SL i-League S2 Europe Qualifie..,16,11,11,4,5,7,GODSENT,16,22,0.75 
+2016,07,27,21:00,GODSENT,PRIDE,mirage,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,GODSENT,25,20,1.33 
+2016,07,27,21:00,GODSENT,PRIDE,cobblestone,SL i-League S2 Europe Qualifie..,16,12,8,7,8,5,GODSENT,19,19,0.93 
+2016,07,26,21:00,Kinguin,GODSENT,train,SL i-League S2 Europe Qualifie..,16,10,7,8,9,2,GODSENT,17,18,0.95 
+2016,07,26,21:00,Kinguin,GODSENT,cache,SL i-League S2 Europe Qualifie..,16,12,6,9,10,3,GODSENT,17,24,0.75 
+2016,07,26,21:00,Kinguin,GODSENT,mirage,SL i-League S2 Europe Qualifie..,6,16,3,12,3,4,GODSENT,23,10,1.58 
+2016,07,25,23:00,PENTA,GODSENT,overpass,SL i-League S2 Europe Qualifie..,11,16,9,6,2,10,GODSENT,15,19,0.83 
+2016,07,25,23:00,PENTA,GODSENT,cache,SL i-League S2 Europe Qualifie..,10,16,3,12,7,4,GODSENT,15,17,0.85 
+2016,07,25,23:00,PENTA,GODSENT,cobblestone,SL i-League S2 Europe Qualifie..,16,10,7,8,9,2,GODSENT,15,18,0.87 
+2016,06,20,11:00,Immortals,GODSENT,train,DreamHack ZOWIE Open Summer 20..,16,8,9,6,7,2,GODSENT,18,18,1.07 
+2016,06,20,11:00,Immortals,GODSENT,mirage,DreamHack ZOWIE Open Summer 20..,12,16,5,10,7,6,GODSENT,21,20,1.03 
+2016,06,20,11:00,Immortals,GODSENT,cache,DreamHack ZOWIE Open Summer 20..,16,11,9,6,7,5,GODSENT,18,21,0.93 
+2016,06,18,22:30,GODSENT,NiP,mirage,DreamHack ZOWIE Open Summer 20..,16,8,12,3,4,5,GODSENT,20,15,1.15 
+2016,06,18,19:30,HellRaisers,GODSENT,cobblestone,DreamHack ZOWIE Open Summer 20..,7,16,3,12,4,4,GODSENT,15,14,1.12 
+2016,05,21,17:15,GODSENT,NatusVincere,mirage,SL i-League Invitational #1,14,16,5,10,9,6,GODSENT,18,22,0.87 
+2016,05,21,17:15,NatusVincere,GODSENT,cobblestone,SL i-League Invitational #1,16,12,6,9,10,3,GODSENT,19,19,0.99 
+2016,05,21,09:00,GODSENT,WorstPlayers,overpass,SL i-League Invitational #1,16,6,9,6,7,0,GODSENT,11,12,0.84 
+2016,05,21,09:00,GODSENT,WorstPlayers,cobblestone,SL i-League Invitational #1,11,16,6,9,5,7,GODSENT,17,21,0.75 
+2016,05,21,09:00,WorstPlayers,GODSENT,mirage,SL i-League Invitational #1,14,16,4,11,10,5,GODSENT,28,23,1.12 
+2016,05,20,21:00,Dobry&Gaming,GODSENT,cache,SL i-League Invitational #1,16,5,11,4,5,1,GODSENT,8,19,0.45 
+2016,05,20,21:00,Dobry&Gaming,GODSENT,train,SL i-League Invitational #1,16,1,14,1,2,0,GODSENT,5,17,0.25 
+2016,05,19,16:30,GODSENT,FlipSid3,inferno,SL i-League Invitational #1,16,13,11,4,5,9,GODSENT,20,18,1.07 
+2016,05,19,16:30,FlipSid3,GODSENT,cobblestone,SL i-League Invitational #1,3,16,3,12,0,4,GODSENT,25,12,1.92 
+2016,05,14,19:45,ENCE,GODSENT,mirage,DreamHack Regional Minor Champ..,16,13,11,4,5,9,GODSENT,22,19,1.06 
+2016,05,14,19:45,GODSENT,ENCE,cache,DreamHack Regional Minor Champ..,16,6,10,5,6,1,GODSENT,19,11,1.31 
+2016,05,14,19:45,ENCE,GODSENT,train,DreamHack Regional Minor Champ..,16,6,10,5,6,1,GODSENT,12,19,0.70 
+2016,05,14,18:00,CSGL,GODSENT,cobblestone,DreamHack Regional Minor Champ..,6,16,5,10,1,6,GODSENT,23,12,1.72 
+2016,05,14,16:00,ENCE,GODSENT,mirage,DreamHack Regional Minor Champ..,19,17,8,7,7,8,GODSENT,23,21,1.02 
+2016,05,11,19:00,FlipSid3,GODSENT,cobblestone,Uprise Champions Cup Season 4,13,16,3,12,10,4,GODSENT,29,18,1.49 
+2016,05,11,19:00,FlipSid3,GODSENT,train,Uprise Champions Cup Season 4,14,16,11,4,3,12,GODSENT,24,20,1.25 
+2016,05,01,18:10,GODSENT,RCTIC,inferno,DreamHack Regional Minor Champ..,16,7,10,5,6,2,GODSENT,14,13,0.99 
+2016,05,01,18:10,RCTIC,GODSENT,cache,DreamHack Regional Minor Champ..,10,16,3,12,7,4,GODSENT,18,17,1.15 
+2016,05,01,15:00,Desperados,GODSENT,cache,DreamHack Regional Minor Champ..,4,16,3,12,1,4,GODSENT,19,8,1.57 
+2016,05,01,15:00,GODSENT,Desperados,train,DreamHack Regional Minor Champ..,16,13,10,5,6,8,GODSENT,25,16,1.31 
+2016,04,27,17:00,GODSENT,Gambit,train,SL I-League Invitational #1 EU..,9,16,7,8,2,8,GODSENT,11,22,0.51 
+2016,04,27,17:00,GODSENT,Gambit,cobblestone,SL I-League Invitational #1 EU..,6,16,5,10,1,6,GODSENT,7,17,0.48 
+2016,04,26,18:00,CSGL,GODSENT,cache,SL I-League Invitational #1 EU..,16,11,5,10,11,1,GODSENT,10,19,0.57 
+2016,04,26,18:00,GODSENT,CSGL,mirage,SL I-League Invitational #1 EU..,12,16,12,3,0,13,GODSENT,11,17,0.65 
+2016,04,24,18:45,CSGL,GODSENT,cache,DreamHack Regional Minor Champ..,16,11,6,9,10,2,GODSENT,17,20,0.84 
+2016,04,24,18:45,CSGL,GODSENT,overpass,DreamHack Regional Minor Champ..,16,12,11,4,5,8,GODSENT,11,20,0.66 
+2016,04,24,15:00,GODSENT,deadweight,inferno,DreamHack Regional Minor Champ..,19,16,11,4,4,11,GODSENT,31,20,1.40 
+2016,04,24,15:00,deadweight,GODSENT,train,DreamHack Regional Minor Champ..,11,16,4,11,7,5,GODSENT,28,17,1.47 
+2016,04,24,15:00,deadweight,GODSENT,mirage,DreamHack Regional Minor Champ..,16,14,6,9,10,5,GODSENT,20,23,0.92 
+2016,04,20,17:00,PiTER,GODSENT,mirage,Uprise Champions Cup Season 4,13,16,6,9,7,7,GODSENT,29,20,1.39 
+2016,04,20,17:00,PiTER,GODSENT,inferno,Uprise Champions Cup Season 4,1,16,1,14,0,2,GODSENT,19,3,1.95 
+2016,04,17,15:00,GODSENT,NiP,mirage,DreamHack Masters Malmö 2016,10,16,9,6,1,10,GODSENT,18,18,1.07 
+2016,04,17,15:00,GODSENT,NiP,train,DreamHack Masters Malmö 2016,19,16,8,7,7,8,GODSENT,18,20,0.88 
+2016,04,17,15:00,GODSENT,NiP,cobblestone,DreamHack Masters Malmö 2016,14,16,8,7,6,9,GODSENT,24,17,1.22 
+2016,04,16,17:00,mousesports,GODSENT,mirage,DreamHack Masters Malmö 2016,13,16,7,8,6,8,GODSENT,31,19,1.43 
+2016,04,16,17:00,GODSENT,mousesports,inferno,DreamHack Masters Malmö 2016,16,10,8,7,8,3,GODSENT,17,15,1.00 
+2016,04,16,17:00,mousesports,GODSENT,cache,DreamHack Masters Malmö 2016,16,7,8,7,8,0,GODSENT,15,18,0.77 
+2016,04,14,14:30,GODSENT,CLG,cache,DreamHack Masters Malmö 2016,16,8,8,7,8,1,GODSENT,12,14,0.81 
+2016,04,14,14:30,CLG,GODSENT,overpass,DreamHack Masters Malmö 2016,16,19,12,3,3,12,GODSENT,22,22,0.96 
+2016,04,13,12:45,GODSENT,G2,train,DreamHack Masters Malmö 2016,16,8,7,8,9,0,GODSENT,22,14,1.37 
+2016,04,12,14:00,NatusVincere,GODSENT,train,DreamHack Masters Malmö 2016,16,11,13,2,3,9,GODSENT,9,20,0.53 
+2016,04,07,20:00,GODSENT,SpaceSoldiers,cobblestone,Global Offensive Champions Lea..,5,16,4,11,1,5,GODSENT,15,18,0.88 
+2016,04,07,20:00,GODSENT,SpaceSoldiers,mirage,Global Offensive Champions Lea..,10,16,9,6,1,10,GODSENT,9,21,0.47 
+2016,03,28,21:00,Ancient,CSGL,cobblestone,SL I-League Invitational #1 EU..,8,16,5,10,3,6,Ancient,18,17,1.06 
+2016,03,28,21:00,Ancient,CSGL,mirage,SL I-League Invitational #1 EU..,16,19,5,10,10,5,Ancient,12,30,0.40 
+2016,03,27,20:15,Ancient,eXplosive,inferno,SL I-League Invitational #1 EU..,16,6,13,2,3,4,Ancient,25,9,1.80 
+2016,03,27,20:15,Ancient,eXplosive,mirage,SL I-League Invitational #1 EU..,16,5,13,2,3,3,Ancient,24,9,1.84 
+2016,03,27,19:00,Iwku,Ancient,cobblestone,SL I-League Invitational #1 EU..,5,16,5,10,0,6,Ancient,20,12,1.42 
+2016,03,22,21:30,HellRaisers,Ancient,inferno,SL I-League Invitational #1 EU..,16,9,14,1,2,8,Ancient,15,19,0.91 
+2016,03,22,21:30,HellRaisers,Ancient,cobblestone,SL I-League Invitational #1 EU..,16,5,12,3,4,2,Ancient,7,19,0.47 
+2016,03,22,21:30,HellRaisers,Ancient,overpass,SL I-League Invitational #1 EU..,13,16,6,9,7,7,Ancient,19,18,0.98 
+2016,03,21,21:40,Empire,Ancient,mirage,SL I-League Invitational #1 EU..,6,16,3,12,3,4,Ancient,27,9,1.93 
+2016,03,21,21:40,Ancient,Empire,cobblestone,SL I-League Invitational #1 EU..,16,6,9,6,7,0,Ancient,16,14,1.09 
+2016,03,21,20:30,Ancient,eXplosive,mirage,SL I-League Invitational #1 EU..,16,8,9,6,7,2,Ancient,23,15,1.35 
+2016,03,20,19:00,CPHWolves,Ancient,overpass,DreamHack Masters Malmö 2016 E..,11,16,3,12,8,4,Ancient,16,16,0.89 
+2016,03,20,19:00,Ancient,CPHWolves,train,DreamHack Masters Malmö 2016 E..,16,3,13,2,3,1,Ancient,16,11,1.20 
+2016,03,20,15:45,FlipSid3,Ancient,train,DreamHack Masters Malmö 2016 E..,10,16,6,9,4,7,Ancient,18,18,1.03 
+2016,03,20,15:45,Ancient,FlipSid3,inferno,DreamHack Masters Malmö 2016 E..,16,4,12,3,4,1,Ancient,23,10,1.83 
+2016,03,20,13:00,Ancient,ENCE,mirage,DreamHack Masters Malmö 2016 E..,16,10,9,6,7,4,Ancient,19,15,1.20 
+2016,03,20,13:00,ENCE,Ancient,cobblestone,DreamHack Masters Malmö 2016 E..,11,16,6,9,5,7,Ancient,20,18,1.02 
+2016,03,17,21:30,CSGL,Ancient,train,Uprise Champions Cup Season 4,16,12,8,7,8,5,Ancient,22,20,1.12 
+2016,03,17,21:30,CSGL,Ancient,mirage,Uprise Champions Cup Season 4,14,16,9,6,5,10,Ancient,29,21,1.32 
+2016,03,17,21:30,Ancient,CSGL,cobblestone,Uprise Champions Cup Season 4,17,19,6,9,9,6,Ancient,23,25,0.96 
+2016,03,13,17:45,Ancient,FlipSid3,mirage,DreamHack Masters Malmö 2016 E..,7,16,3,12,4,4,Ancient,10,16,0.61 
+2016,03,13,17:45,Ancient,FlipSid3,overpass,DreamHack Masters Malmö 2016 E..,9,16,7,8,2,8,Ancient,16,21,0.78 
+2016,03,13,17:45,FlipSid3,Ancient,inferno,DreamHack Masters Malmö 2016 E..,12,16,6,9,6,7,Ancient,18,18,0.89 
+2016,03,13,13:00,SK,Ancient,mirage,DreamHack Masters Malmö 2016 E..,17,19,6,9,9,6,Ancient,28,25,1.08 
+2016,03,13,13:00,Ancient,SK,overpass,DreamHack Masters Malmö 2016 E..,11,16,3,12,8,4,Ancient,16,20,0.77 
+2016,03,13,13:00,SK,Ancient,train,DreamHack Masters Malmö 2016 E..,13,16,12,3,1,13,Ancient,27,18,1.41 
+2016,03,12,18:15,Orbit,Ancient,mirage,DreamHack Masters Malmö 2016 E..,11,16,7,8,4,8,Ancient,12,17,0.76 
+2016,03,10,21:00,Ancient,SK,overpass,Global Offensive Champions Lea..,16,14,8,7,8,7,Ancient,21,22,0.94 
+2016,03,10,19:00,E-frag.net,Ancient,inferno,Global Offensive Champions Lea..,8,16,5,10,3,6,Ancient,24,16,1.35 
+2016,02,28,21:00,Ancient,Orgless,inferno,Pantamera CS:GO Challenge 2016,16,11,6,9,10,2,Ancient,22,14,1.22 
+2016,02,28,21:00,Ancient,Orgless,overpass,Pantamera CS:GO Challenge 2016,16,6,12,3,4,3,Ancient,19,10,1.56 
+2016,02,28,18:00,ALTERNATEaTTaX,Ancient,cobblestone,Pantamera CS:GO Challenge 2016,3,16,3,12,0,4,Ancient,12,10,1.16 
+2016,02,28,18:00,ALTERNATEaTTaX,Ancient,overpass,Pantamera CS:GO Challenge 2016,5,16,2,13,3,3,Ancient,19,11,1.28 
+2016,02,27,15:50,ENCE,Ancient,train,Pantamera CS:GO Challenge 2016,14,16,11,4,3,12,Ancient,17,22,0.79 
+2016,02,27,14:15,ALAMIX,Ancient,inferno,Pantamera CS:GO Challenge 2016,6,16,5,10,1,6,Ancient,11,11,0.88 
+2016,02,27,13:00,Ancient,Preparation,cobblestone,Pantamera CS:GO Challenge 2016,1,16,1,14,0,2,Ancient,7,15,0.51 
+2016,02,19,22:30,KoNSweden,KoNDenmark,inferno,King of Nordic Season 3,21,19,8,7,7,8,KoN Sweden,41,29,1.39 
+2016,02,19,21:30,KoNNorway,KoNSweden,dust2,King of Nordic Season 3,14,16,7,8,7,8,KoN Sweden,21,22,0.90 
+2015,12,18,17:00,OnlineBOTS,PiTER,dust2,QuickShot Arena #19,17,19,6,9,9,6,OnlineBOTS,23,26,0.87 
+2015,12,18,17:00,PiTER,OnlineBOTS,mirage,QuickShot Arena #19,16,7,11,4,5,3,OnlineBOTS,17,20,0.80 
+2015,12,16,21:00,AlienTech,DEEZNUTS,train,Game On European Invitational,16,10,12,3,4,7,DEEZ NUTS,18,18,0.94 
+2015,12,16,21:00,DEEZNUTS,AlienTech,cache,Game On European Invitational,11,16,4,11,7,5,DEEZ NUTS,20,19,1.10 
+2015,12,15,20:30,DEEZNUTS,YP,cobblestone,Game On European Invitational,16,9,8,7,8,2,DEEZ NUTS,16,16,1.08 
+2015,12,15,20:30,DEEZNUTS,YP,mirage,Game On European Invitational,14,16,11,4,3,12,DEEZ NUTS,25,21,1.25 
+2015,12,15,20:30,YP,DEEZNUTS,cache,Game On European Invitational,14,16,7,8,7,8,DEEZ NUTS,14,25,0.62 
+2015,12,14,21:00,k1ck,Publiclir.se,cobblestone,AlienTech CS:GO European Cup I..,16,14,6,9,10,5,Publiclir.se,20,21,0.90 
+2015,12,04,20:00,NoProblem!,OnlineBOTS,cache,QuickShot Arena #17,16,10,8,7,8,3,OnlineBOTS,22,21,1.00 
+2015,12,04,20:00,NoProblem!,OnlineBOTS,train,QuickShot Arena #17,16,3,12,3,4,0,OnlineBOTS,10,17,0.65 
+2015,12,04,20:00,NoProblem!,OnlineBOTS,overpass,QuickShot Arena #17,14,16,3,12,11,4,OnlineBOTS,23,17,1.21 
+2015,11,30,20:00,Publiclir.se,Torpedo,overpass,RGN European Open,14,16,6,9,8,7,Publiclir.se,18,22,0.80 
+2015,11,30,20:00,Torpedo,Publiclir.se,mirage,RGN European Open,16,13,12,3,4,10,Publiclir.se,24,20,1.28 
+2015,11,30,20:00,Publiclir.se,Torpedo,cache,RGN European Open,16,13,8,7,8,6,Publiclir.se,18,18,0.93 
+2015,11,22,15:30,OnlineBOTS,Publiclir.se,inferno,AlienTech AllStars,10,16,8,7,2,9,Publiclir.se,25,15,1.53 
+2015,11,22,15:30,OnlineBOTS,Publiclir.se,cache,AlienTech AllStars,14,16,5,10,9,6,Publiclir.se,15,22,0.73 
+2015,11,22,11:25,Publiclir.se,RCTIC,cobblestone,AlienTech AllStars,16,19,6,9,9,6,Publiclir.se,31,24,1.25 
+2015,11,22,11:25,Publiclir.se,RCTIC,train,AlienTech AllStars,16,12,6,9,10,3,Publiclir.se,26,16,1.31 
+2015,11,22,11:25,RCTIC,Publiclir.se,mirage,AlienTech AllStars,16,8,11,4,5,4,Publiclir.se,11,19,0.65 
+2015,11,21,19:30,FTW.PRO,Publiclir.se,cache,AlienTech AllStars,4,16,4,11,0,5,Publiclir.se,20,6,1.67 
+2015,11,21,19:30,Publiclir.se,FTW.PRO,mirage,AlienTech AllStars,16,8,12,3,4,5,Publiclir.se,22,11,1.50 
+2015,11,20,18:30,Publiclir.se,OnlineBOTS,cache,AlienTech AllStars,16,10,13,2,3,8,Publiclir.se,21,14,1.32 
+2015,11,20,17:00,Publiclir.se,FTW.EvoPrinfor,cache,AlienTech AllStars,16,0,15,0,1,0,Publiclir.se,11,7,1.14 
+2015,11,20,16:00,Publiclir.se,LECARTEL,mirage,AlienTech AllStars,16,4,11,4,5,0,Publiclir.se,22,11,1.63 
+2015,11,12,22:00,EpiphanyBolt,Publiclir.se,mirage,RGN European Open,8,16,3,12,5,4,Publiclir.se,22,13,1.45 
+2015,11,05,22:10,Publiclir.se,Epsilon,mirage,Uprise Champions Cup: Europe E..,8,16,6,9,2,7,Publiclir.se,21,18,1.13 
+2015,11,05,22:10,Publiclir.se,Epsilon,train,Uprise Champions Cup: Europe E..,10,16,9,6,1,10,Publiclir.se,14,19,0.76 
+2015,11,05,17:30,Epsilon,Publiclir.se,cache,Uprise Champions Cup: Europe E..,5,16,4,11,1,5,Publiclir.se,18,10,1.34 
+2015,11,05,17:30,Epsilon,Publiclir.se,mirage,Uprise Champions Cup: Europe E..,8,16,3,12,5,4,Publiclir.se,18,15,1.17 
+2015,11,04,17:00,Publiclir.se,BX3,cache,Uprise Champions Cup: Europe E..,16,9,11,4,5,5,Publiclir.se,21,17,1.15 
+2015,11,04,17:00,BX3,Publiclir.se,inferno,Uprise Champions Cup: Europe E..,13,16,9,6,4,10,Publiclir.se,17,17,0.89 
+2015,11,01,11:00,Publiclir.se,MIXCAT,inferno,ASUS ROG Nordic Challenge,6,16,4,11,2,5,Publiclir.se,12,17,0.72 
+2015,11,01,11:00,MIXCAT,Publiclir.se,cobblestone,ASUS ROG Nordic Challenge,11,16,8,7,3,9,Publiclir.se,15,17,0.90 
+2015,11,01,11:00,Publiclir.se,MIXCAT,mirage,ASUS ROG Nordic Challenge,13,16,8,7,5,9,Publiclir.se,18,21,0.78 
+2015,11,01,11:00,Publiclir.se,MIXCAT,cache,ASUS ROG Nordic Challenge,8,16,6,9,2,7,Publiclir.se,20,19,1.20 
+2015,10,31,11:30,Publiclir.se,RCTIC,mirage,ASUS ROG Nordic Challenge,16,13,8,7,8,6,Publiclir.se,23,22,1.02 
+2015,10,31,11:30,Publiclir.se,RCTIC,cobblestone,ASUS ROG Nordic Challenge,16,9,7,8,9,1,Publiclir.se,30,19,1.59 
+2015,10,30,14:00,Publiclir.se,HS.GG,overpass,ASUS ROG Nordic Challenge,16,12,5,10,11,2,Publiclir.se,20,20,1.00 
+2015,10,30,14:00,HS.GG,Publiclir.se,cobblestone,ASUS ROG Nordic Challenge,16,7,8,7,8,0,Publiclir.se,16,17,0.95 
+2015,10,30,14:00,Publiclir.se,HS.GG,mirage,ASUS ROG Nordic Challenge,16,6,10,5,6,1,Publiclir.se,18,15,1.10 
+2015,10,21,21:15,Reaction,Publiclir.se,cache,RGN European Open,1,16,1,14,0,2,Publiclir.se,17,8,1.44 
+2015,10,20,21:00,stfuNerd,NoProblem!,mirage,D!ngIT $2000 Weekly Cup #22,17,21,6,9,9,6,stfuNerd,36,26,1.35 
+2015,10,02,22:30,ESC,NoProblem!,overpass,QuickShot Arena #9,2,16,2,13,0,3,ESC,10,18,0.50 
+2015,10,02,22:30,NoProblem!,ESC,cache,QuickShot Arena #9,14,16,7,8,7,8,ESC,25,17,1.22 
+2015,10,02,22:30,ESC,NoProblem!,mirage,QuickShot Arena #9,11,16,6,9,5,7,ESC,21,19,1.08 
+2015,10,02,17:00,ESC,WorstPlayers,train,QuickShot Arena #9,16,4,11,4,5,0,ESC,18,11,1.35 
+2015,10,02,17:00,ESC,WorstPlayers,mirage,QuickShot Arena #9,16,19,11,4,4,11,ESC,28,22,1.19 
+2015,10,02,17:00,WorstPlayers,ESC,cache,QuickShot Arena #9,14,16,7,8,7,8,ESC,19,21,0.91 
+2015,09,28,21:30,Publiclir.se,LDLCWhite,cobblestone,Fragbite Masters Season 5 Main..,3,16,3,12,0,4,Publiclir.se,8,16,0.57 
+2015,09,28,21:30,LDLCWhite,Publiclir.se,cache,Fragbite Masters Season 5 Main..,14,16,9,6,5,10,Publiclir.se,22,22,1.02 
+2015,09,28,21:30,LDLCWhite,Publiclir.se,inferno,Fragbite Masters Season 5 Main..,16,6,11,4,5,2,Publiclir.se,11,19,0.63 
+2015,09,22,22:15,Publiclir.se,LANDODGERS,mirage,D!ngIT $2000 Weekly Cup #18,14,16,5,10,9,6,Publiclir.se,25,21,1.19 
+2015,09,22,19:00,Publiclir.se,CSGOEvoWhite,cobblestone,D!ngIT $2000 Weekly Cup #18,4,16,3,12,1,4,Publiclir.se,9,17,0.59 
+2015,09,22,19:00,CSGOEvoWhite,Publiclir.se,mirage,D!ngIT $2000 Weekly Cup #18,14,16,8,7,6,9,Publiclir.se,16,21,0.73 
+2015,09,22,19:00,CSGOEvoWhite,Publiclir.se,cache,D!ngIT $2000 Weekly Cup #18,16,1,14,1,2,0,Publiclir.se,6,16,0.41 
+2015,09,21,20:30,Publiclir.se,Planetkey,mirage,D!ngIT $2000 Weekly Cup #18,16,5,10,5,6,0,Publiclir.se,11,9,0.96 
+2015,09,21,20:30,Planetkey,Publiclir.se,cache,D!ngIT $2000 Weekly Cup #18,10,16,4,11,6,5,Publiclir.se,27,13,1.57 
+2015,09,14,20:45,Publiclir.se,Phenomenon,cache,Hitbox Arena Showdown Invitati..,16,19,7,8,8,7,Publiclir.se,28,21,1.23 
+2015,08,25,22:15,TSK,nerdRage,cache,D!ngIT $2000 Weekly Cup #14,7,16,3,12,4,4,TSK,19,18,1.09 
+2015,08,25,22:15,TSK,nerdRage,mirage,D!ngIT $2000 Weekly Cup #14,16,4,11,4,5,0,TSK,20,9,1.52 
+2015,08,25,20:00,TSK,myKPV,mirage,D!ngIT $2000 Weekly Cup #14,16,14,6,9,10,5,TSK,17,19,0.91 
+2015,08,25,18:30,nerdRage,TSK,dust2,D!ngIT $2000 Weekly Cup #14,16,4,11,4,5,0,TSK,8,18,0.42 
+2015,08,25,18:30,nerdRage,TSK,cache,D!ngIT $2000 Weekly Cup #14,16,6,11,4,5,2,TSK,12,19,0.70 
+2015,08,24,20:00,myKPV,TSK,mirage,D!ngIT $2000 Weekly Cup #14,14,16,7,8,7,8,TSK,18,21,0.94 
+2015,08,24,20:00,myKPV,TSK,cache,D!ngIT $2000 Weekly Cup #14,9,16,7,8,2,8,TSK,16,18,0.81 

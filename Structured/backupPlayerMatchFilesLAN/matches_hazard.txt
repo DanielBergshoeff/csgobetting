@@ -1,0 +1,6 @@
+2016,06,26,11:20,eEriness,Inside,cache,RoG Finals 10,16,4,11,4,5,0,eEriness,18,14,1.20 
+2016,06,26,11:20,eEriness,Inside,dust2,RoG Finals 10,16,9,11,4,5,5,eEriness,17,14,1.11 
+2016,06,26,11:20,Inside,eEriness,cobblestone,RoG Finals 10,16,14,8,7,8,7,eEriness,22,21,1.11 
+2016,06,25,12:00,eXtatus,eEriness,dust2,RoG Finals 10,16,2,13,2,3,0,eEriness,5,17,0.34 
+2016,06,25,12:00,eXtatus,eEriness,cobblestone,RoG Finals 10,12,16,9,6,3,10,eEriness,19,16,1.14 
+2016,06,25,12:00,eXtatus,eEriness,cache,RoG Finals 10,16,10,8,7,8,3,eEriness,11,24,0.53 

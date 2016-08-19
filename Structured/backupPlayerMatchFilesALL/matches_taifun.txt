@@ -1,0 +1,11 @@
+2015,06,25,19:00,Enso,Evolution,inferno,Rising Tornado #2,16,19,8,7,7,8,Enso,24,28,0.95 
+2015,06,25,18:00,TEAMSWAGYOLO,Enso,cache,Rising Tornado #2,16,13,8,7,8,6,Enso,16,25,0.71 
+2014,10,14,18:00,Nostalgie,UNNAMED,dust2,CIS Rising League Season 1,16,12,9,6,7,6,UNNAMED,27,24,1.15 
+2014,10,14,18:00,UNNAMED,Nostalgie,season,CIS Rising League Season 1,9,16,5,10,4,6,UNNAMED,14,22,0.68 
+2014,09,05,18:00,UNNAMED,dAT,train,CIS Rising League Season 1,16,13,12,3,4,10,UNNAMED,20,19,1.04 
+2014,09,05,18:00,UNNAMED,dAT,nuke,CIS Rising League Season 1,10,16,7,8,3,8,UNNAMED,12,20,0.64 
+2014,09,05,18:00,dAT,UNNAMED,cache,CIS Rising League Season 1,23,26,11,4,4,11,UNNAMED,45,33,1.22 
+2014,08,26,20:00,97club,UNNAMED,mirage,CIS Rising League Season 1,16,9,11,4,5,5,UNNAMED,21,19,1.15 
+2014,08,26,20:00,UNNAMED,97club,dust2,CIS Rising League Season 1,10,16,3,12,7,4,UNNAMED,17,24,0.74 
+2014,04,28,20:45,tmUragan,FlipSid3,train,SLTV ProSeries IX,10,16,10,5,0,11,tmUragan,26,20,1.40 
+2014,04,28,20:45,FlipSid3,tmUragan,inferno,SLTV ProSeries IX,16,3,12,3,4,0,tmUragan,9,17,0.63 

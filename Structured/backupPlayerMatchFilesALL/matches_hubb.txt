@@ -1,0 +1,6 @@
+2014,10,15,20:00,AMNESIA,HAXCON,cobblestone,ESL Pro Series Poland Season 9,12,16,6,9,6,7,HAXCON,20,23,0.85 
+2014,10,12,20:15,eliminacja,HAXCON,dust2,ESL Pro Series Poland Season 9,8,16,3,12,5,4,HAXCON,22,15,1.39 
+2014,10,08,22:00,ePlay,HAXCON,cobblestone,ESL Pro Series Poland Season 9,16,2,14,1,2,1,HAXCON,5,16,0.42 
+2014,10,01,22:00,noMERCY,HAXCON,mirage,ESL Pro Series Poland Season 9,16,5,12,3,4,2,HAXCON,8,19,0.42 
+2014,09,28,19:00,ESC,HAXCON,nuke,ESL Pro Series Poland Season 9,16,8,11,4,5,4,HAXCON,7,18,0.50 
+2014,09,21,18:30,31337,HAXCON,inferno,ESL Pro Series Poland Season 9,16,9,9,6,7,3,HAXCON,15,22,0.78 

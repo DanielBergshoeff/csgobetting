@@ -1,0 +1,7 @@
+2015,11,20,21:45,KoNSweden,KoNDenmark,inferno,King of Nordic Season 2,16,12,6,9,10,3,KoN Denmark,23,19,1.11 
+2015,11,20,20:30,KoNNorway,KoNDenmark,mirage,King of Nordic Season 2,14,16,9,6,5,10,KoN Denmark,24,21,1.07 
+2015,04,02,22:45,Temp.no,myRevenge,inferno,Copenhagen Games 2015,16,2,13,2,3,0,myRevenge,6,17,0.32 
+2015,04,02,21:40,myRevenge,Lucidez,inferno,Copenhagen Games 2015,16,8,10,5,6,3,myRevenge,13,14,0.89 
+2015,04,02,19:00,Temp.no,myRevenge,cache,Copenhagen Games 2015,16,11,9,6,7,5,myRevenge,20,19,0.99 
+2015,04,02,14:00,myRevenge,melty,dust2,Copenhagen Games 2015,10,16,8,7,2,9,myRevenge,18,21,0.94 
+2015,04,02,14:00,myRevenge,melty,inferno,Copenhagen Games 2015,6,16,5,10,1,6,myRevenge,8,18,0.56 

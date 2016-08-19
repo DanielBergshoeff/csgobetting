@@ -1,0 +1,24 @@
+2016,07,03,11:00,Phantoms,LosMariachis,cache,AlienTech CS:GO TiTans II Fina..,16,11,6,9,10,2,Los Mariachis,4,19,0.37 
+2016,07,02,11:25,LosMariachis,jA'Vi,cobblestone,AlienTech CS:GO TiTans II Fina..,3,16,3,12,0,4,Los Mariachis,10,18,0.57 
+2016,07,02,11:25,jA'Vi,LosMariachis,dust2,AlienTech CS:GO TiTans II Fina..,16,5,11,4,5,1,Los Mariachis,9,19,0.46 
+2016,06,27,19:30,LosMariachis,AGG,nuke,xfunction Masters 2016,9,16,8,7,1,9,Los Mariachis,20,20,0.99 
+2016,04,09,11:30,Galatics,k1ck,mirage,AlienTech CS:GO League Finals,13,16,7,8,6,8,Galatics,15,19,0.77 
+2016,04,09,11:30,Galatics,k1ck,cache,AlienTech CS:GO League Finals,5,16,4,11,1,5,Galatics,14,18,0.87 
+2016,03,19,16:45,Galatics,EasyMind,inferno,AlienTech CS:GO Invitational I,12,16,8,7,4,9,Galatics,5,21,0.35 
+2016,03,19,13:30,ImperioMultimedia,Galatics,inferno,AlienTech CS:GO Invitational I,16,5,10,5,6,0,Galatics,9,18,0.53 
+2016,03,13,19:00,Galatics,k1ck,inferno,AlienTech CS:GO League,11,16,10,5,1,11,Galatics,14,19,0.76 
+2016,03,13,19:00,k1ck,Galatics,cache,AlienTech CS:GO League,16,4,14,1,2,3,Galatics,7,17,0.47 
+2016,03,13,17:00,gBots,Galatics,inferno,AlienTech CS:GO League,16,11,8,7,8,4,Galatics,11,19,0.63 
+2016,03,13,17:00,gBots,Galatics,train,AlienTech CS:GO League,16,6,11,4,5,2,Galatics,18,18,0.99 
+2016,03,11,21:15,nerdRage,Galatics,cache,AlienTech CS:GO League,16,4,13,2,3,2,Galatics,6,19,0.32 
+2016,03,11,21:15,nerdRage,Galatics,dust2,AlienTech CS:GO League,16,12,9,6,7,6,Galatics,15,21,0.73 
+2016,02,28,23:00,Publiclir.se,Galatics,inferno,AlienTech CS:GO League,17,19,8,7,7,8,Galatics,26,25,1.01 
+2016,02,28,23:00,Publiclir.se,Galatics,cache,AlienTech CS:GO League,19,17,6,9,9,6,Galatics,27,24,1.04 
+2016,02,23,21:15,k1ck,Galatics,cache,AlienTech CS:GO League,16,9,7,8,9,1,Galatics,12,18,0.70 
+2016,02,23,21:15,k1ck,Galatics,cobblestone,AlienTech CS:GO League,16,11,9,6,7,5,Galatics,25,24,1.06 
+2016,02,19,21:00,AlienTech,Galatics,cache,AlienTech CS:GO League,16,9,8,7,8,2,Galatics,22,17,1.27 
+2016,02,19,21:00,AlienTech,Galatics,inferno,AlienTech CS:GO League,16,13,7,8,9,5,Galatics,12,26,0.47 
+2016,02,19,00:00,ImperioMultimedia,Galatics,inferno,AlienTech CS:GO League,4,16,4,11,0,5,Galatics,12,12,0.94 
+2016,02,19,00:00,ImperioMultimedia,Galatics,cache,AlienTech CS:GO League,13,16,6,9,7,7,Galatics,17,23,0.76 
+2015,10,15,22:00,3v,FTW.PRO,dust2,AlienTech CS:GO TiTans I,10,16,5,10,5,6,3v,16,20,0.84 
+2015,10,13,23:00,k1ck,3v,inferno,AlienTech CS:GO TiTans I,16,5,13,2,3,3,3v,12,20,0.63 

@@ -1,0 +1,6 @@
+2016,02,21,16:00,Raepmashaekel,Torpedo,cache,Nordic Masters Season 2 Finals,5,16,4,11,1,5,Raepmashaekel,2,20,0.12 
+2016,02,21,16:00,Raepmashaekel,Torpedo,train,Nordic Masters Season 2 Finals,16,14,10,5,6,9,Raepmashaekel,16,18,0.83 
+2016,02,21,16:00,Raepmashaekel,Torpedo,mirage,Nordic Masters Season 2 Finals,13,16,5,10,8,6,Raepmashaekel,4,23,0.28 
+2016,02,20,14:30,Raepmashaekel,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,16,5,12,3,4,2,Raepmashaekel,9,9,0.88 
+2016,02,20,14:30,TzatzikiKlubben,Raepmashaekel,inferno,Nordic Masters Season 2 Finals,6,16,3,12,3,4,Raepmashaekel,19,12,1.38 
+2016,02,20,13:00,LGBfe,Raepmashaekel,mirage,Nordic Masters Season 2 Finals,2,16,2,13,0,3,Raepmashaekel,9,7,1.01 

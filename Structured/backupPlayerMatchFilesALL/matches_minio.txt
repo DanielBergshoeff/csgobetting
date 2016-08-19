@@ -1,0 +1,17 @@
+2016,08,14,15:00,jalapeno,X,overpass,ECS Season 2 EU Open Qualifier..,14,16,10,5,4,11,jalapeno,16,25,0.74 
+2016,04,25,21:15,CETCTM,DMIT,cache,Yoggi Yalla Cup,16,13,7,8,9,5,DMIT,14,27,0.52 
+2016,04,25,21:15,CETCTM,DMIT,cobblestone,Yoggi Yalla Cup,16,14,10,5,6,9,DMIT,17,21,0.83 
+2016,03,25,23:00,KoNSweden,KoNFinland,inferno,King of Nordic Season 3,16,12,12,3,4,9,KoN Sweden,23,23,1.04 
+2016,03,25,21:30,KoNSweden,KoNNorway,cache,King of Nordic Season 3,16,11,7,8,9,3,KoN Sweden,22,18,1.17 
+2016,02,27,15:50,Preparation,ALAMIX,inferno,Pantamera CS:GO Challenge 2016,16,3,13,2,3,1,A LA MIX,13,17,0.87 
+2016,02,27,14:15,ALAMIX,Ancient,inferno,Pantamera CS:GO Challenge 2016,6,16,5,10,1,6,A LA MIX,8,20,0.40 
+2016,02,27,13:00,ENCE,ALAMIX,dust2,Pantamera CS:GO Challenge 2016,16,2,13,2,3,0,A LA MIX,7,17,0.47 
+2016,02,19,18:15,Optimum,Temporaryorgless,cache,Nordic Masters Season 2 Finals,16,2,13,2,3,0,Temporary orgless,8,17,0.45 
+2016,02,19,18:15,Optimum,Temporaryorgless,mirage,Nordic Masters Season 2 Finals,16,3,13,2,3,1,Temporary orgless,12,18,0.66 
+2016,02,19,14:45,Preparation,Temporaryorgless,inferno,Nordic Masters Season 2 Finals,16,12,7,8,9,4,Temporary orgless,22,20,1.16 
+2015,09,05,19:40,Fredde,k1ck,mirage,DreamHack Open Cluj-Napoca 201..,10,16,10,5,0,11,Fredde,10,23,0.50 
+2015,08,28,22:15,Sweden,Denmark,mirage,King of Nordic Season 1,11,16,3,12,8,4,Sweden,12,21,0.62 
+2015,08,21,21:30,Sweden,Denmark,inferno,King of Nordic Season 1,16,12,11,4,5,8,Sweden,20,19,0.98 
+2015,08,14,21:15,Sweden,Norway,mirage,King of Nordic Season 1,16,8,8,7,8,1,Sweden,15,15,0.90 
+2015,08,14,20:15,Sweden,Denmark,inferno,King of Nordic Season 1,16,7,9,6,7,1,Sweden,25,8,1.69 
+2015,08,14,19:15,Sweden,Finland,cache,King of Nordic Season 1,16,8,11,4,5,4,Sweden,18,18,0.90 

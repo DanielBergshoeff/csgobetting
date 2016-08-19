@@ -1,0 +1,8 @@
+2015,01,11,15:30,AliGon,volgare,inferno,ASUS ROG Winter 2015 Qualifier,6,16,3,12,3,4,AliGon,12,18,0.64 
+2015,01,11,14:15,unu.AiN,AliGon,nuke,ASUS ROG Winter 2015 Qualifier,16,5,12,3,4,2,AliGon,8,20,0.41 
+2014,12,18,21:00,HellRaisers,AliGon,nuke,G2A.com December Cup Powered b..,16,11,11,4,5,7,AliGon,20,19,1.18 
+2014,12,18,21:00,HellRaisers,AliGon,cache,G2A.com December Cup Powered b..,5,16,2,13,3,3,AliGon,14,12,1.07 
+2014,12,18,21:00,HellRaisers,AliGon,inferno,G2A.com December Cup Powered b..,16,8,11,4,5,4,AliGon,13,19,0.67 
+2014,10,21,18:00,AliGon,LDLC,cache,DreamHack Winter 2014 EU Close..,7,16,6,9,1,7,AliGon,8,18,0.47 
+2014,10,21,18:00,LDLC,AliGon,inferno,DreamHack Winter 2014 EU Close..,16,9,8,7,8,2,AliGon,13,18,0.73 
+2014,10,19,22:10,uN,AliGon,cache,DreamHack Winter 2014 EU pre-q..,4,16,3,12,1,4,AliGon,17,12,1.24 

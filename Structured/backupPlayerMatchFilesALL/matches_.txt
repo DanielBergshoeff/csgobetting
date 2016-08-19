@@ -1,0 +1,70 @@
+2016,07,31,18:00,MK,ALTERNATEaTTaX,cache,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,v1c7oR,MK,2,+4 
+2016,07,31,18:00,MK,ALTERNATEaTTaX,cache,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,spyleadeR,MK,4,+1 
+2016,07,31,18:00,MK,ALTERNATEaTTaX,cache,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,tiziaN,ALTERNATEaTTaX,2,+2 
+2016,07,31,18:00,MK,ALTERNATEaTTaX,cache,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,nkl,MK,4,+1 
+2016,07,31,18:00,MK,ALTERNATEaTTaX,cache,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,crisby,ALTERNATEaTTaX,4,+2 
+2016,07,31,18:00,MK,ALTERNATEaTTaX,cache,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,bubble,MK,6,-1 
+2016,07,31,18:00,MK,ALTERNATEaTTaX,cache,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,kzy,ALTERNATEaTTaX,3,-1 
+2016,07,31,18:00,MK,ALTERNATEaTTaX,cache,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,niki1,MK,4,0 
+2016,07,31,18:00,MK,ALTERNATEaTTaX,cache,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,syrsoN,ALTERNATEaTTaX,2,-5 
+2016,07,31,18:00,MK,ALTERNATEaTTaX,cache,SL i-League S2 Europe Qualifie..,16,11,7,8,9,3,keev,ALTERNATEaTTaX,1,-3 
+2016,05,24,22:15,TSM,Kaliber,dust2,ECS Season 1,16,11,6,9,10,2,autimatic,TSM,2,+1 
+2016,05,24,22:15,TSM,Kaliber,dust2,ECS Season 1,16,11,6,9,10,2,dsr,Kaliber,0,+2 
+2016,05,24,22:15,TSM,Kaliber,dust2,ECS Season 1,16,11,6,9,10,2,SEMPHIS,TSM,4,+3 
+2016,05,24,22:15,TSM,Kaliber,dust2,ECS Season 1,16,11,6,9,10,2,Twistzz,TSM,3,0 
+2016,05,24,22:15,TSM,Kaliber,dust2,ECS Season 1,16,11,6,9,10,2,Brehze,Kaliber,3,-2 
+2016,05,24,22:15,TSM,Kaliber,dust2,ECS Season 1,16,11,6,9,10,2,FNS,TSM,5,0 
+2016,05,24,22:15,TSM,Kaliber,dust2,ECS Season 1,16,11,6,9,10,2,SicK,TSM,5,-3 
+2016,05,24,22:15,TSM,Kaliber,dust2,ECS Season 1,16,11,6,9,10,2,OCEAN,Kaliber,4,+1 
+2016,05,24,22:15,TSM,Kaliber,dust2,ECS Season 1,16,11,6,9,10,2,APE,Kaliber,3,-4 
+2016,05,24,22:15,TSM,Kaliber,dust2,ECS Season 1,16,11,6,9,10,2,no_one,Kaliber,2,+2 
+2016,03,13,13:00,dignitas,TDJSF,cache,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,Kjaerbye,dignitas,4,+2 
+2016,03,13,13:00,dignitas,TDJSF,cache,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,TENZKI,dignitas,2,+2 
+2016,03,13,13:00,dignitas,TDJSF,cache,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,MSL,dignitas,6,0 
+2016,03,13,13:00,dignitas,TDJSF,cache,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,RUBINO,dignitas,4,-4 
+2016,03,13,13:00,dignitas,TDJSF,cache,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,k0nfig,dignitas,2,+1 
+2016,03,13,13:00,dignitas,TDJSF,cache,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,jeske,TDJSF,2,-1 
+2016,03,13,13:00,dignitas,TDJSF,cache,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,biLi,TDJSF,1,0 
+2016,03,13,13:00,dignitas,TDJSF,cache,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,Andkilde,TDJSF,3,+2 
+2016,03,13,13:00,dignitas,TDJSF,cache,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,f0lM3r,TDJSF,6,-1 
+2016,03,13,13:00,dignitas,TDJSF,cache,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,dj_skullfuck,TDJSF,2,-1 
+2016,02,22,14:00,DeToNator,Devcat,dust2,D!ngIT Fareast Asia Invitation..,10,16,7,8,3,8,LOVEYY,Devcat,7,+1 
+2016,02,22,14:00,DeToNator,Devcat,dust2,D!ngIT Fareast Asia Invitation..,10,16,7,8,3,8,AttackeR,Devcat,2,0 
+2016,02,22,14:00,DeToNator,Devcat,dust2,D!ngIT Fareast Asia Invitation..,10,16,7,8,3,8,wicksick,Devcat,4,-3 
+2016,02,22,14:00,DeToNator,Devcat,dust2,D!ngIT Fareast Asia Invitation..,10,16,7,8,3,8,impalement,DeToNator,3,0 
+2016,02,22,14:00,DeToNator,Devcat,dust2,D!ngIT Fareast Asia Invitation..,10,16,7,8,3,8,YukiStyle,DeToNator,1,+2 
+2016,02,22,14:00,DeToNator,Devcat,dust2,D!ngIT Fareast Asia Invitation..,10,16,7,8,3,8,STABA,DeToNator,4,0 
+2016,02,22,14:00,DeToNator,Devcat,dust2,D!ngIT Fareast Asia Invitation..,10,16,7,8,3,8,akioni,DeToNator,7,-2 
+2016,02,22,14:00,DeToNator,Devcat,dust2,D!ngIT Fareast Asia Invitation..,10,16,7,8,3,8,enndy,Devcat,4,+2 
+2016,02,22,14:00,DeToNator,Devcat,dust2,D!ngIT Fareast Asia Invitation..,10,16,7,8,3,8,Karsa,Devcat,1,0 
+2016,02,22,14:00,DeToNator,Devcat,dust2,D!ngIT Fareast Asia Invitation..,10,16,7,8,3,8,shoushi,DeToNator,1,0 
+2016,02,22,14:00,DeToNator,Devcat,mirage,D!ngIT Fareast Asia Invitation..,4,16,3,12,1,4,wicksick,Devcat,4,+4 
+2016,02,22,14:00,DeToNator,Devcat,mirage,D!ngIT Fareast Asia Invitation..,4,16,3,12,1,4,Karsa,Devcat,3,+3 
+2016,02,22,14:00,DeToNator,Devcat,mirage,D!ngIT Fareast Asia Invitation..,4,16,3,12,1,4,LOVEYY,Devcat,3,-2 
+2016,02,22,14:00,DeToNator,Devcat,mirage,D!ngIT Fareast Asia Invitation..,4,16,3,12,1,4,enndy,Devcat,1,+4 
+2016,02,22,14:00,DeToNator,Devcat,mirage,D!ngIT Fareast Asia Invitation..,4,16,3,12,1,4,AttackeR,Devcat,5,+1 
+2016,02,22,14:00,DeToNator,Devcat,mirage,D!ngIT Fareast Asia Invitation..,4,16,3,12,1,4,impalement,DeToNator,2,-2 
+2016,02,22,14:00,DeToNator,Devcat,mirage,D!ngIT Fareast Asia Invitation..,4,16,3,12,1,4,akioni,DeToNator,3,0 
+2016,02,22,14:00,DeToNator,Devcat,mirage,D!ngIT Fareast Asia Invitation..,4,16,3,12,1,4,YukiStyle,DeToNator,3,-2 
+2016,02,22,14:00,DeToNator,Devcat,mirage,D!ngIT Fareast Asia Invitation..,4,16,3,12,1,4,STABA,DeToNator,3,-3 
+2016,02,22,14:00,DeToNator,Devcat,mirage,D!ngIT Fareast Asia Invitation..,4,16,3,12,1,4,shoushi,DeToNator,1,-3 
+2015,12,10,13:00,AllGamers,PUZZLES,cache,Fulcrum Gamers League,12,16,7,8,5,8,AttackeR,PUZZLES,6,+5 
+2015,12,10,13:00,AllGamers,PUZZLES,cache,Fulcrum Gamers League,12,16,7,8,5,8,forget,AllGamers,3,0 
+2015,12,10,13:00,AllGamers,PUZZLES,cache,Fulcrum Gamers League,12,16,7,8,5,8,Waterbaby,AllGamers,3,0 
+2015,12,10,13:00,AllGamers,PUZZLES,cache,Fulcrum Gamers League,12,16,7,8,5,8,ayaya,PUZZLES,5,+2 
+2015,12,10,13:00,AllGamers,PUZZLES,cache,Fulcrum Gamers League,12,16,7,8,5,8,8ball1,PUZZLES,8,+1 
+2015,12,10,13:00,AllGamers,PUZZLES,cache,Fulcrum Gamers League,12,16,7,8,5,8,Karsa,PUZZLES,3,-2 
+2015,12,10,13:00,AllGamers,PUZZLES,cache,Fulcrum Gamers League,12,16,7,8,5,8,ed101,AllGamers,5,-1 
+2015,12,10,13:00,AllGamers,PUZZLES,cache,Fulcrum Gamers League,12,16,7,8,5,8,Reaction,PUZZLES,2,-2 
+2015,12,10,13:00,AllGamers,PUZZLES,cache,Fulcrum Gamers League,12,16,7,8,5,8,KTWO,AllGamers,4,-1 
+2015,12,10,13:00,AllGamers,PUZZLES,cache,Fulcrum Gamers League,12,16,7,8,5,8,wjw,AllGamers,4,-2 
+2015,12,10,13:00,PUZZLES,AllGamers,mirage,Fulcrum Gamers League,16,6,12,3,4,3,AttackeR,PUZZLES,4,+2 
+2015,12,10,13:00,PUZZLES,AllGamers,mirage,Fulcrum Gamers League,16,6,12,3,4,3,ayaya,PUZZLES,6,-1 
+2015,12,10,13:00,PUZZLES,AllGamers,mirage,Fulcrum Gamers League,16,6,12,3,4,3,Reaction,PUZZLES,4,+5 
+2015,12,10,13:00,PUZZLES,AllGamers,mirage,Fulcrum Gamers League,16,6,12,3,4,3,Karsa,PUZZLES,4,-1 
+2015,12,10,13:00,PUZZLES,AllGamers,mirage,Fulcrum Gamers League,16,6,12,3,4,3,8ball1,PUZZLES,4,-1 
+2015,12,10,13:00,PUZZLES,AllGamers,mirage,Fulcrum Gamers League,16,6,12,3,4,3,wjw,AllGamers,2,+1 
+2015,12,10,13:00,PUZZLES,AllGamers,mirage,Fulcrum Gamers League,16,6,12,3,4,3,forget,AllGamers,1,-2 
+2015,12,10,13:00,PUZZLES,AllGamers,mirage,Fulcrum Gamers League,16,6,12,3,4,3,ed101,AllGamers,0,+1 
+2015,12,10,13:00,PUZZLES,AllGamers,mirage,Fulcrum Gamers League,16,6,12,3,4,3,Waterbaby,AllGamers,3,-4 
+2015,12,10,13:00,PUZZLES,AllGamers,mirage,Fulcrum Gamers League,16,6,12,3,4,3,KTWO,AllGamers,1,-1 

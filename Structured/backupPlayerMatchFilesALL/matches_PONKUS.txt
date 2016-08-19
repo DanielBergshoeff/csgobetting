@@ -1,0 +1,10 @@
+2016,02,04,21:00,SineMetu,Platinium,mirage,Uprise Champions Cup Season 4 ..,14,16,9,6,5,10,Sine Metu,13,18,0.73 
+2014,07,31,23:40,naMNam,myRevenge,cache,ASUS ROG Summer 2014,8,16,6,9,2,7,naMNam,11,17,0.67 
+2014,07,31,22:30,naMNam,ajuri,cache,ASUS ROG Summer 2014,16,1,14,1,2,0,naMNam,15,7,1.46 
+2014,07,31,21:30,ENCORE,naMNam,mirage,ASUS ROG Summer 2014,16,4,11,4,5,0,naMNam,6,18,0.36 
+2014,06,15,13:30,fnatic,Publiclir.se,mirage,ESPORTSM 2013/2014 Finals,16,12,9,6,7,6,Publiclir.se,13,19,0.71 
+2014,06,15,13:30,fnatic,Publiclir.se,dust2,ESPORTSM 2013/2014 Finals,16,9,9,6,7,3,Publiclir.se,11,21,0.57 
+2014,06,15,10:00,Publiclir.se,Vengeance&Evil,mirage,ESPORTSM 2013/2014 Finals,16,13,6,9,10,4,Publiclir.se,16,21,0.75 
+2014,06,15,10:00,Vengeance&Evil,Publiclir.se,inferno,ESPORTSM 2013/2014 Finals,9,16,6,9,3,7,Publiclir.se,16,16,0.94 
+2014,06,14,17:00,Berzerk,Publiclir.se,inferno,DreamHack Summer 2014,16,4,14,1,2,3,Publiclir.se,9,17,0.61 
+2014,06,14,15:00,Publiclir.se,Epsilon,inferno,DreamHack Summer 2014,3,16,3,12,0,4,Publiclir.se,7,15,0.51 

@@ -1,0 +1,54 @@
+2016,06,12,13:00,TyLoo,Splyce,mirage,ESL One Cologne 2016 Main Qual..,16,14,12,3,4,11,Splyce,21,19,1.06 
+2016,06,11,19:20,EnVyUs,Splyce,cobblestone,ESL One Cologne 2016 Main Qual..,16,4,12,3,4,1,Splyce,16,15,1.08 
+2016,06,10,14:20,Splyce,Renegades,cobblestone,ESL One Cologne 2016 Main Qual..,16,14,10,5,6,9,Splyce,29,20,1.33 
+2016,06,09,14:20,HellRaisers,Splyce,cobblestone,ESL One Cologne 2016 Main Qual..,16,9,9,6,7,3,Splyce,21,22,1.17 
+2016,05,07,17:00,CLG,Splyce,dust2,DreamHack Austin 2016,16,10,11,4,5,6,Splyce,9,19,0.53 
+2016,05,07,17:00,CLG,Splyce,train,DreamHack Austin 2016,19,16,4,11,11,4,Splyce,31,28,1.14 
+2016,05,06,22:00,Luminosity,Splyce,train,DreamHack Austin 2016,16,5,14,1,2,4,Splyce,13,17,0.76 
+2016,04,29,11:00,OpTic,Splyce,cobblestone,CEVO Gfinity Professional Seas..,16,8,9,6,7,2,Splyce,15,21,0.72 
+2016,04,29,11:00,OpTic,Splyce,train,CEVO Gfinity Professional Seas..,12,16,4,11,8,5,Splyce,23,18,1.25 
+2016,04,29,11:00,OpTic,Splyce,mirage,CEVO Gfinity Professional Seas..,16,3,12,3,4,0,Splyce,13,17,0.93 
+2016,04,28,13:45,Virtus.pro,Splyce,overpass,CEVO Gfinity Professional Seas..,16,11,11,4,5,7,Splyce,18,17,0.99 
+2016,04,28,13:45,Virtus.pro,Splyce,cobblestone,CEVO Gfinity Professional Seas..,11,16,5,10,6,6,Splyce,19,16,1.09 
+2016,04,28,13:45,Virtus.pro,Splyce,mirage,CEVO Gfinity Professional Seas..,16,14,10,5,6,9,Splyce,21,19,1.00 
+2016,03,30,19:00,Splyce,FaZe,inferno,MLG Columbus 2016,3,16,3,12,0,4,Splyce,12,17,0.71 
+2016,03,29,21:00,Splyce,fnatic,train,MLG Columbus 2016,5,16,2,13,3,3,Splyce,19,16,1.34 
+2016,02,27,20:40,Splyce,Vexed,mirage,MLG Columbus 2016 Main Qualifi..,16,7,11,4,5,3,Splyce,18,17,0.94 
+2016,02,27,02:50,CLG,Splyce,cache,MLG Columbus 2016 Main Qualifi..,14,16,9,6,5,10,Splyce,26,21,1.16 
+2016,01,17,21:00,Splyce,Enemy,inferno,MLG Americas Minor Championshi..,9,16,7,8,2,8,Splyce,11,18,0.69 
+2016,01,17,21:00,Enemy,Splyce,cache,MLG Americas Minor Championshi..,16,7,10,5,6,2,Splyce,12,21,0.56 
+2016,01,17,18:00,OpTic,Splyce,mirage,MLG Americas Minor Championshi..,8,16,6,9,2,7,Splyce,22,11,1.69 
+2016,01,17,18:00,Splyce,OpTic,cache,MLG Americas Minor Championshi..,5,16,2,13,3,3,Splyce,11,17,0.73 
+2016,01,17,18:00,Splyce,OpTic,cobblestone,MLG Americas Minor Championshi..,19,17,9,6,6,9,Splyce,28,23,1.15 
+2016,01,16,21:00,Leader-1,Splyce,cache,MLG Americas Minor Championshi..,2,16,2,13,0,3,Splyce,17,9,1.49 
+2016,01,16,21:00,Leader-1,Splyce,dust2,MLG Americas Minor Championshi..,12,16,7,8,5,8,Splyce,24,16,1.36 
+2016,01,16,01:30,EZG,Splyce,cache,MLG Americas Minor Championshi..,14,16,4,11,10,5,Splyce,26,22,1.10 
+2016,01,16,00:00,Leader-1,Splyce,dust2,MLG Americas Minor Championshi..,16,14,7,8,9,6,Splyce,25,20,1.24 
+2015,12,06,04:00,Splyce,Method,mirage,Northern Arena 2015,16,14,8,7,8,7,Method,16,22,0.70 
+2015,12,06,02:45,CLGRed,Method,cache,Northern Arena 2015,11,16,2,13,9,3,Method,13,18,0.76 
+2015,12,06,01:45,compLexity,Method,train,Northern Arena 2015,16,11,11,4,5,7,Method,17,20,0.80 
+2015,11,18,19:30,Method,Enemy,overpass,RGN Pro Series Championship,3,16,3,12,0,4,Method,6,17,0.44 
+2015,11,18,19:30,Enemy,Method,cache,RGN Pro Series Championship,16,12,5,10,11,2,Method,28,24,1.28 
+2015,11,18,07:45,Liquid,Method,inferno,RGN Pro Series Championship,16,9,11,4,5,5,Method,18,19,0.96 
+2015,11,18,07:45,Method,Liquid,cache,RGN Pro Series Championship,3,16,3,12,0,4,Method,12,14,0.83 
+2015,11,17,08:00,compLexity,Method,inferno,RGN Pro Series Championship,10,16,4,11,6,5,Method,13,19,0.70 
+2015,11,17,06:15,Cloud9,Method,dust2,RGN Pro Series Championship,16,2,15,0,1,2,Method,5,18,0.23 
+2015,11,17,05:00,Method,NexusStorm,mirage,RGN Pro Series Championship,16,10,9,6,7,4,Method,22,13,1.43 
+2015,10,10,13:25,Sweden,Canada,cobblestone,World Championships 2015,16,11,7,8,9,3,Canada,19,20,0.93 
+2015,10,10,13:25,Canada,Sweden,inferno,World Championships 2015,17,19,7,8,8,7,Canada,16,25,0.64 
+2015,10,09,18:50,Norway,Canada,dust2,World Championships 2015,10,16,9,6,1,10,Canada,14,17,0.89 
+2015,10,09,13:45,Belgium,Canada,train,World Championships 2015,9,16,9,6,0,10,Canada,21,15,1.14 
+2015,09,07,03:00,3sUP,Luminosity,inferno,WinOut $20,000 CS:GO Champions..,7,16,4,11,3,5,3sUP,26,14,1.84 
+2015,09,07,03:00,3sUP,Luminosity,overpass,WinOut $20,000 CS:GO Champions..,6,16,3,12,3,4,3sUP,6,19,0.39 
+2015,09,07,03:00,Luminosity,3sUP,train,WinOut $20,000 CS:GO Champions..,10,16,4,11,6,5,3sUP,21,15,1.31 
+2015,09,07,00:10,GamesAcademy,3sUP,dust2,WinOut $20,000 CS:GO Champions..,3,16,2,13,1,3,3sUP,16,10,1.33 
+2015,09,07,00:10,GamesAcademy,3sUP,train,WinOut $20,000 CS:GO Champions..,5,16,5,10,0,6,3sUP,18,9,1.51 
+2015,09,07,00:10,3sUP,GamesAcademy,inferno,WinOut $20,000 CS:GO Champions..,14,16,8,7,6,9,3sUP,28,17,1.38 
+2015,09,06,19:15,Method,3sUP,dust2,WinOut $20,000 CS:GO Champions..,7,16,4,11,3,5,3sUP,18,15,1.06 
+2015,09,06,19:15,3sUP,Method,train,WinOut $20,000 CS:GO Champions..,16,12,13,2,3,10,3sUP,19,16,1.06 
+2015,09,06,04:30,3sUP,Luminosity,cobblestone,WinOut $20,000 CS:GO Champions..,13,16,12,3,1,13,3sUP,23,21,1.01 
+2015,09,06,04:30,Luminosity,3sUP,cache,WinOut $20,000 CS:GO Champions..,16,11,12,3,4,8,3sUP,15,20,0.76 
+2015,09,06,01:30,ACE,3sUP,dust2,WinOut $20,000 CS:GO Champions..,11,16,10,5,1,11,3sUP,17,16,0.94 
+2015,09,06,01:30,3sUP,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,19,15,10,5,5,10,3sUP,29,25,1.17 
+2015,09,05,06:00,Enemy,3sUP,dust2,WinOut $20,000 CS:GO Champions..,7,16,6,9,1,7,3sUP,16,11,1.31 
+2015,09,05,05:30,CLGRed,3sUP,dust2,WinOut $20,000 CS:GO Champions..,9,16,9,6,0,10,3sUP,30,12,1.84 

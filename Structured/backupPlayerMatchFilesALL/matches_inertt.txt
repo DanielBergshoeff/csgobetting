@@ -1,0 +1,7 @@
+2015,12,16,22:00,ex-USSR,nEophyte,mirage,QuickShot Arena #19,16,9,7,8,9,1,nEophyte,18,21,0.82 
+2015,12,16,20:45,nEophyte,OnlineBOTS,cache,QuickShot Arena #19,12,16,4,11,8,5,nEophyte,19,22,0.82 
+2015,12,16,18:15,nEophyte,Enso,cache,QuickShot Arena #19,16,5,10,5,6,0,nEophyte,13,13,0.91 
+2015,10,14,21:00,KILLERFISH,BalkanBears,mirage,CSHUB Series Season 1,16,3,12,3,4,0,Balkan Bears,7,18,0.38 
+2015,10,14,21:00,BalkanBears,KILLERFISH,cobblestone,CSHUB Series Season 1,12,16,4,11,8,5,Balkan Bears,16,23,0.75 
+2015,08,30,22:35,GREATONE-LINERS,PiTER,cobblestone,FACEIT League 2015 Stage 3 EU ..,14,16,4,11,10,5,GREAT ONE-LINERS,18,23,0.75 
+2015,08,30,20:25,GREATONE-LINERS,GameplayDNA,cobblestone,FACEIT League 2015 Stage 3 EU ..,16,3,12,3,4,0,GREAT ONE-LINERS,19,6,1.55 

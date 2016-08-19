@@ -1,0 +1,11 @@
+2014,06,28,18:30,dRiim'steam,KIPSIk'steam,nuke,Areena #4 by SteelSeries,12,16,7,8,5,8,dRiim's team,23,20,1.15 
+2014,06,28,18:30,dRiim'steam,KIPSIk'steam,inferno,Areena #4 by SteelSeries,19,17,10,5,5,10,dRiim's team,19,26,0.76 
+2014,06,28,18:30,dRiim'steam,KIPSIk'steam,mirage,Areena #4 by SteelSeries,10,16,9,6,1,10,dRiim's team,16,21,0.83 
+2014,06,28,16:35,dRiim'steam,duffman'steam,nuke,Areena #4 by SteelSeries,16,11,12,3,4,8,dRiim's team,23,17,1.16 
+2014,06,28,16:35,duffman'steam,dRiim'steam,mirage,Areena #4 by SteelSeries,8,16,7,8,1,8,dRiim's team,15,18,0.85 
+2014,06,28,14:45,dRiim'steam,suNny'steam,dust2,Areena #4 by SteelSeries,10,16,9,6,1,10,dRiim's team,16,19,0.82 
+2014,06,28,14:05,KIPSIk'steam,dRiim'steam,dust2,Areena #4 by SteelSeries,5,16,1,14,4,2,dRiim's team,17,8,1.40 
+2014,06,28,12:40,dRiim'steam,duffman'steam,dust2,Areena #4 by SteelSeries,16,11,8,7,8,4,dRiim's team,15,19,0.77 
+2014,06,28,11:40,dRiim'steam,allu'steam,dust2,Areena #4 by SteelSeries,16,13,6,9,10,4,dRiim's team,14,20,0.76 
+2014,06,28,10:35,dRiim'steam,shaker'steam,mirage,Areena #4 by SteelSeries,16,8,12,3,4,5,dRiim's team,18,13,1.31 
+2014,06,28,09:50,Twista'steam,dRiim'steam,dust2,Areena #4 by SteelSeries,5,16,2,13,3,3,dRiim's team,13,12,0.98 

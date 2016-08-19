@@ -1,0 +1,11 @@
+2016,03,28,10:00,LDLCBlue,Millenium,inferno,Gamers Assembly 2016,12,16,12,3,0,13,LDLC Blue,11,18,0.68 
+2016,03,27,19:15,LDLCBlue,DeadPixels,cobblestone,Gamers Assembly 2016,16,5,13,2,3,3,LDLC Blue,17,11,1.23 
+2016,03,27,14:00,LDLCBlue,Millenium,dust2,Gamers Assembly 2016,14,16,6,9,8,7,LDLC Blue,18,23,0.89 
+2016,03,27,14:00,LDLCBlue,Millenium,overpass,Gamers Assembly 2016,10,16,3,12,7,4,LDLC Blue,16,18,0.85 
+2016,02,06,13:00,LDLCWhite,LDLCBlue,mirage,Assembly Winter 2016,16,9,9,6,7,3,LDLC Blue,15,17,0.90 
+2016,02,06,13:00,LDLCBlue,LDLCWhite,cobblestone,Assembly Winter 2016,2,16,2,13,0,3,LDLC Blue,9,17,0.53 
+2016,02,05,12:55,LDLCBlue,RCTIC,train,Assembly Winter 2016,16,14,9,6,7,8,LDLC Blue,25,20,1.32 
+2016,02,05,11:45,CPHWolves,LDLCBlue,overpass,Assembly Winter 2016,13,16,6,9,7,7,LDLC Blue,19,18,1.04 
+2015,05,09,00:00,Awsomniac,LDLCBlue,overpass,DreamHack Open Tours 2015 BYOC..,16,13,9,6,7,7,LDLC Blue,16,19,0.90 
+2015,05,08,20:30,LDLCBlue,LDLCWhite,cobblestone,DreamHack Open Tours 2015 BYOC..,8,16,7,8,1,8,LDLC Blue,21,16,1.27 
+2015,05,08,19:35,Awsomniac,LDLCBlue,dust2,DreamHack Open Tours 2015 BYOC..,12,16,4,11,8,5,LDLC Blue,20,16,1.14 

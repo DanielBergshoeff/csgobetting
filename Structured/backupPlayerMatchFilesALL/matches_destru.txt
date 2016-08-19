@@ -1,0 +1,7 @@
+2016,08,07,15:05,TBD-PL,Entropy,cache,ECS Season 2 EU Open Qualifier..,12,16,7,8,5,8,TBD-PL,17,23,0.78 
+2014,10,15,22:00,31337,noMERCY,cobblestone,ESL Pro Series Poland Season 9,15,15,13,2,2,13,31337,21,20,1.01 
+2014,10,08,21:00,31337,ESC,cobblestone,ESL Pro Series Poland Season 9,11,16,7,8,4,8,31337,18,21,0.89 
+2014,10,06,19:15,31337,eliminacja,overpass,ESL Pro Series Poland Season 9,16,10,10,5,6,5,31337,17,16,1.01 
+2014,10,01,20:00,31337,AMNESIA,mirage,ESL Pro Series Poland Season 9,16,1,14,1,2,0,31337,11,10,1.12 
+2014,09,30,21:30,ePlay,31337,nuke,ESL Pro Series Poland Season 9,16,5,10,5,6,0,31337,11,18,0.61 
+2014,06,02,22:10,Dobry&Gaming,KNR,mirage,ESL Pro Series Poland Season 8,16,6,9,6,7,0,KNR,17,18,0.94 

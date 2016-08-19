@@ -1,0 +1,2 @@
+2015,10,05,22:30,LDLCWhite,Evokate,inferno,UnderDogs #1,16,10,7,8,9,2,Evokate,17,20,0.89 
+2015,10,05,22:30,Evokate,LDLCWhite,dust2,UnderDogs #1,5,16,5,10,0,6,Evokate,15,17,0.83 

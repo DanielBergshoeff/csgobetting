@@ -1,0 +1,55 @@
+2016,06,13,17:00,RCTIC,Lioncast,cache,RGN Pro Series II EU Closed Qu..,16,2,14,1,2,1,Lioncast,16,17,1.01 
+2016,06,13,17:00,Lioncast,RCTIC,cobblestone,RGN Pro Series II EU Closed Qu..,8,16,4,11,4,5,Lioncast,11,20,0.62 
+2016,05,25,21:15,FiVe,Deathtrap,cache,RGN Pro Series II EU Closed Qu..,7,16,7,8,0,8,FiVe,14,16,0.93 
+2016,05,25,21:15,Deathtrap,FiVe,cobblestone,RGN Pro Series II EU Closed Qu..,16,11,7,8,9,3,FiVe,19,23,0.90 
+2016,05,17,22:15,RCTIC,LeiSuRe,inferno,RGN Pro Series II EU Closed Qu..,8,16,4,11,4,5,LeiSuRe,13,14,0.89 
+2016,05,17,22:15,RCTIC,LeiSuRe,dust2,RGN Pro Series II EU Closed Qu..,16,13,7,8,9,5,LeiSuRe,28,21,1.31 
+2016,05,17,22:15,LeiSuRe,RCTIC,cache,RGN Pro Series II EU Closed Qu..,16,4,11,4,5,0,LeiSuRe,19,12,1.35 
+2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,train,ESL Meisterschaft Spring 2016 ..,12,16,8,7,4,9,LeiSuRe,23,19,1.13 
+2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,dust2,ESL Meisterschaft Spring 2016 ..,11,16,7,8,4,8,LeiSuRe,15,21,0.84 
+2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,cache,ESL Meisterschaft Spring 2016 ..,16,6,12,3,4,3,LeiSuRe,15,19,0.87 
+2016,05,07,17:35,LeiSuRe,FAB,train,ESL Meisterschaft Spring 2016 ..,16,7,11,4,5,3,LeiSuRe,18,15,1.14 
+2016,05,07,17:35,LeiSuRe,FAB,cobblestone,ESL Meisterschaft Spring 2016 ..,8,16,4,11,4,5,LeiSuRe,15,19,0.86 
+2016,05,07,17:35,LeiSuRe,FAB,cache,ESL Meisterschaft Spring 2016 ..,16,12,8,7,8,5,LeiSuRe,29,16,1.51 
+2015,12,21,22:00,Nostalgie,EYESONU,mirage,D!ngIT $2000 Weekly Cup #31,14,16,5,10,9,6,EYES ON U,32,20,1.53 
+2015,12,18,21:15,DenDD,Phoenix,inferno,99Damage Arena #18,16,19,10,5,5,10,Phoenix,18,31,0.56 
+2015,12,18,21:15,DenDD,Phoenix,mirage,99Damage Arena #18,9,16,9,6,0,10,Phoenix,23,18,1.18 
+2015,12,18,18:00,Phoenix,KILLERFISH,train,99Damage Arena #18,16,8,9,6,7,2,Phoenix,21,14,1.19 
+2015,12,18,18:00,KILLERFISH,Phoenix,cache,99Damage Arena #18,12,16,10,5,2,11,Phoenix,18,20,0.92 
+2015,12,18,18:00,KILLERFISH,Phoenix,dust2,99Damage Arena #18,16,14,6,9,10,5,Phoenix,14,26,0.56 
+2015,11,25,21:00,EURONICS,uX,dust2,99Damage League Season 2,16,13,7,8,9,5,uX,20,24,0.88 
+2015,11,25,21:00,EURONICS,uX,cobblestone,99Damage League Season 2,16,12,8,7,8,5,uX,28,22,1.34 
+2015,11,06,22:30,Reason,uX,cobblestone,QuickShot Arena #13,16,14,10,5,6,9,uX,30,23,1.24 
+2015,11,06,22:30,Reason,uX,inferno,QuickShot Arena #13,16,6,12,3,4,3,uX,11,20,0.52 
+2015,11,06,17:15,OnlineBOTS,uX,mirage,QuickShot Arena #13,4,16,1,14,3,2,uX,11,13,0.80 
+2015,11,06,17:15,uX,OnlineBOTS,overpass,QuickShot Arena #13,16,9,12,3,4,6,uX,10,18,0.61 
+2015,11,04,20:45,uX,EpiphanyBolt,cobblestone,QuickShot Arena #13,16,9,12,3,4,6,uX,22,16,1.26 
+2015,11,04,18:15,Reason,uX,mirage,QuickShot Arena #13,13,16,5,10,8,6,uX,25,19,1.32 
+2015,10,31,20:00,volgare,uX,cache,QuickShot Showmatches,8,16,2,13,6,3,uX,13,19,0.77 
+2015,10,31,20:00,volgare,uX,inferno,QuickShot Showmatches,14,16,4,11,10,5,uX,16,21,0.85 
+2015,10,22,21:45,uX,Caseking,dust2,99Damage League Season 1,16,9,9,6,7,3,uX,17,16,0.93 
+2015,10,22,21:45,Caseking,uX,cache,99Damage League Season 1,8,16,5,10,3,6,uX,20,15,1.20 
+2015,10,22,18:00,uX,private,dust2,99Damage League Season 1,16,3,13,2,3,1,uX,22,4,2.01 
+2015,10,22,18:00,private,uX,inferno,99Damage League Season 1,2,16,1,14,1,2,uX,18,8,1.48 
+2015,10,20,18:00,Seelachs,uX,dust2,99Damage League Season 1,15,19,9,6,6,9,uX,24,24,1.07 
+2015,10,20,18:00,Seelachs,uX,mirage,99Damage League Season 1,16,14,8,7,8,7,uX,13,23,0.63 
+2015,10,20,18:00,Seelachs,uX,cache,99Damage League Season 1,7,16,5,10,2,6,uX,24,14,1.52 
+2015,09,22,23:15,LANDODGERS,CSGOEvoWhite,overpass,D!ngIT $2000 Weekly Cup #18,16,12,8,7,8,5,CSGOEvo White,20,21,0.99 
+2015,09,22,23:15,LANDODGERS,CSGOEvoWhite,cache,D!ngIT $2000 Weekly Cup #18,16,13,4,11,12,2,CSGOEvo White,25,16,1.31 
+2015,09,22,19:00,Publiclir.se,CSGOEvoWhite,cobblestone,D!ngIT $2000 Weekly Cup #18,4,16,3,12,1,4,CSGOEvo White,20,12,1.39 
+2015,09,22,19:00,CSGOEvoWhite,Publiclir.se,mirage,D!ngIT $2000 Weekly Cup #18,14,16,8,7,6,9,CSGOEvo White,19,23,0.97 
+2015,09,22,19:00,CSGOEvoWhite,Publiclir.se,cache,D!ngIT $2000 Weekly Cup #18,16,1,14,1,2,0,CSGOEvo White,13,6,1.34 
+2015,09,21,18:00,CSGOEvoWhite,LANDODGERS,dust2,D!ngIT $2000 Weekly Cup #18,16,1,14,1,2,0,CSGOEvo White,13,8,1.21 
+2015,09,21,18:00,CSGOEvoWhite,LANDODGERS,cache,D!ngIT $2000 Weekly Cup #18,16,10,10,5,6,5,CSGOEvo White,17,14,1.03 
+2015,09,21,18:00,LANDODGERS,CSGOEvoWhite,mirage,D!ngIT $2000 Weekly Cup #18,16,14,11,4,5,10,CSGOEvo White,14,21,0.69 
+2014,12,20,22:45,dotpiXels,myKPV,mirage,Acer A-Split Invitational powe..,16,6,12,3,4,3,dotpiXels,22,16,1.43 
+2014,12,20,19:35,myKPV,dotpiXels,cache,Acer A-Split Invitational powe..,21,18,9,6,6,9,dotpiXels,18,31,0.63 
+2014,12,20,19:35,myKPV,dotpiXels,overpass,Acer A-Split Invitational powe..,14,16,11,4,3,12,dotpiXels,27,19,1.40 
+2014,12,20,17:20,Virtus.pro,dotpiXels,cobblestone,Acer A-Split Invitational powe..,16,4,12,3,4,1,dotpiXels,8,19,0.46 
+2014,12,20,17:20,dotpiXels,Virtus.pro,cache,Acer A-Split Invitational powe..,5,16,5,10,0,6,dotpiXels,4,18,0.28 
+2014,12,20,15:15,PENTA,dotpiXels,cache,Acer A-Split Invitational powe..,16,11,12,3,4,8,dotpiXels,14,21,0.72 
+2014,12,20,15:15,dotpiXels,PENTA,dust2,Acer A-Split Invitational powe..,8,16,5,10,3,6,dotpiXels,8,21,0.40 
+2014,12,13,13:15,Planetkey,dotpiXels,inferno,ESL Pro Series Germany Winter ..,16,9,9,6,7,3,dotpiXels,16,22,0.84 
+2014,12,13,13:15,Planetkey,dotpiXels,dust2,ESL Pro Series Germany Winter ..,16,3,12,3,4,0,dotpiXels,13,18,0.92 
+2014,11,11,21:15,dotpiXels,ALTERNATEaTTaX,cache,ESL Pro Series Germany Winter ..,5,16,4,11,1,5,dotpiXels,13,17,0.69 
+2014,11,11,19:00,mousesports,dotpiXels,cache,ESL Pro Series Germany Winter ..,21,17,7,8,8,7,dotpiXels,20,28,0.78 

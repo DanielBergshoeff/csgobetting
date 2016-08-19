@@ -1,0 +1,8 @@
+2016,03,24,17:00,BX3,malefiQ,inferno,Copenhagen Games 2016 BYOC Qua..,16,6,13,2,3,4,malefiQ,11,19,0.58 
+2016,03,24,15:30,WinOut,malefiQ,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,malefiQ,18,15,1.11 
+2016,03,24,13:00,BX3,malefiQ,dust2,Copenhagen Games 2016 BYOC Qua..,9,16,7,8,2,8,malefiQ,23,13,1.44 
+2016,01,10,19:50,malefiQ,seven,cache,Tuddinn 1 | 2016,16,6,14,1,2,5,malefiQ,18,11,1.28 
+2016,01,10,19:50,malefiQ,seven,train,Tuddinn 1 | 2016,15,19,10,5,5,10,malefiQ,18,22,0.76 
+2016,01,10,19:50,seven,malefiQ,inferno,Tuddinn 1 | 2016,8,16,7,8,1,8,malefiQ,22,10,1.51 
+2016,01,10,12:00,malefiQ,VECA,inferno,Tuddinn 1 | 2016,16,9,12,3,4,6,malefiQ,22,13,1.38 
+2016,01,10,12:00,malefiQ,VECA,cache,Tuddinn 1 | 2016,16,11,10,5,6,6,malefiQ,21,17,1.25 

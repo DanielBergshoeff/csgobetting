@@ -1,0 +1,41 @@
+2016,08,05,20:30,ArchAngels,Tricked,cobblestone,ASUS ROG Summer 2016,12,16,7,8,5,8,ArchAngels,20,22,0.94 
+2016,08,05,19:00,ArchAngels,ENCE,mirage,ASUS ROG Summer 2016,10,16,8,7,2,9,ArchAngels,15,16,0.97 
+2016,06,18,20:00,ArchAngels,Epsilon,overpass,ESPORTSM 2016 Finals,16,19,9,6,6,9,ArchAngels,27,24,1.17 
+2016,06,18,20:00,Epsilon,ArchAngels,mirage,ESPORTSM 2016 Finals,16,8,7,8,9,0,ArchAngels,20,17,1.15 
+2016,03,17,21:15,Astralis,Torpedo,dust2,Counter Pit League Season 2 Fi..,16,2,14,1,2,1,Torpedo,5,16,0.35 
+2016,03,17,21:15,Astralis,Torpedo,cache,Counter Pit League Season 2 Fi..,16,6,13,2,3,4,Torpedo,10,17,0.62 
+2016,02,27,21:40,ALTERNATEaTTaX,Torpedo,cobblestone,Pantamera CS:GO Challenge 2016,16,13,5,10,11,3,Torpedo,18,23,0.87 
+2016,02,27,20:10,AliGon,Torpedo,mirage,Pantamera CS:GO Challenge 2016,16,9,9,6,7,3,Torpedo,9,20,0.49 
+2016,02,27,18:15,Orgless,Torpedo,mirage,Pantamera CS:GO Challenge 2016,19,17,5,10,10,5,Torpedo,38,22,1.54 
+2016,02,21,22:45,Torpedo,Preparation,cobblestone,Nordic Masters Season 2 Finals,19,17,4,11,11,4,Torpedo,28,23,1.09 
+2016,02,21,19:30,BX3,Torpedo,mirage,Nordic Masters Season 2 Finals,16,12,7,8,9,4,Torpedo,13,21,0.84 
+2016,02,21,19:30,BX3,Torpedo,overpass,Nordic Masters Season 2 Finals,16,4,11,4,5,0,Torpedo,13,14,1.14 
+2016,02,21,16:00,Raepmashaekel,Torpedo,cache,Nordic Masters Season 2 Finals,5,16,4,11,1,5,Torpedo,24,9,1.84 
+2016,02,21,16:00,Raepmashaekel,Torpedo,train,Nordic Masters Season 2 Finals,16,14,10,5,6,9,Torpedo,24,21,1.16 
+2016,02,21,16:00,Raepmashaekel,Torpedo,mirage,Nordic Masters Season 2 Finals,13,16,5,10,8,6,Torpedo,21,19,1.07 
+2016,02,19,23:00,DollarHouse,Torpedo,cache,Nordic Masters Season 2 Finals,6,16,5,10,1,6,Torpedo,14,11,1.02 
+2016,02,19,23:00,DollarHouse,Torpedo,mirage,Nordic Masters Season 2 Finals,4,16,1,14,3,2,Torpedo,20,8,1.50 
+2016,02,19,23:00,Torpedo,DollarHouse,overpass,Nordic Masters Season 2 Finals,12,16,5,10,7,6,Torpedo,10,20,0.57 
+2016,02,19,15:15,RCTIC,Torpedo,cache,Nordic Masters Season 2 Finals,16,12,8,7,8,5,Torpedo,20,20,1.18 
+2016,02,19,15:15,RCTIC,Torpedo,train,Nordic Masters Season 2 Finals,16,10,6,9,10,1,Torpedo,28,18,1.57 
+2016,02,19,12:35,DollarHouse,Torpedo,overpass,Nordic Masters Season 2 Finals,2,16,1,14,1,2,Torpedo,17,6,1.62 
+2015,12,20,20:45,Torpedo,NoProblem!,cache,ESL Nordic Nationals Winter 20..,16,5,11,4,5,1,Torpedo,20,8,1.52 
+2015,12,20,20:45,Torpedo,NoProblem!,mirage,ESL Nordic Nationals Winter 20..,16,14,8,7,8,7,Torpedo,28,18,1.47 
+2015,12,20,20:45,NoProblem!,Torpedo,cobblestone,ESL Nordic Nationals Winter 20..,16,13,8,7,8,6,Torpedo,13,24,0.56 
+2015,12,20,18:00,ROCCAT,Torpedo,cache,ESL Nordic Nationals Winter 20..,9,16,6,9,3,7,Torpedo,34,11,2.22 
+2015,12,20,18:00,Torpedo,ROCCAT,mirage,ESL Nordic Nationals Winter 20..,16,14,3,12,13,2,Torpedo,18,15,0.97 
+2015,12,20,13:00,SkitLite,Torpedo,mirage,ESL Nordic Nationals Winter 20..,11,16,5,10,6,6,Torpedo,16,15,0.99 
+2015,12,20,13:00,SkitLite,Torpedo,cache,ESL Nordic Nationals Winter 20..,14,16,3,12,11,4,Torpedo,18,20,0.93 
+2015,12,19,18:20,NoProblem!,Torpedo,mirage,ESL Nordic Nationals Winter 20..,16,6,9,6,7,0,Torpedo,8,18,0.48 
+2015,12,19,16:00,demise,Torpedo,mirage,ESL Nordic Nationals Winter 20..,4,16,1,14,3,2,Torpedo,10,9,0.98 
+2015,04,04,10:00,Publiclir.se,PlayingDucks,cache,Copenhagen Games 2015,11,16,8,7,3,9,Publiclir.se,18,20,0.98 
+2015,04,03,22:30,Property,Publiclir.se,dust2,Copenhagen Games 2015,16,2,13,2,3,0,Publiclir.se,12,16,0.84 
+2015,04,03,22:30,Publiclir.se,Property,cache,Copenhagen Games 2015,7,16,6,9,1,7,Publiclir.se,11,19,0.72 
+2015,04,03,22:30,Publiclir.se,Property,inferno,Copenhagen Games 2015,16,5,13,2,3,3,Publiclir.se,10,6,1.04 
+2015,04,03,19:00,Publiclir.se,myKPV,inferno,Copenhagen Games 2015,16,14,9,6,7,8,Publiclir.se,18,15,1.12 
+2015,04,03,19:00,Publiclir.se,myKPV,cache,Copenhagen Games 2015,16,14,9,6,7,8,Publiclir.se,25,20,1.22 
+2015,04,03,15:30,Virtus.pro,Publiclir.se,cache,Copenhagen Games 2015,16,5,11,4,5,1,Publiclir.se,15,16,0.93 
+2015,04,03,15:30,Virtus.pro,Publiclir.se,mirage,Copenhagen Games 2015,16,2,14,1,2,1,Publiclir.se,7,18,0.42 
+2015,04,03,12:00,Publiclir.se,myKPV,mirage,Copenhagen Games 2015,16,12,9,6,7,6,Publiclir.se,18,16,1.01 
+2015,04,03,12:00,myKPV,Publiclir.se,cache,Copenhagen Games 2015,10,16,7,8,3,8,Publiclir.se,24,15,1.47 
+2015,04,03,12:00,myKPV,Publiclir.se,inferno,Copenhagen Games 2015,16,11,11,4,5,7,Publiclir.se,18,16,1.08 

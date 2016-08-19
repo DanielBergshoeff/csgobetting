@@ -1,0 +1,40 @@
+2016,07,16,17:20,Wololos,gBots,cache,DreamHack Valencia 2016,14,16,8,7,6,9,gBots,21,19,1.10 
+2016,07,16,17:20,Wololos,gBots,cobblestone,DreamHack Valencia 2016,16,7,11,4,5,3,gBots,12,21,0.58 
+2016,07,16,17:20,gBots,Wololos,mirage,DreamHack Valencia 2016,16,13,13,2,3,11,gBots,23,18,1.11 
+2016,07,16,14:45,AlienTech,gBots,dust2,DreamHack Valencia 2016,16,6,11,4,5,2,gBots,12,17,0.75 
+2016,07,16,14:45,AlienTech,gBots,cache,DreamHack Valencia 2016,16,6,13,2,3,4,gBots,13,19,0.79 
+2016,07,15,17:55,gBots,Galatics,cobblestone,DreamHack Valencia 2016,16,11,7,8,9,3,gBots,16,20,0.81 
+2016,07,15,17:55,gBots,Galatics,cache,DreamHack Valencia 2016,16,8,8,7,8,1,gBots,29,12,1.88 
+2016,04,10,17:30,k1ck,gBots,inferno,AlienTech CS:GO League Finals,16,10,11,4,5,6,gBots,12,19,0.76 
+2016,04,10,17:30,k1ck,gBots,mirage,AlienTech CS:GO League Finals,16,14,5,10,11,4,gBots,22,18,1.04 
+2016,04,10,17:30,k1ck,gBots,cache,AlienTech CS:GO League Finals,8,16,2,13,6,3,gBots,13,12,0.91 
+2016,04,10,12:00,gBots,AlienTech,inferno,AlienTech CS:GO League Finals,16,9,9,6,7,3,gBots,20,16,1.15 
+2016,04,10,12:00,gBots,AlienTech,cache,AlienTech CS:GO League Finals,16,10,7,8,9,2,gBots,23,15,1.37 
+2016,04,09,18:00,k1ck,gBots,cobblestone,AlienTech CS:GO League Finals,16,11,7,8,9,3,gBots,22,18,1.21 
+2016,04,09,18:00,k1ck,gBots,cache,AlienTech CS:GO League Finals,16,8,9,6,7,2,gBots,8,17,0.61 
+2016,04,09,18:00,gBots,k1ck,mirage,AlienTech CS:GO League Finals,16,4,12,3,4,1,gBots,14,7,1.32 
+2016,04,08,21:30,gBots,AlienTech,inferno,AlienTech CS:GO League Finals,16,5,12,3,4,2,gBots,11,10,0.89 
+2016,04,08,21:30,gBots,AlienTech,cache,AlienTech CS:GO League Finals,16,12,10,5,6,7,gBots,20,22,0.98 
+2016,04,08,21:30,gBots,AlienTech,cobblestone,AlienTech CS:GO League Finals,15,19,11,4,4,11,gBots,32,20,1.43 
+2015,11,21,15:55,k1ck,Epsilon,dust2,AlienTech AllStars,16,10,7,8,9,2,Epsilon,10,22,0.49 
+2015,11,21,15:55,k1ck,Epsilon,overpass,AlienTech AllStars,16,3,12,3,4,0,Epsilon,7,18,0.38 
+2015,11,20,14:10,Epsilon,KeydStars,train,AlienTech AllStars,12,16,4,11,8,5,Epsilon,25,21,1.07 
+2015,11,20,12:40,Epsilon,uPGaming.hellfive,cache,AlienTech AllStars,16,3,12,3,4,0,Epsilon,22,8,1.81 
+2015,11,20,11:25,Epsilon,IHAVEADREAM,cache,AlienTech AllStars,16,3,13,2,3,1,Epsilon,25,9,2.02 
+2015,10,04,14:45,OverGaming,Epsilon,train,SocialNat Master League,5,16,4,11,1,5,Epsilon,17,13,1.18 
+2015,10,04,14:45,Epsilon,OverGaming,mirage,SocialNat Master League,16,2,14,1,2,1,Epsilon,17,8,1.40 
+2015,10,04,10:30,x6tence,Epsilon,cache,SocialNat Master League,10,16,5,10,5,6,Epsilon,22,14,1.31 
+2015,10,04,10:30,Epsilon,x6tence,mirage,SocialNat Master League,11,16,10,5,1,11,Epsilon,27,19,1.46 
+2015,10,04,10:30,x6tence,Epsilon,overpass,SocialNat Master League,15,21,3,12,12,3,Epsilon,29,21,1.32 
+2015,04,04,10:00,Atlantis,Reason,cache,Copenhagen Games 2015,14,16,10,5,4,11,Atlantis,15,24,0.68 
+2015,04,03,22:30,Virtus.pro,Atlantis,inferno,Copenhagen Games 2015,16,4,12,3,4,1,Atlantis,15,18,0.82 
+2015,04,03,22:30,Virtus.pro,Atlantis,mirage,Copenhagen Games 2015,16,8,13,2,3,6,Atlantis,11,21,0.56 
+2015,04,03,19:00,puta,Atlantis,inferno,Copenhagen Games 2015,1,16,1,14,0,2,Atlantis,19,7,1.72 
+2015,04,03,19:00,Atlantis,puta,mirage,Copenhagen Games 2015,16,5,13,2,3,3,Atlantis,13,8,1.11 
+2015,04,03,15:30,Atlantis,malefiQ,dust2,Copenhagen Games 2015,16,11,7,8,9,3,Atlantis,23,13,1.33 
+2015,04,03,15:30,malefiQ,Atlantis,cache,Copenhagen Games 2015,7,16,6,9,1,7,Atlantis,13,15,0.81 
+2015,04,03,12:00,Atlantis,puta,nuke,Copenhagen Games 2015,13,16,9,6,4,10,Atlantis,17,20,0.82 
+2015,04,03,12:00,puta,Atlantis,mirage,Copenhagen Games 2015,22,20,4,11,11,4,Atlantis,21,31,0.75 
+2015,04,03,12:00,puta,Atlantis,cache,Copenhagen Games 2015,6,16,5,10,1,6,Atlantis,13,15,0.83 
+2014,07,18,22:30,gBots,Platinium,dust2,DreamHack Valencia 2014,6,16,4,11,2,5,gBots,9,18,0.70 
+2014,07,18,20:25,gBots,FTW.PRO,inferno,DreamHack Valencia 2014,19,16,12,3,3,12,gBots,21,24,0.91 

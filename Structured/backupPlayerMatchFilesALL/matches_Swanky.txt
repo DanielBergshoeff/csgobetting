@@ -1,0 +1,4 @@
+2016,08,14,12:30,SSUWhite,AVANTGARDE,nuke,ESEA Open Season 22 Oceania,5,16,2,13,3,3,SSU White,11,15,0.78 
+2016,08,14,12:30,AVANTGARDE,SSUWhite,overpass,ESEA Open Season 22 Oceania,16,11,11,4,5,7,SSU White,24,19,1.22 
+2016,08,11,11:30,Riotous,SSUWhite,cache,ESEA Open Season 22 Oceania,8,16,4,11,4,5,SSU White,16,11,1.07 
+2016,08,11,11:30,Riotous,SSUWhite,train,ESEA Open Season 22 Oceania,12,16,10,5,2,11,SSU White,18,16,1.07 

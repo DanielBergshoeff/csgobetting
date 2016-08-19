@@ -1,0 +1,221 @@
+2016,08,14,22:10,LGR,Spirit,dust2,Stream.me Gauntlet EU #1,4,16,3,12,1,4,LGR,6,18,0.36 
+2016,08,14,22:10,Spirit,LGR,cache,Stream.me Gauntlet EU #1,16,11,8,7,8,4,LGR,7,23,0.34 
+2016,08,14,18:10,Entropy,LGR,cache,ECS Season 2 EU Open Qualifier..,16,6,10,5,6,1,LGR,12,19,0.62 
+2016,08,14,16:55,LGR,Tengri,train,ECS Season 2 EU Open Qualifier..,16,13,7,8,9,5,LGR,19,22,0.90 
+2016,08,14,15:00,LGR,Pufiki,cache,ECS Season 2 EU Open Qualifier..,26,23,9,6,6,9,LGR,29,37,0.75 
+2016,08,11,20:00,LGR,Spirit,cobblestone,Betway Invitational,14,16,5,10,9,6,LGR,18,16,0.98 
+2016,08,11,20:00,Spirit,LGR,cache,Betway Invitational,4,16,4,11,0,5,LGR,12,11,0.93 
+2016,08,11,20:00,LGR,Spirit,dust2,Betway Invitational,9,16,7,8,2,8,LGR,6,23,0.27 
+2016,08,08,21:00,EpiphanyBolt,LGR,train,Betway Invitational,10,16,6,9,4,7,LGR,18,19,1.02 
+2016,08,08,21:00,EpiphanyBolt,LGR,cache,Betway Invitational,4,16,3,12,1,4,LGR,11,12,0.84 
+2016,08,05,13:00,Epsilon,LGR,cache,ASUS ROG Summer 2016,16,12,9,6,7,6,LGR,14,20,0.69 
+2016,08,05,11:45,Escape,LGR,cobblestone,ASUS ROG Summer 2016,16,11,9,6,7,5,LGR,10,17,0.68 
+2016,08,04,21:00,ENCE,LGR,train,Peliliiga eSM 2016,25,23,9,6,6,9,LGR,30,32,0.94 
+2016,08,04,21:00,LGR,ENCE,cache,Peliliiga eSM 2016,9,16,6,9,3,7,LGR,11,20,0.55 
+2016,08,04,21:00,LGR,ENCE,dust2,Peliliiga eSM 2016,16,11,5,10,11,1,LGR,10,21,0.53 
+2016,08,03,19:15,MK,LGR,mirage,Game Show Spring Invitational ..,16,3,14,1,2,2,LGR,5,18,0.26 
+2016,08,03,19:15,MK,LGR,train,Game Show Spring Invitational ..,19,15,6,9,9,6,LGR,20,25,0.88 
+2016,08,02,17:00,LGR,ArchAngels,cobblestone,Stream.me Gauntlet EU #1,16,4,11,4,5,0,LGR,16,7,1.37 
+2016,08,02,17:00,LGR,ArchAngels,mirage,Stream.me Gauntlet EU #1,9,16,3,12,6,4,LGR,18,15,1.07 
+2016,08,02,17:00,ArchAngels,LGR,dust2,Stream.me Gauntlet EU #1,2,16,2,13,0,3,LGR,15,11,1.24 
+2016,07,31,20:45,Millenium,LGR,nuke,Betway Invitational,14,16,8,7,6,9,LGR,15,24,0.60 
+2016,07,31,20:45,LGR,Millenium,dust2,Betway Invitational,5,16,2,13,3,3,LGR,6,20,0.31 
+2016,07,31,20:45,LGR,Millenium,cache,Betway Invitational,16,11,10,5,6,6,LGR,22,12,1.37 
+2016,07,30,17:00,DarkPassage,LGR,cobblestone,Betway Invitational,12,16,6,9,6,7,LGR,19,18,0.98 
+2016,07,30,17:00,LGR,DarkPassage,dust2,Betway Invitational,16,9,11,4,5,5,LGR,23,17,1.24 
+2016,07,27,20:00,LGR,Delete,cache,RGN Pro Series II EU Closed Qu..,16,14,9,6,7,8,LGR,16,21,0.79 
+2016,07,27,20:00,Delete,LGR,train,RGN Pro Series II EU Closed Qu..,4,16,3,12,1,4,LGR,20,11,1.43 
+2016,07,27,20:00,LGR,Delete,mirage,RGN Pro Series II EU Closed Qu..,12,16,8,7,4,9,LGR,17,19,0.81 
+2016,07,24,17:00,LGR,Delete,cache,Stream.me Gauntlet EU #1,16,3,12,3,4,0,LGR,15,7,1.30 
+2016,07,24,17:00,Delete,LGR,dust2,Stream.me Gauntlet EU #1,8,16,2,13,6,3,LGR,11,11,0.85 
+2016,07,21,21:15,PENTA,LGR,dust2,GG Masters,16,11,13,2,3,9,LGR,18,18,1.00 
+2016,07,21,21:15,LGR,PENTA,cache,GG Masters,7,16,5,10,2,6,LGR,9,18,0.58 
+2016,07,20,21:00,Secretfe,LGR,cobblestone,GG Masters,4,16,4,11,0,5,LGR,15,10,1.18 
+2016,07,20,21:00,Secretfe,LGR,dust2,GG Masters,5,16,1,14,4,2,LGR,13,11,1.10 
+2016,07,20,19:15,LGR,AGG,cobblestone,GG Masters,12,16,7,8,5,8,LGR,23,20,1.09 
+2016,07,18,20:30,Epsilon,LGR,nuke,RGN Pro Series II EU Closed Qu..,16,4,12,3,4,1,LGR,5,19,0.34 
+2016,07,18,20:30,Epsilon,LGR,dust2,RGN Pro Series II EU Closed Qu..,12,16,8,7,4,9,LGR,20,19,1.05 
+2016,07,18,20:30,LGR,Epsilon,mirage,RGN Pro Series II EU Closed Qu..,5,16,5,10,0,6,LGR,14,18,0.84 
+2016,07,02,17:00,LGR,BX3,mirage,King of Nordic's Challenger Cu..,16,14,9,6,7,8,LGR,25,17,1.36 
+2016,07,02,17:00,BX3,LGR,train,King of Nordic's Challenger Cu..,4,16,3,12,1,4,LGR,12,12,0.94 
+2016,07,01,21:40,GimmeSomeCANDY,LGR,cobblestone,King of Nordic's Challenger Cu..,3,16,3,12,0,4,LGR,12,6,1.24 
+2016,07,01,21:40,GimmeSomeCANDY,LGR,dust2,King of Nordic's Challenger Cu..,2,16,2,13,0,3,LGR,9,9,0.92 
+2016,06,28,21:00,LGR,ALTERNATEaTTaX,dust2,Operation: Kinguin #3,6,16,3,12,3,4,LGR,2,20,0.15 
+2016,06,28,21:00,ALTERNATEaTTaX,LGR,train,Operation: Kinguin #3,19,17,3,12,12,3,LGR,25,27,0.93 
+2016,06,27,20:15,LGR,Secretfe,inferno,Operation: Kinguin #3,16,4,11,4,5,0,LGR,14,8,1.36 
+2016,06,27,20:15,Secretfe,LGR,train,Operation: Kinguin #3,3,16,2,13,1,3,LGR,11,8,1.02 
+2016,06,21,20:00,LowLandLions,LGR,inferno,Operation: Kinguin #3,19,17,11,4,4,11,LGR,20,25,0.84 
+2016,06,21,20:00,LGR,LowLandLions,mirage,Operation: Kinguin #3,16,6,11,4,5,2,LGR,18,9,1.40 
+2016,06,21,20:00,LowLandLions,LGR,dust2,Operation: Kinguin #3,16,8,8,7,8,1,LGR,8,18,0.48 
+2016,06,13,17:00,RCTIC,Lioncast,cache,RGN Pro Series II EU Closed Qu..,16,2,14,1,2,1,RCTIC,14,11,1.06 
+2016,06,13,17:00,Lioncast,RCTIC,cobblestone,RGN Pro Series II EU Closed Qu..,8,16,4,11,4,5,RCTIC,8,12,0.78 
+2016,06,07,20:00,RCTIC,ALTERNATEaTTaX,cache,owayo Masters I,9,16,8,7,1,9,RCTIC,9,22,0.42 
+2016,06,07,20:00,RCTIC,ALTERNATEaTTaX,cobblestone,owayo Masters I,13,16,5,10,8,6,RCTIC,11,19,0.66 
+2016,06,05,20:30,RCTIC,k1ck,dust2,RGN Pro Series II EU Closed Qu..,16,10,11,4,5,6,RCTIC,22,16,1.22 
+2016,06,05,20:30,RCTIC,k1ck,train,RGN Pro Series II EU Closed Qu..,16,9,8,7,8,2,RCTIC,21,19,1.08 
+2016,05,17,22:15,RCTIC,LeiSuRe,inferno,RGN Pro Series II EU Closed Qu..,8,16,4,11,4,5,RCTIC,11,16,0.75 
+2016,05,17,22:15,RCTIC,LeiSuRe,dust2,RGN Pro Series II EU Closed Qu..,16,13,7,8,9,5,RCTIC,16,20,0.83 
+2016,05,17,22:15,LeiSuRe,RCTIC,cache,RGN Pro Series II EU Closed Qu..,16,4,11,4,5,0,RCTIC,13,17,0.81 
+2016,05,16,17:00,RCTIC,AGG,inferno,Operation: Kinguin #3,19,17,10,5,5,10,RCTIC,20,25,0.83 
+2016,05,16,17:00,RCTIC,AGG,cobblestone,Operation: Kinguin #3,12,16,4,11,8,5,RCTIC,22,22,0.93 
+2016,05,16,17:00,RCTIC,AGG,cache,Operation: Kinguin #3,16,6,11,4,5,2,RCTIC,15,12,1.23 
+2016,05,03,19:15,TBi,RCTIC,dust2,Game Show Spring Invitational ..,16,14,5,10,11,4,RCTIC,16,22,0.78 
+2016,05,03,19:15,TBi,RCTIC,cobblestone,Game Show Spring Invitational ..,16,10,6,9,10,1,RCTIC,17,20,0.89 
+2016,05,01,18:10,GODSENT,RCTIC,inferno,DreamHack Regional Minor Champ..,16,7,10,5,6,2,RCTIC,11,21,0.57 
+2016,05,01,18:10,RCTIC,GODSENT,cache,DreamHack Regional Minor Champ..,10,16,3,12,7,4,RCTIC,15,19,0.79 
+2016,05,01,15:00,RCTIC,nerdRage,dust2,DreamHack Regional Minor Champ..,16,13,5,10,11,3,RCTIC,16,17,0.90 
+2016,05,01,15:00,nerdRage,RCTIC,train,DreamHack Regional Minor Champ..,5,16,3,12,2,4,RCTIC,16,11,1.11 
+2016,05,01,15:00,RCTIC,nerdRage,cobblestone,DreamHack Regional Minor Champ..,6,16,5,10,1,6,RCTIC,13,18,0.72 
+2016,04,30,18:25,deadweight,RCTIC,dust2,DreamHack Regional Minor Champ..,4,16,4,11,0,5,RCTIC,14,9,1.12 
+2016,04,27,20:30,RCTIC,Epsilon,dust2,Operation: Kinguin #3,12,16,8,7,4,9,RCTIC,14,17,0.78 
+2016,04,27,20:30,RCTIC,Epsilon,cache,Operation: Kinguin #3,12,16,4,11,8,5,RCTIC,8,21,0.48 
+2016,04,21,20:00,CPHWolves,RCTIC,inferno,Game On King of the Hill,16,8,8,7,8,1,RCTIC,10,21,0.47 
+2016,04,21,20:00,CPHWolves,RCTIC,cobblestone,Game On King of the Hill,16,6,10,5,6,1,RCTIC,6,19,0.34 
+2016,04,19,21:45,RCTIC,EpiphanyBolt,inferno,Game On King of the Hill,29,31,7,8,8,7,RCTIC,36,48,0.74 
+2016,04,19,21:45,EpiphanyBolt,RCTIC,cache,Game On King of the Hill,16,8,8,7,8,1,RCTIC,7,21,0.35 
+2016,04,19,20:00,AliGon,RCTIC,inferno,Game On King of the Hill,16,7,8,7,8,0,RCTIC,6,19,0.36 
+2016,04,19,20:00,RCTIC,AliGon,cobblestone,Game On King of the Hill,9,16,2,13,7,3,RCTIC,10,21,0.53 
+2016,04,14,20:00,RCTIC,Enso,dust2,Game On King of the Hill,16,5,13,2,3,3,RCTIC,13,9,1.12 
+2016,04,13,19:00,E-frag.net,RCTIC,cache,Game Show Spring Invitational ..,16,2,13,2,3,0,RCTIC,11,17,0.85 
+2016,04,12,19:30,Enso,RCTIC,inferno,Game Show Spring Invitational ..,14,16,9,6,5,10,RCTIC,12,24,0.54 
+2016,04,12,19:30,Enso,RCTIC,dust2,Game Show Spring Invitational ..,16,13,7,8,9,5,RCTIC,16,19,0.86 
+2016,04,12,19:30,Enso,RCTIC,cache,Game Show Spring Invitational ..,13,16,7,8,6,8,RCTIC,19,21,0.89 
+2016,03,28,19:00,Empire,RCTIC,cobblestone,Game Show Spring Invitational ..,15,15,9,6,6,9,RCTIC,22,20,1.00 
+2016,03,25,13:15,SpaceSoldiers,RCTIC,mirage,Copenhagen Games 2016,16,6,10,5,6,1,RCTIC,13,18,0.69 
+2016,03,25,11:50,Iwku,RCTIC,inferno,Copenhagen Games 2016,16,7,11,4,5,3,RCTIC,8,19,0.46 
+2016,03,21,19:00,eXtatus,RCTIC,mirage,Game Show Spring Invitational ..,5,16,4,11,1,5,RCTIC,14,16,0.81 
+2016,03,21,19:00,eXtatus,RCTIC,dust2,Game Show Spring Invitational ..,13,16,5,10,8,6,RCTIC,13,22,0.61 
+2016,03,17,19:00,Method,RCTIC,cache,Game Show Spring Invitational ..,20,22,8,7,7,8,RCTIC,39,27,1.25 
+2016,03,17,19:00,RCTIC,Method,cobblestone,Game Show Spring Invitational ..,16,11,6,9,10,2,RCTIC,14,17,0.84 
+2016,03,17,19:00,RCTIC,Method,dust2,Game Show Spring Invitational ..,16,19,4,11,11,4,RCTIC,19,23,0.92 
+2016,03,11,21:15,eSuba,RCTIC,cache,Razer Rising Stars European Le..,16,8,7,8,9,0,RCTIC,9,18,0.52 
+2016,02,24,19:00,BinaryDragons,RCTIC,dust2,Game Show Spring Invitational ..,8,16,5,10,3,6,RCTIC,15,15,0.95 
+2016,02,24,19:00,BinaryDragons,RCTIC,train,Game Show Spring Invitational ..,12,16,1,14,11,2,RCTIC,18,20,0.89 
+2016,02,21,22:45,BX3,RCTIC,dust2,Nordic Masters Season 2 Finals,5,16,4,11,1,5,RCTIC,18,11,1.27 
+2016,02,21,22:45,BX3,RCTIC,mirage,Nordic Masters Season 2 Finals,6,16,6,9,0,7,RCTIC,19,12,1.36 
+2016,02,21,19:30,RCTIC,Preparation,cache,Nordic Masters Season 2 Finals,16,11,7,8,9,3,RCTIC,20,19,1.05 
+2016,02,21,19:30,Preparation,RCTIC,mirage,Nordic Masters Season 2 Finals,11,16,7,8,4,8,RCTIC,8,19,0.53 
+2016,02,21,11:00,Games4u,RCTIC,cobblestone,Nordic Masters Season 2 Finals,4,16,1,14,3,2,RCTIC,20,10,1.59 
+2016,02,21,11:00,RCTIC,Games4u,mirage,Nordic Masters Season 2 Finals,16,10,12,3,4,7,RCTIC,18,19,0.98 
+2016,02,21,11:00,RCTIC,Games4u,cache,Nordic Masters Season 2 Finals,12,16,9,6,3,10,RCTIC,20,23,0.93 
+2016,02,19,15:15,RCTIC,Torpedo,cache,Nordic Masters Season 2 Finals,16,12,8,7,8,5,RCTIC,11,20,0.60 
+2016,02,19,15:15,RCTIC,Torpedo,train,Nordic Masters Season 2 Finals,16,10,6,9,10,1,RCTIC,20,18,1.07 
+2016,02,19,14:20,RCTIC,Rize,mirage,Nordic Masters Season 2 Finals,16,8,13,2,3,6,RCTIC,17,15,0.99 
+2016,02,05,19:00,CPHWolves,RCTIC,cobblestone,Assembly Winter 2016,16,3,12,3,4,0,RCTIC,8,19,0.38 
+2016,02,05,19:00,CPHWolves,RCTIC,dust2,Assembly Winter 2016,16,13,5,10,11,3,RCTIC,12,21,0.63 
+2016,02,05,12:55,LDLCBlue,RCTIC,train,Assembly Winter 2016,16,14,9,6,7,8,RCTIC,18,27,0.62 
+2016,02,05,11:45,Orgless,RCTIC,dust2,Assembly Winter 2016,8,16,8,7,0,9,RCTIC,12,11,0.91 
+2016,01,31,21:00,RCTIC,nevermind,cobblestone,Rising Stars Europe #1,20,22,9,6,6,9,RCTIC,17,24,0.73 
+2016,01,31,21:00,nevermind,RCTIC,cache,Rising Stars Europe #1,16,5,10,5,6,0,RCTIC,9,18,0.64 
+2016,01,19,20:15,RCTIC,Vexed,cobblestone,ESL Barcelona European Qualifi..,12,16,2,13,10,3,RCTIC,16,20,0.79 
+2016,01,19,20:15,Vexed,RCTIC,dust2,ESL Barcelona European Qualifi..,16,11,12,3,4,8,RCTIC,14,17,0.84 
+2016,01,08,18:15,Blojexpressen,RCTIC,train,PGL Regional Minor Championshi..,16,5,10,5,6,0,RCTIC,3,20,0.16 
+2016,01,08,18:15,RCTIC,Blojexpressen,cache,PGL Regional Minor Championshi..,11,16,4,11,7,5,RCTIC,12,22,0.54 
+2015,12,16,22:00,EpiphanyBolt,RCTIC,cache,AlienTech CS:GO European Cup I..,12,16,4,11,8,5,RCTIC,17,18,0.94 
+2015,12,14,20:00,RCTIC,PlayingDucks,cache,AlienTech CS:GO European Cup I..,16,7,9,6,7,1,RCTIC,19,13,1.22 
+2015,12,03,16:00,eXplosive,RCTIC,train,Uprise Champions Cup: Europe,16,11,12,3,4,8,RCTIC,17,21,0.88 
+2015,12,03,16:00,eXplosive,RCTIC,cache,Uprise Champions Cup: Europe,16,1,14,1,2,0,RCTIC,3,17,0.15 
+2015,12,02,17:00,E-frag.net,RCTIC,dust2,Uprise Champions Cup: Europe,16,6,9,6,7,0,RCTIC,7,19,0.46 
+2015,12,02,17:00,E-frag.net,RCTIC,train,Uprise Champions Cup: Europe,16,4,13,2,3,2,RCTIC,5,19,0.25 
+2015,11,22,19:00,k1ck,RCTIC,cobblestone,AlienTech AllStars,13,16,6,9,7,7,RCTIC,21,17,1.16 
+2015,11,22,19:00,RCTIC,k1ck,dust2,AlienTech AllStars,16,14,4,11,12,3,RCTIC,13,17,0.79 
+2015,11,22,11:25,Publiclir.se,RCTIC,cobblestone,AlienTech AllStars,16,19,6,9,9,6,RCTIC,22,26,0.83 
+2015,11,22,11:25,Publiclir.se,RCTIC,train,AlienTech AllStars,16,12,6,9,10,3,RCTIC,15,24,0.61 
+2015,11,22,11:25,RCTIC,Publiclir.se,mirage,AlienTech AllStars,16,8,11,4,5,4,RCTIC,17,17,0.93 
+2015,11,21,16:00,RCTIC,KeydStars,train,AlienTech AllStars,16,5,11,4,5,1,RCTIC,15,10,1.11 
+2015,11,21,16:00,KeydStars,RCTIC,overpass,AlienTech AllStars,16,8,10,5,6,3,RCTIC,15,20,0.83 
+2015,11,21,16:00,KeydStars,RCTIC,mirage,AlienTech AllStars,13,16,8,7,5,9,RCTIC,14,24,0.58 
+2015,11,20,23:00,k1ck,RCTIC,mirage,AlienTech AllStars,16,9,8,7,8,2,RCTIC,14,20,0.72 
+2015,11,20,22:00,RCTIC,FTW.G2A,dust2,AlienTech AllStars,16,8,10,5,6,3,RCTIC,17,14,1.08 
+2015,11,20,20:20,RCTIC,Equilibrium,dust2,AlienTech AllStars,16,1,14,1,2,0,RCTIC,9,8,0.98 
+2015,11,13,17:00,PiTER,RCTIC,cache,QuickShot Showmatches,16,9,9,6,7,3,RCTIC,10,23,0.49 
+2015,11,13,17:00,PiTER,RCTIC,overpass,QuickShot Showmatches,16,14,4,11,12,3,RCTIC,11,23,0.54 
+2015,11,13,17:00,PiTER,RCTIC,dust2,QuickShot Showmatches,23,25,6,9,9,6,RCTIC,30,34,0.86 
+2015,11,12,21:30,Vexed,RCTIC,overpass,QuickShot Arena #14,16,5,13,2,3,3,RCTIC,8,20,0.36 
+2015,11,12,20:30,Reason,RCTIC,train,QuickShot Arena #14,14,16,11,4,3,12,RCTIC,20,24,0.87 
+2015,11,12,17:00,Vexed,RCTIC,mirage,QuickShot Arena #14,16,11,7,8,9,3,RCTIC,18,19,0.91 
+2015,11,12,17:00,Vexed,RCTIC,train,QuickShot Arena #14,16,7,13,2,3,5,RCTIC,9,20,0.43 
+2015,11,12,17:00,RCTIC,Vexed,overpass,QuickShot Arena #14,19,16,10,5,5,10,RCTIC,23,24,0.95 
+2015,11,11,17:00,ESC,RCTIC,cache,QuickShot Arena #14,5,16,2,13,3,3,RCTIC,19,10,1.40 
+2015,11,11,17:00,ESC,RCTIC,train,QuickShot Arena #14,5,16,3,12,2,4,RCTIC,16,10,1.26 
+2015,11,08,20:00,EpiphanyBolt,RCTIC,cobblestone,RGN European Open,16,4,11,4,5,0,RCTIC,8,18,0.56 
+2015,10,31,11:30,Publiclir.se,RCTIC,mirage,ASUS ROG Nordic Challenge,16,13,8,7,8,6,RCTIC,11,21,0.56 
+2015,10,31,11:30,Publiclir.se,RCTIC,cobblestone,ASUS ROG Nordic Challenge,16,9,7,8,9,1,RCTIC,19,17,1.01 
+2015,10,30,11:00,SkitLite,RCTIC,mirage,ASUS ROG Nordic Challenge,12,16,6,9,6,7,RCTIC,16,19,0.84 
+2015,10,30,11:00,RCTIC,SkitLite,train,ASUS ROG Nordic Challenge,16,7,11,4,5,3,RCTIC,29,14,1.83 
+2015,10,17,21:45,TMVG,RCTIC,cobblestone,Jimm's CS:GO Challenge,8,16,7,8,1,8,RCTIC,11,17,0.72 
+2015,10,17,21:45,TMVG,RCTIC,dust2,Jimm's CS:GO Challenge,13,16,5,10,8,6,RCTIC,19,15,1.06 
+2015,10,17,13:40,RCTIC,Recursive,overpass,Jimm's CS:GO Challenge,16,12,6,9,10,3,RCTIC,18,21,0.95 
+2015,10,17,13:40,RCTIC,Recursive,train,Jimm's CS:GO Challenge,16,10,9,6,7,4,RCTIC,19,18,1.06 
+2015,10,14,20:00,VegaSquadron,RCTIC,dust2,QuickShot Showmatches,8,16,4,11,4,5,RCTIC,13,18,0.78 
+2015,10,14,20:00,RCTIC,VegaSquadron,mirage,QuickShot Showmatches,2,16,2,13,0,3,RCTIC,10,17,0.61 
+2015,10,14,20:00,VegaSquadron,RCTIC,overpass,QuickShot Showmatches,17,19,6,9,9,6,RCTIC,20,25,0.83 
+2015,09,29,14:15,RCTIC,Enervate,mirage,Uprise Champions Cup Season 3 ..,13,16,6,9,7,7,RCTIC,22,21,1.10 
+2015,09,29,14:15,Enervate,RCTIC,cobblestone,Uprise Champions Cup Season 3 ..,16,13,12,3,4,10,RCTIC,26,15,1.44 
+2015,09,28,10:20,RCTIC,VegaSquadron,dust2,Uprise Champions Cup Season 3 ..,16,19,6,9,9,6,RCTIC,42,24,1.76 
+2015,09,28,10:20,VegaSquadron,RCTIC,mirage,Uprise Champions Cup Season 3 ..,16,14,3,12,13,2,RCTIC,22,22,1.06 
+2015,09,17,21:00,ESC,RCTIC,cache,QuickShot Arena #7,16,14,5,10,11,4,RCTIC,17,21,0.85 
+2015,09,17,21:00,RCTIC,ESC,mirage,QuickShot Arena #7,14,16,8,7,6,9,RCTIC,14,23,0.66 
+2015,09,17,19:50,uberg33ks,RCTIC,mirage,QuickShot Arena #7,10,16,8,7,2,9,RCTIC,19,16,1.01 
+2015,09,17,17:00,ESC,RCTIC,cache,QuickShot Arena #7,16,8,10,5,6,3,RCTIC,13,18,0.80 
+2015,09,17,17:00,ESC,RCTIC,mirage,QuickShot Arena #7,6,16,5,10,1,6,RCTIC,16,15,1.08 
+2015,09,17,17:00,ESC,RCTIC,dust2,QuickShot Arena #7,16,8,9,6,7,2,RCTIC,9,20,0.47 
+2015,09,16,20:15,RCTIC,uberg33ks,cache,QuickShot Arena #7,16,13,5,10,11,3,RCTIC,22,17,1.09 
+2015,09,16,20:15,RCTIC,uberg33ks,mirage,QuickShot Arena #7,14,16,9,6,5,10,RCTIC,14,22,0.68 
+2015,09,16,20:15,RCTIC,uberg33ks,dust2,QuickShot Arena #7,19,15,8,7,7,8,RCTIC,22,27,0.90 
+2015,09,15,21:00,RCTIC,AlienTech,dust2,AlienTech CS:GO European Cup I,16,12,7,8,9,4,RCTIC,17,18,0.84 
+2015,09,15,21:00,AlienTech,RCTIC,cache,AlienTech CS:GO European Cup I,12,16,6,9,6,7,RCTIC,22,20,1.06 
+2015,09,14,18:00,E-frag.net,RCTIC,dust2,Hitbox Arena Showdown Invitati..,16,4,12,3,4,1,RCTIC,7,18,0.43 
+2015,09,07,20:20,RCTIC,INFINITY,dust2,AlienTech CS:GO European Cup I,7,16,7,8,0,8,RCTIC,4,18,0.37 
+2015,09,07,20:20,RCTIC,INFINITY,mirage,AlienTech CS:GO European Cup I,10,16,8,7,2,9,RCTIC,8,20,0.45 
+2015,09,04,18:00,Phenomenon,EpiphanyBolt,mirage,Uprise Champions Cup Season 3,14,8,11,4,3,4,Epiphany Bolt,13,20,0.76 
+2015,09,04,18:00,Phenomenon,EpiphanyBolt,cache,Uprise Champions Cup Season 3,16,8,8,7,8,1,Epiphany Bolt,9,20,0.50 
+2015,09,03,21:00,EpiphanyBolt,PiTER,mirage,Uprise Champions Cup Season 3,9,16,4,11,5,5,Epiphany Bolt,10,22,0.50 
+2015,09,03,21:00,PiTER,EpiphanyBolt,cache,Uprise Champions Cup Season 3,16,10,8,7,8,3,Epiphany Bolt,18,22,0.86 
+2015,09,02,21:45,EpiphanyBolt,dope,cache,Uprise Champions Cup Season 3,16,3,13,2,3,1,Epiphany Bolt,20,8,1.75 
+2015,09,02,21:45,dope,EpiphanyBolt,mirage,Uprise Champions Cup Season 3,16,14,12,3,4,11,Epiphany Bolt,21,22,0.88 
+2015,09,02,21:45,dope,EpiphanyBolt,cobblestone,Uprise Champions Cup Season 3,9,16,4,11,5,5,Epiphany Bolt,10,15,0.75 
+2015,09,02,20:10,ESC,EpiphanyBolt,mirage,AlienTech CS:GO European Cup I,17,19,7,8,8,7,Epiphany Bolt,31,25,1.26 
+2015,09,01,22:00,AlienTech,EpiphanyBolt,cobblestone,AlienTech CS:GO European Cup I,16,14,6,9,10,5,Epiphany Bolt,26,16,1.32 
+2015,09,01,20:15,EpiphanyBolt,ESC,mirage,AlienTech CS:GO European Cup I,16,6,10,5,6,1,Epiphany Bolt,15,13,1.09 
+2015,08,31,17:00,EpiphanyBolt,Pries,dust2,Uprise Champions Cup Season 3,16,5,10,5,6,0,Epiphany Bolt,11,11,0.85 
+2015,08,31,17:00,EpiphanyBolt,Pries,mirage,Uprise Champions Cup Season 3,16,13,8,7,8,6,Epiphany Bolt,19,16,0.99 
+2015,08,12,21:00,EpiphanyBolt,Dobry&Gaming,cache,Uprise Champions Cup Season 3,9,16,6,9,3,7,Epiphany Bolt,19,16,1.07 
+2015,08,12,21:00,EpiphanyBolt,Dobry&Gaming,train,Uprise Champions Cup Season 3,12,16,5,10,7,6,Epiphany Bolt,19,23,0.86 
+2015,08,12,21:00,Dobry&Gaming,EpiphanyBolt,mirage,Uprise Champions Cup Season 3,11,16,6,9,5,7,Epiphany Bolt,26,16,1.37 
+2015,08,10,17:00,EpiphanyBolt,eBettle,overpass,Uprise Champions Cup Season 3,22,19,6,9,9,6,Epiphany Bolt,22,26,0.87 
+2015,08,10,17:00,eBettle,EpiphanyBolt,mirage,Uprise Champions Cup Season 3,13,16,6,9,7,7,Epiphany Bolt,26,19,1.29 
+2015,08,01,16:00,EpiphanyBolt,eBettle,overpass,Assembly Summer 2015 AMD CS:GO..,11,16,9,6,2,10,Epiphany Bolt,18,20,1.03 
+2015,08,01,16:00,EpiphanyBolt,eBettle,dust2,Assembly Summer 2015 AMD CS:GO..,5,16,4,11,1,5,Epiphany Bolt,7,17,0.43 
+2015,07,31,20:00,EpiphanyBolt,UNLEASHED,mirage,Assembly Summer 2015 AMD CS:GO..,16,14,8,7,8,7,Epiphany Bolt,14,21,0.69 
+2015,07,31,18:00,Jynttä,EpiphanyBolt,mirage,Assembly Summer 2015 AMD CS:GO..,16,4,12,3,4,1,Epiphany Bolt,6,18,0.36 
+2015,07,31,16:00,Lions,EpiphanyBolt,train,Assembly Summer 2015 AMD CS:GO..,8,16,4,11,4,5,Epiphany Bolt,17,19,0.91 
+2015,07,28,20:00,PlayingDucks,EpiphanyBolt,cobblestone,xfunction Masters Season III,16,5,10,5,6,0,Epiphany Bolt,9,17,0.54 
+2015,07,28,20:00,PlayingDucks,EpiphanyBolt,dust2,xfunction Masters Season III,11,16,10,5,1,11,Epiphany Bolt,15,17,0.87 
+2015,07,26,17:00,EpiphanyBolt,LGB,mirage,ESL One Cologne 2015 European ..,11,16,10,5,1,11,Epiphany Bolt,29,15,1.82 
+2015,07,26,13:00,EpiphanyBolt,eBettle,train,ESL One Cologne 2015 European ..,19,22,10,5,5,10,Epiphany Bolt,26,31,0.88 
+2014,10,05,16:00,osku'steam,Twista'steam,cache,Areena #6 by ROCCAT,6,16,6,9,0,7,Twista's team,14,12,1.06 
+2014,10,05,15:00,Twista'steam,naSu'steam,cache,Areena #6 by ROCCAT,13,16,8,7,5,9,Twista's team,13,20,0.69 
+2014,10,05,13:10,Twista'steam,sAw'steam,dust2,Areena #6 by ROCCAT,16,13,10,5,6,8,Twista's team,25,21,1.15 
+2014,10,05,11:25,Twista'steam,KIPSIk'steam,cache,Areena #6 by ROCCAT,15,15,6,9,9,6,Twista's team,14,20,0.72 
+2014,10,05,10:25,Twista'steam,juho'steam,mirage,Areena #6 by ROCCAT,15,15,8,7,7,8,Twista's team,11,20,0.62 
+2014,10,05,09:35,fAlsu'steam,Twista'steam,dust2,Areena #6 by ROCCAT,16,6,10,5,6,1,Twista's team,12,19,0.75 
+2014,10,04,16:40,Jynttä,Superstars,mirage,Areena #5 by ROCCAT,16,14,5,10,11,4,Superstars,20,22,0.87 
+2014,10,04,15:35,Superstars,myMDL,mirage,Areena #5 by ROCCAT,16,10,7,8,9,2,Superstars,25,19,1.45 
+2014,10,04,14:00,Menace,Superstars,mirage,Areena #5 by ROCCAT,15,15,10,5,5,10,Superstars,22,20,1.04 
+2014,10,04,12:00,ROTY,Superstars,dust2,Areena #5 by ROCCAT,16,3,13,2,3,1,Superstars,8,18,0.43 
+2014,10,04,10:55,GLSHAKER,Superstars,dust2,Areena #5 by ROCCAT,6,16,5,10,1,6,Superstars,33,9,2.32 
+2014,10,04,10:00,Hanatauki,Superstars,mirage,Areena #5 by ROCCAT,16,10,7,8,9,2,Superstars,13,19,0.73 
+2014,08,02,15:30,myRevenge,Recursive,cache,ASUS ROG Summer 2014,16,5,14,1,2,4,Recursive,7,18,0.45 
+2014,08,02,15:30,myRevenge,Recursive,mirage,ASUS ROG Summer 2014,16,14,9,6,7,8,Recursive,14,25,0.62 
+2014,08,02,12:30,Games4u,Recursive,inferno,ASUS ROG Summer 2014,11,16,6,9,5,7,Recursive,10,19,0.74 
+2014,08,02,12:30,Games4u,Recursive,dust2,ASUS ROG Summer 2014,14,16,7,8,7,8,Recursive,21,24,0.83 
+2014,08,01,22:20,PENTA,Recursive,inferno,ASUS ROG Summer 2014,20,22,8,7,7,8,Recursive,21,30,0.79 
+2014,08,01,21:20,Recursive,MARVEL,dust2,ASUS ROG Summer 2014,16,3,12,3,4,0,Recursive,16,10,1.24 
+2014,08,01,20:00,Nostalgie,Recursive,inferno,ASUS ROG Summer 2014,16,6,13,2,3,4,Recursive,12,17,0.71 
+2014,06,28,14:05,suNny'steam,Twista'steam,mirage,Areena #4 by SteelSeries,16,3,13,2,3,1,Twista's team,8,17,0.47 
+2014,06,28,12:40,Twista'steam,allu'steam,train,Areena #4 by SteelSeries,16,4,14,1,2,3,Twista's team,17,15,1.18 
+2014,06,28,11:45,Twista'steam,KIPSIk'steam,mirage,Areena #4 by SteelSeries,15,15,10,5,5,10,Twista's team,15,20,0.73 
+2014,06,28,11:15,Twista'steam,shaker'steam,train,Areena #4 by SteelSeries,16,2,13,2,3,0,Twista's team,15,9,1.33 
+2014,06,28,10:25,Twista'steam,duffman'steam,dust2,Areena #4 by SteelSeries,3,16,3,12,0,4,Twista's team,6,18,0.37 
+2014,06,28,09:50,Twista'steam,dRiim'steam,dust2,Areena #4 by SteelSeries,5,16,2,13,3,3,Twista's team,8,16,0.54 

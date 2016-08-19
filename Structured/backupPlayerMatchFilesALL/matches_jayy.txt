@@ -1,0 +1,23 @@
+2015,06,05,02:00,vVv,Luminosity,mirage,CEVO Professional Season 7,4,16,3,12,1,4,vVv,6,17,0.40 
+2015,06,05,02:00,Luminosity,vVv,overpass,CEVO Professional Season 7,16,7,8,7,8,0,vVv,15,18,0.86 
+2015,05,29,02:00,Method,vVv,inferno,CEVO Professional Season 7,16,12,10,5,6,7,vVv,17,21,0.79 
+2015,05,29,02:00,vVv,Method,cache,CEVO Professional Season 7,9,16,7,8,2,8,vVv,12,19,0.67 
+2015,05,26,04:00,pMd,Ubinited,inferno,FACEIT League 2015 Stage 2 NA ..,9,16,4,11,5,5,pMd,14,20,0.70 
+2015,05,26,04:00,pMd,Ubinited,overpass,FACEIT League 2015 Stage 2 NA ..,13,16,7,8,6,8,pMd,23,20,1.14 
+2015,05,25,04:15,Cloud9,vVv,inferno,CEVO Professional Season 7,16,4,13,2,3,2,vVv,13,18,0.83 
+2015,05,25,04:15,vVv,Cloud9,cache,CEVO Professional Season 7,2,16,2,13,0,3,vVv,12,17,0.83 
+2015,05,21,02:00,vVv,eLevate,dust2,CEVO Professional Season 7,3,16,3,12,0,4,vVv,4,16,0.34 
+2015,05,21,02:00,eLevate,vVv,cache,CEVO Professional Season 7,17,19,6,9,9,6,vVv,25,27,0.93 
+2015,05,08,04:15,vVv,ACE,inferno,CEVO Professional Season 7,14,16,10,5,4,11,vVv,24,22,1.06 
+2015,05,08,04:15,ACE,vVv,cache,CEVO Professional Season 7,14,16,7,8,7,8,vVv,20,20,1.04 
+2015,05,05,04:15,vVv,affNity,mirage,CEVO Professional Season 7,16,10,7,8,9,2,vVv,18,20,0.83 
+2015,05,05,04:15,affNity,vVv,cache,CEVO Professional Season 7,16,6,10,5,6,1,vVv,22,19,1.50 
+2015,05,04,04:15,LunatiK,vVv,inferno,CEVO Professional Season 7,16,12,6,9,10,3,vVv,18,19,0.94 
+2015,05,04,04:15,vVv,LunatiK,mirage,CEVO Professional Season 7,10,16,9,6,1,10,vVv,19,22,0.83 
+2015,04,29,02:00,SKDC,vVv,inferno,CEVO Professional Season 7,13,16,6,9,7,7,vVv,18,18,0.87 
+2015,04,29,02:00,vVv,SKDC,cache,CEVO Professional Season 7,16,7,9,6,7,1,vVv,13,15,0.81 
+2015,02,17,04:00,FenixFire,TheFlyingV,mirage,CS Select #2,7,16,6,9,1,7,The Flying V,23,12,1.50 
+2015,02,17,04:00,TheFlyingV,FenixFire,cache,CS Select #2,16,10,7,8,9,2,The Flying V,17,19,0.86 
+2014,08,27,04:15,savage,Armata,dust2,FACEIT League 2 NA Closed Qual..,16,9,7,8,9,1,Armata,11,20,0.62 
+2014,08,27,04:15,Armata,savage,inferno,FACEIT League 2 NA Closed Qual..,12,16,8,7,4,9,Armata,17,20,0.89 
+2014,08,26,03:00,Armata,SKDC,inferno,FACEIT League 2 NA Closed Qual..,16,9,14,1,2,8,Armata,22,18,1.27 

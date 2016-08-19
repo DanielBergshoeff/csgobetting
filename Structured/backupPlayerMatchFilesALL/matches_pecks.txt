@@ -1,0 +1,25 @@
+2016,07,27,12:00,Exile5,GUTS,dust2,CyberGamer Oceania eSports Mas..,16,12,10,5,6,7,Exile5,28,19,1.43 
+2016,07,27,12:00,Exile5,GUTS,train,CyberGamer Oceania eSports Mas..,16,12,12,3,4,9,Exile5,25,19,1.19 
+2016,07,24,01:00,Exile5,AthleticoBH,train,ESL Australia & NZ Championshi..,19,22,9,6,6,9,Exile5,26,30,0.90 
+2016,07,24,01:00,AthleticoBH,Exile5,mirage,ESL Australia & NZ Championshi..,16,13,8,7,8,6,Exile5,20,20,0.95 
+2016,07,23,10:30,Exile5,Chiefs,train,ESL Australia & NZ Championshi..,13,16,9,6,4,10,Exile5,18,21,0.80 
+2016,07,23,10:30,Chiefs,Exile5,cache,ESL Australia & NZ Championshi..,16,6,9,6,7,0,Exile5,22,15,1.41 
+2016,07,19,12:00,Chiefs,Exile5,train,CyberGamer Oceania eSports Mas..,16,7,11,4,5,3,Exile5,4,1,1.00 
+2016,07,18,12:00,Parallax,Exile5,dust2,CyberGamer Oceania eSports Mas..,16,19,7,8,8,7,Exile5,23,18,1.18 
+2016,07,18,12:00,Parallax,Exile5,mirage,CyberGamer Oceania eSports Mas..,14,16,10,5,4,11,Exile5,18,20,0.91 
+2016,07,18,12:00,Exile5,Parallax,cache,CyberGamer Oceania eSports Mas..,9,16,3,12,6,4,Exile5,20,19,1.03 
+2016,07,11,12:00,Exile5,Skyfire,dust2,CyberGamer Oceania eSports Mas..,9,16,4,11,5,5,Exile5,21,21,1.20 
+2016,07,11,12:00,Exile5,Skyfire,cobblestone,CyberGamer Oceania eSports Mas..,10,16,7,8,3,8,Exile5,22,18,1.18 
+2016,07,11,12:00,Skyfire,Exile5,cache,CyberGamer Oceania eSports Mas..,14,16,6,9,8,7,Exile5,14,25,0.60 
+2016,07,03,12:00,AthleticoBH,Exile5,overpass,CyberGamer Oceania eSports Mas..,16,4,12,3,4,1,Exile5,12,18,0.84 
+2016,07,03,12:00,Exile5,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,17,19,10,5,5,10,Exile5,20,26,0.82 
+2015,12,10,12:00,Legacy,Exile5,cobblestone,Counter Pit League Season 2,16,13,8,7,8,6,Exile5,23,23,1.09 
+2015,12,10,12:00,Legacy,Exile5,mirage,Counter Pit League Season 2,22,18,12,3,3,12,Exile5,28,29,0.97 
+2015,12,09,12:00,Exile5,VoxEminor,mirage,Counter Pit League Season 2,4,16,4,11,0,5,Exile5,12,16,0.78 
+2015,12,09,12:00,Exile5,VoxEminor,dust2,Counter Pit League Season 2,4,16,2,13,2,3,Exile5,11,19,0.70 
+2015,12,08,12:00,Chiefs,Exile5,train,Counter Pit League Season 2,16,8,13,2,3,6,Exile5,24,19,1.32 
+2015,12,08,12:00,Chiefs,Exile5,mirage,Counter Pit League Season 2,16,13,9,6,7,7,Exile5,18,22,0.76 
+2015,12,06,12:00,Exile5,TRIDENT,mirage,Counter Pit League Season 2,16,14,8,7,8,7,Exile5,28,19,1.45 
+2015,12,06,12:00,Exile5,TRIDENT,cobblestone,Counter Pit League Season 2,16,12,5,10,11,2,Exile5,26,17,1.26 
+2015,12,03,11:00,Immunity,Exile5,overpass,Counter Pit League Season 2,5,16,3,12,2,4,Exile5,19,13,1.20 
+2015,12,03,11:00,Exile5,Immunity,cobblestone,Counter Pit League Season 2,10,16,3,12,7,4,Exile5,23,19,1.20 

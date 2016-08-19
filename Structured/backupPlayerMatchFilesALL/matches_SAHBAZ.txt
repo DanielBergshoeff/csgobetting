@@ -1,0 +1,8 @@
+2016,08,15,19:10,HWA,Millennium,dust2,WESG 2016 Turkey,14,16,9,6,5,10,HWA,7,21,0.44 
+2016,08,15,19:10,HWA,Millennium,cobblestone,WESG 2016 Turkey,10,16,6,9,4,7,HWA,25,16,1.41 
+2016,08,14,22:15,SpaceSoldiers,HWA,cache,WESG 2016 Turkey,16,14,12,3,4,11,HWA,23,25,1.03 
+2016,08,14,22:15,SpaceSoldiers,HWA,cobblestone,WESG 2016 Turkey,16,11,4,11,12,0,HWA,22,21,1.10 
+2016,02,24,21:15,Pixel,Deathtrap,mirage,Balkan Challenge #1,12,16,4,11,8,5,Deathtrap,27,18,1.37 
+2016,02,24,21:15,Pixel,Deathtrap,inferno,Balkan Challenge #1,14,16,7,8,7,8,Deathtrap,17,20,0.80 
+2016,02,24,19:00,Deathtrap,iNation,train,Balkan Challenge #1,16,10,11,4,5,6,Deathtrap,22,16,1.18 
+2015,12,19,20:30,ANT-,PlayItCoolAll-Stars,dust2,Play It Cool CS:GO Community C..,19,17,5,10,10,5,ANT-,24,25,0.98 

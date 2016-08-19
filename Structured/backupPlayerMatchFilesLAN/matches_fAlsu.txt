@@ -1,0 +1,8 @@
+2014,10,05,17:35,fAlsu'steam,naSu'steam,cache,Areena #6 by ROCCAT,14,16,8,7,6,9,fAlsu's team,29,21,1.28 
+2014,10,05,16:45,juho'steam,fAlsu'steam,inferno,Areena #6 by ROCCAT,16,3,13,2,3,1,fAlsu's team,7,17,0.39 
+2014,10,05,14:30,fAlsu'steam,KIPSIk'steam,dust2,Areena #6 by ROCCAT,16,12,12,3,4,9,fAlsu's team,16,19,0.91 
+2014,10,05,13:20,fAlsu'steam,juho'steam,inferno,Areena #6 by ROCCAT,14,16,7,8,7,8,fAlsu's team,16,24,0.65 
+2014,10,05,12:20,fAlsu'steam,naSu'steam,dust2,Areena #6 by ROCCAT,16,13,8,7,8,6,fAlsu's team,20,20,0.99 
+2014,10,05,11:25,osku'steam,fAlsu'steam,dust2,Areena #6 by ROCCAT,11,16,7,8,4,8,fAlsu's team,27,15,1.33 
+2014,10,05,10:25,sAw'steam,fAlsu'steam,dust2,Areena #6 by ROCCAT,16,10,9,6,7,4,fAlsu's team,13,19,0.68 
+2014,10,05,09:35,fAlsu'steam,Twista'steam,dust2,Areena #6 by ROCCAT,16,6,10,5,6,1,fAlsu's team,20,9,1.48 

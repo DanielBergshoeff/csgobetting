@@ -1,0 +1,10 @@
+2016,06,24,11:30,SaudiArabia,Palestine,dust2,World Championships 2016 Asian..,12,16,7,8,5,8,Saudi Arabia,13,20,0.66 
+2016,06,24,11:30,Palestine,SaudiArabia,mirage,World Championships 2016 Asian..,16,6,11,4,5,2,Saudi Arabia,11,16,0.80 
+2015,12,19,21:00,RvN,VivaAlgeria,cobblestone,AFKG MENA Championship,4,16,4,11,0,5,RvN,12,18,0.67 
+2015,12,19,21:00,VivaAlgeria,RvN,dust2,AFKG MENA Championship,16,12,6,9,10,3,RvN,21,22,0.93 
+2015,12,19,21:00,VivaAlgeria,RvN,train,AFKG MENA Championship,16,12,9,6,7,6,RvN,18,18,1.01 
+2015,12,19,17:30,Whisper,RvN,cobblestone,AFKG MENA Championship,4,16,2,13,2,3,RvN,17,13,1.14 
+2015,12,19,17:30,RvN,Whisper,dust2,AFKG MENA Championship,16,10,10,5,6,5,RvN,19,15,1.07 
+2015,12,18,23:10,RvN,Hyper4mance,train,AFKG MENA Championship,16,6,11,4,5,2,RvN,15,16,0.90 
+2015,12,18,23:10,Hyper4mance,RvN,mirage,AFKG MENA Championship,16,13,7,8,9,5,RvN,24,21,1.18 
+2015,12,18,23:10,RvN,Hyper4mance,dust2,AFKG MENA Championship,21,17,8,7,7,8,RvN,32,24,1.19 

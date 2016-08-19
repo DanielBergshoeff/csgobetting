@@ -1,0 +1,13 @@
+2016,08,15,19:00,VivaAlgeria,FENNEC,mirage,WESG 2016 North & West Africa,16,7,11,4,5,3,FENNEC ,13,19,0.74 
+2016,08,15,19:00,VivaAlgeria,FENNEC,cobblestone,WESG 2016 North & West Africa,14,16,10,5,4,11,FENNEC ,23,19,1.17 
+2016,08,15,19:00,FENNEC,VivaAlgeria,overpass,WESG 2016 North & West Africa,5,16,4,11,1,5,FENNEC ,13,18,0.69 
+2016,08,15,00:15,FENNEC,Tunisia,cobblestone,WESG 2016 North & West Africa,16,9,8,7,8,2,FENNEC ,14,12,0.96 
+2016,08,15,00:15,Tunisia,FENNEC,dust2,WESG 2016 North & West Africa,14,16,5,10,9,6,FENNEC ,18,17,0.99 
+2016,08,03,21:25,Morocco,Algeria,cobblestone,World Championships 2016 Afric..,16,13,6,9,10,4,Algeria,22,19,1.12 
+2016,08,03,20:20,Algeria,Tunisia,mirage,World Championships 2016 Afric..,14,16,8,7,6,9,Algeria,17,20,0.80 
+2016,04,30,20:00,AIMERZZ,fRactals,dust2,Rising Stars Africa Promotiona..,22,19,7,8,8,7,AIMERZZ,33,26,1.15 
+2016,04,30,20:00,fRactals,AIMERZZ,cache,Rising Stars Africa Promotiona..,12,16,2,13,10,3,AIMERZZ,21,19,1.14 
+2016,04,29,22:10,aTw,AIMERZZ,mirage,Rising Stars Africa Promotiona..,4,16,3,12,1,4,AIMERZZ,11,11,0.88 
+2016,04,29,22:10,aTw,AIMERZZ,cobblestone,Rising Stars Africa Promotiona..,10,16,4,11,6,5,AIMERZZ,13,19,0.75 
+2016,04,28,18:10,SuperstarS,AIMERZZ,cache,Rising Stars Africa Promotiona..,9,16,5,10,4,6,AIMERZZ,20,15,1.18 
+2016,04,28,18:10,SuperstarS,AIMERZZ,mirage,Rising Stars Africa Promotiona..,10,16,9,6,1,10,AIMERZZ,26,16,1.51 

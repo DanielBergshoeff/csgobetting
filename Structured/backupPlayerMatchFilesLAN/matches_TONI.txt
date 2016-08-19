@@ -1,0 +1,25 @@
+2016,05,07,20:45,PENTA,ALTERNATEaTTaX,cobblestone,ESL Meisterschaft Spring 2016 ..,6,16,3,12,3,4,PENTA,9,20,0.47 
+2016,05,07,20:45,ALTERNATEaTTaX,PENTA,dust2,ESL Meisterschaft Spring 2016 ..,16,8,10,5,6,3,PENTA,17,16,1.13 
+2015,07,31,16:45,KILLERFISH,PENTA,mirage,Acer Predator Masters powered ..,5,16,5,10,0,6,KILLERFISH,16,18,0.97 
+2015,07,31,16:45,KILLERFISH,PENTA,inferno,Acer Predator Masters powered ..,14,16,9,6,5,10,KILLERFISH,14,21,0.65 
+2015,07,30,17:30,SK,KILLERFISH,mirage,Acer Predator Masters powered ..,16,5,12,3,4,2,KILLERFISH,9,19,0.52 
+2015,07,30,17:30,SK,KILLERFISH,train,Acer Predator Masters powered ..,16,13,7,8,9,5,KILLERFISH,19,21,1.03 
+2015,07,30,17:30,KILLERFISH,SK,cache,Acer Predator Masters powered ..,16,5,10,5,6,0,KILLERFISH,22,12,1.50 
+2015,07,25,20:30,FlipSid3,KILLERFISH,mirage,ESL One Cologne 2015 European ..,16,14,9,6,7,8,KILLERFISH,26,21,1.16 
+2015,07,25,18:15,OverGaming,KILLERFISH,mirage,ESL One Cologne 2015 European ..,8,16,8,7,0,9,KILLERFISH,14,17,0.82 
+2015,07,25,16:00,Kinguin,KILLERFISH,cache,ESL One Cologne 2015 European ..,16,8,9,6,7,2,KILLERFISH,15,18,0.90 
+2015,07,25,15:00,FlipSid3,KILLERFISH,mirage,ESL One Cologne 2015 European ..,14,16,5,10,9,6,KILLERFISH,22,22,0.95 
+2015,05,02,20:20,KILLERFISH,mousesports,inferno,ESL Frühlingsmeisterschaft 201..,3,16,1,14,2,2,KILLERFISH,9,17,0.66 
+2015,05,02,20:20,mousesports,KILLERFISH,mirage,ESL Frühlingsmeisterschaft 201..,14,16,7,8,7,8,KILLERFISH,19,20,0.98 
+2015,05,02,20:20,KILLERFISH,mousesports,dust2,ESL Frühlingsmeisterschaft 201..,14,16,7,8,7,8,KILLERFISH,26,21,1.34 
+2015,05,02,17:30,PlayingDucks,KILLERFISH,mirage,ESL Frühlingsmeisterschaft 201..,12,16,7,8,5,8,KILLERFISH,16,18,0.83 
+2015,05,02,17:30,KILLERFISH,PlayingDucks,overpass,ESL Frühlingsmeisterschaft 201..,16,10,8,7,8,3,KILLERFISH,22,13,1.27 
+2014,12,20,22:45,dotpiXels,myKPV,mirage,Acer A-Split Invitational powe..,16,6,12,3,4,3,dotpiXels,19,14,1.23 
+2014,12,20,19:35,myKPV,dotpiXels,cache,Acer A-Split Invitational powe..,21,18,9,6,6,9,dotpiXels,43,26,1.61 
+2014,12,20,19:35,myKPV,dotpiXels,overpass,Acer A-Split Invitational powe..,14,16,11,4,3,12,dotpiXels,25,22,1.11 
+2014,12,20,17:20,Virtus.pro,dotpiXels,cobblestone,Acer A-Split Invitational powe..,16,4,12,3,4,1,dotpiXels,12,18,0.70 
+2014,12,20,17:20,dotpiXels,Virtus.pro,cache,Acer A-Split Invitational powe..,5,16,5,10,0,6,dotpiXels,7,17,0.43 
+2014,12,20,15:15,PENTA,dotpiXels,cache,Acer A-Split Invitational powe..,16,11,12,3,4,8,dotpiXels,18,20,0.98 
+2014,12,20,15:15,dotpiXels,PENTA,dust2,Acer A-Split Invitational powe..,8,16,5,10,3,6,dotpiXels,15,19,0.84 
+2014,12,13,13:15,Planetkey,dotpiXels,inferno,ESL Pro Series Germany Winter ..,16,9,9,6,7,3,dotpiXels,19,19,1.00 
+2014,12,13,13:15,Planetkey,dotpiXels,dust2,ESL Pro Series Germany Winter ..,16,3,12,3,4,0,dotpiXels,7,19,0.34 

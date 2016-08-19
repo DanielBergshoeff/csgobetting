@@ -1,0 +1,74 @@
+2016,06,13,20:45,Orbit,GameAgents,overpass,Operation: Kinguin #3,16,9,8,7,8,2,GameAgents,15,18,0.82 
+2016,06,13,20:45,Orbit,GameAgents,mirage,Operation: Kinguin #3,16,12,7,8,9,4,GameAgents,13,21,0.70 
+2016,06,08,21:00,Millenium,GameAgents,inferno,xfunction Challenge,16,1,14,1,2,0,GameAgents,6,15,0.42 
+2016,06,08,21:00,GameAgents,Millenium,cache,xfunction Challenge,9,16,5,10,4,6,GameAgents,14,20,0.68 
+2016,06,08,21:00,GameAgents,Millenium,mirage,xfunction Challenge,19,17,7,8,8,7,GameAgents,16,27,0.69 
+2016,05,19,22:20,HeyGuys,SpaceSoldiers,mirage,Razer Rising Stars European Le..,11,16,9,6,2,10,HeyGuys,17,22,0.78 
+2016,05,19,22:20,HeyGuys,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,6,16,3,12,3,4,HeyGuys,14,17,0.98 
+2016,05,19,20:45,FTW.Prinfor,HeyGuys,inferno,xfunction Challenge,16,12,11,4,5,8,HeyGuys,18,24,0.72 
+2015,12,19,21:00,neXtPlease!,Revolte,cache,Rising Stars Balkan #2,28,26,5,10,10,5,Revolte,27,40,0.66 
+2015,12,19,20:00,XPC,Revolte,cache,Rising Stars Balkan #2,16,19,9,6,6,9,Revolte,19,25,0.75 
+2015,11,28,16:30,Revolte,E-frag.net,cobblestone,ESL South East Europe Champion..,16,13,10,5,6,8,Revolte,25,16,1.31 
+2015,11,28,16:30,Revolte,E-frag.net,inferno,ESL South East Europe Champion..,16,13,8,7,8,6,Revolte,16,19,0.88 
+2015,11,28,11:45,CSGO.one,Revolte,dust2,ESL South East Europe Champion..,10,16,4,11,6,5,Revolte,24,14,1.39 
+2015,11,28,10:00,E-frag.net,Revolte,cache,ESL South East Europe Champion..,6,16,2,13,4,3,Revolte,18,11,1.28 
+2015,10,12,22:00,FlipSid3,volgare,cache,GameAgents League Season 2,19,16,6,9,9,6,volgare,23,26,0.89 
+2015,10,12,22:00,FlipSid3,volgare,inferno,GameAgents League Season 2,16,4,13,2,3,2,volgare,10,17,0.57 
+2015,09,19,22:00,WorstPlayers,volgare,dust2,GameAgents League Season 2,16,13,6,9,10,4,volgare,15,19,0.81 
+2015,09,19,22:00,volgare,WorstPlayers,mirage,GameAgents League Season 2,10,16,2,13,8,3,volgare,16,21,0.80 
+2015,09,09,20:00,volgare,Property,mirage,GameAgents League Season 2,15,19,10,5,5,10,volgare,15,27,0.57 
+2015,09,09,20:00,Property,volgare,cobblestone,GameAgents League Season 2,16,7,9,6,7,1,volgare,12,19,0.63 
+2015,08,25,22:15,volgare,Reason,inferno,GameAgents League Season 2,14,16,8,7,6,9,volgare,15,22,0.75 
+2015,08,25,22:15,Reason,volgare,cobblestone,GameAgents League Season 2,19,17,8,7,7,8,volgare,16,22,0.72 
+2015,08,19,18:00,volgare,Dobry&Gaming,cache,GameAgents League Season 2,9,16,3,12,6,4,volgare,6,22,0.30 
+2015,08,19,18:00,volgare,Dobry&Gaming,mirage,GameAgents League Season 2,14,16,9,6,5,10,volgare,14,21,0.67 
+2015,06,04,19:00,TRICKED,Rock,inferno,Balkan Superleague,16,4,13,2,3,2,TRICKED,22,12,1.68 
+2015,06,04,19:00,Rock,TRICKED,cache,Balkan Superleague,12,16,8,7,4,9,TRICKED,17,21,0.79 
+2015,06,03,21:00,TRICKED,JakeBube,mirage,Balkan Championship Season 2,16,7,11,4,5,3,TRICKED,13,14,0.87 
+2015,06,03,21:00,JakeBube,TRICKED,cache,Balkan Championship Season 2,6,16,3,12,3,4,TRICKED,23,13,1.44 
+2015,05,24,22:35,Kinguin,TRICKED,cache,DreamHack Open Summer 2015 Qua..,16,10,11,4,5,6,TRICKED,17,18,1.02 
+2015,05,23,22:30,TRICKED,VingeN,cache,DreamHack Open Summer 2015 Qua..,10,16,6,9,4,7,TRICKED,16,22,0.82 
+2015,05,19,22:15,TRICKED,G2,dust2,GamePlan Pro League,17,19,3,12,12,3,TRICKED,26,24,1.00 
+2015,05,19,22:15,G2,TRICKED,mirage,GamePlan Pro League,16,6,10,5,6,1,TRICKED,18,17,1.05 
+2015,05,19,22:15,G2,TRICKED,cache,GamePlan Pro League,10,16,9,6,1,10,TRICKED,13,19,0.66 
+2015,05,18,20:30,TRICKED,HEADSHOTBG,inferno,Balkan Superleague,16,1,14,1,2,0,TRICKED,15,8,1.27 
+2015,05,18,20:30,HEADSHOTBG,TRICKED,cache,Balkan Superleague,14,16,11,4,3,12,TRICKED,14,23,0.64 
+2015,05,17,19:00,TRICKED,JakeBube,mirage,Balkan Championship Season 2,16,12,9,6,7,6,TRICKED,15,17,0.89 
+2015,05,17,19:00,JakeBube,TRICKED,inferno,Balkan Championship Season 2,6,16,6,9,0,7,TRICKED,12,14,0.88 
+2015,05,13,21:00,TRICKED,PiTER,overpass,GamePlan Pro League,16,9,8,7,8,2,TRICKED,19,18,1.05 
+2015,05,13,21:00,TRICKED,PiTER,mirage,GamePlan Pro League,11,16,9,6,2,10,TRICKED,15,21,0.82 
+2015,05,13,21:00,PiTER,TRICKED,inferno,GamePlan Pro League,8,16,6,9,2,7,TRICKED,16,16,0.97 
+2015,05,11,20:45,iNation,TRICKED,cache,GamePlan Pro League,7,16,6,9,1,7,TRICKED,17,17,0.96 
+2015,05,11,20:45,TRICKED,iNation,inferno,GamePlan Pro League,16,6,12,3,4,3,TRICKED,12,12,0.88 
+2015,05,11,20:45,TRICKED,iNation,mirage,GamePlan Pro League,13,16,10,5,3,11,TRICKED,23,19,1.16 
+2015,05,08,20:15,TRICKED,RB,mirage,Balkan Superleague,11,16,10,5,1,11,TRICKED,17,23,0.73 
+2015,05,08,19:15,TRICKED,neXtPlease!,inferno,Balkan Superleague,16,13,9,6,7,7,TRICKED,15,21,0.76 
+2015,04,27,19:00,TRICKED,GPlay,inferno,Balkan Superleague,12,16,9,6,3,10,TRICKED,18,21,0.91 
+2015,04,26,17:35,TRICKED,HEADSHOTBG,cache,ESL South East Europe Champion..,12,16,5,10,7,6,TRICKED,9,25,0.36 
+2015,04,26,17:35,TRICKED,HEADSHOTBG,cobblestone,ESL South East Europe Champion..,21,18,9,6,6,9,TRICKED,24,24,0.96 
+2015,04,26,17:35,HEADSHOTBG,TRICKED,inferno,ESL South East Europe Champion..,16,14,12,3,4,11,TRICKED,9,23,0.50 
+2015,04,20,18:00,TRICKED,WMTF,cobblestone,ESL South East Europe Champion..,8,16,3,12,5,4,TRICKED,11,18,0.64 
+2015,04,20,18:00,TRICKED,WMTF,inferno,ESL South East Europe Champion..,16,5,12,3,4,2,TRICKED,14,6,1.33 
+2015,04,20,18:00,TRICKED,WMTF,mirage,ESL South East Europe Champion..,10,16,7,8,3,8,TRICKED,17,22,0.83 
+2015,04,19,21:45,Wrecking,TRICKED,inferno,ESL South East Europe Champion..,9,16,8,7,1,9,TRICKED,13,16,0.77 
+2015,04,19,21:45,Wrecking,TRICKED,mirage,ESL South East Europe Champion..,10,16,6,9,4,7,TRICKED,30,14,1.70 
+2015,04,15,22:00,TRICKED,HEADSHOTBG,cache,Balkan Superleague,11,16,6,9,5,7,TRICKED,16,24,0.76 
+2015,04,15,21:15,TRICKED,GIANT5,inferno,Balkan Superleague,16,8,9,6,7,2,TRICKED,18,17,1.13 
+2015,04,15,20:00,Rock,TRICKED,inferno,Balkan Superleague,9,16,9,6,0,10,TRICKED,18,17,0.96 
+2015,03,07,18:00,volgare,Property,mirage,GameAgents League Season 1,28,25,8,7,7,8,volgare,31,36,0.81 
+2015,03,07,18:00,Property,volgare,cache,GameAgents League Season 1,16,12,8,7,8,5,volgare,14,21,0.73 
+2015,03,07,18:00,Property,volgare,inferno,GameAgents League Season 1,23,25,11,4,4,11,volgare,31,31,0.95 
+2014,12,13,18:25,volgare,aimface,inferno,South East Europe Championship,12,16,9,6,3,10,volgare,17,22,0.85 
+2014,12,13,18:25,volgare,aimface,mirage,South East Europe Championship,14,16,8,7,6,9,volgare,17,19,0.81 
+2014,10,19,00:50,FlipSid3,volgare,inferno,DreamHack Winter 2014 EU pre-q..,16,12,11,4,5,8,volgare,16,22,0.74 
+2014,10,15,21:15,Ukraine,Hungary,mirage,European Championship 2014,16,4,12,3,4,1,Hungary,9,18,0.49 
+2014,09,25,20:00,Hungary,Bosnia&Herzegovina,inferno,European Championship 2014,16,13,7,8,9,5,Hungary,17,22,0.81 
+2014,09,11,19:00,Hungary,Kazakhstan,nuke,European Championship 2014,7,16,7,8,0,8,Hungary,11,13,0.86 
+2014,09,04,21:00,Hungary,Netherlands,mirage,European Championship 2014,13,16,7,8,6,8,Hungary,20,20,1.03 
+2014,05,25,18:00,volgare,HEADSHOTBG,nuke,Gaming Challenge 2014,13,16,6,9,7,7,volgare,21,19,1.01 
+2014,05,25,18:00,HEADSHOTBG,volgare,inferno,Gaming Challenge 2014,16,4,11,4,5,0,volgare,10,17,0.63 
+2014,05,25,15:00,volgare,GamePub.ENTiTY,nuke,Gaming Challenge 2014,16,6,14,1,2,5,volgare,21,11,1.44 
+2014,05,25,15:00,volgare,GamePub.ENTiTY,mirage,Gaming Challenge 2014,19,17,9,6,6,9,volgare,11,22,0.59 
+2014,05,25,15:00,volgare,GamePub.ENTiTY,inferno,Gaming Challenge 2014,15,19,10,5,5,10,volgare,22,24,0.99 
+2014,05,25,10:00,volgare,E-Frag,inferno,Gaming Challenge 2014,16,6,13,2,3,4,volgare,17,9,1.23 
+2014,05,25,09:00,volgare,5starz,inferno,Gaming Challenge 2014,16,9,11,4,5,5,volgare,16,15,0.93 

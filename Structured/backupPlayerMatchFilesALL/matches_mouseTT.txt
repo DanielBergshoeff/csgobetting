@@ -1,0 +1,24 @@
+2016,04,20,17:00,DigitalWave,MustBeStronger,cache,StarLadder Regional Minor Cham..,16,11,8,7,8,4,Must Be Stronger,14,18,0.75 
+2016,04,20,17:00,DigitalWave,MustBeStronger,mirage,StarLadder Regional Minor Cham..,16,14,10,5,6,9,Must Be Stronger,15,21,0.80 
+2015,09,01,21:15,Phenomenon,hard'N'play,train,Rising Tornado #4,16,4,12,3,4,1,hard'N'play,12,18,0.64 
+2015,09,01,21:15,Phenomenon,hard'N'play,cache,Rising Tornado #4,16,2,13,2,3,0,hard'N'play,6,17,0.36 
+2015,08,28,20:00,hard'N'play,Enso,train,Rising Tornado #4,8,16,5,10,3,6,hard'N'play,23,20,1.30 
+2015,08,28,20:00,Enso,hard'N'play,overpass,Rising Tornado #4,16,6,13,2,3,4,hard'N'play,8,20,0.40 
+2015,05,14,21:30,7sway,USSR,cache,Uprise Champions Cup Season 2,14,16,6,9,8,7,USSR,17,23,0.73 
+2015,05,14,21:30,USSR,7sway,inferno,Uprise Champions Cup Season 2,16,10,9,6,7,4,USSR,24,16,1.36 
+2015,04,19,11:30,TEAMSWAGYOLO,ACES,cobblestone,CIS LAN Championship,13,16,5,10,8,6,TEAMSWAGYOLO,14,22,0.71 
+2015,04,19,11:30,ACES,TEAMSWAGYOLO,cache,CIS LAN Championship,16,5,11,4,5,1,TEAMSWAGYOLO,3,18,0.26 
+2015,04,19,11:30,TEAMSWAGYOLO,ACES,mirage,CIS LAN Championship,16,6,12,3,4,3,TEAMSWAGYOLO,10,10,0.96 
+2015,04,18,21:30,GGWP,TEAMSWAGYOLO,inferno,CIS LAN Championship,17,19,7,8,8,7,TEAMSWAGYOLO,26,22,1.03 
+2015,04,18,21:30,TEAMSWAGYOLO,GGWP,cache,CIS LAN Championship,16,9,10,5,6,4,TEAMSWAGYOLO,19,13,1.24 
+2015,04,18,21:30,TEAMSWAGYOLO,GGWP,mirage,CIS LAN Championship,20,22,10,5,5,10,TEAMSWAGYOLO,27,28,0.93 
+2015,04,18,14:00,TEAMSWAGYOLO,WEPLAY,cobblestone,CIS LAN Championship,16,9,10,5,6,4,TEAMSWAGYOLO,21,16,1.25 
+2015,04,18,14:00,WEPLAY,TEAMSWAGYOLO,mirage,CIS LAN Championship,10,16,6,9,4,7,TEAMSWAGYOLO,14,21,0.70 
+2015,04,17,18:00,TEAMSWAGYOLO,USSR,cobblestone,CIS LAN Championship,9,16,6,9,3,7,TEAMSWAGYOLO,16,19,0.80 
+2015,04,17,16:00,PiTER,TEAMSWAGYOLO,mirage,CIS LAN Championship,7,16,4,11,3,5,TEAMSWAGYOLO,8,15,0.65 
+2015,04,17,14:00,HellRaisers,TEAMSWAGYOLO,cache,CIS LAN Championship,16,3,13,2,3,1,TEAMSWAGYOLO,5,18,0.26 
+2014,10,28,21:23,dAT,es4x,inferno,CIS Rising League Season 1,16,7,12,3,4,4,dAT,21,9,1.64 
+2014,07,24,22:00,ACES,97club,nuke,CIS Rising League Season 1,9,16,7,8,2,8,ACES,18,18,1.04 
+2014,07,24,22:00,ACES,97club,mirage,CIS Rising League Season 1,14,16,8,7,6,9,ACES,15,18,0.82 
+2014,07,03,19:30,UNNAMED,ACES,mirage,CIS Rising League Season 1,9,16,5,10,4,6,ACES,19,15,1.17 
+2014,07,03,19:30,ACES,UNNAMED,inferno,CIS Rising League Season 1,16,1,14,1,2,0,ACES,13,6,1.44 

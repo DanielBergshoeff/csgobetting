@@ -1,0 +1,58 @@
+2015,12,06,00:00,3sUP,ACE,cobblestone,Northern Arena 2015,8,16,5,10,3,6,ACE,18,13,1.10 
+2015,12,05,22:00,CLG,ACE,mirage,Northern Arena 2015,16,11,9,6,7,5,ACE,14,20,0.69 
+2015,12,05,20:00,ACE,Nexus,inferno,Northern Arena 2015,7,16,3,12,4,4,ACE,18,18,1.03 
+2015,12,02,02:45,Nexus,AstralAuthority,cache,QuickShot Arena NA #1,14,16,10,5,4,11,Nexus,24,22,1.14 
+2015,12,01,04:15,Nexus,Gosu,dust2,QuickShot Arena NA #1,14,16,10,5,4,11,Nexus,29,24,1.24 
+2015,12,01,04:15,Nexus,Gosu,cache,QuickShot Arena NA #1,12,16,8,7,4,9,Nexus,19,21,0.96 
+2015,11,17,01:00,CLG,Nexus,mirage,RGN Pro Series Championship,16,7,8,7,8,0,Nexus,15,17,0.83 
+2015,11,16,23:15,Renegades,Nexus,inferno,RGN Pro Series Championship,16,8,12,3,4,5,Nexus,23,18,1.25 
+2015,11,16,21:45,Enemy,Nexus,cobblestone,RGN Pro Series Championship,16,2,13,2,3,0,Nexus,11,17,0.68 
+2015,08,19,04:30,MaximumEffort,SKDC,cache,CEVO Professional Season 8,16,10,11,4,5,6,SKDC,15,22,0.79 
+2015,08,19,04:30,SKDC,MaximumEffort,dust2,CEVO Professional Season 8,9,16,8,7,1,9,SKDC,12,18,0.65 
+2015,06,23,02:00,TempoStorm,Cloud9,mirage,ESL ESEA Pro League Season 1,11,16,5,10,6,6,Tempo Storm,23,21,1.04 
+2015,06,19,02:00,mouseSpaz,TempoStorm,inferno,ESL ESEA Pro League Season 1,9,16,6,9,3,7,Tempo Storm,18,13,1.11 
+2015,06,18,05:00,TempoStorm,Liquid,cache,ESL ESEA Pro League Season 1,14,16,7,8,7,8,Tempo Storm,8,24,0.41 
+2015,06,18,02:00,TempoStorm,CLG,cobblestone,ESL ESEA Pro League Season 1,16,11,8,7,8,4,Tempo Storm,23,14,1.32 
+2015,06,11,02:00,ACE,TempoStorm,overpass,ESL ESEA Pro League Season 1,9,16,3,12,6,4,Tempo Storm,16,14,0.99 
+2015,06,10,03:05,CLG,TempoStorm,inferno,CEVO Professional Season 7,14,16,12,3,2,13,Tempo Storm,20,21,1.01 
+2015,06,10,03:00,TempoStorm,eLevate,train,ESL ESEA Pro League Season 1,7,16,6,9,1,7,Tempo Storm,13,16,0.75 
+2015,06,08,04:15,TempoStorm,CLG,cache,CEVO Professional Season 7,16,7,13,2,3,5,Tempo Storm,18,12,1.27 
+2015,06,04,05:00,CLG,TempoStorm,overpass,ESL ESEA Pro League Season 1,16,13,9,6,7,7,Tempo Storm,23,23,0.97 
+2015,06,04,04:00,Method,TempoStorm,dust2,ESL ESEA Pro League Season 1,5,16,2,13,3,3,Tempo Storm,25,9,1.99 
+2015,06,03,05:00,Nihilum,TempoStorm,cobblestone,ESL ESEA Pro League Season 1,16,11,5,10,11,1,Tempo Storm,14,23,0.64 
+2015,06,03,02:00,TempoStorm,vVv,mirage,CEVO Professional Season 7,16,2,13,2,3,0,Tempo Storm,18,8,1.51 
+2015,06,03,02:00,vVv,TempoStorm,cache,CEVO Professional Season 7,8,16,8,7,0,9,Tempo Storm,18,14,1.18 
+2015,06,02,03:00,TempoStorm,Cloud9,inferno,ESL ESEA Pro League Season 1,16,13,13,2,3,11,Tempo Storm,15,22,0.77 
+2015,05,31,03:00,Luminosity,TempoStorm,train,ESL ESEA Pro League Season 1,16,6,12,3,4,3,Tempo Storm,12,21,0.52 
+2015,05,31,02:00,Luminosity,TempoStorm,cache,ESL ESEA Pro League Season 1,16,9,12,3,4,6,Tempo Storm,13,20,0.69 
+2015,05,28,04:15,TempoStorm,ACE,inferno,FACEIT League 2015 Stage 2 NA ..,8,16,8,7,0,9,Tempo Storm,18,18,1.07 
+2015,05,28,04:15,ACE,TempoStorm,cobblestone,FACEIT League 2015 Stage 2 NA ..,15,21,8,7,7,8,Tempo Storm,32,15,1.52 
+2015,05,28,03:00,TempoStorm,mouseSpaz,inferno,ESL ESEA Pro League Season 1,16,12,11,4,5,8,Tempo Storm,18,15,0.97 
+2015,05,27,04:15,TempoStorm,Luminosity,mirage,CEVO Professional Season 7,5,16,5,10,0,6,Tempo Storm,7,18,0.42 
+2015,05,27,04:15,Luminosity,TempoStorm,dust2,CEVO Professional Season 7,16,8,11,4,5,4,Tempo Storm,22,18,1.16 
+2015,05,26,04:00,SKDC,TempoStorm,dust2,FACEIT League 2015 Stage 2 NA ..,7,16,4,11,3,5,Tempo Storm,20,14,1.20 
+2015,05,26,04:00,TempoStorm,SKDC,mirage,FACEIT League 2015 Stage 2 NA ..,10,16,9,6,1,10,Tempo Storm,12,19,0.65 
+2015,05,26,04:00,SKDC,TempoStorm,cache,FACEIT League 2015 Stage 2 NA ..,4,16,4,11,0,5,Tempo Storm,19,4,1.88 
+2015,05,25,02:00,TempoStorm,Cloud9,train,CEVO Professional Season 7,7,16,4,11,3,5,Tempo Storm,18,16,1.03 
+2015,05,25,00:00,Method,TempoStorm,mirage,ESL ESEA Pro League Season 1,14,16,11,4,3,12,Tempo Storm,22,21,1.03 
+2015,05,22,04:15,Liquid,TempoStorm,cobblestone,CEVO Professional Season 7,8,16,4,11,4,5,Tempo Storm,15,15,0.92 
+2015,05,22,04:15,TempoStorm,Liquid,cache,CEVO Professional Season 7,16,9,8,7,8,2,Tempo Storm,25,15,1.49 
+2015,05,22,03:00,Nihilum,TempoStorm,cobblestone,ESL ESEA Pro League Season 1,16,12,12,3,4,9,Tempo Storm,16,22,0.76 
+2015,05,21,04:00,affNity,TempoStorm,mirage,ESL ESEA Pro League Season 1,16,9,9,6,7,3,Tempo Storm,15,20,0.76 
+2015,05,20,02:00,Method,TempoStorm,cobblestone,CEVO Professional Season 7,16,12,10,5,6,7,Tempo Storm,26,17,1.44 
+2015,05,20,02:00,TempoStorm,Method,mirage,CEVO Professional Season 7,16,14,9,6,7,8,Tempo Storm,19,20,0.94 
+2015,05,15,02:00,eLevate,TempoStorm,cache,CEVO Professional Season 7,8,16,7,8,1,8,Tempo Storm,22,11,1.47 
+2015,05,13,03:00,TempoStorm,KeydStars,overpass,ESL ESEA Pro League Season 1,8,16,5,10,3,6,Tempo Storm,12,21,0.62 
+2015,05,12,03:00,affNity,TempoStorm,train,ESL ESEA Pro League Season 1,4,16,4,11,0,5,Tempo Storm,16,9,1.35 
+2015,05,08,03:00,Liquid,TempoStorm,inferno,ESL ESEA Pro League Season 1,16,7,9,6,7,1,Tempo Storm,17,16,1.04 
+2015,05,07,03:00,TempoStorm,eLevate,cache,ESL ESEA Pro League Season 1,5,16,4,11,1,5,Tempo Storm,9,17,0.57 
+2015,05,06,02:00,ACE,TempoStorm,dust2,ESL ESEA Pro League Season 1,6,16,1,14,5,2,Tempo Storm,21,10,1.51 
+2015,04,30,04:30,affNity,TempoStorm,cache,CEVO Professional Season 7,16,19,6,9,9,6,Tempo Storm,36,21,1.48 
+2015,04,30,04:30,TempoStorm,affNity,cobblestone,CEVO Professional Season 7,16,8,8,7,8,1,Tempo Storm,20,12,1.49 
+2014,10,02,03:00,Mobility,savage,inferno,FACEIT League NA Season 2,16,13,7,8,9,5,savage,22,21,1.10 
+2014,09,25,05:30,Cloud9,savage,nuke,FACEIT League NA Season 2,16,3,12,3,4,0,savage,17,17,1.17 
+2014,09,18,04:00,LunatiK,savage,inferno,FACEIT League NA Season 2,16,6,10,5,6,1,savage,11,18,0.70 
+2014,09,11,05:40,iBUYPOWER,savage,cache,FACEIT League NA Season 2,16,10,7,8,9,2,savage,17,19,0.90 
+2014,09,04,03:00,savage,NetcodeGuides.com,cache,FACEIT League NA Season 2,10,16,6,9,4,7,savage,13,23,0.67 
+2014,08,27,04:15,savage,Armata,dust2,FACEIT League 2 NA Closed Qual..,16,9,7,8,9,1,savage,23,12,1.52 
+2014,08,27,04:15,Armata,savage,inferno,FACEIT League 2 NA Closed Qual..,12,16,8,7,4,9,savage,29,20,1.37 

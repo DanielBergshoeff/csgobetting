@@ -1,0 +1,10 @@
+2016,08,15,04:30,EchoFox,Pnda,nuke,ESEA Premier Season 22 North A..,16,4,12,3,4,1,Pnda,18,17,1.19 
+2016,08,15,04:30,Pnda,EchoFox,inferno,ESEA Premier Season 22 North A..,19,17,6,9,9,6,Pnda,21,23,0.86 
+2016,08,15,04:30,EchoFox,Pnda,cobblestone,ESEA Premier Season 22 North A..,16,3,12,3,4,0,Pnda,12,16,0.81 
+2016,08,11,03:00,Tectonic,Rush,mirage,SL i-League S2 Americas Qualif..,16,7,11,4,5,3,Rush,13,18,0.80 
+2016,08,11,03:00,Tectonic,Rush,train,SL i-League S2 Americas Qualif..,16,5,14,1,2,4,Rush,14,17,0.85 
+2016,08,10,02:15,SteamAnalyst,Rush,mirage,ESEA Premier Season 22 North A..,15,19,6,9,9,6,Rush,29,24,1.29 
+2016,08,10,02:15,SteamAnalyst,Rush,cobblestone,ESEA Premier Season 22 North A..,7,16,1,14,6,2,Rush,25,11,1.84 
+2016,08,08,04:40,Rush,Blight,mirage,ESEA Premier Season 22 North A..,16,13,10,5,6,8,Rush,19,15,1.04 
+2016,08,08,04:40,Blight,Rush,dust2,ESEA Premier Season 22 North A..,15,19,7,8,8,7,Rush,15,23,0.65 
+2016,03,23,04:20,Braindead,h00liGaNz,train,Razer Rising Stars NA League Q..,16,12,8,7,8,5,h00liGaNz,15,20,0.74 

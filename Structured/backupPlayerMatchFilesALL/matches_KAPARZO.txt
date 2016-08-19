@@ -1,0 +1,69 @@
+2016,08,13,19:00,CzechRepublic,Cyprus,overpass,World Championships 2016 Europ..,16,1,14,1,2,0,Czech Republic,13,10,1.32 
+2016,08,13,19:00,CzechRepublic,Cyprus,cache,World Championships 2016 Europ..,16,2,13,2,3,0,Czech Republic,18,7,1.56 
+2016,07,29,17:00,eSuba,DenDD,cache,Razer Rising Stars European Le..,10,16,3,12,7,4,eSuba,16,19,0.78 
+2016,07,29,17:00,DenDD,eSuba,mirage,Razer Rising Stars European Le..,19,17,10,5,5,10,eSuba,31,26,1.11 
+2016,07,20,21:00,Iwku,eSuba,cache,Razer Rising Stars European Le..,12,16,7,8,5,8,eSuba,22,22,0.98 
+2016,07,20,21:00,eSuba,Iwku,mirage,Razer Rising Stars European Le..,10,16,10,5,0,11,eSuba,13,22,0.65 
+2016,07,20,18:30,eSuba,ALTERNATEaTTaX,dust2,Razer Rising Stars European Le..,6,16,6,9,0,7,eSuba,11,21,0.48 
+2016,07,20,18:30,ALTERNATEaTTaX,eSuba,cache,Razer Rising Stars European Le..,16,6,10,5,6,1,eSuba,17,18,1.00 
+2016,05,28,18:00,PRIDE,TOASTBROT,cobblestone,DreamHack ZOWIE Open Summer 20..,16,10,10,5,6,5,TOASTBROT,15,21,0.82 
+2016,05,21,18:00,eSuba,GUNRUNNERS,cache,PLAYzone League I LAN Finals,16,5,11,4,5,1,GUNRUNNERS,15,19,0.84 
+2016,05,21,18:00,eSuba,GUNRUNNERS,mirage,PLAYzone League I LAN Finals,16,9,13,2,3,7,GUNRUNNERS,20,19,1.10 
+2016,05,21,18:00,GUNRUNNERS,eSuba,dust2,PLAYzone League I LAN Finals,16,12,9,6,7,6,GUNRUNNERS,15,19,0.83 
+2016,05,21,13:50,MajesticLions,GUNRUNNERS,overpass,PLAYzone League I LAN Finals,16,12,9,6,7,6,GUNRUNNERS,19,24,0.81 
+2016,05,21,13:50,MajesticLions,GUNRUNNERS,cache,PLAYzone League I LAN Finals,16,10,9,6,7,4,GUNRUNNERS,25,18,1.23 
+2016,05,01,14:45,eSuba,GUNRUNNERS,mirage,TIGER MASTERS Mid-season Final..,12,16,9,6,3,10,GUNRUNNERS,31,12,1.99 
+2016,05,01,14:45,GUNRUNNERS,eSuba,cache,TIGER MASTERS Mid-season Final..,16,14,5,10,11,4,GUNRUNNERS,10,18,0.62 
+2016,03,24,19:00,WinOut,eXtatus,cache,Copenhagen Games 2016 BYOC Qua..,16,6,9,6,7,0,eXtatus,16,16,1.01 
+2016,03,24,19:00,WinOut,eXtatus,dust2,Copenhagen Games 2016 BYOC Qua..,16,12,11,4,5,8,eXtatus,22,17,1.20 
+2016,03,24,17:00,eXtatus,Inside,inferno,Copenhagen Games 2016 BYOC Qua..,16,1,15,0,1,1,eXtatus,28,6,2.72 
+2016,03,24,15:30,SpaceSoldiers,eXtatus,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,15,0,1,3,eXtatus,7,16,0.50 
+2016,03,24,13:00,eXtatus,Inside,dust2,Copenhagen Games 2016 BYOC Qua..,16,3,15,0,1,3,eXtatus,22,8,1.87 
+2016,03,22,19:00,eXtatus,Enso,dust2,Game Show Spring Invitational ..,16,19,6,9,9,6,eXtatus,23,22,1.02 
+2016,03,22,19:00,eXtatus,Enso,cache,Game Show Spring Invitational ..,12,16,6,9,6,7,eXtatus,13,23,0.60 
+2016,03,21,19:00,eXtatus,RCTIC,mirage,Game Show Spring Invitational ..,5,16,4,11,1,5,eXtatus,9,17,0.57 
+2016,03,21,19:00,eXtatus,RCTIC,dust2,Game Show Spring Invitational ..,13,16,5,10,8,6,eXtatus,27,13,1.51 
+2016,02,23,19:00,Method,nEophyte,mirage,Game Show Spring Invitational ..,20,22,6,9,9,6,nEophyte,36,26,1.32 
+2016,02,23,19:00,nEophyte,Method,cobblestone,Game Show Spring Invitational ..,16,7,9,6,7,1,nEophyte,25,10,1.87 
+2016,02,07,10:00,nEophyte,ezkatka,cache,Płońsk eSports Chall..,16,12,7,8,9,4,nEophyte,22,17,1.20 
+2016,02,07,10:00,nEophyte,ezkatka,dust2,Płońsk eSports Chall..,16,3,13,2,3,1,nEophyte,16,8,1.27 
+2015,12,15,21:15,eSuba,melty,cache,D!ngIT $2000 Weekly Cup #30,14,16,7,8,7,8,eSuba,22,18,1.07 
+2015,12,14,20:00,melty,eSuba,dust2,D!ngIT $2000 Weekly Cup #30,16,13,7,8,9,5,eSuba,21,22,1.10 
+2015,12,14,20:00,eSuba,melty,inferno,D!ngIT $2000 Weekly Cup #30,4,16,4,11,0,5,eSuba,12,16,0.84 
+2015,12,10,22:00,eSuba,YP,dust2,QuickShot Arena #18,6,16,1,14,5,2,eSuba,19,16,1.10 
+2015,12,10,20:45,eSuba,FlipSid3,inferno,QuickShot Arena #18,12,16,8,7,4,9,eSuba,15,20,0.78 
+2015,12,10,17:00,YP,eSuba,mirage,QuickShot Arena #18,14,16,9,6,5,10,eSuba,31,19,1.49 
+2015,12,04,17:00,SpaceSoldiers,eSuba,dust2,QuickShot Arena #17,16,4,12,3,4,1,eSuba,11,19,0.70 
+2015,12,04,17:00,SpaceSoldiers,eSuba,train,QuickShot Arena #17,16,4,14,1,2,3,eSuba,10,17,0.60 
+2015,12,04,17:00,eSuba,SpaceSoldiers,mirage,QuickShot Arena #17,19,17,7,8,8,7,eSuba,26,25,1.00 
+2015,12,02,22:00,GameplayDNA,eSuba,inferno,QuickShot Arena #17,8,16,4,11,4,5,eSuba,22,17,1.25 
+2015,12,02,20:45,eSuba,NoProblem!,cache,QuickShot Arena #17,9,16,4,11,5,5,eSuba,11,20,0.60 
+2015,12,02,17:00,GameplayDNA,eSuba,mirage,QuickShot Arena #17,2,16,2,13,0,3,eSuba,18,7,1.69 
+2015,11,20,22:00,LowLandLions,eSuba,inferno,QuickShot Arena #15,16,6,11,4,5,2,eSuba,19,18,1.16 
+2015,11,20,19:30,eSuba,Refuse,mirage,QuickShot Arena #15,16,5,13,2,3,3,eSuba,15,11,1.23 
+2015,11,20,18:15,LowLandLions,eSuba,mirage,QuickShot Arena #15,16,12,9,6,7,6,eSuba,21,18,1.08 
+2015,11,10,21:30,Enso,eSuba,mirage,D!ngIT $2000 Weekly Cup #25,14,16,8,7,6,9,eSuba,23,24,0.96 
+2015,11,10,21:30,Enso,eSuba,dust2,D!ngIT $2000 Weekly Cup #25,10,16,3,12,7,4,eSuba,18,17,1.02 
+2015,11,10,20:10,eSuba,neXtPlease!,cache,D!ngIT $2000 Weekly Cup #25,16,14,7,8,9,6,eSuba,18,20,0.89 
+2015,11,09,22:30,nerdRage,eSuba,mirage,D!ngIT $2000 Weekly Cup #25,12,16,9,6,3,10,eSuba,16,19,0.86 
+2015,11,09,17:30,neXtPlease!,eSuba,dust2,D!ngIT $2000 Weekly Cup #25,16,7,9,6,7,1,eSuba,13,19,0.69 
+2015,11,09,17:30,eSuba,neXtPlease!,cache,D!ngIT $2000 Weekly Cup #25,11,16,5,10,6,6,eSuba,14,19,0.85 
+2015,11,09,17:30,neXtPlease!,eSuba,inferno,D!ngIT $2000 Weekly Cup #25,10,16,7,8,3,8,eSuba,19,17,0.98 
+2015,11,07,15:30,nEophyte,eSuba,inferno,MČR 2015,16,9,8,7,8,2,eSuba,16,19,0.89 
+2015,11,07,15:30,eSuba,nEophyte,cache,MČR 2015,11,16,10,5,1,11,eSuba,16,22,0.80 
+2015,11,07,15:30,eSuba,nEophyte,mirage,MČR 2015,16,4,11,4,5,0,eSuba,18,10,1.42 
+2015,08,29,16:30,Iceland,CzechRepublic,mirage,World Championships 2015 Europ..,16,13,10,5,6,8,Czech Republic,15,17,0.89 
+2015,08,29,16:30,CzechRepublic,Iceland,dust2,World Championships 2015 Europ..,12,16,6,9,6,7,Czech Republic,17,20,0.84 
+2015,08,29,16:30,Iceland,CzechRepublic,inferno,World Championships 2015 Europ..,1,16,1,14,0,2,Czech Republic,11,8,1.04 
+2015,08,07,17:00,nerdRage,EYESONU,mirage,Multifrags Invitational 2015,16,10,12,3,4,7,EYES ON U,16,18,0.90 
+2015,08,07,17:00,nerdRage,EYESONU,dust2,Multifrags Invitational 2015,16,8,7,8,9,0,EYES ON U,12,20,0.63 
+2015,08,07,17:00,nerdRage,EYESONU,cobblestone,Multifrags Invitational 2015,5,16,4,11,1,5,EYES ON U,17,10,1.24 
+2014,10,16,22:00,Bosnia&Herzegovina,CzechRepublic,mirage,European Championship 2014,16,11,11,4,5,7,Czech Republic,23,22,1.21 
+2014,10,04,10:00,CyborgFactory,Fraternitas,mirage,MČR 2014,5,16,4,11,1,5,Fraternitas,11,14,0.76 
+2014,10,04,10:00,Fraternitas,CyborgFactory,dust2,MČR 2014,16,2,13,2,3,0,Fraternitas,17,9,1.45 
+2014,10,04,10:00,Fraternitas,CyborgFactory,season,MČR 2014,16,8,9,6,7,2,Fraternitas,16,14,1.04 
+2014,09,28,17:10,Netherlands,CzechRepublic,dust2,European Championship 2014,16,8,11,4,5,4,Czech Republic,16,19,0.99 
+2014,09,23,22:00,CzechRepublic,Kazakhstan,dust2,European Championship 2014,10,16,4,11,6,5,Czech Republic,18,20,0.90 
+2014,09,04,21:00,CzechRepublic,Ukraine,mirage,European Championship 2014,7,16,4,11,3,5,Czech Republic,15,16,0.97 
+2014,08,26,19:00,Romania,CzechRepublic,inferno,European Championship 2014 Qua..,14,16,8,7,6,9,Czech Republic,15,18,0.84 
+2014,08,26,19:00,CzechRepublic,Romania,dust2,European Championship 2014 Qua..,16,9,8,7,8,2,Czech Republic,18,14,1.10 

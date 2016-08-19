@@ -1,0 +1,7 @@
+2015,06,25,18:30,PiTER,Orbit,cobblestone,D!ngIT $2000 Weekly Cup #6,16,14,5,10,11,4,Orbit,13,20,0.67 
+2015,06,25,18:30,PiTER,Orbit,cache,D!ngIT $2000 Weekly Cup #6,21,18,9,6,6,9,Orbit,27,27,1.01 
+2015,06,25,18:30,PiTER,Orbit,inferno,D!ngIT $2000 Weekly Cup #6,9,16,5,10,4,6,Orbit,17,15,1.07 
+2015,05,21,21:00,Orbit,PiTER,cobblestone,CEVO Main Season 7,11,16,8,7,3,9,Orbit,17,19,0.85 
+2015,05,12,21:30,ESC,Orbit,mirage,99Damage Arena #7,16,12,9,6,7,6,Orbit,11,22,0.52 
+2015,05,12,21:30,ESC,Orbit,dust2,99Damage Arena #7,16,12,9,6,7,6,Orbit,17,18,1.01 
+2015,05,12,18:15,Orbit,PiTER,inferno,99Damage Arena #7,16,14,9,6,7,8,Orbit,17,23,0.74 

@@ -1,0 +1,4 @@
+2015,05,07,22:15,LANDODGERS,MoscowFive,mirage,Uprise Champions Cup Season 2,16,14,14,1,2,13,Moscow Five,27,17,1.36 
+2015,05,07,22:15,LANDODGERS,MoscowFive,overpass,Uprise Champions Cup Season 2,9,16,6,9,3,7,Moscow Five,24,14,1.39 
+2015,05,07,22:15,LANDODGERS,MoscowFive,dust2,Uprise Champions Cup Season 2,16,13,8,7,8,6,Moscow Five,26,18,1.26 
+2015,04,25,21:00,PiTER,MoscowFive,mirage,Uprise Champions Cup Season 2,16,11,9,6,7,5,Moscow Five,19,22,0.87 

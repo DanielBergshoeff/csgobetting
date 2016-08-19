@@ -1,0 +1,13 @@
+2016,08,05,04:30,RONIN,EchoFox,dust2,ESEA Premier Season 22 North A..,7,16,1,14,6,2,RONIN,12,18,0.69 
+2016,08,05,04:30,RONIN,EchoFox,overpass,ESEA Premier Season 22 North A..,10,16,7,8,3,8,RONIN,18,20,0.92 
+2015,09,05,04:00,ACE,Excellence,mirage,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,Excellence,7,16,0.64 
+2015,09,05,03:15,Excellence,BitterSweetGG,overpass,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,Excellence,13,10,1.16 
+2015,09,05,02:00,ACE,Excellence,cobblestone,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,Excellence,9,17,0.51 
+2015,08,26,02:00,mouseSpaz,WOOSAH,cache,CS Select #26,22,20,9,6,6,9,WOOSAH,25,28,0.95 
+2015,08,26,02:00,mouseSpaz,WOOSAH,cobblestone,CS Select #26,8,16,7,8,1,8,WOOSAH,15,20,0.80 
+2015,08,26,02:00,WOOSAH,mouseSpaz,inferno,CS Select #26,13,16,11,4,2,12,WOOSAH,13,22,0.67 
+2015,08,26,02:00,mouseSpaz,WOOSAH,overpass,CS Select #26,16,13,8,7,8,6,WOOSAH,16,21,0.81 
+2015,08,26,02:00,WOOSAH,mouseSpaz,mirage,CS Select #26,16,12,4,11,12,1,WOOSAH,23,21,1.18 
+2015,08,11,02:30,LunatiK,WOOSAH,inferno,CS Select #22,16,12,8,7,8,5,WOOSAH,16,18,0.85 
+2015,08,11,02:30,LunatiK,WOOSAH,dust2,CS Select #22,16,14,5,10,11,4,WOOSAH,15,23,0.67 
+2015,08,11,02:30,LunatiK,WOOSAH,overpass,CS Select #22,16,10,10,5,6,5,WOOSAH,15,22,0.72 

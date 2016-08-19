@@ -1,0 +1,65 @@
+2016,06,05,16:25,Virtus.pro,NatusVincere,train,Adrenaline Open Cyber Cup,16,4,14,1,2,3,Natus Vincere,9,19,0.50 
+2016,06,05,16:25,NatusVincere,Virtus.pro,mirage,Adrenaline Open Cyber Cup,18,22,11,4,4,11,Natus Vincere,20,30,0.74 
+2016,04,13,18:30,NatusVincere,CLG,dust2,DreamHack Masters Malmö 2016,19,15,7,8,8,7,Natus Vincere,22,22,1.02 
+2016,04,12,14:00,NatusVincere,GODSENT,train,DreamHack Masters Malmö 2016,16,11,13,2,3,9,Natus Vincere,24,12,1.52 
+2015,03,13,13:00,EnVyUs,NatusVincere,cobblestone,ESL One Katowice 2015,16,3,13,2,3,1,Natus Vincere,7,17,0.42 
+2015,03,13,13:00,EnVyUs,NatusVincere,dust2,ESL One Katowice 2015,14,16,8,7,6,9,Natus Vincere,16,20,0.76 
+2015,03,13,13:00,NatusVincere,EnVyUs,cache,ESL One Katowice 2015,12,16,10,5,2,11,Natus Vincere,11,22,0.57 
+2015,03,12,18:00,NatusVincere,VoxEminor,inferno,ESL One Katowice 2015,16,3,14,1,2,2,Natus Vincere,12,6,1.21 
+2015,03,12,16:25,NatusVincere,fnatic,cobblestone,ESL One Katowice 2015,7,16,2,13,5,3,Natus Vincere,8,17,0.53 
+2015,03,12,14:50,NatusVincere,FlipSid3,mirage,ESL One Katowice 2015,16,2,14,1,2,1,Natus Vincere,15,12,1.13 
+2014,11,29,17:30,LDLC,NatusVincere,dust2,DreamHack Winter 2014,16,11,13,2,3,9,Natus Vincere,7,18,0.51 
+2014,11,29,17:30,NatusVincere,LDLC,inferno,DreamHack Winter 2014,11,16,9,6,2,10,Natus Vincere,20,17,1.14 
+2014,11,28,21:15,dignitas,NatusVincere,mirage,DreamHack Winter 2014,13,16,12,3,1,13,Natus Vincere,14,19,0.76 
+2014,11,28,21:15,NatusVincere,dignitas,cobblestone,DreamHack Winter 2014,16,3,12,3,4,0,Natus Vincere,12,11,0.96 
+2014,11,27,23:45,NatusVincere,FlipSid3,overpass,DreamHack Winter 2014,19,15,8,7,7,8,Natus Vincere,23,22,0.99 
+2014,11,27,20:45,Virtus.pro,NatusVincere,nuke,DreamHack Winter 2014,16,2,14,1,2,1,Natus Vincere,11,16,0.76 
+2014,11,27,19:45,NatusVincere,FlipSid3,mirage,DreamHack Winter 2014,16,8,13,2,3,6,Natus Vincere,18,15,1.20 
+2014,11,02,10:45,Virtus.pro,NatusVincere,inferno,ESWC 2014,16,3,12,3,4,0,Natus Vincere,8,18,0.49 
+2014,11,02,10:45,Virtus.pro,NatusVincere,nuke,ESWC 2014,11,16,11,4,0,12,Natus Vincere,14,16,0.94 
+2014,11,02,10:45,NatusVincere,Virtus.pro,mirage,ESWC 2014,12,16,5,10,7,6,Natus Vincere,12,21,0.62 
+2014,11,01,16:00,NatusVincere,LDLC,overpass,ESWC 2014,14,16,6,9,8,7,Natus Vincere,26,18,1.32 
+2014,11,01,16:00,LDLC,NatusVincere,inferno,ESWC 2014,16,10,11,4,5,6,Natus Vincere,18,22,0.84 
+2014,11,01,09:30,iBUYPOWER,NatusVincere,nuke,ESWC 2014,13,16,12,3,1,13,Natus Vincere,30,18,1.53 
+2014,11,01,09:30,NatusVincere,iBUYPOWER,overpass,ESWC 2014,16,13,14,1,2,12,Natus Vincere,21,17,1.24 
+2014,10,30,17:15,NatusVincere,fnatic,mirage,ESWC 2014,16,5,10,5,6,0,Natus Vincere,13,10,1.06 
+2014,10,30,15:13,NatusVincere,LondonC,dust2,ESWC 2014,16,14,10,5,6,9,Natus Vincere,23,23,1.00 
+2014,10,30,15:00,NatusVincere,eNergy,nuke,ESWC 2014,16,10,14,1,2,9,Natus Vincere,19,16,1.33 
+2014,10,30,12:55,pow,NatusVincere,inferno,ESWC 2014,7,16,4,11,3,5,Natus Vincere,20,14,1.37 
+2014,10,30,10:00,NatusVincere,k1ck,inferno,ESWC 2014,16,5,11,4,5,1,Natus Vincere,12,11,0.98 
+2014,10,19,19:00,NatusVincere,LDLC,mirage,SLTV StarSeries XI Finals,6,16,5,10,1,6,Natus Vincere,10,19,0.60 
+2014,10,19,19:00,LDLC,NatusVincere,overpass,SLTV StarSeries XI Finals,12,16,7,8,5,8,Natus Vincere,22,19,1.17 
+2014,10,19,19:00,LDLC,NatusVincere,dust2,SLTV StarSeries XI Finals,17,19,10,5,5,10,Natus Vincere,24,26,0.91 
+2014,10,19,19:00,NatusVincere,LDLC,inferno,SLTV StarSeries XI Finals,9,16,8,7,1,9,Natus Vincere,10,16,0.67 
+2014,10,19,15:40,NatusVincere,Titan,mirage,SLTV StarSeries XI Finals,16,11,10,5,6,6,Natus Vincere,21,21,0.98 
+2014,10,19,15:40,Titan,NatusVincere,dust2,SLTV StarSeries XI Finals,10,16,9,6,1,10,Natus Vincere,19,17,0.98 
+2014,10,19,12:00,Epsilon,NatusVincere,overpass,SLTV StarSeries XI Finals,12,16,11,4,1,12,Natus Vincere,18,20,0.94 
+2014,10,19,12:00,Epsilon,NatusVincere,inferno,SLTV StarSeries XI Finals,10,16,3,12,7,4,Natus Vincere,23,14,1.34 
+2014,10,18,16:25,LDLC,NatusVincere,inferno,SLTV StarSeries XI Finals,16,7,14,1,2,6,Natus Vincere,11,21,0.50 
+2014,10,18,16:25,LDLC,NatusVincere,overpass,SLTV StarSeries XI Finals,16,8,11,4,5,4,Natus Vincere,16,17,0.94 
+2014,10,05,14:15,NatusVincere,HellRaisers,overpass,Game Show CS:GO League LAN Fin..,16,13,9,6,7,7,Natus Vincere,21,19,1.02 
+2014,10,05,14:15,HellRaisers,NatusVincere,dust2,Game Show CS:GO League LAN Fin..,16,6,11,4,5,2,Natus Vincere,4,17,0.34 
+2014,10,05,14:15,HellRaisers,NatusVincere,cache,Game Show CS:GO League LAN Fin..,16,6,11,4,5,2,Natus Vincere,13,16,0.80 
+2014,10,05,14:15,NatusVincere,HellRaisers,mirage,Game Show CS:GO League LAN Fin..,16,1,14,1,2,0,Natus Vincere,11,6,1.21 
+2014,10,04,12:00,NatusVincere,HellRaisers,inferno,Game Show CS:GO League LAN Fin..,16,12,9,6,7,6,Natus Vincere,12,17,0.72 
+2014,10,04,12:00,HellRaisers,NatusVincere,mirage,Game Show CS:GO League LAN Fin..,14,16,9,6,5,10,Natus Vincere,17,19,0.85 
+2014,10,03,12:27,Virtus.pro,NatusVincere,inferno,Game Show CS:GO League LAN Fin..,7,16,4,11,3,5,Natus Vincere,12,9,1.06 
+2014,10,03,12:27,Virtus.pro,NatusVincere,season,Game Show CS:GO League LAN Fin..,14,16,9,6,5,10,Natus Vincere,12,23,0.60 
+2014,10,03,12:00,Virtus.pro,NatusVincere,mirage,Game Show CS:GO League LAN Fin..,19,16,12,3,3,12,Natus Vincere,22,28,0.82 
+2014,08,31,23:01,fnatic,NatusVincere,dust2,SLTV StarSeries X Finals,16,14,8,7,8,7,Natus Vincere,15,19,0.85 
+2014,08,31,18:00,NatusVincere,fnatic,train,SLTV StarSeries X Finals,16,11,13,2,3,9,Natus Vincere,16,17,0.90 
+2014,08,31,18:00,NatusVincere,fnatic,inferno,SLTV StarSeries X Finals,3,16,2,13,1,3,Natus Vincere,5,17,0.31 
+2014,08,31,18:00,NatusVincere,fnatic,mirage,SLTV StarSeries X Finals,19,17,13,2,2,13,Natus Vincere,17,24,0.71 
+2014,08,31,14:30,NatusVincere,HellRaisers,mirage,SLTV StarSeries X Finals,16,8,10,5,6,3,Natus Vincere,12,13,0.89 
+2014,08,31,14:30,HellRaisers,NatusVincere,inferno,SLTV StarSeries X Finals,11,16,10,5,1,11,Natus Vincere,17,17,1.13 
+2014,08,31,14:30,NatusVincere,HellRaisers,dust2,SLTV StarSeries X Finals,5,16,4,11,1,5,Natus Vincere,11,14,0.76 
+2014,08,30,18:00,NatusVincere,fnatic,inferno,SLTV StarSeries X Finals,6,16,6,9,0,7,Natus Vincere,14,16,0.89 
+2014,08,30,18:00,NatusVincere,fnatic,mirage,SLTV StarSeries X Finals,11,16,8,7,3,9,Natus Vincere,15,20,0.76 
+2014,08,30,14:30,NatusVincere,HellRaisers,inferno,SLTV StarSeries X Finals,16,14,11,4,5,10,Natus Vincere,18,20,0.83 
+2014,08,30,14:30,NatusVincere,HellRaisers,dust2,SLTV StarSeries X Finals,16,6,10,5,6,1,Natus Vincere,22,10,1.56 
+2014,08,16,09:25,NatusVincere,fnatic,nuke,ESL One Cologne 2014,14,16,5,10,9,6,Natus Vincere,18,25,0.73 
+2014,08,16,09:25,NatusVincere,fnatic,dust2,ESL One Cologne 2014,16,7,12,3,4,4,Natus Vincere,16,15,0.97 
+2014,08,16,09:25,NatusVincere,fnatic,inferno,ESL One Cologne 2014,11,16,9,6,2,10,Natus Vincere,14,22,0.78 
+2014,08,15,13:45,CPHWolves,NatusVincere,dust2,ESL One Cologne 2014,17,19,5,10,10,5,Natus Vincere,20,20,0.94 
+2014,08,15,12:10,LDLC,NatusVincere,inferno,ESL One Cologne 2014,16,12,8,7,8,5,Natus Vincere,17,19,0.87 
+2014,08,14,12:00,NatusVincere,CPHWolves,inferno,ESL One Cologne 2014,16,6,12,3,4,3,Natus Vincere,19,9,1.49 

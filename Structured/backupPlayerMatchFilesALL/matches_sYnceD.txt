@@ -1,0 +1,26 @@
+2016,07,20,04:50,Kingdom,Tectonic,dust2,RGN Pro Series II NA Closed Qu..,6,16,2,13,4,3,Kingdom,6,17,0.47 
+2016,07,20,04:50,Kingdom,Tectonic,cache,RGN Pro Series II NA Closed Qu..,22,25,7,8,8,7,Kingdom,41,34,1.16 
+2016,02,21,20:35,Liquid,ex-AstralAuthority,cache,DreamHack Masters Malmö 2016 N..,16,14,6,9,10,5,ex-Astral Authority,26,22,1.13 
+2016,02,15,03:10,Noble,ex-AstralAuthority,mirage,CEVO Gfinity Professional Seas..,9,16,6,9,3,7,ex-Astral Authority,27,15,1.65 
+2016,02,15,01:15,ex-AstralAuthority,QuetzaL,inferno,CEVO Gfinity Professional Seas..,16,1,14,1,2,0,ex-Astral Authority,16,7,1.47 
+2015,12,06,15:45,compLexity,Nexus,cache,Northern Arena 2015,16,2,13,2,3,0,Nexus,5,17,0.28 
+2015,12,06,15:45,compLexity,Nexus,cobblestone,Northern Arena 2015,12,16,7,8,5,8,Nexus,18,19,0.90 
+2015,12,06,15:45,compLexity,Nexus,inferno,Northern Arena 2015,16,2,14,1,2,1,Nexus,7,17,0.43 
+2015,12,06,00:00,Nexus,CLG,mirage,Northern Arena 2015,6,16,4,11,2,5,Nexus,13,18,1.01 
+2015,12,05,22:00,3sUP,Nexus,dust2,Northern Arena 2015,14,16,4,11,10,5,Nexus,18,23,0.85 
+2015,12,05,20:00,ACE,Nexus,inferno,Northern Arena 2015,7,16,3,12,4,4,Nexus,19,15,1.18 
+2015,09,05,04:00,ACE,Excellence,mirage,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,Excellence,9,17,0.56 
+2015,09,05,03:15,Excellence,BitterSweetGG,overpass,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,Excellence,17,12,1.42 
+2015,09,05,02:00,ACE,Excellence,cobblestone,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,Excellence,9,17,0.70 
+2015,08,26,02:00,mouseSpaz,WOOSAH,cache,CS Select #26,22,20,9,6,6,9,WOOSAH,33,31,1.06 
+2015,08,26,02:00,mouseSpaz,WOOSAH,cobblestone,CS Select #26,8,16,7,8,1,8,WOOSAH,21,16,1.20 
+2015,08,26,02:00,WOOSAH,mouseSpaz,inferno,CS Select #26,13,16,11,4,2,12,WOOSAH,19,20,0.92 
+2015,08,26,02:00,mouseSpaz,WOOSAH,overpass,CS Select #26,16,13,8,7,8,6,WOOSAH,25,22,1.14 
+2015,08,26,02:00,WOOSAH,mouseSpaz,mirage,CS Select #26,16,12,4,11,12,1,WOOSAH,21,18,1.15 
+2015,08,11,02:30,LunatiK,WOOSAH,inferno,CS Select #22,16,12,8,7,8,5,WOOSAH,21,21,1.04 
+2015,08,11,02:30,LunatiK,WOOSAH,dust2,CS Select #22,16,14,5,10,11,4,WOOSAH,18,20,0.89 
+2015,08,11,02:30,LunatiK,WOOSAH,overpass,CS Select #22,16,10,10,5,6,5,WOOSAH,14,20,0.71 
+2015,06,24,04:00,Luminosity,AstralAuthority,cobblestone,RGN Pro Series NA,16,6,10,5,6,1,Astral Authority,13,20,0.75 
+2015,06,03,04:00,AstralAuthority,SKDC,train,RGN Pro Series NA Closed Quali..,11,16,10,5,1,11,Astral Authority,21,19,1.13 
+2015,06,03,04:00,AstralAuthority,SKDC,mirage,RGN Pro Series NA Closed Quali..,11,16,7,8,4,8,Astral Authority,17,21,0.79 
+2015,06,03,04:00,SKDC,AstralAuthority,cache,RGN Pro Series NA Closed Quali..,20,22,8,7,7,8,Astral Authority,34,30,1.09 

@@ -1,0 +1,39 @@
+2016,07,03,20:45,TheWorkingMen,Reason,cache,ESL UK Premiership Spring 2016..,16,13,6,9,10,4,The Working Men,19,14,1.05 
+2016,07,03,20:45,TheWorkingMen,Reason,mirage,ESL UK Premiership Spring 2016..,16,9,9,6,7,3,The Working Men,23,15,1.44 
+2016,07,03,20:45,TheWorkingMen,Reason,cobblestone,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,The Working Men,17,18,0.88 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,mirage,ESL UK Premiership Spring 2016..,16,9,13,2,3,7,The Working Men,19,15,1.29 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,cache,ESL UK Premiership Spring 2016..,16,13,8,7,8,6,The Working Men,26,16,1.33 
+2016,07,03,11:15,TheWorkingMen,UnitedEstonia,dust2,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,The Working Men,28,21,1.39 
+2016,04,13,21:00,RB,iNation,cache,Balkan Championship Season 3,16,6,10,5,6,1,iNation,12,18,0.71 
+2016,04,08,21:00,iNation,CS-GO.rs,dust2,Balkan Championship Season 3,16,6,10,5,6,1,iNation,12,12,1.01 
+2016,04,03,20:25,XPC,iNation,cache,Balkan Championship Season 3,16,11,12,3,4,8,iNation,12,20,0.63 
+2016,01,09,21:00,RUZKI,CSGO.one,train,PGL Regional Minor Championshi..,13,16,5,10,8,6,RUZKI,16,21,0.75 
+2016,01,09,21:00,CSGO.one,RUZKI,mirage,PGL Regional Minor Championshi..,16,6,10,5,6,1,RUZKI,11,17,0.71 
+2015,11,12,19:00,x6tence,overGame,cobblestone,LVP Season 9 Division de Honor..,16,11,9,6,7,5,x6tence,16,14,1.00 
+2015,11,12,19:00,x6tence,overGame,cache,LVP Season 9 Division de Honor..,4,16,4,11,0,5,x6tence,12,16,0.72 
+2015,11,12,19:00,overGame,x6tence,mirage,LVP Season 9 Division de Honor..,8,16,8,7,0,9,x6tence,13,18,0.75 
+2015,10,07,18:30,x6tence,OverGaming,mirage,LVP Season 9 División de Honor..,12,16,10,5,2,11,x6tence,23,22,1.01 
+2015,10,07,18:30,x6tence,OverGaming,cache,LVP Season 9 División de Honor..,5,16,5,10,0,6,x6tence,6,19,0.34 
+2015,10,04,10:30,x6tence,Epsilon,cache,SocialNat Master League,10,16,5,10,5,6,x6tence,12,19,0.65 
+2015,10,04,10:30,Epsilon,x6tence,mirage,SocialNat Master League,11,16,10,5,1,11,x6tence,14,18,0.81 
+2015,10,04,10:30,x6tence,Epsilon,overpass,SocialNat Master League,15,21,3,12,12,3,x6tence,27,29,0.99 
+2015,09,13,12:00,LondonC,x6tence,cache,DreamHack Open Cluj-Napoca 201..,16,5,11,4,5,1,x6tence,10,16,0.70 
+2015,09,13,12:00,LondonC,x6tence,mirage,DreamHack Open Cluj-Napoca 201..,13,16,10,5,3,11,x6tence,15,18,0.84 
+2015,09,13,12:00,x6tence,LondonC,dust2,DreamHack Open Cluj-Napoca 201..,7,16,5,10,2,6,x6tence,15,18,0.80 
+2015,09,12,21:00,x6tence,KOWABUNGA,cache,DreamHack Open Cluj-Napoca 201..,16,7,8,7,8,0,x6tence,17,13,1.17 
+2015,04,19,18:00,DIONAPPA,KnockOutStars,cache,ESL South East Europe Champion..,17,21,6,9,9,6,DIONAPPA,27,28,0.99 
+2015,04,19,18:00,KnockOutStars,DIONAPPA,dust2,ESL South East Europe Champion..,16,9,9,6,7,3,DIONAPPA,12,20,0.68 
+2015,03,21,16:00,Orbit,Infused,inferno,Gfinity 2015 Spring Masters 1,16,9,11,4,5,5,Infused,18,16,1.17 
+2015,03,21,16:00,Infused,Orbit,cache,Gfinity 2015 Spring Masters 1,7,16,4,11,3,5,Infused,12,19,0.73 
+2015,03,20,20:00,Infused,Virtus.pro,inferno,Gfinity 2015 Spring Masters 1,10,16,7,8,3,8,Infused,18,19,0.91 
+2015,03,20,20:00,Virtus.pro,Infused,cache,Gfinity 2015 Spring Masters 1,16,10,7,8,9,2,Infused,18,20,0.99 
+2014,12,17,21:30,LDLC,DEMGUNZ,inferno,ESL Pro League Winter 2014/15,16,3,13,2,3,1,DEMGUNZ,9,18,0.47 
+2014,12,17,21:30,DEMGUNZ,LDLC,overpass,ESL Pro League Winter 2014/15,6,16,4,11,2,5,DEMGUNZ,10,20,0.56 
+2014,08,18,21:00,Macedonia,Greece,dust2,European Championship 2014 Qua..,16,14,5,10,11,4,Greece,24,23,1.05 
+2014,08,18,21:00,Greece,Macedonia,inferno,European Championship 2014 Qua..,16,2,13,2,3,0,Greece,36,8,3.16 
+2014,08,18,21:00,Macedonia,Greece,mirage,European Championship 2014 Qua..,16,6,10,5,6,1,Greece,19,18,1.13 
+2014,08,02,23:45,fnatic,Infused,inferno,Gfinity 3,16,12,13,2,3,10,Infused,19,20,0.90 
+2014,08,02,21:45,Infused,Epsilon,inferno,Gfinity 3,7,16,6,9,1,7,Infused,17,18,0.97 
+2014,08,02,18:30,iBUYPOWER,Infused,inferno,Gfinity 3,15,15,10,5,5,10,Infused,17,19,0.85 
+2014,08,02,17:25,Infused,NiP,cache,Gfinity 3,12,16,5,10,7,6,Infused,14,21,0.66 
+2014,08,02,12:30,LondonC,Infused,inferno,Gfinity 3,16,6,12,3,4,3,Infused,13,20,0.65 

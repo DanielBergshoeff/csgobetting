@@ -75,7 +75,8 @@ for i in range(0, len(players)):
     matchfile = importfile + playerfile
 
     import_data.append(np.genfromtxt(matchfile, delimiter = ','))
-    
+
+# matchreference    
 import_dates = import_data[0][:,][:,0:3]
 import_times = import_data[0][:,][:,3]
 import_homeTeamID = import_data[0][:,][:,4]
@@ -88,6 +89,9 @@ import_homeTeamCTRounds = import_data[0][:,][:,10]
 import_outTeamTRounds = import_data[0][:,][:,11]
 import_homeTeamTRounds = import_data[0][:,][:,12]
 import_outTeamCTRounds = import_data[0][:,][:,13]
+# [team1speler1, team1speler2...]
+
+# matchreference
 import_playerTeamID = import_data[0][:,][:,14]
 import_playerKills = import_data[0][:,][:,15]
 import_playerDeaths = import_data[0][:,][:,16]

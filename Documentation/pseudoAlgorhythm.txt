@@ -1,0 +1,97 @@
+-----------------------------------------------------------------------------------------------------------------
+Factoren
+-----------------------------------------------------------------------------------------------------------------
+Tijd dat team samen is
+1 wissel bepaald niet deze datum, maar moet wel invloed hebben. Zo even uit m'n duim gezogen: vanaf het moment
+dat er een wissel is geweest (en dus nog maar 4 van de 5 samen speelden) telt de tijd nog maar 75 procent etc.
+* Alle playerTeamID's afgaan, wanneer deze anders is: data checken. Wanneer de datum en playerTeamID meer dan X
+keer veranderd zijn dan telt het als een wissel.
+------
+------
+Map pick/ban risico
+Als een team maar 1 sterke map heeft en een aantal heel zwakke dan is het risico groter dat de veto-ronde hun
+kansen verpest dan een team dat over het algemeen goed presteert. Aan de andere kant kan het zijn dat beide teams
+goed zijn op deze map en minder op anderen, dan heeft het mogelijk weer minder invloed.
+* Alle matches afgaan voor de playerID's van de spelers die in de toekomstige match mee gaan spelen. Voor ieder van
+deze per map en team de rating in een array gooien, sorteren en de mediaan pakken, rekening houdend met eventuele
+toe- of afname in prestatie.
+------
+------
+Overal Map rating
+Winst / verlies balans (over alle maps of zonder vermoedelijke bans?) (met extra punten wanneer de winst groot is
+tegen een team dat in de buurt of hoger zit in de ranking)
+* alle wedstrijden met het huidige team x keer in de array zetten, deze wedstrijden tellen zwaarder mee.
+gewonnen wedstrijden tegen een team met een betere rating tellen y keer mee; hierin construeren we onze eigen
+rating op basis van de spelers in de teams.
+------
+------
+Matchhistory tussen de teams
+Hier bepalen we welk team op basis van eerder gespeelde wedstrijden een voordeel heeft. Dit baseren we op spelers,
+waarin het aantal spelers dat onderdeel maakt van het huidige team een vermenigvuldigingsfactor is.
+* Alle wedstrijden afgaan voor de playerID's van de spelers. Voor iedere match waar ze in voorkomen checken of
+spelers van het andere team tegen hen speelden. Zo ja, gooi van allebei de rating in een array per team.
+------
+------
+Best two players rating
+Waarschijnlijk maakt 1 speler niet het verschil, maar als 2 van de 5 echte top-spelers zijn dan vergroot het de
+win kans vermoedelijk wel. Iets om in de test mee te nemen....
+* 
+------
+------
+Overal team rating
+Eventueel kunnen we ook weer rekening houden met maps waarop vermoedelijk gespeeld wordt, maar aangezien we de
+mediaan pakken zal het waarschijnlijk niet enorm uitmaken
+* 
+------
+------
+Wapen specialisatie teamleden
+Weet niet of we hier een individueel onderdeel voor moeten maken of dat deze meer ondergeschikt is aan 'Map pick/
+ban risico'. probleem: hoe houden we rekening met een slechte 'specialist' (awp-kill/death ratio)
+* 
+------
+------
+Tijdzone en thuis-team
+Hiervoor moeten we teams gaan koppelen aan tijdzones, maar dan kunnen we bepalen welke teams een jetlag hebben en
+kijken of dit invloed heeft op het resultaat. Hier kunnen we ook checken welk team thuis-team is en mogelijk dus
+meer aanhang bij heeft.
+------
+------
+Tijd van wedstrijd
+Mogelijk moeten we dit koppelen aan de tijdzone, maar het zou ook gewoon los kunnen staan omdat men gewend is aan
+de tijd. Aan de andere kant is dit een factor die voor beide teams hetzelfde is, dus mogelijk niet zo relevant.
+------
+------
+Formaat event
+Hiervoor moeten we de events gaan opdelen in belangrijkheid. Op zich wil je natuurlijk gewoon elk event winnen
+maar een Major zou meer druk kunnen leveren dan een 'lokale' wedstrijd.
+------
+------
+Afstand in ranking tussen de teams hun leden
+Wie weet is dit helemaal niet zo relevant, maar daarvoor testen we. Het zou kunnen dat het invloed heeft.
+------
+------
+Afname en toename in vaardigheid van speler
+Mogelijk is een van de spelers achteruit aan het gaan, of presteert deze afgelopen tijd niet zo goed. Dit werkt
+demotiverend. Hoeveel terug vs altijd?
+------
+------
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+Vraag / iets om te testen:
+-----------------------------------------------------------------------------------------------------------------
+tellen we de boel op en delen we het door het aantal factoren
+OF
+vermenigvuldigen we de boel met elkaar
+------
+------
+gaan we nested problemen / vraagstukken gewoon in 1 keer testen of gaan we aannames hierin nemen. bijvoorbeeld
+bovenstaande gedachten over 'map pick/ban risico': er moet getest worden of 'beide teams goed op 1 map' het
+risico omhoog of omlaag haalt, maar dit kan je pas met zekerheid stellen als je het in het geheel van uitkomsten
+meeneemt. Zelfde probleem geld bv ook voor 'Tijd dat team samen is'.
+------
+------
+misschien is het ook een optie om de winst voorspelling/algoritme per team te doen, het zou kunnen dat ieder team
+een eigen zogenaamde balans heeft tussen de waarden

@@ -1,14 +1,26 @@
 -----------------------------------------------------------------------------------------------------------------
 Factoren
 -----------------------------------------------------------------------------------------------------------------
-Tijd dat team samen is
+Afstand in ranking tussen de teams hun leden    ROOD:   none
+Wie weet is dit helemaal niet zo relevant, maar daarvoor testen we. Het zou kunnen dat het invloed heeft.
+* file genereren voor alle data waarop wedstrijden worden gespeeld met alle spelers hun rankings gebaseerd op
+rating mediaan, deze erbij zetten
+------
+------
+Tijd dat team samen is                          BLAUW:  none
 1 wissel bepaald niet deze datum, maar moet wel invloed hebben. Zo even uit m'n duim gezogen: vanaf het moment
 dat er een wissel is geweest (en dus nog maar 4 van de 5 samen speelden) telt de tijd nog maar 75 procent etc.
 * Alle playerTeamID's afgaan, wanneer deze anders is: data checken. Wanneer de datum en playerTeamID meer dan X
 keer veranderd zijn dan telt het als een wissel.
 ------
 ------
-Map pick/ban risico
+Afname en toename in vaardigheid van speler     GROEN: none
+Mogelijk is een van de spelers achteruit aan het gaan, of presteert deze afgelopen tijd niet zo goed. Dit werkt
+demotiverend. Hoeveel terug vs altijd?
+* 
+------
+------
+Map pick/ban risico                             GEEL:   ROOD, GROEN
 Als een team maar 1 sterke map heeft en een aantal heel zwakke dan is het risico groter dat de veto-ronde hun
 kansen verpest dan een team dat over het algemeen goed presteert. Aan de andere kant kan het zijn dat beide teams
 goed zijn op deze map en minder op anderen, dan heeft het mogelijk weer minder invloed.
@@ -47,34 +59,33 @@ mediaan pakken zal het waarschijnlijk niet enorm uitmaken
 Wapen specialisatie teamleden
 Weet niet of we hier een individueel onderdeel voor moeten maken of dat deze meer ondergeschikt is aan 'Map pick/
 ban risico'. probleem: hoe houden we rekening met een slechte 'specialist' (awp-kill/death ratio)
-* 
-------
-------
-Tijdzone en thuis-team
-Hiervoor moeten we teams gaan koppelen aan tijdzones, maar dan kunnen we bepalen welke teams een jetlag hebben en
-kijken of dit invloed heeft op het resultaat. Hier kunnen we ook checken welk team thuis-team is en mogelijk dus
-meer aanhang bij heeft.
-------
-------
-Tijd van wedstrijd
-Mogelijk moeten we dit koppelen aan de tijdzone, maar het zou ook gewoon los kunnen staan omdat men gewend is aan
-de tijd. Aan de andere kant is dit een factor die voor beide teams hetzelfde is, dus mogelijk niet zo relevant.
+* aan het begin van het programma: alle spelers afgaan om te bepalen wat het gemiddelde percentage kills met
+pistol is. Per speler in het team: wapen vinden met hoogste aantal kills. Dit is zijn specialisatie wapen.
+Vervolgens pistol vaardigheden bepalen door kill percentage te vergelijken met gemiddelde.
+WHAT THE FUCK DOEN WE HIER NOU MEE?!
 ------
 ------
 Formaat event
 Hiervoor moeten we de events gaan opdelen in belangrijkheid. Op zich wil je natuurlijk gewoon elk event winnen
 maar een Major zou meer druk kunnen leveren dan een 'lokale' wedstrijd.
-------
-------
-Afstand in ranking tussen de teams hun leden
-Wie weet is dit helemaal niet zo relevant, maar daarvoor testen we. Het zou kunnen dat het invloed heeft.
+* Via event ID opzoeken wat het formaat van het event is. Hiervoor maken we een file!
 ------
 ------
 Afname en toename in vaardigheid van speler
 Mogelijk is een van de spelers achteruit aan het gaan, of presteert deze afgelopen tijd niet zo goed. Dit werkt
 demotiverend. Hoeveel terug vs altijd?
+* 
 ------
+------ LATERZZ
+Tijdzone en thuis-team
+Hiervoor moeten we teams gaan koppelen aan tijdzones, maar dan kunnen we bepalen welke teams een jetlag hebben en
+kijken of dit invloed heeft op het resultaat. Hier kunnen we ook checken welk team thuis-team is en mogelijk dus
+meer aanhang bij heeft.
 ------
+------ LATERZZ
+Tijd van wedstrijd
+Mogelijk moeten we dit koppelen aan de tijdzone, maar het zou ook gewoon los kunnen staan omdat men gewend is aan
+de tijd. Aan de andere kant is dit een factor die voor beide teams hetzelfde is, dus mogelijk niet zo relevant.
 
 
 
@@ -95,3 +106,6 @@ meeneemt. Zelfde probleem geld bv ook voor 'Tijd dat team samen is'.
 ------
 misschien is het ook een optie om de winst voorspelling/algoritme per team te doen, het zou kunnen dat ieder team
 een eigen zogenaamde balans heeft tussen de waarden
+------
+------
+alle losse onderdelen afgaan om overlappend import-werk samen te voegen en efficientie te verhogen

@@ -56,7 +56,7 @@ elif platform == "win32" or platform == "cygwin":
     with open(root+ 'idFiles\\eventIDs.txt', "r") as text_file:
         eventIDs = text_file.readline().split()
 
-linkToMatchesPage = 'http://www.hltv.org/match/2304000-virtuspro-nip-esl-pro-league-season-4-europe'
+'''linkToMatchesPage = 'http://www.hltv.org/match/2304000-virtuspro-nip-esl-pro-league-season-4-europe'
 # download page
 page = requests.get(linkToMatchesPage)
 tree = html.fromstring(page.content)
@@ -74,27 +74,45 @@ for i in range(0, len(players)):
     playerfile =  players[i].replace(" ", "") + ".txt"
     matchfile = importfile + playerfile
 
-    import_data.append(np.genfromtxt(matchfile, delimiter = ','))
+    import_data.append(np.genfromtxt(matchfile, delimiter = ','))'''
     
-import_dates = import_data[0][:,][:,0:3]
-import_times = import_data[0][:,][:,3]
-import_homeTeamID = import_data[0][:,][:,4]
-import_outTeamID = import_data[0][:,][:,5]
-import_mapID = import_data[0][:,][:,6]
-import_eventID = import_data[0][:,][:,7]
-import_homeTeamScore = import_data[0][:,][:,8]
-import_outTeamScore = import_data[0][:,][:,9]
-import_homeTeamCTRounds = import_data[0][:,][:,10]
-import_outTeamTRounds = import_data[0][:,][:,11]
-import_homeTeamTRounds = import_data[0][:,][:,12]
-import_outTeamCTRounds = import_data[0][:,][:,13]
-import_playerTeamID = import_data[0][:,][:,14]
-import_playerKills = import_data[0][:,][:,15]
-import_playerDeaths = import_data[0][:,][:,16]
-import_playerRating = import_data[0][:,][:,17]
+import_data = list()
+matchfile = root + "playerMatchFiles\\all_matches.txt"    
+import_data.append(np.genfromtxt(matchfile, delimiter = ','))
 
-print(import_playerRating[0])
+for i in range(0, len(import_data[0])):
+    import_matchPlayer1ID
 
+import_matchID = import_data[0][:,][:,0]
+import_matchPlayer1ID = import_data[0][:,][:,1]
+import_matchPlayer2ID = import_data[0][:,][:,2]
+import_matchPlayer3ID = import_data[0][:,][:,3]
+import_matchPlayer4ID = import_data[0][:,][:,4]
+import_matchPlayer5ID = import_data[0][:,][:,5]
+import_matchPlayer6ID = import_data[0][:,][:,6]
+import_matchPlayer7ID = import_data[0][:,][:,7]
+import_matchPlayer8ID = import_data[0][:,][:,8]
+import_matchPlayer9ID = import_data[0][:,][:,9]
+import_matchPlayer10ID = import_data[0][:,][:,10]
+import_matchYear = import_data[0][:,][:,11]
+import_matchMonth = import_data[0][:,][:,12]
+import_matchDay = import_data[0][:,][:,13]
+import_matchTimeHours = import_data[0][:,][:,14]
+import_matchTimeMinutes = import_data[0][:,][:,15]
+import_matchTeam1ID = import_data[0][:,][:,16]
+import_matchTeam2ID = import_data[0][:,][:,17]
+import_matchMapID = import_data[0][:,][:,18]
+import_matchEventID = import_data[0][:,][:,19]
+import_matchScoreTeam1 = import_data[0][:,][:,20]
+import_matchScoreTeam2 = import_data[0][:,][:,21]
+import_matchScoreTeam1CT = import_data[0][:,][:,22]
+import_matchScoreTeam2T = import_data[0][:,][:,23]
+import_matchScoreTeam1T = import_data[0][:,][:,24]
+import_matchScoreTeam2CT = import_data[0][:,][:,25]
+
+print(import_matchPlayer2ID[2])
+
+"dfsdf".replace("[", "").replace("]", "").strip()
 '''plt.plot(import_playerKills, import_playerDeaths)
 plt.show()'''
 

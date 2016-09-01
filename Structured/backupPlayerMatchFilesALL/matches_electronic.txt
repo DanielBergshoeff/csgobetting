@@ -1,122 +1,122 @@
-2016,08,10,20:10,NokSuKao,Spirit,overpass,Adrenaline Cyber League,7,16,7,8,0,8,NokSuKao,11,20,0.63 
-2016,08,10,20:10,NokSuKao,Spirit,mirage,Adrenaline Cyber League,9,16,9,6,0,10,NokSuKao,13,19,0.84 
-2016,08,04,18:10,Comanche,NokSuKao,train,Adrenaline Cyber League,20,22,9,6,6,9,NokSuKao,28,31,0.98 
-2016,08,04,18:10,NokSuKao,Comanche,mirage,Adrenaline Cyber League,16,9,10,5,6,4,NokSuKao,26,13,1.49 
-2016,08,03,21:15,X,NokSuKao,overpass,SL i-League S2 Europe Qualifie..,16,14,6,9,10,5,NokSuKao,30,23,1.32 
-2016,08,03,21:15,X,NokSuKao,mirage,SL i-League S2 Europe Qualifie..,16,8,10,5,6,3,NokSuKao,14,22,0.63 
-2016,08,02,21:00,NokSuKao,AGG,mirage,SL i-League S2 Europe Qualifie..,11,16,4,11,7,5,NokSuKao,22,18,1.12 
-2016,08,02,21:00,NokSuKao,AGG,dust2,SL i-League S2 Europe Qualifie..,12,16,9,6,3,10,NokSuKao,17,22,0.79 
-2016,08,02,21:00,AGG,NokSuKao,overpass,SL i-League S2 Europe Qualifie..,13,16,5,10,8,6,NokSuKao,27,16,1.52 
-2016,08,01,16:00,NokSuKao,dignitas,overpass,SL i-League S2 Europe Qualifie..,6,16,4,11,2,5,NokSuKao,19,17,1.12 
-2016,08,01,16:00,dignitas,NokSuKao,nuke,SL i-League S2 Europe Qualifie..,16,14,8,7,8,7,NokSuKao,24,21,1.09 
-2016,08,01,16:00,NokSuKao,dignitas,mirage,SL i-League S2 Europe Qualifie..,16,12,8,7,8,5,NokSuKao,24,20,1.22 
-2016,07,26,17:00,NokSuKao,Alpha,train,WCA 2016 EU Qualifier,7,16,6,9,1,7,NokSuKao,10,17,0.60 
-2016,07,26,17:00,NokSuKao,Alpha,cobblestone,WCA 2016 EU Qualifier,17,19,8,7,7,8,NokSuKao,24,25,0.97 
-2016,07,26,17:00,Alpha,NokSuKao,nuke,WCA 2016 EU Qualifier,4,16,3,12,1,4,NokSuKao,13,11,0.97 
-2016,07,23,19:10,ArchAngels,NokSuKao,nuke,Stream.me Gauntlet EU #1,16,12,6,9,10,3,NokSuKao,14,19,0.78 
-2016,07,23,19:10,NokSuKao,ArchAngels,mirage,Stream.me Gauntlet EU #1,12,16,7,8,5,8,NokSuKao,17,21,0.81 
-2016,06,11,14:20,Empire,Immortals,cobblestone,ESL One Cologne 2016 Main Qual..,7,16,3,12,4,4,Empire,18,19,1.00 
-2016,06,10,17:00,Empire,dignitas,nuke,ESL One Cologne 2016 Main Qual..,13,16,11,4,2,12,Empire,17,18,0.88 
-2016,06,09,15:40,Cloud9,Empire,cobblestone,ESL One Cologne 2016 Main Qual..,16,12,8,7,8,5,Empire,20,23,0.99 
-2016,05,01,19:45,Empire,FluffyGangsters,mirage,StarLadder Minor CIS - Cologne..,12,16,6,9,6,7,Empire,16,22,0.74 
-2016,05,01,19:45,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,16,11,6,9,10,2,Empire,24,21,1.25 
-2016,04,30,20:30,FluffyGangsters,Empire,train,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Empire,20,22,0.90 
-2016,04,30,20:30,FluffyGangsters,Empire,cobblestone,StarLadder Minor CIS - Cologne..,6,16,2,13,4,3,Empire,15,13,1.01 
-2016,04,30,20:30,Empire,FluffyGangsters,dust2,StarLadder Minor CIS - Cologne..,3,16,3,12,0,4,Empire,8,17,0.44 
-2016,04,30,16:45,WorstPlayers,Empire,train,StarLadder Minor CIS - Cologne..,11,16,10,5,1,11,Empire,21,15,1.18 
-2016,04,30,16:45,WorstPlayers,Empire,dust2,StarLadder Minor CIS - Cologne..,10,16,5,10,5,6,Empire,19,19,0.96 
-2016,04,30,16:44,Empire,WorstPlayers,mirage,StarLadder Minor CIS - Cologne..,16,19,10,5,5,10,Empire,32,21,1.54 
-2016,04,29,14:30,Empire,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,6,10,5,6,1,Empire,19,12,1.38 
-2016,04,29,14:30,DigitalWave,Empire,cobblestone,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Empire,19,22,0.85 
-2016,04,29,13:00,Empire,Arcade,nuke,StarLadder Minor CIS - Cologne..,16,14,12,3,4,11,Empire,12,22,0.59 
-2016,04,28,10:00,DigitalWave,Empire,mirage,StarLadder Minor CIS - Cologne..,16,6,10,5,6,1,Empire,11,19,0.66 
-2016,04,10,18:00,Empire,HellRaisers,overpass,ESEA Premier Season 21 Europe,3,16,2,13,1,3,Empire,8,18,0.46 
-2016,04,10,18:00,HellRaisers,Empire,mirage,ESEA Premier Season 21 Europe,16,8,8,7,8,1,Empire,17,16,0.96 
-2016,04,08,17:00,Empire,AGG,mirage,Hitbox Challenger Cup,3,16,3,12,0,4,Empire,7,16,0.47 
-2016,04,08,17:00,AGG,Empire,train,Hitbox Challenger Cup,16,1,14,1,2,0,Empire,6,16,0.38 
-2016,04,07,17:00,PENTA,Empire,cache,Hitbox Challenger Cup,14,16,6,9,8,7,Empire,22,20,1.12 
-2016,03,28,19:00,Empire,RCTIC,cobblestone,Game Show Spring Invitational ..,15,15,9,6,6,9,Empire,17,19,0.95 
-2016,03,25,21:15,Torpedo,Empire,mirage,SL I-League Invitational #1 EU..,16,7,9,6,7,1,Empire,12,21,0.61 
-2016,03,25,21:15,Empire,Torpedo,cobblestone,SL I-League Invitational #1 EU..,10,16,2,13,8,3,Empire,14,22,0.80 
-2016,03,25,21:15,Empire,Torpedo,train,SL I-League Invitational #1 EU..,19,17,10,5,5,10,Empire,29,25,1.08 
-2016,03,25,20:15,k1ck,Empire,cobblestone,SL I-League Invitational #1 EU..,7,16,7,8,0,8,Empire,19,10,1.38 
-2016,03,23,20:00,Empire,Planetkey,cache,Hitbox Challenger Cup,8,16,3,12,5,4,Empire,16,17,0.87 
-2016,03,23,20:00,Planetkey,Empire,mirage,Hitbox Challenger Cup,12,16,7,8,5,8,Empire,10,20,0.55 
-2016,03,23,20:00,Planetkey,Empire,inferno,Hitbox Challenger Cup,16,3,12,3,4,0,Empire,7,15,0.57 
-2016,03,21,21:40,Empire,Ancient,mirage,SL I-League Invitational #1 EU..,6,16,3,12,3,4,Empire,21,17,1.17 
-2016,03,21,21:40,Ancient,Empire,cobblestone,SL I-League Invitational #1 EU..,16,6,9,6,7,0,Empire,16,18,0.94 
-2016,03,21,20:10,Empire,AGG,inferno,SL I-League Invitational #1 EU..,16,14,6,9,10,5,Empire,21,17,1.04 
-2016,03,16,22:00,Empire,CSGL,train,Global Offensive Champions Lea..,16,8,9,6,7,2,Empire,24,13,1.55 
-2016,03,14,19:00,Empire,noKappa,cobblestone,Global Offensive Champions Lea..,9,16,8,7,1,9,Empire,16,18,0.93 
-2016,03,07,23:15,Empire,Tempest,mirage,Binary Dragons Cup Season 2,16,6,12,3,4,3,Empire,23,13,1.60 
-2016,03,07,23:15,Tempest,Empire,cache,Binary Dragons Cup Season 2,19,22,9,6,6,9,Empire,23,29,0.79 
-2016,03,07,20:15,Empire,HellRaisers,cache,CEVO Gfinity Professional Seas..,10,16,4,11,6,5,Empire,12,22,0.53 
-2016,03,07,20:15,HellRaisers,Empire,mirage,CEVO Gfinity Professional Seas..,16,6,10,5,6,1,Empire,13,19,0.66 
-2016,03,07,20:15,Empire,HellRaisers,overpass,CEVO Gfinity Professional Seas..,16,14,3,12,13,2,Empire,18,23,0.87 
-2016,03,07,16:00,YP,Empire,cobblestone,Binary Dragons Cup Season 2,16,10,11,4,5,6,Empire,13,20,0.65 
-2016,03,07,16:00,YP,Empire,inferno,Binary Dragons Cup Season 2,14,16,5,10,9,6,Empire,29,22,1.41 
-2016,03,06,16:00,Empire,eXplosive,mirage,Binary Dragons Cup Season 2,16,8,11,4,5,4,Empire,22,14,1.30 
-2016,03,06,16:00,eXplosive,Empire,cache,Binary Dragons Cup Season 2,12,16,7,8,5,8,Empire,25,17,1.38 
-2016,03,06,16:00,eXplosive,Empire,cobblestone,Binary Dragons Cup Season 2,16,10,7,8,9,2,Empire,22,19,1.08 
-2016,02,25,19:00,Enso,Empire,cache,Game Show Spring Invitational ..,8,16,6,9,2,7,Empire,24,16,1.49 
-2016,02,25,19:00,Enso,Empire,mirage,Game Show Spring Invitational ..,6,16,4,11,2,5,Empire,25,11,1.70 
-2016,02,23,19:00,Empire,CPHWolves,inferno,Operation: Kinguin #2,7,16,3,12,4,4,Empire,21,16,1.34 
-2016,02,22,19:15,BinaryDragons,Empire,inferno,Game Show Spring Invitational ..,16,13,9,6,7,7,Empire,17,23,0.74 
-2016,02,22,19:15,Empire,BinaryDragons,mirage,Game Show Spring Invitational ..,16,3,13,2,3,1,Empire,21,8,1.85 
-2016,02,22,19:15,BinaryDragons,Empire,cobblestone,Game Show Spring Invitational ..,16,10,13,2,3,8,Empire,15,21,0.77 
-2016,01,24,20:15,Gambit,Rebels,train,StarLadder Regional Minor Cham..,16,3,12,3,4,0,Rebels,9,18,0.59 
-2016,01,24,20:15,Rebels,Gambit,inferno,StarLadder Regional Minor Cham..,4,16,3,12,1,4,Rebels,10,16,0.64 
-2016,01,24,13:00,Rebels,Arcade,train,StarLadder Regional Minor Cham..,16,11,9,6,7,5,Rebels,18,19,0.93 
-2016,01,24,13:00,Rebels,Arcade,mirage,StarLadder Regional Minor Cham..,9,16,5,10,4,6,Rebels,24,18,1.31 
-2016,01,24,13:00,Rebels,Arcade,overpass,StarLadder Regional Minor Cham..,26,24,7,8,8,7,Rebels,37,33,1.01 
-2016,01,23,19:00,Rebels,BinaryDragons,mirage,StarLadder Regional Minor Cham..,16,12,8,7,8,5,Rebels,23,19,1.22 
-2016,01,23,19:00,BinaryDragons,Rebels,cobblestone,StarLadder Regional Minor Cham..,11,16,7,8,4,8,Rebels,19,16,1.09 
-2016,01,22,20:15,Rebels,Gambit,inferno,StarLadder Regional Minor Cham..,14,16,6,9,8,7,Rebels,27,22,1.09 
-2016,01,22,20:15,Gambit,Rebels,cobblestone,StarLadder Regional Minor Cham..,36,32,10,5,5,10,Rebels,73,49,1.45 
-2016,01,22,14:30,BinaryDragons,Rebels,cobblestone,StarLadder Regional Minor Cham..,3,16,2,13,1,3,Rebels,22,10,1.69 
-2015,12,16,18:00,Rebels,FlipSid3,cache,Game Show Global eSports Cup 2..,5,16,3,12,2,4,Rebels,12,18,0.68 
-2015,12,16,18:00,Rebels,FlipSid3,overpass,Game Show Global eSports Cup 2..,10,16,7,8,3,8,Rebels,17,19,0.83 
-2015,12,16,18:00,Rebels,FlipSid3,cobblestone,Game Show Global eSports Cup 2..,16,11,9,6,7,5,Rebels,21,15,1.23 
-2015,12,14,18:00,Rebels,YP,cobblestone,Game Show Global eSports Cup 2..,16,10,6,9,10,1,Rebels,25,22,1.20 
-2015,12,14,18:00,Rebels,YP,dust2,Game Show Global eSports Cup 2..,5,16,3,12,2,4,Rebels,8,18,0.52 
-2015,12,14,18:00,YP,Rebels,mirage,Game Show Global eSports Cup 2..,13,16,9,6,4,10,Rebels,23,17,1.18 
-2015,12,08,21:00,InfernalParadise,Rebels,mirage,Game Show Global eSports Cup 2..,10,16,6,9,4,7,Infernal Paradise,28,20,1.47 
-2015,12,08,21:00,Rebels,InfernalParadise,cobblestone,Game Show Global eSports Cup 2..,16,5,11,4,5,1,Infernal Paradise,19,18,1.07 
-2015,12,08,21:00,Rebels,InfernalParadise,dust2,Game Show Global eSports Cup 2..,10,16,6,9,4,7,Infernal Paradise,25,16,1.34 
-2015,12,07,18:00,InfernalParadise,Rebels,mirage,Game Show Global eSports Cup 2..,11,16,11,4,0,12,Infernal Paradise,34,20,1.93 
-2015,12,07,18:00,InfernalParadise,Rebels,inferno,Game Show Global eSports Cup 2..,3,16,1,14,2,2,Infernal Paradise,16,15,1.06 
-2015,11,03,22:45,AliGon,Arcade,dust2,D!ngIT $2000 Weekly Cup #24,21,19,8,7,7,8,Arcade,30,33,0.99 
-2015,11,03,21:15,MaxAndRelax,Arcade,dust2,D!ngIT $2000 Weekly Cup #24,2,16,2,13,0,3,Arcade,16,15,1.17 
-2015,10,02,17:00,ESC,WorstPlayers,train,QuickShot Arena #9,16,4,11,4,5,0,Worst Players,13,19,0.70 
-2015,10,02,17:00,ESC,WorstPlayers,mirage,QuickShot Arena #9,16,19,11,4,4,11,Worst Players,29,24,1.15 
-2015,10,02,17:00,WorstPlayers,ESC,cache,QuickShot Arena #9,14,16,7,8,7,8,Worst Players,19,26,0.75 
-2015,09,30,20:15,NoProblem!,WorstPlayers,overpass,QuickShot Arena #9,6,16,3,12,3,4,Worst Players,19,12,1.28 
-2015,09,30,18:15,WorstPlayers,LGBfe,mirage,QuickShot Arena #9,16,1,15,0,1,1,Worst Players,11,8,1.18 
-2015,09,23,22:00,E-frag.net,WorstPlayers,train,GameAgents League Season 2,16,4,13,2,3,2,Worst Players,7,20,0.29 
-2015,09,23,22:00,E-frag.net,WorstPlayers,overpass,GameAgents League Season 2,13,16,8,7,5,9,Worst Players,14,20,0.72 
-2015,09,21,18:00,CSGOEvoWhite,LANDODGERS,dust2,D!ngIT $2000 Weekly Cup #18,16,1,14,1,2,0,LAN DODGERS,4,16,0.28 
-2015,09,21,18:00,CSGOEvoWhite,LANDODGERS,cache,D!ngIT $2000 Weekly Cup #18,16,10,10,5,6,5,LAN DODGERS,12,20,0.66 
-2015,09,21,18:00,LANDODGERS,CSGOEvoWhite,mirage,D!ngIT $2000 Weekly Cup #18,16,14,11,4,5,10,LAN DODGERS,25,21,1.12 
-2015,09,19,22:00,WorstPlayers,volgare,dust2,GameAgents League Season 2,16,13,6,9,10,4,Worst Players,33,21,1.68 
-2015,09,19,22:00,volgare,WorstPlayers,mirage,GameAgents League Season 2,10,16,2,13,8,3,Worst Players,36,13,2.14 
-2015,06,25,19:00,Enso,Evolution,inferno,Rising Tornado #2,16,19,8,7,7,8,Evolution,28,17,1.27 
-2015,06,23,19:00,Evolution,TEAMSWAGYOLO,mirage,Rising Tornado #2,16,12,12,3,4,9,Evolution,31,18,1.55 
-2015,05,14,19:00,NewEra,ACES,cobblestone,Uprise Champions Cup Season 2,2,16,2,13,0,3,ACES,26,11,1.98 
-2015,05,14,19:00,ACES,NewEra,inferno,Uprise Champions Cup Season 2,16,2,13,2,3,0,ACES,18,7,1.69 
-2015,05,14,19:00,NewEra,ACES,mirage,Uprise Champions Cup Season 2,16,6,11,4,5,2,ACES,13,17,0.81 
-2015,05,07,18:00,ACES,LANDODGERS,mirage,Uprise Champions Cup Season 2,16,9,10,5,6,4,ACES,28,15,1.66 
-2015,05,07,18:00,ACES,LANDODGERS,cobblestone,Uprise Champions Cup Season 2,16,11,9,6,7,5,ACES,26,16,1.39 
-2015,04,19,18:35,HellRaisers,ACES,inferno,CIS LAN Championship,16,5,11,4,5,1,ACES,10,18,0.57 
-2015,04,19,18:35,ACES,HellRaisers,dust2,CIS LAN Championship,11,16,5,10,6,6,ACES,21,20,1.10 
-2015,04,19,18:35,ACES,HellRaisers,cache,CIS LAN Championship,16,14,12,3,4,11,ACES,26,20,1.38 
-2015,04,19,11:30,TEAMSWAGYOLO,ACES,cobblestone,CIS LAN Championship,13,16,5,10,8,6,ACES,25,21,1.11 
-2015,04,19,11:30,ACES,TEAMSWAGYOLO,cache,CIS LAN Championship,16,5,11,4,5,1,ACES,20,9,1.54 
-2015,04,19,11:30,TEAMSWAGYOLO,ACES,mirage,CIS LAN Championship,16,6,12,3,4,3,ACES,10,18,0.58 
-2015,04,19,09:00,ACES,USSR,dust2,CIS LAN Championship,16,12,7,8,9,4,ACES,13,20,0.66 
-2015,04,19,09:00,ACES,USSR,cache,CIS LAN Championship,16,9,10,5,6,4,ACES,24,16,1.49 
-2015,04,18,10:00,ACES,PiTER,cache,CIS LAN Championship,16,11,11,4,5,7,ACES,22,17,1.13 
-2015,04,18,10:00,ACES,PiTER,mirage,CIS LAN Championship,16,9,10,5,6,4,ACES,29,14,1.63 
-2015,04,18,10:00,PiTER,ACES,inferno,CIS LAN Championship,16,2,13,2,3,0,ACES,12,15,0.82 
-2015,04,18,01:30,GGWP,ACES,dust2,CIS LAN Championship,16,10,8,7,8,3,ACES,15,24,0.65 
-2015,04,17,22:30,FlipSid3,ACES,cobblestone,CIS LAN Championship,16,12,10,5,6,7,ACES,16,23,0.75 
-2015,04,17,21:00,ACES,WEPLAY,inferno,CIS LAN Championship,16,12,8,7,8,5,ACES,26,20,1.20 
+2016,08,10,20:10,119,42,4,489,7,16,7,8,0,8,119,11,20,0.63 
+2016,08,10,20:10,119,42,0,489,9,16,9,6,0,10,119,13,19,0.84 
+2016,08,04,18:10,123,119,2,489,20,22,9,6,6,9,119,28,31,0.98 
+2016,08,04,18:10,119,123,0,489,16,9,10,5,6,4,119,26,13,1.49 
+2016,08,03,21:15,46,119,4,471,16,14,6,9,10,5,119,30,23,1.32 
+2016,08,03,21:15,46,119,0,471,16,8,10,5,6,3,119,14,22,0.63 
+2016,08,02,21:00,119,101,0,471,11,16,4,11,7,5,119,22,18,1.12 
+2016,08,02,21:00,119,101,1,471,12,16,9,6,3,10,119,17,22,0.79 
+2016,08,02,21:00,101,119,4,471,13,16,5,10,8,6,119,27,16,1.52 
+2016,08,01,16:00,119,22,4,471,6,16,4,11,2,5,119,19,17,1.12 
+2016,08,01,16:00,22,119,5,471,16,14,8,7,8,7,119,24,21,1.09 
+2016,08,01,16:00,119,22,0,471,16,12,8,7,8,5,119,24,20,1.22 
+2016,07,26,17:00,119,233,2,508,7,16,6,9,1,7,119,10,17,0.60 
+2016,07,26,17:00,119,233,14,508,17,19,8,7,7,8,119,24,25,0.97 
+2016,07,26,17:00,233,119,5,508,4,16,3,12,1,4,119,13,11,0.97 
+2016,07,23,19:10,31,119,5,472,16,12,6,9,10,3,119,14,19,0.78 
+2016,07,23,19:10,119,31,0,472,12,16,7,8,5,8,119,17,21,0.81 
+2016,06,11,14:20,364,354,14,552,7,16,3,12,4,4,364,18,19,1.00 
+2016,06,10,17:00,364,22,5,552,13,16,11,4,2,12,364,17,18,0.88 
+2016,06,09,15:40,257,364,14,552,16,12,8,7,8,5,364,20,23,0.99 
+2016,05,01,19:45,364,365,0,589,12,16,6,9,6,7,364,16,22,0.74 
+2016,05,01,19:45,365,364,14,589,16,11,6,9,10,2,364,24,21,1.25 
+2016,04,30,20:30,365,364,2,589,12,16,7,8,5,8,364,20,22,0.90 
+2016,04,30,20:30,365,364,14,589,6,16,2,13,4,3,364,15,13,1.01 
+2016,04,30,20:30,364,365,1,589,3,16,3,12,0,4,364,8,17,0.44 
+2016,04,30,16:45,331,364,2,589,11,16,10,5,1,11,364,21,15,1.18 
+2016,04,30,16:45,331,364,1,589,10,16,5,10,5,6,364,19,19,0.96 
+2016,04,30,16:44,364,331,0,589,16,19,10,5,5,10,364,32,21,1.54 
+2016,04,29,14:30,364,467,0,589,16,6,10,5,6,1,364,19,12,1.38 
+2016,04,29,14:30,467,364,14,589,12,16,7,8,5,8,364,19,22,0.85 
+2016,04,29,13:00,364,392,5,589,16,14,12,3,4,11,364,12,22,0.59 
+2016,04,28,10:00,467,364,0,589,16,6,10,5,6,1,364,11,19,0.66 
+2016,04,10,18:00,364,59,4,611,3,16,2,13,1,3,364,8,18,0.46 
+2016,04,10,18:00,59,364,0,611,16,8,8,7,8,1,364,17,16,0.96 
+2016,04,08,17:00,364,101,0,610,3,16,3,12,0,4,364,7,16,0.47 
+2016,04,08,17:00,101,364,2,610,16,1,14,1,2,0,364,6,16,0.38 
+2016,04,07,17:00,196,364,7,610,14,16,6,9,8,7,364,22,20,1.12 
+2016,03,28,19:00,364,360,14,495,15,15,9,6,6,9,364,17,19,0.95 
+2016,03,25,21:15,484,364,0,579,16,7,9,6,7,1,364,12,21,0.61 
+2016,03,25,21:15,364,484,14,579,10,16,2,13,8,3,364,14,22,0.80 
+2016,03,25,21:15,364,484,2,579,19,17,10,5,5,10,364,29,25,1.08 
+2016,03,25,20:15,287,364,14,579,7,16,7,8,0,8,364,19,10,1.38 
+2016,03,23,20:00,364,500,7,610,8,16,3,12,5,4,364,16,17,0.87 
+2016,03,23,20:00,500,364,0,610,12,16,7,8,5,8,364,10,20,0.55 
+2016,03,23,20:00,500,364,6,610,16,3,12,3,4,0,364,7,15,0.57 
+2016,03,21,21:40,364,507,0,579,6,16,3,12,3,4,364,21,17,1.17 
+2016,03,21,21:40,507,364,14,579,16,6,9,6,7,0,364,16,18,0.94 
+2016,03,21,20:10,364,101,6,579,16,14,6,9,10,5,364,21,17,1.04 
+2016,03,16,22:00,364,439,2,593,16,8,9,6,7,2,364,24,13,1.55 
+2016,03,14,19:00,364,598,14,593,9,16,8,7,1,9,364,16,18,0.93 
+2016,03,07,23:15,364,486,0,635,16,6,12,3,4,3,364,23,13,1.60 
+2016,03,07,23:15,486,364,7,635,19,22,9,6,6,9,364,23,29,0.79 
+2016,03,07,20:15,364,59,7,590,10,16,4,11,6,5,364,12,22,0.53 
+2016,03,07,20:15,59,364,0,590,16,6,10,5,6,1,364,13,19,0.66 
+2016,03,07,20:15,364,59,4,590,16,14,3,12,13,2,364,18,23,0.87 
+2016,03,07,16:00,537,364,14,635,16,10,11,4,5,6,364,13,20,0.65 
+2016,03,07,16:00,537,364,6,635,14,16,5,10,9,6,364,29,22,1.41 
+2016,03,06,16:00,364,489,0,635,16,8,11,4,5,4,364,22,14,1.30 
+2016,03,06,16:00,489,364,7,635,12,16,7,8,5,8,364,25,17,1.38 
+2016,03,06,16:00,489,364,14,635,16,10,7,8,9,2,364,22,19,1.08 
+2016,02,25,19:00,259,364,7,495,8,16,6,9,2,7,364,24,16,1.49 
+2016,02,25,19:00,259,364,0,495,6,16,4,11,2,5,364,25,11,1.70 
+2016,02,23,19:00,364,384,6,605,7,16,3,12,4,4,364,21,16,1.34 
+2016,02,22,19:15,187,364,6,495,16,13,9,6,7,7,364,17,23,0.74 
+2016,02,22,19:15,364,187,0,495,16,3,13,2,3,1,364,21,8,1.85 
+2016,02,22,19:15,187,364,14,495,16,10,13,2,3,8,364,15,21,0.77 
+2016,01,24,20:15,152,703,2,606,16,3,12,3,4,0,703,9,18,0.59 
+2016,01,24,20:15,703,152,6,606,4,16,3,12,1,4,703,10,16,0.64 
+2016,01,24,13:00,703,392,2,606,16,11,9,6,7,5,703,18,19,0.93 
+2016,01,24,13:00,703,392,0,606,9,16,5,10,4,6,703,24,18,1.31 
+2016,01,24,13:00,703,392,4,606,26,24,7,8,8,7,703,37,33,1.01 
+2016,01,23,19:00,703,187,0,606,16,12,8,7,8,5,703,23,19,1.22 
+2016,01,23,19:00,187,703,14,606,11,16,7,8,4,8,703,19,16,1.09 
+2016,01,22,20:15,703,152,6,606,14,16,6,9,8,7,703,27,22,1.09 
+2016,01,22,20:15,152,703,14,606,36,32,10,5,5,10,703,73,49,1.45 
+2016,01,22,14:30,187,703,14,606,3,16,2,13,1,3,703,22,10,1.69 
+2015,12,16,18:00,703,13,7,657,5,16,3,12,2,4,703,12,18,0.68 
+2015,12,16,18:00,703,13,4,657,10,16,7,8,3,8,703,17,19,0.83 
+2015,12,16,18:00,703,13,14,657,16,11,9,6,7,5,703,21,15,1.23 
+2015,12,14,18:00,703,537,14,657,16,10,6,9,10,1,703,25,22,1.20 
+2015,12,14,18:00,703,537,1,657,5,16,3,12,2,4,703,8,18,0.52 
+2015,12,14,18:00,537,703,0,657,13,16,9,6,4,10,703,23,17,1.18 
+2015,12,08,21:00,790,703,0,657,10,16,6,9,4,7,790,28,20,1.47 
+2015,12,08,21:00,703,790,14,657,16,5,11,4,5,1,790,19,18,1.07 
+2015,12,08,21:00,703,790,1,657,10,16,6,9,4,7,790,25,16,1.34 
+2015,12,07,18:00,790,703,0,657,11,16,11,4,0,12,790,34,20,1.93 
+2015,12,07,18:00,790,703,6,657,3,16,1,14,2,2,790,16,15,1.06 
+2015,11,03,22:45,53,392,1,765,21,19,8,7,7,8,392,30,33,0.99 
+2015,11,03,21:15,890,392,1,765,2,16,2,13,0,3,392,16,15,1.17 
+2015,10,02,17:00,841,331,2,798,16,4,11,4,5,0,331,13,19,0.70 
+2015,10,02,17:00,841,331,0,798,16,19,11,4,4,11,331,29,24,1.15 
+2015,10,02,17:00,331,841,7,798,14,16,7,8,7,8,331,19,26,0.75 
+2015,09,30,20:15,723,331,4,798,6,16,3,12,3,4,331,19,12,1.28 
+2015,09,30,18:15,331,513,0,798,16,1,15,0,1,1,331,11,8,1.18 
+2015,09,23,22:00,472,331,2,741,16,4,13,2,3,2,331,7,20,0.29 
+2015,09,23,22:00,472,331,4,741,13,16,8,7,5,9,331,14,20,0.72 
+2015,09,21,18:00,971,970,1,806,16,1,14,1,2,0,970,4,16,0.28 
+2015,09,21,18:00,971,970,7,806,16,10,10,5,6,5,970,12,20,0.66 
+2015,09,21,18:00,970,971,0,806,16,14,11,4,5,10,970,25,21,1.12 
+2015,09,19,22:00,331,888,1,741,16,13,6,9,10,4,331,33,21,1.68 
+2015,09,19,22:00,888,331,0,741,10,16,2,13,8,3,331,36,13,2.14 
+2015,06,25,19:00,259,1033,6,885,16,19,8,7,7,8,1033,28,17,1.27 
+2015,06,23,19:00,1033,487,0,885,16,12,12,3,4,9,1033,31,18,1.55 
+2015,05,14,19:00,978,1069,14,923,2,16,2,13,0,3,1069,26,11,1.98 
+2015,05,14,19:00,1069,978,6,923,16,2,13,2,3,0,1069,18,7,1.69 
+2015,05,14,19:00,978,1069,0,923,16,6,11,4,5,2,1069,13,17,0.81 
+2015,05,07,18:00,1069,970,0,923,16,9,10,5,6,4,1069,28,15,1.66 
+2015,05,07,18:00,1069,970,14,923,16,11,9,6,7,5,1069,26,16,1.39 
+2015,04,19,18:35,59,1069,6,938,16,5,11,4,5,1,1069,10,18,0.57 
+2015,04,19,18:35,1069,59,1,938,11,16,5,10,6,6,1069,21,20,1.10 
+2015,04,19,18:35,1069,59,7,938,16,14,12,3,4,11,1069,26,20,1.38 
+2015,04,19,11:30,487,1069,14,938,13,16,5,10,8,6,1069,25,21,1.11 
+2015,04,19,11:30,1069,487,7,938,16,5,11,4,5,1,1069,20,9,1.54 
+2015,04,19,11:30,487,1069,0,938,16,6,12,3,4,3,1069,10,18,0.58 
+2015,04,19,09:00,1069,844,1,938,16,12,7,8,9,4,1069,13,20,0.66 
+2015,04,19,09:00,1069,844,7,938,16,9,10,5,6,4,1069,24,16,1.49 
+2015,04,18,10:00,1069,490,7,938,16,11,11,4,5,7,1069,22,17,1.13 
+2015,04,18,10:00,1069,490,0,938,16,9,10,5,6,4,1069,29,14,1.63 
+2015,04,18,10:00,490,1069,6,938,16,2,13,2,3,0,1069,12,15,0.82 
+2015,04,18,01:30,1102,1069,1,938,16,10,8,7,8,3,1069,15,24,0.65 
+2015,04,17,22:30,13,1069,14,938,16,12,10,5,6,7,1069,16,23,0.75 
+2015,04,17,21:00,1069,1103,6,938,16,12,8,7,8,5,1069,26,20,1.20 

@@ -1,5 +1,0 @@
-2014,08,02,23:45,Titan,ESG!,mirage,Gfinity 3,16,11,9,6,7,5,ESG!,23,20,1.12 
-2014,08,02,21:45,fm-eSports,ESG!,inferno,Gfinity 3,6,16,6,9,0,7,ESG!,12,14,0.78 
-2014,08,02,18:45,mousesports,ESG!,mirage,Gfinity 3,12,16,3,12,9,4,ESG!,29,19,1.60 
-2014,08,02,17:20,dignitas,ESG!,dust2,Gfinity 3,16,7,12,3,4,4,ESG!,10,19,0.53 
-2014,08,02,14:00,ESG!,Virtus.pro,cache,Gfinity 3,12,16,8,7,4,9,ESG!,20,21,0.95 

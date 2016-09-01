@@ -1,8 +1,8 @@
-2015,12,02,07:30,AstralAuthority,NexusStorm,cache,QuickShot Arena NA #1,12,16,4,11,8,5,Astral Authority,22,22,1.06 
-2015,12,02,06:00,Gosu,AstralAuthority,cache,QuickShot Arena NA #1,3,16,3,12,0,4,Astral Authority,22,9,1.73 
-2015,12,02,02:45,Nexus,AstralAuthority,cache,QuickShot Arena NA #1,14,16,10,5,4,11,Astral Authority,19,19,0.93 
-2015,12,01,02:00,AstralAuthority,NexusStorm,inferno,QuickShot Arena NA #1,9,16,4,11,5,5,Astral Authority,8,20,0.50 
-2015,12,01,02:00,NexusStorm,AstralAuthority,mirage,QuickShot Arena NA #1,16,12,6,9,10,3,Astral Authority,17,19,0.83 
-2015,11,17,01:00,CLG,Nexus,mirage,RGN Pro Series Championship,16,7,8,7,8,0,Nexus,8,19,0.43 
-2015,11,16,23:15,Renegades,Nexus,inferno,RGN Pro Series Championship,16,8,12,3,4,5,Nexus,12,21,0.64 
-2015,11,16,21:45,Enemy,Nexus,cobblestone,RGN Pro Series Championship,16,2,13,2,3,0,Nexus,11,16,0.86 
+2015,12,02,07:30,761,758,7,722,12,16,4,11,8,5,761,22,22,1.06 
+2015,12,02,06:00,818,761,7,722,3,16,3,12,0,4,761,22,9,1.73 
+2015,12,02,02:45,796,761,7,722,14,16,10,5,4,11,761,19,19,0.93 
+2015,12,01,02:00,761,758,6,722,9,16,4,11,5,5,761,8,20,0.50 
+2015,12,01,02:00,758,761,0,722,16,12,6,9,10,3,761,17,19,0.83 
+2015,11,17,01:00,291,796,0,744,16,7,8,7,8,0,796,8,19,0.43 
+2015,11,16,23:15,286,796,6,744,16,8,12,3,4,5,796,12,21,0.64 
+2015,11,16,21:45,682,796,14,744,16,2,13,2,3,0,796,11,16,0.86 

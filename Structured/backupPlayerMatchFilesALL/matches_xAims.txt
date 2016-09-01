@@ -1,23 +1,23 @@
-2016,07,11,22:10,FTW.PRO,Delete,cache,xfunction Masters 2016,11,16,10,5,1,11,FTW.PRO,17,20,0.89 
-2016,07,05,22:45,ALTERNATEaTTaX,FTW.PRO,cache,xfunction Masters 2016,16,10,10,5,6,5,FTW.PRO,11,18,0.65 
-2016,05,28,21:15,AlienTech,jA'Vi,cache,AlienTech CS:GO Invitational I..,19,16,4,11,11,4,jA'Vi,18,28,0.71 
-2016,05,28,21:15,jA'Vi,AlienTech,dust2,AlienTech CS:GO Invitational I..,5,16,5,10,0,6,jA'Vi,10,17,0.75 
-2016,05,28,21:15,AlienTech,jA'Vi,cobblestone,AlienTech CS:GO Invitational I..,14,16,6,9,8,7,jA'Vi,21,21,1.02 
-2016,05,24,22:00,AlienTech,Rasta,train,xfunction Challenge,16,2,13,2,3,0,Rasta,10,17,0.73 
-2016,05,24,22:00,AlienTech,Rasta,mirage,xfunction Challenge,16,5,11,4,5,1,Rasta,11,17,0.73 
-2016,05,16,23:15,RedLine,Rasta,mirage,xfunction Challenge,14,16,10,5,4,11,Rasta,18,22,0.85 
-2016,05,10,22:30,Epsilon,Rasta,overpass,xfunction Challenge,16,1,14,1,2,0,Rasta,4,17,0.23 
-2016,03,20,12:30,FTW.PRO,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,15,19,8,7,7,8,FTW.PRO,23,25,0.90 
-2016,03,20,12:30,FTW.PRO,ImperioMultimedia,inferno,AlienTech CS:GO Invitational I,10,16,7,8,3,8,FTW.PRO,24,16,1.31 
-2016,03,18,19:50,3R2L,FTW.PRO,mirage,AlienTech CS:GO Invitational I,11,16,4,11,7,5,FTW.PRO,28,16,1.56 
-2016,03,18,17:40,FTW.PRO,AlienTech,inferno,AlienTech CS:GO Invitational I,19,22,9,6,6,9,FTW.PRO,26,29,0.85 
-2015,11,21,19:30,FTW.PRO,Publiclir.se,cache,AlienTech AllStars,4,16,4,11,0,5,FTW.PRO,12,17,0.68 
-2015,11,21,19:30,Publiclir.se,FTW.PRO,mirage,AlienTech AllStars,16,8,12,3,4,5,FTW.PRO,19,18,1.25 
-2015,11,21,14:05,FTW.PRO,Galatics,mirage,AlienTech AllStars,16,7,13,2,3,5,FTW.PRO,23,14,1.46 
-2015,11,21,12:30,AlienTech,FTW.PRO,inferno,AlienTech AllStars,16,8,8,7,8,1,FTW.PRO,11,19,0.58 
-2015,11,21,11:10,GameplayDNA,FTW.PRO,mirage,AlienTech AllStars,10,16,7,8,3,8,FTW.PRO,15,17,0.79 
-2015,10,20,23:00,uPGaming.hellfive,KeydStars,dust2,AlienTech CS:GO TiTans I,8,16,7,8,1,8,uPGaming.hellfive,8,19,0.47 
-2015,10,15,23:00,uPGaming.hellfive,AlienTech,inferno,AlienTech CS:GO TiTans I,9,16,4,11,5,5,uPGaming.hellfive,11,17,0.79 
-2015,10,14,22:00,KeydStars,uPGaming.hellfive,cache,AlienTech CS:GO TiTans I,11,16,6,9,5,7,uPGaming.hellfive,20,14,1.23 
-2014,04,26,20:00,SteelShock,AlienTech,inferno,1Life Fraglider Invitational,14,16,6,9,8,7,SteelShock,11,20,0.68 
-2014,04,26,19:00,Panthers,SteelShock,inferno,1Life Fraglider Invitational,16,3,12,3,4,0,SteelShock,7,18,0.35 
+2016,07,11,22:10,300,136,7,488,11,16,10,5,1,11,300,17,20,0.89 
+2016,07,05,22:45,49,300,7,488,16,10,10,5,6,5,300,11,18,0.65 
+2016,05,28,21:15,278,317,7,559,19,16,4,11,11,4,317,18,28,0.71 
+2016,05,28,21:15,317,278,1,559,5,16,5,10,0,6,317,10,17,0.75 
+2016,05,28,21:15,278,317,14,559,14,16,6,9,8,7,317,21,21,1.02 
+2016,05,24,22:00,278,417,2,544,16,2,13,2,3,0,417,10,17,0.73 
+2016,05,24,22:00,278,417,0,544,16,5,11,4,5,1,417,11,17,0.73 
+2016,05,16,23:15,434,417,0,544,14,16,10,5,4,11,417,18,22,0.85 
+2016,05,10,22:30,52,417,4,544,16,1,14,1,2,0,417,4,17,0.23 
+2016,03,20,12:30,300,432,1,626,15,19,8,7,7,8,300,23,25,0.90 
+2016,03,20,12:30,300,432,6,626,10,16,7,8,3,8,300,24,16,1.31 
+2016,03,18,19:50,595,300,0,626,11,16,4,11,7,5,300,28,16,1.56 
+2016,03,18,17:40,300,278,6,626,19,22,9,6,6,9,300,26,29,0.85 
+2015,11,21,19:30,300,517,7,736,4,16,4,11,0,5,300,12,17,0.68 
+2015,11,21,19:30,517,300,0,736,16,8,12,3,4,5,300,19,18,1.25 
+2015,11,21,14:05,300,288,0,736,16,7,13,2,3,5,300,23,14,1.46 
+2015,11,21,12:30,278,300,6,736,16,8,8,7,8,1,300,11,19,0.58 
+2015,11,21,11:10,248,300,0,736,10,16,7,8,3,8,300,15,17,0.79 
+2015,10,20,23:00,850,404,1,778,8,16,7,8,1,8,850,8,19,0.47 
+2015,10,15,23:00,850,278,6,778,9,16,4,11,5,5,850,11,17,0.79 
+2015,10,14,22:00,404,850,7,778,11,16,6,9,5,7,850,20,14,1.23 
+2014,04,26,20:00,1263,278,6,1074,14,16,6,9,8,7,1263,11,20,0.68 
+2014,04,26,19:00,1087,1263,6,1074,16,3,12,3,4,0,1263,7,18,0.35 

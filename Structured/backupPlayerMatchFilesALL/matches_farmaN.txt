@@ -1,2 +1,2 @@
-2016,08,13,16:00,Armenia,Bosnia&Herzegovina,mirage,World Championships 2016 Europ..,1,16,1,14,0,2,Armenia,6,16,0.34 
-2016,08,13,16:00,Armenia,Bosnia&Herzegovina,cobblestone,World Championships 2016 Europ..,1,16,1,14,0,2,Armenia,6,16,0.41 
+2016,08,13,16:00,73,74,0,463,1,16,1,14,0,2,73,6,16,0.34 
+2016,08,13,16:00,73,74,14,463,1,16,1,14,0,2,73,6,16,0.41 

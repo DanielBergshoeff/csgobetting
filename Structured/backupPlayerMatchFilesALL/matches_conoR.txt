@@ -1,9 +1,9 @@
-2016,07,03,20:45,TheWorkingMen,Reason,cache,ESL UK Premiership Spring 2016..,16,13,6,9,10,4,Reason,18,22,0.76 
-2016,07,03,20:45,TheWorkingMen,Reason,mirage,ESL UK Premiership Spring 2016..,16,9,9,6,7,3,Reason,17,18,0.91 
-2016,07,03,20:45,TheWorkingMen,Reason,cobblestone,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,Reason,14,22,0.64 
-2016,07,03,15:30,Reason,Infused,cache,ESL UK Premiership Spring 2016..,16,11,9,6,7,5,Reason,17,18,0.84 
-2016,07,03,15:30,Infused,Reason,mirage,ESL UK Premiership Spring 2016..,7,16,6,9,1,7,Reason,10,12,0.80 
-2016,07,03,15:30,Reason,Infused,cobblestone,ESL UK Premiership Spring 2016..,13,16,4,11,9,5,Reason,28,19,1.39 
-2016,04,30,17:45,Reason,Orbit,inferno,DreamHack Regional Minor Champ..,13,16,7,8,6,8,Reason,16,25,0.67 
-2015,08,14,17:00,Ireland,Greece,dust2,World Championships 2015 Europ..,16,14,6,9,10,5,Ireland,19,21,0.93 
-2015,08,14,17:00,Greece,Ireland,cobblestone,World Championships 2015 Europ..,5,16,4,11,1,5,Ireland,24,12,1.55 
+2016,07,03,20:45,313,314,7,528,16,13,6,9,10,4,314,18,22,0.76 
+2016,07,03,20:45,313,314,0,528,16,9,9,6,7,3,314,17,18,0.91 
+2016,07,03,20:45,313,314,14,528,13,16,8,7,5,9,314,14,22,0.64 
+2016,07,03,15:30,314,315,7,528,16,11,9,6,7,5,314,17,18,0.84 
+2016,07,03,15:30,315,314,0,528,7,16,6,9,1,7,314,10,12,0.80 
+2016,07,03,15:30,314,315,14,528,13,16,4,11,9,5,314,28,19,1.39 
+2016,04,30,17:45,314,297,6,573,13,16,7,8,6,8,314,16,25,0.67 
+2015,08,14,17:00,1017,88,1,799,16,14,6,9,10,5,1017,19,21,0.93 
+2015,08,14,17:00,88,1017,14,799,5,16,4,11,1,5,1017,24,12,1.55 

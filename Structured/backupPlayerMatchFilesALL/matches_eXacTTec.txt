@@ -1,4 +1,4 @@
-2014,08,27,19:00,Finland,Slovenia,inferno,European Championship 2014 Qua..,16,8,11,4,5,4,Slovenia,15,20,0.75 
-2014,08,27,19:00,Slovenia,Finland,mirage,European Championship 2014 Qua..,13,16,7,8,6,8,Slovenia,9,24,0.46 
-2014,08,19,22:07,Slovenia,FaroeIslands,nuke,European Championship 2014 Qua..,16,9,9,6,7,3,Slovenia,22,12,1.32 
-2014,08,19,22:00,Slovenia,FaroeIslands,mirage,European Championship 2014 Qua..,16,2,15,0,1,2,Slovenia,13,9,1.24 
+2014,08,27,19:00,940,24,6,1035,16,8,11,4,5,4,24,15,20,0.75 
+2014,08,27,19:00,24,940,0,1035,13,16,7,8,6,8,24,9,24,0.46 
+2014,08,19,22:07,24,1216,5,1035,16,9,9,6,7,3,24,22,12,1.32 
+2014,08,19,22:00,24,1216,0,1035,16,2,15,0,1,2,24,13,9,1.24 

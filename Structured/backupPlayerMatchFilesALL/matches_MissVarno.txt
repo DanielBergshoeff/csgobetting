@@ -1,4 +1,4 @@
-2016,03,25,20:15,ENYOfe,doyouevenfe,overpass,Copenhagen Games 2016 female,2,16,1,14,1,2,ENYO fe,8,17,0.45 
-2016,03,25,20:15,doyouevenfe,ENYOfe,cache,Copenhagen Games 2016 female,16,6,11,4,5,2,ENYO fe,7,19,0.43 
-2016,03,25,12:55,doyouevenfe,ENYOfe,dust2,Copenhagen Games 2016 female,16,1,14,1,2,0,ENYO fe,6,16,0.38 
-2016,03,25,12:55,doyouevenfe,ENYOfe,mirage,Copenhagen Games 2016 female,16,5,13,2,3,3,ENYO fe,6,19,0.34 
+2016,03,25,20:15,526,518,4,620,2,16,1,14,1,2,526,8,17,0.45 
+2016,03,25,20:15,518,526,7,620,16,6,11,4,5,2,526,7,19,0.43 
+2016,03,25,12:55,518,526,1,620,16,1,14,1,2,0,526,6,16,0.38 
+2016,03,25,12:55,518,526,0,620,16,5,13,2,3,3,526,6,19,0.34 

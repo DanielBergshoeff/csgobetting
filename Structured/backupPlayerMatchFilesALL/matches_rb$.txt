@@ -1,15 +1,15 @@
-2016,08,14,15:00,jalapeno,X,overpass,ECS Season 2 EU Open Qualifier..,14,16,10,5,4,11,jalapeno,17,22,0.90 
-2016,08,12,20:45,KoNSweden,KoNFinland,dust2,King of Nordic Season 4,3,16,2,13,1,3,KoN Sweden,8,16,0.51 
-2016,06,14,20:00,visomvet,mixbanan,overpass,Yoggi Yalla Cup,14,16,8,7,6,9,visomvet,23,25,0.99 
-2016,06,14,20:00,visomvet,mixbanan,mirage,Yoggi Yalla Cup,16,14,5,10,11,4,visomvet,26,20,1.17 
-2016,06,14,20:00,mixbanan,visomvet,cache,Yoggi Yalla Cup,16,11,7,8,9,3,visomvet,25,22,1.23 
-2016,06,14,18:00,visomvet,demonlaget,mirage,Yoggi Yalla Cup,16,9,9,6,7,3,visomvet,16,18,0.86 
-2016,06,14,18:00,demonlaget,visomvet,cache,Yoggi Yalla Cup,6,16,6,9,0,7,visomvet,15,13,1.04 
-2016,06,05,12:00,Gambit,visomvet,cache,DreamHack ZOWIE Open Summer 20..,16,8,11,4,5,4,visomvet,19,21,1.10 
-2016,06,05,12:00,visomvet,Gambit,cobblestone,DreamHack ZOWIE Open Summer 20..,8,16,5,10,3,6,visomvet,11,21,0.56 
-2016,06,04,18:25,visomvet,MeMyself&I,cache,DreamHack ZOWIE Open Summer 20..,16,7,9,6,7,1,visomvet,16,13,1.19 
-2016,05,01,15:00,visomvet,AGG,inferno,DreamHack Regional Minor Champ..,9,16,6,9,3,7,visomvet,8,20,0.45 
-2016,05,01,15:00,visomvet,AGG,cobblestone,DreamHack Regional Minor Champ..,5,16,5,10,0,6,visomvet,12,17,0.72 
-2016,04,30,17:50,visomvet,RedInstinctRS,overpass,DreamHack Regional Minor Champ..,16,11,10,5,6,6,visomvet,26,21,1.24 
-2016,03,28,22:50,visomvet,RAIDERS,cache,Yoggi Yalla Cup,16,10,7,8,9,2,visomvet,19,14,1.14 
-2016,03,28,22:50,visomvet,RAIDERS,mirage,Yoggi Yalla Cup,16,11,14,1,2,10,visomvet,32,15,1.91 
+2016,08,14,15:00,58,46,4,477,14,16,10,5,4,11,58,17,22,0.90 
+2016,08,12,20:45,82,80,1,484,3,16,2,13,1,3,82,8,16,0.51 
+2016,06,14,20:00,356,156,4,551,14,16,8,7,6,9,356,23,25,0.99 
+2016,06,14,20:00,356,156,0,551,16,14,5,10,11,4,356,26,20,1.17 
+2016,06,14,20:00,156,356,7,551,16,11,7,8,9,3,356,25,22,1.23 
+2016,06,14,18:00,356,160,0,551,16,9,9,6,7,3,356,16,18,0.86 
+2016,06,14,18:00,160,356,7,551,6,16,6,9,0,7,356,15,13,1.04 
+2016,06,05,12:00,152,356,7,546,16,8,11,4,5,4,356,19,21,1.10 
+2016,06,05,12:00,356,152,14,546,8,16,5,10,3,6,356,11,21,0.56 
+2016,06,04,18:25,356,353,7,546,16,7,9,6,7,1,356,16,13,1.19 
+2016,05,01,15:00,356,101,6,573,9,16,6,9,3,7,356,8,20,0.45 
+2016,05,01,15:00,356,101,14,573,5,16,5,10,0,6,356,12,17,0.72 
+2016,04,30,17:50,356,463,4,573,16,11,10,5,6,6,356,26,21,1.24 
+2016,03,28,22:50,356,506,7,551,16,10,7,8,9,2,356,19,14,1.14 
+2016,03,28,22:50,356,506,0,551,16,11,14,1,2,10,356,32,15,1.91 

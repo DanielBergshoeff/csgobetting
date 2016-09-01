@@ -1,10 +1,10 @@
-2016,03,20,13:00,NewSkillInfinity,dignitas,inferno,DreamHack Masters Malmö 2016 E..,3,16,3,12,0,4,NewSkill Infinity,6,16,0.39 
-2016,03,20,13:00,dignitas,NewSkillInfinity,mirage,DreamHack Masters Malmö 2016 E..,19,15,5,10,10,5,NewSkill Infinity,22,26,0.87 
-2015,10,03,15:00,summa.gg,OverGaming,cache,SocialNat Master League,7,16,2,13,5,3,summa.gg,16,17,0.95 
-2015,10,03,15:00,OverGaming,summa.gg,inferno,SocialNat Master League,16,8,11,4,5,4,summa.gg,13,19,0.67 
-2015,09,15,18:30,Serbia,Spain,mirage,World Championships 2015 Europ..,8,16,6,9,2,7,Spain,15,14,1.03 
-2015,09,06,15:00,Wizards,dignitas,overpass,DreamHack Open Cluj-Napoca 201..,3,16,3,12,0,4,Wizards,16,16,1.02 
-2015,09,06,12:00,HellRaisers,Wizards,train,DreamHack Open Cluj-Napoca 201..,16,10,11,4,5,6,Wizards,20,18,1.01 
-2015,09,06,12:00,HellRaisers,Wizards,overpass,DreamHack Open Cluj-Napoca 201..,16,4,13,2,3,2,Wizards,11,19,0.76 
-2015,09,06,12:00,Wizards,HellRaisers,inferno,DreamHack Open Cluj-Napoca 201..,16,14,6,9,10,5,Wizards,21,21,0.96 
-2015,09,05,19:10,melty,Wizards,inferno,DreamHack Open Cluj-Napoca 201..,9,16,8,7,1,9,Wizards,20,14,1.21 
+2016,03,20,13:00,591,22,6,625,3,16,3,12,0,4,591,6,16,0.39 
+2016,03,20,13:00,22,591,0,625,19,15,5,10,10,5,591,22,26,0.87 
+2015,10,03,15:00,951,944,7,794,7,16,2,13,5,3,951,16,17,0.95 
+2015,10,03,15:00,944,951,6,794,16,8,11,4,5,4,951,13,19,0.67 
+2015,09,15,18:30,124,959,0,799,8,16,6,9,2,7,959,15,14,1.03 
+2015,09,06,15:00,1001,22,4,766,3,16,3,12,0,4,1001,16,16,1.02 
+2015,09,06,12:00,59,1001,2,766,16,10,11,4,5,6,1001,20,18,1.01 
+2015,09,06,12:00,59,1001,4,766,16,4,13,2,3,2,1001,11,19,0.76 
+2015,09,06,12:00,1001,59,6,766,16,14,6,9,10,5,1001,21,21,0.96 
+2015,09,05,19:10,755,1001,6,766,9,16,8,7,1,9,1001,20,14,1.21 

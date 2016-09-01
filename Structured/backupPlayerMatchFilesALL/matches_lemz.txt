@@ -1,10 +1,10 @@
-2016,03,23,04:20,Braindead,h00liGaNz,train,Razer Rising Stars NA League Q..,16,12,8,7,8,5,h00liGaNz,19,22,0.97 
-2015,10,29,03:00,Splyce,Coastless,inferno,SL i-League StarSeries XIV,16,3,14,1,2,2,Coastless,7,17,0.42 
-2015,10,28,03:00,Coastless,Conquest,train,SL i-League StarSeries XIV,9,16,2,13,7,3,Coastless,11,18,0.64 
-2015,10,28,03:00,Coastless,Conquest,overpass,SL i-League StarSeries XIV,7,16,4,11,3,5,Coastless,14,18,0.76 
-2015,10,25,03:00,Coastless,Liquid,dust2,ESL ESEA Pro League Season 2,10,16,3,12,7,4,Coastless,5,23,0.28 
-2015,10,25,01:00,Coastless,Luminosity,cache,ESL ESEA Pro League Season 2,17,19,5,10,10,5,Coastless,30,26,1.07 
-2015,10,21,05:00,Coastless,Winterfox,train,ESL ESEA Pro League Season 2,16,7,11,4,5,3,Coastless,11,16,0.67 
-2015,10,14,02:00,Enemy,Coast,train,ESL ESEA Pro League Season 2,16,4,13,2,3,2,Coast,11,19,0.59 
-2015,09,15,02:00,Liquid,h00liGaNz,train,DreamHack Open Cluj-Napoca 201..,16,4,12,3,4,1,h00liGaNz,8,20,0.39 
-2015,09,15,02:00,h00liGaNz,Liquid,cache,DreamHack Open Cluj-Napoca 201..,6,16,5,10,1,6,h00liGaNz,17,19,1.07 
+2016,03,23,04:20,586,587,2,621,16,12,8,7,8,5,587,19,22,0.97 
+2015,10,29,03:00,362,896,6,696,16,3,14,1,2,2,896,7,17,0.42 
+2015,10,28,03:00,896,738,2,696,9,16,2,13,7,3,896,11,18,0.64 
+2015,10,28,03:00,896,738,4,696,7,16,4,11,3,5,896,14,18,0.76 
+2015,10,25,03:00,896,303,1,740,10,16,3,12,7,4,896,5,23,0.28 
+2015,10,25,01:00,896,70,7,740,17,19,5,10,10,5,896,30,26,1.07 
+2015,10,21,05:00,896,279,2,740,16,7,11,4,5,3,896,11,16,0.67 
+2015,10,14,02:00,682,933,2,740,16,4,13,2,3,2,933,11,19,0.59 
+2015,09,15,02:00,303,587,2,766,16,4,12,3,4,1,587,8,20,0.39 
+2015,09,15,02:00,587,303,7,766,6,16,5,10,1,6,587,17,19,1.07 

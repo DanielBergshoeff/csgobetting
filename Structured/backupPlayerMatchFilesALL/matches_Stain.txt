@@ -1,6 +1,6 @@
-2016,08,15,19:20,DamageControl,FlipSid3,dust2,WESG 2016 South & East Africa,19,15,10,5,5,10,FlipSid3,23,25,0.97 
-2016,08,15,19:20,FlipSid3,DamageControl,cache,WESG 2016 South & East Africa,2,16,2,13,0,3,FlipSid3,15,16,0.92 
-2016,08,14,20:40,Bravado,FlipSid3,cobblestone,WESG 2016 South & East Africa,22,18,4,11,11,4,FlipSid3,26,27,0.92 
-2016,08,14,20:40,Bravado,FlipSid3,cache,WESG 2016 South & East Africa,16,3,12,3,4,0,FlipSid3,5,18,0.32 
-2016,07,30,16:45,FlipSid3,Aperture,train,ESWC 2016 South African Qualif..,1,16,1,14,0,2,FlipSid3,9,15,0.71 
-2016,07,30,16:45,FlipSid3,Aperture,cache,ESWC 2016 South African Qualif..,7,16,7,8,0,8,FlipSid3,13,19,0.71 
+2016,08,15,19:20,12,13,1,468,19,15,10,5,5,10,13,23,25,0.97 
+2016,08,15,19:20,13,12,7,468,2,16,2,13,0,3,13,15,16,0.92 
+2016,08,14,20:40,18,13,14,468,22,18,4,11,11,4,13,26,27,0.92 
+2016,08,14,20:40,18,13,7,468,16,3,12,3,4,0,13,5,18,0.32 
+2016,07,30,16:45,13,40,2,500,1,16,1,14,0,2,13,9,15,0.71 
+2016,07,30,16:45,13,40,7,500,7,16,7,8,0,8,13,13,19,0.71 

@@ -1,2 +1,2 @@
-2015,04,25,21:00,PiTER,MoscowFive,mirage,Uprise Champions Cup Season 2,16,11,9,6,7,5,Moscow Five,13,20,0.66 
-2015,04,25,21:00,PiTER,MoscowFive,cobblestone,Uprise Champions Cup Season 2,16,4,12,3,4,1,Moscow Five,6,17,0.37 
+2015,04,25,21:00,490,1082,0,923,16,11,9,6,7,5,1082,13,20,0.66 
+2015,04,25,21:00,490,1082,14,923,16,4,12,3,4,1,1082,6,17,0.37 

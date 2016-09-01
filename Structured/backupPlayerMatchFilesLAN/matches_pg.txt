@@ -1,5 +1,0 @@
-2016,02,21,15:00,DenDD,Preparation,cache,Nordic Masters Season 2 Finals,14,16,3,12,11,4,DenDD,15,21,0.76 
-2016,02,21,15:00,DenDD,Preparation,mirage,Nordic Masters Season 2 Finals,19,22,8,7,7,8,DenDD,23,31,0.81 
-2016,02,20,14:30,BX3,DenDD,overpass,Nordic Masters Season 2 Finals,7,16,5,10,2,6,DenDD,14,16,0.86 
-2016,02,20,14:30,BX3,DenDD,mirage,Nordic Masters Season 2 Finals,14,16,9,6,5,10,DenDD,19,20,0.99 
-2016,02,20,13:30,Propertyfe,DenDD,mirage,Nordic Masters Season 2 Finals,4,16,4,11,0,5,DenDD,15,13,1.20 

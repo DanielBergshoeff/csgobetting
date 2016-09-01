@@ -1,21 +1,21 @@
-2016,05,16,02:40,Vault,TempoStorm,cobblestone,ESEA Premier Season 21 North A..,1,16,1,14,0,2,Vault,9,17,0.51 
-2016,05,16,02:40,Vault,TempoStorm,train,ESEA Premier Season 21 North A..,13,16,9,6,4,10,Vault,12,21,0.59 
-2016,05,09,02:00,Vault,Noble,cobblestone,MLG Regional Minor North Ameri..,13,16,7,8,6,8,Vault,11,22,0.59 
-2016,05,08,22:15,Prospects,Vault,cache,MLG Regional Minor North Ameri..,16,9,7,8,9,1,Vault,9,22,0.40 
-2016,05,08,22:15,Vault,Prospects,mirage,MLG Regional Minor North Ameri..,16,13,10,5,6,8,Vault,15,19,0.83 
-2016,05,08,22:15,Prospects,Vault,train,MLG Regional Minor North Ameri..,16,13,11,4,5,9,Vault,19,24,0.83 
-2016,05,08,19:00,MostlyHomeless,Vault,dust2,MLG Regional Minor North Ameri..,8,16,4,11,4,5,Vault,17,15,1.07 
-2016,05,08,19:00,MostlyHomeless,Vault,cobblestone,MLG Regional Minor North Ameri..,14,16,7,8,7,8,Vault,22,23,0.96 
-2016,05,08,19:00,MostlyHomeless,Vault,train,MLG Regional Minor North Ameri..,16,14,12,3,4,11,Vault,25,22,1.09 
-2016,04,19,02:15,Vault,Selfless,inferno,CEVO Gfinity Professional Seas..,4,16,2,13,2,3,Vault,13,17,0.78 
-2016,04,19,02:15,Selfless,Vault,train,CEVO Gfinity Professional Seas..,16,8,11,4,5,4,Vault,20,19,1.16 
-2016,04,12,04:15,Vault,KKona,train,CEVO Gfinity Professional Seas..,16,5,10,5,6,0,Vault,18,12,1.23 
-2016,04,12,04:15,Vault,KKona,cobblestone,CEVO Gfinity Professional Seas..,16,10,9,6,7,4,Vault,14,18,0.75 
-2016,03,22,04:15,NRG,Vault,mirage,CEVO Gfinity Professional Seas..,16,9,9,6,7,3,Vault,17,18,0.89 
-2016,03,22,04:15,NRG,Vault,dust2,CEVO Gfinity Professional Seas..,16,10,9,6,7,4,Vault,16,21,0.80 
-2016,02,22,05:00,Vault,compLexity,overpass,CEVO Gfinity Professional Seas..,10,16,8,7,2,9,Vault,14,19,0.80 
-2016,02,22,05:00,Vault,compLexity,cache,CEVO Gfinity Professional Seas..,7,16,3,12,4,4,Vault,14,19,0.80 
-2016,02,22,05:00,compLexity,Vault,mirage,CEVO Gfinity Professional Seas..,16,19,8,7,7,8,Vault,24,30,0.89 
-2016,02,15,02:00,Bee'sMoneyCrew,Vault,dust2,CEVO Gfinity Professional Seas..,5,16,2,13,3,3,Vault,13,12,0.95 
-2016,02,15,02:00,Bee'sMoneyCrew,Vault,mirage,CEVO Gfinity Professional Seas..,16,12,9,6,7,6,Vault,21,23,1.00 
-2016,02,15,02:00,Bee'sMoneyCrew,Vault,cobblestone,CEVO Gfinity Professional Seas..,11,16,9,6,2,10,Vault,19,14,1.09 
+2016,05,16,02:40,436,424,14,574,1,16,1,14,0,2,436,9,17,0.51 
+2016,05,16,02:40,436,424,2,574,13,16,9,6,4,10,436,12,21,0.59 
+2016,05,09,02:00,436,447,14,581,13,16,7,8,6,8,436,11,22,0.59 
+2016,05,08,22:15,97,436,7,581,16,9,7,8,9,1,436,9,22,0.40 
+2016,05,08,22:15,436,97,0,581,16,13,10,5,6,8,436,15,19,0.83 
+2016,05,08,22:15,97,436,2,581,16,13,11,4,5,9,436,19,24,0.83 
+2016,05,08,19:00,449,436,1,581,8,16,4,11,4,5,436,17,15,1.07 
+2016,05,08,19:00,449,436,14,581,14,16,7,8,7,8,436,22,23,0.96 
+2016,05,08,19:00,449,436,2,581,16,14,12,3,4,11,436,25,22,1.09 
+2016,04,19,02:15,436,69,6,590,4,16,2,13,2,3,436,13,17,0.78 
+2016,04,19,02:15,69,436,2,590,16,8,11,4,5,4,436,20,19,1.16 
+2016,04,12,04:15,436,471,2,590,16,5,10,5,6,0,436,18,12,1.23 
+2016,04,12,04:15,436,471,14,590,16,10,9,6,7,4,436,14,18,0.75 
+2016,03,22,04:15,366,436,0,590,16,9,9,6,7,3,436,17,18,0.89 
+2016,03,22,04:15,366,436,1,590,16,10,9,6,7,4,436,16,21,0.80 
+2016,02,22,05:00,436,116,4,590,10,16,8,7,2,9,436,14,19,0.80 
+2016,02,22,05:00,436,116,7,590,7,16,3,12,4,4,436,14,19,0.80 
+2016,02,22,05:00,116,436,0,590,16,19,8,7,7,8,436,24,30,0.89 
+2016,02,15,02:00,422,436,1,590,5,16,2,13,3,3,436,13,12,0.95 
+2016,02,15,02:00,422,436,0,590,16,12,9,6,7,6,436,21,23,1.00 
+2016,02,15,02:00,422,436,14,590,11,16,9,6,2,10,436,19,14,1.09 

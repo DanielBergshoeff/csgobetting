@@ -1,22 +1,22 @@
-2016,08,15,19:00,VivaAlgeria,FENNEC,mirage,WESG 2016 North & West Africa,16,7,11,4,5,3,Viva Algeria,27,11,1.89 
-2016,08,15,19:00,VivaAlgeria,FENNEC,cobblestone,WESG 2016 North & West Africa,14,16,10,5,4,11,Viva Algeria,24,24,0.99 
-2016,08,15,19:00,FENNEC,VivaAlgeria,overpass,WESG 2016 North & West Africa,5,16,4,11,1,5,Viva Algeria,26,14,1.72 
-2016,08,14,23:45,VivaAlgeria,DREAM.RAR,cobblestone,WESG 2016 North & West Africa,16,1,14,1,2,0,Viva Algeria,18,10,1.70 
-2016,08,14,23:45,VivaAlgeria,DREAM.RAR,mirage,WESG 2016 North & West Africa,12,16,6,9,6,7,Viva Algeria,17,20,0.86 
-2016,08,14,23:45,VivaAlgeria,DREAM.RAR,cache,WESG 2016 North & West Africa,16,11,8,7,8,4,Viva Algeria,28,13,1.57 
-2016,07,25,22:00,RedInstinct,Awsomniac,dust2,UnderDogs #4,13,16,3,12,10,4,Red Instinct,18,18,0.97 
-2016,07,25,22:00,Awsomniac,RedInstinct,cobblestone,UnderDogs #4,16,7,11,4,5,3,Red Instinct,13,19,0.92 
-2016,04,24,15:00,dignitas,RedInstinct,mirage,DreamHack Regional Minor Champ..,16,5,14,1,2,4,Red Instinct,15,18,0.88 
-2016,04,24,15:00,dignitas,RedInstinct,cache,DreamHack Regional Minor Champ..,16,5,12,3,4,2,Red Instinct,13,20,0.64 
-2016,04,23,19:10,n0_0rg,RedInstinct,cache,DreamHack Regional Minor Champ..,16,11,8,7,8,4,Red Instinct,17,20,1.00 
-2016,04,23,18:00,Alpha,RedInstinct,cobblestone,DreamHack Regional Minor Champ..,10,16,4,11,6,5,Red Instinct,20,16,1.07 
-2015,12,19,21:00,RvN,VivaAlgeria,cobblestone,AFKG MENA Championship,4,16,4,11,0,5,Viva Algeria,25,12,1.75 
-2015,12,19,21:00,VivaAlgeria,RvN,dust2,AFKG MENA Championship,16,12,6,9,10,3,Viva Algeria,27,16,1.53 
-2015,12,19,21:00,VivaAlgeria,RvN,train,AFKG MENA Championship,16,12,9,6,7,6,Viva Algeria,18,19,0.97 
-2015,12,19,17:30,CamelRiders,VivaAlgeria,inferno,AFKG MENA Championship,10,16,9,6,1,10,Viva Algeria,33,15,2.03 
-2015,12,19,17:30,VivaAlgeria,CamelRiders,cobblestone,AFKG MENA Championship,9,16,4,11,5,5,Viva Algeria,27,16,1.52 
-2015,12,19,17:30,CamelRiders,VivaAlgeria,cache,AFKG MENA Championship,9,16,6,9,3,7,Viva Algeria,24,13,1.36 
-2015,12,18,23:10,VivaAlgeria,Octupus1,cobblestone,AFKG MENA Championship,16,10,9,6,7,4,Viva Algeria,27,15,1.55 
-2015,12,18,23:10,Octupus1,VivaAlgeria,cache,AFKG MENA Championship,11,16,10,5,1,11,Viva Algeria,20,17,1.14 
-2014,11,24,00:20,Orbit,GGL,dust2,Go4CS:GO Cup #122,16,5,11,4,5,1,GGL,14,17,0.85 
-2014,11,24,00:20,GGL,Orbit,inferno,Go4CS:GO Cup #122,17,19,11,4,4,11,GGL,25,26,1.00 
+2016,08,15,19:00,20,21,0,469,16,7,11,4,5,3,20,27,11,1.89 
+2016,08,15,19:00,20,21,14,469,14,16,10,5,4,11,20,24,24,0.99 
+2016,08,15,19:00,21,20,4,469,5,16,4,11,1,5,20,26,14,1.72 
+2016,08,14,23:45,20,15,14,469,16,1,14,1,2,0,20,18,10,1.70 
+2016,08,14,23:45,20,15,0,469,12,16,6,9,6,7,20,17,20,0.86 
+2016,08,14,23:45,20,15,7,469,16,11,8,7,8,4,20,28,13,1.57 
+2016,07,25,22:00,55,234,1,509,13,16,3,12,10,4,55,18,18,0.97 
+2016,07,25,22:00,234,55,14,509,16,7,11,4,5,3,55,13,19,0.92 
+2016,04,24,15:00,22,55,0,573,16,5,14,1,2,4,55,15,18,0.88 
+2016,04,24,15:00,22,55,7,573,16,5,12,3,4,2,55,13,20,0.64 
+2016,04,23,19:10,476,55,7,573,16,11,8,7,8,4,55,17,20,1.00 
+2016,04,23,18:00,233,55,14,573,10,16,4,11,6,5,55,20,16,1.07 
+2015,12,19,21:00,729,20,14,690,4,16,4,11,0,5,20,25,12,1.75 
+2015,12,19,21:00,20,729,1,690,16,12,6,9,10,3,20,27,16,1.53 
+2015,12,19,21:00,20,729,2,690,16,12,9,6,7,6,20,18,19,0.97 
+2015,12,19,17:30,733,20,6,690,10,16,9,6,1,10,20,33,15,2.03 
+2015,12,19,17:30,20,733,14,690,9,16,4,11,5,5,20,27,16,1.52 
+2015,12,19,17:30,733,20,7,690,9,16,6,9,3,7,20,24,13,1.36 
+2015,12,18,23:10,20,736,14,690,16,10,9,6,7,4,20,27,15,1.55 
+2015,12,18,23:10,736,20,7,690,11,16,10,5,1,11,20,20,17,1.14 
+2014,11,24,00:20,297,1161,1,986,16,5,11,4,5,1,1161,14,17,0.85 
+2014,11,24,00:20,1161,297,6,986,17,19,11,4,4,11,1161,25,26,1.00 

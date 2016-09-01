@@ -1,8 +1,8 @@
-2015,09,28,19:30,RedInstinct,LDLCBlue,dust2,UnderDogs #1,5,16,2,13,3,3,Red Instinct,13,17,0.89 
-2015,09,28,19:30,RedInstinct,LDLCBlue,cobblestone,UnderDogs #1,13,16,4,11,9,5,Red Instinct,21,18,1.09 
-2015,09,18,19:30,RedInstinct,melty,cache,LevelDown Championship,16,12,10,5,6,7,Red Instinct,27,19,1.36 
-2015,09,17,22:15,DeadPixels,RedInstinct,mirage,LevelDown Championship,16,1,14,1,2,0,Red Instinct,6,16,0.38 
-2015,09,17,22:15,RedInstinct,DeadPixels,cobblestone,LevelDown Championship,16,11,7,8,9,3,Red Instinct,19,17,1.04 
-2015,09,17,22:15,RedInstinct,DeadPixels,dust2,LevelDown Championship,5,16,5,10,0,6,Red Instinct,10,16,0.76 
-2015,09,16,23:45,RedInstinct,TS-Netteux,dust2,LevelDown Championship,16,14,5,10,11,4,Red Instinct,20,19,0.99 
-2015,09,16,21:30,RedInstinct,WEGOTGAME,cobblestone,LevelDown Championship,13,16,4,11,9,5,Red Instinct,20,18,1.15 
+2015,09,28,19:30,55,508,1,757,5,16,2,13,3,3,55,13,17,0.89 
+2015,09,28,19:30,55,508,14,757,13,16,4,11,9,5,55,21,18,1.09 
+2015,09,18,19:30,55,755,7,811,16,12,10,5,6,7,55,27,19,1.36 
+2015,09,17,22:15,475,55,0,811,16,1,14,1,2,0,55,6,16,0.38 
+2015,09,17,22:15,55,475,14,811,16,11,7,8,9,3,55,19,17,1.04 
+2015,09,17,22:15,55,475,1,811,5,16,5,10,0,6,55,10,16,0.76 
+2015,09,16,23:45,55,982,1,811,16,14,5,10,11,4,55,20,19,0.99 
+2015,09,16,21:30,55,323,14,811,13,16,4,11,9,5,55,20,18,1.15 

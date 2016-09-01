@@ -1,6 +1,0 @@
-2016,06,05,20:45,WarMonkeys,VECA,mirage,Tuddinn LAN 2 | 2016,16,14,7,8,9,6,VECA,19,22,0.86 
-2016,06,05,20:45,VECA,WarMonkeys,inferno,Tuddinn LAN 2 | 2016,16,10,7,8,9,2,VECA,13,18,0.83 
-2016,06,05,20:45,VECA,WarMonkeys,cache,Tuddinn LAN 2 | 2016,3,16,3,12,0,4,VECA,10,15,0.67 
-2016,05,21,18:45,VECA,tropadeleet,mirage,Tuddinn Spring 2016 LAN Finals,16,14,6,9,10,5,VECA,37,19,1.75 
-2016,05,21,18:45,VECA,tropadeleet,cobblestone,Tuddinn Spring 2016 LAN Finals,16,11,6,9,10,2,VECA,26,20,1.34 
-2016,05,21,18:45,tropadeleet,VECA,dust2,Tuddinn Spring 2016 LAN Finals,16,12,11,4,5,8,VECA,20,19,1.00 

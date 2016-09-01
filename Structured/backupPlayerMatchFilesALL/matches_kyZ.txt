@@ -1,3 +1,3 @@
-2016,03,13,06:40,SavageWolves,TheMongolz,dust2,DreamHack Masters Malmö 2016 A..,3,16,0,15,3,1,Savage Wolves,6,17,0.38 
-2016,03,13,06:40,SavageWolves,TheMongolz,mirage,DreamHack Masters Malmö 2016 A..,5,16,4,11,1,5,Savage Wolves,10,20,0.49 
-2016,03,12,14:00,SavageWolves,Mahameru,mirage,DreamHack Masters Malmö 2016 A..,16,11,12,3,4,8,Savage Wolves,22,18,1.17 
+2016,03,13,06:40,615,150,1,633,3,16,0,15,3,1,615,6,17,0.38 
+2016,03,13,06:40,615,150,0,633,5,16,4,11,1,5,615,10,20,0.49 
+2016,03,12,14:00,615,626,0,633,16,11,12,3,4,8,615,22,18,1.17 

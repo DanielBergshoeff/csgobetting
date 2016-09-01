@@ -1,27 +1,31 @@
-2016,05,23,20:00,eSuba,PLAYZONE,mirage,Razer Rising Stars European Le..,22,20,7,8,8,7,eSuba,11,12,0.88 
-2016,05,21,21:25,MajesticLions,eXtatus,overpass,PLAYzone League I LAN Finals,6,16,5,10,1,6,Majestic Lions,12,21,0.57 
-2016,05,21,21:25,MajesticLions,eXtatus,cache,PLAYzone League I LAN Finals,8,16,6,9,2,7,Majestic Lions,12,20,0.67 
-2016,05,21,13:50,MajesticLions,GUNRUNNERS,overpass,PLAYzone League I LAN Finals,16,12,9,6,7,6,Majestic Lions,22,20,1.20 
-2016,05,21,13:50,MajesticLions,GUNRUNNERS,cache,PLAYzone League I LAN Finals,16,10,9,6,7,4,Majestic Lions,15,17,1.01 
-2015,12,20,19:00,MajesticLions,nEophyte,overpass,ASUS Finals 9,6,16,3,12,3,4,Majestic Lions,15,17,0.83 
-2015,12,20,19:00,MajesticLions,nEophyte,inferno,ASUS Finals 9,16,13,8,7,8,6,Majestic Lions,23,14,1.26 
-2015,12,20,19:00,nEophyte,MajesticLions,cache,ASUS Finals 9,16,7,11,4,5,3,Majestic Lions,14,19,0.85 
-2015,12,19,17:30,MajesticLions,eSuba,inferno,ASUS Finals 9,22,18,6,9,9,6,Majestic Lions,23,29,0.81 
-2015,12,19,17:30,eSuba,MajesticLions,mirage,ASUS Finals 9,12,16,10,5,2,11,Majestic Lions,13,22,0.58 
-2015,12,19,17:30,eSuba,MajesticLions,dust2,ASUS Finals 9,16,11,8,7,8,4,Majestic Lions,9,20,0.53 
-2015,04,30,18:00,Fraternitas,EnVyUs,cache,Fragbite Masters Season 4,14,16,5,10,9,6,Fraternitas,12,25,0.55 
-2015,04,30,18:00,EnVyUs,Fraternitas,dust2,Fragbite Masters Season 4,16,4,11,4,5,0,Fraternitas,5,18,0.29 
-2015,04,15,21:00,Fraternitas,Reason,mirage,Fragbite Masters Season 4 Qual..,16,12,12,3,4,9,Fraternitas,18,19,0.90 
-2015,04,15,21:00,Reason,Fraternitas,inferno,Fragbite Masters Season 4 Qual..,5,16,4,11,1,5,Fraternitas,8,13,0.68 
-2015,04,03,22:30,Fraternitas,malefiQ,inferno,Copenhagen Games 2015,6,16,5,10,1,6,Fraternitas,11,19,0.61 
-2015,04,03,19:00,FlipSid3,Fraternitas,inferno,Copenhagen Games 2015,16,10,5,10,11,0,Fraternitas,9,19,0.51 
-2015,04,03,19:00,Fraternitas,FlipSid3,nuke,Copenhagen Games 2015,14,16,8,7,6,9,Fraternitas,17,21,0.78 
-2015,04,03,15:30,Temp.no,Fraternitas,mirage,Copenhagen Games 2015,14,16,6,9,8,7,Fraternitas,16,22,0.74 
-2015,04,03,15:30,Fraternitas,Temp.no,inferno,Copenhagen Games 2015,16,7,10,5,6,2,Fraternitas,15,13,1.05 
-2015,04,03,12:00,CPLAY,Fraternitas,nuke,Copenhagen Games 2015,16,3,12,3,4,0,Fraternitas,10,17,0.65 
-2015,04,03,12:00,Fraternitas,CPLAY,inferno,Copenhagen Games 2015,16,3,13,2,3,1,Fraternitas,7,11,0.74 
-2015,04,03,12:00,Fraternitas,CPLAY,mirage,Copenhagen Games 2015,4,16,3,12,1,4,Fraternitas,7,19,0.39 
-2014,10,17,19:00,Slovakia,Russia,inferno,European Championship 2014,4,16,3,12,1,4,Slovakia,11,18,0.57 
-2014,10,04,10:00,CyborgFactory,Fraternitas,mirage,MČR 2014,5,16,4,11,1,5,Fraternitas,19,12,1.33 
-2014,10,04,10:00,Fraternitas,CyborgFactory,dust2,MČR 2014,16,2,13,2,3,0,Fraternitas,22,7,1.78 
-2014,10,04,10:00,Fraternitas,CyborgFactory,season,MČR 2014,16,8,9,6,7,2,Fraternitas,14,15,0.89 
+2016,05,23,20:00,216,195,0,498,22,20,7,8,8,7,216,11,12,0.88 
+2016,05,21,21:25,426,245,4,568,6,16,5,10,1,6,426,12,21,0.57 
+2016,05,21,21:25,426,245,7,568,8,16,6,9,2,7,426,12,20,0.67 
+2016,05,21,13:50,426,428,4,568,16,12,9,6,7,6,426,22,20,1.20 
+2016,05,21,13:50,426,428,7,568,16,10,9,6,7,4,426,15,17,1.01 
+2015,12,20,19:00,426,654,4,687,6,16,3,12,3,4,426,15,17,0.83 
+2015,12,20,19:00,426,654,6,687,16,13,8,7,8,6,426,23,14,1.26 
+2015,12,20,19:00,654,426,7,687,16,7,11,4,5,3,426,14,19,0.85 
+2015,12,19,17:30,426,216,6,687,22,18,6,9,9,6,426,23,29,0.81 
+2015,12,19,17:30,216,426,0,687,12,16,10,5,2,11,426,13,22,0.58 
+2015,12,19,17:30,216,426,1,687,16,11,8,7,8,4,426,9,20,0.53 
+2015,04,30,18:00,840,258,7,909,14,16,5,10,9,6,840,12,25,0.55 
+2015,04,30,18:00,258,840,1,909,16,4,11,4,5,0,840,5,18,0.29 
+2015,04,15,21:00,840,314,0,936,16,12,12,3,4,9,840,18,19,0.90 
+2015,04,15,21:00,314,840,6,936,5,16,4,11,1,5,840,8,13,0.68 
+2015,04,03,22:30,840,552,6,948,6,16,5,10,1,6,840,11,19,0.61 
+2015,04,03,19:00,13,840,6,948,16,10,5,10,11,0,840,9,19,0.51 
+2015,04,03,19:00,840,13,5,948,14,16,8,7,6,9,840,17,21,0.78 
+2015,04,03,15:30,706,840,0,948,14,16,6,9,8,7,840,16,22,0.74 
+2015,04,03,15:30,840,706,6,948,16,7,10,5,6,2,840,15,13,1.05 
+2015,04,03,12:00,749,840,5,948,16,3,12,3,4,0,840,10,17,0.65 
+2015,04,03,12:00,840,749,6,948,16,3,13,2,3,1,840,7,11,0.74 
+2015,04,03,12:00,840,749,0,948,4,16,3,12,1,4,840,7,19,0.39 
+2014,10,17,19:00,954,936,6,993,4,16,3,12,1,4,954,11,18,0.57 
+2014,10,04,10:00,1195,840,0,1019,5,16,4,11,1,5,840,19,12,1.33 
+2014,10,04,10:00,840,1195,1,1019,16,2,13,2,3,0,840,22,7,1.78 
+2014,10,04,10:00,840,1195,8,1019,16,8,9,6,7,2,840,14,15,0.89 
+2013,10,24,20:00,954,942,10,1098,15,15,4,11,11,4,954,13,12,0.95 
+2013,10,22,20:00,954,103,11,1098,16,12,12,3,4,9,954,18,16,0.95 
+2013,10,05,21:05,954,953,10,1098,15,15,12,3,3,12,954,13,24,0.57 
+2013,10,04,20:20,954,145,13,1098,15,15,7,8,8,7,954,20,26,0.88 

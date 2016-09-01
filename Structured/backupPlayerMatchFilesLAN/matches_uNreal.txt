@@ -1,7 +1,0 @@
-2015,12,12,19:00,Ventus,Bravado,inferno,BHG CS:GO Tournament,6,16,6,9,0,7,Ventus,9,17,0.61 
-2015,12,12,19:00,Bravado,Ventus,overpass,BHG CS:GO Tournament,16,3,12,3,4,0,Ventus,5,18,0.29 
-2015,12,12,15:00,UbS,Ventus,inferno,BHG CS:GO Tournament,6,16,4,11,2,5,Ventus,12,14,0.86 
-2015,12,12,15:00,Ventus,UbS,mirage,BHG CS:GO Tournament,16,1,15,0,1,1,Ventus,17,5,1.79 
-2015,12,12,11:45,Imagination,Ventus,mirage,BHG CS:GO Tournament,16,13,13,2,3,11,Ventus,15,20,0.75 
-2015,12,12,11:45,Imagination,Ventus,cobblestone,BHG CS:GO Tournament,13,16,7,8,6,8,Ventus,19,20,0.92 
-2015,12,12,11:45,Ventus,Imagination,cache,BHG CS:GO Tournament,5,16,3,12,2,4,Ventus,10,17,0.58 

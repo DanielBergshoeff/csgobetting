@@ -1,22 +1,22 @@
-2016,06,09,19:00,SpaceJam,Enso,dust2,Game Show Spring Invitational ..,16,6,12,3,4,3,Space Jam,11,12,0.87 
-2016,06,09,19:00,SpaceJam,Enso,mirage,Game Show Spring Invitational ..,22,19,10,5,5,10,Space Jam,30,29,1.06 
-2016,06,05,13:00,RAGE,SpaceJam,mirage,Adrenaline Open Cyber Cup,8,16,7,8,1,8,Space Jam,26,15,1.53 
-2016,06,05,13:00,RAGE,SpaceJam,dust2,Adrenaline Open Cyber Cup,13,16,7,8,6,8,Space Jam,23,20,1.24 
-2016,05,12,19:00,eXtatus,Vesuvius,dust2,Game Show Spring Invitational ..,16,11,6,9,10,2,Vesuvius,16,23,0.72 
-2016,05,12,19:00,Vesuvius,eXtatus,mirage,Game Show Spring Invitational ..,9,16,8,7,1,9,Vesuvius,17,18,0.96 
-2016,04,29,17:30,Vesuvius,BinaryDragonsGold,dust2,StarLadder Minor CIS - Cologne..,4,16,4,11,0,5,Vesuvius,12,17,0.71 
-2016,04,28,14:30,WorstPlayers,Vesuvius,mirage,StarLadder Minor CIS - Cologne..,16,3,14,1,2,2,Vesuvius,7,17,0.45 
-2016,04,20,20:00,TEAMSWAGYOLO,Vesuvius,mirage,StarLadder Regional Minor Cham..,16,13,9,6,7,7,Vesuvius,16,22,0.70 
-2016,04,20,20:00,TEAMSWAGYOLO,Vesuvius,cobblestone,StarLadder Regional Minor Cham..,19,16,7,8,8,7,Vesuvius,23,25,0.98 
-2016,04,20,20:00,Vesuvius,TEAMSWAGYOLO,dust2,StarLadder Regional Minor Cham..,16,7,13,2,3,5,Vesuvius,19,13,1.25 
-2015,06,02,20:45,ACES,NewEra,mirage,Rising Tornado #1,19,16,12,3,3,12,New Era,26,29,0.89 
-2015,06,02,19:30,NewEra,Evolution,inferno,Rising Tornado #1,8,16,5,10,3,6,New Era,21,20,1.25 
-2015,05,14,19:00,NewEra,ACES,cobblestone,Uprise Champions Cup Season 2,2,16,2,13,0,3,New Era,11,16,0.73 
-2015,05,14,19:00,ACES,NewEra,inferno,Uprise Champions Cup Season 2,16,2,13,2,3,0,New Era,5,17,0.37 
-2015,05,14,19:00,NewEra,ACES,mirage,Uprise Champions Cup Season 2,16,6,11,4,5,2,New Era,28,12,1.80 
-2015,05,03,16:00,Divine,NewEra,mirage,Uprise Champions Cup Season 2,9,16,6,9,3,7,New Era,22,18,1.14 
-2015,05,03,16:00,NewEra,Divine,dust2,Uprise Champions Cup Season 2,10,16,5,10,5,6,New Era,17,20,0.81 
-2015,05,03,16:00,NewEra,Divine,cobblestone,Uprise Champions Cup Season 2,16,13,8,7,8,6,New Era,32,17,1.68 
-2015,04,25,21:00,NewEra,VegaSquadron,cache,Uprise Champions Cup Season 2,8,16,5,10,3,6,New Era,21,18,1.21 
-2015,04,25,21:00,VegaSquadron,NewEra,mirage,Uprise Champions Cup Season 2,16,9,13,2,3,7,New Era,13,20,0.74 
-2015,04,25,18:00,NewEra,VegaSquadron,inferno,Uprise Champions Cup Season 2,16,14,7,8,9,6,New Era,34,20,1.61 
+2016,06,09,19:00,176,259,1,495,16,6,12,3,4,3,176,11,12,0.87 
+2016,06,09,19:00,176,259,0,495,22,19,10,5,5,10,176,30,29,1.06 
+2016,06,05,13:00,381,176,0,557,8,16,7,8,1,8,176,26,15,1.53 
+2016,06,05,13:00,381,176,1,557,13,16,7,8,6,8,176,23,20,1.24 
+2016,05,12,19:00,245,122,1,495,16,11,6,9,10,2,122,16,23,0.72 
+2016,05,12,19:00,122,245,0,495,9,16,8,7,1,9,122,17,18,0.96 
+2016,04,29,17:30,122,466,1,589,4,16,4,11,0,5,122,12,17,0.71 
+2016,04,28,14:30,331,122,0,589,16,3,14,1,2,2,122,7,17,0.45 
+2016,04,20,20:00,487,122,0,606,16,13,9,6,7,7,122,16,22,0.70 
+2016,04,20,20:00,487,122,14,606,19,16,7,8,8,7,122,23,25,0.98 
+2016,04,20,20:00,122,487,1,606,16,7,13,2,3,5,122,19,13,1.25 
+2015,06,02,20:45,1069,978,0,906,19,16,12,3,3,12,978,26,29,0.89 
+2015,06,02,19:30,978,1033,6,906,8,16,5,10,3,6,978,21,20,1.25 
+2015,05,14,19:00,978,1069,14,923,2,16,2,13,0,3,978,11,16,0.73 
+2015,05,14,19:00,1069,978,6,923,16,2,13,2,3,0,978,5,17,0.37 
+2015,05,14,19:00,978,1069,0,923,16,6,11,4,5,2,978,28,12,1.80 
+2015,05,03,16:00,1092,978,0,923,9,16,6,9,3,7,978,22,18,1.14 
+2015,05,03,16:00,978,1092,1,923,10,16,5,10,5,6,978,17,20,0.81 
+2015,05,03,16:00,978,1092,14,923,16,13,8,7,8,6,978,32,17,1.68 
+2015,04,25,21:00,978,825,7,923,8,16,5,10,3,6,978,21,18,1.21 
+2015,04,25,21:00,825,978,0,923,16,9,13,2,3,7,978,13,20,0.74 
+2015,04,25,18:00,978,825,6,923,16,14,7,8,9,6,978,34,20,1.61 

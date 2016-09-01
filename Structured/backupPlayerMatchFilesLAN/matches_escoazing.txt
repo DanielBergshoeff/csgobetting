@@ -1,5 +1,0 @@
-2016,03,24,19:00,404OrgNotFound,Skaldubegraves?,cache,Copenhagen Games 2016 BYOC Qua..,16,11,6,9,10,2,Skal du begraves?,16,21,0.81 
-2016,03,24,19:00,Skaldubegraves?,404OrgNotFound,mirage,Copenhagen Games 2016 BYOC Qua..,8,16,5,10,3,6,Skal du begraves?,14,18,0.86 
-2016,03,24,17:00,Skaldubegraves?,!nsurgents,inferno,Copenhagen Games 2016 BYOC Qua..,16,11,7,8,9,3,Skal du begraves?,24,13,1.47 
-2016,03,24,15:30,@SNULLE,Skaldubegraves?,cobblestone,Copenhagen Games 2016 BYOC Qua..,1,16,1,14,0,2,Skal du begraves?,21,7,1.85 
-2016,03,24,13:00,Orbit,Skaldubegraves?,dust2,Copenhagen Games 2016 BYOC Qua..,16,11,11,4,5,7,Skal du begraves?,23,20,1.14 

@@ -1,9 +1,9 @@
-2016,03,23,02:00,Rhythm,Insolent,train,Razer Rising Stars NA League Q..,21,15,10,5,5,10,Rhythm,29,22,1.23 
-2015,12,16,03:30,ACE,Incursion,cache,QuickShot Arena NA #2,16,4,12,3,4,1,Incursion,7,19,0.36 
-2015,10,19,00:35,SetToDestroyX,SuckBrickKids,mirage,Fragadelphia 6,13,16,10,5,3,11,SetToDestroyX,12,19,0.69 
-2015,10,18,22:00,SetToDestroyX,Forbidden,cobblestone,Fragadelphia 6,16,12,11,4,5,8,SetToDestroyX,29,20,1.70 
-2015,10,18,18:40,SetToDestroyX,WinOut.net,overpass,Fragadelphia 6,13,16,6,9,7,7,SetToDestroyX,15,22,0.75 
-2015,10,18,18:40,SetToDestroyX,WinOut.net,cobblestone,Fragadelphia 6,25,22,7,8,8,7,SetToDestroyX,24,34,0.71 
-2015,10,18,18:40,WinOut.net,SetToDestroyX,mirage,Fragadelphia 6,16,3,14,1,2,2,SetToDestroyX,9,18,0.47 
-2015,10,18,03:55,ReapWhatYouSow,SetToDestroyX,dust2,Fragadelphia 6,9,16,8,7,1,9,SetToDestroyX,26,15,1.52 
-2015,10,18,03:55,SetToDestroyX,ReapWhatYouSow,cobblestone,Fragadelphia 6,16,3,13,2,3,1,SetToDestroyX,23,7,1.77 
+2016,03,23,02:00,590,533,2,621,21,15,10,5,5,10,590,29,22,1.23 
+2015,12,16,03:30,334,754,7,700,16,4,12,3,4,1,754,7,19,0.36 
+2015,10,19,00:35,757,916,0,780,13,16,10,5,3,11,757,12,19,0.69 
+2015,10,18,22:00,757,919,14,780,16,12,11,4,5,8,757,29,20,1.70 
+2015,10,18,18:40,757,917,4,780,13,16,6,9,7,7,757,15,22,0.75 
+2015,10,18,18:40,757,917,14,780,25,22,7,8,8,7,757,24,34,0.71 
+2015,10,18,18:40,917,757,0,780,16,3,14,1,2,2,757,9,18,0.47 
+2015,10,18,03:55,918,757,1,780,9,16,8,7,1,9,757,26,15,1.52 
+2015,10,18,03:55,757,918,14,780,16,3,13,2,3,1,757,23,7,1.77 

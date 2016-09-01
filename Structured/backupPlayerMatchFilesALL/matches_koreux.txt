@@ -1,5 +1,5 @@
-2016,07,19,03:15,TheFoundation,exceL,cache,RGN Pro Series II NA Closed Qu..,14,16,7,8,7,8,The Foundation,19,23,0.84 
-2016,07,19,03:15,TheFoundation,exceL,train,RGN Pro Series II NA Closed Qu..,16,3,12,3,4,0,The Foundation,16,8,1.21 
-2016,07,19,03:15,exceL,TheFoundation,dust2,RGN Pro Series II NA Closed Qu..,16,7,11,4,5,3,The Foundation,13,18,0.75 
-2016,03,15,05:00,TempoStorm,BOTS,dust2,Stream.me Gauntlet ,16,2,14,1,2,1,BOTS,10,16,0.72 
-2016,03,15,05:00,BOTS,TempoStorm,cobblestone,Stream.me Gauntlet ,7,16,7,8,0,8,BOTS,12,19,0.75 
+2016,07,19,03:15,267,268,7,516,14,16,7,8,7,8,267,19,23,0.84 
+2016,07,19,03:15,267,268,2,516,16,3,12,3,4,0,267,16,8,1.21 
+2016,07,19,03:15,268,267,1,516,16,7,11,4,5,3,267,13,18,0.75 
+2016,03,15,05:00,424,597,1,622,16,2,14,1,2,1,597,10,16,0.72 
+2016,03,15,05:00,597,424,14,622,7,16,7,8,0,8,597,12,19,0.75 

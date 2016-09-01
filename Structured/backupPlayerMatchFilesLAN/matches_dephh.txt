@@ -1,8 +1,0 @@
-2016,06,30,20:00,EnVyUs,compLexity,cache,ELEAGUE Season 1,16,8,8,7,8,1,compLexity,16,19,0.90 
-2016,06,30,20:00,EnVyUs,compLexity,dust2,ELEAGUE Season 1,16,9,6,9,10,0,compLexity,8,20,0.48 
-2016,06,29,23:50,Gambit,compLexity,train,ELEAGUE Season 1,16,13,6,9,10,4,compLexity,13,20,0.69 
-2016,06,29,22:40,Gambit,compLexity,cache,ELEAGUE Season 1,14,16,6,9,8,7,compLexity,20,23,0.88 
-2016,06,29,19:15,EnVyUs,compLexity,cobblestone,ELEAGUE Season 1,16,9,8,7,8,2,compLexity,8,21,0.44 
-2016,06,29,18:00,EnVyUs,compLexity,train,ELEAGUE Season 1,16,12,12,3,4,9,compLexity,15,24,0.63 
-2016,06,28,19:10,Virtus.pro,compLexity,cobblestone,ELEAGUE Season 1,16,11,7,8,9,3,compLexity,13,20,0.70 
-2016,06,28,18:00,compLexity,Virtus.pro,overpass,ELEAGUE Season 1,7,16,1,14,6,2,compLexity,16,18,0.86 

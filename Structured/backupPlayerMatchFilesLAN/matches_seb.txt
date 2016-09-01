@@ -1,7 +1,0 @@
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,dust2,Fragadelphia 8,16,10,10,5,6,5,Bee's Money Crew,16,15,0.99 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,train,Fragadelphia 8,16,14,7,8,9,6,Bee's Money Crew,17,20,0.84 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,cobblestone,Fragadelphia 8,12,16,6,9,6,7,Bee's Money Crew,20,20,1.00 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,inferno,Fragadelphia 8,16,8,10,5,6,3,Bee's Money Crew,12,16,0.71 
-2016,05,15,23:00,ZePugGodz,Kaliber,train,ESEA Premier Season 21 North A..,16,10,8,7,8,3,Kaliber,11,18,0.65 
-2016,05,15,23:00,Kaliber,ZePugGodz,cache,ESEA Premier Season 21 North A..,18,22,6,9,9,6,Kaliber,22,28,0.78 
-2016,05,15,23:00,ZePugGodz,Kaliber,mirage,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Kaliber,19,12,1.29 

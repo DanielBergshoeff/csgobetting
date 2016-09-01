@@ -1,8 +1,0 @@
-2015,10,04,14:45,OverGaming,Epsilon,train,SocialNat Master League,5,16,4,11,1,5,OverGaming,10,20,0.55 
-2015,10,04,14:45,Epsilon,OverGaming,mirage,SocialNat Master League,16,2,14,1,2,1,OverGaming,10,15,0.76 
-2015,10,03,15:00,summa.gg,OverGaming,cache,SocialNat Master League,7,16,2,13,5,3,OverGaming,19,16,1.06 
-2015,10,03,15:00,OverGaming,summa.gg,inferno,SocialNat Master League,16,8,11,4,5,4,OverGaming,19,16,1.15 
-2014,07,19,11:20,OverGaming,Epsilon,nuke,DreamHack Valencia 2014,9,16,6,9,3,7,OverGaming,13,21,0.61 
-2014,07,19,11:20,OverGaming,Epsilon,mirage,DreamHack Valencia 2014,12,16,6,9,6,7,OverGaming,12,19,0.68 
-2014,07,18,20:40,INSHOCK,OverGaming,nuke,DreamHack Valencia 2014,13,16,10,5,3,11,OverGaming,16,19,0.88 
-2014,07,18,18:45,k1ck,OverGaming,inferno,DreamHack Valencia 2014,16,9,13,2,3,7,OverGaming,7,17,0.52 

@@ -1,3 +1,0 @@
-2015,02,15,13:45,INSHOCK,KaBuM.TD,nuke,ESL One Katowice 2015 Main Qua..,11,16,9,6,2,10,INSHOCK,8,22,0.42 
-2015,02,15,11:01,Cloud9,INSHOCK,inferno,ESL One Katowice 2015 Main Qua..,16,2,14,1,2,1,INSHOCK,1,17,0.09 
-2014,07,18,20:40,INSHOCK,OverGaming,nuke,DreamHack Valencia 2014,13,16,10,5,3,11,INSHOCK,12,22,0.54 

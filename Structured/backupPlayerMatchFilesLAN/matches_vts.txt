@@ -1,4 +1,0 @@
-2016,03,20,12:30,FTW.PRO,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,15,19,8,7,7,8,FTW.PRO,16,25,0.64 
-2016,03,20,12:30,FTW.PRO,ImperioMultimedia,inferno,AlienTech CS:GO Invitational I,10,16,7,8,3,8,FTW.PRO,14,16,0.81 
-2016,03,18,19:50,3R2L,FTW.PRO,mirage,AlienTech CS:GO Invitational I,11,16,4,11,7,5,FTW.PRO,25,16,1.26 
-2016,03,18,17:40,FTW.PRO,AlienTech,inferno,AlienTech CS:GO Invitational I,19,22,9,6,6,9,FTW.PRO,29,28,1.03 

@@ -1,91 +1,91 @@
-2016,08,05,09:30,BornOfFire,MVPproject,overpass,SL i-League S2 China Finals,7,16,4,11,3,5,Born Of Fire,9,18,0.50 
-2016,08,05,09:30,MVPproject,BornOfFire,mirage,SL i-League S2 China Finals,16,10,9,6,7,4,Born Of Fire,18,19,0.95 
-2016,08,05,09:30,MVPproject,BornOfFire,train,SL i-League S2 China Finals,3,16,3,12,0,4,Born Of Fire,21,7,1.84 
-2016,08,04,06:20,5POWER,BornOfFire,cache,SL i-League S2 China Finals,11,16,6,9,5,7,Born Of Fire,29,20,1.45 
-2016,08,04,06:20,5POWER,BornOfFire,mirage,SL i-League S2 China Finals,12,16,6,9,6,7,Born Of Fire,24,17,1.26 
-2016,08,04,06:20,5POWER,BornOfFire,cobblestone,SL i-League S2 China Finals,16,3,12,3,4,0,Born Of Fire,8,17,0.50 
-2016,07,30,12:15,FIVE,BornOfFire,cache,SL i-League S2 China Qualifier,16,13,5,10,11,3,Born Of Fire,20,23,0.84 
-2016,07,30,12:15,FIVE,BornOfFire,mirage,SL i-League S2 China Qualifier,16,9,10,5,6,4,Born Of Fire,17,23,0.75 
-2016,07,26,15:00,BornOfFire,eFuture,dust2,SL i-League S2 China Qualifier,16,14,7,8,9,6,Born Of Fire,32,21,1.48 
-2016,07,26,15:00,BornOfFire,eFuture,cache,SL i-League S2 China Qualifier,12,16,5,10,7,6,Born Of Fire,17,19,0.85 
-2016,07,26,15:00,BornOfFire,eFuture,cobblestone,SL i-League S2 China Qualifier,16,7,10,5,6,2,Born Of Fire,20,13,1.36 
-2016,07,26,12:00,BornOfFire,MasterGrade,dust2,SL i-League S2 China Qualifier,16,3,12,3,4,0,Born Of Fire,20,10,1.57 
-2016,07,26,12:00,MasterGrade,BornOfFire,cobblestone,SL i-League S2 China Qualifier,7,16,6,9,1,7,Born Of Fire,14,12,1.02 
-2016,07,22,09:15,TyLoo,BornOfFire,cobblestone,Pro Gamer League 2016 Summer F..,16,8,9,6,7,2,Born Of Fire,24,18,1.33 
-2016,07,22,07:30,Epsilon,BornOfFire,dust2,Pro Gamer League 2016 Summer F..,16,13,6,9,10,4,Born Of Fire,19,22,0.82 
-2016,07,22,05:45,BornOfFire,eFuture,cache,Pro Gamer League 2016 Summer F..,16,6,9,6,7,0,Born Of Fire,23,14,1.51 
-2016,07,03,07:00,TyLoo,BornOfFire,cobblestone,NEA 2016 Finals ,16,11,8,7,8,4,Born Of Fire,17,22,0.76 
-2016,07,03,07:00,BornOfFire,TyLoo,cache,NEA 2016 Finals ,1,16,1,14,0,2,Born Of Fire,7,17,0.34 
-2016,07,01,04:30,B.O.O.T,BornOfFire,cache,NEA 2016 Finals ,7,16,7,8,0,8,Born Of Fire,19,13,1.32 
-2016,07,01,04:30,BornOfFire,B.O.O.T,overpass,NEA 2016 Finals ,16,2,13,2,3,0,Born Of Fire,18,11,1.48 
-2016,07,01,04:30,BornOfFire,B.O.O.T,cobblestone,NEA 2016 Finals ,22,25,7,8,8,7,Born Of Fire,32,32,1.04 
-2016,06,27,12:30,BornOfFire,MVPproject,cache,H-Cup Season 2,13,16,7,8,6,8,Born Of Fire,27,21,1.40 
-2016,06,27,12:30,BornOfFire,MVPproject,cobblestone,H-Cup Season 2,4,16,1,14,3,2,Born Of Fire,15,17,0.92 
-2016,06,22,13:00,EHOME,BornOfFire,dust2,WCA Season 2 China Qualifier,16,9,9,6,7,3,Born Of Fire,19,20,1.12 
-2016,06,22,13:00,EHOME,BornOfFire,cobblestone,WCA Season 2 China Qualifier,19,16,8,7,7,8,Born Of Fire,24,26,0.92 
-2016,06,21,08:15,B.O.O.T,BornOfFire,cobblestone,H-Cup Season 2,11,16,6,9,5,7,Born Of Fire,16,19,0.82 
-2016,06,21,08:15,B.O.O.T,BornOfFire,overpass,H-Cup Season 2,10,16,4,11,6,5,Born Of Fire,15,18,0.87 
-2016,06,21,08:15,BornOfFire,B.O.O.T,cache,H-Cup Season 2,15,19,5,10,10,5,Born Of Fire,23,25,1.02 
-2016,06,18,11:00,BornOfFire,New4,cache,WCA Season 2 China Qualifier,12,16,8,7,4,9,Born Of Fire,20,22,0.96 
-2016,06,18,11:00,BornOfFire,New4,overpass,WCA Season 2 China Qualifier,16,13,5,10,11,3,Born Of Fire,30,20,1.40 
-2016,06,16,08:00,BornOfFire,EDG,cache,WCA Season 2 China Qualifier,16,11,5,10,11,1,Born Of Fire,26,16,1.44 
-2016,06,16,08:00,BornOfFire,EDG,dust2,WCA Season 2 China Qualifier,16,13,6,9,10,4,Born Of Fire,21,19,1.11 
-2016,06,14,08:10,VG.CyberZen,BornOfFire,mirage,WCA Season 2 China Qualifier,16,7,13,2,3,5,Born Of Fire,18,19,0.90 
-2016,06,14,08:10,VG.CyberZen,BornOfFire,cobblestone,WCA Season 2 China Qualifier,16,2,14,1,2,1,Born Of Fire,14,17,0.92 
-2016,05,25,12:00,TyLoo,BornOfFire,cobblestone,H-Cup Season 1,16,5,13,2,3,3,Born Of Fire,5,20,0.24 
-2016,05,25,12:00,TyLoo,BornOfFire,cache,H-Cup Season 1,16,5,11,4,5,1,Born Of Fire,14,20,0.82 
-2016,04,25,16:10,BornOfFire,VG.CyberZen,overpass,SL i-League Invitational China..,6,16,3,12,3,4,Born Of Fire,18,17,1.08 
-2016,04,25,16:10,BornOfFire,VG.CyberZen,train,SL i-League Invitational China..,1,16,1,14,0,2,Born Of Fire,7,15,0.54 
-2016,04,25,09:10,BornOfFire,MVPproject,mirage,SL i-League Invitational China..,16,13,10,5,6,8,Born Of Fire,18,17,0.98 
-2016,04,25,09:10,MVPproject,BornOfFire,inferno,SL i-League Invitational China..,8,16,6,9,2,7,Born Of Fire,23,13,1.59 
-2016,04,25,09:10,MVPproject,BornOfFire,cobblestone,SL i-League Invitational China..,16,10,8,7,8,3,Born Of Fire,21,18,1.13 
-2016,04,24,15:00,BornOfFire,TyLoo,inferno,Pro Gamers League 2016 Spring,7,16,3,12,4,4,Born Of Fire,16,19,0.82 
-2016,04,24,15:00,BornOfFire,TyLoo,cobblestone,Pro Gamers League 2016 Spring,6,16,5,10,1,6,Born Of Fire,12,20,0.58 
-2016,04,24,15:00,BornOfFire,TyLoo,mirage,Pro Gamers League 2016 Spring,6,16,3,12,3,4,Born Of Fire,7,19,0.40 
-2016,04,24,11:40,BornOfFire,AllGamers,inferno,Pro Gamers League 2016 Spring,16,5,10,5,6,0,Born Of Fire,19,13,1.34 
-2016,04,24,11:40,AllGamers,BornOfFire,dust2,Pro Gamers League 2016 Spring,13,16,7,8,6,8,Born Of Fire,26,18,1.50 
-2016,04,23,16:15,LGD,BornOfFire,inferno,SL i-League Invitational China..,10,16,6,9,4,7,Born Of Fire,24,14,1.37 
-2016,04,23,16:15,BornOfFire,LGD,cobblestone,SL i-League Invitational China..,16,8,8,7,8,1,Born Of Fire,25,13,1.46 
-2016,04,23,11:30,BornOfFire,B.O.O.T,inferno,Pro Gamers League 2016 Spring,16,3,12,3,4,0,Born Of Fire,14,8,1.21 
-2016,04,23,11:30,BornOfFire,B.O.O.T,mirage,Pro Gamers League 2016 Spring,16,10,9,6,7,4,Born Of Fire,19,17,1.09 
-2016,04,21,13:00,VG.CyberZen,BornOfFire,overpass,SL i-League Invitational China..,16,7,11,4,5,3,Born Of Fire,13,20,0.60 
-2016,04,21,13:00,VG.CyberZen,BornOfFire,inferno,SL i-League Invitational China..,16,2,14,1,2,1,Born Of Fire,17,16,1.30 
-2016,04,16,13:00,BornOfFire,New4,dust2,SL i-League Invitational China..,6,16,4,11,2,5,Born Of Fire,10,19,0.52 
-2016,04,16,13:00,New4,BornOfFire,inferno,SL i-League Invitational China..,14,16,6,9,8,7,Born Of Fire,20,19,0.99 
-2016,04,15,15:00,BornOfFire,eFuture,inferno,SL i-League Invitational China..,16,10,10,5,6,5,Born Of Fire,26,13,1.53 
-2016,04,15,15:00,BornOfFire,eFuture,dust2,SL i-League Invitational China..,19,22,7,8,8,7,Born Of Fire,33,27,1.19 
-2016,04,10,13:10,EDG,BornOfFire,dust2,SL i-League Invitational China..,12,16,5,10,7,6,Born Of Fire,23,17,1.21 
-2016,04,10,13:10,BornOfFire,EDG,cobblestone,SL i-League Invitational China..,16,12,9,6,7,6,Born Of Fire,12,20,0.65 
-2016,04,06,13:10,BornOfFire,Wings,dust2,SL i-League Invitational China..,16,8,9,6,7,2,Born Of Fire,22,16,1.16 
-2016,04,06,13:10,BornOfFire,Wings,mirage,SL i-League Invitational China..,16,9,7,8,9,1,Born Of Fire,20,12,1.23 
-2016,01,10,06:30,BornOfFire,Wings,mirage,Fulcrum Gamers League Finals,13,16,11,4,2,12,Born Of Fire,27,19,1.36 
-2016,01,10,06:30,Wings,BornOfFire,cache,Fulcrum Gamers League Finals,16,2,13,2,3,0,Born Of Fire,11,17,0.62 
-2016,01,09,14:00,TyLoo,BornOfFire,cobblestone,Fulcrum Gamers League Finals,16,6,10,5,6,1,Born Of Fire,13,20,0.70 
-2016,01,09,14:00,TyLoo,BornOfFire,cache,Fulcrum Gamers League Finals,16,7,13,2,3,5,Born Of Fire,18,19,1.10 
-2016,01,09,06:00,BornOfFire,Wings,cobblestone,Fulcrum Gamers League Finals,16,13,12,3,4,10,Born Of Fire,20,21,0.96 
-2016,01,09,06:00,BornOfFire,Wings,inferno,Fulcrum Gamers League Finals,5,16,5,10,0,6,Born Of Fire,7,19,0.36 
-2016,01,09,06:00,BornOfFire,Wings,cache,Fulcrum Gamers League Finals,16,13,7,8,9,5,Born Of Fire,14,25,0.64 
-2015,12,19,09:00,BornOfFire,Wings,cache,SL i-League StarSeries XIV Chi..,9,16,2,13,7,3,Born Of Fire,17,18,0.98 
-2015,12,19,09:00,Wings,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,10,12,3,4,7,Born Of Fire,22,22,1.08 
-2015,12,18,13:30,TyLoo,BornOfFire,mirage,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,Born Of Fire,10,16,0.68 
-2015,12,18,13:30,BornOfFire,TyLoo,cache,SL i-League StarSeries XIV Chi..,1,16,0,15,1,1,Born Of Fire,4,16,0.24 
-2015,12,17,10:40,BornOfFire,Goalie,cache,SL i-League StarSeries XIV Chi..,16,7,11,4,5,3,Born Of Fire,17,14,1.16 
-2015,12,17,10:40,BornOfFire,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,19,9,6,6,9,Born Of Fire,28,23,1.11 
-2015,12,17,10:40,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV Chi..,12,16,10,5,2,11,Born Of Fire,18,21,0.87 
-2015,12,06,12:00,FOF,BornOfFire,mirage,Fulcrum Gamers League,5,16,3,12,2,4,Born Of Fire,19,11,1.31 
-2015,12,06,12:00,FOF,BornOfFire,dust2,Fulcrum Gamers League,9,16,7,8,2,8,Born Of Fire,22,17,1.37 
-2015,12,04,13:40,BornOfFire,BOW,mirage,Fulcrum Gamers League,16,8,13,2,3,6,Born Of Fire,24,15,1.43 
-2015,12,04,13:40,BornOfFire,BOW,dust2,Fulcrum Gamers League,16,10,7,8,9,2,Born Of Fire,19,16,1.08 
-2015,12,04,12:00,PUZZLES,BornOfFire,inferno,Fulcrum Gamers League,16,10,6,9,10,1,Born Of Fire,18,22,0.79 
-2015,12,04,12:00,BornOfFire,PUZZLES,dust2,Fulcrum Gamers League,1,16,1,14,0,2,Born Of Fire,8,17,0.50 
-2015,11,29,16:00,JSG,BornOfFire,cache,SL i-League StarSeries XIV,14,16,4,11,10,5,Born Of Fire,26,21,1.18 
-2015,11,29,16:00,JSG,BornOfFire,dust2,SL i-League StarSeries XIV,8,16,7,8,1,8,Born Of Fire,16,10,1.15 
-2015,11,29,16:00,JSG,BornOfFire,mirage,SL i-League StarSeries XIV,16,10,8,7,8,3,Born Of Fire,31,20,1.72 
-2015,11,29,12:00,BornOfFire,TyLoo,cache,Fulcrum Gamers League,5,16,4,11,1,5,Born Of Fire,11,19,0.76 
-2015,11,29,12:00,TyLoo,BornOfFire,mirage,Fulcrum Gamers League,16,2,14,1,2,1,Born Of Fire,7,18,0.36 
-2015,11,28,12:00,TheMongolz,BornOfFire,mirage,Fulcrum Gamers League,16,12,7,8,9,4,Born Of Fire,22,23,1.03 
-2015,11,28,12:00,TheMongolz,BornOfFire,inferno,Fulcrum Gamers League,16,8,11,4,5,4,Born Of Fire,11,21,0.58 
-2015,11,27,12:30,YOUROWNMIRACLE,BornOfFire,inferno,SL i-League StarSeries XIV,4,16,4,11,0,5,Born Of Fire,13,6,1.29 
-2015,11,27,12:30,YOUROWNMIRACLE,BornOfFire,dust2,SL i-League StarSeries XIV,5,16,3,12,2,4,Born Of Fire,30,7,2.32 
-2015,11,25,12:30,BornOfFire,Goalie,cobblestone,SL i-League StarSeries XIV,16,12,8,7,8,5,Born Of Fire,31,17,1.60 
-2015,11,25,12:30,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV,8,16,5,10,3,6,Born Of Fire,27,12,1.81 
+2016,08,05,09:30,179,65,4,491,7,16,4,11,3,5,179,9,18,0.50 
+2016,08,05,09:30,65,179,0,491,16,10,9,6,7,4,179,18,19,0.95 
+2016,08,05,09:30,65,179,2,491,3,16,3,12,0,4,179,21,7,1.84 
+2016,08,04,06:20,189,179,7,491,11,16,6,9,5,7,179,29,20,1.45 
+2016,08,04,06:20,189,179,0,491,12,16,6,9,6,7,179,24,17,1.26 
+2016,08,04,06:20,189,179,14,491,16,3,12,3,4,0,179,8,17,0.50 
+2016,07,30,12:15,185,179,7,501,16,13,5,10,11,3,179,20,23,0.84 
+2016,07,30,12:15,185,179,0,501,16,9,10,5,6,4,179,17,23,0.75 
+2016,07,26,15:00,179,237,1,501,16,14,7,8,9,6,179,32,21,1.48 
+2016,07,26,15:00,179,237,7,501,12,16,5,10,7,6,179,17,19,0.85 
+2016,07,26,15:00,179,237,14,501,16,7,10,5,6,2,179,20,13,1.36 
+2016,07,26,12:00,179,213,1,501,16,3,12,3,4,0,179,20,10,1.57 
+2016,07,26,12:00,213,179,14,501,7,16,6,9,1,7,179,14,12,1.02 
+2016,07,22,09:15,34,179,14,512,16,8,9,6,7,2,179,24,18,1.33 
+2016,07,22,07:30,52,179,1,512,16,13,6,9,10,4,179,19,22,0.82 
+2016,07,22,05:45,179,237,7,512,16,6,9,6,7,0,179,23,14,1.51 
+2016,07,03,07:00,34,179,14,531,16,11,8,7,8,4,179,17,22,0.76 
+2016,07,03,07:00,179,34,7,531,1,16,1,14,0,2,179,7,17,0.34 
+2016,07,01,04:30,172,179,7,531,7,16,7,8,0,8,179,19,13,1.32 
+2016,07,01,04:30,179,172,4,531,16,2,13,2,3,0,179,18,11,1.48 
+2016,07,01,04:30,179,172,14,531,22,25,7,8,8,7,179,32,32,1.04 
+2016,06,27,12:30,179,65,7,538,13,16,7,8,6,8,179,27,21,1.40 
+2016,06,27,12:30,179,65,14,538,4,16,1,14,3,2,179,15,17,0.92 
+2016,06,22,13:00,188,179,1,527,16,9,9,6,7,3,179,19,20,1.12 
+2016,06,22,13:00,188,179,14,527,19,16,8,7,7,8,179,24,26,0.92 
+2016,06,21,08:15,172,179,14,538,11,16,6,9,5,7,179,16,19,0.82 
+2016,06,21,08:15,172,179,4,538,10,16,4,11,6,5,179,15,18,0.87 
+2016,06,21,08:15,179,172,7,538,15,19,5,10,10,5,179,23,25,1.02 
+2016,06,18,11:00,179,174,7,527,12,16,8,7,4,9,179,20,22,0.96 
+2016,06,18,11:00,179,174,4,527,16,13,5,10,11,3,179,30,20,1.40 
+2016,06,16,08:00,179,191,7,527,16,11,5,10,11,1,179,26,16,1.44 
+2016,06,16,08:00,179,191,1,527,16,13,6,9,10,4,179,21,19,1.11 
+2016,06,14,08:10,35,179,0,527,16,7,13,2,3,5,179,18,19,0.90 
+2016,06,14,08:10,35,179,14,527,16,2,14,1,2,1,179,14,17,0.92 
+2016,05,25,12:00,34,179,14,562,16,5,13,2,3,3,179,5,20,0.24 
+2016,05,25,12:00,34,179,7,562,16,5,11,4,5,1,179,14,20,0.82 
+2016,04,25,16:10,179,35,4,597,6,16,3,12,3,4,179,18,17,1.08 
+2016,04,25,16:10,179,35,2,597,1,16,1,14,0,2,179,7,15,0.54 
+2016,04,25,09:10,179,65,0,597,16,13,10,5,6,8,179,18,17,0.98 
+2016,04,25,09:10,65,179,6,597,8,16,6,9,2,7,179,23,13,1.59 
+2016,04,25,09:10,65,179,14,597,16,10,8,7,8,3,179,21,18,1.13 
+2016,04,24,15:00,179,34,6,601,7,16,3,12,4,4,179,16,19,0.82 
+2016,04,24,15:00,179,34,14,601,6,16,5,10,1,6,179,12,20,0.58 
+2016,04,24,15:00,179,34,0,601,6,16,3,12,3,4,179,7,19,0.40 
+2016,04,24,11:40,179,173,6,601,16,5,10,5,6,0,179,19,13,1.34 
+2016,04,24,11:40,173,179,1,601,13,16,7,8,6,8,179,26,18,1.50 
+2016,04,23,16:15,180,179,6,597,10,16,6,9,4,7,179,24,14,1.37 
+2016,04,23,16:15,179,180,14,597,16,8,8,7,8,1,179,25,13,1.46 
+2016,04,23,11:30,179,172,6,601,16,3,12,3,4,0,179,14,8,1.21 
+2016,04,23,11:30,179,172,0,601,16,10,9,6,7,4,179,19,17,1.09 
+2016,04,21,13:00,35,179,4,597,16,7,11,4,5,3,179,13,20,0.60 
+2016,04,21,13:00,35,179,6,597,16,2,14,1,2,1,179,17,16,1.30 
+2016,04,16,13:00,179,174,1,597,6,16,4,11,2,5,179,10,19,0.52 
+2016,04,16,13:00,174,179,6,597,14,16,6,9,8,7,179,20,19,0.99 
+2016,04,15,15:00,179,237,6,597,16,10,10,5,6,5,179,26,13,1.53 
+2016,04,15,15:00,179,237,1,597,19,22,7,8,8,7,179,33,27,1.19 
+2016,04,10,13:10,191,179,1,597,12,16,5,10,7,6,179,23,17,1.21 
+2016,04,10,13:10,179,191,14,597,16,12,9,6,7,6,179,12,20,0.65 
+2016,04,06,13:10,179,501,1,597,16,8,9,6,7,2,179,22,16,1.16 
+2016,04,06,13:10,179,501,0,597,16,9,7,8,9,1,179,20,12,1.23 
+2016,01,10,06:30,179,501,0,680,13,16,11,4,2,12,179,27,19,1.36 
+2016,01,10,06:30,501,179,7,680,16,2,13,2,3,0,179,11,17,0.62 
+2016,01,09,14:00,34,179,14,680,16,6,10,5,6,1,179,13,20,0.70 
+2016,01,09,14:00,34,179,7,680,16,7,13,2,3,5,179,18,19,1.10 
+2016,01,09,06:00,179,501,14,680,16,13,12,3,4,10,179,20,21,0.96 
+2016,01,09,06:00,179,501,6,680,5,16,5,10,0,6,179,7,19,0.36 
+2016,01,09,06:00,179,501,7,680,16,13,7,8,9,5,179,14,25,0.64 
+2015,12,19,09:00,179,501,7,688,9,16,2,13,7,3,179,17,18,0.98 
+2015,12,19,09:00,501,179,0,688,16,10,12,3,4,7,179,22,22,1.08 
+2015,12,18,13:30,34,179,0,688,16,2,13,2,3,0,179,10,16,0.68 
+2015,12,18,13:30,179,34,7,688,1,16,0,15,1,1,179,4,16,0.24 
+2015,12,17,10:40,179,744,7,688,16,7,11,4,5,3,179,17,14,1.16 
+2015,12,17,10:40,179,744,0,688,16,19,9,6,6,9,179,28,23,1.11 
+2015,12,17,10:40,744,179,6,688,12,16,10,5,2,11,179,18,21,0.87 
+2015,12,06,12:00,767,179,0,707,5,16,3,12,2,4,179,19,11,1.31 
+2015,12,06,12:00,767,179,1,707,9,16,7,8,2,8,179,22,17,1.37 
+2015,12,04,13:40,179,778,0,707,16,8,13,2,3,6,179,24,15,1.43 
+2015,12,04,13:40,179,778,1,707,16,10,7,8,9,2,179,19,16,1.08 
+2015,12,04,12:00,762,179,6,707,16,10,6,9,10,1,179,18,22,0.79 
+2015,12,04,12:00,179,762,1,707,1,16,1,14,0,2,179,8,17,0.50 
+2015,11,29,16:00,827,179,7,696,14,16,4,11,10,5,179,26,21,1.18 
+2015,11,29,16:00,827,179,1,696,8,16,7,8,1,8,179,16,10,1.15 
+2015,11,29,16:00,827,179,0,696,16,10,8,7,8,3,179,31,20,1.72 
+2015,11,29,12:00,179,34,7,707,5,16,4,11,1,5,179,11,19,0.76 
+2015,11,29,12:00,34,179,0,707,16,2,14,1,2,1,179,7,18,0.36 
+2015,11,28,12:00,150,179,0,707,16,12,7,8,9,4,179,22,23,1.03 
+2015,11,28,12:00,150,179,6,707,16,8,11,4,5,4,179,11,21,0.58 
+2015,11,27,12:30,836,179,6,696,4,16,4,11,0,5,179,13,6,1.29 
+2015,11,27,12:30,836,179,1,696,5,16,3,12,2,4,179,30,7,2.32 
+2015,11,25,12:30,179,744,14,696,16,12,8,7,8,5,179,31,17,1.60 
+2015,11,25,12:30,744,179,6,696,8,16,5,10,3,6,179,27,12,1.81 

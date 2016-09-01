@@ -1,3 +1,0 @@
-2015,07,11,19:00,Dexterityfe,ex-meltyfe,inferno,ESWC 2015 Female,16,12,12,3,4,9,Dexterity fe,16,18,0.93 
-2015,07,11,17:30,Games4ufe,Dexterityfe,cache,ESWC 2015 Female,16,5,11,4,5,1,Dexterity fe,8,19,0.42 
-2015,07,11,16:00,Dexterityfe,Karma,dust2,ESWC 2015 Female,6,16,3,12,3,4,Dexterity fe,9,20,0.43 

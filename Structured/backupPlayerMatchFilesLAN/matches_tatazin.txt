@@ -1,3 +1,0 @@
-2016,07,31,23:15,CNB,BigGods,train,Acer ESL Brazil Premier League..,4,16,4,11,0,5,BigGods,9,10,0.78 
-2016,07,31,16:30,g3x,BigGods,dust2,Acer ESL Brazil Premier League..,16,11,9,6,7,5,BigGods,13,22,0.62 
-2016,07,31,16:30,g3x,BigGods,train,Acer ESL Brazil Premier League..,16,11,10,5,6,6,BigGods,12,22,0.57 

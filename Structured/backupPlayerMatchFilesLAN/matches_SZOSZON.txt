@@ -1,5 +1,0 @@
-2015,10,03,16:00,31337,ATB,dust2,ESL Polish Championship Season..,14,16,11,4,3,12,ATB,23,21,1.06 
-2015,10,03,16:00,31337,ATB,cache,ESL Polish Championship Season..,16,10,9,6,7,4,ATB,13,21,0.62 
-2015,10,03,16:00,ATB,31337,mirage,ESL Polish Championship Season..,25,23,6,9,9,6,ATB,26,32,0.77 
-2015,10,03,10:30,ATB,Vexed,cobblestone,ESL Polish Championship Season..,3,16,3,12,0,4,ATB,5,17,0.31 
-2015,10,03,10:30,Vexed,ATB,mirage,ESL Polish Championship Season..,16,3,12,3,4,0,ATB,7,19,0.34 

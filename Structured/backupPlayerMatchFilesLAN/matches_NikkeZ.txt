@@ -1,7 +1,0 @@
-2016,07,24,07:40,AthleticoBH,Chiefs,train,ESL Australia & NZ Championshi..,16,8,9,6,7,2,Chiefs,16,19,0.87 
-2016,07,24,07:40,AthleticoBH,Chiefs,dust2,ESL Australia & NZ Championshi..,16,12,7,8,9,4,Chiefs,21,15,1.19 
-2016,07,24,04:15,Chiefs,Parallax,train,ESL Australia & NZ Championshi..,12,16,6,9,6,7,Chiefs,22,19,1.08 
-2016,07,24,04:15,Chiefs,Parallax,mirage,ESL Australia & NZ Championshi..,16,8,11,4,5,4,Chiefs,9,16,0.68 
-2016,07,24,04:15,Parallax,Chiefs,cache,ESL Australia & NZ Championshi..,16,12,10,5,6,7,Chiefs,15,23,0.66 
-2016,07,23,10:30,Exile5,Chiefs,train,ESL Australia & NZ Championshi..,13,16,9,6,4,10,Chiefs,18,19,0.96 
-2016,07,23,10:30,Chiefs,Exile5,cache,ESL Australia & NZ Championshi..,16,6,9,6,7,0,Chiefs,18,15,1.10 

@@ -1,8 +1,0 @@
-2016,07,31,18:45,Bravado,carboN,train,ESWC 2016 South African Qualif..,16,4,12,3,4,1,carboN,11,17,0.70 
-2016,07,31,18:45,carboN,Bravado,cache,ESWC 2016 South African Qualif..,19,16,4,11,11,4,carboN,31,25,1.30 
-2016,07,31,18:45,carboN,Bravado,mirage,ESWC 2016 South African Qualif..,12,16,6,9,6,7,carboN,11,23,0.66 
-2016,07,31,14:45,carboN,DamageControl,cache,ESWC 2016 South African Qualif..,16,9,9,6,7,3,carboN,20,15,1.23 
-2016,07,31,14:45,DamageControl,carboN,dust2,ESWC 2016 South African Qualif..,16,14,5,10,11,4,carboN,23,20,1.07 
-2016,07,31,14:45,DamageControl,carboN,train,ESWC 2016 South African Qualif..,3,16,3,12,0,4,carboN,17,7,1.57 
-2016,07,30,19:30,Curiosity,carboN,train,ESWC 2016 South African Qualif..,5,16,4,11,1,5,carboN,11,10,1.00 
-2016,07,30,19:30,Curiosity,carboN,cobblestone,ESWC 2016 South African Qualif..,6,16,6,9,0,7,carboN,20,13,1.38 

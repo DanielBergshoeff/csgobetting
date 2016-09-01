@@ -1,37 +1,40 @@
-2016,08,15,12:30,AthleticoBH,SYF,mirage,ESEA Open Season 22 Oceania,16,10,7,8,9,2,Athletico BH,16,13,1.03 
-2016,08,15,12:30,AthleticoBH,SYF,nuke,ESEA Open Season 22 Oceania,14,16,6,9,8,7,Athletico BH,25,18,1.33 
-2016,08,15,12:30,AthleticoBH,SYF,overpass,ESEA Open Season 22 Oceania,16,7,10,5,6,2,Athletico BH,26,12,1.69 
-2016,08,11,12:30,Incept,AthleticoBH,cache,ESEA Open Season 22 Oceania,12,16,3,12,9,4,Athletico BH,26,18,1.40 
-2016,08,11,12:30,Incept,AthleticoBH,train,ESEA Open Season 22 Oceania,21,25,11,4,4,11,Athletico BH,32,29,1.07 
-2016,08,07,09:30,AthleticoBH,MVPproject,cobblestone,SL i-League S2 China Finals,11,16,3,12,8,4,Athletico BH,14,21,0.68 
-2016,08,07,09:30,AthleticoBH,MVPproject,train,SL i-League S2 China Finals,14,16,4,11,10,5,Athletico BH,17,21,0.80 
-2016,08,07,09:30,MVPproject,AthleticoBH,nuke,SL i-League S2 China Finals,11,16,10,5,1,11,Athletico BH,13,17,0.77 
-2016,08,07,06:00,AthleticoBH,TyLoo,train,SL i-League S2 China Finals,2,16,2,13,0,3,Athletico BH,12,17,0.67 
-2016,08,07,06:00,TyLoo,AthleticoBH,dust2,SL i-League S2 China Finals,16,5,11,4,5,1,Athletico BH,11,18,0.64 
-2016,08,07,06:00,AthleticoBH,TyLoo,mirage,SL i-League S2 China Finals,16,13,6,9,10,4,Athletico BH,24,18,1.10 
-2016,08,06,06:00,AthleticoBH,New4,overpass,SL i-League S2 China Finals,16,14,11,4,5,10,Athletico BH,22,20,1.06 
-2016,08,06,06:00,AthleticoBH,New4,dust2,SL i-League S2 China Finals,16,12,10,5,6,7,Athletico BH,16,20,0.88 
-2016,08,06,06:00,New4,AthleticoBH,mirage,SL i-League S2 China Finals,16,6,12,3,4,3,Athletico BH,18,19,1.19 
-2016,07,26,12:00,Skyfire,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,7,16,5,10,2,6,Athletico BH,27,11,1.84 
-2016,07,26,12:00,Skyfire,AthleticoBH,cache,CyberGamer Oceania eSports Mas..,16,13,8,7,8,6,Athletico BH,21,19,1.19 
-2016,07,26,12:00,AthleticoBH,Skyfire,train,CyberGamer Oceania eSports Mas..,16,5,11,4,5,1,Athletico BH,15,10,1.22 
-2016,07,24,09:50,Parallax,AthleticoBH,dust2,ESL Australia & NZ Championshi..,9,16,5,10,4,6,Athletico BH,14,15,0.91 
-2016,07,24,09:50,Parallax,AthleticoBH,mirage,ESL Australia & NZ Championshi..,11,16,4,11,7,5,Athletico BH,25,19,1.38 
-2016,07,24,07:40,AthleticoBH,Chiefs,train,ESL Australia & NZ Championshi..,16,8,9,6,7,2,Athletico BH,27,15,1.75 
-2016,07,24,07:40,AthleticoBH,Chiefs,dust2,ESL Australia & NZ Championshi..,16,12,7,8,9,4,Athletico BH,19,20,0.92 
-2016,07,24,01:00,Exile5,AthleticoBH,train,ESL Australia & NZ Championshi..,19,22,9,6,6,9,Athletico BH,29,26,1.07 
-2016,07,24,01:00,AthleticoBH,Exile5,mirage,ESL Australia & NZ Championshi..,16,13,8,7,8,6,Athletico BH,23,22,1.06 
-2016,07,23,08:00,Parallax,AthleticoBH,overpass,ESL Australia & NZ Championshi..,16,1,14,1,2,0,Athletico BH,9,17,0.51 
-2016,07,23,08:00,AthleticoBH,Parallax,cache,ESL Australia & NZ Championshi..,2,16,2,13,0,3,Athletico BH,4,16,0.31 
-2016,07,18,12:00,AthleticoBH,Chiefs,train,CyberGamer Oceania eSports Mas..,16,8,12,3,4,5,Athletico BH,18,16,1.12 
-2016,07,18,12:00,Chiefs,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,3,16,3,12,0,4,Athletico BH,20,5,1.88 
-2016,07,18,12:00,AthleticoBH,Chiefs,cache,CyberGamer Oceania eSports Mas..,5,16,4,11,1,5,Athletico BH,18,16,1.13 
-2016,07,17,12:00,AthleticoBH,GUTS,cache,CyberGamer Oceania eSports Mas..,16,6,13,2,3,4,Athletico BH,18,12,1.29 
-2016,07,17,12:00,AthleticoBH,GUTS,dust2,CyberGamer Oceania eSports Mas..,16,4,13,2,3,2,Athletico BH,16,10,1.51 
-2016,07,11,11:30,AthleticoBH,Parallax,overpass,CyberGamer Oceania eSports Mas..,16,10,9,6,7,4,Athletico BH,24,13,1.40 
-2016,07,11,11:30,AthleticoBH,Parallax,train,CyberGamer Oceania eSports Mas..,16,9,10,5,6,4,Athletico BH,19,15,1.12 
-2016,07,11,11:30,Parallax,AthleticoBH,cache,CyberGamer Oceania eSports Mas..,16,6,10,5,6,1,Athletico BH,15,18,0.88 
-2016,07,03,12:00,AthleticoBH,Exile5,overpass,CyberGamer Oceania eSports Mas..,16,4,12,3,4,1,Athletico BH,26,8,1.95 
-2016,07,03,12:00,Exile5,AthleticoBH,mirage,CyberGamer Oceania eSports Mas..,17,19,10,5,5,10,Athletico BH,36,18,1.66 
-2016,01,16,02:00,AlphaSydney,Chiefs,inferno,IEM Taipei 2016 Oceania Qualif..,1,16,1,14,0,2,Alpha Sydney,5,17,0.25 
-2016,01,16,02:00,AlphaSydney,Chiefs,cache,IEM Taipei 2016 Oceania Qualif..,23,25,10,5,5,10,Alpha Sydney,36,31,1.05 
+2016,08,16,10:30,4,5,7,464,16,7,8,7,8,0,5,17,18,0.95 
+2016,08,16,10:30,5,4,1,464,16,10,6,9,10,1,5,22,12,1.35 
+2016,08,16,10:30,5,4,14,464,3,16,3,12,0,4,5,6,14,0.57 
+2016,08,15,12:30,5,36,0,464,16,10,7,8,9,2,5,16,13,1.03 
+2016,08,15,12:30,5,36,5,464,14,16,6,9,8,7,5,25,18,1.33 
+2016,08,15,12:30,5,36,4,464,16,7,10,5,6,2,5,26,12,1.69 
+2016,08,11,12:30,110,5,7,464,12,16,3,12,9,4,5,26,18,1.40 
+2016,08,11,12:30,110,5,2,464,21,25,11,4,4,11,5,32,29,1.07 
+2016,08,07,09:30,5,65,14,491,11,16,3,12,8,4,5,14,21,0.68 
+2016,08,07,09:30,5,65,2,491,14,16,4,11,10,5,5,17,21,0.80 
+2016,08,07,09:30,65,5,5,491,11,16,10,5,1,11,5,13,17,0.77 
+2016,08,07,06:00,5,34,2,491,2,16,2,13,0,3,5,12,17,0.67 
+2016,08,07,06:00,34,5,1,491,16,5,11,4,5,1,5,11,18,0.64 
+2016,08,07,06:00,5,34,0,491,16,13,6,9,10,4,5,24,18,1.10 
+2016,08,06,06:00,5,174,4,491,16,14,11,4,5,10,5,22,20,1.06 
+2016,08,06,06:00,5,174,1,491,16,12,10,5,6,7,5,16,20,0.88 
+2016,08,06,06:00,174,5,0,491,16,6,12,3,4,3,5,18,19,1.19 
+2016,07,26,12:00,2,5,0,505,7,16,5,10,2,6,5,27,11,1.84 
+2016,07,26,12:00,2,5,7,505,16,13,8,7,8,6,5,21,19,1.19 
+2016,07,26,12:00,5,2,2,505,16,5,11,4,5,1,5,15,10,1.22 
+2016,07,24,09:50,222,5,1,511,9,16,5,10,4,6,5,14,15,0.91 
+2016,07,24,09:50,222,5,0,511,11,16,4,11,7,5,5,25,19,1.38 
+2016,07,24,07:40,5,3,2,511,16,8,9,6,7,2,5,27,15,1.75 
+2016,07,24,07:40,5,3,1,511,16,12,7,8,9,4,5,19,20,0.92 
+2016,07,24,01:00,227,5,2,511,19,22,9,6,6,9,5,29,26,1.07 
+2016,07,24,01:00,5,227,0,511,16,13,8,7,8,6,5,23,22,1.06 
+2016,07,23,08:00,222,5,4,511,16,1,14,1,2,0,5,9,17,0.51 
+2016,07,23,08:00,5,222,7,511,2,16,2,13,0,3,5,4,16,0.31 
+2016,07,18,12:00,5,3,2,505,16,8,12,3,4,5,5,18,16,1.12 
+2016,07,18,12:00,3,5,0,505,3,16,3,12,0,4,5,20,5,1.88 
+2016,07,18,12:00,5,3,7,505,5,16,4,11,1,5,5,18,16,1.13 
+2016,07,17,12:00,5,228,7,505,16,6,13,2,3,4,5,18,12,1.29 
+2016,07,17,12:00,5,228,1,505,16,4,13,2,3,2,5,16,10,1.51 
+2016,07,11,11:30,5,222,4,505,16,10,9,6,7,4,5,24,13,1.40 
+2016,07,11,11:30,5,222,2,505,16,9,10,5,6,4,5,19,15,1.12 
+2016,07,11,11:30,222,5,7,505,16,6,10,5,6,1,5,15,18,0.88 
+2016,07,03,12:00,5,227,4,505,16,4,12,3,4,1,5,26,8,1.95 
+2016,07,03,12:00,227,5,0,505,17,19,10,5,5,10,5,36,18,1.66 
+2016,01,16,02:00,708,3,6,672,1,16,1,14,0,2,708,5,17,0.25 
+2016,01,16,02:00,708,3,7,672,23,25,10,5,5,10,708,36,31,1.05 

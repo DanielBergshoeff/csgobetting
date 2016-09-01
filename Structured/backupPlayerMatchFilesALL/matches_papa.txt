@@ -1,4 +1,4 @@
-2015,10,06,20:00,ExAequo,SwagSilicone,cobblestone,Milan Games Week 2015 League b..,16,1,14,1,2,0,Swag Silicone,6,16,0.41 
-2015,10,06,20:00,ExAequo,SwagSilicone,dust2,Milan Games Week 2015 League b..,16,7,12,3,4,4,Swag Silicone,8,20,0.42 
-2015,10,01,22:00,TES,SwagSilicone,mirage,Milan Games Week 2015 League b..,16,10,11,4,5,6,Swag Silicone,13,17,0.77 
-2015,10,01,22:00,SwagSilicone,TES,cobblestone,Milan Games Week 2015 League b..,16,12,9,6,7,6,Swag Silicone,12,15,0.76 
+2015,10,06,20:00,596,931,14,773,16,1,14,1,2,0,931,6,16,0.41 
+2015,10,06,20:00,596,931,1,773,16,7,12,3,4,4,931,8,20,0.42 
+2015,10,01,22:00,438,931,0,773,16,10,11,4,5,6,931,13,17,0.77 
+2015,10,01,22:00,931,438,14,773,16,12,9,6,7,6,931,12,15,0.76 

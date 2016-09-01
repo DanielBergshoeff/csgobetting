@@ -1,9 +1,9 @@
-2016,08,12,03:15,ForceofNature,TeamOne,cache,ESEA Open Season 22 Brazil,13,16,5,10,8,6,Force of Nature,22,17,1.15 
-2016,08,12,03:15,ForceofNature,TeamOne,train,ESEA Open Season 22 Brazil,10,16,6,9,4,7,Force of Nature,15,21,0.71 
-2016,08,09,03:30,ForceofNature,LDDM,overpass,ESEA Open Season 22 Brazil,16,10,10,5,6,5,Force of Nature,30,14,1.79 
-2016,08,09,03:30,ForceofNature,LDDM,dust2,ESEA Open Season 22 Brazil,9,16,4,11,5,5,Force of Nature,20,19,1.05 
-2016,08,09,03:30,ForceofNature,LDDM,mirage,ESEA Open Season 22 Brazil,16,14,7,8,9,6,Force of Nature,26,18,1.24 
-2016,03,13,02:15,dreamWorks,rEAK,train,Razer Rising Stars South Ameri..,16,14,11,4,5,10,rEAK,24,21,1.18 
-2016,03,12,22:00,BlackSheep,rEAK,cobblestone,Razer Rising Stars South Ameri..,12,16,5,10,7,6,rEAK,31,20,1.51 
-2015,11,12,03:30,burniNg,eXtasis,cache,STARSLeague,6,16,6,9,0,7,eXtasis,20,10,1.47 
-2015,11,12,03:30,eXtasis,burniNg,cobblestone,STARSLeague,16,3,12,3,4,0,eXtasis,20,5,1.94 
+2016,08,12,03:15,93,7,7,465,13,16,5,10,8,6,93,22,17,1.15 
+2016,08,12,03:15,93,7,2,465,10,16,6,9,4,7,93,15,21,0.71 
+2016,08,09,03:30,93,140,4,465,16,10,10,5,6,5,93,30,14,1.79 
+2016,08,09,03:30,93,140,1,465,9,16,4,11,5,5,93,20,19,1.05 
+2016,08,09,03:30,93,140,0,465,16,14,7,8,9,6,93,26,18,1.24 
+2016,03,13,02:15,617,618,2,548,16,14,11,4,5,10,618,24,21,1.18 
+2016,03,12,22:00,620,618,14,548,12,16,5,10,7,6,618,31,20,1.51 
+2015,11,12,03:30,871,872,7,754,6,16,6,9,0,7,872,20,10,1.47 
+2015,11,12,03:30,872,871,14,754,16,3,12,3,4,0,872,20,5,1.94 

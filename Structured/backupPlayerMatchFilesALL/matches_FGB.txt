@@ -1,61 +1,61 @@
-2016,05,16,04:45,ZePugGodz,TempoStorm,cobblestone,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Ze Pug Godz,13,16,0.73 
-2016,05,16,04:45,TempoStorm,ZePugGodz,cache,ESEA Premier Season 21 North A..,16,14,6,9,10,5,Ze Pug Godz,21,20,1.01 
-2016,05,15,23:00,ZePugGodz,Kaliber,train,ESEA Premier Season 21 North A..,16,10,8,7,8,3,Ze Pug Godz,23,20,1.17 
-2016,05,15,23:00,Kaliber,ZePugGodz,cache,ESEA Premier Season 21 North A..,18,22,6,9,9,6,Ze Pug Godz,26,32,0.82 
-2016,05,15,23:00,ZePugGodz,Kaliber,mirage,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Ze Pug Godz,8,19,0.44 
-2016,04,15,05:00,Cloud9,ZePugGodz,inferno,CEVO Gfinity Professional Seas..,16,2,13,2,3,0,Ze Pug Godz,3,18,0.14 
-2016,04,15,05:00,ZePugGodz,Cloud9,overpass,CEVO Gfinity Professional Seas..,10,16,7,8,3,8,Ze Pug Godz,12,21,0.68 
-2016,04,15,05:00,ZePugGodz,Cloud9,cache,CEVO Gfinity Professional Seas..,16,9,7,8,9,1,Ze Pug Godz,12,15,0.84 
-2016,04,15,02:15,Winterfox,ZePugGodz,cache,CEVO Gfinity Professional Seas..,10,16,6,9,4,7,Ze Pug Godz,29,15,1.61 
-2016,04,15,02:15,ZePugGodz,Winterfox,overpass,CEVO Gfinity Professional Seas..,7,16,5,10,2,6,Ze Pug Godz,9,19,0.52 
-2016,04,15,02:15,ZePugGodz,Winterfox,cobblestone,CEVO Gfinity Professional Seas..,16,13,6,9,10,4,Ze Pug Godz,18,20,0.87 
-2015,12,15,03:00,SKDC,vVv,mirage,RGN Showseries,16,8,9,6,7,2,SKDC,22,19,1.10 
-2015,12,15,03:00,vVv,SKDC,overpass,RGN Showseries,15,19,8,7,7,8,SKDC,30,24,1.32 
-2015,11,26,04:30,SKDC,Winterfox,cobblestone,SL i-League StarSeries XIV,7,16,4,11,3,5,SKDC,15,21,0.67 
-2015,11,26,04:30,Winterfox,SKDC,overpass,SL i-League StarSeries XIV,16,12,9,6,7,6,SKDC,22,19,1.04 
-2015,11,25,04:30,Noble,SKDC,inferno,SL i-League StarSeries XIV,8,16,6,9,2,7,SKDC,20,17,1.15 
-2015,11,25,04:30,Noble,SKDC,mirage,SL i-League StarSeries XIV,7,16,3,12,4,4,SKDC,14,16,0.86 
-2015,11,25,04:30,Noble,SKDC,overpass,SL i-League StarSeries XIV,22,18,7,8,8,7,SKDC,38,29,1.34 
-2015,11,18,02:00,SKDC,CSGL,train,RGN Pro Series Championship,11,16,7,8,4,8,SKDC,21,20,1.03 
-2015,11,17,21:20,Liquid,SKDC,overpass,RGN Pro Series Championship,16,10,10,5,6,5,SKDC,13,21,0.62 
-2015,11,17,19:00,GamesAcademy,SKDC,dust2,RGN Pro Series Championship,16,5,11,4,5,1,SKDC,11,17,0.81 
-2015,11,13,03:00,Method,SKDC,cache,ESL ESEA Pro League Season 2,16,12,9,6,7,6,SKDC,23,19,1.13 
-2015,11,13,02:00,SKDC,Conquest,cache,ESL ESEA Pro League Season 2,8,16,2,13,6,3,SKDC,10,19,0.59 
-2015,11,06,04:00,CLG,SKDC,dust2,ESL ESEA Pro League Season 2,16,11,8,7,8,4,SKDC,16,19,0.99 
-2015,11,06,03:00,SKDC,Method,overpass,ESL ESEA Pro League Season 2,16,13,6,9,10,4,SKDC,21,21,0.85 
-2015,11,04,03:00,Conquest,SKDC,train,ESL ESEA Pro League Season 2,16,3,13,2,3,1,SKDC,15,17,0.84 
-2015,10,29,03:00,Splyce,Coastless,inferno,SL i-League StarSeries XIV,16,3,14,1,2,2,Coastless,7,17,0.39 
-2015,10,29,03:00,Coastless,Splyce,mirage,SL i-League StarSeries XIV,13,16,8,7,5,9,Coastless,18,21,0.98 
-2015,10,28,03:00,Coastless,Conquest,train,SL i-League StarSeries XIV,9,16,2,13,7,3,Coastless,6,19,0.40 
-2015,10,28,03:00,Coastless,Conquest,overpass,SL i-League StarSeries XIV,7,16,4,11,3,5,Coastless,8,20,0.40 
-2015,10,25,03:00,Coastless,Liquid,dust2,ESL ESEA Pro League Season 2,10,16,3,12,7,4,Coastless,16,21,0.76 
-2015,10,25,01:00,Coastless,Luminosity,cache,ESL ESEA Pro League Season 2,17,19,5,10,10,5,Coastless,24,28,0.82 
-2015,10,21,05:00,Coastless,Winterfox,train,ESL ESEA Pro League Season 2,16,7,11,4,5,3,Coastless,29,14,1.85 
-2015,10,19,03:00,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,8,16,7,8,1,8,Roca's compLexity,13,20,0.66 
-2015,10,19,00:35,WinOut.net,Roca'scompLexity,mirage,Fragadelphia 6,7,16,5,10,2,6,Roca's compLexity,19,10,1.28 
-2015,10,18,23:25,ReapWhatYouSow,Roca'scompLexity,cache,Fragadelphia 6,13,16,7,8,6,8,Roca's compLexity,19,20,0.92 
-2015,10,18,19:15,Eanix,Roca'scompLexity,cache,Fragadelphia 6,5,16,4,11,1,5,Roca's compLexity,11,14,0.76 
-2015,10,18,16:25,Roca'scompLexity,Tectonic,mirage,Fragadelphia 6,10,16,4,11,6,5,Roca's compLexity,20,19,1.00 
-2015,10,18,16:25,Roca'scompLexity,Tectonic,cobblestone,Fragadelphia 6,16,14,7,8,9,6,Roca's compLexity,29,24,1.30 
-2015,10,18,16:25,Tectonic,Roca'scompLexity,cache,Fragadelphia 6,16,6,11,4,5,2,Roca's compLexity,12,21,0.60 
-2015,10,18,02:00,Roca'scompLexity,TheMooninites,cache,Fragadelphia 6,16,9,9,6,7,3,Roca's compLexity,14,17,0.82 
-2015,10,18,02:00,TheMooninites,Roca'scompLexity,inferno,Fragadelphia 6,7,16,6,9,1,7,Roca's compLexity,14,14,0.95 
-2015,10,14,02:00,Enemy,Coast,train,ESL ESEA Pro League Season 2,16,4,13,2,3,2,Coast,8,16,0.53 
-2015,09,28,05:15,Method,vVv,mirage,RGN Freedom Cup,16,10,10,5,6,5,vVv,17,19,0.90 
-2015,09,23,05:00,vVv,GamesAcademy,mirage,RGN Freedom Cup,11,16,4,11,7,5,vVv,17,21,0.88 
-2015,09,22,04:00,Splyce,vVv,dust2,RGN Freedom Cup,16,3,12,3,4,0,vVv,10,18,0.57 
-2015,09,12,23:40,Coast,Conquest,dust2,iBUYPOWER Invitational Fall 20..,20,22,7,8,8,7,Coast,23,34,0.71 
-2015,09,12,23:40,Conquest,Coast,cobblestone,iBUYPOWER Invitational Fall 20..,16,6,13,2,3,4,Coast,9,19,0.53 
-2015,08,27,04:15,Mortality,3sUP,mirage,CEVO Professional Season 8,12,16,6,9,6,7,Mortality,13,21,0.65 
-2015,08,27,04:15,Mortality,3sUP,dust2,CEVO Professional Season 8,20,22,5,10,10,5,Mortality,18,29,0.65 
-2015,08,25,02:00,Mythic,Mortality,cache,CEVO Professional Season 8,16,7,9,6,7,1,Mortality,13,19,0.66 
-2015,08,25,02:00,Mythic,Mortality,dust2,CEVO Professional Season 8,14,16,11,4,3,12,Mortality,21,19,1.00 
-2015,08,18,04:15,Conquest,Mortality,inferno,CEVO Professional Season 8,19,16,6,9,9,6,Mortality,22,24,0.83 
-2015,08,18,04:15,Mortality,Conquest,cache,CEVO Professional Season 8,26,28,8,7,7,8,Mortality,34,38,0.91 
-2015,08,10,02:00,Mortality,AstralAuthority,train,CEVO Professional Season 8 Pla..,22,20,11,4,4,11,Astral Authority,20,29,0.72 
-2015,08,10,02:00,Mortality,AstralAuthority,cache,CEVO Professional Season 8 Pla..,13,16,11,4,2,12,Astral Authority,19,21,0.93 
-2015,08,10,02:00,AstralAuthority,Mortality,inferno,CEVO Professional Season 8 Pla..,12,16,9,6,3,10,Astral Authority,18,22,0.84 
-2015,06,24,04:00,Luminosity,AstralAuthority,cobblestone,RGN Pro Series NA,16,6,10,5,6,1,Astral Authority,10,20,0.64 
-2015,06,03,04:00,AstralAuthority,SKDC,train,RGN Pro Series NA Closed Quali..,11,16,10,5,1,11,Astral Authority,25,21,1.19 
-2015,06,03,04:00,AstralAuthority,SKDC,mirage,RGN Pro Series NA Closed Quali..,11,16,7,8,4,8,Astral Authority,19,22,0.85 
-2015,06,03,04:00,SKDC,AstralAuthority,cache,RGN Pro Series NA Closed Quali..,20,22,8,7,7,8,Astral Authority,33,27,1.17 
+2016,05,16,04:45,435,424,14,574,3,16,3,12,0,4,435,13,16,0.73 
+2016,05,16,04:45,424,435,7,574,16,14,6,9,10,5,435,21,20,1.01 
+2016,05,15,23:00,435,114,2,574,16,10,8,7,8,3,435,23,20,1.17 
+2016,05,15,23:00,114,435,7,574,18,22,6,9,9,6,435,26,32,0.82 
+2016,05,15,23:00,435,114,0,574,3,16,3,12,0,4,435,8,19,0.44 
+2016,04,15,05:00,257,435,6,590,16,2,13,2,3,0,435,3,18,0.14 
+2016,04,15,05:00,435,257,4,590,10,16,7,8,3,8,435,12,21,0.68 
+2016,04,15,05:00,435,257,7,590,16,9,7,8,9,1,435,12,15,0.84 
+2016,04,15,02:15,279,435,7,590,10,16,6,9,4,7,435,29,15,1.61 
+2016,04,15,02:15,435,279,4,590,7,16,5,10,2,6,435,9,19,0.52 
+2016,04,15,02:15,435,279,14,590,16,13,6,9,10,4,435,18,20,0.87 
+2015,12,15,03:00,759,760,0,703,16,8,9,6,7,2,759,22,19,1.10 
+2015,12,15,03:00,760,759,4,703,15,19,8,7,7,8,759,30,24,1.32 
+2015,11,26,04:30,759,279,14,696,7,16,4,11,3,5,759,15,21,0.67 
+2015,11,26,04:30,279,759,4,696,16,12,9,6,7,6,759,22,19,1.04 
+2015,11,25,04:30,447,759,6,696,8,16,6,9,2,7,759,20,17,1.15 
+2015,11,25,04:30,447,759,0,696,7,16,3,12,4,4,759,14,16,0.86 
+2015,11,25,04:30,447,759,4,696,22,18,7,8,8,7,759,38,29,1.34 
+2015,11,18,02:00,759,439,2,744,11,16,7,8,4,8,759,21,20,1.03 
+2015,11,17,21:20,303,759,4,744,16,10,10,5,6,5,759,13,21,0.62 
+2015,11,17,19:00,702,759,1,744,16,5,11,4,5,1,759,11,17,0.81 
+2015,11,13,03:00,496,759,7,740,16,12,9,6,7,6,759,23,19,1.13 
+2015,11,13,02:00,759,738,7,740,8,16,2,13,6,3,759,10,19,0.59 
+2015,11,06,04:00,291,759,1,740,16,11,8,7,8,4,759,16,19,0.99 
+2015,11,06,03:00,759,496,4,740,16,13,6,9,10,4,759,21,21,0.85 
+2015,11,04,03:00,738,759,2,740,16,3,13,2,3,1,759,15,17,0.84 
+2015,10,29,03:00,362,896,6,696,16,3,14,1,2,2,896,7,17,0.39 
+2015,10,29,03:00,896,362,0,696,13,16,8,7,5,9,896,18,21,0.98 
+2015,10,28,03:00,896,738,2,696,9,16,2,13,7,3,896,6,19,0.40 
+2015,10,28,03:00,896,738,4,696,7,16,4,11,3,5,896,8,20,0.40 
+2015,10,25,03:00,896,303,1,740,10,16,3,12,7,4,896,16,21,0.76 
+2015,10,25,01:00,896,70,7,740,17,19,5,10,10,5,896,24,28,0.82 
+2015,10,21,05:00,896,279,2,740,16,7,11,4,5,3,896,29,14,1.85 
+2015,10,19,03:00,915,79,0,780,8,16,7,8,1,8,915,13,20,0.66 
+2015,10,19,00:35,917,915,0,780,7,16,5,10,2,6,915,19,10,1.28 
+2015,10,18,23:25,918,915,7,780,13,16,7,8,6,8,915,19,20,0.92 
+2015,10,18,19:15,920,915,7,780,5,16,4,11,1,5,915,11,14,0.76 
+2015,10,18,16:25,915,79,0,780,10,16,4,11,6,5,915,20,19,1.00 
+2015,10,18,16:25,915,79,14,780,16,14,7,8,9,6,915,29,24,1.30 
+2015,10,18,16:25,79,915,7,780,16,6,11,4,5,2,915,12,21,0.60 
+2015,10,18,02:00,915,921,7,780,16,9,9,6,7,3,915,14,17,0.82 
+2015,10,18,02:00,921,915,6,780,7,16,6,9,1,7,915,14,14,0.95 
+2015,10,14,02:00,682,933,2,740,16,4,13,2,3,2,933,8,16,0.53 
+2015,09,28,05:15,496,760,0,725,16,10,10,5,6,5,760,17,19,0.90 
+2015,09,23,05:00,760,702,0,725,11,16,4,11,7,5,760,17,21,0.88 
+2015,09,22,04:00,362,760,1,725,16,3,12,3,4,0,760,10,18,0.57 
+2015,09,12,23:40,933,738,1,819,20,22,7,8,8,7,933,23,34,0.71 
+2015,09,12,23:40,738,933,14,819,16,6,13,2,3,4,933,9,19,0.53 
+2015,08,27,04:15,979,805,0,783,12,16,6,9,6,7,979,13,21,0.65 
+2015,08,27,04:15,979,805,1,783,20,22,5,10,10,5,979,18,29,0.65 
+2015,08,25,02:00,984,979,7,783,16,7,9,6,7,1,979,13,19,0.66 
+2015,08,25,02:00,984,979,1,783,14,16,11,4,3,12,979,21,19,1.00 
+2015,08,18,04:15,738,979,6,783,19,16,6,9,9,6,979,22,24,0.83 
+2015,08,18,04:15,979,738,7,783,26,28,8,7,7,8,979,34,38,0.91 
+2015,08,10,02:00,979,761,2,858,22,20,11,4,4,11,761,20,29,0.72 
+2015,08,10,02:00,979,761,7,858,13,16,11,4,2,12,761,19,21,0.93 
+2015,08,10,02:00,761,979,6,858,12,16,9,6,3,10,761,18,22,0.84 
+2015,06,24,04:00,70,761,14,842,16,6,10,5,6,1,761,10,20,0.64 
+2015,06,03,04:00,761,759,2,904,11,16,10,5,1,11,761,25,21,1.19 
+2015,06,03,04:00,761,759,0,904,11,16,7,8,4,8,761,19,22,0.85 
+2015,06,03,04:00,759,761,7,904,20,22,8,7,7,8,761,33,27,1.17 

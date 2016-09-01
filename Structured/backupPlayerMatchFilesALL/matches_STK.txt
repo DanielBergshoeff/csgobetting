@@ -1,9 +1,9 @@
-2016,08,04,20:00,Egypt,Libya,mirage,World Championships 2016 Afric..,10,16,5,10,5,6,Egypt,18,18,1.01 
-2016,08,04,19:00,Egypt,SouthAfrica,mirage,World Championships 2016 Afric..,1,16,1,14,0,2,Egypt,8,16,0.65 
-2016,04,27,18:10,drinkpizza!,fRactals,inferno,Rising Stars Africa Promotiona..,12,16,7,8,5,8,drinkpizza!,16,17,0.96 
-2016,04,27,18:10,fRactals,drinkpizza!,cache,Rising Stars Africa Promotiona..,16,6,11,4,5,2,drinkpizza!,10,18,0.63 
-2015,08,13,14:00,SouthAfrica,Egypt,cache,World Championships 2015 Afric..,3,16,3,12,0,4,Egypt,18,13,1.42 
-2015,08,13,13:00,Tunisia,Egypt,cache,World Championships 2015 Afric..,16,10,12,3,4,7,Egypt,18,17,1.04 
-2015,08,12,16:30,Egypt,Algeria,cache,World Championships 2015 Afric..,16,9,6,9,10,0,Egypt,14,15,0.91 
-2015,08,11,16:45,Egypt,Morocco,dust2,World Championships 2015 Afric..,16,6,10,5,6,1,Egypt,23,14,1.64 
-2015,08,10,16:30,Egypt,Libya,cache,World Championships 2015 Afric..,16,10,9,6,7,4,Egypt,20,11,1.25 
+2016,08,04,20:00,183,178,0,493,10,16,5,10,5,6,183,18,18,1.01 
+2016,08,04,19:00,183,175,0,493,1,16,1,14,0,2,183,8,16,0.65 
+2016,04,27,18:10,470,461,6,592,12,16,7,8,5,8,470,16,17,0.96 
+2016,04,27,18:10,461,470,7,592,16,6,11,4,5,2,470,10,18,0.63 
+2015,08,13,14:00,175,183,7,855,3,16,3,12,0,4,183,18,13,1.42 
+2015,08,13,13:00,14,183,7,855,16,10,12,3,4,7,183,18,17,1.04 
+2015,08,12,16:30,183,190,7,855,16,9,6,9,10,0,183,14,15,0.91 
+2015,08,11,16:45,183,171,1,855,16,6,10,5,6,1,183,23,14,1.64 
+2015,08,10,16:30,183,178,7,855,16,10,9,6,7,4,183,20,11,1.25 

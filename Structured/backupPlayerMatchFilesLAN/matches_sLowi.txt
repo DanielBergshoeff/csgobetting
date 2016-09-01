@@ -1,2 +1,0 @@
-2015,10,30,11:00,SkitLite,RCTIC,mirage,ASUS ROG Nordic Challenge,12,16,6,9,6,7,SkitLite,19,20,1.01 
-2015,10,30,11:00,RCTIC,SkitLite,train,ASUS ROG Nordic Challenge,16,7,11,4,5,3,SkitLite,13,20,0.76 

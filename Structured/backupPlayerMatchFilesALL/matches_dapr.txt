@@ -1,2 +1,2 @@
-2016,07,20,04:50,Kingdom,Tectonic,dust2,RGN Pro Series II NA Closed Qu..,6,16,2,13,4,3,Kingdom,21,14,1.67 
-2016,07,20,04:50,Kingdom,Tectonic,cache,RGN Pro Series II NA Closed Qu..,22,25,7,8,8,7,Kingdom,38,33,1.17 
+2016,07,20,04:50,263,79,1,516,6,16,2,13,4,3,263,21,14,1.67 
+2016,07,20,04:50,263,79,7,516,22,25,7,8,8,7,263,38,33,1.17 

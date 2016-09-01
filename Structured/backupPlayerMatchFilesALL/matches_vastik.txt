@@ -1,4 +1,4 @@
-2016,05,29,13:00,AlienTech,Eyeshield,cobblestone,AlienTech CS:GO Invitational I..,16,9,9,6,7,3,Eyeshield,22,17,1.34 
-2016,05,29,13:00,AlienTech,Eyeshield,dust2,AlienTech CS:GO Invitational I..,16,11,7,8,9,3,Eyeshield,19,19,1.15 
-2016,05,04,22:00,ExoticIsland,ImperioMultimedia,inferno,xfunction Challenge,4,16,1,14,3,2,Exotic Island,18,14,1.29 
-2016,05,03,22:55,Millenium,ExoticIsland,inferno,xfunction Challenge,16,13,13,2,3,11,Exotic Island,23,19,1.18 
+2016,05,29,13:00,278,395,14,559,16,9,9,6,7,3,395,22,17,1.34 
+2016,05,29,13:00,278,395,1,559,16,11,7,8,9,3,395,19,19,1.15 
+2016,05,04,22:00,127,432,6,544,4,16,1,14,3,2,127,18,14,1.29 
+2016,05,03,22:55,118,127,6,544,16,13,13,2,3,11,127,23,19,1.18 

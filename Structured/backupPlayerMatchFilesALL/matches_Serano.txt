@@ -1,2 +1,2 @@
-2015,11,07,12:00,99damage.deStaff,PGLStaff,inferno,Virtus.pro Staff Cup #3,16,5,10,5,6,0,PGL Staff,5,18,0.32 
-2015,11,07,12:00,99damage.deStaff,PGLStaff,cache,Virtus.pro Staff Cup #3,16,2,13,2,3,0,PGL Staff,4,17,0.26 
+2015,11,07,12:00,874,886,6,750,16,5,10,5,6,0,886,5,18,0.32 
+2015,11,07,12:00,874,886,7,750,16,2,13,2,3,0,886,4,17,0.26 

@@ -1,4 +1,4 @@
-2015,09,30,21:10,Sweden,Kazakhstan,inferno,World Championships 2015 Europ..,16,6,9,6,7,0,Kazakhstan,10,21,0.47 
-2015,09,30,21:10,Sweden,Kazakhstan,dust2,World Championships 2015 Europ..,16,4,11,4,5,0,Kazakhstan,12,17,0.68 
-2015,04,23,18:00,xGame.KZ,USSR,dust2,Uprise Champions Cup Season 2,8,16,5,10,3,6,xGame.KZ,15,21,0.72 
-2015,04,23,18:00,xGame.KZ,USSR,cache,Uprise Champions Cup Season 2,9,16,6,9,3,7,xGame.KZ,21,19,1.11 
+2015,09,30,21:10,937,957,6,799,16,6,9,6,7,0,957,10,21,0.47 
+2015,09,30,21:10,937,957,1,799,16,4,11,4,5,0,957,12,17,0.68 
+2015,04,23,18:00,1097,844,1,923,8,16,5,10,3,6,1097,15,21,0.72 
+2015,04,23,18:00,1097,844,7,923,9,16,6,9,3,7,1097,21,19,1.11 

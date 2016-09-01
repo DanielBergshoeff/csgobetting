@@ -1,32 +1,32 @@
-2016,07,17,17:45,Reasonfe,Secretfe,dust2,StarLadder Female Stars Champi..,10,16,2,13,8,3,Reason fe,15,23,0.69 
-2016,07,17,17:45,Reasonfe,Secretfe,cobblestone,StarLadder Female Stars Champi..,13,16,9,6,4,10,Reason fe,17,24,0.79 
-2016,07,17,14:55,Reasonfe,Heaven,cache,StarLadder Female Stars Champi..,16,8,8,7,8,1,Reason fe,15,13,0.97 
-2016,07,17,14:55,Reasonfe,Heaven,cobblestone,StarLadder Female Stars Champi..,16,11,6,9,10,2,Reason fe,22,17,1.22 
-2016,07,17,11:30,Reasonfe,EYESportsfe,overpass,StarLadder Female Stars Champi..,16,8,8,7,8,1,Reason fe,14,17,0.87 
-2016,07,17,11:30,EYESportsfe,Reasonfe,cobblestone,StarLadder Female Stars Champi..,6,16,4,11,2,5,Reason fe,15,13,1.01 
-2016,07,17,11:30,EYESportsfe,Reasonfe,train,StarLadder Female Stars Champi..,16,10,13,2,3,8,Reason fe,11,22,0.57 
-2016,07,16,12:15,Reasonfe,Heaven,cache,StarLadder Female Stars Champi..,12,16,7,8,5,8,Reason fe,24,20,1.20 
-2016,07,16,12:15,Reasonfe,Heaven,train,StarLadder Female Stars Champi..,14,16,10,5,4,11,Reason fe,18,24,0.74 
-2016,03,26,14:15,YPLadies,Secretfe,cache,Copenhagen Games 2016 female,3,16,3,12,0,4,YP Ladies,10,15,0.64 
-2016,03,26,14:15,YPLadies,Secretfe,inferno,Copenhagen Games 2016 female,9,16,5,10,4,6,YP Ladies,14,16,0.81 
-2016,03,26,11:00,YPLadies,ALSENfe,train,Copenhagen Games 2016 female,16,6,12,3,4,3,YP Ladies,13,13,1.01 
-2016,03,26,11:00,ALSENfe,YPLadies,mirage,Copenhagen Games 2016 female,16,11,7,8,9,3,YP Ladies,20,18,1.02 
-2016,03,26,11:00,YPLadies,ALSENfe,cobblestone,Copenhagen Games 2016 female,16,5,10,5,6,0,YP Ladies,23,7,1.79 
-2016,03,26,00:30,YPLadies,mConfe,inferno,Copenhagen Games 2016 female,16,11,10,5,6,6,YP Ladies,24,15,1.41 
-2016,03,26,00:30,YPLadies,mConfe,cache,Copenhagen Games 2016 female,16,8,10,5,6,3,YP Ladies,13,14,0.94 
-2016,03,25,19:20,CLGRed,YPLadies,cobblestone,Copenhagen Games 2016 female,16,4,11,4,5,0,YP Ladies,11,17,0.67 
-2016,03,25,19:20,YPLadies,CLGRed,dust2,Copenhagen Games 2016 female,13,16,6,9,7,7,YP Ladies,17,20,0.92 
-2016,03,25,16:30,YPLadies,Rizefe,dust2,Copenhagen Games 2016 female,16,3,12,3,4,0,YP Ladies,19,9,1.51 
-2016,03,25,16:30,YPLadies,Rizefe,cobblestone,Copenhagen Games 2016 female,16,2,14,1,2,1,YP Ladies,17,10,1.41 
-2015,12,08,22:00,WRTP,YPLadies,inferno,D!ngIT $2000 Weekly Cup #29,16,6,11,4,5,2,YP Ladies,3,20,0.19 
-2015,12,08,21:00,LGBfe,YPLadies,cache,D!ngIT $2000 Weekly Cup #29,9,16,3,12,6,4,YP Ladies,18,19,0.96 
-2015,12,08,17:30,Unikrn,YPLadies,cobblestone,D!ngIT $2000 Weekly Cup #29,9,16,0,15,9,1,YP Ladies,20,17,1.18 
-2015,12,07,17:30,YPLadies,WRTP,train,D!ngIT $2000 Weekly Cup #29,11,16,6,9,5,7,YP Ladies,18,22,0.88 
-2015,12,07,17:30,WRTP,YPLadies,cache,D!ngIT $2000 Weekly Cup #29,16,8,9,6,7,2,YP Ladies,11,21,0.53 
-2015,12,01,22:00,eXplosive,YPLadies,dust2,UCC ShowMatch Cup,16,4,13,2,3,2,YP Ladies,9,20,0.46 
-2015,12,01,22:00,eXplosive,YPLadies,cache,UCC ShowMatch Cup,16,4,13,2,3,2,YP Ladies,13,17,0.87 
-2015,12,01,16:00,dATfe,YPLadies,cobblestone,UCC ShowMatch Cup,14,16,7,8,7,8,YP Ladies,25,19,1.19 
-2015,12,01,16:00,dATfe,YPLadies,overpass,UCC ShowMatch Cup,16,19,5,10,10,5,YP Ladies,27,24,1.05 
-2014,10,30,18:15,Karma,ACESLadies,mirage,ESWC 2014 Female,16,14,8,7,8,7,ACES Ladies,17,20,0.82 
-2014,10,30,17:00,ACESLadies,3DMAXfe,inferno,ESWC 2014 Female,8,16,8,7,0,9,ACES Ladies,9,19,0.51 
-2014,10,30,15:30,ALTERNATEfe,ACESLadies,nuke,ESWC 2014 Female,9,16,8,7,1,9,ACES Ladies,15,13,0.99 
+2016,07,17,17:45,271,261,1,519,10,16,2,13,8,3,271,15,23,0.69 
+2016,07,17,17:45,271,261,14,519,13,16,9,6,4,10,271,17,24,0.79 
+2016,07,17,14:55,271,272,7,519,16,8,8,7,8,1,271,15,13,0.97 
+2016,07,17,14:55,271,272,14,519,16,11,6,9,10,2,271,22,17,1.22 
+2016,07,17,11:30,271,273,4,519,16,8,8,7,8,1,271,14,17,0.87 
+2016,07,17,11:30,273,271,14,519,6,16,4,11,2,5,271,15,13,1.01 
+2016,07,17,11:30,273,271,2,519,16,10,13,2,3,8,271,11,22,0.57 
+2016,07,16,12:15,271,272,7,519,12,16,7,8,5,8,271,24,20,1.20 
+2016,07,16,12:15,271,272,2,519,14,16,10,5,4,11,271,18,24,0.74 
+2016,03,26,14:15,515,261,7,620,3,16,3,12,0,4,515,10,15,0.64 
+2016,03,26,14:15,515,261,6,620,9,16,5,10,4,6,515,14,16,0.81 
+2016,03,26,11:00,515,519,2,620,16,6,12,3,4,3,515,13,13,1.01 
+2016,03,26,11:00,519,515,0,620,16,11,7,8,9,3,515,20,18,1.02 
+2016,03,26,11:00,515,519,14,620,16,5,10,5,6,0,515,23,7,1.79 
+2016,03,26,00:30,515,521,6,620,16,11,10,5,6,6,515,24,15,1.41 
+2016,03,26,00:30,515,521,7,620,16,8,10,5,6,3,515,13,14,0.94 
+2016,03,25,19:20,510,515,14,620,16,4,11,4,5,0,515,11,17,0.67 
+2016,03,25,19:20,515,510,1,620,13,16,6,9,7,7,515,17,20,0.92 
+2016,03,25,16:30,515,525,1,620,16,3,12,3,4,0,515,19,9,1.51 
+2016,03,25,16:30,515,525,14,620,16,2,14,1,2,1,515,17,10,1.41 
+2015,12,08,22:00,639,515,6,712,16,6,11,4,5,2,515,3,20,0.19 
+2015,12,08,21:00,513,515,7,712,9,16,3,12,6,4,515,18,19,0.96 
+2015,12,08,17:30,791,515,14,712,9,16,0,15,9,1,515,20,17,1.18 
+2015,12,07,17:30,515,639,2,712,11,16,6,9,5,7,515,18,22,0.88 
+2015,12,07,17:30,639,515,7,712,16,8,9,6,7,2,515,11,21,0.53 
+2015,12,01,22:00,489,515,1,724,16,4,13,2,3,2,515,9,20,0.46 
+2015,12,01,22:00,489,515,7,724,16,4,13,2,3,2,515,13,17,0.87 
+2015,12,01,16:00,822,515,14,724,14,16,7,8,7,8,515,25,19,1.19 
+2015,12,01,16:00,822,515,4,724,16,19,5,10,10,5,515,27,24,1.05 
+2014,10,30,18:15,516,1166,0,999,16,14,8,7,8,7,1166,17,20,0.82 
+2014,10,30,17:00,1166,1107,6,999,8,16,8,7,0,9,1166,9,19,0.51 
+2014,10,30,15:30,1119,1166,5,999,9,16,8,7,1,9,1166,15,13,0.99 

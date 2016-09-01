@@ -1,9 +1,0 @@
-2015,07,11,19:00,Dexterityfe,ex-meltyfe,inferno,ESWC 2015 Female,16,12,12,3,4,9,ex-melty fe,17,21,0.92 
-2015,07,11,17:30,ex-meltyfe,Karma,dust2,ESWC 2015 Female,13,16,5,10,8,6,ex-melty fe,20,22,1.07 
-2015,07,11,16:00,Games4ufe,ex-meltyfe,mirage,ESWC 2015 Female,9,16,5,10,4,6,ex-melty fe,14,21,0.69 
-2015,04,03,22:30,ex-meltyfe,ICYPhoenix,dust2,Copenhagen Games 2015 female,11,16,9,6,2,10,ex-melty fe,19,20,0.93 
-2015,04,03,22:30,ex-meltyfe,ICYPhoenix,inferno,Copenhagen Games 2015 female,7,16,7,8,0,8,ex-melty fe,12,19,0.68 
-2015,04,03,18:30,3DMAXfe,ex-meltyfe,inferno,Copenhagen Games 2015 female,16,13,11,4,5,9,ex-melty fe,16,21,0.83 
-2015,04,03,18:30,ex-meltyfe,3DMAXfe,dust2,Copenhagen Games 2015 female,5,16,5,10,0,6,ex-melty fe,8,18,0.60 
-2015,04,03,12:00,Propertyfe,ex-meltyfe,mirage,Copenhagen Games 2015 female,10,16,7,8,3,8,ex-melty fe,21,18,1.10 
-2015,04,03,12:00,ex-meltyfe,Propertyfe,dust2,Copenhagen Games 2015 female,16,6,9,6,7,0,ex-melty fe,15,13,1.17 

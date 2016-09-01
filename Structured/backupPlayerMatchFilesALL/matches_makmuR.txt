@@ -1,24 +1,24 @@
-2016,08,15,19:00,Bravado,carboN,cobblestone,WESG 2016 South & East Africa,16,10,8,7,8,3,carboN,25,21,1.14 
-2016,08,15,19:00,Bravado,carboN,mirage,WESG 2016 South & East Africa,16,11,8,7,8,4,carboN,21,21,1.07 
-2016,08,14,21:30,DamageControl,carboN,dust2,WESG 2016 South & East Africa,2,16,2,13,0,3,carboN,10,6,1.07 
-2016,08,14,21:30,carboN,DamageControl,cobblestone,WESG 2016 South & East Africa,16,14,8,7,8,7,carboN,18,21,0.94 
-2016,08,13,18:00,carboN,DamageControl,inferno,ESEA Open Season 22 South Afri..,16,4,11,4,5,0,carboN,11,13,0.80 
-2016,08,13,18:00,carboN,DamageControl,cache,ESEA Open Season 22 South Afri..,17,19,7,8,8,7,carboN,28,24,1.10 
-2016,08,13,18:00,DamageControl,carboN,train,ESEA Open Season 22 South Afri..,5,16,5,10,0,6,carboN,18,10,1.34 
-2016,08,09,20:00,xTc,carboN,dust2,ESEA Open Season 22 South Afri..,2,16,2,13,0,3,carboN,22,5,1.97 
-2016,08,09,20:00,xTc,carboN,mirage,ESEA Open Season 22 South Afri..,12,16,6,9,6,7,carboN,18,14,1.07 
-2016,07,31,18:45,Bravado,carboN,train,ESWC 2016 South African Qualif..,16,4,12,3,4,1,carboN,11,17,0.76 
-2016,07,31,18:45,carboN,Bravado,cache,ESWC 2016 South African Qualif..,19,16,4,11,11,4,carboN,21,24,0.91 
-2016,07,31,18:45,carboN,Bravado,mirage,ESWC 2016 South African Qualif..,12,16,6,9,6,7,carboN,12,24,0.52 
-2016,07,31,14:45,carboN,DamageControl,cache,ESWC 2016 South African Qualif..,16,9,9,6,7,3,carboN,20,19,1.10 
-2016,07,31,14:45,DamageControl,carboN,dust2,ESWC 2016 South African Qualif..,16,14,5,10,11,4,carboN,14,19,0.71 
-2016,07,31,14:45,DamageControl,carboN,train,ESWC 2016 South African Qualif..,3,16,3,12,0,4,carboN,17,10,1.50 
-2016,07,30,19:30,Curiosity,carboN,train,ESWC 2016 South African Qualif..,5,16,4,11,1,5,carboN,21,10,1.54 
-2016,07,30,19:30,Curiosity,carboN,cobblestone,ESWC 2016 South African Qualif..,6,16,6,9,0,7,carboN,18,13,1.31 
-2016,02,14,09:30,carboN,Aperture,cache,GWZA Season 1 Finals,13,16,5,10,8,6,carboN,12,21,0.57 
-2016,02,14,09:30,carboN,Aperture,mirage,GWZA Season 1 Finals,14,16,11,4,3,12,carboN,20,22,0.95 
-2016,02,13,18:00,carboN,eNergy,inferno,GWZA Season 1 Finals,16,11,9,6,7,5,carboN,23,17,1.19 
-2016,02,13,18:00,eNergy,carboN,cobblestone,GWZA Season 1 Finals,16,14,9,6,7,8,carboN,17,20,0.86 
-2016,02,13,18:00,carboN,eNergy,mirage,GWZA Season 1 Finals,16,14,9,6,7,8,carboN,18,18,0.92 
-2016,02,13,10:00,carboN,Bravado,cache,GWZA Season 1 Finals,10,16,8,7,2,9,carboN,22,19,1.08 
-2016,02,13,10:00,carboN,Bravado,cobblestone,GWZA Season 1 Finals,11,16,6,9,5,7,carboN,19,19,1.02 
+2016,08,15,19:00,18,19,14,468,16,10,8,7,8,3,19,25,21,1.14 
+2016,08,15,19:00,18,19,0,468,16,11,8,7,8,4,19,21,21,1.07 
+2016,08,14,21:30,12,19,1,468,2,16,2,13,0,3,19,10,6,1.07 
+2016,08,14,21:30,19,12,14,468,16,14,8,7,8,7,19,18,21,0.94 
+2016,08,13,18:00,19,12,6,475,16,4,11,4,5,0,19,11,13,0.80 
+2016,08,13,18:00,19,12,7,475,17,19,7,8,8,7,19,28,24,1.10 
+2016,08,13,18:00,12,19,2,475,5,16,5,10,0,6,19,18,10,1.34 
+2016,08,09,20:00,131,19,1,475,2,16,2,13,0,3,19,22,5,1.97 
+2016,08,09,20:00,131,19,0,475,12,16,6,9,6,7,19,18,14,1.07 
+2016,07,31,18:45,18,19,2,500,16,4,12,3,4,1,19,11,17,0.76 
+2016,07,31,18:45,19,18,7,500,19,16,4,11,11,4,19,21,24,0.91 
+2016,07,31,18:45,19,18,0,500,12,16,6,9,6,7,19,12,24,0.52 
+2016,07,31,14:45,19,12,7,500,16,9,9,6,7,3,19,20,19,1.10 
+2016,07,31,14:45,12,19,1,500,16,14,5,10,11,4,19,14,19,0.71 
+2016,07,31,14:45,12,19,2,500,3,16,3,12,0,4,19,17,10,1.50 
+2016,07,30,19:30,211,19,2,500,5,16,4,11,1,5,19,21,10,1.54 
+2016,07,30,19:30,211,19,14,500,6,16,6,9,0,7,19,18,13,1.31 
+2016,02,14,09:30,19,40,7,655,13,16,5,10,8,6,19,12,21,0.57 
+2016,02,14,09:30,19,40,0,655,14,16,11,4,3,12,19,20,22,0.95 
+2016,02,13,18:00,19,143,6,655,16,11,9,6,7,5,19,23,17,1.19 
+2016,02,13,18:00,143,19,14,655,16,14,9,6,7,8,19,17,20,0.86 
+2016,02,13,18:00,19,143,0,655,16,14,9,6,7,8,19,18,18,0.92 
+2016,02,13,10:00,19,18,7,655,10,16,8,7,2,9,19,22,19,1.08 
+2016,02,13,10:00,19,18,14,655,11,16,6,9,5,7,19,19,19,1.02 

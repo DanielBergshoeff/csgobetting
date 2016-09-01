@@ -1,5 +1,0 @@
-2015,12,12,19:00,PixelHunters,Imagination,cache,BHG CS:GO Tournament,2,16,2,13,0,3,Pixel Hunters,7,17,0.40 
-2015,12,12,15:00,PixelHunters,Bravado,inferno,BHG CS:GO Tournament,4,16,2,13,2,3,Pixel Hunters,8,17,0.57 
-2015,12,12,15:00,Bravado,PixelHunters,overpass,BHG CS:GO Tournament,16,0,15,0,1,0,Pixel Hunters,3,16,0.16 
-2015,12,12,10:15,PixelHunters,Orbis,dust2,BHG CS:GO Tournament,16,6,9,6,7,0,Pixel Hunters,21,9,1.54 
-2015,12,12,10:15,Orbis,PixelHunters,inferno,BHG CS:GO Tournament,7,16,5,10,2,6,Pixel Hunters,14,18,0.76 

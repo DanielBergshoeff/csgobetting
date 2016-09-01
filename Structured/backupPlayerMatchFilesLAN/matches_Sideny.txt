@@ -1,2 +1,0 @@
-2016,08,05,06:00,AllGamers,LGD,cache,SL i-League S2 China Finals,16,12,9,6,7,6,LGD,19,20,0.97 
-2016,08,05,06:00,LGD,AllGamers,mirage,SL i-League S2 China Finals,7,16,4,11,3,5,LGD,9,22,0.39 

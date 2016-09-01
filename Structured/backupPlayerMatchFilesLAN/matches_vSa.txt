@@ -1,8 +1,0 @@
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,dust2,Fragadelphia 8,16,10,10,5,6,5,Bee's Money Crew,23,17,1.20 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,train,Fragadelphia 8,16,14,7,8,9,6,Bee's Money Crew,21,18,1.09 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,cobblestone,Fragadelphia 8,12,16,6,9,6,7,Bee's Money Crew,20,20,1.20 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,inferno,Fragadelphia 8,16,8,10,5,6,3,Bee's Money Crew,18,11,1.29 
-2015,10,18,22:00,SetToDestroyX,Forbidden,cobblestone,Fragadelphia 6,16,12,11,4,5,8,Forbidden,16,20,0.79 
-2015,10,18,01:30,Dynasty,Forbidden,cobblestone,Fragadelphia 6,16,11,7,8,9,3,Forbidden,15,21,0.71 
-2015,10,18,01:30,Forbidden,Dynasty,train,Fragadelphia 6,6,16,3,12,3,4,Forbidden,6,21,0.32 
-2015,10,18,01:30,Forbidden,Dynasty,mirage,Fragadelphia 6,16,6,12,3,4,3,Forbidden,17,11,1.24 

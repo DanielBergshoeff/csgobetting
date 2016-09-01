@@ -1,48 +1,48 @@
-2016,08,12,02:45,Blight,Prospects,cobblestone,SL i-League S2 Americas Qualif..,13,16,5,10,8,6,Prospects,25,20,1.21 
-2016,08,12,02:45,Prospects,Blight,overpass,SL i-League S2 Americas Qualif..,22,19,6,9,9,6,Prospects,31,24,1.18 
-2016,08,11,03:45,Kaliber,Prospects,train,SL i-League S2 Americas Qualif..,19,17,10,5,5,10,Prospects,24,26,0.88 
-2016,08,11,03:45,Prospects,Kaliber,cobblestone,SL i-League S2 Americas Qualif..,15,19,7,8,8,7,Prospects,28,25,1.09 
-2016,08,11,03:45,Kaliber,Prospects,mirage,SL i-League S2 Americas Qualif..,17,19,7,8,8,7,Prospects,34,25,1.28 
-2016,08,10,04:30,Prospects,EchoFox,cache,ESEA Premier Season 22 North A..,7,16,2,13,5,3,Prospects,13,18,0.73 
-2016,08,10,04:30,Prospects,EchoFox,overpass,ESEA Premier Season 22 North A..,9,16,6,9,3,7,Prospects,18,16,1.01 
-2016,08,09,03:15,compLexity,Prospects,cobblestone,SL i-League S2 Americas Qualif..,12,16,10,5,2,11,Prospects,23,19,1.18 
-2016,08,09,03:15,Prospects,compLexity,cache,SL i-League S2 Americas Qualif..,12,16,5,10,7,6,Prospects,31,17,1.74 
-2016,08,09,03:15,Prospects,compLexity,overpass,SL i-League S2 Americas Qualif..,16,6,10,5,6,1,Prospects,19,11,1.31 
-2016,08,08,02:15,Tectonic,Prospects,train,ESEA Premier Season 22 North A..,12,16,2,13,10,3,Prospects,26,21,1.31 
-2016,08,08,02:15,Prospects,Tectonic,overpass,ESEA Premier Season 22 North A..,19,16,6,9,9,6,Prospects,26,20,1.17 
-2016,07,16,23:30,Prospects,Cloud9,cobblestone,iBUYPOWER Invitational Summer ..,17,19,4,11,11,4,Prospects,26,30,0.85 
-2016,07,16,23:30,Prospects,Cloud9,mirage,iBUYPOWER Invitational Summer ..,10,16,6,9,4,7,Prospects,17,19,0.83 
-2016,05,09,01:35,RivaL,MostlyHomeless,train,MLG Regional Minor North Ameri..,16,6,10,5,6,1,Mostly Homeless,16,19,0.93 
-2016,05,08,23:50,MostlyHomeless,EchoFox,mirage,MLG Regional Minor North Ameri..,16,9,9,6,7,3,Mostly Homeless,30,15,2.00 
-2016,04,14,04:25,Cloud9,Tectonic,cobblestone,CEVO Gfinity Professional Seas..,16,11,6,9,10,2,Tectonic,15,21,0.77 
-2016,04,14,04:25,Tectonic,Cloud9,cache,CEVO Gfinity Professional Seas..,4,16,1,14,3,2,Tectonic,10,18,0.62 
-2015,12,15,03:00,AstralAuthority,Splyce,mirage,RGN Showseries,7,16,3,12,4,4,Astral Authority,14,18,0.86 
-2015,12,15,03:00,Splyce,AstralAuthority,cache,RGN Showseries,16,5,10,5,6,0,Astral Authority,17,18,1.01 
-2015,12,14,03:00,AstralAuthority,Leader-1,mirage,RGN Showseries,16,13,6,9,10,4,Astral Authority,17,23,0.76 
-2015,12,14,03:00,Leader-1,AstralAuthority,cache,RGN Showseries,13,16,9,6,4,10,Astral Authority,19,17,1.09 
-2015,12,02,07:30,AstralAuthority,NexusStorm,cache,QuickShot Arena NA #1,12,16,4,11,8,5,Astral Authority,14,21,0.66 
-2015,12,02,06:00,Gosu,AstralAuthority,cache,QuickShot Arena NA #1,3,16,3,12,0,4,Astral Authority,15,13,1.16 
-2015,12,02,02:45,Nexus,AstralAuthority,cache,QuickShot Arena NA #1,14,16,10,5,4,11,Astral Authority,33,23,1.44 
-2015,12,01,02:00,AstralAuthority,NexusStorm,inferno,QuickShot Arena NA #1,9,16,4,11,5,5,Astral Authority,22,15,1.53 
-2015,12,01,02:00,NexusStorm,AstralAuthority,mirage,QuickShot Arena NA #1,16,12,6,9,10,3,Astral Authority,18,21,0.82 
-2015,10,25,01:00,Leader-1Red,Quintic,inferno,Ascendancy Cup #1,16,8,9,6,7,2,Leader-1 Red,13,17,0.81 
-2015,10,19,00:35,WinOut.net,Roca'scompLexity,mirage,Fragadelphia 6,7,16,5,10,2,6,WinOut.net,11,22,0.49 
-2015,10,18,22:00,WinOut.net,Torqued,cache,Fragadelphia 6,13,16,4,11,9,5,WinOut.net,11,22,0.55 
-2015,10,18,22:00,WinOut.net,Torqued,mirage,Fragadelphia 6,4,16,4,11,0,5,WinOut.net,11,18,0.63 
-2015,10,18,18:40,SetToDestroyX,WinOut.net,overpass,Fragadelphia 6,13,16,6,9,7,7,WinOut.net,24,19,1.21 
-2015,10,18,18:40,SetToDestroyX,WinOut.net,cobblestone,Fragadelphia 6,25,22,7,8,8,7,WinOut.net,31,36,0.85 
-2015,10,18,18:40,WinOut.net,SetToDestroyX,mirage,Fragadelphia 6,16,3,14,1,2,2,WinOut.net,19,12,1.50 
-2015,10,18,04:00,PugsnotDrugs,WinOut.net,mirage,Fragadelphia 6,7,16,6,9,1,7,WinOut.net,24,12,1.46 
-2015,10,18,04:00,WinOut.net,PugsnotDrugs,train,Fragadelphia 6,16,10,8,7,8,3,WinOut.net,23,18,1.19 
-2015,09,06,16:00,Nexus,ACE,cobblestone,WinOut $20,000 CS:GO Champions..,14,16,7,8,7,8,Nexus,16,25,0.64 
-2015,09,06,16:00,Nexus,ACE,cache,WinOut $20,000 CS:GO Champions..,16,13,10,5,6,8,Nexus,26,21,1.25 
-2015,09,06,16:00,ACE,Nexus,overpass,WinOut $20,000 CS:GO Champions..,16,13,12,3,4,10,Nexus,22,22,0.99 
-2015,09,06,01:30,Nexus,Luminosity,cache,WinOut $20,000 CS:GO Champions..,8,16,6,9,2,7,Nexus,14,21,0.73 
-2015,09,06,01:30,Luminosity,Nexus,overpass,WinOut $20,000 CS:GO Champions..,16,5,10,5,6,0,Nexus,10,19,0.53 
-2015,09,05,18:15,Nexus,WinOut.net,overpass,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,Nexus,19,10,1.50 
-2015,09,05,17:30,Nexus,Method,cache,WinOut $20,000 CS:GO Champions..,8,16,6,9,2,7,Nexus,17,20,0.80 
-2015,09,05,16:15,WinOut.net,Nexus,inferno,WinOut $20,000 CS:GO Champions..,13,16,9,6,4,10,Nexus,19,22,0.88 
-2015,08,14,03:00,Nexus,Swarm,mirage,CS Select #24,11,16,7,8,4,8,Nexus,17,20,0.93 
-2015,08,14,03:00,Nexus,Swarm,cobblestone,CS Select #24,10,16,7,8,3,8,Nexus,24,17,1.30 
-2015,05,26,01:30,SinisterGG,ACE,inferno,FACEIT League 2015 Stage 2 NA ..,8,16,5,10,3,6,SinisterGG,25,15,1.51 
-2015,05,26,01:30,SinisterGG,ACE,cache,FACEIT League 2015 Stage 2 NA ..,13,16,2,13,11,3,SinisterGG,25,21,1.27 
+2016,08,12,02:45,96,97,14,481,13,16,5,10,8,6,97,25,20,1.21 
+2016,08,12,02:45,97,96,4,481,22,19,6,9,9,6,97,31,24,1.18 
+2016,08,11,03:45,114,97,2,481,19,17,10,5,5,10,97,24,26,0.88 
+2016,08,11,03:45,97,114,14,481,15,19,7,8,8,7,97,28,25,1.09 
+2016,08,11,03:45,114,97,0,481,17,19,7,8,8,7,97,34,25,1.28 
+2016,08,10,04:30,97,38,7,474,7,16,2,13,5,3,97,13,18,0.73 
+2016,08,10,04:30,97,38,4,474,9,16,6,9,3,7,97,18,16,1.01 
+2016,08,09,03:15,116,97,14,481,12,16,10,5,2,11,97,23,19,1.18 
+2016,08,09,03:15,97,116,7,481,12,16,5,10,7,6,97,31,17,1.74 
+2016,08,09,03:15,97,116,4,481,16,6,10,5,6,1,97,19,11,1.31 
+2016,08,08,02:15,79,97,2,474,12,16,2,13,10,3,97,26,21,1.31 
+2016,08,08,02:15,97,79,4,474,19,16,6,9,9,6,97,26,20,1.17 
+2016,07,16,23:30,97,257,14,518,17,19,4,11,11,4,97,26,30,0.85 
+2016,07,16,23:30,97,257,0,518,10,16,6,9,4,7,97,17,19,0.83 
+2016,05,09,01:35,394,449,2,581,16,6,10,5,6,1,449,16,19,0.93 
+2016,05,08,23:50,449,38,0,581,16,9,9,6,7,3,449,30,15,2.00 
+2016,04,14,04:25,257,79,14,590,16,11,6,9,10,2,79,15,21,0.77 
+2016,04,14,04:25,79,257,7,590,4,16,1,14,3,2,79,10,18,0.62 
+2015,12,15,03:00,761,362,0,703,7,16,3,12,4,4,761,14,18,0.86 
+2015,12,15,03:00,362,761,7,703,16,5,10,5,6,0,761,17,18,1.01 
+2015,12,14,03:00,761,707,0,703,16,13,6,9,10,4,761,17,23,0.76 
+2015,12,14,03:00,707,761,7,703,13,16,9,6,4,10,761,19,17,1.09 
+2015,12,02,07:30,761,758,7,722,12,16,4,11,8,5,761,14,21,0.66 
+2015,12,02,06:00,818,761,7,722,3,16,3,12,0,4,761,15,13,1.16 
+2015,12,02,02:45,796,761,7,722,14,16,10,5,4,11,761,33,23,1.44 
+2015,12,01,02:00,761,758,6,722,9,16,4,11,5,5,761,22,15,1.53 
+2015,12,01,02:00,758,761,0,722,16,12,6,9,10,3,761,18,21,0.82 
+2015,10,25,01:00,904,905,6,775,16,8,9,6,7,2,904,13,17,0.81 
+2015,10,19,00:35,917,915,0,780,7,16,5,10,2,6,917,11,22,0.49 
+2015,10,18,22:00,917,704,7,780,13,16,4,11,9,5,917,11,22,0.55 
+2015,10,18,22:00,917,704,0,780,4,16,4,11,0,5,917,11,18,0.63 
+2015,10,18,18:40,757,917,4,780,13,16,6,9,7,7,917,24,19,1.21 
+2015,10,18,18:40,757,917,14,780,25,22,7,8,8,7,917,31,36,0.85 
+2015,10,18,18:40,917,757,0,780,16,3,14,1,2,2,917,19,12,1.50 
+2015,10,18,04:00,922,917,0,780,7,16,6,9,1,7,917,24,12,1.46 
+2015,10,18,04:00,917,922,2,780,16,10,8,7,8,3,917,23,18,1.19 
+2015,09,06,16:00,796,334,14,827,14,16,7,8,7,8,796,16,25,0.64 
+2015,09,06,16:00,796,334,7,827,16,13,10,5,6,8,796,26,21,1.25 
+2015,09,06,16:00,334,796,4,827,16,13,12,3,4,10,796,22,22,0.99 
+2015,09,06,01:30,796,70,7,827,8,16,6,9,2,7,796,14,21,0.73 
+2015,09,06,01:30,70,796,4,827,16,5,10,5,6,0,796,10,19,0.53 
+2015,09,05,18:15,796,917,4,827,16,3,14,1,2,2,796,19,10,1.50 
+2015,09,05,17:30,796,496,7,827,8,16,6,9,2,7,796,17,20,0.80 
+2015,09,05,16:15,917,796,6,827,13,16,9,6,4,10,796,19,22,0.88 
+2015,08,14,03:00,796,960,0,856,11,16,7,8,4,8,796,17,20,0.93 
+2015,08,14,03:00,796,960,14,856,10,16,7,8,3,8,796,24,17,1.30 
+2015,05,26,01:30,1078,334,6,905,8,16,5,10,3,6,1078,25,15,1.51 
+2015,05,26,01:30,1078,334,7,905,13,16,2,13,11,3,1078,25,21,1.27 

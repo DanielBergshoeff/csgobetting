@@ -1,5 +1,0 @@
-2016,05,29,15:10,Dobry&Gaming,Refuse,train,GeForce CUP at ESPORT NOW 2016,16,14,11,4,5,10,Refuse,18,23,0.81 
-2016,05,29,15:10,Dobry&Gaming,Refuse,cache,GeForce CUP at ESPORT NOW 2016,16,9,7,8,9,1,Refuse,20,18,1.08 
-2016,05,28,19:15,iNETKOXTV,Refuse,inferno,GeForce CUP at ESPORT NOW 2016,8,16,7,8,1,8,Refuse,16,15,0.98 
-2016,05,28,19:15,iNETKOXTV,Refuse,dust2,GeForce CUP at ESPORT NOW 2016,11,16,4,11,7,5,Refuse,16,21,0.78 
-2016,05,28,19:15,iNETKOXTV,Refuse,cache,GeForce CUP at ESPORT NOW 2016,16,6,11,4,5,2,Refuse,15,19,0.97 

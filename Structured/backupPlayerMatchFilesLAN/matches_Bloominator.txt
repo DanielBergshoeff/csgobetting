@@ -1,7 +1,0 @@
-2015,10,19,00:35,SetToDestroyX,SuckBrickKids,mirage,Fragadelphia 6,13,16,10,5,3,11,SetToDestroyX,18,18,0.95 
-2015,10,18,22:00,SetToDestroyX,Forbidden,cobblestone,Fragadelphia 6,16,12,11,4,5,8,SetToDestroyX,18,16,1.07 
-2015,10,18,18:40,SetToDestroyX,WinOut.net,overpass,Fragadelphia 6,13,16,6,9,7,7,SetToDestroyX,22,20,1.07 
-2015,10,18,18:40,SetToDestroyX,WinOut.net,cobblestone,Fragadelphia 6,25,22,7,8,8,7,SetToDestroyX,42,32,1.25 
-2015,10,18,18:40,WinOut.net,SetToDestroyX,mirage,Fragadelphia 6,16,3,14,1,2,2,SetToDestroyX,7,15,0.60 
-2015,10,18,03:55,ReapWhatYouSow,SetToDestroyX,dust2,Fragadelphia 6,9,16,8,7,1,9,SetToDestroyX,17,12,1.13 
-2015,10,18,03:55,SetToDestroyX,ReapWhatYouSow,cobblestone,Fragadelphia 6,16,3,13,2,3,1,SetToDestroyX,18,9,1.50 

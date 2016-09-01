@@ -1,7 +1,5 @@
-2016,08,11,12:30,F7,SYF,cache,ESEA Open Season 22 Oceania,14,16,8,7,6,9,SYF,20,20,1.02 
-2016,08,11,12:30,SYF,F7,train,ESEA Open Season 22 Oceania,16,11,11,4,5,7,SYF,20,17,1.16 
-2016,07,25,12:00,SYF,Reload,mirage,CyberGamer Oceania eSports Mas..,16,2,13,2,3,0,SYF,7,8,0.81 
-2016,07,25,12:00,Reload,SYF,cobblestone,CyberGamer Oceania eSports Mas..,10,16,7,8,3,8,SYF,14,18,0.75 
-2016,07,25,12:00,SYF,Reload,train,CyberGamer Oceania eSports Mas..,20,22,12,3,3,12,SYF,22,30,0.73 
-2015,12,02,22:00,GameplayDNA,eSuba,inferno,QuickShot Arena #17,8,16,4,11,4,5,GameplayDNA,15,16,0.87 
-2015,12,02,19:30,GameplayDNA,LGBfe,mirage,QuickShot Arena #17,16,3,12,3,4,0,GameplayDNA,10,9,0.99 
+2016,08,11,12:30,109,36,7,464,14,16,8,7,6,9,36,20,20,1.02 
+2016,08,11,12:30,36,109,2,464,16,11,11,4,5,7,36,20,17,1.16 
+2016,07,25,12:00,36,238,0,505,16,2,13,2,3,0,36,7,8,0.81 
+2016,07,25,12:00,238,36,14,505,10,16,7,8,3,8,36,14,18,0.75 
+2016,07,25,12:00,36,238,2,505,20,22,12,3,3,12,36,22,30,0.73 

@@ -1,6 +1,0 @@
-2016,08,04,13:00,Furious,m0nster,dust2,VSL Season 1,10,16,5,10,5,6,m0nster,16,18,0.83 
-2016,07,31,12:00,autocracy,m0nster,cobblestone,VSL Season 1,16,7,9,6,7,1,m0nster,8,22,0.35 
-2016,07,21,13:00,m0nster,v0rtex5	,train,VSL Season 1,11,16,8,7,3,9,m0nster,19,20,0.97 
-2016,07,10,11:00,MVPproject,m0nster,overpass,VSL Season 1,16,14,5,10,11,4,m0nster,18,22,0.78 
-2016,05,05,08:15,m0nster,VG.CyberZen,overpass,PGL KeSPA Regional Minor Champ..,5,16,4,11,1,5,m0nster,10,18,0.60 
-2016,05,05,03:30,m0nster,TheMongolz,cache,PGL KeSPA Regional Minor Champ..,5,16,2,13,3,3,m0nster,7,21,0.33 

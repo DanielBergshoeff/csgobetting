@@ -1,5 +1,0 @@
-2016,08,06,09:45,TyLoo,AllGamers,train,SL i-League S2 China Finals,16,7,10,5,6,2,AllGamers,13,19,0.79 
-2016,08,06,09:45,AllGamers,TyLoo,cache,SL i-League S2 China Finals,5,16,5,10,0,6,AllGamers,11,20,0.53 
-2016,08,05,06:00,AllGamers,LGD,cache,SL i-League S2 China Finals,16,12,9,6,7,6,AllGamers,22,22,1.02 
-2016,08,05,06:00,LGD,AllGamers,mirage,SL i-League S2 China Finals,7,16,4,11,3,5,AllGamers,11,16,0.75 
-2016,04,23,16:20,TyLoo,eFuture.BJ,overpass,Pro Gamers League 2016 Spring,16,9,11,4,5,5,eFuture.BJ,14,20,0.79 

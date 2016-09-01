@@ -1,2 +1,2 @@
-2015,08,07,20:00,Phenomenon,Crystallize,mirage,Multifrags Invitational 2015,16,11,6,9,10,2,Crystallize,15,21,0.75 
-2015,08,07,20:00,Crystallize,Phenomenon,cache,Multifrags Invitational 2015,2,16,2,13,0,3,Crystallize,9,16,0.54 
+2015,08,07,20:00,369,1042,0,867,16,11,6,9,10,2,1042,15,21,0.75 
+2015,08,07,20:00,1042,369,7,867,2,16,2,13,0,3,1042,9,16,0.54 

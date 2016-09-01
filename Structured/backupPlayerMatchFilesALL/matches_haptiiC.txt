@@ -1,10 +1,10 @@
-2016,08,15,04:30,EchoFox,Pnda,nuke,ESEA Premier Season 22 North A..,16,4,12,3,4,1,Pnda,11,19,0.59 
-2016,08,15,04:30,Pnda,EchoFox,inferno,ESEA Premier Season 22 North A..,19,17,6,9,9,6,Pnda,19,24,0.79 
-2016,08,15,04:30,EchoFox,Pnda,cobblestone,ESEA Premier Season 22 North A..,16,3,12,3,4,0,Pnda,12,19,0.68 
-2016,08,10,02:15,SteamAnalyst,Rush,mirage,ESEA Premier Season 22 North A..,15,19,6,9,9,6,Rush,22,25,0.89 
-2016,08,10,02:15,SteamAnalyst,Rush,cobblestone,ESEA Premier Season 22 North A..,7,16,1,14,6,2,Rush,14,16,0.91 
-2016,08,08,04:40,Rush,Blight,mirage,ESEA Premier Season 22 North A..,16,13,10,5,6,8,Rush,21,20,1.02 
-2016,08,08,04:40,Blight,Rush,dust2,ESEA Premier Season 22 North A..,15,19,7,8,8,7,Rush,20,24,0.80 
-2016,07,19,03:15,TheFoundation,exceL,cache,RGN Pro Series II NA Closed Qu..,14,16,7,8,7,8,The Foundation,19,22,0.88 
-2016,07,19,03:15,TheFoundation,exceL,train,RGN Pro Series II NA Closed Qu..,16,3,12,3,4,0,The Foundation,25,9,1.83 
-2016,07,19,03:15,exceL,TheFoundation,dust2,RGN Pro Series II NA Closed Qu..,16,7,11,4,5,3,The Foundation,13,20,0.73 
+2016,08,15,04:30,38,39,5,474,16,4,12,3,4,1,39,11,19,0.59 
+2016,08,15,04:30,39,38,6,474,19,17,6,9,9,6,39,19,24,0.79 
+2016,08,15,04:30,38,39,14,474,16,3,12,3,4,0,39,12,19,0.68 
+2016,08,10,02:15,129,115,0,474,15,19,6,9,9,6,115,22,25,0.89 
+2016,08,10,02:15,129,115,14,474,7,16,1,14,6,2,115,14,16,0.91 
+2016,08,08,04:40,115,96,0,474,16,13,10,5,6,8,115,21,20,1.02 
+2016,08,08,04:40,96,115,1,474,15,19,7,8,8,7,115,20,24,0.80 
+2016,07,19,03:15,267,268,7,516,14,16,7,8,7,8,267,19,22,0.88 
+2016,07,19,03:15,267,268,2,516,16,3,12,3,4,0,267,25,9,1.83 
+2016,07,19,03:15,268,267,1,516,16,7,11,4,5,3,267,13,20,0.73 

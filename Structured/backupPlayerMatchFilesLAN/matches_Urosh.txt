@@ -1,8 +1,0 @@
-2016,07,16,22:30,iNation,faithIN,dust2,GamePub 2016,16,10,8,7,8,3,faithIN,18,21,0.96 
-2016,07,16,22:30,faithIN,iNation,cache,GamePub 2016,16,7,8,7,8,0,faithIN,23,17,1.30 
-2016,07,16,22:30,iNation,faithIN,train,GamePub 2016,16,6,9,6,7,0,faithIN,13,21,0.74 
-2016,07,16,09:35,GamePub,faithIN,cache,GamePub 2016,11,16,6,9,5,7,faithIN,32,16,1.67 
-2016,07,16,09:35,GamePub,faithIN,mirage,GamePub 2016,16,1,14,1,2,0,faithIN,4,17,0.23 
-2016,07,16,09:35,GamePub,faithIN,dust2,GamePub 2016,5,16,4,11,1,5,faithIN,19,12,1.27 
-2015,09,13,10:30,faithIN,CSGO-Saloon,mirage,Balkan SuperCup #2 LAN Finals,13,16,11,4,2,12,faithIN,14,23,0.71 
-2015,09,13,10:30,CSGO-Saloon,faithIN,dust2,Balkan SuperCup #2 LAN Finals,16,10,10,5,6,5,faithIN,23,19,1.18 

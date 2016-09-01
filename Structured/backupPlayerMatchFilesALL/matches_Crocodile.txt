@@ -1,11 +1,11 @@
-2016,08,05,15:00,Morocco,Libya,train,World Championships 2016 Afric..,16,9,8,7,8,2,Libya,18,20,0.93 
-2016,08,05,15:00,Morocco,Libya,dust2,World Championships 2016 Afric..,16,6,12,3,4,3,Libya,6,19,0.34 
-2016,08,04,21:20,Libya,SouthAfrica,overpass,World Championships 2016 Afric..,2,16,2,13,0,3,Libya,7,17,0.50 
-2016,08,04,20:00,Egypt,Libya,mirage,World Championships 2016 Afric..,10,16,5,10,5,6,Libya,16,16,0.98 
-2016,04,29,19:00,TripGhazi,fRactals,inferno,Rising Stars Africa Promotiona..,15,19,9,6,6,9,TripGhazi,22,22,0.93 
-2016,04,29,19:00,TripGhazi,fRactals,overpass,Rising Stars Africa Promotiona..,13,16,6,9,7,7,TripGhazi,18,27,0.69 
-2015,08,14,15:00,SouthAfrica,Libya,cobblestone,World Championships 2015 Afric..,6,16,6,9,0,7,Libya,24,12,1.63 
-2015,08,12,15:20,Tunisia,Libya,inferno,World Championships 2015 Afric..,16,6,12,3,4,3,Libya,9,16,0.59 
-2015,08,12,14:00,Libya,Algeria,dust2,World Championships 2015 Afric..,15,15,7,8,8,7,Algeria,21,17,1.09 
-2015,08,10,16:30,Egypt,Libya,cache,World Championships 2015 Afric..,16,10,9,6,7,4,Libya,9,20,0.48 
-2015,08,10,15:15,Morocco,Libya,cache,World Championships 2015 Afric..,16,6,10,5,6,1,Libya,15,16,1.06 
+2016,08,05,15:00,171,178,2,493,16,9,8,7,8,2,178,18,20,0.93 
+2016,08,05,15:00,171,178,1,493,16,6,12,3,4,3,178,6,19,0.34 
+2016,08,04,21:20,178,175,4,493,2,16,2,13,0,3,178,7,17,0.50 
+2016,08,04,20:00,183,178,0,493,10,16,5,10,5,6,178,16,16,0.98 
+2016,04,29,19:00,465,461,6,592,15,19,9,6,6,9,465,22,22,0.93 
+2016,04,29,19:00,465,461,4,592,13,16,6,9,7,7,465,18,27,0.69 
+2015,08,14,15:00,175,178,14,855,6,16,6,9,0,7,178,24,12,1.63 
+2015,08,12,15:20,14,178,6,855,16,6,12,3,4,3,178,9,16,0.59 
+2015,08,12,14:00,178,190,1,855,15,15,7,8,8,7,190,21,17,1.09 
+2015,08,10,16:30,183,178,7,855,16,10,9,6,7,4,178,9,20,0.48 
+2015,08,10,15:15,171,178,7,855,16,6,10,5,6,1,178,15,16,1.06 

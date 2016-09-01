@@ -1,5 +1,5 @@
-2016,07,24,23:15,ExoticIsland,Magistra,train,xfunction Masters 2016,5,16,4,11,1,5,Exotic Island,9,17,0.71 
-2016,07,04,22:10,Tricked,ExoticIsland,nuke,xfunction Masters 2016,16,5,13,2,3,3,Exotic Island,10,17,0.61 
-2016,05,19,20:45,FTW.Prinfor,HeyGuys,inferno,xfunction Challenge,16,12,11,4,5,8,FTW. Prinfor,24,22,1.06 
-2016,05,12,00:15,FTW.Prinfor,eGeneration,dust2,xfunction Challenge,16,3,12,3,4,0,FTW. Prinfor,14,7,1.31 
-2016,05,08,22:00,Tricked,FTW.Prinfor,dust2,xfunction Challenge,16,3,12,3,4,0,FTW. Prinfor,9,17,0.57 
+2016,07,24,23:15,127,117,2,488,5,16,4,11,1,5,127,9,17,0.71 
+2016,07,04,22:10,30,127,5,488,16,5,13,2,3,3,127,10,17,0.61 
+2016,05,19,20:45,431,430,6,544,16,12,11,4,5,8,431,24,22,1.06 
+2016,05,12,00:15,431,442,1,544,16,3,12,3,4,0,431,14,7,1.31 
+2016,05,08,22:00,30,431,1,544,16,3,12,3,4,0,431,9,17,0.57 

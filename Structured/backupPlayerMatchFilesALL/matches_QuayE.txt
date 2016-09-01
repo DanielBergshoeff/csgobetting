@@ -1,2 +1,2 @@
-2015,11,08,16:30,FnaticStaff,E-frag.netStaff,dust2,Virtus.pro Staff Cup #3,4,16,3,12,1,4,Fnatic Staff,9,17,0.61 
-2015,11,08,16:30,E-frag.netStaff,FnaticStaff,cache,Virtus.pro Staff Cup #3,16,3,12,3,4,0,Fnatic Staff,5,19,0.22 
+2015,11,08,16:30,875,861,1,750,4,16,3,12,1,4,875,9,17,0.61 
+2015,11,08,16:30,861,875,7,750,16,3,12,3,4,0,875,5,19,0.22 

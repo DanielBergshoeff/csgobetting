@@ -1,11 +1,11 @@
-2016,07,24,09:50,Parallax,AthleticoBH,dust2,ESL Australia & NZ Championshi..,9,16,5,10,4,6,Athletico BH,18,16,1.06 
-2016,07,24,09:50,Parallax,AthleticoBH,mirage,ESL Australia & NZ Championshi..,11,16,4,11,7,5,Athletico BH,23,17,1.31 
-2016,07,24,07:40,AthleticoBH,Chiefs,train,ESL Australia & NZ Championshi..,16,8,9,6,7,2,Athletico BH,17,13,1.11 
-2016,07,24,07:40,AthleticoBH,Chiefs,dust2,ESL Australia & NZ Championshi..,16,12,7,8,9,4,Athletico BH,22,17,1.23 
-2016,07,24,01:00,Exile5,AthleticoBH,train,ESL Australia & NZ Championshi..,19,22,9,6,6,9,Athletico BH,28,33,0.84 
-2016,07,24,01:00,AthleticoBH,Exile5,mirage,ESL Australia & NZ Championshi..,16,13,8,7,8,6,Athletico BH,32,20,1.48 
-2016,07,23,08:00,Parallax,AthleticoBH,overpass,ESL Australia & NZ Championshi..,16,1,14,1,2,0,Athletico BH,7,16,0.49 
-2016,07,23,08:00,AthleticoBH,Parallax,cache,ESL Australia & NZ Championshi..,2,16,2,13,0,3,Athletico BH,15,16,1.11 
-2015,05,27,11:00,DireWolves,Dynasty,mirage,FACEIT League 2015 Stage 2 Oce..,16,11,11,4,5,7,Dynasty,14,20,0.75 
-2015,05,27,11:00,Dynasty,DireWolves,dust2,FACEIT League 2015 Stage 2 Oce..,6,16,6,9,0,7,Dynasty,8,19,0.44 
-2015,05,27,11:00,Dynasty,DireWolves,cache,FACEIT League 2015 Stage 2 Oce..,16,11,8,7,8,4,Dynasty,13,15,0.81 
+2016,07,24,09:50,222,5,1,511,9,16,5,10,4,6,5,18,16,1.06 
+2016,07,24,09:50,222,5,0,511,11,16,4,11,7,5,5,23,17,1.31 
+2016,07,24,07:40,5,3,2,511,16,8,9,6,7,2,5,17,13,1.11 
+2016,07,24,07:40,5,3,1,511,16,12,7,8,9,4,5,22,17,1.23 
+2016,07,24,01:00,227,5,2,511,19,22,9,6,6,9,5,28,33,0.84 
+2016,07,24,01:00,5,227,0,511,16,13,8,7,8,6,5,32,20,1.48 
+2016,07,23,08:00,222,5,4,511,16,1,14,1,2,0,5,7,16,0.49 
+2016,07,23,08:00,5,222,7,511,2,16,2,13,0,3,5,15,16,1.11 
+2015,05,27,11:00,1059,92,0,912,16,11,11,4,5,7,92,14,20,0.75 
+2015,05,27,11:00,92,1059,1,912,6,16,6,9,0,7,92,8,19,0.44 
+2015,05,27,11:00,92,1059,7,912,16,11,8,7,8,4,92,13,15,0.81 

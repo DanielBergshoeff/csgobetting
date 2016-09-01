@@ -1,2 +1,2 @@
-2016,03,24,15:30,naptoR.Factory,SesiBaren,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,4,11,4,5,0,SesiBaren,1,19,0.08 
-2016,03,24,13:00,SesiBaren,Preparation,dust2,Copenhagen Games 2016 BYOC Qua..,2,16,2,13,0,3,SesiBaren,2,17,0.14 
+2016,03,24,15:30,549,570,14,623,16,4,11,4,5,0,570,1,19,0.08 
+2016,03,24,13:00,570,184,1,623,2,16,2,13,0,3,570,2,17,0.14 

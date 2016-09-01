@@ -1,4 +1,4 @@
-2016,01,15,21:30,KoNSweden,KoNFinland,mirage,King of Nordic Season 2,16,14,12,3,4,11,KoN Finland,18,20,0.87 
-2016,01,15,20:15,KoNNorway,KoNFinland,mirage,King of Nordic Season 2,5,16,5,10,0,6,KoN Finland,19,10,1.60 
-2015,08,28,20:30,Denmark,Finland,mirage,King of Nordic Season 1,20,20,7,8,8,7,Finland,20,27,0.77 
-2015,08,28,19:00,Norway,Finland,inferno,King of Nordic Season 1,12,16,5,10,7,6,Finland,14,22,0.68 
+2016,01,15,21:30,82,80,0,673,16,14,12,3,4,11,80,18,20,0.87 
+2016,01,15,20:15,81,80,0,673,5,16,5,10,0,6,80,19,10,1.60 
+2015,08,28,20:30,941,940,0,830,20,20,7,8,8,7,940,20,27,0.77 
+2015,08,28,19:00,939,940,6,830,12,16,5,10,7,6,940,14,22,0.68 

@@ -1,13 +1,13 @@
-2016,07,23,15:55,GameplayDNA,VwS,nuke,GSL Baltics Samsung Open by Ga..,6,16,5,10,1,6,GameplayDNA,13,21,0.64 
-2016,07,23,15:55,GameplayDNA,VwS,mirage,GSL Baltics Samsung Open by Ga..,7,16,4,11,3,5,GameplayDNA,17,18,1.17 
-2016,07,23,15:55,VwS,GameplayDNA,cache,GSL Baltics Samsung Open by Ga..,19,16,9,6,6,9,GameplayDNA,27,27,0.96 
-2016,07,10,14:00,GameplayDNA,Vesuvius,dust2,Game Show Open Season 4 Playof..,12,16,8,7,4,9,GameplayDNA,17,22,0.74 
-2016,07,10,14:00,Vesuvius,GameplayDNA,overpass,Game Show Open Season 4 Playof..,16,5,11,4,5,1,GameplayDNA,12,18,0.65 
-2016,07,09,17:30,Quest,GameplayDNA,mirage,Game Show Open Season 4 Playof..,16,8,10,5,6,3,GameplayDNA,13,19,0.72 
-2016,07,09,17:30,GameplayDNA,Quest,cobblestone,Game Show Open Season 4 Playof..,7,16,7,8,0,8,GameplayDNA,10,19,0.56 
-2016,07,09,11:00,BinaryDragons,GameplayDNA,cache,Game Show Open Season 4 Playof..,11,16,7,8,4,8,GameplayDNA,18,16,1.00 
-2016,07,09,11:00,GameplayDNA,BinaryDragons,mirage,Game Show Open Season 4 Playof..,6,16,5,10,1,6,GameplayDNA,7,18,0.41 
-2016,07,09,11:00,GameplayDNA,BinaryDragons,cobblestone,Game Show Open Season 4 Playof..,16,12,12,3,4,9,GameplayDNA,21,20,1.15 
-2016,06,04,14:00,PANDA,GameplayDNA,dust2,MSI Baltic Pro League Season 1,6,16,3,12,3,4,PANDA,11,18,0.67 
-2016,06,04,14:00,GameplayDNA,PANDA,overpass,MSI Baltic Pro League Season 1,16,12,8,7,8,5,PANDA,13,19,0.69 
-2016,06,04,14:00,GameplayDNA,PANDA,cache,MSI Baltic Pro League Season 1,8,16,2,13,6,3,PANDA,20,12,1.32 
+2016,07,23,15:55,248,249,5,513,6,16,5,10,1,6,248,13,21,0.64 
+2016,07,23,15:55,248,249,0,513,7,16,4,11,3,5,248,17,18,1.17 
+2016,07,23,15:55,249,248,7,513,19,16,9,6,6,9,248,27,27,0.96 
+2016,07,10,14:00,248,122,1,524,12,16,8,7,4,9,248,17,22,0.74 
+2016,07,10,14:00,122,248,4,524,16,5,11,4,5,1,248,12,18,0.65 
+2016,07,09,17:30,304,248,0,524,16,8,10,5,6,3,248,13,19,0.72 
+2016,07,09,17:30,248,304,14,524,7,16,7,8,0,8,248,10,19,0.56 
+2016,07,09,11:00,187,248,7,524,11,16,7,8,4,8,248,18,16,1.00 
+2016,07,09,11:00,248,187,0,524,6,16,5,10,1,6,248,7,18,0.41 
+2016,07,09,11:00,248,187,14,524,16,12,12,3,4,9,248,21,20,1.15 
+2016,06,04,14:00,391,248,1,558,6,16,3,12,3,4,391,11,18,0.67 
+2016,06,04,14:00,248,391,4,558,16,12,8,7,8,5,391,13,19,0.69 
+2016,06,04,14:00,248,391,7,558,8,16,2,13,6,3,391,20,12,1.32 

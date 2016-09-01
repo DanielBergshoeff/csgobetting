@@ -1,2 +1,2 @@
-2016,06,22,11:00,SriLanka,HongKong,dust2,World Championships 2016 Asian..,6,16,4,11,2,5,Sri Lanka,16,17,1.08 
-2016,06,22,11:00,HongKong,SriLanka,mirage,World Championships 2016 Asian..,16,2,14,1,2,1,Sri Lanka,11,17,0.88 
+2016,06,22,11:00,352,296,1,517,6,16,4,11,2,5,352,16,17,1.08 
+2016,06,22,11:00,296,352,0,517,16,2,14,1,2,1,352,11,17,0.88 

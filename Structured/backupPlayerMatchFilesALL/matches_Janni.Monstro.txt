@@ -1,4 +1,4 @@
-2015,09,04,20:00,EZonTheSoul,AnxietyPack,cobblestone,WinOut.net 20k Last Chance Qua..,16,9,8,7,8,2,Anxiety Pack,15,22,0.67 
-2015,09,04,20:00,AnxietyPack,EZonTheSoul,inferno,WinOut.net 20k Last Chance Qua..,20,22,13,2,2,13,Anxiety Pack,21,33,0.69 
-2015,09,04,16:00,ReapWhatYouSow,AnxietyPack,mirage,WinOut.net 20k Last Chance Qua..,16,2,13,2,3,0,Anxiety Pack,10,18,0.50 
-2015,09,04,16:00,ReapWhatYouSow,AnxietyPack,cache,WinOut.net 20k Last Chance Qua..,16,6,11,4,5,2,Anxiety Pack,21,17,1.40 
+2015,09,04,20:00,1004,1013,14,831,16,9,8,7,8,2,1013,15,22,0.67 
+2015,09,04,20:00,1013,1004,6,831,20,22,13,2,2,13,1013,21,33,0.69 
+2015,09,04,16:00,918,1013,0,831,16,2,13,2,3,0,1013,10,18,0.50 
+2015,09,04,16:00,918,1013,7,831,16,6,11,4,5,2,1013,21,17,1.40 

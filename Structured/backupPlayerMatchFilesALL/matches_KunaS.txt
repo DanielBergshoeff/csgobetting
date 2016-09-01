@@ -1,2 +1,2 @@
-2015,08,30,14:00,Singapore,Japan,mirage,World Championships 2015 Asian..,16,12,12,3,4,9,Singapore,22,19,1.23 
-2015,08,30,13:00,Vietnam,Singapore,inferno,World Championships 2015 Asian..,16,1,14,1,2,0,Singapore,2,16,0.15 
+2015,08,30,14:00,265,333,0,835,16,12,12,3,4,9,265,22,19,1.23 
+2015,08,30,13:00,298,265,6,835,16,1,14,1,2,0,265,2,16,0.15 

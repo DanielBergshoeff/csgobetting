@@ -1,6 +1,0 @@
-2016,07,10,17:00,Quest,Vesuvius,mirage,Game Show Open Season 4 Playof..,16,5,11,4,5,1,Quest,32,11,2.30 
-2016,07,10,17:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,0,16,0,15,0,1,Quest,13,7,1.39 
-2016,07,09,17:30,Quest,GameplayDNA,mirage,Game Show Open Season 4 Playof..,16,8,10,5,6,3,Quest,23,14,1.33 
-2016,07,09,17:30,GameplayDNA,Quest,cobblestone,Game Show Open Season 4 Playof..,7,16,7,8,0,8,Quest,14,10,1.10 
-2016,07,09,15:00,Vesuvius,Quest,dust2,Game Show Open Season 4 Playof..,14,16,7,8,7,8,Quest,20,19,0.93 
-2016,07,09,15:00,Vesuvius,Quest,cache,Game Show Open Season 4 Playof..,11,16,6,9,5,7,Quest,19,18,1.10 

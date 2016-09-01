@@ -1,7 +1,0 @@
-2016,07,03,19:30,Infused,UnitedEstonia,inferno,ESL UK Premiership Spring 2016..,4,16,3,12,1,4,United Estonia,16,12,1.28 
-2016,07,03,11:15,TheWorkingMen,UnitedEstonia,mirage,ESL UK Premiership Spring 2016..,16,9,13,2,3,7,United Estonia,9,19,0.57 
-2016,07,03,11:15,TheWorkingMen,UnitedEstonia,cache,ESL UK Premiership Spring 2016..,16,13,8,7,8,6,United Estonia,23,23,1.03 
-2016,07,03,11:15,TheWorkingMen,UnitedEstonia,dust2,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,United Estonia,18,21,0.92 
-2015,10,24,12:00,Infused,Choke,mirage,ESL UK Premiership Season 2 Fi..,16,9,9,6,7,3,Choke,11,20,0.60 
-2015,10,24,12:00,Infused,Choke,inferno,ESL UK Premiership Season 2 Fi..,16,1,14,1,2,0,Choke,3,16,0.23 
-2015,10,24,12:00,Choke,Infused,dust2,ESL UK Premiership Season 2 Fi..,16,10,12,3,4,7,Choke,16,18,0.92 

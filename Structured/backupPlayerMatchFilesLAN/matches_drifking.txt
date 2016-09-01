@@ -1,7 +1,0 @@
-2015,12,05,16:30,Play2Win,overGame,train,LVP Season 9 Division de Honor..,12,16,8,7,4,9,Play2Win,21,19,1.10 
-2015,12,05,16:30,Play2Win,overGame,overpass,LVP Season 9 Division de Honor..,6,16,3,12,3,4,Play2Win,21,17,1.38 
-2015,12,05,16:30,Play2Win,overGame,dust2,LVP Season 9 Division de Honor..,16,12,11,4,5,8,Play2Win,33,19,1.72 
-2015,12,05,11:00,EvidentVictory,Play2Win,cache,LVP Season 9 Division de Honor..,2,16,2,13,0,3,Play2Win,21,10,1.82 
-2015,12,04,17:30,Play2Win,overGame,cache,LVP Season 9 Division de Honor..,8,16,4,11,4,5,Play2Win,18,18,0.95 
-2015,10,03,15:00,summa.gg,OverGaming,cache,SocialNat Master League,7,16,2,13,5,3,summa.gg,8,22,0.35 
-2015,10,03,15:00,OverGaming,summa.gg,inferno,SocialNat Master League,16,8,11,4,5,4,summa.gg,10,17,0.66 

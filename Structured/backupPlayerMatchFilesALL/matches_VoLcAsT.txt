@@ -1,4 +1,4 @@
-2015,09,06,17:00,DelinquentHabits,Elysium,cobblestone,eGaming CS:GO Championship 201..,16,11,9,6,7,5,Elysium,16,22,0.71 
-2015,09,06,17:00,Elysium,DelinquentHabits,dust2,eGaming CS:GO Championship 201..,9,16,8,7,1,9,Elysium,12,20,0.59 
-2015,08,14,17:00,Ireland,Greece,dust2,World Championships 2015 Europ..,16,14,6,9,10,5,Greece,23,22,1.07 
-2015,08,14,17:00,Greece,Ireland,cobblestone,World Championships 2015 Europ..,5,16,4,11,1,5,Greece,10,20,0.49 
+2015,09,06,17:00,999,640,14,828,16,11,9,6,7,5,640,16,22,0.71 
+2015,09,06,17:00,640,999,1,828,9,16,8,7,1,9,640,12,20,0.59 
+2015,08,14,17:00,1017,88,1,799,16,14,6,9,10,5,88,23,22,1.07 
+2015,08,14,17:00,88,1017,14,799,5,16,4,11,1,5,88,10,20,0.49 

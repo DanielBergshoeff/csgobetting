@@ -1,5 +1,0 @@
-2016,08,04,06:20,5POWER,BornOfFire,cache,SL i-League S2 China Finals,11,16,6,9,5,7,5POWER,25,24,1.14 
-2016,08,04,06:20,5POWER,BornOfFire,mirage,SL i-League S2 China Finals,12,16,6,9,6,7,5POWER,18,22,0.86 
-2016,08,04,06:20,5POWER,BornOfFire,cobblestone,SL i-League S2 China Finals,16,3,12,3,4,0,5POWER,20,8,1.66 
-2016,04,23,11:30,BornOfFire,B.O.O.T,inferno,Pro Gamers League 2016 Spring,16,3,12,3,4,0,B.O.O.T,10,18,0.60 
-2016,04,23,11:30,BornOfFire,B.O.O.T,mirage,Pro Gamers League 2016 Spring,16,10,9,6,7,4,B.O.O.T,26,19,1.32 

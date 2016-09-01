@@ -1,4 +1,4 @@
-2015,11,20,20:30,KoNNorway,KoNDenmark,mirage,King of Nordic Season 2,14,16,9,6,5,10,KoN Norway,24,25,1.04 
-2015,11,20,19:15,KoNNorway,KoNFinland,mirage,King of Nordic Season 2,16,12,8,7,8,5,KoN Norway,16,21,0.76 
-2015,08,21,20:20,Norway,Denmark,mirage,King of Nordic Season 1,8,16,7,8,1,8,Norway,18,17,0.96 
-2015,05,05,19:30,Norway,Denmark,mirage,King of Nordic Season 1,13,16,8,7,5,9,Norway,15,23,0.70 
+2015,11,20,20:30,81,83,0,673,14,16,9,6,5,10,81,24,25,1.04 
+2015,11,20,19:15,81,80,0,673,16,12,8,7,8,5,81,16,21,0.76 
+2015,08,21,20:20,939,941,0,830,8,16,7,8,1,8,939,18,17,0.96 
+2015,05,05,19:30,939,941,0,830,13,16,8,7,5,9,939,15,23,0.70 

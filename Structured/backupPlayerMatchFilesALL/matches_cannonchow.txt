@@ -1,5 +1,5 @@
-2016,05,16,04:45,ZePugGodz,TempoStorm,cobblestone,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Ze Pug Godz,5,17,0.31 
-2016,05,16,04:45,TempoStorm,ZePugGodz,cache,ESEA Premier Season 21 North A..,16,14,6,9,10,5,Ze Pug Godz,13,22,0.68 
-2016,05,15,23:00,ZePugGodz,Kaliber,train,ESEA Premier Season 21 North A..,16,10,8,7,8,3,Ze Pug Godz,13,18,0.74 
-2016,05,15,23:00,Kaliber,ZePugGodz,cache,ESEA Premier Season 21 North A..,18,22,6,9,9,6,Ze Pug Godz,21,22,0.88 
-2016,05,15,23:00,ZePugGodz,Kaliber,mirage,ESEA Premier Season 21 North A..,3,16,3,12,0,4,Ze Pug Godz,5,18,0.26 
+2016,05,16,04:45,435,424,14,574,3,16,3,12,0,4,435,5,17,0.31 
+2016,05,16,04:45,424,435,7,574,16,14,6,9,10,5,435,13,22,0.68 
+2016,05,15,23:00,435,114,2,574,16,10,8,7,8,3,435,13,18,0.74 
+2016,05,15,23:00,114,435,7,574,18,22,6,9,9,6,435,21,22,0.88 
+2016,05,15,23:00,435,114,0,574,3,16,3,12,0,4,435,5,18,0.26 

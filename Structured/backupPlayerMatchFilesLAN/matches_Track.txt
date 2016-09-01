@@ -1,4 +1,0 @@
-2016,07,24,12:15,TamuluS,Nomad,nuke,VSL Season 1,16,7,9,6,7,1,Nomad,7,21,0.40 
-2016,07,17,12:00,m0nsterwhite,Nomad,nuke,VSL Season 1,16,5,12,3,4,2,Nomad,14,20,0.79 
-2016,07,10,12:30,Nomad,T5,cache,VSL Season 1,2,16,2,13,0,3,Nomad,8,16,0.49 
-2016,07,03,12:15,Player5,Nomad,cache,VSL Season 1,13,16,8,7,5,9,Nomad,32,19,1.62 

@@ -1,2 +1,0 @@
-2016,05,16,02:40,Vault,TempoStorm,cobblestone,ESEA Premier Season 21 North A..,1,16,1,14,0,2,Vault,8,17,0.43 
-2016,05,16,02:40,Vault,TempoStorm,train,ESEA Premier Season 21 North A..,13,16,9,6,4,10,Vault,16,21,0.85 

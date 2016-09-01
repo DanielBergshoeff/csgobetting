@@ -1,12 +1,14 @@
-2016,05,29,11:15,XPC,neXtPlease!,overpass,ESL South East Europe Champion..,16,10,7,8,9,2,neXtPlease!,16,20,0.84 
-2016,05,29,09:25,aimclub,neXtPlease!,cobblestone,ESL South East Europe Champion..,22,20,8,7,7,8,neXtPlease!,23,29,0.77 
-2015,05,25,18:00,Wrecking,neXtPlease!,cache,Balkan Championship Season 2,5,16,4,11,1,5,neXtPlease!,7,10,0.76 
-2015,05,25,18:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,15,19,9,6,6,9,neXtPlease!,20,20,0.96 
-2015,05,14,21:00,Airwalk,neXtPlease!,mirage,Balkan Championship Season 2,2,16,2,13,0,3,neXtPlease!,11,10,1.03 
-2015,05,14,21:00,neXtPlease!,Airwalk,inferno,Balkan Championship Season 2,16,4,13,2,3,2,neXtPlease!,13,8,1.12 
-2015,05,11,22:00,neXtPlease!,Wrecking,cache,Balkan Championship Season 2,8,16,8,7,0,9,neXtPlease!,14,18,0.91 
-2015,05,11,22:00,neXtPlease!,Wrecking,mirage,Balkan Championship Season 2,16,8,9,6,7,2,neXtPlease!,17,14,1.13 
-2015,05,11,22:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,16,8,13,2,3,6,neXtPlease!,12,17,0.75 
-2015,05,11,19:00,Rock,neXtPlease!,cache,Balkan Superleague,16,6,13,2,3,4,neXtPlease!,7,20,0.37 
-2015,05,11,18:00,HEADSHOTBG,neXtPlease!,overpass,Balkan Superleague,16,4,11,4,5,0,neXtPlease!,8,19,0.40 
-2015,05,08,19:15,TRICKED,neXtPlease!,inferno,Balkan Superleague,16,13,9,6,7,7,neXtPlease!,27,19,1.20 
+2016,05,29,11:15,379,398,4,560,16,10,7,8,9,2,398,16,20,0.84 
+2016,05,29,09:25,157,398,14,560,22,20,8,7,7,8,398,23,29,0.77 
+2015,05,25,18:00,1080,398,7,887,5,16,4,11,1,5,398,7,10,0.76 
+2015,05,25,18:00,1080,398,6,887,15,19,9,6,6,9,398,20,20,0.96 
+2015,05,14,21:00,1086,398,0,887,2,16,2,13,0,3,398,11,10,1.03 
+2015,05,14,21:00,398,1086,6,887,16,4,13,2,3,2,398,13,8,1.12 
+2015,05,11,22:00,398,1080,7,887,8,16,8,7,0,9,398,14,18,0.91 
+2015,05,11,22:00,398,1080,0,887,16,8,9,6,7,2,398,17,14,1.13 
+2015,05,11,22:00,1080,398,6,887,16,8,13,2,3,6,398,12,17,0.75 
+2015,05,11,19:00,1055,398,7,903,16,6,13,2,3,4,398,7,20,0.37 
+2015,05,11,18:00,159,398,4,903,16,4,11,4,5,0,398,8,19,0.40 
+2015,05,08,19:15,1067,398,6,903,16,13,9,6,7,7,398,27,19,1.20 
+2013,09,14,10:45,398,1359,11,1126,15,19,8,7,7,8,398,23,25,0.99 
+2013,09,14,09:00,210,398,12,1126,16,3,12,3,4,0,398,5,18,0.32 

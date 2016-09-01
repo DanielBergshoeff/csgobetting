@@ -1,312 +1,343 @@
-2016,08,14,15:00,HellRaisers,HOMELESS,mirage,ECS Season 2 EU Open Qualifier..,10,16,4,11,6,5,HellRaisers,21,17,1.20 
-2016,08,11,21:10,ALTERNATEaTTaX,HellRaisers,cache,SL i-League S2 Europe Qualifie..,11,16,7,8,4,8,HellRaisers,17,19,0.88 
-2016,08,11,21:10,HellRaisers,ALTERNATEaTTaX,nuke,SL i-League S2 Europe Qualifie..,16,4,11,4,5,0,HellRaisers,27,10,2.00 
-2016,08,07,21:30,HellRaisers,Gambit,train,SL i-League S2 Europe Qualifie..,16,8,12,3,4,5,HellRaisers,30,15,1.76 
-2016,08,07,21:30,HellRaisers,Gambit,nuke,SL i-League S2 Europe Qualifie..,19,15,6,9,9,6,HellRaisers,34,26,1.28 
-2016,08,04,21:00,fruits,HellRaisers,train,SL i-League S2 Europe Qualifie..,4,16,4,11,0,5,HellRaisers,19,7,1.56 
-2016,08,04,21:00,fruits,HellRaisers,mirage,SL i-League S2 Europe Qualifie..,5,16,3,12,2,4,HellRaisers,19,11,1.31 
-2016,08,04,18:00,Spirit,HellRaisers,nuke,SL i-League S2 Europe Qualifie..,11,16,5,10,6,6,HellRaisers,18,19,1.01 
-2016,08,04,18:00,HellRaisers,Spirit,mirage,SL i-League S2 Europe Qualifie..,16,13,10,5,6,8,HellRaisers,20,20,1.01 
-2016,06,19,15:00,Epsilon,HellRaisers,mirage,DreamHack ZOWIE Open Summer 20..,16,13,12,3,4,10,HellRaisers,23,19,1.18 
-2016,06,19,15:00,Epsilon,HellRaisers,nuke,DreamHack ZOWIE Open Summer 20..,16,10,11,4,5,6,HellRaisers,18,17,1.02 
-2016,06,18,19:30,HellRaisers,GODSENT,cobblestone,DreamHack ZOWIE Open Summer 20..,7,16,3,12,4,4,HellRaisers,12,20,0.74 
-2016,06,12,22:00,FlipSid3,HellRaisers,overpass,ESL One Cologne 2016 Main Qual..,16,9,9,6,7,3,HellRaisers,11,20,0.55 
-2016,06,12,17:00,HellRaisers,OpTic,cache,ESL One Cologne 2016 Main Qual..,14,16,10,5,4,11,HellRaisers,22,22,0.97 
-2016,06,11,15:20,dignitas,HellRaisers,nuke,ESL One Cologne 2016 Main Qual..,10,16,4,11,6,5,HellRaisers,27,17,1.48 
-2016,06,10,18:00,G2,HellRaisers,dust2,ESL One Cologne 2016 Main Qual..,16,8,13,2,3,6,HellRaisers,15,17,1.05 
-2016,06,09,14:20,HellRaisers,Splyce,cobblestone,ESL One Cologne 2016 Main Qual..,16,9,9,6,7,3,HellRaisers,25,15,1.51 
-2016,05,21,13:45,HellRaisers,NatusVincere,mirage,SL i-League Invitational #1,13,16,10,5,3,11,HellRaisers,12,19,0.67 
-2016,05,21,13:45,HellRaisers,NatusVincere,overpass,SL i-League Invitational #1,8,16,7,8,1,8,HellRaisers,12,18,0.69 
-2016,05,20,14:30,HellRaisers,Virtus.pro,cache,SL i-League Invitational #1,12,16,11,4,1,12,HellRaisers,22,21,1.05 
-2016,05,20,14:30,HellRaisers,Virtus.pro,mirage,SL i-League Invitational #1,6,16,6,9,0,7,HellRaisers,17,17,1.04 
-2016,05,19,09:00,HellRaisers,SK,overpass,SL i-League Invitational #1,16,5,12,3,4,2,HellRaisers,23,13,1.56 
-2016,05,19,09:00,HellRaisers,SK,cache,SL i-League Invitational #1,16,5,13,2,3,3,HellRaisers,26,14,1.72 
-2016,05,16,19:30,HellRaisers,dignitas,overpass,DreamHack Regional Minor Champ..,7,16,4,11,3,5,HellRaisers,19,18,1.12 
-2016,05,16,19:30,dignitas,HellRaisers,mirage,DreamHack Regional Minor Champ..,16,8,9,6,7,2,HellRaisers,11,18,0.61 
-2016,05,16,19:30,dignitas,HellRaisers,dust2,DreamHack Regional Minor Champ..,13,16,9,6,4,10,HellRaisers,14,20,0.82 
-2016,05,16,15:30,Orbit,HellRaisers,mirage,DreamHack Regional Minor Champ..,5,16,4,11,1,5,HellRaisers,14,12,1.32 
-2016,05,16,15:30,Orbit,HellRaisers,cache,DreamHack Regional Minor Champ..,3,16,3,12,0,4,HellRaisers,18,8,1.54 
-2016,05,16,15:30,HellRaisers,Orbit,dust2,DreamHack Regional Minor Champ..,10,16,8,7,2,9,HellRaisers,16,20,0.84 
-2016,05,15,18:00,HellRaisers,ENCE,dust2,DreamHack Regional Minor Champ..,16,11,10,5,6,6,HellRaisers,16,22,0.73 
-2016,05,15,18:00,HellRaisers,ENCE,mirage,DreamHack Regional Minor Champ..,16,3,13,2,3,1,HellRaisers,19,8,1.67 
-2016,05,15,12:00,HellRaisers,Orbit,cache,DreamHack Regional Minor Champ..,10,16,5,10,5,6,HellRaisers,12,22,0.64 
-2016,05,15,12:00,Orbit,HellRaisers,dust2,DreamHack Regional Minor Champ..,16,14,10,5,6,9,HellRaisers,29,19,1.38 
-2016,05,14,18:30,ENCE,HellRaisers,dust2,DreamHack Regional Minor Champ..,9,16,3,12,6,4,HellRaisers,17,17,0.92 
-2016,05,14,16:00,HellRaisers,CSGL,mirage,DreamHack Regional Minor Champ..,16,10,7,8,9,2,HellRaisers,19,16,1.08 
-2016,05,07,17:35,HellRaisers,PENTA,overpass,ESEA Premier Season 21 Europe ..,16,10,14,1,2,9,HellRaisers,19,17,1.07 
-2016,05,07,17:35,PENTA,HellRaisers,inferno,ESEA Premier Season 21 Europe ..,20,22,9,6,6,9,HellRaisers,32,25,1.19 
-2016,05,07,11:25,HellRaisers,MK,mirage,ESEA Premier Season 21 Europe ..,19,15,9,6,6,9,HellRaisers,31,19,1.28 
-2016,05,07,11:25,HellRaisers,MK,cobblestone,ESEA Premier Season 21 Europe ..,11,16,6,9,5,7,HellRaisers,19,22,0.98 
-2016,05,07,11:25,HellRaisers,MK,cache,ESEA Premier Season 21 Europe ..,16,9,14,1,2,8,HellRaisers,17,18,0.91 
-2016,04,30,13:00,SK,HellRaisers,cobblestone,CEVO Gfinity Professional Seas..,16,3,13,2,3,1,HellRaisers,6,18,0.34 
-2016,04,30,13:00,HellRaisers,SK,overpass,CEVO Gfinity Professional Seas..,14,16,8,7,6,9,HellRaisers,18,22,0.83 
-2016,04,30,13:00,HellRaisers,SK,dust2,CEVO Gfinity Professional Seas..,10,16,3,12,7,4,HellRaisers,12,18,0.70 
-2016,04,29,17:30,HellRaisers,Virtus.pro,cobblestone,CEVO Gfinity Professional Seas..,16,11,7,8,9,3,HellRaisers,21,16,1.11 
-2016,04,29,17:30,HellRaisers,Virtus.pro,mirage,CEVO Gfinity Professional Seas..,16,14,10,5,6,9,HellRaisers,22,20,1.06 
-2016,04,28,19:00,OpTic,HellRaisers,overpass,CEVO Gfinity Professional Seas..,3,16,2,13,1,3,HellRaisers,16,10,1.33 
-2016,04,28,19:00,HellRaisers,OpTic,cache,CEVO Gfinity Professional Seas..,16,8,10,5,6,3,HellRaisers,21,13,1.40 
-2016,04,28,19:00,HellRaisers,OpTic,cobblestone,CEVO Gfinity Professional Seas..,8,16,5,10,3,6,HellRaisers,13,20,0.73 
-2016,04,26,21:00,HellRaisers,CSGL,cobblestone,SL I-League Invitational #1 EU..,16,14,8,7,8,7,HellRaisers,18,21,0.86 
-2016,04,26,21:00,CSGL,HellRaisers,overpass,SL I-League Invitational #1 EU..,9,16,3,12,6,4,HellRaisers,19,16,1.25 
-2016,04,26,18:00,HellRaisers,ALTERNATEaTTaX,cobblestone,Uprise Champions Cup Season 4,6,16,1,14,5,2,HellRaisers,14,17,0.90 
-2016,04,26,18:00,ALTERNATEaTTaX,HellRaisers,dust2,Uprise Champions Cup Season 4,16,12,6,9,10,3,HellRaisers,17,26,0.86 
-2016,04,24,18:45,HellRaisers,AGG,cobblestone,DreamHack Regional Minor Champ..,16,11,10,5,6,6,HellRaisers,14,17,0.82 
-2016,04,24,18:45,HellRaisers,AGG,dust2,DreamHack Regional Minor Champ..,16,8,8,7,8,1,HellRaisers,18,14,1.14 
-2016,04,24,18:45,AGG,HellRaisers,mirage,DreamHack Regional Minor Champ..,16,11,9,6,7,5,HellRaisers,10,21,0.53 
-2016,04,24,15:00,HellRaisers,Metapods,cache,DreamHack Regional Minor Champ..,16,3,12,3,4,0,HellRaisers,12,8,1.18 
-2016,04,24,15:00,HellRaisers,Metapods,cobblestone,DreamHack Regional Minor Champ..,16,3,12,3,4,0,HellRaisers,12,11,0.90 
-2016,04,22,20:30,Epsilon,HellRaisers,cache,CEVO Gfinity Professional Seas..,12,16,5,10,7,6,HellRaisers,18,19,0.90 
-2016,04,22,20:30,HellRaisers,Epsilon,mirage,CEVO Gfinity Professional Seas..,16,14,12,3,4,11,HellRaisers,21,22,0.90 
-2016,04,21,21:00,Gambit,HellRaisers,cobblestone,SL I-League Invitational #1 EU..,3,16,3,12,0,4,HellRaisers,13,11,1.04 
-2016,04,21,21:00,HellRaisers,Gambit,dust2,SL I-League Invitational #1 EU..,16,5,11,4,5,1,HellRaisers,31,10,2.19 
-2016,04,21,18:15,E-frag.net,HellRaisers,overpass,CEVO Gfinity Professional Seas..,9,16,4,11,5,5,HellRaisers,16,15,0.95 
-2016,04,21,18:15,E-frag.net,HellRaisers,cache,CEVO Gfinity Professional Seas..,14,16,12,3,2,13,HellRaisers,21,19,1.04 
-2016,04,20,18:15,Torpedo,HellRaisers,inferno,CEVO Gfinity Professional Seas..,10,16,7,8,3,8,HellRaisers,8,14,0.68 
-2016,04,20,18:15,HellRaisers,Torpedo,cache,CEVO Gfinity Professional Seas..,16,11,8,7,8,4,HellRaisers,14,19,0.85 
-2016,04,13,18:15,VwS,HellRaisers,overpass,CEVO Gfinity Professional Seas..,6,16,4,11,2,5,HellRaisers,17,12,1.15 
-2016,04,13,18:15,HellRaisers,VwS,cache,CEVO Gfinity Professional Seas..,16,10,9,6,7,4,HellRaisers,16,18,0.81 
-2016,04,10,18:00,Empire,HellRaisers,overpass,ESEA Premier Season 21 Europe,3,16,2,13,1,3,HellRaisers,16,9,1.44 
-2016,04,10,18:00,HellRaisers,Empire,mirage,ESEA Premier Season 21 Europe,16,8,8,7,8,1,HellRaisers,16,14,1.02 
-2016,04,08,18:00,mousesports,HellRaisers,train,ECS Season 1 Qualifier,16,9,12,3,4,6,HellRaisers,9,21,0.48 
-2016,04,08,18:00,mousesports,HellRaisers,dust2,ECS Season 1 Qualifier,16,8,10,5,6,3,HellRaisers,10,19,0.57 
-2016,04,08,18:00,HellRaisers,mousesports,inferno,ECS Season 1 Qualifier,16,11,10,5,6,6,HellRaisers,15,17,0.85 
-2016,04,08,18:00,mousesports,HellRaisers,cache,ECS Season 1 Qualifier,19,17,4,11,11,4,HellRaisers,22,29,0.78 
-2016,04,08,18:00,HellRaisers,mousesports,cobblestone,ECS Season 1 Qualifier,16,14,13,2,3,12,HellRaisers,20,20,1.04 
-2016,04,07,20:15,HellRaisers,Gambit,dust2,ECS Season 1 Qualifier,9,16,5,10,4,6,HellRaisers,14,20,0.72 
-2016,04,07,20:15,Gambit,HellRaisers,cache,ECS Season 1 Qualifier,16,14,4,11,12,3,HellRaisers,23,19,1.15 
-2016,04,07,18:00,HellRaisers,SK,cobblestone,ECS Season 1 Qualifier,16,12,9,6,7,6,HellRaisers,27,15,1.62 
-2016,04,07,18:00,HellRaisers,SK,overpass,ECS Season 1 Qualifier,16,14,7,8,9,6,HellRaisers,22,18,1.09 
-2016,04,06,22:40,HellRaisers,dignitas,inferno,CEVO Gfinity Professional Seas..,9,16,8,7,1,9,HellRaisers,11,17,0.72 
-2016,04,06,22:40,dignitas,HellRaisers,cache,CEVO Gfinity Professional Seas..,19,17,4,11,11,4,HellRaisers,16,28,0.63 
-2016,04,06,20:30,CSGL,HellRaisers,dust2,CEVO Gfinity Professional Seas..,6,16,5,10,1,6,HellRaisers,15,14,1.10 
-2016,04,06,20:30,HellRaisers,CSGL,mirage,CEVO Gfinity Professional Seas..,16,5,10,5,6,0,HellRaisers,24,14,1.56 
-2016,04,06,18:00,HellRaisers,AGG,inferno,ECS Season 1 Qualifier,16,13,4,11,12,2,HellRaisers,27,14,1.44 
-2016,04,06,18:00,AGG,HellRaisers,cobblestone,ECS Season 1 Qualifier,9,16,4,11,5,5,HellRaisers,21,17,1.10 
-2016,04,04,18:00,HellRaisers,Escape,dust2,Uprise Champions Cup Season 4,11,16,5,10,6,6,HellRaisers,17,18,0.99 
-2016,04,04,18:00,Escape,HellRaisers,mirage,Uprise Champions Cup Season 4,16,6,12,3,4,3,HellRaisers,13,19,0.66 
-2016,03,26,21:00,E-frag.net,HellRaisers,dust2,Copenhagen Games 2016,5,16,4,11,1,5,HellRaisers,28,10,2.04 
-2016,03,26,21:00,E-frag.net,HellRaisers,inferno,Copenhagen Games 2016,23,25,7,8,8,7,HellRaisers,40,30,1.17 
-2016,03,26,13:00,Publiclir.se,HellRaisers,cache,Copenhagen Games 2016,10,16,7,8,3,8,HellRaisers,19,16,1.08 
-2016,03,26,13:00,HellRaisers,Publiclir.se,dust2,Copenhagen Games 2016,16,12,8,7,8,5,HellRaisers,24,21,1.21 
-2016,03,25,18:30,HellRaisers,Preparation,cobblestone,Copenhagen Games 2016,16,8,9,6,7,2,HellRaisers,22,15,1.29 
-2016,03,25,18:30,HellRaisers,Preparation,mirage,Copenhagen Games 2016,17,19,8,7,7,8,HellRaisers,29,24,1.32 
-2016,03,25,18:30,HellRaisers,Preparation,dust2,Copenhagen Games 2016,16,5,11,4,5,1,HellRaisers,20,12,1.59 
-2016,03,25,13:00,Iwku,HellRaisers,cache,Copenhagen Games 2016,11,16,8,7,3,9,HellRaisers,19,18,1.03 
-2016,03,25,11:50,SpaceSoldiers,HellRaisers,cache,Copenhagen Games 2016,6,16,6,9,0,7,HellRaisers,18,14,1.19 
-2016,03,22,21:30,HellRaisers,Ancient,inferno,SL I-League Invitational #1 EU..,16,9,14,1,2,8,HellRaisers,13,13,1.01 
-2016,03,22,21:30,HellRaisers,Ancient,cobblestone,SL I-League Invitational #1 EU..,16,5,12,3,4,2,HellRaisers,16,11,1.25 
-2016,03,22,21:30,HellRaisers,Ancient,overpass,SL I-League Invitational #1 EU..,13,16,6,9,7,7,HellRaisers,11,21,0.60 
-2016,03,22,19:00,ALTERNATEaTTaX,HellRaisers,cobblestone,SL I-League Invitational #1 EU..,11,16,4,11,7,5,HellRaisers,10,19,0.62 
-2016,03,22,19:00,HellRaisers,ALTERNATEaTTaX,overpass,SL I-League Invitational #1 EU..,16,10,11,4,5,6,HellRaisers,15,14,1.04 
-2016,03,21,19:00,Arcade,HellRaisers,overpass,SL I-League Invitational #1 EU..,13,16,8,7,5,9,HellRaisers,18,17,1.00 
-2016,03,20,15:45,dignitas,HellRaisers,mirage,DreamHack Masters Malmö 2016 E..,16,4,11,4,5,0,HellRaisers,9,19,0.59 
-2016,03,20,15:45,HellRaisers,dignitas,overpass,DreamHack Masters Malmö 2016 E..,5,16,4,11,1,5,HellRaisers,9,17,0.54 
-2016,03,20,15:45,HellRaisers,dignitas,cobblestone,DreamHack Masters Malmö 2016 E..,16,7,9,6,7,1,HellRaisers,19,12,1.23 
-2016,03,20,13:00,Gambit,HellRaisers,cache,DreamHack Masters Malmö 2016 E..,5,16,3,12,2,4,HellRaisers,15,14,1.09 
-2016,03,20,13:00,HellRaisers,Gambit,dust2,DreamHack Masters Malmö 2016 E..,16,5,10,5,6,0,HellRaisers,28,9,1.99 
-2016,03,19,18:45,LDLCBlue,HellRaisers,inferno,DreamHack Masters Malmö 2016 E..,7,16,3,12,4,4,HellRaisers,16,10,1.37 
-2016,03,17,19:00,ALTERNATEaTTaX,HellRaisers,overpass,Uprise Champions Cup Season 4,13,16,6,9,7,7,HellRaisers,20,21,0.88 
-2016,03,17,19:00,ALTERNATEaTTaX,HellRaisers,cobblestone,Uprise Champions Cup Season 4,12,16,8,7,4,9,HellRaisers,24,19,1.19 
-2016,03,15,23:30,HellRaisers,SpaceSoldiers,cobblestone,Global Offensive Champions Lea..,7,16,4,11,3,5,HellRaisers,12,18,0.69 
-2016,03,15,22:15,PENTA,HellRaisers,mirage,Global Offensive Champions Lea..,16,5,11,4,5,1,HellRaisers,8,19,0.45 
-2016,03,15,19:00,SpaceSoldiers,HellRaisers,inferno,Global Offensive Champions Lea..,11,16,7,8,4,8,HellRaisers,17,17,0.94 
-2016,03,07,20:15,Empire,HellRaisers,cache,CEVO Gfinity Professional Seas..,10,16,4,11,6,5,HellRaisers,25,15,1.37 
-2016,03,07,20:15,HellRaisers,Empire,mirage,CEVO Gfinity Professional Seas..,16,6,10,5,6,1,HellRaisers,20,8,1.44 
-2016,03,07,20:15,Empire,HellRaisers,overpass,CEVO Gfinity Professional Seas..,16,14,3,12,13,2,HellRaisers,17,22,0.79 
-2016,02,28,00:10,Liquid,HellRaisers,dust2,MLG Columbus 2016 Main Qualifi..,16,14,6,9,10,5,HellRaisers,18,20,0.95 
-2016,02,28,00:10,Liquid,HellRaisers,overpass,MLG Columbus 2016 Main Qualifi..,7,16,6,9,1,7,HellRaisers,32,13,2.12 
-2016,02,28,00:10,HellRaisers,Liquid,cache,MLG Columbus 2016 Main Qualifi..,4,16,4,11,0,5,HellRaisers,5,19,0.28 
-2016,02,26,23:30,HellRaisers,mousesports,mirage,MLG Columbus 2016 Main Qualifi..,15,19,9,6,6,9,HellRaisers,29,21,1.21 
-2016,02,26,17:00,HellRaisers,Liquid,dust2,MLG Columbus 2016 Main Qualifi..,22,20,8,7,7,8,HellRaisers,39,30,1.29 
-2016,02,13,15:30,ALTERNATEaTTaX,HellRaisers,cache,Acer Predator Masters powered ..,21,17,8,7,7,8,HellRaisers,25,31,0.81 
-2016,02,13,15:30,ALTERNATEaTTaX,HellRaisers,overpass,Acer Predator Masters powered ..,8,16,6,9,2,7,HellRaisers,18,18,1.02 
-2016,02,13,15:30,ALTERNATEaTTaX,HellRaisers,cobblestone,Acer Predator Masters powered ..,16,2,14,1,2,1,HellRaisers,8,17,0.48 
-2016,02,13,01:55,FlipSid3,HellRaisers,overpass,Acer Predator Masters powered ..,16,13,7,8,9,5,HellRaisers,16,17,0.86 
-2016,02,13,01:55,HellRaisers,FlipSid3,cobblestone,Acer Predator Masters powered ..,6,16,6,9,0,7,HellRaisers,9,20,0.50 
-2016,02,11,23:30,Vexed,HellRaisers,cobblestone,Acer Predator Masters powered ..,14,16,7,8,7,8,HellRaisers,29,19,1.40 
-2016,02,11,23:30,HellRaisers,Vexed,inferno,Acer Predator Masters powered ..,16,14,8,7,8,7,HellRaisers,21,15,1.13 
-2016,01,31,21:30,HellRaisers,E-frag.net,cobblestone,PGL Regional Minor Championshi..,16,6,10,5,6,1,HellRaisers,18,13,1.28 
-2016,01,31,21:30,E-frag.net,HellRaisers,inferno,PGL Regional Minor Championshi..,16,6,9,6,7,0,HellRaisers,9,17,0.61 
-2016,01,31,21:30,HellRaisers,E-frag.net,dust2,PGL Regional Minor Championshi..,16,11,9,6,7,5,HellRaisers,34,14,2.00 
-2016,01,31,12:00,HellRaisers,PENTA,dust2,PGL Regional Minor Championshi..,16,10,11,4,5,6,HellRaisers,17,13,1.13 
-2016,01,31,12:00,PENTA,HellRaisers,inferno,PGL Regional Minor Championshi..,16,11,6,9,10,2,HellRaisers,15,18,0.84 
-2016,01,31,12:00,HellRaisers,PENTA,mirage,PGL Regional Minor Championshi..,21,15,12,3,3,12,HellRaisers,20,26,0.76 
-2016,01,30,16:45,PixelFire,HellRaisers,overpass,PGL Regional Minor Championshi..,14,16,8,7,6,9,HellRaisers,28,23,1.20 
-2016,01,30,16:45,PixelFire,HellRaisers,inferno,PGL Regional Minor Championshi..,14,16,6,9,8,7,HellRaisers,16,22,0.76 
-2016,01,30,16:45,HellRaisers,PixelFire,mirage,PGL Regional Minor Championshi..,9,16,9,6,0,10,HellRaisers,13,18,0.76 
-2016,01,30,12:00,HellRaisers,Lemondogs,dust2,PGL Regional Minor Championshi..,16,14,7,8,9,6,HellRaisers,15,15,0.94 
-2016,01,10,18:15,HellRaisers,dignitas,overpass,DreamHack Open Leipzig 2016 Cl..,14,16,9,6,5,10,HellRaisers,14,23,0.66 
-2016,01,10,18:15,HellRaisers,dignitas,cobblestone,DreamHack Open Leipzig 2016 Cl..,10,16,9,6,1,10,HellRaisers,21,19,1.05 
-2016,01,10,15:15,HellRaisers,E-frag.net,mirage,DreamHack Open Leipzig 2016 Cl..,16,7,9,6,7,1,HellRaisers,24,14,1.54 
-2016,01,10,15:15,HellRaisers,E-frag.net,cobblestone,DreamHack Open Leipzig 2016 Cl..,16,14,4,11,12,3,HellRaisers,22,13,1.23 
-2016,01,10,15:15,HellRaisers,E-frag.net,dust2,DreamHack Open Leipzig 2016 Cl..,9,16,6,9,3,7,HellRaisers,23,16,1.36 
-2016,01,10,12:20,ALTERNATEaTTaX,HellRaisers,overpass,DreamHack Open Leipzig 2016 Cl..,7,16,6,9,1,7,HellRaisers,19,14,1.16 
-2016,01,10,12:20,HellRaisers,ALTERNATEaTTaX,dust2,DreamHack Open Leipzig 2016 Cl..,16,10,12,3,4,7,HellRaisers,15,16,0.89 
-2016,01,10,12:20,ALTERNATEaTTaX,HellRaisers,cobblestone,DreamHack Open Leipzig 2016 Cl..,16,7,10,5,6,2,HellRaisers,10,19,0.58 
-2016,01,09,18:15,MINLATE,HellRaisers,dust2,PGL Regional Minor Championshi..,12,16,8,7,4,9,HellRaisers,17,18,0.90 
-2016,01,09,18:15,HellRaisers,MINLATE,cache,PGL Regional Minor Championshi..,16,11,8,7,8,4,HellRaisers,19,18,1.05 
-2016,01,06,21:30,CG,HellRaisers,overpass,PGL Regional Minor Championshi..,16,6,10,5,6,1,HellRaisers,10,18,0.63 
-2016,01,06,21:30,HellRaisers,CG,mirage,PGL Regional Minor Championshi..,16,4,11,4,5,0,HellRaisers,16,6,1.47 
-2016,01,06,21:30,CG,HellRaisers,dust2,PGL Regional Minor Championshi..,16,12,9,6,7,6,HellRaisers,17,22,0.74 
-2015,12,17,16:00,Nostalgie,HellRaisers,inferno,Uprise Champions Cup: Europe,16,8,12,3,4,5,HellRaisers,14,19,0.78 
-2015,12,17,16:00,HellRaisers,Nostalgie,cache,Uprise Champions Cup: Europe,4,16,3,12,1,4,HellRaisers,7,16,0.48 
-2015,12,16,21:00,FlipSid3,HellRaisers,overpass,ESL ESEA Pro League Season 2 R..,16,11,6,9,10,2,HellRaisers,21,19,1.08 
-2015,12,16,21:00,HellRaisers,FlipSid3,mirage,ESL ESEA Pro League Season 2 R..,8,16,7,8,1,8,HellRaisers,10,15,0.65 
-2015,12,15,21:15,Revival,HellRaisers,cobblestone,Game Show Global eSports Cup 2..,16,12,5,10,11,2,HellRaisers,20,19,1.09 
-2015,12,15,21:15,Revival,HellRaisers,mirage,Game Show Global eSports Cup 2..,16,6,10,5,6,1,HellRaisers,11,17,0.66 
-2015,12,15,21:15,HellRaisers,Revival,overpass,Game Show Global eSports Cup 2..,16,7,13,2,3,5,HellRaisers,18,11,1.28 
-2015,12,14,19:10,dignitas,HellRaisers,cobblestone,Global Offensive Champions Lea..,16,5,13,2,3,3,HellRaisers,9,18,0.61 
-2015,12,14,19:10,HellRaisers,dignitas,inferno,Global Offensive Champions Lea..,11,16,10,5,1,11,HellRaisers,20,17,1.16 
-2015,12,14,19:10,dignitas,HellRaisers,overpass,Global Offensive Champions Lea..,16,21,11,4,4,11,HellRaisers,24,24,1.00 
-2015,12,14,19:10,HellRaisers,dignitas,cache,Global Offensive Champions Lea..,16,14,7,8,9,6,HellRaisers,20,22,0.95 
-2015,12,14,19:10,dignitas,HellRaisers,mirage,Global Offensive Champions Lea..,16,13,8,7,8,6,HellRaisers,15,19,0.83 
-2015,12,13,21:00,HellRaisers,mousesports,inferno,Acer Predator Masters powered ..,14,16,11,4,3,12,HellRaisers,12,24,0.63 
-2015,12,13,21:00,HellRaisers,mousesports,mirage,Acer Predator Masters powered ..,21,18,3,12,12,3,HellRaisers,20,27,0.71 
-2015,12,10,21:00,HellRaisers,Supreme,inferno,Game Show Global eSports Cup 2..,16,5,10,5,6,0,HellRaisers,18,5,1.50 
-2015,12,10,21:00,HellRaisers,Supreme,mirage,Game Show Global eSports Cup 2..,16,10,7,8,9,2,HellRaisers,16,13,1.12 
-2015,12,10,19:00,ELTZ,HellRaisers,overpass,Game Show Global eSports Cup 2..,4,16,3,12,1,4,HellRaisers,11,9,1.05 
-2015,12,10,19:00,ELTZ,HellRaisers,mirage,Game Show Global eSports Cup 2..,10,16,6,9,4,7,HellRaisers,21,15,1.38 
-2015,12,08,21:00,HellRaisers,dignitas,mirage,Red Dot Invitational,4,16,2,13,2,3,HellRaisers,9,17,0.53 
-2015,12,08,21:00,HellRaisers,dignitas,overpass,Red Dot Invitational,9,16,8,7,1,9,HellRaisers,11,21,0.66 
-2015,12,07,20:30,HellRaisers,Virtus.pro,cache,Global Offensive Champions Lea..,16,10,8,7,8,3,HellRaisers,12,14,0.85 
-2015,12,07,20:30,Virtus.pro,HellRaisers,mirage,Global Offensive Champions Lea..,17,21,9,6,6,9,HellRaisers,21,25,0.82 
-2015,12,07,20:30,Virtus.pro,HellRaisers,overpass,Global Offensive Champions Lea..,16,14,8,7,8,7,HellRaisers,23,20,1.14 
-2015,12,03,19:00,LondonC,HellRaisers,inferno,99Damage Arena #16,16,13,10,5,6,8,HellRaisers,20,18,1.21 
-2015,12,03,19:00,HellRaisers,LondonC,mirage,99Damage Arena #16,3,16,3,12,0,4,HellRaisers,4,16,0.30 
-2015,12,03,19:00,HellRaisers,LondonC,overpass,99Damage Arena #16,16,2,13,2,3,0,HellRaisers,20,8,1.74 
-2015,11,26,19:00,VegaSquadron,HellRaisers,dust2,99Damage Arena #15,16,19,8,7,7,8,HellRaisers,23,22,1.03 
-2015,11,26,19:00,VegaSquadron,HellRaisers,inferno,99Damage Arena #15,12,16,7,8,5,8,HellRaisers,14,19,0.74 
-2015,11,19,22:00,HellRaisers,SK,cobblestone,Acer Predator Masters powered ..,16,9,7,8,9,1,HellRaisers,18,18,0.92 
-2015,11,19,22:00,SK,HellRaisers,overpass,Acer Predator Masters powered ..,7,16,5,10,2,6,HellRaisers,16,16,1.01 
-2015,11,17,21:00,HellRaisers,mousesports,train,ESL ESEA Pro League Season 2,16,13,9,6,7,7,HellRaisers,29,19,1.32 
-2015,11,17,20:00,NatusVincere,HellRaisers,cobblestone,ESL ESEA Pro League Season 2,16,8,7,8,9,0,HellRaisers,21,18,1.15 
-2015,11,17,17:00,HellRaisers,TSM,dust2,SL i-League StarSeries XIV,4,16,4,11,0,5,HellRaisers,10,17,0.63 
-2015,11,17,17:00,TSM,HellRaisers,overpass,SL i-League StarSeries XIV,22,19,4,11,11,4,HellRaisers,25,30,1.00 
-2015,11,15,23:00,Virtus.pro,HellRaisers,cache,FACEIT League 2015 Stage 3,16,7,9,6,7,1,HellRaisers,20,21,1.10 
-2015,11,15,22:00,HellRaisers,Virtus.pro,overpass,FACEIT League 2015 Stage 3,5,16,5,10,0,6,HellRaisers,15,16,1.01 
-2015,11,14,21:00,HellRaisers,Titan,overpass,FACEIT League 2015 Stage 3,16,3,12,3,4,0,HellRaisers,15,9,1.30 
-2015,11,12,19:00,Titan,HellRaisers,inferno,ESL ESEA Pro League Season 2,16,7,10,5,6,2,HellRaisers,10,18,0.64 
-2015,11,11,21:00,HellRaisers,Titan,overpass,SL i-League StarSeries XIV,6,16,5,10,1,6,HellRaisers,13,19,0.71 
-2015,11,11,21:00,HellRaisers,Titan,dust2,SL i-League StarSeries XIV,11,16,6,9,5,7,HellRaisers,9,18,0.57 
-2015,11,11,18:15,HellRaisers,GreyFace,dust2,SL i-League StarSeries XIV,16,2,14,1,2,1,HellRaisers,10,8,1.01 
-2015,11,11,18:15,GreyFace,HellRaisers,overpass,SL i-League StarSeries XIV,12,16,6,9,6,7,HellRaisers,24,20,1.28 
-2015,11,10,19:00,HellRaisers,EnVyUs,cobblestone,ESL ESEA Pro League Season 2,9,16,3,12,6,4,HellRaisers,17,18,0.89 
-2015,11,09,19:10,E-frag.net,HellRaisers,dust2,Global Offensive Champions Lea..,10,16,8,7,2,9,HellRaisers,21,17,1.09 
-2015,11,09,19:10,E-frag.net,HellRaisers,overpass,Global Offensive Champions Lea..,10,16,9,6,1,10,HellRaisers,17,18,0.84 
-2015,11,04,21:00,NiP,HellRaisers,overpass,ESL ESEA Pro League Season 2,12,16,9,6,3,10,HellRaisers,23,17,1.34 
-2015,11,04,20:00,EnVyUs,HellRaisers,inferno,ESL ESEA Pro League Season 2,16,7,13,2,3,5,HellRaisers,16,19,0.98 
-2015,11,03,20:00,TSM,HellRaisers,cache,ESL ESEA Pro League Season 2,16,14,10,5,6,9,HellRaisers,26,20,1.17 
-2015,11,03,19:00,HellRaisers,TSM,inferno,ESL ESEA Pro League Season 2,11,16,5,10,6,6,HellRaisers,20,19,1.01 
-2015,10,27,21:00,HellRaisers,CSGL,overpass,Acer Predator Masters powered ..,12,16,7,8,5,8,HellRaisers,15,20,0.83 
-2015,10,27,21:00,HellRaisers,CSGL,cache,Acer Predator Masters powered ..,16,9,9,6,7,3,HellRaisers,20,15,1.30 
-2015,10,25,19:00,HellRaisers,NatusVincere,train,ESL ESEA Pro League Season 2,8,16,4,11,4,5,HellRaisers,12,20,0.63 
-2015,10,25,18:00,PENTA,HellRaisers,dust2,ESL ESEA Pro League Season 2,16,8,13,2,3,6,HellRaisers,9,17,0.58 
-2015,10,25,17:00,Titan,HellRaisers,cache,ESL ESEA Pro League Season 2,5,16,4,11,1,5,HellRaisers,15,10,1.11 
-2015,10,22,22:15,LDLCWhite,HellRaisers,inferno,Acer Predator Masters powered ..,13,16,6,9,7,7,HellRaisers,19,17,0.95 
-2015,10,22,22:15,HellRaisers,LDLCWhite,cobblestone,Acer Predator Masters powered ..,16,11,10,5,6,6,HellRaisers,17,19,0.92 
-2015,10,21,23:00,fnatic,HellRaisers,cobblestone,FACEIT League 2015 Stage 3,16,13,5,10,11,3,HellRaisers,22,22,1.03 
-2015,10,20,22:00,HellRaisers,G2,cache,FACEIT League 2015 Stage 3,10,16,5,10,5,6,HellRaisers,14,21,0.70 
-2015,10,20,21:00,fnatic,HellRaisers,mirage,ESL ESEA Pro League Season 2,16,8,11,4,5,4,HellRaisers,10,19,0.54 
-2015,10,20,20:00,HellRaisers,Virtus.pro,overpass,ESL ESEA Pro League Season 2,11,16,8,7,3,9,HellRaisers,12,20,0.69 
-2015,10,18,18:00,HellRaisers,TSM,cache,Acer Predator Masters powered ..,16,8,12,3,4,5,HellRaisers,12,13,0.84 
-2015,10,18,18:00,HellRaisers,TSM,mirage,Acer Predator Masters powered ..,6,16,5,10,1,6,HellRaisers,9,18,0.57 
-2015,10,18,17:00,PENTA,HellRaisers,overpass,ESL ESEA Pro League Season 2,3,16,3,12,0,4,HellRaisers,18,10,1.64 
-2015,10,15,18:00,NiP,HellRaisers,inferno,Fragbite Masters Season 5,16,4,11,4,5,0,HellRaisers,9,16,0.60 
-2015,10,15,18:00,NiP,HellRaisers,overpass,Fragbite Masters Season 5,16,13,8,7,8,6,HellRaisers,14,22,0.66 
-2015,10,14,20:00,HellRaisers,fnatic,cache,FACEIT League 2015 Stage 3,16,14,3,12,13,2,HellRaisers,24,20,1.13 
-2015,10,14,19:00,HellRaisers,EnVyUs,cobblestone,FACEIT League 2015 Stage 3,16,14,7,8,9,6,HellRaisers,20,21,0.92 
-2015,10,13,23:00,HellRaisers,mousesports,mirage,CEVO Professional Season 8,14,16,9,6,5,10,HellRaisers,13,18,0.75 
-2015,10,13,23:00,mousesports,HellRaisers,cobblestone,CEVO Professional Season 8,14,16,11,4,3,12,HellRaisers,16,25,0.68 
-2015,10,13,18:00,HellRaisers,Orgless,mirage,Fragbite Masters Season 5,16,14,10,5,6,9,HellRaisers,18,19,0.92 
-2015,10,13,18:00,HellRaisers,Orgless,dust2,Fragbite Masters Season 5,5,16,4,11,1,5,HellRaisers,8,16,0.57 
-2015,10,13,18:00,Orgless,HellRaisers,cobblestone,Fragbite Masters Season 5,13,16,8,7,5,9,HellRaisers,13,18,0.72 
-2015,10,12,18:00,HellRaisers,DenDD,mirage,Acer Predator Masters powered ..,14,16,9,6,5,10,HellRaisers,18,20,0.85 
-2015,10,12,18:00,DenDD,HellRaisers,cobblestone,Acer Predator Masters powered ..,12,16,9,6,3,10,HellRaisers,21,19,1.03 
-2015,10,08,21:00,KILLERFISH,HellRaisers,cache,Acer Predator Masters powered ..,12,16,3,12,9,4,HellRaisers,16,17,0.88 
-2015,10,08,21:00,KILLERFISH,HellRaisers,cobblestone,Acer Predator Masters powered ..,16,9,10,5,6,4,HellRaisers,20,18,1.06 
-2015,10,07,21:00,HellRaisers,dignitas,train,ESL ESEA Pro League Season 2,12,16,10,5,2,11,HellRaisers,21,21,0.98 
-2015,10,07,18:00,G2,HellRaisers,dust2,CEVO Professional Season 8,12,16,6,9,6,7,HellRaisers,16,16,0.99 
-2015,10,07,18:00,HellRaisers,G2,overpass,CEVO Professional Season 8,16,19,8,7,7,8,HellRaisers,23,23,0.99 
-2015,10,06,23:15,NiP,HellRaisers,cobblestone,FACEIT League 2015 Stage 3,2,16,2,13,0,3,HellRaisers,11,8,1.06 
-2015,10,06,20:30,HellRaisers,FlipSid3,cobblestone,CEVO Professional Season 8,16,7,10,5,6,2,HellRaisers,9,15,0.64 
-2015,10,06,20:30,FlipSid3,HellRaisers,cache,CEVO Professional Season 8,13,16,4,11,9,5,HellRaisers,23,19,1.10 
-2015,10,06,19:00,TSM,HellRaisers,overpass,FACEIT League 2015 Stage 3,16,5,10,5,6,0,HellRaisers,13,17,0.81 
-2015,10,05,18:15,HellRaisers,PENTA,cache,Global Offensive Champions Lea..,16,9,12,3,4,6,HellRaisers,21,13,1.44 
-2015,10,05,18:15,HellRaisers,PENTA,dust2,Global Offensive Champions Lea..,16,6,14,1,2,5,HellRaisers,24,9,1.71 
-2015,10,05,18:15,HellRaisers,PENTA,mirage,Global Offensive Champions Lea..,14,16,6,9,8,7,HellRaisers,17,21,0.91 
-2015,10,04,18:00,HellRaisers,E-frag.net,overpass,CEVO Professional Season 8,16,11,8,7,8,4,HellRaisers,24,19,1.24 
-2015,10,04,18:00,E-frag.net,HellRaisers,dust2,CEVO Professional Season 8,16,14,4,11,12,3,HellRaisers,18,19,0.88 
-2015,10,01,20:15,Poland,Slovakia,cobblestone,World Championships 2015 Europ..,16,6,10,5,6,1,Slovakia,9,17,0.55 
-2015,10,01,20:15,Poland,Slovakia,mirage,World Championships 2015 Europ..,9,16,7,8,2,8,Slovakia,16,14,0.94 
-2015,10,01,20:15,Slovakia,Poland,cache,World Championships 2015 Europ..,14,16,6,9,8,7,Slovakia,15,21,0.74 
-2015,09,30,21:15,HellRaisers,EnVyUs,cobblestone,FACEIT League 2015 Stage 3,12,16,7,8,5,8,HellRaisers,12,21,0.67 
-2015,09,29,22:15,Russia,Slovakia,mirage,World Championships 2015 Europ..,5,16,4,11,1,5,Slovakia,14,13,0.98 
-2015,09,29,19:00,Slovakia,UnitedKingdom,inferno,World Championships 2015 Europ..,13,16,6,9,7,7,Slovakia,17,20,0.86 
-2015,09,28,19:00,Slovakia,Turkey,cobblestone,World Championships 2015 Europ..,16,2,13,2,3,0,Slovakia,15,8,1.50 
-2015,09,28,18:00,Finland,Slovakia,mirage,World Championships 2015 Europ..,6,16,6,9,0,7,Slovakia,15,10,1.12 
-2015,09,17,21:15,Fraternitas,Vexed,mirage,99Damage Masters #3,13,16,10,5,3,11,Fraternitas,28,22,1.38 
-2015,09,17,21:15,Fraternitas,Vexed,dust2,99Damage Masters #3,12,16,5,10,7,6,Fraternitas,17,23,0.78 
-2015,09,17,21:15,Fraternitas,Vexed,cobblestone,99Damage Masters #3,16,10,9,6,7,4,Fraternitas,21,16,1.32 
-2015,09,17,18:00,Fraternitas,LDLCWhite,train,99Damage Masters #3,16,3,13,2,3,1,Fraternitas,17,8,1.43 
-2015,09,17,18:00,Fraternitas,LDLCWhite,dust2,99Damage Masters #3,16,11,8,7,8,4,Fraternitas,22,17,1.20 
-2015,09,17,18:00,Fraternitas,LDLCWhite,cache,99Damage Masters #3,11,16,7,8,4,8,Fraternitas,13,21,0.65 
-2015,09,17,17:00,Slovakia,Germany,dust2,World Championships 2015 Europ..,9,16,3,12,6,4,Slovakia,10,17,0.71 
-2015,09,05,19:00,Torpedo,Fraternitas,cache,DreamHack Open Cluj-Napoca 201..,16,14,12,3,4,11,Fraternitas,23,21,1.12 
-2015,08,30,20:20,Fraternitas,E-frag.net,dust2,99Damage Arena #13,12,16,6,9,6,7,Fraternitas,22,21,1.03 
-2015,08,30,20:20,Fraternitas,E-frag.net,mirage,99Damage Arena #13,9,16,6,9,3,7,Fraternitas,13,16,0.80 
-2015,08,30,20:20,Fraternitas,E-frag.net,cache,99Damage Arena #13,16,9,13,2,3,7,Fraternitas,15,17,0.90 
-2015,08,12,20:00,PENTA,Fraternitas,inferno,99Damage Arena #12,9,16,6,9,3,7,Fraternitas,15,16,0.86 
-2015,08,12,20:00,Fraternitas,PENTA,cache,99Damage Arena #12,16,11,9,6,7,5,Fraternitas,19,17,1.00 
-2015,06,24,20:15,Titan,NatusVincere,overpass,CEVO Professional Season 7,25,23,5,10,10,5,Natus Vincere,35,31,1.08 
-2015,06,04,21:00,Fraternitas,ESC,cobblestone,D!ngIT $2000 Weekly Cup #3,16,13,4,11,12,2,Fraternitas,20,19,0.99 
-2015,06,04,21:00,ESC,Fraternitas,mirage,D!ngIT $2000 Weekly Cup #3,14,16,7,8,7,8,Fraternitas,20,18,0.96 
-2015,06,04,21:00,ESC,Fraternitas,inferno,D!ngIT $2000 Weekly Cup #3,16,14,9,6,7,8,Fraternitas,11,20,0.61 
-2015,06,02,19:00,mousesports,Fraternitas,cache,99Damage Arena #8,16,11,13,2,3,9,Fraternitas,16,18,0.83 
-2015,06,02,19:00,Fraternitas,mousesports,cobblestone,99Damage Arena #8,23,25,9,6,6,9,Fraternitas,28,31,0.89 
-2015,06,02,19:00,mousesports,Fraternitas,dust2,99Damage Arena #8,17,19,10,5,5,10,Fraternitas,20,30,0.68 
-2015,05,28,21:00,HellRaisers,Fraternitas,train,Fragbite Masters Season 4,16,1,14,1,2,0,Fraternitas,10,16,0.57 
-2015,05,28,21:00,HellRaisers,Fraternitas,cache,Fragbite Masters Season 4,16,8,11,4,5,4,Fraternitas,9,21,0.46 
-2015,05,28,21:00,Fraternitas,HellRaisers,mirage,Fragbite Masters Season 4,16,8,8,7,8,1,Fraternitas,22,13,1.35 
-2015,05,28,18:00,Fraternitas,ESC,mirage,D!ngIT $2000 Weekly Cup #2,19,16,9,6,6,9,Fraternitas,27,28,1.04 
-2015,05,28,18:00,Fraternitas,ESC,cobblestone,D!ngIT $2000 Weekly Cup #2,16,9,11,4,5,5,Fraternitas,19,18,0.98 
-2015,05,28,17:00,dignitas,Fraternitas,inferno,Fragbite Masters Season 4,12,16,5,10,7,6,Fraternitas,23,15,1.21 
-2015,05,28,17:00,Fraternitas,dignitas,cache,Fragbite Masters Season 4,10,16,8,7,2,9,Fraternitas,9,21,0.47 
-2015,05,28,17:00,Fraternitas,dignitas,cobblestone,Fragbite Masters Season 4,22,18,10,5,5,10,Fraternitas,32,33,1.00 
-2015,05,27,18:00,ISKOLD,Fraternitas,mirage,99Damage Arena #8,10,16,7,8,3,8,Fraternitas,13,18,0.74 
-2015,05,27,18:00,Fraternitas,ISKOLD,inferno,99Damage Arena #8,16,7,13,2,3,5,Fraternitas,17,13,1.10 
-2015,05,26,20:45,Fraternitas,LDLCWhite,train,99Damage Arena #8,16,9,14,1,2,8,Fraternitas,16,15,1.07 
-2015,05,26,20:45,LDLCWhite,Fraternitas,inferno,99Damage Arena #8,10,16,6,9,4,7,Fraternitas,17,16,0.97 
-2015,05,26,20:45,Fraternitas,LDLCWhite,dust2,99Damage Arena #8,5,16,5,10,0,6,Fraternitas,16,18,0.92 
-2015,05,26,18:00,PlayingDucks,Fraternitas,mirage,99Damage Arena #8,8,16,8,7,0,9,Fraternitas,26,10,1.77 
-2015,05,26,18:00,Fraternitas,PlayingDucks,dust2,99Damage Arena #8,12,16,7,8,5,8,Fraternitas,20,18,1.03 
-2015,05,26,18:00,Fraternitas,PlayingDucks,inferno,99Damage Arena #8,16,7,13,2,3,5,Fraternitas,21,13,1.37 
-2015,05,25,22:00,Fraternitas,LGB,mirage,Fragbite Masters Season 4,16,1,14,1,2,0,Fraternitas,16,8,1.42 
-2015,05,19,21:30,Fraternitas,EnVyUs,cache,Fragbite Masters Season 4,11,16,7,8,4,8,Fraternitas,18,22,0.82 
-2015,05,19,21:30,Fraternitas,EnVyUs,dust2,Fragbite Masters Season 4,16,14,9,6,7,8,Fraternitas,26,20,1.23 
-2015,05,19,21:30,Fraternitas,EnVyUs,inferno,Fragbite Masters Season 4,5,16,2,13,3,3,Fraternitas,15,17,0.86 
-2015,05,05,18:00,Fraternitas,FlipSid3,mirage,Fragbite Masters Season 4,16,5,10,5,6,0,Fraternitas,19,13,1.15 
-2015,05,05,18:00,FlipSid3,Fraternitas,cache,Fragbite Masters Season 4,3,16,3,12,0,4,Fraternitas,8,10,0.80 
-2015,04,15,21:00,Fraternitas,Reason,mirage,Fragbite Masters Season 4 Qual..,16,12,12,3,4,9,Fraternitas,26,18,1.34 
-2015,04,15,21:00,Reason,Fraternitas,inferno,Fragbite Masters Season 4 Qual..,5,16,4,11,1,5,Fraternitas,21,9,1.55 
-2015,04,03,22:30,Fraternitas,malefiQ,inferno,Copenhagen Games 2015,6,16,5,10,1,6,Fraternitas,7,17,0.53 
-2015,04,03,19:00,FlipSid3,Fraternitas,inferno,Copenhagen Games 2015,16,10,5,10,11,0,Fraternitas,19,20,1.02 
-2015,04,03,19:00,Fraternitas,FlipSid3,nuke,Copenhagen Games 2015,14,16,8,7,6,9,Fraternitas,27,16,1.42 
-2015,04,03,15:30,Temp.no,Fraternitas,mirage,Copenhagen Games 2015,14,16,6,9,8,7,Fraternitas,24,17,1.23 
-2015,04,03,15:30,Fraternitas,Temp.no,inferno,Copenhagen Games 2015,16,7,10,5,6,2,Fraternitas,24,13,1.73 
-2015,04,03,12:00,CPLAY,Fraternitas,nuke,Copenhagen Games 2015,16,3,12,3,4,0,Fraternitas,8,15,0.55 
-2015,04,03,12:00,Fraternitas,CPLAY,inferno,Copenhagen Games 2015,16,3,13,2,3,1,Fraternitas,36,11,2.93 
-2015,04,03,12:00,Fraternitas,CPLAY,mirage,Copenhagen Games 2015,4,16,3,12,1,4,Fraternitas,19,12,1.24 
-2014,11,06,17:00,Slovakia,Finland,overpass,European Championship 2014,12,16,11,4,1,12,Slovakia,25,19,1.30 
-2014,11,06,17:00,Finland,Slovakia,dust2,European Championship 2014,16,4,11,4,5,0,Slovakia,7,17,0.53 
-2014,11,03,22:30,Bosnia&Herzegovina,Slovakia,dust2,European Championship 2014,13,16,7,8,6,8,Slovakia,31,18,1.56 
-2014,11,03,22:30,Slovakia,Bosnia&Herzegovina,mirage,European Championship 2014,16,7,10,5,6,2,Slovakia,25,10,1.62 
-2014,10,17,20:00,Denmark,Slovakia,dust2,European Championship 2014,15,15,6,9,9,6,Slovakia,27,23,1.19 
-2014,10,17,19:00,Slovakia,Russia,inferno,European Championship 2014,4,16,3,12,1,4,Slovakia,5,16,0.40 
-2014,10,04,10:00,CyborgFactory,Fraternitas,mirage,MČR 2014,5,16,4,11,1,5,Fraternitas,24,14,1.61 
-2014,10,04,10:00,Fraternitas,CyborgFactory,dust2,MČR 2014,16,2,13,2,3,0,Fraternitas,17,5,1.73 
-2014,10,04,10:00,Fraternitas,CyborgFactory,season,MČR 2014,16,8,9,6,7,2,Fraternitas,31,10,2.04 
-2014,09,09,21:00,Slovakia,Macedonia,mirage,European Championship 2014,16,1,14,1,2,0,Slovakia,15,8,1.44 
-2014,09,04,19:00,Slovakia,Latvia,dust2,European Championship 2014,16,10,9,6,7,4,Slovakia,19,18,1.06 
-2014,08,22,17:00,Bulgaria,Slovakia,dust2,European Championship 2014 Qua..,17,19,10,5,5,10,Slovakia,24,26,0.94 
-2014,08,22,17:00,Bulgaria,Slovakia,inferno,European Championship 2014 Qua..,16,13,10,5,6,8,Slovakia,27,23,1.29 
-2014,08,22,17:00,Bulgaria,Slovakia,mirage,European Championship 2014 Qua..,7,16,6,9,1,7,Slovakia,22,12,1.37 
+2016,08,14,15:00,59,50,0,477,10,16,4,11,6,5,59,21,17,1.20 
+2016,08,11,21:10,49,59,7,471,11,16,7,8,4,8,59,17,19,0.88 
+2016,08,11,21:10,59,49,5,471,16,4,11,4,5,0,59,27,10,2.00 
+2016,08,07,21:30,59,152,2,471,16,8,12,3,4,5,59,30,15,1.76 
+2016,08,07,21:30,59,152,5,471,19,15,6,9,9,6,59,34,26,1.28 
+2016,08,04,21:00,154,59,2,471,4,16,4,11,0,5,59,19,7,1.56 
+2016,08,04,21:00,154,59,0,471,5,16,3,12,2,4,59,19,11,1.31 
+2016,08,04,18:00,42,59,5,471,11,16,5,10,6,6,59,18,19,1.01 
+2016,08,04,18:00,59,42,0,471,16,13,10,5,6,8,59,20,20,1.01 
+2016,06,19,15:00,52,59,0,546,16,13,12,3,4,10,59,23,19,1.18 
+2016,06,19,15:00,52,59,5,546,16,10,11,4,5,6,59,18,17,1.02 
+2016,06,18,19:30,59,9,14,546,7,16,3,12,4,4,59,12,20,0.74 
+2016,06,12,22:00,13,59,4,552,16,9,9,6,7,3,59,11,20,0.55 
+2016,06,12,17:00,59,312,7,552,14,16,10,5,4,11,59,22,22,0.97 
+2016,06,11,15:20,22,59,5,552,10,16,4,11,6,5,59,27,17,1.48 
+2016,06,10,18:00,292,59,1,552,16,8,13,2,3,6,59,15,17,1.05 
+2016,06,09,14:20,59,362,14,552,16,9,9,6,7,3,59,25,15,1.51 
+2016,05,21,13:45,59,215,0,567,13,16,10,5,3,11,59,12,19,0.67 
+2016,05,21,13:45,59,215,4,567,8,16,7,8,1,8,59,12,18,0.69 
+2016,05,20,14:30,59,8,7,567,12,16,11,4,1,12,59,22,21,1.05 
+2016,05,20,14:30,59,8,0,567,6,16,6,9,0,7,59,17,17,1.04 
+2016,05,19,09:00,59,302,4,567,16,5,12,3,4,2,59,23,13,1.56 
+2016,05,19,09:00,59,302,7,567,16,5,13,2,3,3,59,26,14,1.72 
+2016,05,16,19:30,59,22,4,573,7,16,4,11,3,5,59,19,18,1.12 
+2016,05,16,19:30,22,59,0,573,16,8,9,6,7,2,59,11,18,0.61 
+2016,05,16,19:30,22,59,1,573,13,16,9,6,4,10,59,14,20,0.82 
+2016,05,16,15:30,297,59,0,573,5,16,4,11,1,5,59,14,12,1.32 
+2016,05,16,15:30,297,59,7,573,3,16,3,12,0,4,59,18,8,1.54 
+2016,05,16,15:30,59,297,1,573,10,16,8,7,2,9,59,16,20,0.84 
+2016,05,15,18:00,59,132,1,573,16,11,10,5,6,6,59,16,22,0.73 
+2016,05,15,18:00,59,132,0,573,16,3,13,2,3,1,59,19,8,1.67 
+2016,05,15,12:00,59,297,7,573,10,16,5,10,5,6,59,12,22,0.64 
+2016,05,15,12:00,297,59,1,573,16,14,10,5,6,9,59,29,19,1.38 
+2016,05,14,18:30,132,59,1,573,9,16,3,12,6,4,59,17,17,0.92 
+2016,05,14,16:00,59,439,0,573,16,10,7,8,9,2,59,19,16,1.08 
+2016,05,07,17:35,59,196,4,587,16,10,14,1,2,9,59,19,17,1.07 
+2016,05,07,17:35,196,59,6,587,20,22,9,6,6,9,59,32,25,1.19 
+2016,05,07,11:25,59,100,0,587,19,15,9,6,6,9,59,31,19,1.28 
+2016,05,07,11:25,59,100,14,587,11,16,6,9,5,7,59,19,22,0.98 
+2016,05,07,11:25,59,100,7,587,16,9,14,1,2,8,59,17,18,0.91 
+2016,04,30,13:00,302,59,14,590,16,3,13,2,3,1,59,6,18,0.34 
+2016,04,30,13:00,59,302,4,590,14,16,8,7,6,9,59,18,22,0.83 
+2016,04,30,13:00,59,302,1,590,10,16,3,12,7,4,59,12,18,0.70 
+2016,04,29,17:30,59,8,14,590,16,11,7,8,9,3,59,21,16,1.11 
+2016,04,29,17:30,59,8,0,590,16,14,10,5,6,9,59,22,20,1.06 
+2016,04,28,19:00,312,59,4,590,3,16,2,13,1,3,59,16,10,1.33 
+2016,04,28,19:00,59,312,7,590,16,8,10,5,6,3,59,21,13,1.40 
+2016,04,28,19:00,59,312,14,590,8,16,5,10,3,6,59,13,20,0.73 
+2016,04,26,21:00,59,439,14,579,16,14,8,7,8,7,59,18,21,0.86 
+2016,04,26,21:00,439,59,4,579,9,16,3,12,6,4,59,19,16,1.25 
+2016,04,26,18:00,59,49,14,536,6,16,1,14,5,2,59,14,17,0.90 
+2016,04,26,18:00,49,59,1,536,16,12,6,9,10,3,59,17,26,0.86 
+2016,04,24,18:45,59,101,14,573,16,11,10,5,6,6,59,14,17,0.82 
+2016,04,24,18:45,59,101,1,573,16,8,8,7,8,1,59,18,14,1.14 
+2016,04,24,18:45,101,59,0,573,16,11,9,6,7,5,59,10,21,0.53 
+2016,04,24,15:00,59,477,7,573,16,3,12,3,4,0,59,12,8,1.18 
+2016,04,24,15:00,59,477,14,573,16,3,12,3,4,0,59,12,11,0.90 
+2016,04,22,20:30,52,59,7,590,12,16,5,10,7,6,59,18,19,0.90 
+2016,04,22,20:30,59,52,0,590,16,14,12,3,4,11,59,21,22,0.90 
+2016,04,21,21:00,152,59,14,579,3,16,3,12,0,4,59,13,11,1.04 
+2016,04,21,21:00,59,152,1,579,16,5,11,4,5,1,59,31,10,2.19 
+2016,04,21,18:15,472,59,4,590,9,16,4,11,5,5,59,16,15,0.95 
+2016,04,21,18:15,472,59,7,590,14,16,12,3,2,13,59,21,19,1.04 
+2016,04,20,18:15,484,59,6,590,10,16,7,8,3,8,59,8,14,0.68 
+2016,04,20,18:15,59,484,7,590,16,11,8,7,8,4,59,14,19,0.85 
+2016,04,13,18:15,249,59,4,590,6,16,4,11,2,5,59,17,12,1.15 
+2016,04,13,18:15,59,249,7,590,16,10,9,6,7,4,59,16,18,0.81 
+2016,04,10,18:00,364,59,4,611,3,16,2,13,1,3,59,16,9,1.44 
+2016,04,10,18:00,59,364,0,611,16,8,8,7,8,1,59,16,14,1.02 
+2016,04,08,18:00,214,59,2,614,16,9,12,3,4,6,59,9,21,0.48 
+2016,04,08,18:00,214,59,1,614,16,8,10,5,6,3,59,10,19,0.57 
+2016,04,08,18:00,59,214,6,614,16,11,10,5,6,6,59,15,17,0.85 
+2016,04,08,18:00,214,59,7,614,19,17,4,11,11,4,59,22,29,0.78 
+2016,04,08,18:00,59,214,14,614,16,14,13,2,3,12,59,20,20,1.04 
+2016,04,07,20:15,59,152,1,614,9,16,5,10,4,6,59,14,20,0.72 
+2016,04,07,20:15,152,59,7,614,16,14,4,11,12,3,59,23,19,1.15 
+2016,04,07,18:00,59,302,14,614,16,12,9,6,7,6,59,27,15,1.62 
+2016,04,07,18:00,59,302,4,614,16,14,7,8,9,6,59,22,18,1.09 
+2016,04,06,22:40,59,22,6,590,9,16,8,7,1,9,59,11,17,0.72 
+2016,04,06,22:40,22,59,7,590,19,17,4,11,11,4,59,16,28,0.63 
+2016,04,06,20:30,439,59,1,590,6,16,5,10,1,6,59,15,14,1.10 
+2016,04,06,20:30,59,439,0,590,16,5,10,5,6,0,59,24,14,1.56 
+2016,04,06,18:00,59,101,6,614,16,13,4,11,12,2,59,27,14,1.44 
+2016,04,06,18:00,101,59,14,614,9,16,4,11,5,5,59,21,17,1.10 
+2016,04,04,18:00,59,177,1,536,11,16,5,10,6,6,59,17,18,0.99 
+2016,04,04,18:00,177,59,0,536,16,6,12,3,4,3,59,13,19,0.66 
+2016,03,26,21:00,472,59,1,619,5,16,4,11,1,5,59,28,10,2.04 
+2016,03,26,21:00,472,59,6,619,23,25,7,8,8,7,59,40,30,1.17 
+2016,03,26,13:00,517,59,7,619,10,16,7,8,3,8,59,19,16,1.08 
+2016,03,26,13:00,59,517,1,619,16,12,8,7,8,5,59,24,21,1.21 
+2016,03,25,18:30,59,184,14,619,16,8,9,6,7,2,59,22,15,1.29 
+2016,03,25,18:30,59,184,0,619,17,19,8,7,7,8,59,29,24,1.32 
+2016,03,25,18:30,59,184,1,619,16,5,11,4,5,1,59,20,12,1.59 
+2016,03,25,13:00,260,59,7,619,11,16,8,7,3,9,59,19,18,1.03 
+2016,03,25,11:50,29,59,7,619,6,16,6,9,0,7,59,18,14,1.19 
+2016,03,22,21:30,59,507,6,579,16,9,14,1,2,8,59,13,13,1.01 
+2016,03,22,21:30,59,507,14,579,16,5,12,3,4,2,59,16,11,1.25 
+2016,03,22,21:30,59,507,4,579,13,16,6,9,7,7,59,11,21,0.60 
+2016,03,22,19:00,49,59,14,579,11,16,4,11,7,5,59,10,19,0.62 
+2016,03,22,19:00,59,49,4,579,16,10,11,4,5,6,59,15,14,1.04 
+2016,03,21,19:00,392,59,4,579,13,16,8,7,5,9,59,18,17,1.00 
+2016,03,20,15:45,22,59,0,625,16,4,11,4,5,0,59,9,19,0.59 
+2016,03,20,15:45,59,22,4,625,5,16,4,11,1,5,59,9,17,0.54 
+2016,03,20,15:45,59,22,14,625,16,7,9,6,7,1,59,19,12,1.23 
+2016,03,20,13:00,152,59,7,625,5,16,3,12,2,4,59,15,14,1.09 
+2016,03,20,13:00,59,152,1,625,16,5,10,5,6,0,59,28,9,1.99 
+2016,03,19,18:45,508,59,6,625,7,16,3,12,4,4,59,16,10,1.37 
+2016,03,17,19:00,49,59,4,536,13,16,6,9,7,7,59,20,21,0.88 
+2016,03,17,19:00,49,59,14,536,12,16,8,7,4,9,59,24,19,1.19 
+2016,03,15,23:30,59,29,14,593,7,16,4,11,3,5,59,12,18,0.69 
+2016,03,15,22:15,196,59,0,593,16,5,11,4,5,1,59,8,19,0.45 
+2016,03,15,19:00,29,59,6,593,11,16,7,8,4,8,59,17,17,0.94 
+2016,03,07,20:15,364,59,7,590,10,16,4,11,6,5,59,25,15,1.37 
+2016,03,07,20:15,59,364,0,590,16,6,10,5,6,1,59,20,8,1.44 
+2016,03,07,20:15,364,59,4,590,16,14,3,12,13,2,59,17,22,0.79 
+2016,02,28,00:10,303,59,1,639,16,14,6,9,10,5,59,18,20,0.95 
+2016,02,28,00:10,303,59,4,639,7,16,6,9,1,7,59,32,13,2.12 
+2016,02,28,00:10,59,303,7,639,4,16,4,11,0,5,59,5,19,0.28 
+2016,02,26,23:30,59,214,0,639,15,19,9,6,6,9,59,29,21,1.21 
+2016,02,26,17:00,59,303,1,639,22,20,8,7,7,8,59,39,30,1.29 
+2016,02,13,15:30,49,59,7,654,21,17,8,7,7,8,59,25,31,0.81 
+2016,02,13,15:30,49,59,4,654,8,16,6,9,2,7,59,18,18,1.02 
+2016,02,13,15:30,49,59,14,654,16,2,14,1,2,1,59,8,17,0.48 
+2016,02,13,01:55,13,59,4,654,16,13,7,8,9,5,59,16,17,0.86 
+2016,02,13,01:55,59,13,14,654,6,16,6,9,0,7,59,9,20,0.50 
+2016,02,11,23:30,642,59,14,654,14,16,7,8,7,8,59,29,19,1.40 
+2016,02,11,23:30,59,642,6,654,16,14,8,7,8,7,59,21,15,1.13 
+2016,01,31,21:30,59,472,14,664,16,6,10,5,6,1,59,18,13,1.28 
+2016,01,31,21:30,472,59,6,664,16,6,9,6,7,0,59,9,17,0.61 
+2016,01,31,21:30,59,472,1,664,16,11,9,6,7,5,59,34,14,2.00 
+2016,01,31,12:00,59,196,1,664,16,10,11,4,5,6,59,17,13,1.13 
+2016,01,31,12:00,196,59,6,664,16,11,6,9,10,2,59,15,18,0.84 
+2016,01,31,12:00,59,196,0,664,21,15,12,3,3,12,59,20,26,0.76 
+2016,01,30,16:45,696,59,4,664,14,16,8,7,6,9,59,28,23,1.20 
+2016,01,30,16:45,696,59,6,664,14,16,6,9,8,7,59,16,22,0.76 
+2016,01,30,16:45,59,696,0,664,9,16,9,6,0,10,59,13,18,0.76 
+2016,01,30,12:00,59,698,1,664,16,14,7,8,9,6,59,15,15,0.94 
+2016,01,10,18:15,59,22,4,679,14,16,9,6,5,10,59,14,23,0.66 
+2016,01,10,18:15,59,22,14,679,10,16,9,6,1,10,59,21,19,1.05 
+2016,01,10,15:15,59,472,0,679,16,7,9,6,7,1,59,24,14,1.54 
+2016,01,10,15:15,59,472,14,679,16,14,4,11,12,3,59,22,13,1.23 
+2016,01,10,15:15,59,472,1,679,9,16,6,9,3,7,59,23,16,1.36 
+2016,01,10,12:20,49,59,4,679,7,16,6,9,1,7,59,19,14,1.16 
+2016,01,10,12:20,59,49,1,679,16,10,12,3,4,7,59,15,16,0.89 
+2016,01,10,12:20,49,59,14,679,16,7,10,5,6,2,59,10,19,0.58 
+2016,01,09,18:15,715,59,1,664,12,16,8,7,4,9,59,17,18,0.90 
+2016,01,09,18:15,59,715,7,664,16,11,8,7,8,4,59,19,18,1.05 
+2016,01,06,21:30,686,59,4,664,16,6,10,5,6,1,59,10,18,0.63 
+2016,01,06,21:30,59,686,0,664,16,4,11,4,5,0,59,16,6,1.47 
+2016,01,06,21:30,686,59,1,664,16,12,9,6,7,6,59,17,22,0.74 
+2015,12,17,16:00,722,59,6,652,16,8,12,3,4,5,59,14,19,0.78 
+2015,12,17,16:00,59,722,7,652,4,16,3,12,1,4,59,7,16,0.48 
+2015,12,16,21:00,13,59,4,699,16,11,6,9,10,2,59,21,19,1.08 
+2015,12,16,21:00,59,13,0,699,8,16,7,8,1,8,59,10,15,0.65 
+2015,12,15,21:15,633,59,14,657,16,12,5,10,11,2,59,20,19,1.09 
+2015,12,15,21:15,633,59,14,657,16,12,5,10,11,2,59,20,19,1.09 
+2015,12,15,21:15,633,59,0,657,16,6,10,5,6,1,59,11,17,0.66 
+2015,12,15,21:15,59,633,4,657,16,7,13,2,3,5,59,18,11,1.28 
+2015,12,14,19:10,22,59,14,593,16,5,13,2,3,3,59,9,18,0.61 
+2015,12,14,19:10,59,22,6,593,11,16,10,5,1,11,59,20,17,1.16 
+2015,12,14,19:10,22,59,4,593,16,21,11,4,4,11,59,24,24,1.00 
+2015,12,14,19:10,59,22,7,593,16,14,7,8,9,6,59,20,22,0.95 
+2015,12,14,19:10,22,59,0,593,16,13,8,7,8,6,59,15,19,0.83 
+2015,12,13,21:00,59,214,6,654,14,16,11,4,3,12,59,12,24,0.63 
+2015,12,13,21:00,59,214,0,654,21,18,3,12,12,3,59,20,27,0.71 
+2015,12,10,21:00,59,777,6,657,16,5,10,5,6,0,59,18,5,1.50 
+2015,12,10,21:00,59,777,0,657,16,10,7,8,9,2,59,16,13,1.12 
+2015,12,10,19:00,705,59,4,657,4,16,3,12,1,4,59,11,9,1.05 
+2015,12,10,19:00,705,59,0,657,10,16,6,9,4,7,59,21,15,1.38 
+2015,12,08,21:00,59,22,0,676,4,16,2,13,2,3,59,9,17,0.53 
+2015,12,08,21:00,59,22,4,676,9,16,8,7,1,9,59,11,21,0.66 
+2015,12,07,20:30,59,8,7,593,16,10,8,7,8,3,59,12,14,0.85 
+2015,12,07,20:30,8,59,0,593,17,21,9,6,6,9,59,21,25,0.82 
+2015,12,07,20:30,8,59,4,593,16,14,8,7,8,7,59,23,20,1.14 
+2015,12,03,19:00,776,59,6,720,16,13,10,5,6,8,59,20,18,1.21 
+2015,12,03,19:00,59,776,0,720,3,16,3,12,0,4,59,4,16,0.30 
+2015,12,03,19:00,59,776,4,720,16,2,13,2,3,0,59,20,8,1.74 
+2015,11,26,19:00,825,59,1,731,16,19,8,7,7,8,59,23,22,1.03 
+2015,11,26,19:00,825,59,6,731,12,16,7,8,5,8,59,14,19,0.74 
+2015,11,19,22:00,59,302,14,654,16,9,7,8,9,1,59,18,18,0.92 
+2015,11,19,22:00,302,59,4,654,7,16,5,10,2,6,59,16,16,1.01 
+2015,11,17,21:00,59,214,2,740,16,13,9,6,7,7,59,29,19,1.32 
+2015,11,17,20:00,215,59,14,740,16,8,7,8,9,0,59,21,18,1.15 
+2015,11,17,17:00,59,270,1,696,4,16,4,11,0,5,59,10,17,0.63 
+2015,11,17,17:00,270,59,4,696,22,19,4,11,11,4,59,25,30,1.00 
+2015,11,15,23:00,8,59,7,749,16,7,9,6,7,1,59,20,21,1.10 
+2015,11,15,22:00,59,8,4,749,5,16,5,10,0,6,59,15,16,1.01 
+2015,11,14,21:00,59,711,4,749,16,3,12,3,4,0,59,15,9,1.30 
+2015,11,12,19:00,711,59,6,740,16,7,10,5,6,2,59,10,18,0.64 
+2015,11,11,21:00,59,711,4,696,6,16,5,10,1,6,59,13,19,0.71 
+2015,11,11,21:00,59,711,1,696,11,16,6,9,5,7,59,9,18,0.57 
+2015,11,11,18:15,59,856,1,696,16,2,14,1,2,1,59,10,8,1.01 
+2015,11,11,18:15,856,59,4,696,12,16,6,9,6,7,59,24,20,1.28 
+2015,11,10,19:00,59,258,14,740,9,16,3,12,6,4,59,17,18,0.89 
+2015,11,09,19:10,472,59,1,593,10,16,8,7,2,9,59,21,17,1.09 
+2015,11,09,19:10,472,59,4,593,10,16,9,6,1,10,59,17,18,0.84 
+2015,11,04,21:00,250,59,4,740,12,16,9,6,3,10,59,23,17,1.34 
+2015,11,04,20:00,258,59,6,740,16,7,13,2,3,5,59,16,19,0.98 
+2015,11,03,20:00,270,59,7,740,16,14,10,5,6,9,59,26,20,1.17 
+2015,11,03,19:00,59,270,6,740,11,16,5,10,6,6,59,20,19,1.01 
+2015,10,27,21:00,59,439,4,654,12,16,7,8,5,8,59,15,20,0.83 
+2015,10,27,21:00,59,439,7,654,16,9,9,6,7,3,59,20,15,1.30 
+2015,10,25,19:00,59,215,2,740,8,16,4,11,4,5,59,12,20,0.63 
+2015,10,25,18:00,196,59,1,740,16,8,13,2,3,6,59,9,17,0.58 
+2015,10,25,17:00,711,59,7,740,5,16,4,11,1,5,59,15,10,1.11 
+2015,10,22,22:15,647,59,6,654,13,16,6,9,7,7,59,19,17,0.95 
+2015,10,22,22:15,59,647,14,654,16,11,10,5,6,6,59,17,19,0.92 
+2015,10,21,23:00,210,59,14,749,16,13,5,10,11,3,59,22,22,1.03 
+2015,10,20,22:00,59,292,7,749,10,16,5,10,5,6,59,14,21,0.70 
+2015,10,20,21:00,210,59,0,740,16,8,11,4,5,4,59,10,19,0.54 
+2015,10,20,20:00,59,8,4,740,11,16,8,7,3,9,59,12,20,0.69 
+2015,10,18,18:00,59,270,7,654,16,8,12,3,4,5,59,12,13,0.84 
+2015,10,18,18:00,59,270,0,654,6,16,5,10,1,6,59,9,18,0.57 
+2015,10,18,17:00,196,59,4,740,3,16,3,12,0,4,59,18,10,1.64 
+2015,10,15,18:00,250,59,6,721,16,4,11,4,5,0,59,9,16,0.60 
+2015,10,15,18:00,250,59,4,721,16,13,8,7,8,6,59,14,22,0.66 
+2015,10,14,20:00,59,210,7,749,16,14,3,12,13,2,59,24,20,1.13 
+2015,10,14,19:00,59,258,14,749,16,14,7,8,9,6,59,20,21,0.92 
+2015,10,13,23:00,59,214,0,783,14,16,9,6,5,10,59,13,18,0.75 
+2015,10,13,23:00,214,59,14,783,14,16,11,4,3,12,59,16,25,0.68 
+2015,10,13,18:00,59,584,0,721,16,14,10,5,6,9,59,18,19,0.92 
+2015,10,13,18:00,59,584,1,721,5,16,4,11,1,5,59,8,16,0.57 
+2015,10,13,18:00,584,59,14,721,13,16,8,7,5,9,59,13,18,0.72 
+2015,10,12,18:00,59,147,0,654,14,16,9,6,5,10,59,18,20,0.85 
+2015,10,12,18:00,147,59,14,654,12,16,9,6,3,10,59,21,19,1.03 
+2015,10,08,21:00,383,59,7,654,12,16,3,12,9,4,59,16,17,0.88 
+2015,10,08,21:00,383,59,14,654,16,9,10,5,6,4,59,20,18,1.06 
+2015,10,07,21:00,59,22,2,740,12,16,10,5,2,11,59,21,21,0.98 
+2015,10,07,18:00,292,59,1,783,12,16,6,9,6,7,59,16,16,0.99 
+2015,10,07,18:00,59,292,4,783,16,19,8,7,7,8,59,23,23,0.99 
+2015,10,06,23:15,250,59,14,749,2,16,2,13,0,3,59,11,8,1.06 
+2015,10,06,20:30,59,13,14,783,16,7,10,5,6,2,59,9,15,0.64 
+2015,10,06,20:30,13,59,7,783,13,16,4,11,9,5,59,23,19,1.10 
+2015,10,06,19:00,270,59,4,749,16,5,10,5,6,0,59,13,17,0.81 
+2015,10,05,18:15,59,196,7,593,16,9,12,3,4,6,59,21,13,1.44 
+2015,10,05,18:15,59,196,1,593,16,6,14,1,2,5,59,24,9,1.71 
+2015,10,05,18:15,59,196,0,593,14,16,6,9,8,7,59,17,21,0.91 
+2015,10,04,18:00,59,472,4,783,16,11,8,7,8,4,59,24,19,1.24 
+2015,10,04,18:00,472,59,1,783,16,14,4,11,12,3,59,18,19,0.88 
+2015,10,01,20:15,934,954,14,799,16,6,10,5,6,1,954,9,17,0.55 
+2015,10,01,20:15,934,954,0,799,9,16,7,8,2,8,954,16,14,0.94 
+2015,10,01,20:15,954,934,7,799,14,16,6,9,8,7,954,15,21,0.74 
+2015,09,30,21:15,59,258,14,749,12,16,7,8,5,8,59,12,21,0.67 
+2015,09,29,22:15,936,954,0,799,5,16,4,11,1,5,954,14,13,0.98 
+2015,09,29,19:00,954,33,6,799,13,16,6,9,7,7,954,17,20,0.86 
+2015,09,28,19:00,954,145,14,799,16,2,13,2,3,0,954,15,8,1.50 
+2015,09,28,18:00,940,954,0,799,6,16,6,9,0,7,954,15,10,1.12 
+2015,09,17,21:15,840,642,0,784,13,16,10,5,3,11,840,28,22,1.38 
+2015,09,17,21:15,840,642,1,784,12,16,5,10,7,6,840,17,23,0.78 
+2015,09,17,21:15,840,642,14,784,16,10,9,6,7,4,840,21,16,1.32 
+2015,09,17,18:00,840,647,2,784,16,3,13,2,3,1,840,17,8,1.43 
+2015,09,17,18:00,840,647,1,784,16,11,8,7,8,4,840,22,17,1.20 
+2015,09,17,18:00,840,647,7,784,11,16,7,8,4,8,840,13,21,0.65 
+2015,09,17,17:00,954,938,1,799,9,16,3,12,6,4,954,10,17,0.71 
+2015,09,05,19:00,484,840,7,766,16,14,12,3,4,11,840,23,21,1.12 
+2015,08,30,20:20,840,472,1,838,12,16,6,9,6,7,840,22,21,1.03 
+2015,08,30,20:20,840,472,0,838,9,16,6,9,3,7,840,13,16,0.80 
+2015,08,30,20:20,840,472,7,838,16,9,13,2,3,7,840,15,17,0.90 
+2015,08,12,20:00,196,840,6,862,9,16,6,9,3,7,840,15,16,0.86 
+2015,08,12,20:00,840,196,7,862,16,11,9,6,7,5,840,19,17,1.00 
+2015,06,24,20:15,711,215,4,883,25,23,5,10,10,5,215,35,31,1.08 
+2015,06,04,21:00,840,841,14,902,16,13,4,11,12,2,840,20,19,0.99 
+2015,06,04,21:00,841,840,0,902,14,16,7,8,7,8,840,20,18,0.96 
+2015,06,04,21:00,841,840,6,902,16,14,9,6,7,8,840,11,20,0.61 
+2015,06,02,19:00,214,840,7,907,16,11,13,2,3,9,840,16,18,0.83 
+2015,06,02,19:00,840,214,14,907,23,25,9,6,6,9,840,28,31,0.89 
+2015,06,02,19:00,214,840,1,907,17,19,10,5,5,10,840,20,30,0.68 
+2015,05,28,21:00,59,840,2,909,16,1,14,1,2,0,840,10,16,0.57 
+2015,05,28,21:00,59,840,7,909,16,8,11,4,5,4,840,9,21,0.46 
+2015,05,28,21:00,840,59,0,909,16,8,8,7,8,1,840,22,13,1.35 
+2015,05,28,18:00,840,841,0,913,19,16,9,6,6,9,840,27,28,1.04 
+2015,05,28,18:00,840,841,14,913,16,9,11,4,5,5,840,19,18,0.98 
+2015,05,28,17:00,22,840,6,909,12,16,5,10,7,6,840,23,15,1.21 
+2015,05,28,17:00,840,22,7,909,10,16,8,7,2,9,840,9,21,0.47 
+2015,05,28,17:00,840,22,14,909,22,18,10,5,5,10,840,32,33,1.00 
+2015,05,27,18:00,1070,840,0,907,10,16,7,8,3,8,840,13,18,0.74 
+2015,05,27,18:00,840,1070,6,907,16,7,13,2,3,5,840,17,13,1.10 
+2015,05,26,20:45,840,647,2,907,16,9,14,1,2,8,840,16,15,1.07 
+2015,05,26,20:45,647,840,6,907,10,16,6,9,4,7,840,17,16,0.97 
+2015,05,26,20:45,840,647,1,907,5,16,5,10,0,6,840,16,18,0.92 
+2015,05,26,18:00,544,840,0,907,8,16,8,7,0,9,840,26,10,1.77 
+2015,05,26,18:00,840,544,1,907,12,16,7,8,5,8,840,20,18,1.03 
+2015,05,26,18:00,840,544,6,907,16,7,13,2,3,5,840,21,13,1.37 
+2015,05,25,22:00,840,1045,0,909,16,1,14,1,2,0,840,16,8,1.42 
+2015,05,19,21:30,840,258,7,909,11,16,7,8,4,8,840,18,22,0.82 
+2015,05,19,21:30,840,258,1,909,16,14,9,6,7,8,840,26,20,1.23 
+2015,05,19,21:30,840,258,6,909,5,16,2,13,3,3,840,15,17,0.86 
+2015,05,05,18:00,840,13,0,909,16,5,10,5,6,0,840,19,13,1.15 
+2015,05,05,18:00,13,840,7,909,3,16,3,12,0,4,840,8,10,0.80 
+2015,04,15,21:00,840,314,0,936,16,12,12,3,4,9,840,26,18,1.34 
+2015,04,15,21:00,314,840,6,936,5,16,4,11,1,5,840,21,9,1.55 
+2015,04,03,22:30,840,552,6,948,6,16,5,10,1,6,840,7,17,0.53 
+2015,04,03,19:00,13,840,6,948,16,10,5,10,11,0,840,19,20,1.02 
+2015,04,03,19:00,840,13,5,948,14,16,8,7,6,9,840,27,16,1.42 
+2015,04,03,15:30,706,840,0,948,14,16,6,9,8,7,840,24,17,1.23 
+2015,04,03,15:30,840,706,6,948,16,7,10,5,6,2,840,24,13,1.73 
+2015,04,03,12:00,749,840,5,948,16,3,12,3,4,0,840,8,15,0.55 
+2015,04,03,12:00,840,749,6,948,16,3,13,2,3,1,840,36,11,2.93 
+2015,04,03,12:00,840,749,0,948,4,16,3,12,1,4,840,19,12,1.24 
+2014,11,06,17:00,954,940,4,993,12,16,11,4,1,12,954,25,19,1.30 
+2014,11,06,17:00,940,954,1,993,16,4,11,4,5,0,954,7,17,0.53 
+2014,11,03,22:30,74,954,1,993,13,16,7,8,6,8,954,31,18,1.56 
+2014,11,03,22:30,954,74,0,993,16,7,10,5,6,2,954,25,10,1.62 
+2014,10,17,20:00,941,954,1,993,15,15,6,9,9,6,954,27,23,1.19 
+2014,10,17,19:00,954,936,6,993,4,16,3,12,1,4,954,5,16,0.40 
+2014,10,04,10:00,1195,840,0,1019,5,16,4,11,1,5,840,24,14,1.61 
+2014,10,04,10:00,840,1195,1,1019,16,2,13,2,3,0,840,17,5,1.73 
+2014,10,04,10:00,840,1195,8,1019,16,8,9,6,7,2,840,31,10,2.04 
+2014,09,09,21:00,954,0,0,993,16,1,14,1,2,0,954,15,8,1.44 
+2014,09,04,19:00,954,103,1,993,16,10,9,6,7,4,954,19,18,1.06 
+2014,08,22,17:00,120,954,1,1035,17,19,10,5,5,10,954,24,26,0.94 
+2014,08,22,17:00,120,954,6,1035,16,13,10,5,6,8,954,27,23,1.29 
+2014,08,22,17:00,120,954,0,1035,7,16,6,9,1,7,954,22,12,1.37 
+2013,12,10,22:50,722,1323,0,1104,16,12,7,8,9,4,722,24,20,1.08 
+2013,12,10,19:20,215,722,1,1104,16,11,5,10,11,1,722,22,20,1.00 
+2013,12,09,20:00,1106,722,6,1104,16,7,12,3,4,4,722,16,16,0.98 
+2013,12,04,20:00,722,132,6,1104,16,14,8,7,8,7,722,24,16,1.42 
+2013,11,25,20:00,722,1045,1,1104,7,16,6,9,1,7,722,7,19,0.45 
+2013,11,22,21:00,722,1311,6,1104,11,16,6,9,5,7,722,22,18,1.14 
+2013,11,22,20:00,722,1322,0,1104,14,16,7,8,7,8,722,21,23,0.89 
+2013,11,21,21:30,722,287,6,1104,14,16,8,7,6,9,722,27,21,1.27 
+2013,11,21,20:30,1244,722,1,1104,15,15,6,9,9,6,722,33,19,1.54 
+2013,11,14,21:00,275,722,0,1104,16,10,9,6,7,4,722,31,20,1.54 
+2013,11,14,20:00,214,722,6,1104,16,6,12,3,4,3,722,15,17,0.91 
+2013,11,14,19:00,49,722,5,1104,16,4,12,3,4,1,722,17,17,1.15 
+2013,11,12,21:00,722,1305,7,1104,9,16,8,7,1,9,722,25,16,1.48 
+2013,11,12,20:00,722,844,6,1104,16,9,8,7,8,2,722,29,14,1.77 
+2013,11,12,19:00,1069,722,0,1104,16,2,13,2,3,0,722,5,17,0.37 
+2013,10,24,20:00,954,942,10,1098,15,15,4,11,11,4,954,22,17,1.16 
+2013,10,22,20:00,954,103,11,1098,16,12,12,3,4,9,954,20,18,1.03 
+2013,10,06,19:00,941,954,10,1098,16,14,8,7,8,7,954,23,20,1.07 
+2013,10,05,21:05,954,953,10,1098,15,15,12,3,3,12,954,26,19,1.22 
+2013,10,04,20:20,954,145,13,1098,15,15,7,8,8,7,954,29,19,1.28 
+2013,07,14,21:25,840,1383,11,1135,9,16,8,7,1,9,840,16,18,0.93 
+2013,07,14,21:25,1383,840,10,1135,16,1,14,1,2,0,840,9,15,0.59 
+2013,07,14,16:50,840,215,11,1135,7,16,5,10,2,6,840,9,18,0.58 
+2013,07,14,16:50,840,215,10,1135,8,16,7,8,1,8,840,12,18,0.74 
+2013,07,14,13:30,840,1072,13,1135,16,11,6,9,10,2,840,25,15,1.39 
+2013,07,14,13:30,1072,840,11,1135,7,16,4,11,3,5,840,16,15,0.99 
+2013,07,13,21:30,840,1388,13,1135,16,0,15,0,1,0,840,11,5,1.28 
+2013,07,13,20:45,840,1387,11,1135,16,2,13,2,3,0,840,19,8,1.63 
+2013,07,13,19:30,428,840,10,1135,9,16,4,11,5,5,840,22,15,1.41 
+2013,07,13,18:30,1313,840,13,1135,12,16,7,8,5,8,840,20,16,1.11 

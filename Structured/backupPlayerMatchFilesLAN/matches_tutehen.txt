@@ -1,5 +1,0 @@
-2015,12,13,19:45,Brekan,NTN,dust2,Gigabyte Top League Finals,7,16,3,12,4,4,Brekan,13,19,0.64 
-2015,12,13,19:45,NTN,Brekan,mirage,Gigabyte Top League Finals,22,19,12,3,3,12,Brekan,26,29,0.90 
-2015,12,13,19:45,Brekan,NTN,cache,Gigabyte Top League Finals,16,12,8,7,8,5,Brekan,21,16,1.16 
-2015,12,13,17:30,newNature,Brekan,overpass,Gigabyte Top League Finals,9,16,9,6,0,10,Brekan,21,15,1.21 
-2015,12,13,17:30,Brekan,newNature,cache,Gigabyte Top League Finals,16,3,12,3,4,0,Brekan,20,10,1.48 

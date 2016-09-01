@@ -1,23 +1,23 @@
-2016,05,09,04:35,Prospects,WithoutaRoof,overpass,MLG Regional Minor North Ameri..,5,16,4,11,1,5,Prospects,8,17,0.56 
-2016,05,09,02:55,TSM,Prospects,mirage,MLG Regional Minor North Ameri..,16,3,12,3,4,0,Prospects,11,18,0.62 
-2016,05,09,02:55,TSM,Prospects,cobblestone,MLG Regional Minor North Ameri..,16,12,9,6,7,6,Prospects,16,21,0.87 
-2016,05,08,22:15,Prospects,Vault,cache,MLG Regional Minor North Ameri..,16,9,7,8,9,1,Prospects,25,17,1.40 
-2016,05,08,22:15,Vault,Prospects,mirage,MLG Regional Minor North Ameri..,16,13,10,5,6,8,Prospects,12,25,0.54 
-2016,05,08,22:15,Prospects,Vault,train,MLG Regional Minor North Ameri..,16,13,11,4,5,9,Prospects,34,21,1.52 
-2016,04,13,02:00,Prospects,TSM,dust2,CEVO Gfinity Professional Seas..,6,16,5,10,1,6,Prospects,13,19,0.79 
-2016,04,13,02:00,TSM,Prospects,mirage,CEVO Gfinity Professional Seas..,16,14,10,5,6,9,Prospects,23,23,1.06 
-2016,02,23,05:45,QuetzaL,Noble,inferno,GO:NA,16,9,10,5,6,4,Noble,18,23,0.95 
-2016,02,23,05:45,QuetzaL,Noble,cache,GO:NA,14,16,8,7,6,9,Noble,26,20,1.29 
-2016,02,23,05:45,Noble,QuetzaL,dust2,GO:NA,10,16,8,7,2,9,Noble,17,18,1.02 
-2016,02,20,03:00,Liquid,Noble,dust2,CEVO Gfinity Professional Seas..,16,9,9,6,7,3,Noble,25,22,1.35 
-2016,02,20,03:00,Liquid,Noble,cache,CEVO Gfinity Professional Seas..,16,6,10,5,6,1,Noble,13,19,0.66 
-2016,02,15,03:10,Noble,ex-AstralAuthority,mirage,CEVO Gfinity Professional Seas..,9,16,6,9,3,7,Noble,23,18,1.28 
-2016,02,15,02:00,Noble,ACE,inferno,CEVO Gfinity Professional Seas..,16,3,12,3,4,0,Noble,19,10,1.53 
-2015,12,18,00:00,VeloX,HiddenPotential,mirage,Game Show Global eSports Cup 2..,16,4,11,4,5,0,VeloX,21,11,1.53 
-2015,12,18,00:00,HiddenPotential,VeloX,cache,Game Show Global eSports Cup 2..,12,16,3,12,9,4,VeloX,18,22,0.79 
-2015,12,17,00:00,VeloX,CLG,cache,Game Show Global eSports Cup 2..,11,16,7,8,4,8,VeloX,19,25,0.88 
-2015,12,17,00:00,CLG,VeloX,cobblestone,Game Show Global eSports Cup 2..,16,3,12,3,4,0,VeloX,7,18,0.44 
-2015,12,17,00:00,CLG,VeloX,dust2,Game Show Global eSports Cup 2..,14,16,4,11,10,5,VeloX,29,24,1.28 
-2015,12,14,03:00,AstralAuthority,Leader-1,mirage,RGN Showseries,16,13,6,9,10,4,Leader-1,14,23,0.65 
-2015,12,14,03:00,Leader-1,AstralAuthority,cache,RGN Showseries,13,16,9,6,4,10,Leader-1,18,19,0.94 
-2014,08,26,03:00,Exertus,Cytik,mirage,FACEIT League 2 NA Closed Qual..,16,5,13,2,3,3,Cytik,15,18,0.85 
+2016,05,09,04:35,97,446,4,581,5,16,4,11,1,5,97,8,17,0.56 
+2016,05,09,02:55,270,97,0,581,16,3,12,3,4,0,97,11,18,0.62 
+2016,05,09,02:55,270,97,14,581,16,12,9,6,7,6,97,16,21,0.87 
+2016,05,08,22:15,97,436,7,581,16,9,7,8,9,1,97,25,17,1.40 
+2016,05,08,22:15,436,97,0,581,16,13,10,5,6,8,97,12,25,0.54 
+2016,05,08,22:15,97,436,2,581,16,13,11,4,5,9,97,34,21,1.52 
+2016,04,13,02:00,97,270,1,590,6,16,5,10,1,6,97,13,19,0.79 
+2016,04,13,02:00,270,97,0,590,16,14,10,5,6,9,97,23,23,1.06 
+2016,02,23,05:45,495,447,6,646,16,9,10,5,6,4,447,18,23,0.95 
+2016,02,23,05:45,495,447,7,646,14,16,8,7,6,9,447,26,20,1.29 
+2016,02,23,05:45,447,495,1,646,10,16,8,7,2,9,447,17,18,1.02 
+2016,02,20,03:00,303,447,1,590,16,9,9,6,7,3,447,25,22,1.35 
+2016,02,20,03:00,303,447,7,590,16,6,10,5,6,1,447,13,19,0.66 
+2016,02,15,03:10,447,649,0,590,9,16,6,9,3,7,447,23,18,1.28 
+2016,02,15,02:00,447,334,6,590,16,3,12,3,4,0,447,19,10,1.53 
+2015,12,18,00:00,747,748,0,657,16,4,11,4,5,0,747,21,11,1.53 
+2015,12,18,00:00,748,747,7,657,12,16,3,12,9,4,747,18,22,0.79 
+2015,12,17,00:00,747,291,7,657,11,16,7,8,4,8,747,19,25,0.88 
+2015,12,17,00:00,291,747,14,657,16,3,12,3,4,0,747,7,18,0.44 
+2015,12,17,00:00,291,747,1,657,14,16,4,11,10,5,747,29,24,1.28 
+2015,12,14,03:00,761,707,0,703,16,13,6,9,10,4,707,14,23,0.65 
+2015,12,14,03:00,707,761,7,703,13,16,9,6,4,10,707,18,19,0.94 
+2014,08,26,03:00,1061,1211,0,1038,16,5,13,2,3,3,1211,15,18,0.85 

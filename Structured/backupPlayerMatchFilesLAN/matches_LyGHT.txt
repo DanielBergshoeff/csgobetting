@@ -1,6 +1,0 @@
-2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,train,ESL Meisterschaft Spring 2016 ..,12,16,8,7,4,9,LeiSuRe,23,22,1.07 
-2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,dust2,ESL Meisterschaft Spring 2016 ..,11,16,7,8,4,8,LeiSuRe,22,16,1.23 
-2016,05,07,23:00,ALTERNATEaTTaX,LeiSuRe,cache,ESL Meisterschaft Spring 2016 ..,16,6,12,3,4,3,LeiSuRe,12,18,0.79 
-2016,05,07,17:35,LeiSuRe,FAB,train,ESL Meisterschaft Spring 2016 ..,16,7,11,4,5,3,LeiSuRe,18,17,0.99 
-2016,05,07,17:35,LeiSuRe,FAB,cobblestone,ESL Meisterschaft Spring 2016 ..,8,16,4,11,4,5,LeiSuRe,14,18,0.79 
-2016,05,07,17:35,LeiSuRe,FAB,cache,ESL Meisterschaft Spring 2016 ..,16,12,8,7,8,5,LeiSuRe,17,20,0.89 

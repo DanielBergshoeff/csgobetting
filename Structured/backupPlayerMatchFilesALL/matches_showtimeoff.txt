@@ -1,2 +1,2 @@
-2015,11,29,12:00,TamuluS,sensational.kr,inferno,D!ngIT & NCSC Korea S1 Qualifi..,16,4,11,4,5,0,sensational.kr,9,16,0.63 
-2015,11,22,14:00,clanHeat,sensational.kr,inferno,D!ngIT & NCSC Korea S1 Qualifi..,7,16,4,11,3,5,sensational.kr,15,17,0.98 
+2015,11,29,12:00,108,829,6,716,16,4,11,4,5,0,829,9,16,0.63 
+2015,11,22,14:00,843,829,6,716,7,16,4,11,3,5,829,15,17,0.98 

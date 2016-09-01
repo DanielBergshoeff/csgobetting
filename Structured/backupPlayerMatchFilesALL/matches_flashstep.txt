@@ -1,26 +1,26 @@
-2016,08,12,02:45,Blight,Prospects,cobblestone,SL i-League S2 Americas Qualif..,13,16,5,10,8,6,Blight,18,20,0.89 
-2016,08,12,02:45,Prospects,Blight,overpass,SL i-League S2 Americas Qualif..,22,19,6,9,9,6,Blight,27,31,0.93 
-2016,08,11,01:00,Blight,compLexity,train,SL i-League S2 Americas Qualif..,2,16,2,13,0,3,Blight,3,17,0.18 
-2016,08,11,01:00,compLexity,Blight,overpass,SL i-League S2 Americas Qualif..,13,16,8,7,5,9,Blight,14,17,0.84 
-2016,08,11,01:00,Blight,compLexity,cache,SL i-League S2 Americas Qualif..,8,16,5,10,3,6,Blight,14,23,0.62 
-2016,08,10,03:15,Kaliber,Blight,cache,SL i-League S2 Americas Qualif..,16,6,11,4,5,2,Blight,21,16,1.31 
-2016,08,10,03:15,Blight,Kaliber,cobblestone,SL i-League S2 Americas Qualif..,1,16,1,14,0,2,Blight,10,15,0.69 
-2016,08,08,04:40,Rush,Blight,mirage,ESEA Premier Season 22 North A..,16,13,10,5,6,8,Blight,12,21,0.61 
-2016,08,08,04:40,Blight,Rush,dust2,ESEA Premier Season 22 North A..,15,19,7,8,8,7,Blight,18,23,0.81 
-2016,05,08,18:00,Noble,EchoFox,dust2,MLG Regional Minor North Ameri..,9,16,7,8,2,8,Noble,14,16,0.85 
-2016,05,08,18:00,Noble,EchoFox,mirage,MLG Regional Minor North Ameri..,9,16,8,7,1,9,Noble,8,22,0.39 
-2016,04,13,04:30,Splyce,Noble,cobblestone,CEVO Gfinity Professional Seas..,16,6,9,6,7,0,Noble,8,19,0.47 
-2016,04,13,04:30,Noble,Splyce,train,CEVO Gfinity Professional Seas..,13,16,6,9,7,7,Noble,21,20,0.98 
-2016,03,16,02:00,CLG,Noble,cobblestone,CEVO Gfinity Professional Seas..,16,6,10,5,6,1,Noble,9,19,0.51 
-2016,03,16,02:00,Noble,CLG,dust2,CEVO Gfinity Professional Seas..,7,16,5,10,2,6,Noble,10,19,0.61 
-2016,02,23,05:45,QuetzaL,Noble,inferno,GO:NA,16,9,10,5,6,4,Noble,14,18,0.86 
-2016,02,23,05:45,QuetzaL,Noble,cache,GO:NA,14,16,8,7,6,9,Noble,15,18,0.76 
-2016,02,23,05:45,Noble,QuetzaL,dust2,GO:NA,10,16,8,7,2,9,Noble,11,21,0.60 
-2016,02,20,03:00,Liquid,Noble,dust2,CEVO Gfinity Professional Seas..,16,9,9,6,7,3,Noble,12,20,0.59 
-2016,02,20,03:00,Liquid,Noble,cache,CEVO Gfinity Professional Seas..,16,6,10,5,6,1,Noble,9,18,0.57 
-2016,02,15,03:10,Noble,ex-AstralAuthority,mirage,CEVO Gfinity Professional Seas..,9,16,6,9,3,7,Noble,12,21,0.62 
-2016,02,15,02:00,Noble,ACE,inferno,CEVO Gfinity Professional Seas..,16,3,12,3,4,0,Noble,17,6,1.46 
-2016,01,16,21:00,Leader-1,Splyce,cache,MLG Americas Minor Championshi..,2,16,2,13,0,3,Leader-1,5,16,0.42 
-2016,01,16,21:00,Leader-1,Splyce,dust2,MLG Americas Minor Championshi..,12,16,7,8,5,8,Leader-1,21,22,1.05 
-2016,01,16,19:00,Enemy,Leader-1,overpass,MLG Americas Minor Championshi..,16,4,12,3,4,1,Leader-1,9,18,0.52 
-2016,01,16,00:00,Leader-1,Splyce,dust2,MLG Americas Minor Championshi..,16,14,7,8,9,6,Leader-1,22,23,1.02 
+2016,08,12,02:45,96,97,14,481,13,16,5,10,8,6,96,18,20,0.89 
+2016,08,12,02:45,97,96,4,481,22,19,6,9,9,6,96,27,31,0.93 
+2016,08,11,01:00,96,116,2,481,2,16,2,13,0,3,96,3,17,0.18 
+2016,08,11,01:00,116,96,4,481,13,16,8,7,5,9,96,14,17,0.84 
+2016,08,11,01:00,96,116,7,481,8,16,5,10,3,6,96,14,23,0.62 
+2016,08,10,03:15,114,96,7,481,16,6,11,4,5,2,96,21,16,1.31 
+2016,08,10,03:15,96,114,14,481,1,16,1,14,0,2,96,10,15,0.69 
+2016,08,08,04:40,115,96,0,474,16,13,10,5,6,8,96,12,21,0.61 
+2016,08,08,04:40,96,115,1,474,15,19,7,8,8,7,96,18,23,0.81 
+2016,05,08,18:00,447,38,1,581,9,16,7,8,2,8,447,14,16,0.85 
+2016,05,08,18:00,447,38,0,581,9,16,8,7,1,9,447,8,22,0.39 
+2016,04,13,04:30,362,447,14,590,16,6,9,6,7,0,447,8,19,0.47 
+2016,04,13,04:30,447,362,2,590,13,16,6,9,7,7,447,21,20,0.98 
+2016,03,16,02:00,291,447,14,590,16,6,10,5,6,1,447,9,19,0.51 
+2016,03,16,02:00,447,291,1,590,7,16,5,10,2,6,447,10,19,0.61 
+2016,02,23,05:45,495,447,6,646,16,9,10,5,6,4,447,14,18,0.86 
+2016,02,23,05:45,495,447,7,646,14,16,8,7,6,9,447,15,18,0.76 
+2016,02,23,05:45,447,495,1,646,10,16,8,7,2,9,447,11,21,0.60 
+2016,02,20,03:00,303,447,1,590,16,9,9,6,7,3,447,12,20,0.59 
+2016,02,20,03:00,303,447,7,590,16,6,10,5,6,1,447,9,18,0.57 
+2016,02,15,03:10,447,649,0,590,9,16,6,9,3,7,447,12,21,0.62 
+2016,02,15,02:00,447,334,6,590,16,3,12,3,4,0,447,17,6,1.46 
+2016,01,16,21:00,707,362,7,670,2,16,2,13,0,3,707,5,16,0.42 
+2016,01,16,21:00,707,362,1,670,12,16,7,8,5,8,707,21,22,1.05 
+2016,01,16,19:00,682,707,4,670,16,4,12,3,4,1,707,9,18,0.52 
+2016,01,16,00:00,707,362,1,670,16,14,7,8,9,6,707,22,23,1.02 

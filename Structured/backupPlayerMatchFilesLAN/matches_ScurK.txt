@@ -1,7 +1,0 @@
-2015,12,20,13:00,SkitLite,Torpedo,mirage,ESL Nordic Nationals Winter 20..,11,16,5,10,6,6,SkitLite,11,21,0.59 
-2015,12,20,13:00,SkitLite,Torpedo,cache,ESL Nordic Nationals Winter 20..,14,16,3,12,11,4,SkitLite,15,20,0.79 
-2015,12,19,20:55,SkitLite,demise,mirage,ESL Nordic Nationals Winter 20..,16,9,9,6,7,3,SkitLite,17,16,0.93 
-2015,12,19,14:55,SkitLite,NoProblem!,mirage,ESL Nordic Nationals Winter 20..,11,16,9,6,2,10,SkitLite,14,22,0.61 
-2014,07,31,19:35,Menace,TMVG,mirage,ASUS ROG Summer 2014,19,15,9,6,6,9,TMVG,16,20,0.81 
-2014,07,31,18:30,Joutsenlaulu,TMVG,dust2,ASUS ROG Summer 2014,13,16,8,7,5,9,TMVG,15,26,0.58 
-2014,07,31,16:00,Menace,TMVG,dust2,ASUS ROG Summer 2014,19,16,8,7,7,8,TMVG,27,27,1.06 

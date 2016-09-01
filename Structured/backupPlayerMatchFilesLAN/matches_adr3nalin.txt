@@ -1,4 +1,0 @@
-2016,07,30,11:40,eNergy,WhiteRabbit,overpass,ESWC 2016 South African Qualif..,16,14,6,9,10,5,White Rabbit,14,16,0.81 
-2016,07,29,14:00,xTc,WhiteRabbit,mirage,ESWC 2016 South African Qualif..,16,11,13,2,3,9,White Rabbit,11,21,0.54 
-2016,07,29,14:00,xTc,WhiteRabbit,dust2,ESWC 2016 South African Qualif..,12,16,7,8,5,8,White Rabbit,19,14,1.08 
-2016,07,29,14:00,WhiteRabbit,xTc,cache,ESWC 2016 South African Qualif..,6,16,5,10,1,6,White Rabbit,9,17,0.63 

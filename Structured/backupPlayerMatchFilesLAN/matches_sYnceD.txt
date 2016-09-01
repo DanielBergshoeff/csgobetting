@@ -1,9 +1,0 @@
-2015,12,06,15:45,compLexity,Nexus,cache,Northern Arena 2015,16,2,13,2,3,0,Nexus,5,17,0.28 
-2015,12,06,15:45,compLexity,Nexus,cobblestone,Northern Arena 2015,12,16,7,8,5,8,Nexus,18,19,0.90 
-2015,12,06,15:45,compLexity,Nexus,inferno,Northern Arena 2015,16,2,14,1,2,1,Nexus,7,17,0.43 
-2015,12,06,00:00,Nexus,CLG,mirage,Northern Arena 2015,6,16,4,11,2,5,Nexus,13,18,1.01 
-2015,12,05,22:00,3sUP,Nexus,dust2,Northern Arena 2015,14,16,4,11,10,5,Nexus,18,23,0.85 
-2015,12,05,20:00,ACE,Nexus,inferno,Northern Arena 2015,7,16,3,12,4,4,Nexus,19,15,1.18 
-2015,09,05,04:00,ACE,Excellence,mirage,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,Excellence,9,17,0.56 
-2015,09,05,03:15,Excellence,BitterSweetGG,overpass,WinOut $20,000 CS:GO Champions..,16,2,13,2,3,0,Excellence,17,12,1.42 
-2015,09,05,02:00,ACE,Excellence,cobblestone,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,Excellence,9,17,0.70 

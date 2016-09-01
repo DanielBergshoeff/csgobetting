@@ -1,3 +1,0 @@
-2015,04,02,17:00,DENiED,malefiQ,nuke,Copenhagen Games 2015,11,16,9,6,2,10,DENiED,17,18,0.91 
-2015,04,02,15:30,FONA,DENiED,dust2,Copenhagen Games 2015,22,19,10,5,5,10,DENiED,29,26,1.06 
-2015,04,02,14:00,DENiED,malefiQ,inferno,Copenhagen Games 2015,16,5,11,4,5,1,DENiED,24,14,1.48 

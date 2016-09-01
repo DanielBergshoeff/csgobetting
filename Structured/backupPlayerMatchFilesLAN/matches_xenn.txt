@@ -1,7 +1,0 @@
-2015,08,09,10:20,uX,PENTA,cache,ESL Sommermeisterschaft 2015 F..,6,16,6,9,0,7,uX,11,19,0.56 
-2015,08,09,10:20,uX,PENTA,inferno,ESL Sommermeisterschaft 2015 F..,7,16,2,13,5,3,uX,10,18,0.53 
-2015,04,02,23:25,MnM,Lemondogs,cache,Copenhagen Games 2015,13,16,11,4,2,12,MnM,16,23,0.69 
-2015,04,02,21:40,re:take,MnM,cache,Copenhagen Games 2015,16,19,9,6,6,9,MnM,22,21,0.93 
-2015,04,02,19:00,Menace,MnM,cache,Copenhagen Games 2015,16,2,13,2,3,0,MnM,10,17,0.54 
-2015,04,02,17:00,e9,MnM,nuke,Copenhagen Games 2015,13,16,8,7,5,9,MnM,21,17,1.04 
-2015,04,02,15:30,MnM,no_rhythm,dust2,Copenhagen Games 2015,10,16,7,8,3,8,MnM,15,21,0.71 

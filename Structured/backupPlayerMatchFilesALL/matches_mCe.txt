@@ -1,16 +1,16 @@
-2016,05,30,02:30,TSM,RivaL,overpass,CyberPowerPC Summer 2016 Quali..,16,11,11,4,5,7,RivaL,16,21,0.85 
-2016,05,30,02:30,RivaL,TSM,dust2,CyberPowerPC Summer 2016 Quali..,8,16,2,13,6,3,RivaL,13,19,0.79 
-2016,05,09,05:45,RivaL,WithoutaRoof,mirage,MLG Regional Minor North Ameri..,10,16,3,12,7,4,RivaL,11,21,0.56 
-2016,05,09,03:00,RivaL,Detonate,mirage,MLG Regional Minor North Ameri..,16,11,8,7,8,4,RivaL,11,17,0.66 
-2016,05,09,01:35,RivaL,MostlyHomeless,train,MLG Regional Minor North Ameri..,16,6,10,5,6,1,RivaL,16,15,0.97 
-2016,05,09,00:45,RivaL,Kingdom,mirage,MLG Regional Minor North Ameri..,16,9,12,3,4,6,RivaL,8,14,0.65 
-2016,05,08,20:40,Winterfox,RivaL,nuke,MLG Regional Minor North Ameri..,16,5,11,4,5,1,RivaL,10,20,0.52 
-2016,05,08,20:40,Winterfox,RivaL,cache,MLG Regional Minor North Ameri..,16,11,8,7,8,4,RivaL,26,22,1.23 
-2016,05,08,20:40,RivaL,Winterfox,overpass,MLG Regional Minor North Ameri..,25,23,6,9,9,6,RivaL,35,42,0.89 
-2016,03,23,02:00,Rhythm,Insolent,train,Razer Rising Stars NA League Q..,21,15,10,5,5,10,Rhythm,22,24,0.86 
-2016,02,25,04:00,Bee'sMoneyCrew,myRevenge,dust2,Stream.me Gauntlet ,16,10,7,8,9,2,Bee's Money Crew,23,17,1.22 
-2016,02,25,04:00,myRevenge,Bee'sMoneyCrew,cache,Stream.me Gauntlet ,9,16,6,9,3,7,Bee's Money Crew,16,15,0.95 
-2015,12,16,01:00,UMass,Incursion,cache,QuickShot Arena NA #2,16,5,11,4,5,1,Incursion,2,19,0.16 
-2015,12,16,01:00,UMass,Incursion,mirage,QuickShot Arena NA #2,16,11,7,8,9,3,Incursion,14,19,0.78 
-2015,12,15,03:30,ACE,Incursion,mirage,QuickShot Arena NA #2,11,16,6,9,5,7,Incursion,21,14,1.32 
-2015,12,15,03:30,ACE,Incursion,inferno,QuickShot Arena NA #2,11,16,6,9,5,7,Incursion,17,16,1.01 
+2016,05,30,02:30,270,394,4,539,16,11,11,4,5,7,394,16,21,0.85 
+2016,05,30,02:30,394,270,1,539,8,16,2,13,6,3,394,13,19,0.79 
+2016,05,09,05:45,394,446,0,581,10,16,3,12,7,4,394,11,21,0.56 
+2016,05,09,03:00,394,448,0,581,16,11,8,7,8,4,394,11,17,0.66 
+2016,05,09,01:35,394,449,2,581,16,6,10,5,6,1,394,16,15,0.97 
+2016,05,09,00:45,394,263,0,581,16,9,12,3,4,6,394,8,14,0.65 
+2016,05,08,20:40,279,394,5,581,16,5,11,4,5,1,394,10,20,0.52 
+2016,05,08,20:40,279,394,7,581,16,11,8,7,8,4,394,26,22,1.23 
+2016,05,08,20:40,394,279,4,581,25,23,6,9,9,6,394,35,42,0.89 
+2016,03,23,02:00,590,533,2,621,21,15,10,5,5,10,590,22,24,0.86 
+2016,02,25,04:00,422,648,1,622,16,10,7,8,9,2,422,23,17,1.22 
+2016,02,25,04:00,648,422,7,622,9,16,6,9,3,7,422,16,15,0.95 
+2015,12,16,01:00,753,754,7,700,16,5,11,4,5,1,754,2,19,0.16 
+2015,12,16,01:00,753,754,0,700,16,11,7,8,9,3,754,14,19,0.78 
+2015,12,15,03:30,334,754,0,700,11,16,6,9,5,7,754,21,14,1.32 
+2015,12,15,03:30,334,754,6,700,11,16,6,9,5,7,754,17,16,1.01 

@@ -35,7 +35,7 @@ from lxml import html
 import requests
 
 # define min and max offset
-minoffset = 0
+minoffset = 10
 maxoffset = 350
 
 
@@ -48,6 +48,8 @@ if platform == "darwin":
         mapIDs = text_file.readline().split()
     with open(root+ 'idFiles/eventIDs.txt', "r") as text_file:
         eventIDs = text_file.readline().split()
+    with open(root+ 'idFiles/playerIDs.txt', "r") as text_file:
+        playerIDs = text_file.readline().split()
 elif platform == "win32" or platform == "cygwin":
     # Windows
     with open(root+ 'idFiles\\teamIDs.txt', "r") as text_file:
@@ -56,6 +58,8 @@ elif platform == "win32" or platform == "cygwin":
         mapIDs = text_file.readline().split()
     with open(root+ 'idFiles\\eventIDs.txt', "r") as text_file:
         eventIDs = text_file.readline().split()
+    with open(root+ 'idFiles\\playerIDs.txt', "r") as text_file:
+        playerIDs = text_file.readline().split()
         
     
 for i in range(minoffset, maxoffset):
@@ -94,10 +98,13 @@ for i in range(minoffset, maxoffset):
         year = date.split("-")[0]
         month = date.split("-")[1]
         day = date.split("-")[2]
+        
         time = dateandtime[1]
+        timehours = time.split(":")[0].strip()
+        timeminutes = time.split(":")[1].strip()
         
         map = rest[7]
-        event = rest[9]
+        event = rest[9].strip().replace("#", "").replace(".", "").replace(" ", "_")
         homeTeamScore = rest[11]
         outTeamScore = rest[13]
         homeTeamWonRoundsCT = rest[15]
@@ -155,7 +162,11 @@ for i in range(minoffset, maxoffset):
             playedEventID = eventIDs.index(event)
         else:
             eventIDs.append(event)
-            playedEventID = eventIDs.index(event)      
+            playedEventID = eventIDs.index(event)
+            
+        matchno = i * 50 + l
+        matchplayerIDs = list()
+        print(matchno)
             
         for p in range(0, 10):
             
@@ -183,13 +194,22 @@ for i in range(minoffset, maxoffset):
                     playerRating = rest[79 + x + emailnr]
                 print(playerRating)
                 
-                # convert names to IDs
+                # convert team names to IDs
                 if (playerTeam in teamIDs):
                     playerTeamId = teamIDs.index(playerTeam)
                 else:
                     teamIDs.append(playerTeam)
                     playerTeamId = teamIDs.index(playerTeam)
+                                
+                # convert player names to IDs
+                player = str(playerName)
+                if (player in playerIDs):
+                    playerNameId = playerIDs.index(player)
+                else:
+                    playerIDs.append(player)
+                    playerNameId = playerIDs.index(player)
                 
+                matchplayerIDs.append(playerNameId)
                 
                 # write to file       
                 playerNameForFileName = playerName + '.txt'
@@ -203,13 +223,27 @@ for i in range(minoffset, maxoffset):
              
                 filename += playerNameForFileName
                 with open(filename, "a", encoding='utf-8') as text_file:
-                    text_file.write("{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17} \n".format(
-                    year, month, day, time,
-                    homeTeamId, outTeamId,
-                    playedMapID, playedEventID,
-                    homeTeamScore, outTeamScore,
-                    homeTeamWonRoundsCT, outTeamWonRoundsT, homeTeamWonRoundsT, outTeamWonRoundsCT,
+                    text_file.write("{0},{1},{2},{3},{4}\n".format(
+                    matchno,
                     playerTeamId, playerKills, playerDeaths, playerRating))
+                    
+                    
+        if platform == "darwin":
+            # OS X
+            filename = root + 'playerMatchFiles/all_matches.txt'
+        elif platform == "win32" or platform == "cygwin":
+            # Windows
+            filename = root + 'playerMatchFiles\\all_matches.txt'
+        
+        
+        with open(filename, "a", encoding='utf-8') as text_file:
+            text_file.write("{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16}\n".format(
+            matchno, matchplayerIDs,
+            year, month, day, timehours, timeminutes,
+            homeTeamId, outTeamId,
+            playedMapID, playedEventID,
+            homeTeamScore, outTeamScore,
+            homeTeamWonRoundsCT, outTeamWonRoundsT, homeTeamWonRoundsT, outTeamWonRoundsCT))    
 
 # update ID files
 if platform == "darwin":

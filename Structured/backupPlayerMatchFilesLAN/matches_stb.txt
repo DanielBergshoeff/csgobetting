@@ -1,6 +1,0 @@
-2015,04,02,21:40,no_rhythm,partyastronauts,cache,Copenhagen Games 2015,16,10,11,4,5,6,partyastronauts,19,21,0.95 
-2015,04,02,19:00,myKPV,partyastronauts,inferno,Copenhagen Games 2015,16,4,12,3,4,1,partyastronauts,7,17,0.44 
-2015,04,02,17:00,partyastronauts,eSpuma,nuke,Copenhagen Games 2015,16,1,14,1,2,0,partyastronauts,15,6,1.54 
-2015,04,02,14:00,eSpuma,partyastronauts,inferno,Copenhagen Games 2015,16,7,11,4,5,3,partyastronauts,14,16,0.96 
-2014,10,05,16:00,LondonC,partyastronauts,nuke,ESWC 2014 Norway,16,12,11,4,5,8,partyastronauts,20,22,0.85 
-2014,10,05,16:00,LondonC,partyastronauts,mirage,ESWC 2014 Norway,16,11,13,2,3,9,partyastronauts,13,23,0.63 

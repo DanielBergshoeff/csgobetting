@@ -1,6 +1,0 @@
-2016,07,03,20:45,TheWorkingMen,Reason,cache,ESL UK Premiership Spring 2016..,16,13,6,9,10,4,Reason,18,22,0.76 
-2016,07,03,20:45,TheWorkingMen,Reason,mirage,ESL UK Premiership Spring 2016..,16,9,9,6,7,3,Reason,17,18,0.91 
-2016,07,03,20:45,TheWorkingMen,Reason,cobblestone,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,Reason,14,22,0.64 
-2016,07,03,15:30,Reason,Infused,cache,ESL UK Premiership Spring 2016..,16,11,9,6,7,5,Reason,17,18,0.84 
-2016,07,03,15:30,Infused,Reason,mirage,ESL UK Premiership Spring 2016..,7,16,6,9,1,7,Reason,10,12,0.80 
-2016,07,03,15:30,Reason,Infused,cobblestone,ESL UK Premiership Spring 2016..,13,16,4,11,9,5,Reason,28,19,1.39 

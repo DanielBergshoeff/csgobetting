@@ -1,5 +1,0 @@
-2016,06,26,11:20,eEriness,Inside,cache,RoG Finals 10,16,4,11,4,5,0,Inside,23,17,1.58 
-2016,06,26,11:20,eEriness,Inside,dust2,RoG Finals 10,16,9,11,4,5,5,Inside,16,20,0.88 
-2016,06,26,11:20,Inside,eEriness,cobblestone,RoG Finals 10,16,14,8,7,8,7,Inside,18,23,0.89 
-2016,06,25,19:30,eSuba,Inside,overpass,RoG Finals 10,16,4,11,4,5,0,Inside,9,18,0.52 
-2016,06,25,19:30,eSuba,Inside,mirage,RoG Finals 10,16,4,11,4,5,0,Inside,5,19,0.28 

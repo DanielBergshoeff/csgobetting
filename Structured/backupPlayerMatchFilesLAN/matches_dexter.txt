@@ -1,8 +1,0 @@
-2016,01,31,04:00,TheMongolz,Chiefs,cobblestone,IEM Taipei 2016,16,9,9,6,7,3,Chiefs,14,19,0.87 
-2016,01,31,04:00,Chiefs,TheMongolz,dust2,IEM Taipei 2016,10,16,7,8,3,8,Chiefs,19,20,1.07 
-2016,01,31,04:00,Chiefs,TheMongolz,inferno,IEM Taipei 2016,16,13,12,3,4,10,Chiefs,21,22,0.94 
-2016,01,29,09:30,Risky,Chiefs,dust2,IEM Taipei 2016,9,16,7,8,2,8,Chiefs,21,14,1.20 
-2016,01,29,07:20,Chiefs,CyberZen,inferno,IEM Taipei 2016,3,16,3,12,0,4,Chiefs,8,18,0.39 
-2016,01,29,05:45,MVP.karnal,Chiefs,inferno,IEM Taipei 2016,14,16,9,6,5,10,Chiefs,14,20,0.76 
-2015,09,06,01:00,SYF,Skyfire,train,ACL Melbourne 2015,5,16,5,10,0,6,SYF,8,18,0.49 
-2015,09,06,01:00,Skyfire,SYF,cobblestone,ACL Melbourne 2015,14,16,8,7,6,9,SYF,24,22,1.06 

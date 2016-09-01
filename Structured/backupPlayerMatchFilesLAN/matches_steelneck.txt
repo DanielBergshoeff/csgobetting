@@ -1,3 +1,0 @@
-2016,05,07,19:00,Dreamcity,TzatzikiKlubben,dust2,BirdieLAN 26,6,16,6,9,0,7,TzatzikiKlubben,9,12,0.77 
-2016,05,07,19:00,TzatzikiKlubben,Dreamcity,inferno,BirdieLAN 26,23,26,6,9,9,6,TzatzikiKlubben,33,32,1.11 
-2016,05,07,19:00,Dreamcity,TzatzikiKlubben,mirage,BirdieLAN 26,14,16,6,9,8,7,TzatzikiKlubben,15,23,0.69 

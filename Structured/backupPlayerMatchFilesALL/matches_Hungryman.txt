@@ -1,4 +1,4 @@
-2015,10,17,17:15,MVP.karnal,Penguin,dust2,MixBOT Pro-League Invite Seaso..,16,8,9,6,7,2,Penguin,11,22,0.50 
-2015,10,17,15:00,inchk1ng,Penguin,mirage,MixBOT Pro-League Invite Seaso..,16,4,12,3,4,1,Penguin,5,17,0.36 
-2015,09,19,13:30,TwistoFate,Penguin,mirage,MixBOT Pro-League Invite Seaso..,16,14,8,7,8,7,Penguin,17,27,0.75 
-2015,09,12,14:00,TyLoo,Penguin,mirage,MixBOT Pro-League Invite Seaso..,16,1,14,1,2,0,Penguin,5,17,0.31 
+2015,10,17,17:15,149,927,1,642,16,8,9,6,7,2,927,11,22,0.50 
+2015,10,17,15:00,483,927,0,642,16,4,12,3,4,1,927,5,17,0.36 
+2015,09,19,13:30,889,927,0,642,16,14,8,7,8,7,927,17,27,0.75 
+2015,09,12,14:00,34,927,0,642,16,1,14,1,2,0,927,5,17,0.31 

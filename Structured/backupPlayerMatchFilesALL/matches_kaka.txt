@@ -1,4 +1,4 @@
-2016,05,09,00:45,RivaL,Kingdom,mirage,MLG Regional Minor North Ameri..,16,9,12,3,4,6,Kingdom,12,18,0.70 
-2016,05,08,20:40,Kingdom,DISMAY,dust2,MLG Regional Minor North Ameri..,16,8,9,6,7,2,Kingdom,15,17,0.91 
-2016,05,08,18:00,Kingdom,WithoutaRoof,cobblestone,MLG Regional Minor North Ameri..,8,16,6,9,2,7,Kingdom,18,20,0.98 
-2016,05,08,18:00,WithoutaRoof,Kingdom,dust2,MLG Regional Minor North Ameri..,16,14,10,5,6,9,Kingdom,29,21,1.44 
+2016,05,09,00:45,394,263,0,581,16,9,12,3,4,6,263,12,18,0.70 
+2016,05,08,20:40,263,450,1,581,16,8,9,6,7,2,263,15,17,0.91 
+2016,05,08,18:00,263,446,14,581,8,16,6,9,2,7,263,18,20,0.98 
+2016,05,08,18:00,446,263,1,581,16,14,10,5,6,9,263,29,21,1.44 

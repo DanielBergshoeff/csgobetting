@@ -1,9 +1,9 @@
-2016,06,25,14:30,Seven11,Singularity,overpass,Dust2.dk eOddset Kinguin #1,11,16,8,7,3,9,Seven11,20,17,1.03 
-2016,06,25,13:30,Seven11,übern00bz,cache,Dust2.dk eOddset Kinguin #1,16,4,12,3,4,1,Seven11,27,8,2.14 
-2016,06,25,12:00,Magistra,Seven11,dust2,Dust2.dk eOddset Kinguin #1,16,5,13,2,3,3,Seven11,13,19,0.68 
-2016,06,03,19:15,KoNFinland,KoNDenmark,cache,King of Nordic Season 4,16,14,10,5,6,9,KoN Denmark,24,19,1.08 
-2016,02,19,21:00,Preparation,Optimum,cache,Nordic Masters Season 2 Finals,16,11,8,7,8,4,Optimum,20,17,1.11 
-2016,02,19,21:00,Optimum,Preparation,inferno,Nordic Masters Season 2 Finals,9,16,8,7,1,9,Optimum,14,20,0.70 
-2016,02,19,18:15,Optimum,Temporaryorgless,cache,Nordic Masters Season 2 Finals,16,2,13,2,3,0,Optimum,14,7,1.31 
-2016,02,19,18:15,Optimum,Temporaryorgless,mirage,Nordic Masters Season 2 Finals,16,3,13,2,3,1,Optimum,14,8,1.33 
-2016,02,19,12:35,Optimum,Publiclir.se,mirage,Nordic Masters Season 2 Finals,16,19,5,10,10,5,Optimum,27,27,1.05 
+2016,06,25,14:30,342,338,4,542,11,16,8,7,3,9,342,20,17,1.03 
+2016,06,25,13:30,342,341,7,542,16,4,12,3,4,1,342,27,8,2.14 
+2016,06,25,12:00,117,342,1,542,16,5,13,2,3,3,342,13,19,0.68 
+2016,06,03,19:15,80,83,7,484,16,14,10,5,6,9,83,24,19,1.08 
+2016,02,19,21:00,184,678,7,648,16,11,8,7,8,4,678,20,17,1.11 
+2016,02,19,21:00,678,184,6,648,9,16,8,7,1,9,678,14,20,0.70 
+2016,02,19,18:15,678,680,7,648,16,2,13,2,3,0,678,14,7,1.31 
+2016,02,19,18:15,678,680,0,648,16,3,13,2,3,1,678,14,8,1.33 
+2016,02,19,12:35,678,517,0,648,16,19,5,10,10,5,678,27,27,1.05 

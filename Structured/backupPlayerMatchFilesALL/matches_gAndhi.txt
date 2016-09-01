@@ -1,34 +1,34 @@
-2016,06,07,18:00,GameAgents,Secretfe,mirage,owayo Masters I,16,7,10,5,6,2,GameAgents,24,7,1.72 
-2016,06,07,18:00,Secretfe,GameAgents,cache,owayo Masters I,11,16,7,8,4,8,GameAgents,18,16,1.04 
-2016,05,29,12:15,ex-Deathtrap,ENCE,cache,DreamHack ZOWIE Open Summer 20..,14,16,9,6,5,10,ex-Deathtrap,19,19,0.91 
-2016,05,29,12:15,ENCE,ex-Deathtrap,mirage,DreamHack ZOWIE Open Summer 20..,16,6,11,4,5,2,ex-Deathtrap,13,20,0.65 
-2016,05,28,18:00,ex-Deathtrap,fguru,cache,DreamHack ZOWIE Open Summer 20..,16,11,6,9,10,2,ex-Deathtrap,24,16,1.29 
-2016,05,25,21:15,FiVe,Deathtrap,cache,RGN Pro Series II EU Closed Qu..,7,16,7,8,0,8,Deathtrap,14,11,1.14 
-2016,05,25,21:15,Deathtrap,FiVe,cobblestone,RGN Pro Series II EU Closed Qu..,16,11,7,8,9,3,Deathtrap,18,16,0.95 
-2016,05,18,19:00,Deathtrap,k1ck,dust2,RGN Pro Series II EU Closed Qu..,16,14,5,10,11,4,Deathtrap,13,18,0.73 
-2016,05,18,19:00,k1ck,Deathtrap,cache,RGN Pro Series II EU Closed Qu..,14,16,9,6,5,10,Deathtrap,23,20,1.14 
-2016,05,12,21:00,Deathtrap,CS-GO.rs,dust2,Balkan Championship Season 3,16,3,12,3,4,0,Deathtrap,21,4,1.90 
-2016,05,09,19:00,Deathtrap,iNation,cache,Balkan Championship Season 3,16,5,10,5,6,0,Deathtrap,17,11,1.18 
-2016,04,23,21:30,XPC,Deathtrap,cache,Balkan Championship Season 3,16,6,10,5,6,1,Deathtrap,10,18,0.58 
-2016,04,22,22:00,GameAgents,Deathtrap,cobblestone,Balkan Championship Season 3,16,12,11,4,5,8,Deathtrap,18,20,0.96 
-2016,04,11,21:15,Deathtrap,Pixel,dust2,Balkan Championship Season 3,19,16,6,9,9,6,Deathtrap,21,18,0.98 
-2016,04,07,19:00,Bpro,Deathtrap,train,Balkan Championship Season 3,16,8,11,4,5,4,Deathtrap,15,20,0.73 
-2016,04,04,21:00,aimclub,Deathtrap,cache,Balkan Championship Season 3,16,12,6,9,10,3,Deathtrap,10,21,0.56 
-2016,03,30,19:00,Deathtrap,TogetherAsOne,cache,Balkan Championship Season 3,16,8,9,6,7,2,Deathtrap,18,14,1.06 
-2016,03,27,18:00,Deathtrap,SuperMassive,cache,Balkan Championship Season 3,16,3,12,3,4,0,Deathtrap,15,8,1.28 
-2016,03,22,22:00,RB,Deathtrap,dust2,Balkan Championship Season 3,9,16,8,7,1,9,Deathtrap,7,14,0.62 
-2016,03,08,23:50,ex-Epiphany,Deathtrap,cobblestone,Razer Rising Stars European Le..,16,6,11,4,5,2,Deathtrap,12,20,0.61 
-2016,03,08,21:50,Deathtrap,GameAgents,mirage,Razer Rising Stars European Le..,16,6,9,6,7,0,Deathtrap,16,12,1.32 
-2016,02,24,21:15,Pixel,Deathtrap,mirage,Balkan Challenge #1,12,16,4,11,8,5,Deathtrap,12,19,0.66 
-2016,02,24,21:15,Pixel,Deathtrap,inferno,Balkan Challenge #1,14,16,7,8,7,8,Deathtrap,20,21,0.94 
-2016,02,24,19:00,Deathtrap,iNation,train,Balkan Challenge #1,16,10,11,4,5,6,Deathtrap,18,19,0.98 
-2016,02,22,22:00,Deathtrap,GIANT5,cache,Balkan Challenge #1,16,9,11,4,5,5,Deathtrap,19,15,1.19 
-2016,02,22,20:00,Deathtrap,Pixel,cobblestone,Balkan Challenge #1,16,13,5,10,11,3,Deathtrap,17,18,0.90 
-2016,01,10,12:00,Deathtrap,FlipSid3,cache,DreamHack Open Leipzig 2016 Cl..,4,16,4,11,0,5,Deathtrap,8,17,0.54 
-2016,01,10,12:00,Deathtrap,FlipSid3,train,DreamHack Open Leipzig 2016 Cl..,17,21,5,10,10,5,Deathtrap,24,25,0.91 
-2015,04,27,20:00,SpaceSoldiers,EZPZ_LS,cache,ESL South East Europe Champion..,16,5,11,4,5,1,Space Soldiers,16,7,1.36 
-2015,04,27,20:00,EZPZ_LS,SpaceSoldiers,mirage,ESL South East Europe Champion..,9,16,9,6,0,10,Space Soldiers,19,12,1.20 
-2015,04,23,18:00,SpaceSoldiers,RB,dust2,ESL South East Europe Champion..,16,8,10,5,6,3,Space Soldiers,16,9,1.19 
-2015,04,23,18:00,SpaceSoldiers,RB,mirage,ESL South East Europe Champion..,16,5,11,4,5,1,Space Soldiers,13,8,1.05 
-2015,04,16,18:15,SpaceSoldiers,KnockOutStars,cache,ESL South East Europe Champion..,16,12,8,7,8,5,Space Soldiers,16,15,0.89 
-2015,04,16,18:15,SpaceSoldiers,KnockOutStars,dust2,ESL South East Europe Champion..,16,10,7,8,9,2,Space Soldiers,20,15,1.12 
+2016,06,07,18:00,358,261,0,550,16,7,10,5,6,2,358,24,7,1.72 
+2016,06,07,18:00,261,358,7,550,11,16,7,8,4,8,358,18,16,1.04 
+2016,05,29,12:15,397,132,7,546,14,16,9,6,5,10,397,19,19,0.91 
+2016,05,29,12:15,132,397,0,546,16,6,11,4,5,2,397,13,20,0.65 
+2016,05,28,18:00,397,399,7,546,16,11,6,9,10,2,397,24,16,1.29 
+2016,05,25,21:15,405,406,7,496,7,16,7,8,0,8,406,14,11,1.14 
+2016,05,25,21:15,406,405,14,496,16,11,7,8,9,3,406,18,16,0.95 
+2016,05,18,19:00,406,287,1,496,16,14,5,10,11,4,406,13,18,0.73 
+2016,05,18,19:00,287,406,7,496,14,16,9,6,5,10,406,23,20,1.14 
+2016,05,12,21:00,406,276,1,556,16,3,12,3,4,0,406,21,4,1.90 
+2016,05,09,19:00,406,275,7,556,16,5,10,5,6,0,406,17,11,1.18 
+2016,04,23,21:30,379,406,7,556,16,6,10,5,6,1,406,10,18,0.58 
+2016,04,22,22:00,358,406,14,556,16,12,11,4,5,8,406,18,20,0.96 
+2016,04,11,21:15,406,444,1,556,19,16,6,9,9,6,406,21,18,0.98 
+2016,04,07,19:00,262,406,2,556,16,8,11,4,5,4,406,15,20,0.73 
+2016,04,04,21:00,157,406,7,556,16,12,6,9,10,3,406,10,21,0.56 
+2016,03,30,19:00,406,505,7,556,16,8,9,6,7,2,406,18,14,1.06 
+2016,03,27,18:00,406,457,7,556,16,3,12,3,4,0,406,15,8,1.28 
+2016,03,22,22:00,433,406,1,556,9,16,8,7,1,9,406,7,14,0.62 
+2016,03,08,23:50,636,406,14,498,16,6,11,4,5,2,406,12,20,0.61 
+2016,03,08,21:50,406,358,0,498,16,6,9,6,7,0,406,16,12,1.32 
+2016,02,24,21:15,444,406,0,645,12,16,4,11,8,5,406,12,19,0.66 
+2016,02,24,21:15,444,406,6,645,14,16,7,8,7,8,406,20,21,0.94 
+2016,02,24,19:00,406,275,2,645,16,10,11,4,5,6,406,18,19,0.98 
+2016,02,22,22:00,406,656,7,645,16,9,11,4,5,5,406,19,15,1.19 
+2016,02,22,20:00,406,444,14,645,16,13,5,10,11,3,406,17,18,0.90 
+2016,01,10,12:00,406,13,7,679,4,16,4,11,0,5,406,8,17,0.54 
+2016,01,10,12:00,406,13,2,679,17,21,5,10,10,5,406,24,25,0.91 
+2015,04,27,20:00,29,283,7,560,16,5,11,4,5,1,29,16,7,1.36 
+2015,04,27,20:00,283,29,0,560,9,16,9,6,0,10,29,19,12,1.20 
+2015,04,23,18:00,29,433,1,560,16,8,10,5,6,3,29,16,9,1.19 
+2015,04,23,18:00,29,433,0,560,16,5,11,4,5,1,29,13,8,1.05 
+2015,04,16,18:15,29,1094,7,560,16,12,8,7,8,5,29,16,15,0.89 
+2015,04,16,18:15,29,1094,1,560,16,10,7,8,9,2,29,20,15,1.12 

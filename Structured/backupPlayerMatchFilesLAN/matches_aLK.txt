@@ -1,2 +1,0 @@
-2016,07,16,18:50,CS-GO.rs,Executors,cobblestone,GamePub 2016,16,9,8,7,8,2,Executors,14,20,0.68 
-2016,07,16,18:50,CS-GO.rs,Executors,dust2,GamePub 2016,22,20,9,6,6,9,Executors,27,27,1.05 

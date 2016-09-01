@@ -1,3 +1,0 @@
-2016,07,22,09:15,FIVE,EP,cache,Pro Gamer League 2016 Summer F..,15,15,7,8,8,7,EP,23,23,0.97 
-2016,07,22,05:45,X,EP,overpass,Pro Gamer League 2016 Summer F..,16,0,15,0,1,0,EP,6,16,0.42 
-2016,07,22,04:00,VG.CyberZen,EP,cache,Pro Gamer League 2016 Summer F..,16,2,13,2,3,0,EP,3,18,0.14 

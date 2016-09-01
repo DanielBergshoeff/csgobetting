@@ -1,2 +1,0 @@
-2015,09,06,01:00,SYF,Skyfire,train,ACL Melbourne 2015,5,16,5,10,0,6,SYF,9,18,0.56 
-2015,09,06,01:00,Skyfire,SYF,cobblestone,ACL Melbourne 2015,14,16,8,7,6,9,SYF,15,25,0.61 

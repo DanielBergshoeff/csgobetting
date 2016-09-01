@@ -1,2 +1,2 @@
-2016,03,25,07:30,BootyClappers,One,overpass,Razer Rising Stars NA League Q..,16,5,11,4,5,1,Booty Clappers,18,14,1.18 
-2016,03,25,04:30,DSS,BootyClappers,train,Razer Rising Stars NA League Q..,11,16,9,6,2,10,Booty Clappers,25,20,1.29 
+2016,03,25,07:30,530,531,4,621,16,5,11,4,5,1,530,18,14,1.18 
+2016,03,25,04:30,535,530,2,621,11,16,9,6,2,10,530,25,20,1.29 

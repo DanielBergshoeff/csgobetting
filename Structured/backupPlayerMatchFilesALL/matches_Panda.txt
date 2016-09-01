@@ -1,49 +1,49 @@
-2016,08,09,20:00,xTc,carboN,dust2,ESEA Open Season 22 South Afri..,2,16,2,13,0,3,xTc,10,15,0.76 
-2016,08,09,20:00,xTc,carboN,mirage,ESEA Open Season 22 South Afri..,12,16,6,9,6,7,xTc,19,21,1.04 
-2016,07,30,21:35,xTc,DamageControl,cobblestone,ESWC 2016 South African Qualif..,13,16,4,11,9,5,xTc,18,19,1.00 
-2016,07,30,21:35,xTc,DamageControl,cache,ESWC 2016 South African Qualif..,3,16,3,12,0,4,xTc,16,19,0.89 
-2016,07,29,21:45,xTc,Curiosity,train,ESWC 2016 South African Qualif..,16,10,10,5,6,5,xTc,22,18,1.23 
-2016,07,29,21:45,xTc,Curiosity,cobblestone,ESWC 2016 South African Qualif..,20,22,4,11,11,4,xTc,30,35,0.83 
-2016,07,29,21:45,Curiosity,xTc,cache,ESWC 2016 South African Qualif..,6,16,3,12,3,4,xTc,24,13,1.48 
-2016,07,29,14:00,xTc,WhiteRabbit,mirage,ESWC 2016 South African Qualif..,16,11,13,2,3,9,xTc,22,21,1.06 
-2016,07,29,14:00,xTc,WhiteRabbit,dust2,ESWC 2016 South African Qualif..,12,16,7,8,5,8,xTc,15,20,0.76 
-2016,07,29,14:00,WhiteRabbit,xTc,cache,ESWC 2016 South African Qualif..,6,16,5,10,1,6,xTc,16,15,1.00 
-2016,07,03,17:15,jA'Vi,AlienTech,dust2,AlienTech CS:GO TiTans II Fina..,19,17,12,3,3,12,jA'Vi,24,23,1.00 
-2016,07,03,17:15,jA'Vi,AlienTech,cache,AlienTech CS:GO TiTans II Fina..,16,13,7,8,9,5,jA'Vi,14,21,0.75 
-2016,07,03,17:15,jA'Vi,AlienTech,nuke,AlienTech CS:GO TiTans II Fina..,14,16,6,9,8,7,jA'Vi,25,20,1.16 
-2016,07,03,17:15,AlienTech,jA'Vi,mirage,AlienTech CS:GO TiTans II Fina..,1,16,1,14,0,2,jA'Vi,10,8,0.96 
-2016,07,03,13:00,jA'Vi,Phantoms,nuke,AlienTech CS:GO TiTans II Fina..,16,2,14,1,2,1,jA'Vi,20,9,1.72 
-2016,07,03,13:00,jA'Vi,Phantoms,cache,AlienTech CS:GO TiTans II Fina..,6,16,5,10,1,6,jA'Vi,16,16,0.96 
-2016,07,03,13:00,Phantoms,jA'Vi,dust2,AlienTech CS:GO TiTans II Fina..,10,16,6,9,4,7,jA'Vi,18,18,0.96 
-2016,07,02,20:45,jA'Vi,AlienTech,mirage,AlienTech CS:GO TiTans II Fina..,14,16,11,4,3,12,jA'Vi,24,20,1.21 
-2016,07,02,20:45,AlienTech,jA'Vi,cache,AlienTech CS:GO TiTans II Fina..,16,11,10,5,6,6,jA'Vi,6,20,0.42 
-2016,07,02,11:25,LosMariachis,jA'Vi,cobblestone,AlienTech CS:GO TiTans II Fina..,3,16,3,12,0,4,jA'Vi,17,8,1.37 
-2016,07,02,11:25,jA'Vi,LosMariachis,dust2,AlienTech CS:GO TiTans II Fina..,16,5,11,4,5,1,jA'Vi,20,7,1.62 
-2016,05,28,21:15,AlienTech,jA'Vi,cache,AlienTech CS:GO Invitational I..,19,16,4,11,11,4,jA'Vi,26,23,1.02 
-2016,05,28,21:15,jA'Vi,AlienTech,dust2,AlienTech CS:GO Invitational I..,5,16,5,10,0,6,jA'Vi,12,18,0.76 
-2016,05,28,21:15,AlienTech,jA'Vi,cobblestone,AlienTech CS:GO Invitational I..,14,16,6,9,8,7,jA'Vi,23,21,1.00 
-2016,05,20,21:40,AlienTech,Lions,cobblestone,xfunction Challenge,16,19,6,9,9,6,AlienTech,0,2,0.76 
-2016,03,24,15:30,Ollebolle,Wicked,cobblestone,Copenhagen Games 2016 BYOC Qua..,5,16,4,11,1,5,Ollebolle,16,17,1.07 
-2016,03,24,13:00,Ollebolle,FAB,dust2,Copenhagen Games 2016 BYOC Qua..,0,16,0,15,0,1,Ollebolle,5,16,0.26 
-2016,03,18,23:45,3R2L,AlienTech,inferno,AlienTech CS:GO Invitational I,8,16,6,9,2,7,3R2L,16,21,0.78 
-2016,03,18,21:35,RedLine,3R2L,mirage,AlienTech CS:GO Invitational I,16,19,14,1,1,14,3R2L,30,22,1.20 
-2016,03,18,19:50,3R2L,FTW.PRO,mirage,AlienTech CS:GO Invitational I,11,16,4,11,7,5,3R2L,22,23,0.93 
-2015,12,12,15:00,onlineBots,xTc,overpass,BHG CS:GO Tournament,5,16,5,10,0,6,xTc,25,13,1.77 
-2015,12,12,15:00,xTc,onlineBots,cache,BHG CS:GO Tournament,16,0,15,0,1,0,xTc,26,6,2.41 
-2015,12,12,13:30,Aperture,xTc,cobblestone,BHG CS:GO Tournament,16,9,8,7,8,2,xTc,19,18,1.05 
-2015,12,12,13:30,xTc,Aperture,inferno,BHG CS:GO Tournament,4,16,4,11,0,5,xTc,11,16,0.74 
-2015,11,08,13:30,SLTVStaff,NoobTubers,mirage,Virtus.pro Staff Cup #3,8,16,6,9,2,7,SLTV Staff,17,21,0.79 
-2015,11,08,13:30,SLTVStaff,NoobTubers,cobblestone,Virtus.pro Staff Cup #3,16,19,8,7,7,8,SLTV Staff,18,26,0.76 
-2015,11,08,13:30,NoobTubers,SLTVStaff,cache,Virtus.pro Staff Cup #3,8,16,5,10,3,6,SLTV Staff,25,15,1.49 
-2015,11,07,13:30,FACEITStaff,SLTVStaff,cache,Virtus.pro Staff Cup #3,4,16,3,12,1,4,SLTV Staff,25,7,1.98 
-2015,11,07,13:30,SLTVStaff,FACEITStaff,mirage,Virtus.pro Staff Cup #3,16,3,13,2,3,1,SLTV Staff,29,6,2.26 
-2015,10,03,19:30,eNergy,Aperture,inferno,MWEB GameZone Masters Series,16,0,15,0,1,0,Aperture,3,15,0.21 
-2015,10,03,19:30,Aperture,eNergy,mirage,MWEB GameZone Masters Series,16,5,10,5,6,0,Aperture,19,11,1.25 
-2015,10,03,19:30,eNergy,Aperture,overpass,MWEB GameZone Masters Series,16,3,13,2,3,1,Aperture,12,16,0.66 
-2015,10,03,16:15,Aperture,carboN,inferno,MWEB GameZone Masters Series,10,16,7,8,3,8,Aperture,14,21,0.65 
-2015,10,03,16:15,Aperture,carboN,cache,MWEB GameZone Masters Series,9,16,8,7,1,9,Aperture,14,18,0.74 
-2015,08,16,20:15,Aperture,Veneration,mirage,Fight Night: Season I,16,2,13,2,3,0,Aperture,23,9,2.06 
-2015,08,16,20:15,Aperture,Veneration,inferno,Fight Night: Season I,16,6,10,5,6,1,Aperture,20,15,1.28 
-2014,11,15,19:00,Virtus.proStaff,SLTVStaff,nuke,Virtus.pro Staff Cup #1,7,16,7,8,0,8,SLTV Staff,24,12,1.59 
-2014,11,15,18:00,SLTVStaff,RussianeSFStaff,inferno,Virtus.pro Staff Cup #1,16,0,15,0,1,0,SLTV Staff,21,3,1.96 
-2014,11,15,16:00,SLTVStaff,HLTV.orgStaff,cache,Virtus.pro Staff Cup #1,11,16,4,11,7,5,SLTV Staff,17,19,0.83 
+2016,08,09,20:00,131,19,1,475,2,16,2,13,0,3,131,10,15,0.76 
+2016,08,09,20:00,131,19,0,475,12,16,6,9,6,7,131,19,21,1.04 
+2016,07,30,21:35,131,12,14,500,13,16,4,11,9,5,131,18,19,1.00 
+2016,07,30,21:35,131,12,7,500,3,16,3,12,0,4,131,16,19,0.89 
+2016,07,29,21:45,131,211,2,500,16,10,10,5,6,5,131,22,18,1.23 
+2016,07,29,21:45,131,211,14,500,20,22,4,11,11,4,131,30,35,0.83 
+2016,07,29,21:45,211,131,7,500,6,16,3,12,3,4,131,24,13,1.48 
+2016,07,29,14:00,131,130,0,500,16,11,13,2,3,9,131,22,21,1.06 
+2016,07,29,14:00,131,130,1,500,12,16,7,8,5,8,131,15,20,0.76 
+2016,07,29,14:00,130,131,7,500,6,16,5,10,1,6,131,16,15,1.00 
+2016,07,03,17:15,317,278,1,529,19,17,12,3,3,12,317,24,23,1.00 
+2016,07,03,17:15,317,278,7,529,16,13,7,8,9,5,317,14,21,0.75 
+2016,07,03,17:15,317,278,5,529,14,16,6,9,8,7,317,25,20,1.16 
+2016,07,03,17:15,278,317,0,529,1,16,1,14,0,2,317,10,8,0.96 
+2016,07,03,13:00,317,318,5,529,16,2,14,1,2,1,317,20,9,1.72 
+2016,07,03,13:00,317,318,7,529,6,16,5,10,1,6,317,16,16,0.96 
+2016,07,03,13:00,318,317,1,529,10,16,6,9,4,7,317,18,18,0.96 
+2016,07,02,20:45,317,278,0,529,14,16,11,4,3,12,317,24,20,1.21 
+2016,07,02,20:45,278,317,7,529,16,11,10,5,6,6,317,6,20,0.42 
+2016,07,02,11:25,319,317,14,529,3,16,3,12,0,4,317,17,8,1.37 
+2016,07,02,11:25,317,319,1,529,16,5,11,4,5,1,317,20,7,1.62 
+2016,05,28,21:15,278,317,7,559,19,16,4,11,11,4,317,26,23,1.02 
+2016,05,28,21:15,317,278,1,559,5,16,5,10,0,6,317,12,18,0.76 
+2016,05,28,21:15,278,317,14,559,14,16,6,9,8,7,317,23,21,1.00 
+2016,05,20,21:40,278,400,14,544,16,19,6,9,9,6,278,0,2,0.76 
+2016,03,24,15:30,566,551,14,623,5,16,4,11,1,5,566,16,17,1.07 
+2016,03,24,13:00,566,425,1,623,0,16,0,15,0,1,566,5,16,0.26 
+2016,03,18,23:45,595,278,6,626,8,16,6,9,2,7,595,16,21,0.78 
+2016,03,18,21:35,434,595,0,626,16,19,14,1,1,14,595,30,22,1.20 
+2016,03,18,19:50,595,300,0,626,11,16,4,11,7,5,595,22,23,0.93 
+2015,12,12,15:00,773,131,4,708,5,16,5,10,0,6,131,25,13,1.77 
+2015,12,12,15:00,131,773,7,708,16,0,15,0,1,0,131,26,6,2.41 
+2015,12,12,13:30,40,131,14,708,16,9,8,7,8,2,131,19,18,1.05 
+2015,12,12,13:30,131,40,6,708,4,16,4,11,0,5,131,11,16,0.74 
+2015,11,08,13:30,876,859,0,750,8,16,6,9,2,7,876,17,21,0.79 
+2015,11,08,13:30,876,859,14,750,16,19,8,7,7,8,876,18,26,0.76 
+2015,11,08,13:30,859,876,7,750,8,16,5,10,3,6,876,25,15,1.49 
+2015,11,07,13:30,885,876,7,750,4,16,3,12,1,4,876,25,7,1.98 
+2015,11,07,13:30,876,885,0,750,16,3,13,2,3,1,876,29,6,2.26 
+2015,10,03,19:30,143,40,6,795,16,0,15,0,1,0,40,3,15,0.21 
+2015,10,03,19:30,40,143,0,795,16,5,10,5,6,0,40,19,11,1.25 
+2015,10,03,19:30,143,40,4,795,16,3,13,2,3,1,40,12,16,0.66 
+2015,10,03,16:15,40,19,6,795,10,16,7,8,3,8,40,14,21,0.65 
+2015,10,03,16:15,40,19,7,795,9,16,8,7,1,9,40,14,18,0.74 
+2015,08,16,20:15,40,212,0,852,16,2,13,2,3,0,40,23,9,2.06 
+2015,08,16,20:15,40,212,6,852,16,6,10,5,6,1,40,20,15,1.28 
+2014,11,15,19:00,881,876,5,987,7,16,7,8,0,8,876,24,12,1.59 
+2014,11,15,18:00,876,1164,6,987,16,0,15,0,1,0,876,21,3,1.96 
+2014,11,15,16:00,876,858,7,987,11,16,4,11,7,5,876,17,19,0.83 

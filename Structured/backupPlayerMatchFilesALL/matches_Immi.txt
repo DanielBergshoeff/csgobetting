@@ -1,41 +1,41 @@
-2016,05,10,20:15,DenDD,AlterYourEgo,train,Operation: Kinguin #3,16,1,14,1,2,0,Alter Your Ego,4,16,0.28 
-2016,05,10,20:15,DenDD,AlterYourEgo,cache,Operation: Kinguin #3,16,6,11,4,5,2,Alter Your Ego,7,22,0.29 
-2016,04,12,18:00,E-frag.net,AlterYourEgo,inferno,CEVO Gfinity Professional Seas..,16,3,13,2,3,1,Alter Your Ego,8,18,0.46 
-2016,04,12,18:00,E-frag.net,AlterYourEgo,cobblestone,CEVO Gfinity Professional Seas..,16,8,7,8,9,0,Alter Your Ego,17,19,0.96 
-2016,04,08,19:00,AlterYourEgo,ENCE,cobblestone,Uprise Champions Cup Season 4,6,16,2,13,4,3,Alter Your Ego,2,19,0.19 
-2016,04,08,19:00,AlterYourEgo,ENCE,cache,Uprise Champions Cup Season 4,2,16,2,13,0,3,Alter Your Ego,4,18,0.22 
-2016,03,14,18:45,fm-eSports,Gambit,inferno,Uprise Champions Cup Season 4,10,16,4,11,6,5,fm-eSports,13,21,0.62 
-2016,03,14,18:45,Gambit,fm-eSports,mirage,Uprise Champions Cup Season 4,16,10,6,9,10,1,fm-eSports,19,20,0.98 
-2016,03,14,18:45,Gambit,fm-eSports,cobblestone,Uprise Champions Cup Season 4,10,16,10,5,0,11,fm-eSports,18,17,0.99 
-2016,03,10,20:15,dignitas,fm-eSports,cobblestone,CEVO Gfinity Professional Seas..,16,12,8,7,8,5,fm-eSports,15,25,0.62 
-2016,03,10,20:15,dignitas,fm-eSports,train,CEVO Gfinity Professional Seas..,16,4,14,1,2,3,fm-eSports,12,16,0.75 
-2016,03,09,19:15,Gambit,fm-eSports,train,Operation: Kinguin #2,16,9,7,8,9,1,fm-eSports,18,21,0.99 
-2016,03,09,19:15,Gambit,fm-eSports,cobblestone,Operation: Kinguin #2,16,10,8,7,8,3,fm-eSports,13,18,0.69 
-2016,01,30,22:00,fm-eSports,GameAgents,cache,Uprise Champions Cup Season 4 ..,16,13,10,5,6,8,fm-eSports,10,24,0.47 
-2016,01,30,22:00,fm-eSports,GameAgents,inferno,Uprise Champions Cup Season 4 ..,19,17,7,8,8,7,fm-eSports,15,28,0.56 
-2016,01,28,19:00,fm-eSports,Lions,cache,Uprise Champions Cup Season 4 ..,16,14,9,6,7,8,fm-eSports,14,25,0.62 
-2015,11,26,19:30,LowLandLions,fm-eSports,inferno,QuickShot Arena #16,16,5,13,2,3,3,fm-eSports,6,19,0.37 
-2015,11,26,17:00,fm-eSports,YP,cache,QuickShot Arena #16,3,16,3,12,0,4,fm-eSports,9,17,0.54 
-2015,10,24,12:00,Infused,Choke,mirage,ESL UK Premiership Season 2 Fi..,16,9,9,6,7,3,Choke,14,20,0.75 
-2015,10,24,12:00,Infused,Choke,inferno,ESL UK Premiership Season 2 Fi..,16,1,14,1,2,0,Choke,7,16,0.53 
-2015,10,24,12:00,Choke,Infused,dust2,ESL UK Premiership Season 2 Fi..,16,10,12,3,4,7,Choke,21,15,1.22 
-2015,10,07,19:30,Choke,ESC,mirage,QuickShot Arena #10,8,16,5,10,3,6,Choke,19,17,1.04 
-2015,10,07,18:15,EpiphanyBolt,Choke,train,QuickShot Arena #10,16,2,15,0,1,2,Choke,8,16,0.66 
-2015,09,28,22:00,Choke,fish123,mirage,ESL UK Premiership Season 2,8,16,5,10,3,6,Choke,10,18,0.60 
-2015,09,21,22:00,Choke,GLG,mirage,ESL UK Premiership Season 2,16,10,8,7,8,3,Choke,18,17,0.97 
-2015,09,14,22:00,Choke,UnitedEstonia,inferno,ESL UK Premiership Season 2,8,16,8,7,0,9,Choke,12,20,0.65 
-2015,09,07,23:15,Choke,CeX,inferno,ESL UK Premiership Season 2,16,4,11,4,5,0,Choke,15,12,1.13 
-2015,08,31,20:00,Choke,CSGOCasino.net,overpass,ESL UK Premiership Season 2,13,16,9,6,4,10,Choke,11,22,0.61 
-2015,08,30,21:30,Choke,EZskins.com,overpass,Multiplay i55,11,16,7,8,4,8,Choke,13,23,0.57 
-2015,08,30,21:30,EZskins.com,Choke,inferno,Multiplay i55,16,8,14,1,2,7,Choke,13,22,0.71 
-2015,08,30,16:16,Infused,Choke,cache,Multiplay i55,14,16,7,8,7,8,Choke,13,26,0.51 
-2015,08,30,16:15,Infused,Choke,dust2,Multiplay i55,16,9,10,5,6,4,Choke,14,20,0.84 
-2015,08,30,16:15,Infused,Choke,overpass,Multiplay i55,19,21,8,7,7,8,Choke,35,29,1.20 
-2015,08,25,22:00,Choke,fm-eSports,inferno,ESL UK Premiership Season 2,16,12,6,9,10,3,Choke,26,17,1.32 
-2015,08,17,22:30,Choke,Infused,overpass,ESL UK Premiership Season 2,16,8,10,5,6,3,Choke,20,16,1.11 
-2015,04,21,23:00,MALIK,exceL,cache,ESL UK Premiership Season 1,6,16,3,12,3,4,MALIK,5,20,0.29 
-2015,04,21,23:00,exceL,MALIK,nuke,ESL UK Premiership Season 1,16,13,9,6,7,7,MALIK,16,19,0.82 
-2015,04,21,23:00,MALIK,XENEX,inferno,ESL UK Premiership Season 1,8,16,2,13,6,3,MALIK,18,17,1.08 
-2015,04,21,20:00,MALIK,XENEX,cache,ESL UK Premiership Season 1,14,16,8,7,6,9,MALIK,14,20,0.70 
-2015,04,20,20:00,MALIK,PerilousRAGE,inferno,ESL UK Premiership Season 1,16,3,12,3,4,0,MALIK,18,10,1.48 
-2015,04,20,20:00,MALIK,PerilousRAGE,cache,ESL UK Premiership Season 1,16,11,7,8,9,3,MALIK,20,21,0.97 
+2016,05,10,20:15,147,445,2,499,16,1,14,1,2,0,445,4,16,0.28 
+2016,05,10,20:15,147,445,7,499,16,6,11,4,5,2,445,7,22,0.29 
+2016,04,12,18:00,472,445,6,590,16,3,13,2,3,1,445,8,18,0.46 
+2016,04,12,18:00,472,445,14,590,16,8,7,8,9,0,445,17,19,0.96 
+2016,04,08,19:00,445,132,14,536,6,16,2,13,4,3,445,2,19,0.19 
+2016,04,08,19:00,445,132,7,536,2,16,2,13,0,3,445,4,18,0.22 
+2016,03,14,18:45,599,152,6,536,10,16,4,11,6,5,599,13,21,0.62 
+2016,03,14,18:45,152,599,0,536,16,10,6,9,10,1,599,19,20,0.98 
+2016,03,14,18:45,152,599,14,536,10,16,10,5,0,11,599,18,17,0.99 
+2016,03,10,20:15,22,599,14,590,16,12,8,7,8,5,599,15,25,0.62 
+2016,03,10,20:15,22,599,2,590,16,4,14,1,2,3,599,12,16,0.75 
+2016,03,09,19:15,152,599,2,605,16,9,7,8,9,1,599,18,21,0.99 
+2016,03,09,19:15,152,599,14,605,16,10,8,7,8,3,599,13,18,0.69 
+2016,01,30,22:00,599,358,7,656,16,13,10,5,6,8,599,10,24,0.47 
+2016,01,30,22:00,599,358,6,656,19,17,7,8,8,7,599,15,28,0.56 
+2016,01,28,19:00,599,400,7,656,16,14,9,6,7,8,599,14,25,0.62 
+2015,11,26,19:30,218,599,6,730,16,5,13,2,3,3,599,6,19,0.37 
+2015,11,26,17:00,599,537,7,730,3,16,3,12,0,4,599,9,17,0.54 
+2015,10,24,12:00,315,908,0,774,16,9,9,6,7,3,908,14,20,0.75 
+2015,10,24,12:00,315,908,6,774,16,1,14,1,2,0,908,7,16,0.53 
+2015,10,24,12:00,908,315,1,774,16,10,12,3,4,7,908,21,15,1.22 
+2015,10,07,19:30,908,841,0,788,8,16,5,10,3,6,908,19,17,1.04 
+2015,10,07,18:15,137,908,2,788,16,2,15,0,1,2,908,8,16,0.66 
+2015,09,28,22:00,908,964,0,803,8,16,5,10,3,6,908,10,18,0.60 
+2015,09,21,22:00,908,963,0,803,16,10,8,7,8,3,908,18,17,0.97 
+2015,09,14,22:00,908,316,6,803,8,16,8,7,0,9,908,12,20,0.65 
+2015,09,07,23:15,908,701,6,803,16,4,11,4,5,0,908,15,12,1.13 
+2015,08,31,20:00,908,997,4,803,13,16,9,6,4,10,908,11,22,0.61 
+2015,08,30,21:30,908,792,4,837,11,16,7,8,4,8,908,13,23,0.57 
+2015,08,30,21:30,792,908,6,837,16,8,14,1,2,7,908,13,22,0.71 
+2015,08,30,16:16,315,908,7,837,14,16,7,8,7,8,908,13,26,0.51 
+2015,08,30,16:15,315,908,1,837,16,9,10,5,6,4,908,14,20,0.84 
+2015,08,30,16:15,315,908,4,837,19,21,8,7,7,8,908,35,29,1.20 
+2015,08,25,22:00,908,599,6,803,16,12,6,9,10,3,908,26,17,1.32 
+2015,08,17,22:30,908,315,4,803,16,8,10,5,6,3,908,20,16,1.11 
+2015,04,21,23:00,1098,268,7,933,6,16,3,12,3,4,1098,5,20,0.29 
+2015,04,21,23:00,268,1098,5,933,16,13,9,6,7,7,1098,16,19,0.82 
+2015,04,21,23:00,1098,907,6,933,8,16,2,13,6,3,1098,18,17,1.08 
+2015,04,21,20:00,1098,907,7,933,14,16,8,7,6,9,1098,14,20,0.70 
+2015,04,20,20:00,1098,1099,6,933,16,3,12,3,4,0,1098,18,10,1.48 
+2015,04,20,20:00,1098,1099,7,933,16,11,7,8,9,3,1098,20,21,0.97 

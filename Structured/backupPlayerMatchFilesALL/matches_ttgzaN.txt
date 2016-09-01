@@ -1,4 +1,4 @@
-2016,03,10,17:30,Reason,Method,cache,Game Show Spring Invitational ..,0,16,0,15,0,1,Reason,8,16,0.49 
-2016,03,10,17:30,Reason,Method,mirage,Game Show Spring Invitational ..,5,16,4,11,1,5,Reason,5,19,0.28 
-2016,03,09,18:30,E-frag.net,Reason,dust2,Game Show Spring Invitational ..,16,1,15,0,1,1,Reason,9,16,0.52 
-2016,03,09,18:30,Reason,E-frag.net,cache,Game Show Spring Invitational ..,2,16,2,13,0,3,Reason,3,17,0.18 
+2016,03,10,17:30,314,496,7,495,0,16,0,15,0,1,314,8,16,0.49 
+2016,03,10,17:30,314,496,0,495,5,16,4,11,1,5,314,5,19,0.28 
+2016,03,09,18:30,472,314,1,495,16,1,15,0,1,1,314,9,16,0.52 
+2016,03,09,18:30,314,472,7,495,2,16,2,13,0,3,314,3,17,0.18 

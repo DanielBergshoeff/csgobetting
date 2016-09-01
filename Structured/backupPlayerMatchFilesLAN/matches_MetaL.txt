@@ -1,5 +1,0 @@
-2015,10,09,20:30,Belgium,Norway,dust2,World Championships 2015,12,16,5,10,7,6,Belgium,19,21,0.94 
-2015,10,09,20:30,Norway,Belgium,inferno,World Championships 2015,16,19,9,6,6,9,Belgium,25,23,1.04 
-2015,10,09,20:30,Belgium,Norway,mirage,World Championships 2015,16,19,8,7,7,8,Belgium,30,25,1.13 
-2015,10,09,15:15,Belgium,Singapore,dust2,World Championships 2015,16,6,9,6,7,0,Belgium,20,17,1.29 
-2015,10,09,13:45,Belgium,Canada,train,World Championships 2015,9,16,9,6,0,10,Belgium,12,22,0.55 

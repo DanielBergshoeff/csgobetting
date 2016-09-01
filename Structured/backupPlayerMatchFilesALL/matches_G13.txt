@@ -1,4 +1,4 @@
-2015,12,05,07:20,TheHuggies,OVP,overpass,TecnoLAN Pasarela 2015 LAN Fin..,6,16,3,12,3,4,The Huggies,14,19,0.75 
-2015,12,05,07:20,OVP,TheHuggies,inferno,TecnoLAN Pasarela 2015 LAN Fin..,16,7,13,2,3,5,The Huggies,14,18,0.89 
-2015,12,04,18:30,TheHuggies,BountyHunters,mirage,TecnoLAN Pasarela 2015 LAN Fin..,16,9,8,7,8,2,The Huggies,15,13,0.99 
-2015,12,04,18:30,BountyHunters,TheHuggies,overpass,TecnoLAN Pasarela 2015 LAN Fin..,7,16,4,11,3,5,The Huggies,14,14,0.95 
+2015,12,05,07:20,811,802,4,717,6,16,3,12,3,4,811,14,19,0.75 
+2015,12,05,07:20,802,811,6,717,16,7,13,2,3,5,811,14,18,0.89 
+2015,12,04,18:30,811,810,0,717,16,9,8,7,8,2,811,15,13,0.99 
+2015,12,04,18:30,810,811,4,717,7,16,4,11,3,5,811,14,14,0.95 

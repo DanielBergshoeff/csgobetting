@@ -1,40 +1,40 @@
-2016,08,12,02:45,Blight,Prospects,cobblestone,SL i-League S2 Americas Qualif..,13,16,5,10,8,6,Blight,18,22,0.92 
-2016,08,12,02:45,Prospects,Blight,overpass,SL i-League S2 Americas Qualif..,22,19,6,9,9,6,Blight,15,31,0.53 
-2016,08,11,01:00,Blight,compLexity,train,SL i-League S2 Americas Qualif..,2,16,2,13,0,3,Blight,8,15,0.57 
-2016,08,11,01:00,compLexity,Blight,overpass,SL i-League S2 Americas Qualif..,13,16,8,7,5,9,Blight,28,20,1.38 
-2016,08,11,01:00,Blight,compLexity,cache,SL i-League S2 Americas Qualif..,8,16,5,10,3,6,Blight,14,18,0.79 
-2016,08,10,03:15,Kaliber,Blight,cache,SL i-League S2 Americas Qualif..,16,6,11,4,5,2,Blight,20,19,1.11 
-2016,08,10,03:15,Blight,Kaliber,cobblestone,SL i-League S2 Americas Qualif..,1,16,1,14,0,2,Blight,11,12,0.85 
-2016,08,08,04:40,Rush,Blight,mirage,ESEA Premier Season 22 North A..,16,13,10,5,6,8,Blight,20,20,0.97 
-2016,08,08,04:40,Blight,Rush,dust2,ESEA Premier Season 22 North A..,15,19,7,8,8,7,Blight,18,24,0.80 
-2016,05,09,03:15,WithoutaRoof,Noble,dust2,MLG Regional Minor North Ameri..,16,12,8,7,8,5,Noble,23,18,1.21 
-2016,05,09,02:00,Vault,Noble,cobblestone,MLG Regional Minor North Ameri..,13,16,7,8,6,8,Noble,22,20,1.03 
-2016,05,08,18:00,Noble,EchoFox,dust2,MLG Regional Minor North Ameri..,9,16,7,8,2,8,Noble,15,18,0.85 
-2016,05,08,18:00,Noble,EchoFox,mirage,MLG Regional Minor North Ameri..,9,16,8,7,1,9,Noble,21,18,1.19 
-2016,04,13,04:30,Splyce,Noble,cobblestone,CEVO Gfinity Professional Seas..,16,6,9,6,7,0,Noble,24,18,1.53 
-2016,04,13,04:30,Noble,Splyce,train,CEVO Gfinity Professional Seas..,13,16,6,9,7,7,Noble,20,22,0.93 
-2016,03,16,02:00,CLG,Noble,cobblestone,CEVO Gfinity Professional Seas..,16,6,10,5,6,1,Noble,16,16,0.96 
-2016,03,16,02:00,Noble,CLG,dust2,CEVO Gfinity Professional Seas..,7,16,5,10,2,6,Noble,14,20,0.74 
-2016,02,23,05:45,QuetzaL,Noble,inferno,GO:NA,16,9,10,5,6,4,Noble,19,19,1.06 
-2016,02,23,05:45,QuetzaL,Noble,cache,GO:NA,14,16,8,7,6,9,Noble,29,22,1.28 
-2016,02,23,05:45,Noble,QuetzaL,dust2,GO:NA,10,16,8,7,2,9,Noble,17,20,0.85 
-2016,02,20,03:00,Liquid,Noble,dust2,CEVO Gfinity Professional Seas..,16,9,9,6,7,3,Noble,9,21,0.45 
-2016,02,20,03:00,Liquid,Noble,cache,CEVO Gfinity Professional Seas..,16,6,10,5,6,1,Noble,25,18,1.49 
-2016,02,15,03:10,Noble,ex-AstralAuthority,mirage,CEVO Gfinity Professional Seas..,9,16,6,9,3,7,Noble,18,17,0.96 
-2016,02,15,02:00,Noble,ACE,inferno,CEVO Gfinity Professional Seas..,16,3,12,3,4,0,Noble,21,9,1.72 
-2016,01,16,21:00,Leader-1,Splyce,cache,MLG Americas Minor Championshi..,2,16,2,13,0,3,Leader-1,10,17,0.61 
-2016,01,16,21:00,Leader-1,Splyce,dust2,MLG Americas Minor Championshi..,12,16,7,8,5,8,Leader-1,20,21,0.90 
-2016,01,16,19:00,Enemy,Leader-1,overpass,MLG Americas Minor Championshi..,16,4,12,3,4,1,Leader-1,16,17,0.99 
-2016,01,16,00:00,Leader-1,Splyce,dust2,MLG Americas Minor Championshi..,16,14,7,8,9,6,Leader-1,18,24,0.82 
-2015,12,14,03:00,AstralAuthority,Leader-1,mirage,RGN Showseries,16,13,6,9,10,4,Leader-1,19,18,1.04 
-2015,12,14,03:00,Leader-1,AstralAuthority,cache,RGN Showseries,13,16,9,6,4,10,Leader-1,26,22,1.13 
-2015,09,30,05:00,CLG,Leader-1,mirage,RGN Freedom Cup,14,16,8,7,6,9,Leader-1,23,19,1.13 
-2015,09,23,04:15,Conquest,Leader-1,inferno,RGN Freedom Cup,16,4,11,4,5,0,Leader-1,8,17,0.46 
-2015,09,15,03:30,ACE,Leader-1,cache,RGN Freedom Cup,16,8,12,3,4,5,Leader-1,14,19,0.71 
-2015,08,10,02:00,Mortality,AstralAuthority,train,CEVO Professional Season 8 Pla..,22,20,11,4,4,11,Astral Authority,29,34,0.91 
-2015,08,10,02:00,Mortality,AstralAuthority,cache,CEVO Professional Season 8 Pla..,13,16,11,4,2,12,Astral Authority,23,18,1.17 
-2015,08,10,02:00,AstralAuthority,Mortality,inferno,CEVO Professional Season 8 Pla..,12,16,9,6,3,10,Astral Authority,26,23,1.15 
-2015,06,24,04:00,Luminosity,AstralAuthority,cobblestone,RGN Pro Series NA,16,6,10,5,6,1,Astral Authority,12,20,0.61 
-2015,06,03,04:00,AstralAuthority,SKDC,train,RGN Pro Series NA Closed Quali..,11,16,10,5,1,11,Astral Authority,12,18,0.69 
-2015,06,03,04:00,AstralAuthority,SKDC,mirage,RGN Pro Series NA Closed Quali..,11,16,7,8,4,8,Astral Authority,20,19,1.08 
-2015,06,03,04:00,SKDC,AstralAuthority,cache,RGN Pro Series NA Closed Quali..,20,22,8,7,7,8,Astral Authority,22,32,0.77 
+2016,08,12,02:45,96,97,14,481,13,16,5,10,8,6,96,18,22,0.92 
+2016,08,12,02:45,97,96,4,481,22,19,6,9,9,6,96,15,31,0.53 
+2016,08,11,01:00,96,116,2,481,2,16,2,13,0,3,96,8,15,0.57 
+2016,08,11,01:00,116,96,4,481,13,16,8,7,5,9,96,28,20,1.38 
+2016,08,11,01:00,96,116,7,481,8,16,5,10,3,6,96,14,18,0.79 
+2016,08,10,03:15,114,96,7,481,16,6,11,4,5,2,96,20,19,1.11 
+2016,08,10,03:15,96,114,14,481,1,16,1,14,0,2,96,11,12,0.85 
+2016,08,08,04:40,115,96,0,474,16,13,10,5,6,8,96,20,20,0.97 
+2016,08,08,04:40,96,115,1,474,15,19,7,8,8,7,96,18,24,0.80 
+2016,05,09,03:15,446,447,1,581,16,12,8,7,8,5,447,23,18,1.21 
+2016,05,09,02:00,436,447,14,581,13,16,7,8,6,8,447,22,20,1.03 
+2016,05,08,18:00,447,38,1,581,9,16,7,8,2,8,447,15,18,0.85 
+2016,05,08,18:00,447,38,0,581,9,16,8,7,1,9,447,21,18,1.19 
+2016,04,13,04:30,362,447,14,590,16,6,9,6,7,0,447,24,18,1.53 
+2016,04,13,04:30,447,362,2,590,13,16,6,9,7,7,447,20,22,0.93 
+2016,03,16,02:00,291,447,14,590,16,6,10,5,6,1,447,16,16,0.96 
+2016,03,16,02:00,447,291,1,590,7,16,5,10,2,6,447,14,20,0.74 
+2016,02,23,05:45,495,447,6,646,16,9,10,5,6,4,447,19,19,1.06 
+2016,02,23,05:45,495,447,7,646,14,16,8,7,6,9,447,29,22,1.28 
+2016,02,23,05:45,447,495,1,646,10,16,8,7,2,9,447,17,20,0.85 
+2016,02,20,03:00,303,447,1,590,16,9,9,6,7,3,447,9,21,0.45 
+2016,02,20,03:00,303,447,7,590,16,6,10,5,6,1,447,25,18,1.49 
+2016,02,15,03:10,447,649,0,590,9,16,6,9,3,7,447,18,17,0.96 
+2016,02,15,02:00,447,334,6,590,16,3,12,3,4,0,447,21,9,1.72 
+2016,01,16,21:00,707,362,7,670,2,16,2,13,0,3,707,10,17,0.61 
+2016,01,16,21:00,707,362,1,670,12,16,7,8,5,8,707,20,21,0.90 
+2016,01,16,19:00,682,707,4,670,16,4,12,3,4,1,707,16,17,0.99 
+2016,01,16,00:00,707,362,1,670,16,14,7,8,9,6,707,18,24,0.82 
+2015,12,14,03:00,761,707,0,703,16,13,6,9,10,4,707,19,18,1.04 
+2015,12,14,03:00,707,761,7,703,13,16,9,6,4,10,707,26,22,1.13 
+2015,09,30,05:00,291,707,0,725,14,16,8,7,6,9,707,23,19,1.13 
+2015,09,23,04:15,738,707,6,725,16,4,11,4,5,0,707,8,17,0.46 
+2015,09,15,03:30,334,707,7,725,16,8,12,3,4,5,707,14,19,0.71 
+2015,08,10,02:00,979,761,2,858,22,20,11,4,4,11,761,29,34,0.91 
+2015,08,10,02:00,979,761,7,858,13,16,11,4,2,12,761,23,18,1.17 
+2015,08,10,02:00,761,979,6,858,12,16,9,6,3,10,761,26,23,1.15 
+2015,06,24,04:00,70,761,14,842,16,6,10,5,6,1,761,12,20,0.61 
+2015,06,03,04:00,761,759,2,904,11,16,10,5,1,11,761,12,18,0.69 
+2015,06,03,04:00,761,759,0,904,11,16,7,8,4,8,761,20,19,1.08 
+2015,06,03,04:00,759,761,7,904,20,22,8,7,7,8,761,22,32,0.77 

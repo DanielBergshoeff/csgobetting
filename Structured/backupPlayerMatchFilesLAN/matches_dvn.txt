@@ -1,8 +1,0 @@
-2016,07,15,17:55,gBots,Galatics,cobblestone,DreamHack Valencia 2016,16,11,7,8,9,3,Galatics,22,20,1.11 
-2016,07,15,17:55,gBots,Galatics,cache,DreamHack Valencia 2016,16,8,8,7,8,1,Galatics,9,21,0.44 
-2016,04,09,11:30,Galatics,k1ck,mirage,AlienTech CS:GO League Finals,13,16,7,8,6,8,Galatics,24,20,1.04 
-2016,04,09,11:30,Galatics,k1ck,cache,AlienTech CS:GO League Finals,5,16,4,11,1,5,Galatics,12,19,0.75 
-2016,04,08,14:30,AlienTech,Galatics,cache,AlienTech CS:GO League Finals,16,7,10,5,6,2,Galatics,10,22,0.45 
-2016,04,08,14:30,Galatics,AlienTech,inferno,AlienTech CS:GO League Finals,6,16,5,10,1,6,Galatics,13,15,0.94 
-2016,03,19,16:45,Galatics,EasyMind,inferno,AlienTech CS:GO Invitational I,12,16,8,7,4,9,Galatics,20,20,1.00 
-2016,03,19,13:30,ImperioMultimedia,Galatics,inferno,AlienTech CS:GO Invitational I,16,5,10,5,6,0,Galatics,12,17,0.83 

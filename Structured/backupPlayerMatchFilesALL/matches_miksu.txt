@@ -1,20 +1,20 @@
-2016,05,01,15:00,Desperados,GODSENT,cache,DreamHack Regional Minor Champ..,4,16,3,12,1,4,Desperados,8,19,0.40 
-2016,05,01,15:00,GODSENT,Desperados,train,DreamHack Regional Minor Champ..,16,13,10,5,6,8,Desperados,15,21,0.72 
-2016,04,30,17:20,SlashCry,Desperados,cache,DreamHack Regional Minor Champ..,14,16,8,7,6,9,Desperados,19,21,0.85 
-2014,10,05,16:00,osku'steam,Twista'steam,cache,Areena #6 by ROCCAT,6,16,6,9,0,7,Twista's team,14,14,0.91 
-2014,10,05,15:00,Twista'steam,naSu'steam,cache,Areena #6 by ROCCAT,13,16,8,7,5,9,Twista's team,26,24,1.27 
-2014,10,05,13:10,Twista'steam,sAw'steam,dust2,Areena #6 by ROCCAT,16,13,10,5,6,8,Twista's team,25,16,1.33 
-2014,10,05,11:25,Twista'steam,KIPSIk'steam,cache,Areena #6 by ROCCAT,15,15,6,9,9,6,Twista's team,16,23,0.69 
-2014,10,05,10:25,Twista'steam,juho'steam,mirage,Areena #6 by ROCCAT,15,15,8,7,7,8,Twista's team,24,20,1.10 
-2014,10,05,09:35,fAlsu'steam,Twista'steam,dust2,Areena #6 by ROCCAT,16,6,10,5,6,1,Twista's team,12,20,0.58 
-2014,06,28,18:30,dRiim'steam,KIPSIk'steam,nuke,Areena #4 by SteelSeries,12,16,7,8,5,8,dRiim's team,12,21,0.60 
-2014,06,28,18:30,dRiim'steam,KIPSIk'steam,inferno,Areena #4 by SteelSeries,19,17,10,5,5,10,dRiim's team,25,29,1.00 
-2014,06,28,18:30,dRiim'steam,KIPSIk'steam,mirage,Areena #4 by SteelSeries,10,16,9,6,1,10,dRiim's team,9,21,0.49 
-2014,06,28,16:35,dRiim'steam,duffman'steam,nuke,Areena #4 by SteelSeries,16,11,12,3,4,8,dRiim's team,15,19,0.79 
-2014,06,28,16:35,duffman'steam,dRiim'steam,mirage,Areena #4 by SteelSeries,8,16,7,8,1,8,dRiim's team,16,14,1.11 
-2014,06,28,14:45,dRiim'steam,suNny'steam,dust2,Areena #4 by SteelSeries,10,16,9,6,1,10,dRiim's team,9,23,0.43 
-2014,06,28,14:05,KIPSIk'steam,dRiim'steam,dust2,Areena #4 by SteelSeries,5,16,1,14,4,2,dRiim's team,12,15,0.79 
-2014,06,28,12:40,dRiim'steam,duffman'steam,dust2,Areena #4 by SteelSeries,16,11,8,7,8,4,dRiim's team,18,18,0.91 
-2014,06,28,11:40,dRiim'steam,allu'steam,dust2,Areena #4 by SteelSeries,16,13,6,9,10,4,dRiim's team,26,19,1.25 
-2014,06,28,10:35,dRiim'steam,shaker'steam,mirage,Areena #4 by SteelSeries,16,8,12,3,4,5,dRiim's team,13,20,0.61 
-2014,06,28,09:50,Twista'steam,dRiim'steam,dust2,Areena #4 by SteelSeries,5,16,2,13,3,3,dRiim's team,16,8,1.31 
+2016,05,01,15:00,459,9,7,573,4,16,3,12,1,4,459,8,19,0.40 
+2016,05,01,15:00,9,459,2,573,16,13,10,5,6,8,459,15,21,0.72 
+2016,04,30,17:20,389,459,7,573,14,16,8,7,6,9,459,19,21,0.85 
+2014,10,05,16:00,1186,1187,7,1015,6,16,6,9,0,7,1187,14,14,0.91 
+2014,10,05,15:00,1187,1183,7,1015,13,16,8,7,5,9,1187,26,24,1.27 
+2014,10,05,13:10,1187,1182,1,1015,16,13,10,5,6,8,1187,25,16,1.33 
+2014,10,05,11:25,1187,1188,7,1015,15,15,6,9,9,6,1187,16,23,0.69 
+2014,10,05,10:25,1187,1181,0,1015,15,15,8,7,7,8,1187,24,20,1.10 
+2014,10,05,09:35,1185,1187,1,1015,16,6,10,5,6,1,1187,12,20,0.58 
+2014,06,28,18:30,1232,1188,5,1057,12,16,7,8,5,8,1232,12,21,0.60 
+2014,06,28,18:30,1232,1188,6,1057,19,17,10,5,5,10,1232,25,29,1.00 
+2014,06,28,18:30,1232,1188,0,1057,10,16,9,6,1,10,1232,9,21,0.49 
+2014,06,28,16:35,1232,1234,5,1057,16,11,12,3,4,8,1232,15,19,0.79 
+2014,06,28,16:35,1234,1232,0,1057,8,16,7,8,1,8,1232,16,14,1.11 
+2014,06,28,14:45,1232,1233,1,1057,10,16,9,6,1,10,1232,9,23,0.43 
+2014,06,28,14:05,1188,1232,1,1057,5,16,1,14,4,2,1232,12,15,0.79 
+2014,06,28,12:40,1232,1234,1,1057,16,11,8,7,8,4,1232,18,18,0.91 
+2014,06,28,11:40,1232,1236,1,1057,16,13,6,9,10,4,1232,26,19,1.25 
+2014,06,28,10:35,1232,1235,0,1057,16,8,12,3,4,5,1232,13,20,0.61 
+2014,06,28,09:50,1187,1232,1,1057,5,16,2,13,3,3,1232,16,8,1.31 

@@ -1,2 +1,2 @@
-2014,08,17,17:00,Moldova,Luxembourg,inferno,European Championship 2014 Qua..,16,2,13,2,3,0,Luxembourg,6,17,0.36 
-2014,08,17,17:00,Moldova,Luxembourg,dust2,European Championship 2014 Qua..,16,1,14,1,2,0,Luxembourg,6,16,0.41 
+2014,08,17,17:00,1022,1036,6,1035,16,2,13,2,3,0,1036,6,17,0.36 
+2014,08,17,17:00,1022,1036,1,1035,16,1,14,1,2,0,1036,6,16,0.41 

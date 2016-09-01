@@ -1,10 +1,10 @@
-2016,03,26,01:00,Milleniumfe,Area08fe,cache,Copenhagen Games 2016 female,16,11,10,5,6,6,Area08 fe,19,22,0.98 
-2016,03,26,01:00,Milleniumfe,Area08fe,inferno,Copenhagen Games 2016 female,16,1,14,1,2,0,Area08 fe,6,16,0.41 
-2016,03,25,22:00,Orbitfe,Area08fe,cobblestone,Copenhagen Games 2016 female,8,16,5,10,3,6,Area08 fe,18,15,1.17 
-2016,03,25,22:00,Orbitfe,Area08fe,mirage,Copenhagen Games 2016 female,16,2,13,2,3,0,Area08 fe,10,18,0.69 
-2016,03,25,22:00,Area08fe,Orbitfe,cache,Copenhagen Games 2016 female,16,8,12,3,4,5,Area08 fe,15,16,0.96 
-2016,03,25,16:30,Area08fe,Milleniumfe,cache,Copenhagen Games 2016 female,17,19,13,2,2,13,Area08 fe,27,24,1.03 
-2016,03,25,16:30,Area08fe,Milleniumfe,overpass,Copenhagen Games 2016 female,7,16,7,8,0,8,Area08 fe,13,17,0.91 
-2016,02,20,17:30,Recursive,Propertyfe,dust2,Nordic Masters Season 2 Finals,16,8,8,7,8,1,Property fe,15,19,0.89 
-2016,02,20,17:30,Propertyfe,Recursive,cache,Nordic Masters Season 2 Finals,3,16,3,12,0,4,Property fe,0,19,0.00 
-2016,02,20,13:30,Propertyfe,DenDD,mirage,Nordic Masters Season 2 Finals,4,16,4,11,0,5,Property fe,12,16,0.81 
+2016,03,26,01:00,512,520,7,620,16,11,10,5,6,6,520,19,22,0.98 
+2016,03,26,01:00,512,520,6,620,16,1,14,1,2,0,520,6,16,0.41 
+2016,03,25,22:00,523,520,14,620,8,16,5,10,3,6,520,18,15,1.17 
+2016,03,25,22:00,523,520,0,620,16,2,13,2,3,0,520,10,18,0.69 
+2016,03,25,22:00,520,523,7,620,16,8,12,3,4,5,520,15,16,0.96 
+2016,03,25,16:30,520,512,7,620,17,19,13,2,2,13,520,27,24,1.03 
+2016,03,25,16:30,520,512,4,620,7,16,7,8,0,8,520,13,17,0.91 
+2016,02,20,17:30,545,675,1,648,16,8,8,7,8,1,675,15,19,0.89 
+2016,02,20,17:30,675,545,7,648,3,16,3,12,0,4,675,0,19,0.00 
+2016,02,20,13:30,675,147,0,648,4,16,4,11,0,5,675,12,16,0.81 

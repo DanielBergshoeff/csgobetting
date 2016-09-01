@@ -1,2 +1,2 @@
-2016,05,12,00:15,FTW.Prinfor,eGeneration,dust2,xfunction Challenge,16,3,12,3,4,0,eGeneration,12,16,0.78 
-2016,05,04,20:00,Orbit,eGeneration,cobblestone,xfunction Challenge,16,6,12,3,4,3,eGeneration,16,19,0.90 
+2016,05,12,00:15,431,442,1,544,16,3,12,3,4,0,442,12,16,0.78 
+2016,05,04,20:00,297,442,14,544,16,6,12,3,4,3,442,16,19,0.90 

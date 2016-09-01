@@ -1,25 +1,25 @@
-2016,07,21,16:00,MK,Iwku,train,Razer Rising Stars European Le..,16,12,7,8,9,4,Iwku,20,24,0.84 
-2016,07,21,16:00,MK,Iwku,overpass,Razer Rising Stars European Le..,14,16,5,10,9,6,Iwku,23,24,1.00 
-2016,07,20,21:00,Iwku,eSuba,cache,Razer Rising Stars European Le..,12,16,7,8,5,8,Iwku,15,21,0.71 
-2016,07,20,21:00,eSuba,Iwku,mirage,Razer Rising Stars European Le..,10,16,10,5,0,11,Iwku,12,16,0.79 
-2016,07,18,18:30,Iwku,SpaceSoldiers,train,Razer Rising Stars European Le..,4,16,4,11,0,5,Iwku,9,19,0.47 
-2016,07,18,18:30,SpaceSoldiers,Iwku,cache,Razer Rising Stars European Le..,16,3,12,3,4,0,Iwku,6,17,0.38 
-2016,06,29,16:00,DenDD,Iwku,mirage,Razer Rising Stars European Le..,9,16,7,8,2,8,Iwku,8,21,0.42 
-2016,06,29,16:00,Iwku,DenDD,cache,Razer Rising Stars European Le..,16,7,11,4,5,3,Iwku,19,13,1.25 
-2016,06,14,20:00,visomvet,mixbanan,overpass,Yoggi Yalla Cup,14,16,8,7,6,9,mixbanan,17,23,0.72 
-2016,06,14,20:00,visomvet,mixbanan,mirage,Yoggi Yalla Cup,16,14,5,10,11,4,mixbanan,19,23,1.05 
-2016,06,14,20:00,mixbanan,visomvet,cache,Yoggi Yalla Cup,16,11,7,8,9,3,mixbanan,23,16,1.24 
-2016,06,14,18:00,GrabbarnaGrus,mixbanan,mirage,Yoggi Yalla Cup,3,16,3,12,0,4,mixbanan,9,11,0.83 
-2016,06,14,18:00,mixbanan,GrabbarnaGrus,cache,Yoggi Yalla Cup,16,3,12,3,4,0,mixbanan,17,7,1.42 
-2016,05,28,18:00,SlashCry,ALTERNATEaTTaX,cache,DreamHack ZOWIE Open Summer 20..,7,16,6,9,1,7,SlashCry,13,19,0.71 
-2016,03,24,19:00,Recursive,Iwku,overpass,Copenhagen Games 2016 BYOC Qua..,11,16,5,10,6,6,Recursive,12,25,0.52 
-2016,03,24,19:00,Iwku,Recursive,inferno,Copenhagen Games 2016 BYOC Qua..,16,5,14,1,2,4,Recursive,16,18,0.95 
-2016,03,24,17:00,Recursive,Quantaya,inferno,Copenhagen Games 2016 BYOC Qua..,16,12,13,2,3,10,Recursive,17,19,0.83 
-2016,03,24,15:30,Bananaboys,Recursive,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Recursive,8,18,0.44 
-2016,03,24,13:00,Recursive,fLYVERNE,dust2,Copenhagen Games 2016 BYOC Qua..,16,0,15,0,1,0,Recursive,14,9,1.23 
-2016,03,11,22:50,Recursive,DEEZNUTS,mirage,Razer Rising Stars European Le..,16,12,8,7,8,5,Recursive,21,20,1.00 
-2016,03,11,18:00,Recursive,CSGO2x,cache,Razer Rising Stars European Le..,16,4,11,4,5,0,Recursive,19,11,1.39 
-2015,05,27,21:15,Vination,k1ck,mirage,CEVO Main Season 7,19,15,9,6,6,9,Vination,21,24,0.88 
-2015,05,24,21:00,Vination,dignitas,inferno,FACEIT League 2015 Stage 2 EU ..,5,16,3,12,2,4,Vination,16,19,0.91 
-2015,05,24,21:00,dignitas,Vination,mirage,FACEIT League 2015 Stage 2 EU ..,16,2,13,2,3,0,Vination,5,17,0.28 
-2015,05,24,21:00,Vination,dignitas,cache,FACEIT League 2015 Stage 2 EU ..,16,11,7,8,9,3,Vination,24,17,1.20 
+2016,07,21,16:00,100,260,2,498,16,12,7,8,9,4,260,20,24,0.84 
+2016,07,21,16:00,100,260,4,498,14,16,5,10,9,6,260,23,24,1.00 
+2016,07,20,21:00,260,216,7,498,12,16,7,8,5,8,260,15,21,0.71 
+2016,07,20,21:00,216,260,0,498,10,16,10,5,0,11,260,12,16,0.79 
+2016,07,18,18:30,260,29,2,498,4,16,4,11,0,5,260,9,19,0.47 
+2016,07,18,18:30,29,260,7,498,16,3,12,3,4,0,260,6,17,0.38 
+2016,06,29,16:00,147,260,0,498,9,16,7,8,2,8,260,8,21,0.42 
+2016,06,29,16:00,260,147,7,498,16,7,11,4,5,3,260,19,13,1.25 
+2016,06,14,20:00,356,156,4,551,14,16,8,7,6,9,156,17,23,0.72 
+2016,06,14,20:00,356,156,0,551,16,14,5,10,11,4,156,19,23,1.05 
+2016,06,14,20:00,156,356,7,551,16,11,7,8,9,3,156,23,16,1.24 
+2016,06,14,18:00,357,156,0,551,3,16,3,12,0,4,156,9,11,0.83 
+2016,06,14,18:00,156,357,7,551,16,3,12,3,4,0,156,17,7,1.42 
+2016,05,28,18:00,389,49,7,546,7,16,6,9,1,7,389,13,19,0.71 
+2016,03,24,19:00,545,260,4,623,11,16,5,10,6,6,545,12,25,0.52 
+2016,03,24,19:00,260,545,6,623,16,5,14,1,2,4,545,16,18,0.95 
+2016,03,24,17:00,545,554,6,623,16,12,13,2,3,10,545,17,19,0.83 
+2016,03,24,15:30,541,545,14,623,16,2,13,2,3,0,545,8,18,0.44 
+2016,03,24,13:00,545,571,1,623,16,0,15,0,1,0,545,14,9,1.23 
+2016,03,11,22:50,545,628,0,498,16,12,8,7,8,5,545,21,20,1.00 
+2016,03,11,18:00,545,373,7,498,16,4,11,4,5,0,545,19,11,1.39 
+2015,05,27,21:15,911,287,0,901,19,15,9,6,6,9,911,21,24,0.88 
+2015,05,24,21:00,911,22,6,908,5,16,3,12,2,4,911,16,19,0.91 
+2015,05,24,21:00,22,911,0,908,16,2,13,2,3,0,911,5,17,0.28 
+2015,05,24,21:00,911,22,7,908,16,11,7,8,9,3,911,24,17,1.20 

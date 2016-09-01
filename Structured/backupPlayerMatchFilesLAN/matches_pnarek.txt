@@ -1,2 +1,0 @@
-2015,10,30,17:15,ajuri,Torpedo,cobblestone,ASUS ROG Nordic Challenge,3,16,3,12,0,4,ajuri,9,19,0.49 
-2015,10,30,17:15,ajuri,Torpedo,cache,ASUS ROG Nordic Challenge,8,16,3,12,5,4,ajuri,14,19,0.73 

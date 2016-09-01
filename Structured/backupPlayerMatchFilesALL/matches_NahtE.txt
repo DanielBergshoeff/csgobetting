@@ -1,17 +1,17 @@
-2016,08,10,04:30,Prospects,EchoFox,cache,ESEA Premier Season 22 North A..,7,16,2,13,5,3,Prospects,12,19,0.68 
-2016,08,10,04:30,Prospects,EchoFox,overpass,ESEA Premier Season 22 North A..,9,16,6,9,3,7,Prospects,13,17,0.77 
-2016,08,08,02:15,Tectonic,Prospects,train,ESEA Premier Season 22 North A..,12,16,2,13,10,3,Prospects,15,22,0.71 
-2016,08,08,02:15,Prospects,Tectonic,overpass,ESEA Premier Season 22 North A..,19,16,6,9,9,6,Prospects,33,22,1.46 
-2016,07,16,23:30,Prospects,Cloud9,cobblestone,iBUYPOWER Invitational Summer ..,17,19,4,11,11,4,Prospects,25,28,0.86 
-2016,07,16,23:30,Prospects,Cloud9,mirage,iBUYPOWER Invitational Summer ..,10,16,6,9,4,7,Prospects,15,20,0.83 
-2016,05,30,00:00,Prospects,Kaliber,mirage,CyberPowerPC Summer 2016 Quali..,13,16,6,9,7,7,Prospects,20,19,1.06 
-2016,05,30,00:00,Prospects,Kaliber,overpass,CyberPowerPC Summer 2016 Quali..,16,19,13,2,2,13,Prospects,27,24,1.12 
-2016,05,09,04:35,Prospects,WithoutaRoof,overpass,MLG Regional Minor North Ameri..,5,16,4,11,1,5,Prospects,13,18,0.74 
-2016,05,09,02:55,TSM,Prospects,mirage,MLG Regional Minor North Ameri..,16,3,12,3,4,0,Prospects,6,19,0.29 
-2016,04,13,02:00,Prospects,TSM,dust2,CEVO Gfinity Professional Seas..,6,16,5,10,1,6,Prospects,2,3,0.81 
-2016,04,13,02:00,TSM,Prospects,mirage,CEVO Gfinity Professional Seas..,16,14,10,5,6,9,Prospects,19,18,1.07 
-2016,03,23,02:00,Rhythm,Insolent,train,Razer Rising Stars NA League Q..,21,15,10,5,5,10,Rhythm,38,22,1.49 
-2016,02,24,05:15,ex-AstralAuthority,TSM,mirage,CEVO Gfinity Professional Seas..,7,16,6,9,1,7,ex-Astral Authority,18,19,1.00 
-2016,02,24,05:15,TSM,ex-AstralAuthority,overpass,CEVO Gfinity Professional Seas..,16,11,13,2,3,9,ex-Astral Authority,26,23,1.27 
-2016,02,21,20:35,ex-AstralAuthority,Liquid,dust2,DreamHack Masters Malmö 2016 N..,4,16,4,11,0,5,ex-Astral Authority,3,9,0.57 
-2016,02,21,20:35,Liquid,ex-AstralAuthority,cache,DreamHack Masters Malmö 2016 N..,16,14,6,9,10,5,ex-Astral Authority,24,21,1.13 
+2016,08,10,04:30,97,38,7,474,7,16,2,13,5,3,97,12,19,0.68 
+2016,08,10,04:30,97,38,4,474,9,16,6,9,3,7,97,13,17,0.77 
+2016,08,08,02:15,79,97,2,474,12,16,2,13,10,3,97,15,22,0.71 
+2016,08,08,02:15,97,79,4,474,19,16,6,9,9,6,97,33,22,1.46 
+2016,07,16,23:30,97,257,14,518,17,19,4,11,11,4,97,25,28,0.86 
+2016,07,16,23:30,97,257,0,518,10,16,6,9,4,7,97,15,20,0.83 
+2016,05,30,00:00,97,114,0,539,13,16,6,9,7,7,97,20,19,1.06 
+2016,05,30,00:00,97,114,4,539,16,19,13,2,2,13,97,27,24,1.12 
+2016,05,09,04:35,97,446,4,581,5,16,4,11,1,5,97,13,18,0.74 
+2016,05,09,02:55,270,97,0,581,16,3,12,3,4,0,97,6,19,0.29 
+2016,04,13,02:00,97,270,1,590,6,16,5,10,1,6,97,2,3,0.81 
+2016,04,13,02:00,270,97,0,590,16,14,10,5,6,9,97,19,18,1.07 
+2016,03,23,02:00,590,533,2,621,21,15,10,5,5,10,590,38,22,1.49 
+2016,02,24,05:15,649,270,0,590,7,16,6,9,1,7,649,18,19,1.00 
+2016,02,24,05:15,270,649,4,590,16,11,13,2,3,9,649,26,23,1.27 
+2016,02,21,20:35,649,303,1,647,4,16,4,11,0,5,649,3,9,0.57 
+2016,02,21,20:35,303,649,7,647,16,14,6,9,10,5,649,24,21,1.13 

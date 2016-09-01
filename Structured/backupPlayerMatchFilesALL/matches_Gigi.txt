@@ -1,4 +1,4 @@
-2016,08,11,19:00,Montenegro,Italy,mirage,World Championships 2016 Europ..,16,8,13,2,3,6,Montenegro,19,14,1.17 
-2016,08,11,19:00,Italy,Montenegro,cache,World Championships 2016 Europ..,9,16,5,10,4,6,Montenegro,22,15,1.29 
-2015,08,12,17:00,Montenegro,Romania,cache,World Championships 2015 Europ..,13,16,8,7,5,9,Montenegro,28,20,1.30 
-2015,08,12,17:00,Romania,Montenegro,cobblestone,World Championships 2015 Europ..,16,9,8,7,8,2,Montenegro,16,18,0.90 
+2016,08,11,19:00,98,99,0,463,16,8,13,2,3,6,98,19,14,1.17 
+2016,08,11,19:00,99,98,7,463,9,16,5,10,4,6,98,22,15,1.29 
+2015,08,12,17:00,98,1,7,799,13,16,8,7,5,9,98,28,20,1.30 
+2015,08,12,17:00,1,98,14,799,16,9,8,7,8,2,98,16,18,0.90 

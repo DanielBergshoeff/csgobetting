@@ -1,55 +1,57 @@
-2016,08,15,19:00,Bravado,carboN,cobblestone,WESG 2016 South & East Africa,16,10,8,7,8,3,Bravado,20,16,1.18 
-2016,08,15,19:00,Bravado,carboN,mirage,WESG 2016 South & East Africa,16,11,8,7,8,4,Bravado,22,19,1.07 
-2016,08,14,22:40,Aperture,Bravado,cache,ESEA Open Season 22 South Afri..,9,16,3,12,6,4,Bravado,22,14,1.37 
-2016,08,14,22:40,Bravado,Aperture,train,ESEA Open Season 22 South Afri..,16,9,8,7,8,2,Bravado,17,13,1.08 
-2016,08,14,20:40,Bravado,FlipSid3,cobblestone,WESG 2016 South & East Africa,22,18,4,11,11,4,Bravado,33,25,1.15 
-2016,08,14,20:40,Bravado,FlipSid3,cache,WESG 2016 South & East Africa,16,3,12,3,4,0,Bravado,20,10,1.51 
-2016,08,09,20:30,WhiteRabbit,Bravado,dust2,ESEA Open Season 22 South Afri..,6,16,3,12,3,4,Bravado,21,14,1.38 
-2016,08,09,20:30,WhiteRabbit,Bravado,mirage,ESEA Open Season 22 South Afri..,4,16,4,11,0,5,Bravado,30,8,2.35 
-2016,08,05,18:00,Tunisia,SouthAfrica,cobblestone,World Championships 2016 Afric..,19,16,9,6,6,9,South Africa,26,25,1.04 
-2016,08,05,18:00,Tunisia,SouthAfrica,cache,World Championships 2016 Afric..,16,11,10,5,6,6,South Africa,14,21,0.68 
-2016,08,05,18:00,Tunisia,SouthAfrica,mirage,World Championships 2016 Afric..,17,19,6,9,9,6,South Africa,29,26,1.09 
-2016,08,04,21:20,Libya,SouthAfrica,overpass,World Championships 2016 Afric..,2,16,2,13,0,3,South Africa,12,11,1.00 
-2016,08,04,19:00,Egypt,SouthAfrica,mirage,World Championships 2016 Afric..,1,16,1,14,0,2,South Africa,23,7,1.99 
-2016,07,31,18:45,Bravado,carboN,train,ESWC 2016 South African Qualif..,16,4,12,3,4,1,Bravado,17,5,1.55 
-2016,07,31,18:45,carboN,Bravado,cache,ESWC 2016 South African Qualif..,19,16,4,11,11,4,Bravado,16,27,0.67 
-2016,07,31,18:45,carboN,Bravado,mirage,ESWC 2016 South African Qualif..,12,16,6,9,6,7,Bravado,23,15,1.25 
-2016,07,31,11:45,Aperture,Bravado,cobblestone,ESWC 2016 South African Qualif..,12,16,7,8,5,8,Bravado,19,18,1.04 
-2016,07,31,11:45,Bravado,Aperture,train,ESWC 2016 South African Qualif..,16,10,10,5,6,5,Bravado,25,13,1.41 
-2016,07,30,14:00,eNergy,Bravado,train,ESWC 2016 South African Qualif..,2,16,2,13,0,3,Bravado,21,10,1.85 
-2016,07,30,14:00,Bravado,eNergy,overpass,ESWC 2016 South African Qualif..,16,12,8,7,8,5,Bravado,23,17,1.13 
-2015,10,30,20:00,MaxAndRelax,EuropeanMisfits,mirage,QuickShot Showmatches,16,3,14,1,2,2,European Misfits,5,17,0.34 
-2015,10,30,20:00,EuropeanMisfits,MaxAndRelax,cache,QuickShot Showmatches,16,12,7,8,9,4,European Misfits,27,19,1.40 
-2015,10,30,20:00,EuropeanMisfits,MaxAndRelax,dust2,QuickShot Showmatches,11,16,10,5,1,11,European Misfits,18,19,0.93 
-2015,10,24,20:00,EuropeanMisfits,Reaction,dust2,QuickShot Showmatches,16,14,6,9,10,5,European Misfits,24,20,1.11 
-2015,10,24,20:00,EuropeanMisfits,Reaction,cache,QuickShot Showmatches,16,5,12,3,4,2,European Misfits,29,13,1.88 
-2015,10,15,17:00,EuropeanMisfits,Enervate,cobblestone,QuickShot Showmatches,4,16,4,11,0,5,European Misfits,6,19,0.32 
-2015,10,15,17:00,Enervate,EuropeanMisfits,mirage,QuickShot Showmatches,16,11,9,6,7,5,European Misfits,21,19,1.06 
-2015,10,15,17:00,Enervate,EuropeanMisfits,cache,QuickShot Showmatches,5,16,4,11,1,5,European Misfits,19,14,1.28 
-2015,10,08,19:30,Torpedo,EuropeanMisfits,cache,QuickShot Arena #10,16,3,12,3,4,0,European Misfits,8,18,0.49 
-2015,10,08,17:00,WorstPlayers,EuropeanMisfits,mirage,QuickShot Arena #10,16,7,13,2,3,5,European Misfits,16,19,0.77 
-2015,09,15,22:20,ESC,EuropeanMisfits,mirage,D!ngIT $2000 Weekly Cup #17,21,19,13,2,2,13,European Misfits,39,26,1.36 
-2015,09,15,18:30,summa.gg,EuropeanMisfits,inferno,D!ngIT $2000 Weekly Cup #17,7,16,4,11,3,5,European Misfits,18,14,1.15 
-2015,09,14,17:30,Lions,EuropeanMisfits,cobblestone,D!ngIT $2000 Weekly Cup #17,16,14,9,6,7,8,European Misfits,26,19,1.31 
-2015,09,14,17:30,Lions,EuropeanMisfits,cache,D!ngIT $2000 Weekly Cup #17,16,12,7,8,9,4,European Misfits,16,21,0.83 
-2015,09,06,19:00,HD4R,Enso,inferno,Rising Tornado #4,14,16,11,4,3,12,HD4R,26,22,1.12 
-2015,09,06,19:00,HD4R,Enso,dust2,Rising Tornado #4,12,16,7,8,5,8,HD4R,33,19,1.64 
-2015,09,06,19:00,Enso,HD4R,mirage,Rising Tornado #4,13,16,7,8,6,8,HD4R,21,21,0.97 
-2015,08,30,11:30,ACG,HD4R,cache,Rising Tornado #4,6,16,5,10,1,6,HD4R,15,11,1.14 
-2015,08,30,11:30,ACG,HD4R,mirage,Rising Tornado #4,14,16,8,7,6,9,HD4R,29,23,1.31 
-2015,08,29,21:15,HD4R,Pries,mirage,Rising Tornado #4,7,16,4,11,3,5,HD4R,18,17,1.09 
-2015,08,29,21:15,Pries,HD4R,cache,Rising Tornado #4,16,8,10,5,6,3,HD4R,13,18,0.78 
-2015,06,04,18:00,Epsilon,nerdRage,inferno,D!ngIT $2000 Weekly Cup #3,11,16,8,7,3,9,nerdRage,19,16,1.05 
-2015,05,28,20:30,KILLERFISH,nerdRage,dust2,D!ngIT $2000 Weekly Cup #2,15,21,11,4,4,11,nerdRage,18,26,0.76 
-2015,05,28,20:30,nerdRage,KILLERFISH,cache,D!ngIT $2000 Weekly Cup #2,21,17,12,3,3,12,nerdRage,20,29,0.80 
-2015,02,18,19:30,DamageControl,eNergy,overpass,Battle for the Throne,17,21,9,6,6,9,Damage Control,33,29,1.15 
-2015,02,18,19:30,eNergy,DamageControl,inferno,Battle for the Throne,16,13,5,10,11,3,Damage Control,27,18,1.38 
-2015,02,18,19:30,eNergy,DamageControl,cache,Battle for the Throne,12,16,11,4,1,12,Damage Control,26,18,1.38 
-2014,11,27,16:05,Cloud9,Bravado,cache,DreamHack Winter 2014,16,1,15,0,1,1,Bravado,8,16,0.51 
-2014,11,27,12:30,fnatic,Bravado,mirage,DreamHack Winter 2014,16,2,13,2,3,0,Bravado,11,16,0.79 
-2014,10,12,09:00,In-Finity,Bravado,nuke,Telkom Gaming CS:GO Championsh..,12,16,9,6,3,10,Bravado,13,21,0.65 
-2014,10,12,09:00,Bravado,In-Finity,cache,Telkom Gaming CS:GO Championsh..,16,14,12,3,4,11,Bravado,29,19,1.49 
-2014,10,12,09:00,In-Finity,Bravado,dust2,Telkom Gaming CS:GO Championsh..,8,16,4,11,4,5,Bravado,19,17,1.00 
-2014,10,11,17:00,eNergy,Bravado,nuke,Telkom Gaming CS:GO Championsh..,17,19,13,2,2,13,Bravado,30,29,1.06 
-2014,10,11,17:00,Bravado,eNergy,cache,Telkom Gaming CS:GO Championsh..,12,16,12,3,0,13,Bravado,16,20,0.90 
-2014,10,11,17:00,eNergy,Bravado,dust2,Telkom Gaming CS:GO Championsh..,14,16,5,10,9,6,Bravado,34,20,1.80 
+2016,08,15,19:00,18,19,14,468,16,10,8,7,8,3,18,20,16,1.18 
+2016,08,15,19:00,18,19,0,468,16,11,8,7,8,4,18,22,19,1.07 
+2016,08,14,22:40,40,18,7,475,9,16,3,12,6,4,18,22,14,1.37 
+2016,08,14,22:40,18,40,2,475,16,9,8,7,8,2,18,17,13,1.08 
+2016,08,14,20:40,18,13,14,468,22,18,4,11,11,4,18,33,25,1.15 
+2016,08,14,20:40,18,13,7,468,16,3,12,3,4,0,18,20,10,1.51 
+2016,08,09,20:30,130,18,1,475,6,16,3,12,3,4,18,21,14,1.38 
+2016,08,09,20:30,130,18,0,475,4,16,4,11,0,5,18,30,8,2.35 
+2016,08,05,18:00,14,175,14,493,19,16,9,6,6,9,175,26,25,1.04 
+2016,08,05,18:00,14,175,7,493,16,11,10,5,6,6,175,14,21,0.68 
+2016,08,05,18:00,14,175,0,493,17,19,6,9,9,6,175,29,26,1.09 
+2016,08,04,21:20,178,175,4,493,2,16,2,13,0,3,175,12,11,1.00 
+2016,08,04,19:00,183,175,0,493,1,16,1,14,0,2,175,23,7,1.99 
+2016,07,31,18:45,18,19,2,500,16,4,12,3,4,1,18,17,5,1.55 
+2016,07,31,18:45,19,18,7,500,19,16,4,11,11,4,18,16,27,0.67 
+2016,07,31,18:45,19,18,0,500,12,16,6,9,6,7,18,23,15,1.25 
+2016,07,31,11:45,40,18,14,500,12,16,7,8,5,8,18,19,18,1.04 
+2016,07,31,11:45,18,40,2,500,16,10,10,5,6,5,18,25,13,1.41 
+2016,07,30,14:00,143,18,2,500,2,16,2,13,0,3,18,21,10,1.85 
+2016,07,30,14:00,18,143,4,500,16,12,8,7,8,5,18,23,17,1.13 
+2015,10,30,20:00,890,892,0,752,16,3,14,1,2,2,892,5,17,0.34 
+2015,10,30,20:00,892,890,7,752,16,12,7,8,9,4,892,27,19,1.40 
+2015,10,30,20:00,892,890,1,752,11,16,10,5,1,11,892,18,19,0.93 
+2015,10,24,20:00,892,784,1,752,16,14,6,9,10,5,892,24,20,1.11 
+2015,10,24,20:00,892,784,7,752,16,5,12,3,4,2,892,29,13,1.88 
+2015,10,15,17:00,892,894,14,752,4,16,4,11,0,5,892,6,19,0.32 
+2015,10,15,17:00,894,892,0,752,16,11,9,6,7,5,892,21,19,1.06 
+2015,10,15,17:00,894,892,7,752,5,16,4,11,1,5,892,19,14,1.28 
+2015,10,08,19:30,484,892,7,788,16,3,12,3,4,0,892,8,18,0.49 
+2015,10,08,17:00,331,892,0,788,16,7,13,2,3,5,892,16,19,0.77 
+2015,09,15,22:20,841,892,0,816,21,19,13,2,2,13,892,39,26,1.36 
+2015,09,15,18:30,951,892,6,816,7,16,4,11,3,5,892,18,14,1.15 
+2015,09,14,17:30,400,892,14,816,16,14,9,6,7,8,892,26,19,1.31 
+2015,09,14,17:30,400,892,7,816,16,12,7,8,9,4,892,16,21,0.83 
+2015,09,06,19:00,913,259,6,809,14,16,11,4,3,12,913,26,22,1.12 
+2015,09,06,19:00,913,259,1,809,12,16,7,8,5,8,913,33,19,1.64 
+2015,09,06,19:00,259,913,0,809,13,16,7,8,6,8,913,21,21,0.97 
+2015,08,30,11:30,898,913,7,809,6,16,5,10,1,6,913,15,11,1.14 
+2015,08,30,11:30,898,913,0,809,14,16,8,7,6,9,913,29,23,1.31 
+2015,08,29,21:15,913,914,0,809,7,16,4,11,3,5,913,18,17,1.09 
+2015,08,29,21:15,914,913,7,809,16,8,10,5,6,3,913,13,18,0.78 
+2015,06,04,18:00,52,458,6,902,11,16,8,7,3,9,458,19,16,1.05 
+2015,05,28,20:30,383,458,1,913,15,21,11,4,4,11,458,18,26,0.76 
+2015,05,28,20:30,458,383,7,913,21,17,12,3,3,12,458,20,29,0.80 
+2015,02,18,19:30,12,143,4,956,17,21,9,6,6,9,12,33,29,1.15 
+2015,02,18,19:30,143,12,6,956,16,13,5,10,11,3,12,27,18,1.38 
+2015,02,18,19:30,143,12,7,956,12,16,11,4,1,12,12,26,18,1.38 
+2014,11,27,16:05,257,18,7,983,16,1,15,0,1,1,18,8,16,0.51 
+2014,11,27,12:30,210,18,0,983,16,2,13,2,3,0,18,11,16,0.79 
+2014,10,12,09:00,1040,18,5,1010,12,16,9,6,3,10,18,13,21,0.65 
+2014,10,12,09:00,18,1040,7,1010,16,14,12,3,4,11,18,29,19,1.49 
+2014,10,12,09:00,1040,18,1,1010,8,16,4,11,4,5,18,19,17,1.00 
+2014,10,11,17:00,143,18,5,1010,17,19,13,2,2,13,18,30,29,1.06 
+2014,10,11,17:00,18,143,7,1010,12,16,12,3,0,13,18,16,20,0.90 
+2014,10,11,17:00,143,18,1,1010,14,16,5,10,9,6,18,34,20,1.80 
+2013,10,05,16:30,18,12,11,1119,16,12,6,9,10,3,18,16,15,0.94 
+2013,10,05,16:30,18,12,7,1119,16,14,7,8,9,6,18,24,23,0.99 

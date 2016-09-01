@@ -1,35 +1,35 @@
-2016,07,17,14:55,Reasonfe,Heaven,cache,StarLadder Female Stars Champi..,16,8,8,7,8,1,Heaven,14,18,0.79 
-2016,07,17,14:55,Reasonfe,Heaven,cobblestone,StarLadder Female Stars Champi..,16,11,6,9,10,2,Heaven,15,19,0.86 
-2016,07,16,18:45,Heaven,Secretfe,mirage,StarLadder Female Stars Champi..,17,19,7,8,8,7,Heaven,24,24,1.02 
-2016,07,16,18:45,Heaven,Secretfe,train,StarLadder Female Stars Champi..,14,16,8,7,6,9,Heaven,20,23,0.90 
-2016,07,16,18:45,Heaven,Secretfe,cache,StarLadder Female Stars Champi..,16,11,5,10,11,1,Heaven,21,17,1.19 
-2016,07,16,12:15,Reasonfe,Heaven,cache,StarLadder Female Stars Champi..,12,16,7,8,5,8,Heaven,20,19,0.92 
-2016,07,16,12:15,Reasonfe,Heaven,train,StarLadder Female Stars Champi..,14,16,10,5,4,11,Heaven,20,22,0.89 
-2016,03,26,17:15,Secretfe,Exertusfe,inferno,Copenhagen Games 2016 female,16,9,8,7,8,2,Exertus fe,15,20,0.85 
-2016,03,26,17:15,Exertusfe,Secretfe,train,Copenhagen Games 2016 female,14,16,7,8,7,8,Exertus fe,26,20,1.23 
-2016,03,26,14:30,LGBfe,Exertusfe,cache,Copenhagen Games 2016 female,16,19,9,6,6,9,Exertus fe,20,24,0.82 
-2016,03,26,14:30,Exertusfe,LGBfe,inferno,Copenhagen Games 2016 female,16,7,12,3,4,4,Exertus fe,22,11,1.45 
-2016,03,25,16:30,Exertusfe,LDLCfe,mirage,Copenhagen Games 2016 female,16,11,11,4,5,7,Exertus fe,14,16,0.83 
-2016,03,25,16:30,Exertusfe,LDLCfe,inferno,Copenhagen Games 2016 female,16,10,9,6,7,4,Exertus fe,21,15,1.20 
-2016,03,25,16:30,LDLCfe,Exertusfe,train,Copenhagen Games 2016 female,16,13,8,7,8,6,Exertus fe,22,18,1.22 
-2016,03,25,13:00,Planetkeyfe,Exertusfe,cobblestone,Copenhagen Games 2016 female,8,16,7,8,1,8,Exertus fe,19,15,1.16 
-2016,03,25,13:00,Planetkeyfe,Exertusfe,cache,Copenhagen Games 2016 female,5,16,3,12,2,4,Exertus fe,15,13,0.99 
-2016,03,05,22:30,Exertusfe,LDLCfe,dust2,Intel Challenge Katowice 2016,3,16,3,12,0,4,Exertus fe,7,17,0.42 
-2016,03,05,20:30,CLGRed,Exertusfe,overpass,Intel Challenge Katowice 2016,16,5,11,4,5,1,Exertus fe,23,16,1.72 
-2016,03,05,18:40,Exertusfe,LDLCfe,train,Intel Challenge Katowice 2016,16,13,9,6,7,7,Exertus fe,26,20,1.24 
-2015,08,16,15:30,CMStorm,LGBfe,inferno,NiP TV Female Challenge,17,19,11,4,4,11,CM Storm,21,24,0.87 
-2015,08,16,15:30,CMStorm,LGBfe,mirage,NiP TV Female Challenge,16,10,7,8,9,2,CM Storm,16,15,0.97 
-2015,08,09,21:15,ex-meltyfe,CMStorm,inferno,NiP TV Female Challenge,13,16,8,7,5,9,CM Storm,20,19,0.96 
-2015,08,09,21:15,CMStorm,ex-meltyfe,mirage,NiP TV Female Challenge,16,8,11,4,5,4,CM Storm,24,11,1.62 
-2015,08,09,15:30,LGBfe,CMStorm,cache,NiP TV Female Challenge,16,8,11,4,5,4,CM Storm,29,16,1.74 
-2015,08,09,15:30,LGBfe,CMStorm,cobblestone,NiP TV Female Challenge,9,16,4,11,5,5,CM Storm,26,14,1.46 
-2015,08,09,15:30,LGBfe,CMStorm,inferno,NiP TV Female Challenge,16,14,11,4,5,10,CM Storm,23,21,1.04 
-2015,04,04,10:00,Ubinited,CMStorm,mirage,Copenhagen Games 2015 female,16,7,10,5,6,2,CM Storm,18,18,0.93 
-2015,04,04,10:00,CMStorm,Ubinited,inferno,Copenhagen Games 2015 female,9,16,3,12,6,4,CM Storm,15,22,0.67 
-2015,04,03,21:30,CMStorm,Propertyfe,mirage,Copenhagen Games 2015 female,16,0,15,0,1,0,CM Storm,13,4,1.62 
-2015,04,03,21:30,Propertyfe,CMStorm,cache,Copenhagen Games 2015 female,7,16,5,10,2,6,CM Storm,20,14,1.22 
-2015,04,03,21:30,CMStorm,Propertyfe,overpass,Copenhagen Games 2015 female,14,16,8,7,6,9,CM Storm,26,20,1.23 
-2015,04,03,18:30,BadMonkey,CMStorm,mirage,Copenhagen Games 2015 female,19,17,10,5,5,10,CM Storm,24,29,0.88 
-2015,04,03,18:30,CMStorm,BadMonkey,nuke,Copenhagen Games 2015 female,4,16,4,11,0,5,CM Storm,11,17,0.73 
-2015,04,03,15:00,ICYPhoenix,CMStorm,cobblestone,Copenhagen Games 2015 female,10,16,4,11,6,5,CM Storm,22,13,1.36 
-2015,04,03,15:00,ICYPhoenix,CMStorm,mirage,Copenhagen Games 2015 female,6,16,3,12,3,4,CM Storm,20,14,1.37 
+2016,07,17,14:55,271,272,7,519,16,8,8,7,8,1,272,14,18,0.79 
+2016,07,17,14:55,271,272,14,519,16,11,6,9,10,2,272,15,19,0.86 
+2016,07,16,18:45,272,261,0,519,17,19,7,8,8,7,272,24,24,1.02 
+2016,07,16,18:45,272,261,2,519,14,16,8,7,6,9,272,20,23,0.90 
+2016,07,16,18:45,272,261,7,519,16,11,5,10,11,1,272,21,17,1.19 
+2016,07,16,12:15,271,272,7,519,12,16,7,8,5,8,272,20,19,0.92 
+2016,07,16,12:15,271,272,2,519,14,16,10,5,4,11,272,20,22,0.89 
+2016,03,26,17:15,261,511,6,620,16,9,8,7,8,2,511,15,20,0.85 
+2016,03,26,17:15,511,261,2,620,14,16,7,8,7,8,511,26,20,1.23 
+2016,03,26,14:30,513,511,7,620,16,19,9,6,6,9,511,20,24,0.82 
+2016,03,26,14:30,511,513,6,620,16,7,12,3,4,4,511,22,11,1.45 
+2016,03,25,16:30,511,514,0,620,16,11,11,4,5,7,511,14,16,0.83 
+2016,03,25,16:30,511,514,6,620,16,10,9,6,7,4,511,21,15,1.20 
+2016,03,25,16:30,514,511,2,620,16,13,8,7,8,6,511,22,18,1.22 
+2016,03,25,13:00,527,511,14,620,8,16,7,8,1,8,511,19,15,1.16 
+2016,03,25,13:00,527,511,7,620,5,16,3,12,2,4,511,15,13,0.99 
+2016,03,05,22:30,511,514,1,636,3,16,3,12,0,4,511,7,17,0.42 
+2016,03,05,20:30,510,511,4,636,16,5,11,4,5,1,511,23,16,1.72 
+2016,03,05,18:40,511,514,2,636,16,13,9,6,7,7,511,26,20,1.24 
+2015,08,16,15:30,1032,513,6,853,17,19,11,4,4,11,1032,21,24,0.87 
+2015,08,16,15:30,1032,513,0,853,16,10,7,8,9,2,1032,16,15,0.97 
+2015,08,09,21:15,1039,1032,6,853,13,16,8,7,5,9,1032,20,19,0.96 
+2015,08,09,21:15,1032,1039,0,853,16,8,11,4,5,4,1032,24,11,1.62 
+2015,08,09,15:30,513,1032,7,853,16,8,11,4,5,4,1032,29,16,1.74 
+2015,08,09,15:30,513,1032,14,853,9,16,4,11,5,5,1032,26,14,1.46 
+2015,08,09,15:30,513,1032,6,853,16,14,11,4,5,10,1032,23,21,1.04 
+2015,04,04,10:00,1074,1032,0,949,16,7,10,5,6,2,1032,18,18,0.93 
+2015,04,04,10:00,1032,1074,6,949,9,16,3,12,6,4,1032,15,22,0.67 
+2015,04,03,21:30,1032,675,0,949,16,0,15,0,1,0,1032,13,4,1.62 
+2015,04,03,21:30,675,1032,7,949,7,16,5,10,2,6,1032,20,14,1.22 
+2015,04,03,21:30,1032,675,4,949,14,16,8,7,6,9,1032,26,20,1.23 
+2015,04,03,18:30,1108,1032,0,949,19,17,10,5,5,10,1032,24,29,0.88 
+2015,04,03,18:30,1032,1108,5,949,4,16,4,11,0,5,1032,11,17,0.73 
+2015,04,03,15:00,1109,1032,14,949,10,16,4,11,6,5,1032,22,13,1.36 
+2015,04,03,15:00,1109,1032,0,949,6,16,3,12,3,4,1032,20,14,1.37 

@@ -1,2 +1,2 @@
-2016,03,24,15:30,DemBoyz,walkover,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,walkover,13,18,0.74 
-2016,03,24,13:00,Epsilon,walkover,dust2,Copenhagen Games 2016 BYOC Qua..,16,8,11,4,5,4,walkover,18,21,1.12 
+2016,03,24,15:30,557,569,14,623,16,3,12,3,4,0,569,13,18,0.74 
+2016,03,24,13:00,52,569,1,623,16,8,11,4,5,4,569,18,21,1.12 

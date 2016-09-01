@@ -1,8 +1,8 @@
-2015,10,03,08:00,DeToNator,RapturePlay,cache,JCG CS:GO Premier 2015 Summer,8,16,4,11,4,5,DeToNator,18,18,1.12 
-2015,10,03,08:00,RapturePlay,DeToNator,dust2,JCG CS:GO Premier 2015 Summer,22,19,6,9,9,6,DeToNator,34,26,1.19 
-2015,10,01,17:00,All-StarDragon,All-StarTiger,cache,Showmatch CS:GO,16,2,13,2,3,0,All-Star Tiger,7,17,0.40 
-2015,10,01,17:00,All-StarTiger,All-StarDragon,dust2,Showmatch CS:GO,12,16,5,10,7,6,All-Star Tiger,20,24,0.86 
-2015,09,18,13:00,MiTH,DeToNator,dust2,MixBOT Pro-League Invite Seaso..,16,14,6,9,10,5,DeToNator,21,26,0.85 
-2015,09,11,13:15,TheMongolz,DeToNator,mirage,MixBOT Pro-League Invite Seaso..,16,9,12,3,4,6,DeToNator,21,22,1.08 
-2015,08,29,12:00,Vietnam,Japan,cache,World Championships 2015 Asian..,16,12,5,10,11,2,Japan,19,19,1.02 
-2015,06,05,13:00,MVP.karnal,DeToNator,inferno,FACEIT SEA Launch Cup,16,9,11,4,5,5,DeToNator,13,23,0.52 
+2015,10,03,08:00,106,952,7,797,8,16,4,11,4,5,106,18,18,1.12 
+2015,10,03,08:00,952,106,1,797,22,19,6,9,9,6,106,34,26,1.19 
+2015,10,01,17:00,864,865,7,570,16,2,13,2,3,0,865,7,17,0.40 
+2015,10,01,17:00,865,864,1,570,12,16,5,10,7,6,865,20,24,0.86 
+2015,09,18,13:00,148,106,1,642,16,14,6,9,10,5,106,21,26,0.85 
+2015,09,11,13:15,150,106,0,642,16,9,12,3,4,6,106,21,22,1.08 
+2015,08,29,12:00,298,333,7,835,16,12,5,10,11,2,333,19,19,1.02 
+2015,06,05,13:00,149,106,6,900,16,9,11,4,5,5,106,13,23,0.52 

@@ -1,2 +1,0 @@
-2016,03,24,15:30,InfluxNordic,Tekweb,cobblestone,Copenhagen Games 2016 BYOC Qua..,2,16,2,13,0,3,Influx Nordic,7,18,0.36 
-2016,03,24,13:00,InfluxNordic,Aquiver.RED,dust2,Copenhagen Games 2016 BYOC Qua..,0,16,0,15,0,1,Influx Nordic,4,16,0.21 

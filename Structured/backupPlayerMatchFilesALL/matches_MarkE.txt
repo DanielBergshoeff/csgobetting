@@ -1,7 +1,7 @@
-2016,07,27,04:00,Canada,Mexico,cache,World Championships 2016 North..,16,12,4,11,12,1,Mexico,12,25,0.45 
-2016,07,27,04:00,Canada,Mexico,mirage,World Championships 2016 North..,16,10,11,4,5,6,Mexico,21,21,1.12 
-2016,07,26,03:00,Mexico,DominicanRepublic,cache,World Championships 2016 North..,16,4,11,4,5,0,Mexico,21,7,1.76 
-2016,07,26,02:15,USA,Mexico,dust2,World Championships 2016 North..,16,1,14,1,2,0,Mexico,6,17,0.29 
-2016,04,12,02:15,QuetzaL,Selfless,dust2,CEVO Gfinity Professional Seas..,1,16,1,14,0,2,QuetzaL,5,16,0.29 
-2016,04,12,02:15,QuetzaL,Selfless,cache,CEVO Gfinity Professional Seas..,7,16,6,9,1,7,QuetzaL,13,18,0.73 
-2016,03,23,03:35,BrokenAlliance,TNT,train,Razer Rising Stars NA League Q..,16,4,12,3,4,1,Broken Alliance,14,10,1.11 
+2016,07,27,04:00,223,230,7,506,16,12,4,11,12,1,230,12,25,0.45 
+2016,07,27,04:00,223,230,0,506,16,10,11,4,5,6,230,21,21,1.12 
+2016,07,26,03:00,230,240,7,506,16,4,11,4,5,0,230,21,7,1.76 
+2016,07,26,02:15,224,230,1,506,16,1,14,1,2,0,230,6,17,0.29 
+2016,04,12,02:15,495,69,1,590,1,16,1,14,0,2,495,5,16,0.29 
+2016,04,12,02:15,495,69,7,590,7,16,6,9,1,7,495,13,18,0.73 
+2016,03,23,03:35,588,589,2,621,16,4,12,3,4,1,588,14,10,1.11 

@@ -1,7 +1,7 @@
-2015,09,06,20:00,Liondogs,DelinquentHabits,dust2,eGaming CS:GO Championship 201..,1,16,1,14,0,2,Delinquent Habits,17,11,1.50 
-2015,09,06,20:00,DelinquentHabits,Liondogs,cache,eGaming CS:GO Championship 201..,5,16,5,10,0,6,Delinquent Habits,6,21,0.27 
-2015,09,06,20:00,DelinquentHabits,Liondogs,mirage,eGaming CS:GO Championship 201..,16,2,14,1,2,1,Delinquent Habits,15,11,1.17 
-2015,09,06,17:00,DelinquentHabits,Elysium,cobblestone,eGaming CS:GO Championship 201..,16,11,9,6,7,5,Delinquent Habits,31,16,1.61 
-2015,09,06,17:00,Elysium,DelinquentHabits,dust2,eGaming CS:GO Championship 201..,9,16,8,7,1,9,Delinquent Habits,25,15,1.39 
-2015,08,14,17:00,Ireland,Greece,dust2,World Championships 2015 Europ..,16,14,6,9,10,5,Greece,16,24,0.69 
-2015,08,14,17:00,Greece,Ireland,cobblestone,World Championships 2015 Europ..,5,16,4,11,1,5,Greece,12,18,0.70 
+2015,09,06,20:00,998,999,1,828,1,16,1,14,0,2,999,17,11,1.50 
+2015,09,06,20:00,999,998,7,828,5,16,5,10,0,6,999,6,21,0.27 
+2015,09,06,20:00,999,998,0,828,16,2,14,1,2,1,999,15,11,1.17 
+2015,09,06,17:00,999,640,14,828,16,11,9,6,7,5,999,31,16,1.61 
+2015,09,06,17:00,640,999,1,828,9,16,8,7,1,9,999,25,15,1.39 
+2015,08,14,17:00,1017,88,1,799,16,14,6,9,10,5,88,16,24,0.69 
+2015,08,14,17:00,88,1017,14,799,5,16,4,11,1,5,88,12,18,0.70 

@@ -1,3 +1,0 @@
-2016,03,24,17:00,Aquiver.RED,Tekweb,inferno,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Tekweb,2,17,0.10 
-2016,03,24,15:30,InfluxNordic,Tekweb,cobblestone,Copenhagen Games 2016 BYOC Qua..,2,16,2,13,0,3,Tekweb,23,8,2.10 
-2016,03,24,13:00,Tekweb,Plantronics,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,2,13,3,3,Tekweb,13,15,0.92 

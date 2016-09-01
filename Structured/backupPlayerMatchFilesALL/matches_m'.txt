@@ -1,6 +1,6 @@
-2016,03,26,00:20,ALSENfe,WyvernLadies,inferno,Copenhagen Games 2016 female,16,11,9,6,7,5,Wyvern Ladies,16,20,0.86 
-2016,03,26,00:20,WyvernLadies,ALSENfe,mirage,Copenhagen Games 2016 female,17,19,9,6,6,9,Wyvern Ladies,14,29,0.52 
-2016,03,25,22:00,WyvernLadies,nKnownfe,inferno,Copenhagen Games 2016 female,16,4,11,4,5,0,Wyvern Ladies,15,9,1.37 
-2016,03,25,22:00,WyvernLadies,nKnownfe,overpass,Copenhagen Games 2016 female,16,4,12,3,4,1,Wyvern Ladies,18,7,1.60 
-2016,03,25,12:00,WyvernLadies,Karma,cobblestone,Copenhagen Games 2016 female,4,16,3,12,1,4,Wyvern Ladies,7,18,0.37 
-2016,03,25,12:00,Karma,WyvernLadies,cache,Copenhagen Games 2016 female,16,4,12,3,4,1,Wyvern Ladies,3,18,0.21 
+2016,03,26,00:20,519,522,6,620,16,11,9,6,7,5,522,16,20,0.86 
+2016,03,26,00:20,522,519,0,620,17,19,9,6,6,9,522,14,29,0.52 
+2016,03,25,22:00,522,524,6,620,16,4,11,4,5,0,522,15,9,1.37 
+2016,03,25,22:00,522,524,4,620,16,4,12,3,4,1,522,18,7,1.60 
+2016,03,25,12:00,522,516,14,620,4,16,3,12,1,4,522,7,18,0.37 
+2016,03,25,12:00,516,522,7,620,16,4,12,3,4,1,522,3,18,0.21 

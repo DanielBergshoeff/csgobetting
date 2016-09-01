@@ -1,6 +1,0 @@
-2016,05,29,13:00,AlienTech,Eyeshield,cobblestone,AlienTech CS:GO Invitational I..,16,9,9,6,7,3,Eyeshield,14,18,0.77 
-2016,05,29,13:00,AlienTech,Eyeshield,dust2,AlienTech CS:GO Invitational I..,16,11,7,8,9,3,Eyeshield,23,22,0.99 
-2016,03,20,12:30,FTW.PRO,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,15,19,8,7,7,8,FTW.PRO,18,24,0.92 
-2016,03,20,12:30,FTW.PRO,ImperioMultimedia,inferno,AlienTech CS:GO Invitational I,10,16,7,8,3,8,FTW.PRO,12,20,0.62 
-2016,03,18,19:50,3R2L,FTW.PRO,mirage,AlienTech CS:GO Invitational I,11,16,4,11,7,5,FTW.PRO,18,19,0.95 
-2016,03,18,17:40,FTW.PRO,AlienTech,inferno,AlienTech CS:GO Invitational I,19,22,9,6,6,9,FTW.PRO,28,29,0.97 

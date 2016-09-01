@@ -1,15 +1,15 @@
-2015,10,19,00:35,WinOut.net,Roca'scompLexity,mirage,Fragadelphia 6,7,16,5,10,2,6,WinOut.net,15,20,0.73 
-2015,10,18,22:00,WinOut.net,Torqued,cache,Fragadelphia 6,13,16,4,11,9,5,WinOut.net,23,22,1.10 
-2015,10,18,22:00,WinOut.net,Torqued,mirage,Fragadelphia 6,4,16,4,11,0,5,WinOut.net,12,18,0.73 
-2015,10,18,18:40,SetToDestroyX,WinOut.net,overpass,Fragadelphia 6,13,16,6,9,7,7,WinOut.net,20,17,1.15 
-2015,10,18,18:40,SetToDestroyX,WinOut.net,cobblestone,Fragadelphia 6,25,22,7,8,8,7,WinOut.net,45,34,1.28 
-2015,10,18,18:40,WinOut.net,SetToDestroyX,mirage,Fragadelphia 6,16,3,14,1,2,2,WinOut.net,21,8,1.85 
-2015,10,18,04:00,PugsnotDrugs,WinOut.net,mirage,Fragadelphia 6,7,16,6,9,1,7,WinOut.net,18,18,0.96 
-2015,10,18,04:00,WinOut.net,PugsnotDrugs,train,Fragadelphia 6,16,10,8,7,8,3,WinOut.net,20,17,1.13 
-2015,09,05,18:15,Nexus,WinOut.net,overpass,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,WinOut.net,16,17,0.94 
-2015,09,05,17:30,WinOut.net,ReapWhatYouSow,dust2,WinOut $20,000 CS:GO Champions..,16,10,10,5,6,5,WinOut.net,15,16,0.89 
-2015,09,05,16:15,WinOut.net,Nexus,inferno,WinOut $20,000 CS:GO Champions..,13,16,9,6,4,10,WinOut.net,26,23,1.12 
-2015,06,24,06:02,WinOut.net,mouseSpaz,cobblestone,RGN Pro Series NA,5,16,2,13,3,3,WinOut.net,16,14,1.13 
-2015,06,04,04:30,WinOut.net,ACE,mirage,RGN Pro Series NA Closed Quali..,14,16,9,6,5,10,WinOut.net,24,20,1.07 
-2015,06,04,04:30,ACE,WinOut.net,overpass,RGN Pro Series NA Closed Quali..,14,16,7,8,7,8,WinOut.net,21,22,0.96 
-2015,06,04,04:30,WinOut.net,ACE,inferno,RGN Pro Series NA Closed Quali..,7,16,5,10,2,6,WinOut.net,22,18,1.20 
+2015,10,19,00:35,917,915,0,780,7,16,5,10,2,6,917,15,20,0.73 
+2015,10,18,22:00,917,704,7,780,13,16,4,11,9,5,917,23,22,1.10 
+2015,10,18,22:00,917,704,0,780,4,16,4,11,0,5,917,12,18,0.73 
+2015,10,18,18:40,757,917,4,780,13,16,6,9,7,7,917,20,17,1.15 
+2015,10,18,18:40,757,917,14,780,25,22,7,8,8,7,917,45,34,1.28 
+2015,10,18,18:40,917,757,0,780,16,3,14,1,2,2,917,21,8,1.85 
+2015,10,18,04:00,922,917,0,780,7,16,6,9,1,7,917,18,18,0.96 
+2015,10,18,04:00,917,922,2,780,16,10,8,7,8,3,917,20,17,1.13 
+2015,09,05,18:15,796,917,4,827,16,3,14,1,2,2,917,16,17,0.94 
+2015,09,05,17:30,917,918,1,827,16,10,10,5,6,5,917,15,16,0.89 
+2015,09,05,16:15,917,796,6,827,13,16,9,6,4,10,917,26,23,1.12 
+2015,06,24,06:02,917,1023,14,842,5,16,2,13,3,3,917,16,14,1.13 
+2015,06,04,04:30,917,334,0,904,14,16,9,6,5,10,917,24,20,1.07 
+2015,06,04,04:30,334,917,4,904,14,16,7,8,7,8,917,21,22,0.96 
+2015,06,04,04:30,917,334,6,904,7,16,5,10,2,6,917,22,18,1.20 

@@ -1,4 +1,4 @@
-2014,12,17,19:50,Vikings,QueenConsolidated,dust2,ESL Pro Series France XIII,6,16,5,10,1,6,Vikings,16,16,1.01 
-2014,12,17,19:50,Vikings,QueenConsolidated,inferno,ESL Pro Series France XIII,7,16,6,9,1,7,Vikings,13,18,0.71 
-2014,12,17,19:50,QueenConsolidated,Vikings,cobblestone,ESL Pro Series France XIII,16,6,10,5,6,1,Vikings,15,18,0.90 
-2014,12,17,19:50,Vikings,QueenConsolidated,nuke,ESL Pro Series France XIII,16,8,10,5,6,3,Vikings,26,10,1.65 
+2014,12,17,19:50,1154,371,1,975,6,16,5,10,1,6,1154,16,16,1.01 
+2014,12,17,19:50,1154,371,6,975,7,16,6,9,1,7,1154,13,18,0.71 
+2014,12,17,19:50,371,1154,14,975,16,6,10,5,6,1,1154,15,18,0.90 
+2014,12,17,19:50,1154,371,5,975,16,8,10,5,6,3,1154,26,10,1.65 

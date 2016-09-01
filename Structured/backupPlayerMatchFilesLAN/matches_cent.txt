@@ -1,8 +1,0 @@
-2014,11,27,16:05,Cloud9,Bravado,cache,DreamHack Winter 2014,16,1,15,0,1,1,Bravado,5,15,0.41 
-2014,11,27,12:30,fnatic,Bravado,mirage,DreamHack Winter 2014,16,2,13,2,3,0,Bravado,5,17,0.31 
-2014,10,12,09:00,In-Finity,Bravado,nuke,Telkom Gaming CS:GO Championsh..,12,16,9,6,3,10,Bravado,20,19,1.07 
-2014,10,12,09:00,Bravado,In-Finity,cache,Telkom Gaming CS:GO Championsh..,16,14,12,3,4,11,Bravado,13,19,0.69 
-2014,10,12,09:00,In-Finity,Bravado,dust2,Telkom Gaming CS:GO Championsh..,8,16,4,11,4,5,Bravado,16,10,1.15 
-2014,10,11,17:00,eNergy,Bravado,nuke,Telkom Gaming CS:GO Championsh..,17,19,13,2,2,13,Bravado,20,27,0.73 
-2014,10,11,17:00,Bravado,eNergy,cache,Telkom Gaming CS:GO Championsh..,12,16,12,3,0,13,Bravado,13,21,0.65 
-2014,10,11,17:00,eNergy,Bravado,dust2,Telkom Gaming CS:GO Championsh..,14,16,5,10,9,6,Bravado,22,19,1.09 

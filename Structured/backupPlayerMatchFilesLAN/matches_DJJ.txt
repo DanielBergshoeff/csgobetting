@@ -1,5 +1,0 @@
-2015,12,18,08:30,Wings,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,3,12,3,4,0,Goalie,7,17,0.42 
-2015,12,18,08:30,Goalie,Wings,inferno,SL i-League StarSeries XIV Chi..,10,16,9,6,1,10,Goalie,16,21,0.74 
-2015,12,17,10:40,BornOfFire,Goalie,cache,SL i-League StarSeries XIV Chi..,16,7,11,4,5,3,Goalie,12,19,0.68 
-2015,12,17,10:40,BornOfFire,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,19,9,6,6,9,Goalie,31,23,1.25 
-2015,12,17,10:40,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV Chi..,12,16,10,5,2,11,Goalie,31,21,1.44 

@@ -1,5 +1,0 @@
-2016,04,29,14:30,Empire,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,6,10,5,6,1,Digital Wave,11,19,0.58 
-2016,04,29,14:30,DigitalWave,Empire,cobblestone,StarLadder Minor CIS - Cologne..,12,16,7,8,5,8,Digital Wave,20,21,1.01 
-2016,04,28,15:30,FluffyGangsters,DigitalWave,mirage,StarLadder Minor CIS - Cologne..,16,9,12,3,4,6,Digital Wave,12,19,0.76 
-2016,04,28,15:30,DigitalWave,FluffyGangsters,overpass,StarLadder Minor CIS - Cologne..,10,16,3,12,7,4,Digital Wave,17,17,0.98 
-2016,04,28,10:00,DigitalWave,Empire,mirage,StarLadder Minor CIS - Cologne..,16,6,10,5,6,1,Digital Wave,24,13,1.51 

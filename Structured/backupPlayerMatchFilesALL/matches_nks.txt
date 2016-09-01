@@ -1,12 +1,12 @@
-2015,12,05,20:00,NewSkillInfinity,Atlantis,cache,LVP Season 9 Division de Honor..,10,16,5,10,5,6,NewSkill Infinity,16,18,0.83 
-2015,12,05,20:00,NewSkillInfinity,Atlantis,mirage,LVP Season 9 Division de Honor..,16,8,12,3,4,5,NewSkill Infinity,13,13,1.00 
-2015,12,05,20:00,Atlantis,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,6,13,2,3,4,NewSkill Infinity,13,18,0.72 
-2015,12,05,15:15,NewSkillInfinity,x6tence,cobblestone,LVP Season 9 Division de Honor..,6,16,4,11,2,5,NewSkill Infinity,10,17,0.62 
-2015,12,04,19:30,KIYF,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,19,7,8,8,7,NewSkill Infinity,26,26,0.93 
-2015,11,11,21:10,KIYF,NewSkillInfinity,mirage,LVP Season 9 Division de Honor..,16,5,10,5,6,0,NewSkill Infinity,11,16,0.69 
-2015,11,11,21:10,NewSkillInfinity,KIYF,dust2,LVP Season 9 Division de Honor..,16,12,9,6,7,6,NewSkill Infinity,18,14,1.07 
-2015,11,11,21:10,KIYF,NewSkillInfinity,cobblestone,LVP Season 9 Division de Honor..,16,14,8,7,8,7,NewSkill Infinity,14,22,0.67 
-2015,09,04,20:00,EZonTheSoul,AnxietyPack,cobblestone,WinOut.net 20k Last Chance Qua..,16,9,8,7,8,2,Anxiety Pack,15,22,0.67 
-2015,09,04,20:00,AnxietyPack,EZonTheSoul,inferno,WinOut.net 20k Last Chance Qua..,20,22,13,2,2,13,Anxiety Pack,25,32,0.90 
-2015,09,04,16:00,ReapWhatYouSow,AnxietyPack,mirage,WinOut.net 20k Last Chance Qua..,16,2,13,2,3,0,Anxiety Pack,1,18,0.05 
-2015,09,04,16:00,ReapWhatYouSow,AnxietyPack,cache,WinOut.net 20k Last Chance Qua..,16,6,11,4,5,2,Anxiety Pack,4,21,0.22 
+2015,12,05,20:00,591,800,7,713,10,16,5,10,5,6,591,16,18,0.83 
+2015,12,05,20:00,591,800,0,713,16,8,12,3,4,5,591,13,13,1.00 
+2015,12,05,20:00,800,591,2,713,16,6,13,2,3,4,591,13,18,0.72 
+2015,12,05,15:15,591,676,14,713,6,16,4,11,2,5,591,10,17,0.62 
+2015,12,04,19:30,290,591,2,713,16,19,7,8,8,7,591,26,26,0.93 
+2015,11,11,21:10,290,591,0,713,16,5,10,5,6,0,591,11,16,0.69 
+2015,11,11,21:10,591,290,1,713,16,12,9,6,7,6,591,18,14,1.07 
+2015,11,11,21:10,290,591,14,713,16,14,8,7,8,7,591,14,22,0.67 
+2015,09,04,20:00,1004,1013,14,831,16,9,8,7,8,2,1013,15,22,0.67 
+2015,09,04,20:00,1013,1004,6,831,20,22,13,2,2,13,1013,25,32,0.90 
+2015,09,04,16:00,918,1013,0,831,16,2,13,2,3,0,1013,1,18,0.05 
+2015,09,04,16:00,918,1013,7,831,16,6,11,4,5,2,1013,4,21,0.22 

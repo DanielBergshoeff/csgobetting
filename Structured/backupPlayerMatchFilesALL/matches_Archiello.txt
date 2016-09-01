@@ -1,5 +1,5 @@
-2016,08,15,19:00,Slovenia,Azerbaijan,cache,World Championships 2016 Europ..,16,12,6,9,10,3,Azerbaijan,17,19,0.85 
-2016,08,15,19:00,Azerbaijan,Slovenia,train,World Championships 2016 Europ..,16,3,12,3,4,0,Azerbaijan,19,5,1.68 
-2016,08,15,19:00,Slovenia,Azerbaijan,mirage,World Championships 2016 Europ..,16,6,11,4,5,2,Azerbaijan,11,18,0.65 
-2015,08,10,17:15,Azerbaijan,Moldova,inferno,World Championships 2015 Europ..,7,16,6,9,1,7,Azerbaijan,17,18,0.95 
-2015,08,10,17:15,Moldova,Azerbaijan,cache,World Championships 2015 Europ..,16,12,9,6,7,6,Azerbaijan,24,21,1.15 
+2016,08,15,19:00,24,25,7,463,16,12,6,9,10,3,25,17,19,0.85 
+2016,08,15,19:00,25,24,2,463,16,3,12,3,4,0,25,19,5,1.68 
+2016,08,15,19:00,24,25,0,463,16,6,11,4,5,2,25,11,18,0.65 
+2015,08,10,17:15,25,1022,6,799,7,16,6,9,1,7,25,17,18,0.95 
+2015,08,10,17:15,1022,25,7,799,16,12,9,6,7,6,25,24,21,1.15 

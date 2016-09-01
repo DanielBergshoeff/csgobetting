@@ -1,6 +1,0 @@
-2016,08,01,00:45,INTZ,g3x,cache,Acer ESL Brazil Premier League..,15,19,9,6,6,9,INTZ,26,25,1.16 
-2016,08,01,00:45,g3x,INTZ,cobblestone,Acer ESL Brazil Premier League..,16,10,8,7,8,3,INTZ,16,21,0.85 
-2016,08,01,00:45,INTZ,g3x,train,Acer ESL Brazil Premier League..,4,16,4,11,0,5,INTZ,6,17,0.37 
-2016,07,31,19:45,INTZ,CNB,cobblestone,Acer ESL Brazil Premier League..,16,8,9,6,7,2,INTZ,8,14,0.67 
-2016,07,31,19:45,INTZ,CNB,train,Acer ESL Brazil Premier League..,9,16,9,6,0,10,INTZ,16,18,0.95 
-2016,07,31,19:45,CNB,INTZ,mirage,Acer ESL Brazil Premier League..,14,16,8,7,6,9,INTZ,26,18,1.24 

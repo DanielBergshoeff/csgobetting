@@ -1,3 +1,0 @@
-2015,11,20,18:15,FTW.EvoPrinfor,LECARTEL,mirage,AlienTech AllStars,15,15,6,9,9,6,LE CARTEL,19,26,0.72 
-2015,11,20,17:00,OnlineBOTS,LECARTEL,cache,AlienTech AllStars,16,1,14,1,2,0,LE CARTEL,9,16,0.73 
-2015,11,20,16:00,Publiclir.se,LECARTEL,mirage,AlienTech AllStars,16,4,11,4,5,0,LE CARTEL,18,19,1.05 

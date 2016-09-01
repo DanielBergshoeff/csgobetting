@@ -1,18 +1,18 @@
-2016,07,19,03:15,TheFoundation,exceL,cache,RGN Pro Series II NA Closed Qu..,14,16,7,8,7,8,exceL,25,19,1.13 
-2016,07,19,03:15,TheFoundation,exceL,train,RGN Pro Series II NA Closed Qu..,16,3,12,3,4,0,exceL,15,18,0.98 
-2016,07,19,03:15,exceL,TheFoundation,dust2,RGN Pro Series II NA Closed Qu..,16,7,11,4,5,3,exceL,22,10,1.51 
-2016,05,08,19:00,MostlyHomeless,Vault,dust2,MLG Regional Minor North Ameri..,8,16,4,11,4,5,Mostly Homeless,18,17,0.99 
-2016,05,08,19:00,MostlyHomeless,Vault,cobblestone,MLG Regional Minor North Ameri..,14,16,7,8,7,8,Mostly Homeless,16,25,0.64 
-2016,05,08,19:00,MostlyHomeless,Vault,train,MLG Regional Minor North Ameri..,16,14,12,3,4,11,Mostly Homeless,26,19,1.22 
-2016,04,13,04:30,Splyce,Noble,cobblestone,CEVO Gfinity Professional Seas..,16,6,9,6,7,0,Noble,13,17,0.78 
-2016,04,13,04:30,Noble,Splyce,train,CEVO Gfinity Professional Seas..,13,16,6,9,7,7,Noble,13,20,0.73 
-2016,02,21,20:45,CLG,JustMakeitFast,cache,DreamHack Masters Malmö 2016 N..,16,6,11,4,5,2,Just Make it Fast,9,18,0.60 
-2016,02,21,20:45,CLG,JustMakeitFast,cobblestone,DreamHack Masters Malmö 2016 N..,16,5,11,4,5,1,Just Make it Fast,9,17,0.54 
-2015,12,19,03:00,Winterfox,JustMakeitFast,mirage,Game Show Global eSports Cup 2..,16,7,8,7,8,0,Just Make it Fast,21,17,1.25 
-2015,12,19,03:00,Winterfox,JustMakeitFast,cache,Game Show Global eSports Cup 2..,10,16,3,12,7,4,Just Make it Fast,19,18,0.95 
-2015,12,19,03:00,JustMakeitFast,Winterfox,cobblestone,Game Show Global eSports Cup 2..,16,19,6,9,9,6,Just Make it Fast,22,25,0.84 
-2015,10,18,19:15,Eanix,Roca'scompLexity,cache,Fragadelphia 6,5,16,4,11,1,5,Eanix,8,20,0.41 
-2015,10,18,04:00,Eanix,CLGRed,train,Fragadelphia 6,9,16,7,8,2,8,Eanix,15,21,0.68 
-2015,10,18,04:00,CLGRed,Eanix,mirage,Fragadelphia 6,16,14,11,4,5,10,Eanix,17,22,0.75 
-2015,09,17,05:00,3sUP,Vault,cobblestone,RGN Freedom Cup,8,16,5,10,3,6,Vault,16,16,0.95 
-2015,09,17,04:00,Vault,ex-eLevate,inferno,RGN Freedom Cup,6,16,4,11,2,5,Vault,17,16,1.21 
+2016,07,19,03:15,267,268,7,516,14,16,7,8,7,8,268,25,19,1.13 
+2016,07,19,03:15,267,268,2,516,16,3,12,3,4,0,268,15,18,0.98 
+2016,07,19,03:15,268,267,1,516,16,7,11,4,5,3,268,22,10,1.51 
+2016,05,08,19:00,449,436,1,581,8,16,4,11,4,5,449,18,17,0.99 
+2016,05,08,19:00,449,436,14,581,14,16,7,8,7,8,449,16,25,0.64 
+2016,05,08,19:00,449,436,2,581,16,14,12,3,4,11,449,26,19,1.22 
+2016,04,13,04:30,362,447,14,590,16,6,9,6,7,0,447,13,17,0.78 
+2016,04,13,04:30,447,362,2,590,13,16,6,9,7,7,447,13,20,0.73 
+2016,02,21,20:45,291,668,7,647,16,6,11,4,5,2,668,9,18,0.60 
+2016,02,21,20:45,291,668,14,647,16,5,11,4,5,1,668,9,17,0.54 
+2015,12,19,03:00,279,668,0,657,16,7,8,7,8,0,668,21,17,1.25 
+2015,12,19,03:00,279,668,7,657,10,16,3,12,7,4,668,19,18,0.95 
+2015,12,19,03:00,668,279,14,657,16,19,6,9,9,6,668,22,25,0.84 
+2015,10,18,19:15,920,915,7,780,5,16,4,11,1,5,920,8,20,0.41 
+2015,10,18,04:00,920,510,2,780,9,16,7,8,2,8,920,15,21,0.68 
+2015,10,18,04:00,510,920,0,780,16,14,11,4,5,10,920,17,22,0.75 
+2015,09,17,05:00,805,436,14,725,8,16,5,10,3,6,436,16,16,0.95 
+2015,09,17,04:00,436,910,6,725,6,16,4,11,2,5,436,17,16,1.21 

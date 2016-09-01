@@ -1,3 +1,0 @@
-2015,09,08,10:30,E-frag.net,MiA,cache,Gaming Paradise 2015,16,4,12,3,4,1,MiA,12,18,0.64 
-2015,09,07,09:55,NatusVincere,MiA,dust2,Gaming Paradise 2015,16,5,12,3,4,2,MiA,10,19,0.53 
-2015,09,07,09:55,NatusVincere,MiA,mirage,Gaming Paradise 2015,16,9,13,2,3,7,MiA,14,17,0.91 

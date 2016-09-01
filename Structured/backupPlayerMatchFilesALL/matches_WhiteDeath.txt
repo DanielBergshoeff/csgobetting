@@ -1,4 +1,4 @@
-2015,12,04,12:00,Airless,TamuluS,cache,D!ngIT & NCSC Korea S1 Qualifi..,5,16,2,13,3,3,Airless,9,17,0.54 
-2015,12,04,12:00,TamuluS,Airless,dust2,D!ngIT & NCSC Korea S1 Qualifi..,16,6,11,4,5,2,Airless,11,20,0.54 
-2015,11,28,13:00,Airless,AbsoluteUnit,overpass,D!ngIT & NCSC Korea S1 Qualifi..,16,4,11,4,5,0,Airless,15,11,1.23 
-2015,11,20,12:00,BLITZKRIEG,Airless,cache,D!ngIT & NCSC Korea S1 Qualifi..,17,19,5,10,10,5,Airless,25,27,0.88 
+2015,12,04,12:00,815,108,7,716,5,16,2,13,3,3,815,9,17,0.54 
+2015,12,04,12:00,108,815,1,716,16,6,11,4,5,2,815,11,20,0.54 
+2015,11,28,13:00,815,832,4,716,16,4,11,4,5,0,815,15,11,1.23 
+2015,11,20,12:00,853,815,7,716,17,19,5,10,10,5,815,25,27,0.88 

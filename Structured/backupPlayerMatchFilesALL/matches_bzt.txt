@@ -1,10 +1,10 @@
-2016,04,27,19:00,RB,Pixel,dust2,Balkan Championship Season 3,19,16,7,8,8,7,Pixel,20,26,0.79 
-2015,04,27,20:00,XPC,KnockOutStars,dust2,ESL South East Europe Champion..,16,13,11,4,5,9,KnockOutStars,26,20,1.22 
-2015,04,27,20:00,KnockOutStars,XPC,mirage,ESL South East Europe Champion..,3,16,3,12,0,4,KnockOutStars,11,17,0.63 
-2015,04,21,21:30,KnockOutStars,RB,overpass,ESL South East Europe Champion..,16,13,12,3,4,10,KnockOutStars,19,20,0.98 
-2015,04,21,21:30,KnockOutStars,RB,dust2,ESL South East Europe Champion..,9,16,6,9,3,7,KnockOutStars,12,20,0.66 
-2015,04,21,21:30,KnockOutStars,RB,cache,ESL South East Europe Champion..,16,10,9,6,7,4,KnockOutStars,20,15,1.10 
-2015,04,19,18:00,DIONAPPA,KnockOutStars,cache,ESL South East Europe Champion..,17,21,6,9,9,6,KnockOutStars,31,28,1.09 
-2015,04,19,18:00,KnockOutStars,DIONAPPA,dust2,ESL South East Europe Champion..,16,9,9,6,7,3,KnockOutStars,21,17,1.13 
-2015,04,16,18:15,SpaceSoldiers,KnockOutStars,cache,ESL South East Europe Champion..,16,12,8,7,8,5,KnockOutStars,16,21,0.81 
-2015,04,16,18:15,SpaceSoldiers,KnockOutStars,dust2,ESL South East Europe Champion..,16,10,7,8,9,2,KnockOutStars,17,21,0.86 
+2016,04,27,19:00,433,444,1,556,19,16,7,8,8,7,444,20,26,0.79 
+2015,04,27,20:00,379,1094,1,560,16,13,11,4,5,9,1094,26,20,1.22 
+2015,04,27,20:00,1094,379,0,560,3,16,3,12,0,4,1094,11,17,0.63 
+2015,04,21,21:30,1094,433,4,560,16,13,12,3,4,10,1094,19,20,0.98 
+2015,04,21,21:30,1094,433,1,560,9,16,6,9,3,7,1094,12,20,0.66 
+2015,04,21,21:30,1094,433,7,560,16,10,9,6,7,4,1094,20,15,1.10 
+2015,04,19,18:00,1101,1094,7,560,17,21,6,9,9,6,1094,31,28,1.09 
+2015,04,19,18:00,1094,1101,1,560,16,9,9,6,7,3,1094,21,17,1.13 
+2015,04,16,18:15,29,1094,7,560,16,12,8,7,8,5,1094,16,21,0.81 
+2015,04,16,18:15,29,1094,1,560,16,10,7,8,9,2,1094,17,21,0.86 

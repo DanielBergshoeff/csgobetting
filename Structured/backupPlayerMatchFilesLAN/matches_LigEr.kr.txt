@@ -1,4 +1,0 @@
-2016,07,28,13:00,v0rtex5	,Furious,cache,VSL Season 1,16,11,10,5,6,6,v0rtex 5	,16,21,0.74 
-2016,07,21,13:00,m0nster,v0rtex5	,train,VSL Season 1,11,16,8,7,3,9,v0rtex 5	,16,19,0.87 
-2016,07,14,13:00,autocracy,v0rtex5	,cobblestone,VSL Season 1,16,8,8,7,8,1,v0rtex 5	,14,18,0.84 
-2016,07,03,11:10,v0rtex5	,MVPproject,cobblestone,VSL Season 1,8,16,7,8,1,8,v0rtex 5	,20,17,1.20 

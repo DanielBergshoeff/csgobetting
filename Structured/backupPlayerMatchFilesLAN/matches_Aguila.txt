@@ -1,6 +1,0 @@
-2015,07,25,18:15,OverGaming,KILLERFISH,mirage,ESL One Cologne 2015 European ..,8,16,8,7,0,9,OverGaming,11,18,0.73 
-2015,07,25,17:15,PiTER,OverGaming,cache,ESL One Cologne 2015 European ..,8,16,6,9,2,7,OverGaming,13,12,0.96 
-2015,07,25,13:30,OverGaming,dignitas,dust2,ESL One Cologne 2015 European ..,9,16,9,6,0,10,OverGaming,10,22,0.48 
-2014,07,19,11:30,HellRaisers,Outbreak,dust2,DreamHack Valencia 2014,16,6,11,4,5,2,Outbreak,20,19,1.19 
-2014,07,19,11:30,HellRaisers,Outbreak,mirage,DreamHack Valencia 2014,13,16,11,4,2,12,Outbreak,19,19,0.93 
-2014,07,19,11:30,Outbreak,HellRaisers,inferno,DreamHack Valencia 2014,14,16,8,7,6,9,Outbreak,17,21,0.80 

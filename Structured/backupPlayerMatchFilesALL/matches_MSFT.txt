@@ -1,2 +1,2 @@
-2015,10,24,20:00,EuropeanMisfits,Reaction,dust2,QuickShot Showmatches,16,14,6,9,10,5,Reaction,20,23,0.88 
-2015,10,24,20:00,EuropeanMisfits,Reaction,cache,QuickShot Showmatches,16,5,12,3,4,2,Reaction,10,19,0.59 
+2015,10,24,20:00,892,784,1,752,16,14,6,9,10,5,784,20,23,0.88 
+2015,10,24,20:00,892,784,7,752,16,5,12,3,4,2,784,10,19,0.59 

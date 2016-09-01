@@ -1,34 +1,35 @@
-2016,03,26,17:00,CLGRed,Milleniumfe,inferno,Copenhagen Games 2016 female,16,10,10,5,6,5,Millenium fe,20,19,1.31 
-2016,03,26,17:00,CLGRed,Milleniumfe,mirage,Copenhagen Games 2016 female,16,8,11,4,5,4,Millenium fe,19,17,1.17 
-2016,03,26,17:00,CLGRed,Milleniumfe,overpass,Copenhagen Games 2016 female,13,16,9,6,4,10,Millenium fe,24,19,1.23 
-2016,03,26,14:00,Milleniumfe,Karma,dust2,Copenhagen Games 2016 female,16,8,7,8,9,0,Millenium fe,15,11,1.16 
-2016,03,26,14:00,Karma,Milleniumfe,mirage,Copenhagen Games 2016 female,7,16,3,12,4,4,Millenium fe,11,15,0.71 
-2016,03,26,01:00,Milleniumfe,Area08fe,cache,Copenhagen Games 2016 female,16,11,10,5,6,6,Millenium fe,29,17,1.56 
-2016,03,26,01:00,Milleniumfe,Area08fe,inferno,Copenhagen Games 2016 female,16,1,14,1,2,0,Millenium fe,23,4,2.30 
-2016,03,25,19:45,Secretfe,Milleniumfe,dust2,Copenhagen Games 2016 female,16,8,8,7,8,1,Millenium fe,17,19,0.93 
-2016,03,25,19:45,Secretfe,Milleniumfe,cache,Copenhagen Games 2016 female,16,5,11,4,5,1,Millenium fe,14,18,0.81 
-2016,03,25,16:30,Area08fe,Milleniumfe,cache,Copenhagen Games 2016 female,17,19,13,2,2,13,Millenium fe,24,24,1.01 
-2016,03,25,16:30,Area08fe,Milleniumfe,overpass,Copenhagen Games 2016 female,7,16,7,8,0,8,Millenium fe,21,13,1.32 
-2016,03,05,17:00,Karma,Milleniumfe,train,Intel Challenge Katowice 2016,16,14,8,7,8,7,Millenium fe,29,21,1.42 
-2016,03,05,15:35,Santos.DeXfe,Milleniumfe,overpass,Intel Challenge Katowice 2016,12,16,10,5,2,11,Millenium fe,18,17,0.94 
-2016,03,05,13:20,Milleniumfe,Karma,cache,Intel Challenge Katowice 2016,0,16,0,15,0,1,Millenium fe,7,15,0.45 
-2015,08,09,21:15,ex-meltyfe,CMStorm,inferno,NiP TV Female Challenge,13,16,8,7,5,9,ex-melty fe,19,21,0.87 
-2015,08,09,21:15,CMStorm,ex-meltyfe,mirage,NiP TV Female Challenge,16,8,11,4,5,4,ex-melty fe,12,17,0.80 
-2015,08,09,18:00,Games4ufe,ex-meltyfe,dust2,NiP TV Female Challenge,16,9,10,5,6,4,ex-melty fe,16,18,0.88 
-2015,08,09,18:00,Games4ufe,ex-meltyfe,mirage,NiP TV Female Challenge,16,9,11,4,5,5,ex-melty fe,20,19,1.17 
-2015,08,09,18:00,Games4ufe,ex-meltyfe,cache,NiP TV Female Challenge,12,16,8,7,4,9,ex-melty fe,25,15,1.44 
-2015,08,09,15:30,ex-meltyfe,Propertyfe,cache,NiP TV Female Challenge,16,14,7,8,9,6,ex-melty fe,20,19,1.03 
-2015,08,09,15:30,Propertyfe,ex-meltyfe,mirage,NiP TV Female Challenge,7,16,7,8,0,8,ex-melty fe,24,10,1.74 
-2015,07,11,19:00,Dexterityfe,ex-meltyfe,inferno,ESWC 2015 Female,16,12,12,3,4,9,ex-melty fe,16,21,0.81 
-2015,07,11,17:30,ex-meltyfe,Karma,dust2,ESWC 2015 Female,13,16,5,10,8,6,ex-melty fe,11,22,0.55 
-2015,07,11,16:00,Games4ufe,ex-meltyfe,mirage,ESWC 2015 Female,9,16,5,10,4,6,ex-melty fe,21,15,1.21 
-2015,04,04,10:00,BadMonkey,eSportEngine,dust2,Copenhagen Games 2015 female,16,1,14,1,2,0,eSport Engine,4,16,0.24 
-2015,04,04,10:00,eSportEngine,BadMonkey,nuke,Copenhagen Games 2015 female,16,11,7,8,9,3,eSport Engine,18,15,1.01 
-2015,04,04,10:00,BadMonkey,eSportEngine,inferno,Copenhagen Games 2015 female,16,1,14,1,2,0,eSport Engine,6,17,0.36 
-2015,04,03,22:15,iGamerzfe,eSportEngine,inferno,Copenhagen Games 2015 female,14,16,12,3,2,13,eSport Engine,24,19,1.20 
-2015,04,03,22:15,iGamerzfe,eSportEngine,mirage,Copenhagen Games 2015 female,1,16,1,14,0,2,eSport Engine,24,5,2.13 
-2015,04,03,18:30,Ubinited,eSportEngine,dust2,Copenhagen Games 2015 female,16,5,10,5,6,0,eSport Engine,6,17,0.45 
-2015,04,03,18:30,eSportEngine,Ubinited,cache,Copenhagen Games 2015 female,16,12,5,10,11,2,eSport Engine,23,19,1.13 
-2015,04,03,18:30,Ubinited,eSportEngine,inferno,Copenhagen Games 2015 female,19,15,11,4,4,11,eSport Engine,21,26,0.81 
-2015,04,03,15:00,ALTERNATEfe,eSportEngine,mirage,Copenhagen Games 2015 female,6,16,4,11,2,5,eSport Engine,20,12,1.32 
-2015,04,03,15:00,ALTERNATEfe,eSportEngine,nuke,Copenhagen Games 2015 female,5,16,5,10,0,6,eSport Engine,26,14,1.67 
+2016,03,26,17:00,510,512,6,620,16,10,10,5,6,5,512,20,19,1.31 
+2016,03,26,17:00,510,512,0,620,16,8,11,4,5,4,512,19,17,1.17 
+2016,03,26,17:00,510,512,4,620,13,16,9,6,4,10,512,24,19,1.23 
+2016,03,26,14:00,512,516,1,620,16,8,7,8,9,0,512,15,11,1.16 
+2016,03,26,14:00,516,512,0,620,7,16,3,12,4,4,512,11,15,0.71 
+2016,03,26,01:00,512,520,7,620,16,11,10,5,6,6,512,29,17,1.56 
+2016,03,26,01:00,512,520,6,620,16,1,14,1,2,0,512,23,4,2.30 
+2016,03,25,19:45,261,512,1,620,16,8,8,7,8,1,512,17,19,0.93 
+2016,03,25,19:45,261,512,7,620,16,5,11,4,5,1,512,14,18,0.81 
+2016,03,25,16:30,520,512,7,620,17,19,13,2,2,13,512,24,24,1.01 
+2016,03,25,16:30,520,512,4,620,7,16,7,8,0,8,512,21,13,1.32 
+2016,03,05,17:00,516,512,2,636,16,14,8,7,8,7,512,29,21,1.42 
+2016,03,05,15:35,641,512,4,636,12,16,10,5,2,11,512,18,17,0.94 
+2016,03,05,13:20,512,516,7,636,0,16,0,15,0,1,512,7,15,0.45 
+2015,08,09,21:15,1039,1032,6,853,13,16,8,7,5,9,1039,19,21,0.87 
+2015,08,09,21:15,1032,1039,0,853,16,8,11,4,5,4,1039,12,17,0.80 
+2015,08,09,18:00,1026,1039,1,853,16,9,10,5,6,4,1039,16,18,0.88 
+2015,08,09,18:00,1026,1039,0,853,16,9,11,4,5,5,1039,20,19,1.17 
+2015,08,09,18:00,1026,1039,7,853,12,16,8,7,4,9,1039,25,15,1.44 
+2015,08,09,15:30,1039,675,7,853,16,14,7,8,9,6,1039,20,19,1.03 
+2015,08,09,15:30,675,1039,0,853,7,16,7,8,0,8,1039,24,10,1.74 
+2015,07,11,19:00,1048,1039,6,876,16,12,12,3,4,9,1039,16,21,0.81 
+2015,07,11,19:00,1048,1039,6,876,16,12,12,3,4,9,1039,16,21,0.81 
+2015,07,11,17:30,1039,516,1,876,13,16,5,10,8,6,1039,11,22,0.55 
+2015,07,11,16:00,1026,1039,0,876,9,16,5,10,4,6,1039,21,15,1.21 
+2015,04,04,10:00,1108,1110,1,949,16,1,14,1,2,0,1110,4,16,0.24 
+2015,04,04,10:00,1110,1108,5,949,16,11,7,8,9,3,1110,18,15,1.01 
+2015,04,04,10:00,1108,1110,6,949,16,1,14,1,2,0,1110,6,17,0.36 
+2015,04,03,22:15,1118,1110,6,949,14,16,12,3,2,13,1110,24,19,1.20 
+2015,04,03,22:15,1118,1110,0,949,1,16,1,14,0,2,1110,24,5,2.13 
+2015,04,03,18:30,1074,1110,1,949,16,5,10,5,6,0,1110,6,17,0.45 
+2015,04,03,18:30,1110,1074,7,949,16,12,5,10,11,2,1110,23,19,1.13 
+2015,04,03,18:30,1074,1110,6,949,19,15,11,4,4,11,1110,21,26,0.81 
+2015,04,03,15:00,1119,1110,0,949,6,16,4,11,2,5,1110,20,12,1.32 
+2015,04,03,15:00,1119,1110,5,949,5,16,5,10,0,6,1110,26,14,1.67 

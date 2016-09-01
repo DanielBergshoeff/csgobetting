@@ -1,4 +1,0 @@
-2016,06,12,10:30,ex-noMERCY,AGG,train,X-Kom Clash,8,16,6,9,2,7,ex-noMERCY,15,21,0.70 
-2016,06,12,10:30,ex-noMERCY,AGG,mirage,X-Kom Clash,11,16,9,6,2,10,ex-noMERCY,16,15,0.94 
-2016,05,28,17:15,Dobry&Gaming,noMERCY,cache,GeForce CUP at ESPORT NOW 2016,16,2,13,2,3,0,noMERCY,10,18,0.56 
-2016,05,28,17:15,Dobry&Gaming,noMERCY,mirage,GeForce CUP at ESPORT NOW 2016,16,6,11,4,5,2,noMERCY,14,19,0.70 

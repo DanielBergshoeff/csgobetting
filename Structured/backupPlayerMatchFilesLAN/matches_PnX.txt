@@ -1,9 +1,0 @@
-2014,10,04,08:30,Virtus.pro,myXMG,dust2,Game Show CS:GO League LAN Fin..,16,13,7,8,9,5,myXMG,21,20,0.97 
-2014,10,04,08:30,Virtus.pro,myXMG,mirage,Game Show CS:GO League LAN Fin..,16,6,13,2,3,4,myXMG,11,19,0.63 
-2014,10,03,08:20,HellRaisers,myXMG,inferno,Game Show CS:GO League LAN Fin..,16,11,8,7,8,4,myXMG,12,21,0.57 
-2014,10,03,08:20,HellRaisers,myXMG,mirage,Game Show CS:GO League LAN Fin..,16,7,11,4,5,3,myXMG,6,21,0.31 
-2014,10,03,08:20,myXMG,HellRaisers,overpass,Game Show CS:GO League LAN Fin..,16,8,14,1,2,7,myXMG,32,13,2.19 
-2014,08,31,11:00,HellRaisers,myXMG,inferno,SLTV StarSeries X Finals,16,8,10,5,6,3,myXMG,19,20,1.05 
-2014,08,31,11:00,HellRaisers,myXMG,dust2,SLTV StarSeries X Finals,16,8,9,6,7,2,myXMG,15,19,0.89 
-2014,08,30,11:15,fnatic,myXMG,mirage,SLTV StarSeries X Finals,16,2,13,2,3,0,myXMG,8,17,0.51 
-2014,08,30,11:15,fnatic,myXMG,dust2,SLTV StarSeries X Finals,16,4,11,4,5,0,myXMG,18,18,1.09 

@@ -1,16 +1,13 @@
 import numpy as np
 from datetime import date
-import os
 
 # INSERT NEEDED INFORMATION HERE
 fileToImport = 'matchesTotal.txt'
-script_dir = os.path.dirname(__file__)
 timeWeightLoss = -0.3
 daysBackLimit = 100
 
 # import data from import file
-abs_file_path = os.path.join(script_dir, fileToImport)
-import_data = np.genfromtxt(abs_file_path,delimiter = ',')
+import_data = np.genfromtxt(fileToImport,delimiter = ',')
 
 import_dates = import_data[:,][:,0:3]
 import_homeTeamName = import_data[:,][:,3]
@@ -21,18 +18,15 @@ import_map = import_data[:,][:,7]
 import_event = import_data[:,][:,8]
 
 # import team IDs
-abs_file_path_teamID = os.path.join(script_dir, 'teamIDs.txt')
-with open(abs_file_path_teamID, "r") as text_file:
+with open('teamIDs.txt', "r") as text_file:
     teamIDs = text_file.readline().split()
     
 # import map IDs
-abs_file_path_mapID = os.path.join(script_dir, 'mapIDs.txt')
-with open(abs_file_path_mapID, "r") as text_file:
+with open('mapIDs.txt', "r") as text_file:
     mapIDs = text_file.readline().split()
     
 # import event IDs
-abs_file_path_eventID = os.path.join(script_dir, 'eventIDs.txt')
-with open(abs_file_path_eventID, "r") as text_file:
+with open('eventIDs.txt', "r") as text_file:
     eventIDs = text_file.readline().split()
 
 

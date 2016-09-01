@@ -1,3 +1,3 @@
-2014,04,26,23:30,AlienTech,NorthernGrade,nuke,1Life Fraglider Invitational,17,19,11,4,4,11,NorthernGrade,29,22,1.23 
-2014,04,26,21:00,Panthers,NorthernGrade,dust2,1Life Fraglider Invitational,5,16,3,12,2,4,NorthernGrade,18,13,1.25 
-2014,04,26,18:00,AlienTech,NorthernGrade,dust2,1Life Fraglider Invitational,9,16,6,9,3,7,NorthernGrade,13,17,0.70 
+2014,04,26,23:30,278,1262,5,1074,17,19,11,4,4,11,1262,29,22,1.23 
+2014,04,26,21:00,1087,1262,1,1074,5,16,3,12,2,4,1262,18,13,1.25 
+2014,04,26,18:00,278,1262,1,1074,9,16,6,9,3,7,1262,13,17,0.70 

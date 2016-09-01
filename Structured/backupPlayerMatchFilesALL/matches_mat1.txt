@@ -1,46 +1,46 @@
-2016,08,07,18:10,fruits,Spirit,cache,SL i-League S2 Europe Qualifie..,12,16,5,10,7,6,fruits,14,20,0.71 
-2016,08,07,18:10,Spirit,fruits,cobblestone,SL i-League S2 Europe Qualifie..,16,14,9,6,7,8,fruits,12,21,0.62 
-2016,08,07,18:10,fruits,Spirit,mirage,SL i-League S2 Europe Qualifie..,16,14,10,5,6,9,fruits,34,17,1.65 
-2016,08,06,21:00,Gambit,fruits,nuke,SL i-League S2 Europe Qualifie..,14,16,9,6,5,10,fruits,24,21,1.15 
-2016,08,06,21:00,Gambit,fruits,cache,SL i-League S2 Europe Qualifie..,16,14,7,8,9,6,fruits,9,23,0.46 
-2016,08,06,21:00,Gambit,fruits,cobblestone,SL i-League S2 Europe Qualifie..,13,16,4,11,9,5,fruits,25,18,1.37 
-2016,08,04,21:00,fruits,HellRaisers,train,SL i-League S2 Europe Qualifie..,4,16,4,11,0,5,fruits,3,19,0.20 
-2016,08,04,21:00,fruits,HellRaisers,mirage,SL i-League S2 Europe Qualifie..,5,16,3,12,2,4,fruits,15,19,0.87 
-2016,07,03,14:00,fruits,eXtatus,cobblestone,Infinity Coliseum LAN 33,16,9,10,5,6,4,fruits,25,15,1.39 
-2016,07,03,14:00,eXtatus,fruits,overpass,Infinity Coliseum LAN 33,10,16,6,9,4,7,fruits,20,13,1.14 
-2016,07,03,14:00,eXtatus,fruits,train,Infinity Coliseum LAN 33,13,16,6,9,7,7,fruits,11,19,0.62 
-2016,07,03,14:00,fruits,eXtatus,mirage,Infinity Coliseum LAN 33,5,16,5,10,0,6,fruits,16,16,1.08 
-2016,05,11,21:00,Bpro,Pixel,cobblestone,Balkan Championship Season 3,16,9,8,7,8,2,Pixel,22,21,1.24 
-2016,04,27,19:00,RB,Pixel,dust2,Balkan Championship Season 3,19,16,7,8,8,7,Pixel,22,24,0.86 
-2016,04,27,17:30,SpaceSoldiers,GameAgents,inferno,Operation: Kinguin #3,13,16,6,9,7,7,GameAgents,11,10,0.91 
-2016,04,27,17:30,GameAgents,SpaceSoldiers,train,Operation: Kinguin #3,11,16,4,11,7,5,GameAgents,10,20,0.61 
-2016,04,26,22:00,XPC,Pixel,mirage,Balkan Championship Season 3,16,6,11,4,5,2,Pixel,8,21,0.39 
-2016,04,22,19:00,Pixel,CS-GO.rs,cobblestone,Balkan Championship Season 3,14,16,7,8,7,8,Pixel,23,22,0.97 
-2016,04,11,21:15,Deathtrap,Pixel,dust2,Balkan Championship Season 3,19,16,6,9,9,6,Pixel,24,24,1.00 
-2016,04,07,20:15,aimclub,Pixel,mirage,Balkan Championship Season 3,16,10,8,7,8,3,Pixel,20,18,1.16 
-2016,04,04,19:00,Pixel,SuperMassive,mirage,Balkan Championship Season 3,17,19,8,7,7,8,Pixel,26,23,1.08 
-2016,03,31,20:15,Pixel,iNation,mirage,Balkan Championship Season 3,16,11,9,6,7,5,Pixel,19,17,1.04 
-2016,03,19,17:50,SpaceSoldiers,nGw,mirage,DreamHack Masters Malmö 2016 E..,16,3,12,3,4,0,nGw,5,17,0.34 
-2016,03,09,22:15,GameAgents,SK,train,Operation: Kinguin #2,11,16,5,10,6,6,GameAgents,17,20,0.84 
-2016,02,24,21:15,Pixel,Deathtrap,mirage,Balkan Challenge #1,12,16,4,11,8,5,Pixel,23,20,1.17 
-2016,02,24,21:15,Pixel,Deathtrap,inferno,Balkan Challenge #1,14,16,7,8,7,8,Pixel,34,20,1.68 
-2016,02,24,20:00,XPC,Pixel,dust2,Balkan Challenge #1,5,16,4,11,1,5,Pixel,13,15,0.92 
-2016,02,22,23:00,Pixel,GIANT5,overpass,Balkan Challenge #1,16,11,8,7,8,4,Pixel,24,18,1.34 
-2016,02,22,21:15,Pixel,PhysX,dust2,Balkan Challenge #1,16,7,11,4,5,3,Pixel,22,12,1.49 
-2016,02,22,20:00,Deathtrap,Pixel,cobblestone,Balkan Challenge #1,16,13,5,10,11,3,Pixel,22,18,1.22 
-2015,10,12,22:00,FlipSid3,volgare,cache,GameAgents League Season 2,19,16,6,9,9,6,volgare,22,25,0.96 
-2015,10,12,22:00,FlipSid3,volgare,inferno,GameAgents League Season 2,16,4,13,2,3,2,volgare,11,18,0.72 
-2015,05,22,18:00,EZPZ_LS,mesport.hu,cache,Balkan Championship Season 2,16,8,13,2,3,6,mesport.hu,23,18,1.27 
-2015,05,22,18:00,mesport.hu,EZPZ_LS,inferno,Balkan Championship Season 2,7,16,6,9,1,7,mesport.hu,14,18,0.81 
-2015,05,21,20:00,H2B,mesport.hu,cache,Balkan Championship Season 2,16,9,8,7,8,2,mesport.hu,9,21,0.48 
-2015,05,21,20:00,H2B,mesport.hu,dust2,Balkan Championship Season 2,16,7,12,3,4,4,mesport.hu,15,18,0.87 
-2015,05,21,20:00,H2B,mesport.hu,mirage,Balkan Championship Season 2,14,16,12,3,2,13,mesport.hu,30,20,1.51 
-2015,04,27,20:00,XPC,KnockOutStars,dust2,ESL South East Europe Champion..,16,13,11,4,5,9,KnockOutStars,25,18,1.27 
-2015,04,27,20:00,KnockOutStars,XPC,mirage,ESL South East Europe Champion..,3,16,3,12,0,4,KnockOutStars,14,17,0.85 
-2015,04,21,21:30,KnockOutStars,RB,overpass,ESL South East Europe Champion..,16,13,12,3,4,10,KnockOutStars,24,23,1.08 
-2015,04,21,21:30,KnockOutStars,RB,dust2,ESL South East Europe Champion..,9,16,6,9,3,7,KnockOutStars,10,20,0.57 
-2015,04,21,21:30,KnockOutStars,RB,cache,ESL South East Europe Champion..,16,10,9,6,7,4,KnockOutStars,17,13,1.02 
-2015,04,19,18:00,DIONAPPA,KnockOutStars,cache,ESL South East Europe Champion..,17,21,6,9,9,6,KnockOutStars,37,21,1.50 
-2015,04,19,18:00,KnockOutStars,DIONAPPA,dust2,ESL South East Europe Champion..,16,9,9,6,7,3,KnockOutStars,17,17,0.99 
-2015,04,16,18:15,SpaceSoldiers,KnockOutStars,cache,ESL South East Europe Champion..,16,12,8,7,8,5,KnockOutStars,16,23,0.66 
-2015,04,16,18:15,SpaceSoldiers,KnockOutStars,dust2,ESL South East Europe Champion..,16,10,7,8,9,2,KnockOutStars,16,20,0.86 
+2016,08,07,18:10,154,42,7,471,12,16,5,10,7,6,154,14,20,0.71 
+2016,08,07,18:10,42,154,14,471,16,14,9,6,7,8,154,12,21,0.62 
+2016,08,07,18:10,154,42,0,471,16,14,10,5,6,9,154,34,17,1.65 
+2016,08,06,21:00,152,154,5,471,14,16,9,6,5,10,154,24,21,1.15 
+2016,08,06,21:00,152,154,7,471,16,14,7,8,9,6,154,9,23,0.46 
+2016,08,06,21:00,152,154,14,471,13,16,4,11,9,5,154,25,18,1.37 
+2016,08,04,21:00,154,59,2,471,4,16,4,11,0,5,154,3,19,0.20 
+2016,08,04,21:00,154,59,0,471,5,16,3,12,2,4,154,15,19,0.87 
+2016,07,03,14:00,154,245,14,530,16,9,10,5,6,4,154,25,15,1.39 
+2016,07,03,14:00,245,154,4,530,10,16,6,9,4,7,154,20,13,1.14 
+2016,07,03,14:00,245,154,2,530,13,16,6,9,7,7,154,11,19,0.62 
+2016,07,03,14:00,154,245,0,530,5,16,5,10,0,6,154,16,16,1.08 
+2016,05,11,21:00,262,444,14,556,16,9,8,7,8,2,444,22,21,1.24 
+2016,04,27,19:00,433,444,1,556,19,16,7,8,8,7,444,22,24,0.86 
+2016,04,27,17:30,29,358,6,499,13,16,6,9,7,7,358,11,10,0.91 
+2016,04,27,17:30,358,29,2,499,11,16,4,11,7,5,358,10,20,0.61 
+2016,04,26,22:00,379,444,0,556,16,6,11,4,5,2,444,8,21,0.39 
+2016,04,22,19:00,444,276,14,556,14,16,7,8,7,8,444,23,22,0.97 
+2016,04,11,21:15,406,444,1,556,19,16,6,9,9,6,444,24,24,1.00 
+2016,04,07,20:15,157,444,0,556,16,10,8,7,8,3,444,20,18,1.16 
+2016,04,04,19:00,444,457,0,556,17,19,8,7,7,8,444,26,23,1.08 
+2016,03,31,20:15,444,275,0,556,16,11,9,6,7,5,444,19,17,1.04 
+2016,03,19,17:50,29,594,0,625,16,3,12,3,4,0,594,5,17,0.34 
+2016,03,09,22:15,358,302,2,605,11,16,5,10,6,6,358,17,20,0.84 
+2016,02,24,21:15,444,406,0,645,12,16,4,11,8,5,444,23,20,1.17 
+2016,02,24,21:15,444,406,6,645,14,16,7,8,7,8,444,34,20,1.68 
+2016,02,24,20:00,379,444,1,645,5,16,4,11,1,5,444,13,15,0.92 
+2016,02,22,23:00,444,656,4,645,16,11,8,7,8,4,444,24,18,1.34 
+2016,02,22,21:15,444,657,1,645,16,7,11,4,5,3,444,22,12,1.49 
+2016,02,22,20:00,406,444,14,645,16,13,5,10,11,3,444,22,18,1.22 
+2015,10,12,22:00,13,888,7,741,19,16,6,9,9,6,888,22,25,0.96 
+2015,10,12,22:00,13,888,6,741,16,4,13,2,3,2,888,11,18,0.72 
+2015,05,22,18:00,283,1081,7,887,16,8,13,2,3,6,1081,23,18,1.27 
+2015,05,22,18:00,1081,283,6,887,7,16,6,9,1,7,1081,14,18,0.81 
+2015,05,21,20:00,1076,1081,7,887,16,9,8,7,8,2,1081,9,21,0.48 
+2015,05,21,20:00,1076,1081,1,887,16,7,12,3,4,4,1081,15,18,0.87 
+2015,05,21,20:00,1076,1081,0,887,14,16,12,3,2,13,1081,30,20,1.51 
+2015,04,27,20:00,379,1094,1,560,16,13,11,4,5,9,1094,25,18,1.27 
+2015,04,27,20:00,1094,379,0,560,3,16,3,12,0,4,1094,14,17,0.85 
+2015,04,21,21:30,1094,433,4,560,16,13,12,3,4,10,1094,24,23,1.08 
+2015,04,21,21:30,1094,433,1,560,9,16,6,9,3,7,1094,10,20,0.57 
+2015,04,21,21:30,1094,433,7,560,16,10,9,6,7,4,1094,17,13,1.02 
+2015,04,19,18:00,1101,1094,7,560,17,21,6,9,9,6,1094,37,21,1.50 
+2015,04,19,18:00,1094,1101,1,560,16,9,9,6,7,3,1094,17,17,0.99 
+2015,04,16,18:15,29,1094,7,560,16,12,8,7,8,5,1094,16,23,0.66 
+2015,04,16,18:15,29,1094,1,560,16,10,7,8,9,2,1094,16,20,0.86 

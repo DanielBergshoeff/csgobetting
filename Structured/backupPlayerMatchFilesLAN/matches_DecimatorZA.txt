@@ -1,5 +1,0 @@
-2015,12,12,13:30,PewPew-Armada,eNergy,inferno,BHG CS:GO Tournament,2,16,2,13,0,3,PewPew-Armada,10,15,0.79 
-2015,12,12,13:30,PewPew-Armada,eNergy,cache,BHG CS:GO Tournament,8,16,4,11,4,5,PewPew-Armada,32,14,2.20 
-2015,12,12,10:15,MDK,PewPew-Armada,mirage,BHG CS:GO Tournament,16,12,8,7,8,5,PewPew-Armada,25,22,1.25 
-2015,12,12,10:15,PewPew-Armada,MDK,dust2,BHG CS:GO Tournament,16,13,8,7,8,6,PewPew-Armada,42,16,2.12 
-2015,12,12,10:15,MDK,PewPew-Armada,cache,BHG CS:GO Tournament,15,15,7,8,8,7,PewPew-Armada,37,18,1.76 

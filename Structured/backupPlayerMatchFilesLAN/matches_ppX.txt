@@ -1,3 +1,0 @@
-2016,08,07,09:55,nGse,PewPewX,overpass,ROG CS:GO Hong Kong Tournament,16,14,8,7,8,7,PewPewX,20,25,0.81 
-2016,08,07,09:55,nGse,PewPewX,mirage,ROG CS:GO Hong Kong Tournament,16,7,13,2,3,5,PewPewX,12,18,0.71 
-2016,08,07,09:55,nGse,PewPewX,nuke,ROG CS:GO Hong Kong Tournament,9,16,5,10,4,6,PewPewX,19,19,0.99 

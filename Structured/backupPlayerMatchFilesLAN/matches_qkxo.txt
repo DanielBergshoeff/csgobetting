@@ -1,5 +1,0 @@
-2016,03,25,22:00,Orbitfe,Area08fe,cobblestone,Copenhagen Games 2016 female,8,16,5,10,3,6,Orbit fe,19,15,1.09 
-2016,03,25,22:00,Orbitfe,Area08fe,mirage,Copenhagen Games 2016 female,16,2,13,2,3,0,Orbit fe,12,6,1.13 
-2016,03,25,22:00,Area08fe,Orbitfe,cache,Copenhagen Games 2016 female,16,8,12,3,4,5,Orbit fe,21,16,1.29 
-2016,03,25,12:00,Secretfe,Orbitfe,mirage,Copenhagen Games 2016 female,16,6,11,4,5,2,Orbit fe,19,17,1.09 
-2016,03,25,12:00,Secretfe,Orbitfe,cobblestone,Copenhagen Games 2016 female,16,9,9,6,7,3,Orbit fe,16,20,0.79 

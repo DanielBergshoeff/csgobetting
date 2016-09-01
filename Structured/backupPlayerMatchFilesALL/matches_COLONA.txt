@@ -1,4 +1,4 @@
-2015,10,03,08:00,DeToNator,RapturePlay,cache,JCG CS:GO Premier 2015 Summer,8,16,4,11,4,5,DeToNator,12,20,0.72 
-2015,10,03,08:00,RapturePlay,DeToNator,dust2,JCG CS:GO Premier 2015 Summer,22,19,6,9,9,6,DeToNator,25,29,0.93 
-2015,09,18,13:00,MiTH,DeToNator,dust2,MixBOT Pro-League Invite Seaso..,16,14,6,9,10,5,DeToNator,14,20,0.72 
-2015,09,11,13:15,TheMongolz,DeToNator,mirage,MixBOT Pro-League Invite Seaso..,16,9,12,3,4,6,DeToNator,15,24,0.74 
+2015,10,03,08:00,106,952,7,797,8,16,4,11,4,5,106,12,20,0.72 
+2015,10,03,08:00,952,106,1,797,22,19,6,9,9,6,106,25,29,0.93 
+2015,09,18,13:00,148,106,1,642,16,14,6,9,10,5,106,14,20,0.72 
+2015,09,11,13:15,150,106,0,642,16,9,12,3,4,6,106,15,24,0.74 

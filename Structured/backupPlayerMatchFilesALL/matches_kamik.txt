@@ -1,2 +1,2 @@
-2015,08,10,17:15,Azerbaijan,Moldova,inferno,World Championships 2015 Europ..,7,16,6,9,1,7,Azerbaijan,8,20,0.40 
-2015,08,10,17:15,Moldova,Azerbaijan,cache,World Championships 2015 Europ..,16,12,9,6,7,6,Azerbaijan,7,22,0.40 
+2015,08,10,17:15,25,1022,6,799,7,16,6,9,1,7,25,8,20,0.40 
+2015,08,10,17:15,1022,25,7,799,16,12,9,6,7,6,25,7,22,0.40 

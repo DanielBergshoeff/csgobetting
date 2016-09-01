@@ -1,6 +1,6 @@
-2016,07,08,00:00,Colombia,Paraguay,dust2,World Championships 2016 South..,16,1,15,0,1,1,Paraguay,11,17,0.64 
-2016,07,08,00:00,Colombia,Paraguay,mirage,World Championships 2016 South..,16,9,8,7,8,2,Paraguay,10,22,0.48 
-2016,05,09,03:15,WithoutaRoof,Noble,dust2,MLG Regional Minor North Ameri..,16,12,8,7,8,5,Noble,14,23,0.65 
-2016,05,09,02:00,Vault,Noble,cobblestone,MLG Regional Minor North Ameri..,13,16,7,8,6,8,Noble,14,17,0.84 
-2016,04,19,04:15,ACE,TSM,mirage,CEVO Gfinity Professional Seas..,5,16,4,11,1,5,ACE,5,19,0.28 
-2016,04,19,04:15,TSM,ACE,dust2,CEVO Gfinity Professional Seas..,16,6,12,3,4,3,ACE,11,19,0.71 
+2016,07,08,00:00,305,308,1,510,16,1,15,0,1,1,308,11,17,0.64 
+2016,07,08,00:00,305,308,0,510,16,9,8,7,8,2,308,10,22,0.48 
+2016,05,09,03:15,446,447,1,581,16,12,8,7,8,5,447,14,23,0.65 
+2016,05,09,02:00,436,447,14,581,13,16,7,8,6,8,447,14,17,0.84 
+2016,04,19,04:15,334,270,0,590,5,16,4,11,1,5,334,5,19,0.28 
+2016,04,19,04:15,270,334,1,590,16,6,12,3,4,3,334,11,19,0.71 

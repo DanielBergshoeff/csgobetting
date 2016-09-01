@@ -1,15 +1,19 @@
-2016,03,10,19:45,Refuse,CL4NLESS,train,Razer Rising Stars European Le..,16,11,11,4,5,7,CL4NLESS,14,21,0.68 
-2016,01,28,20:15,GameAgents,ImperialDragons,inferno,Uprise Champions Cup Season 4 ..,16,8,7,8,9,0,Imperial Dragons,5,21,0.32 
-2016,01,18,19:15,PENTA,ImperialDragons,train,Operation: Kinguin #2,16,9,11,4,5,5,Imperial Dragons,13,22,0.65 
-2016,01,18,19:15,ImperialDragons,PENTA,mirage,Operation: Kinguin #2,6,16,5,10,1,6,Imperial Dragons,7,17,0.56 
-2015,12,14,20:30,EpiphanyBolt,ImperialDragons,dust2,Game On European Invitational,16,13,6,9,10,4,Imperial Dragons,29,19,1.54 
-2015,12,14,20:30,EpiphanyBolt,ImperialDragons,mirage,Game On European Invitational,16,3,12,3,4,0,Imperial Dragons,8,17,0.53 
-2015,12,14,20:30,ImperialDragons,EpiphanyBolt,inferno,Game On European Invitational,16,14,8,7,8,7,Imperial Dragons,21,20,0.93 
-2015,11,22,10:30,ImperialDragons,Vexed,cache,Color League by EIZO & QPAD,10,16,7,8,3,8,Imperial Dragons,16,19,0.82 
-2015,11,22,10:30,Vexed,ImperialDragons,mirage,Color League by EIZO & QPAD,16,8,11,4,5,4,Imperial Dragons,7,19,0.41 
-2015,11,22,10:30,Vexed,ImperialDragons,train,Color League by EIZO & QPAD,8,16,7,8,1,8,Imperial Dragons,19,15,1.14 
-2015,11,21,16:45,ImperialDragons,ALSEN,mirage,Color League by EIZO & QPAD,16,10,9,6,7,4,Imperial Dragons,18,18,0.92 
-2015,11,21,16:45,ImperialDragons,ALSEN,train,Color League by EIZO & QPAD,11,16,5,10,6,6,Imperial Dragons,20,22,0.92 
-2015,11,21,16:45,ALSEN,ImperialDragons,inferno,Color League by EIZO & QPAD,10,16,2,13,8,3,Imperial Dragons,19,17,1.09 
-2015,11,21,14:15,ImperialDragons,Vexed,dust2,Color League by EIZO & QPAD,7,16,6,9,1,7,Imperial Dragons,22,20,1.21 
-2015,11,21,14:15,Vexed,ImperialDragons,mirage,Color League by EIZO & QPAD,19,15,6,9,9,6,Imperial Dragons,20,29,0.80 
+2016,03,10,19:45,158,631,2,498,16,11,11,4,5,7,631,14,21,0.68 
+2016,01,28,20:15,358,700,6,656,16,8,7,8,9,0,700,5,21,0.32 
+2016,01,18,19:15,196,700,2,605,16,9,11,4,5,5,700,13,22,0.65 
+2016,01,18,19:15,700,196,0,605,6,16,5,10,1,6,700,7,17,0.56 
+2015,12,14,20:30,137,700,1,697,16,13,6,9,10,4,700,29,19,1.54 
+2015,12,14,20:30,137,700,0,697,16,3,12,3,4,0,700,8,17,0.53 
+2015,12,14,20:30,700,137,6,697,16,14,8,7,8,7,700,21,20,0.93 
+2015,11,22,10:30,700,642,7,737,10,16,7,8,3,8,700,16,19,0.82 
+2015,11,22,10:30,642,700,0,737,16,8,11,4,5,4,700,7,19,0.41 
+2015,11,22,10:30,642,700,2,737,8,16,7,8,1,8,700,19,15,1.14 
+2015,11,21,16:45,700,838,0,737,16,10,9,6,7,4,700,18,18,0.92 
+2015,11,21,16:45,700,838,2,737,11,16,5,10,6,6,700,20,22,0.92 
+2015,11,21,16:45,838,700,6,737,10,16,2,13,8,3,700,19,17,1.09 
+2015,11,21,14:15,700,642,1,737,7,16,6,9,1,7,700,22,20,1.21 
+2015,11,21,14:15,642,700,0,737,19,15,6,9,9,6,700,20,29,0.80 
+2013,07,13,21:45,854,1285,13,1135,3,16,2,13,1,3,854,4,18,0.25 
+2013,07,13,20:45,722,854,10,1135,16,3,12,3,4,0,854,8,17,0.53 
+2013,07,13,19:00,1386,854,11,1135,8,16,5,10,3,6,854,19,15,1.23 
+2013,07,13,17:30,854,1385,9,1135,16,13,6,9,10,4,854,13,21,0.62 

@@ -1,19 +1,19 @@
-2015,11,15,16:30,NoobTubers,myXMGStaff,mirage,Virtus.pro Staff Cup #3,18,22,12,3,3,12,NoobTubers,31,27,1.09 
-2015,11,15,16:30,myXMGStaff,NoobTubers,dust2,Virtus.pro Staff Cup #3,11,16,5,10,6,6,NoobTubers,28,19,1.41 
-2015,11,15,16:30,NoobTubers,myXMGStaff,cache,Virtus.pro Staff Cup #3,11,16,7,8,4,8,NoobTubers,20,20,1.02 
-2015,11,15,11:00,NoobTubers,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,3,12,3,4,0,NoobTubers,17,7,1.60 
-2015,11,15,11:00,NoobTubers,E-frag.netStaff,cobblestone,Virtus.pro Staff Cup #3,16,12,3,12,13,0,NoobTubers,20,17,1.00 
-2015,11,14,16:00,NoobTubers,LCStaff,mirage,Virtus.pro Staff Cup #3,16,10,7,8,9,2,NoobTubers,23,19,1.16 
-2015,11,14,16:00,NoobTubers,LCStaff,cobblestone,Virtus.pro Staff Cup #3,16,6,10,5,6,1,NoobTubers,18,11,1.30 
-2015,11,14,13:30,myXMGStaff,NoobTubers,inferno,Virtus.pro Staff Cup #3,16,10,10,5,6,5,NoobTubers,16,20,0.90 
-2015,11,14,13:30,myXMGStaff,NoobTubers,mirage,Virtus.pro Staff Cup #3,19,17,10,5,5,10,NoobTubers,30,24,1.19 
-2015,11,13,16:00,NoobTubers,GameShowStaff,inferno,Virtus.pro Staff Cup #3,16,0,15,0,1,0,NoobTubers,22,2,2.55 
-2015,11,13,16:00,NoobTubers,GameShowStaff,mirage,Virtus.pro Staff Cup #3,16,2,13,2,3,0,NoobTubers,22,9,1.75 
-2015,11,08,13:30,SLTVStaff,NoobTubers,mirage,Virtus.pro Staff Cup #3,8,16,6,9,2,7,NoobTubers,14,19,0.80 
-2015,11,08,13:30,SLTVStaff,NoobTubers,cobblestone,Virtus.pro Staff Cup #3,16,19,8,7,7,8,NoobTubers,26,28,0.93 
-2015,11,08,13:30,NoobTubers,SLTVStaff,cache,Virtus.pro Staff Cup #3,8,16,5,10,3,6,NoobTubers,14,19,0.78 
-2015,11,07,13:30,Gamers.com.mtStaff,NoobTubers,cache,Virtus.pro Staff Cup #3,1,16,1,14,0,2,NoobTubers,22,2,2.11 
-2015,11,07,13:30,NoobTubers,Gamers.com.mtStaff,cobblestone,Virtus.pro Staff Cup #3,16,2,13,2,3,0,NoobTubers,21,9,1.64 
-2014,11,23,21:00,NiPStaff,HLTV.orgStaff,mirage,Virtus.pro Staff Cup #1,13,16,8,7,5,9,NiP Staff,19,20,0.96 
-2014,11,23,21:00,HLTV.orgStaff,NiPStaff,cache,Virtus.pro Staff Cup #1,16,7,11,4,5,3,NiP Staff,11,22,0.43 
-2014,11,23,17:00,HLTV.orgStaff,NiPStaff,overpass,Virtus.pro Staff Cup #1,16,14,10,5,6,9,NiP Staff,17,26,0.66 
+2015,11,15,16:30,859,857,0,750,18,22,12,3,3,12,859,31,27,1.09 
+2015,11,15,16:30,857,859,1,750,11,16,5,10,6,6,859,28,19,1.41 
+2015,11,15,16:30,859,857,7,750,11,16,7,8,4,8,859,20,20,1.02 
+2015,11,15,11:00,859,861,7,750,16,3,12,3,4,0,859,17,7,1.60 
+2015,11,15,11:00,859,861,14,750,16,12,3,12,13,0,859,20,17,1.00 
+2015,11,14,16:00,859,863,0,750,16,10,7,8,9,2,859,23,19,1.16 
+2015,11,14,16:00,859,863,14,750,16,6,10,5,6,1,859,18,11,1.30 
+2015,11,14,13:30,857,859,6,750,16,10,10,5,6,5,859,16,20,0.90 
+2015,11,14,13:30,857,859,0,750,19,17,10,5,5,10,859,30,24,1.19 
+2015,11,13,16:00,859,867,6,750,16,0,15,0,1,0,859,22,2,2.55 
+2015,11,13,16:00,859,867,0,750,16,2,13,2,3,0,859,22,9,1.75 
+2015,11,08,13:30,876,859,0,750,8,16,6,9,2,7,859,14,19,0.80 
+2015,11,08,13:30,876,859,14,750,16,19,8,7,7,8,859,26,28,0.93 
+2015,11,08,13:30,859,876,7,750,8,16,5,10,3,6,859,14,19,0.78 
+2015,11,07,13:30,884,859,7,750,1,16,1,14,0,2,859,22,2,2.11 
+2015,11,07,13:30,859,884,14,750,16,2,13,2,3,0,859,21,9,1.64 
+2014,11,23,21:00,866,858,0,987,13,16,8,7,5,9,866,19,20,0.96 
+2014,11,23,21:00,858,866,7,987,16,7,11,4,5,3,866,11,22,0.43 
+2014,11,23,17:00,858,866,4,987,16,14,10,5,6,9,866,17,26,0.66 

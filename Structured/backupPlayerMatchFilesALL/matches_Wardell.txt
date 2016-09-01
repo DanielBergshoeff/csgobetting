@@ -1,6 +1,6 @@
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,dust2,Fragadelphia 8,16,10,10,5,6,5,Bee's Money Crew,21,15,1.24 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,train,Fragadelphia 8,16,14,7,8,9,6,Bee's Money Crew,33,22,1.39 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,cobblestone,Fragadelphia 8,12,16,6,9,6,7,Bee's Money Crew,20,19,0.98 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,inferno,Fragadelphia 8,16,8,10,5,6,3,Bee's Money Crew,20,15,1.24 
-2016,04,14,02:00,Bee'sMoneyCrew,compLexity,mirage,CEVO Gfinity Professional Seas..,10,16,4,11,6,5,Bee's Money Crew,15,18,0.80 
-2016,04,14,02:00,Bee'sMoneyCrew,compLexity,cobblestone,CEVO Gfinity Professional Seas..,16,10,10,5,6,5,Bee's Money Crew,3,8,0.66 
+2016,05,23,04:30,422,423,1,565,16,10,10,5,6,5,422,21,15,1.24 
+2016,05,23,04:30,422,423,2,565,16,14,7,8,9,6,422,33,22,1.39 
+2016,05,23,04:30,422,423,14,565,12,16,6,9,6,7,422,20,19,0.98 
+2016,05,23,04:30,422,423,6,565,16,8,10,5,6,3,422,20,15,1.24 
+2016,04,14,02:00,422,116,0,590,10,16,4,11,6,5,422,15,18,0.80 
+2016,04,14,02:00,422,116,14,590,16,10,10,5,6,5,422,3,8,0.66 

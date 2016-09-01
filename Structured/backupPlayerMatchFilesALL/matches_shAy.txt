@@ -1,2 +1,2 @@
-2016,03,05,15:35,Santos.DeXfe,Milleniumfe,overpass,Intel Challenge Katowice 2016,12,16,10,5,2,11,Santos.DeX fe,18,17,0.98 
-2016,03,05,13:20,WRTP,Santos.DeXfe,mirage,Intel Challenge Katowice 2016,16,1,15,0,1,1,Santos.DeX fe,4,16,0.24 
+2016,03,05,15:35,641,512,4,636,12,16,10,5,2,11,641,18,17,0.98 
+2016,03,05,13:20,639,641,0,636,16,1,15,0,1,1,641,4,16,0.24 

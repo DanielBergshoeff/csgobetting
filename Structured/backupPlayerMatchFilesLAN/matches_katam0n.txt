@@ -1,4 +1,0 @@
-2016,08,04,14:00,T5,m0nsterwhite,train,VSL Season 1,16,2,13,2,3,0,m0nster white,9,15,0.65 
-2016,07,28,14:00,Player5,m0nsterwhite,train,VSL Season 1,19,17,6,9,9,6,m0nster white,27,25,1.02 
-2016,07,17,12:00,m0nsterwhite,Nomad,nuke,VSL Season 1,16,5,12,3,4,2,m0nster white,24,6,1.95 
-2016,07,07,14:15,m0nsterwhite,TamuluS,mirage,VSL Season 1,8,16,5,10,3,6,m0nster white,12,21,0.59 

@@ -1,48 +1,48 @@
-2016,08,11,04:15,ProGaming,Innova,cache,Liga PRO GamersClub - JUL/16,16,9,7,8,9,1,Innova,17,17,0.90 
-2016,08,11,04:15,ProGaming,Innova,dust2,Liga PRO GamersClub - JUL/16,16,11,8,7,8,4,Innova,21,21,1.09 
-2016,08,11,04:15,Innova,ProGaming,train,Liga PRO GamersClub - JUL/16,19,17,4,11,11,4,Innova,18,25,0.68 
-2016,08,10,04:10,Innova,TeamOne,train,Liga PRO GamersClub - JUL/16,16,11,13,2,3,9,Innova,28,16,1.46 
-2016,08,10,04:10,Innova,TeamOne,nuke,Liga PRO GamersClub - JUL/16,7,16,7,8,0,8,Innova,13,17,0.79 
-2016,08,10,04:10,Innova,TeamOne,dust2,Liga PRO GamersClub - JUL/16,16,14,7,8,9,6,Innova,19,21,0.95 
-2016,08,10,01:00,Innova,RemoBrave,dust2,ESEA Open Season 22 Brazil,9,16,8,7,1,9,Innova,12,19,0.64 
-2016,08,10,01:00,Innova,RemoBrave,mirage,ESEA Open Season 22 Brazil,4,16,2,13,2,3,Innova,8,19,0.43 
-2016,07,13,04:10,Innova,BlackDragons,cache,Liga PRO GamersClub - JUN/16,17,19,7,8,8,7,Innova,20,25,0.83 
-2016,07,13,04:10,Innova,BlackDragons,mirage,Liga PRO GamersClub - JUN/16,9,16,9,6,0,10,Innova,20,20,1.02 
-2016,07,13,04:10,BlackDragons,Innova,train,Liga PRO GamersClub - JUN/16,10,16,6,9,4,7,Innova,26,14,1.57 
-2016,06,17,00:15,Innova,g3x,train,Razer Rising Stars South Ameri..,16,9,12,3,4,6,Innova,13,16,0.75 
-2016,06,17,00:15,Innova,g3x,cache,Razer Rising Stars South Ameri..,9,16,4,11,5,5,Innova,16,18,0.86 
-2016,06,10,01:00,Innova,Supernova,cobblestone,Razer Rising Stars South Ameri..,16,14,6,9,10,5,Innova,21,18,1.10 
-2016,06,10,01:00,Innova,Supernova,train,Razer Rising Stars South Ameri..,16,8,13,2,3,6,Innova,22,12,1.44 
-2016,06,06,01:40,Innova,BigGods,cache,Liga PRO GamersClub - MAY/16,16,4,12,3,4,1,Innova,17,10,1.23 
-2016,06,06,01:40,BigGods,Innova,mirage,Liga PRO GamersClub - MAY/16,10,16,8,7,2,9,Innova,17,16,0.95 
-2016,06,05,21:15,Innova,TeamOne,dust2,Liga PRO GamersClub - MAY/16,16,10,10,5,6,5,Innova,27,15,1.57 
-2016,06,05,21:15,Innova,TeamOne,train,Liga PRO GamersClub - MAY/16,14,16,10,5,4,11,Innova,22,21,1.05 
-2016,06,05,21:15,Innova,TeamOne,overpass,Liga PRO GamersClub - MAY/16,16,11,11,4,5,7,Innova,21,19,1.06 
-2016,06,04,21:30,Innova,DaiDai,mirage,Liga PRO GamersClub - MAY/16,16,6,13,2,3,4,Innova,14,9,1.15 
-2016,06,04,21:30,Innova,DaiDai,cache,Liga PRO GamersClub - MAY/16,19,15,3,12,12,3,Innova,28,22,1.18 
-2016,06,04,21:30,DaiDai,Innova,cobblestone,Liga PRO GamersClub - MAY/16,16,11,11,4,5,7,Innova,19,20,0.89 
-2016,06,02,00:00,Innova,BigGods,cobblestone,Razer Rising Stars South Ameri..,6,16,5,10,1,6,Innova,15,17,1.07 
-2016,06,02,00:00,Innova,BigGods,mirage,Razer Rising Stars South Ameri..,16,9,9,6,7,3,Innova,16,13,0.97 
-2016,05,31,00:30,Innova,INTZ,mirage,Razer Rising Stars South Ameri..,11,16,5,10,6,6,Innova,14,17,0.82 
-2016,05,31,00:30,Innova,INTZ,cobblestone,Razer Rising Stars South Ameri..,15,19,6,9,9,6,Innova,22,22,0.98 
-2016,05,26,03:15,KeydStars,g3x,overpass,XLG CS:GO Season 1,4,16,3,12,1,4,Keyd Stars,15,17,0.98 
-2016,05,26,03:15,g3x,KeydStars,mirage,XLG CS:GO Season 1,16,3,12,3,4,0,Keyd Stars,8,17,0.47 
-2016,05,26,01:00,Innova,2Kill,train,Razer Rising Stars South Ameri..,16,14,9,6,7,8,Innova,22,18,1.17 
-2016,05,26,01:00,2Kill,Innova,mirage,Razer Rising Stars South Ameri..,14,16,8,7,6,9,Innova,19,20,0.98 
-2016,05,21,00:15,Innova,Furious,mirage,Razer Rising Stars South Ameri..,16,6,9,6,7,0,Innova,20,10,1.57 
-2016,05,21,00:15,Innova,Furious,train,Razer Rising Stars South Ameri..,16,3,14,1,2,2,Innova,21,10,1.68 
-2016,05,18,00:00,CNB,Innova,mirage,Razer Rising Stars South Ameri..,6,16,5,10,1,6,Innova,10,15,0.69 
-2016,05,18,00:00,CNB,Innova,train,Razer Rising Stars South Ameri..,9,16,8,7,1,9,Innova,20,16,1.10 
-2016,05,10,04:10,CNB,Innova,mirage,Liga PRO GamersClub - APR/16,8,16,5,10,3,6,Innova,15,13,0.97 
-2016,05,10,04:10,CNB,Innova,cobblestone,Liga PRO GamersClub - APR/16,16,9,10,5,6,4,Innova,14,20,0.68 
-2016,05,10,04:10,CNB,Innova,cache,Liga PRO GamersClub - APR/16,18,22,5,10,10,5,Innova,26,28,0.93 
-2016,05,08,04:40,Innova,2Kill,cache,Liga PRO GamersClub - APR/16,16,9,8,7,8,2,Innova,14,14,0.97 
-2016,05,08,04:40,2Kill,Innova,mirage,Liga PRO GamersClub - APR/16,9,16,4,11,5,5,Innova,18,10,1.28 
-2016,04,25,23:00,KeydStars,Innova,dust2,MLG Regional Minor South Ameri..,19,16,4,11,11,4,Innova,24,28,0.95 
-2016,04,25,23:00,KeydStars,Innova,cobblestone,MLG Regional Minor South Ameri..,16,8,8,7,8,1,Innova,10,17,0.63 
-2016,04,25,01:00,2Kill,Innova,cache,Rising Stars South America Pro..,16,14,9,6,7,8,Innova,23,19,1.25 
-2016,04,25,01:00,2Kill,Innova,mirage,Rising Stars South America Pro..,16,13,8,7,8,6,Innova,21,21,0.93 
-2016,04,25,01:00,2Kill,Innova,cobblestone,Rising Stars South America Pro..,6,16,4,11,2,5,Innova,12,13,0.82 
-2016,04,24,03:20,CNB,Innova,cache,Rising Stars South America Pro..,12,16,8,7,4,9,Innova,20,19,1.02 
-2016,04,24,02:15,g3x,Innova,cobblestone,Rising Stars South America Pro..,12,16,8,7,4,9,Innova,24,15,1.30 
-2016,03,13,21:10,PerrinhoSinColinha,Innova,cobblestone,Razer Rising Stars South Ameri..,3,16,3,12,0,4,Innova,17,8,1.37 
+2016,08,11,04:15,91,113,7,485,16,9,7,8,9,1,113,17,17,0.90 
+2016,08,11,04:15,91,113,1,485,16,11,8,7,8,4,113,21,21,1.09 
+2016,08,11,04:15,113,91,2,485,19,17,4,11,11,4,113,18,25,0.68 
+2016,08,10,04:10,113,7,2,485,16,11,13,2,3,9,113,28,16,1.46 
+2016,08,10,04:10,113,7,5,485,7,16,7,8,0,8,113,13,17,0.79 
+2016,08,10,04:10,113,7,1,485,16,14,7,8,9,6,113,19,21,0.95 
+2016,08,10,01:00,113,77,1,465,9,16,8,7,1,9,113,12,19,0.64 
+2016,08,10,01:00,113,77,0,465,4,16,2,13,2,3,113,8,19,0.43 
+2016,07,13,04:10,113,90,7,522,17,19,7,8,8,7,113,20,25,0.83 
+2016,07,13,04:10,113,90,0,522,9,16,9,6,0,10,113,20,20,1.02 
+2016,07,13,04:10,90,113,2,522,10,16,6,9,4,7,113,26,14,1.57 
+2016,06,17,00:15,113,6,2,548,16,9,12,3,4,6,113,13,16,0.75 
+2016,06,17,00:15,113,6,7,548,9,16,4,11,5,5,113,16,18,0.86 
+2016,06,10,01:00,113,142,14,548,16,14,6,9,10,5,113,21,18,1.10 
+2016,06,10,01:00,113,142,2,548,16,8,13,2,3,6,113,22,12,1.44 
+2016,06,06,01:40,113,94,7,554,16,4,12,3,4,1,113,17,10,1.23 
+2016,06,06,01:40,94,113,0,554,10,16,8,7,2,9,113,17,16,0.95 
+2016,06,05,21:15,113,7,1,554,16,10,10,5,6,5,113,27,15,1.57 
+2016,06,05,21:15,113,7,2,554,14,16,10,5,4,11,113,22,21,1.05 
+2016,06,05,21:15,113,7,4,554,16,11,11,4,5,7,113,21,19,1.06 
+2016,06,04,21:30,113,387,0,554,16,6,13,2,3,4,113,14,9,1.15 
+2016,06,04,21:30,113,387,7,554,19,15,3,12,12,3,113,28,22,1.18 
+2016,06,04,21:30,387,113,14,554,16,11,11,4,5,7,113,19,20,0.89 
+2016,06,02,00:00,113,94,14,548,6,16,5,10,1,6,113,15,17,1.07 
+2016,06,02,00:00,113,94,0,548,16,9,9,6,7,3,113,16,13,0.97 
+2016,05,31,00:30,113,194,0,548,11,16,5,10,6,6,113,14,17,0.82 
+2016,05,31,00:30,113,194,14,548,15,19,6,9,9,6,113,22,22,0.98 
+2016,05,26,03:15,404,6,4,532,4,16,3,12,1,4,404,15,17,0.98 
+2016,05,26,03:15,6,404,0,532,16,3,12,3,4,0,404,8,17,0.47 
+2016,05,26,01:00,113,43,2,548,16,14,9,6,7,8,113,22,18,1.17 
+2016,05,26,01:00,43,113,0,548,14,16,8,7,6,9,113,19,20,0.98 
+2016,05,21,00:15,113,78,0,548,16,6,9,6,7,0,113,20,10,1.57 
+2016,05,21,00:15,113,78,2,548,16,3,14,1,2,2,113,21,10,1.68 
+2016,05,18,00:00,95,113,0,548,6,16,5,10,1,6,113,10,15,0.69 
+2016,05,18,00:00,95,113,2,548,9,16,8,7,1,9,113,20,16,1.10 
+2016,05,10,04:10,95,113,0,580,8,16,5,10,3,6,113,15,13,0.97 
+2016,05,10,04:10,95,113,14,580,16,9,10,5,6,4,113,14,20,0.68 
+2016,05,10,04:10,95,113,7,580,18,22,5,10,10,5,113,26,28,0.93 
+2016,05,08,04:40,113,43,7,580,16,9,8,7,8,2,113,14,14,0.97 
+2016,05,08,04:40,43,113,0,580,9,16,4,11,5,5,113,18,10,1.28 
+2016,04,25,23:00,404,113,1,599,19,16,4,11,11,4,113,24,28,0.95 
+2016,04,25,23:00,404,113,14,599,16,8,8,7,8,1,113,10,17,0.63 
+2016,04,25,01:00,43,113,7,600,16,14,9,6,7,8,113,23,19,1.25 
+2016,04,25,01:00,43,113,0,600,16,13,8,7,8,6,113,21,21,0.93 
+2016,04,25,01:00,43,113,14,600,6,16,4,11,2,5,113,12,13,0.82 
+2016,04,24,03:20,95,113,7,600,12,16,8,7,4,9,113,20,19,1.02 
+2016,04,24,02:15,6,113,14,600,12,16,8,7,4,9,113,24,15,1.30 
+2016,03,13,21:10,603,113,14,548,3,16,3,12,0,4,113,17,8,1.37 

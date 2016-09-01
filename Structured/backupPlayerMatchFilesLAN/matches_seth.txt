@@ -1,4 +1,0 @@
-2016,07,24,01:00,Exile5,AthleticoBH,train,ESL Australia & NZ Championshi..,19,22,9,6,6,9,Exile5,32,24,1.25 
-2016,07,24,01:00,AthleticoBH,Exile5,mirage,ESL Australia & NZ Championshi..,16,13,8,7,8,6,Exile5,19,22,0.90 
-2016,07,23,10:30,Exile5,Chiefs,train,ESL Australia & NZ Championshi..,13,16,9,6,4,10,Exile5,19,20,1.00 
-2016,07,23,10:30,Chiefs,Exile5,cache,ESL Australia & NZ Championshi..,16,6,9,6,7,0,Exile5,12,18,0.74 

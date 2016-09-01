@@ -1,19 +1,19 @@
-2016,08,12,02:45,Blight,Prospects,cobblestone,SL i-League S2 Americas Qualif..,13,16,5,10,8,6,Blight,23,20,1.14 
-2016,08,12,02:45,Prospects,Blight,overpass,SL i-League S2 Americas Qualif..,22,19,6,9,9,6,Blight,35,36,1.10 
-2016,08,11,01:00,Blight,compLexity,train,SL i-League S2 Americas Qualif..,2,16,2,13,0,3,Blight,6,16,0.40 
-2016,08,11,01:00,compLexity,Blight,overpass,SL i-League S2 Americas Qualif..,13,16,8,7,5,9,Blight,24,17,1.31 
-2016,08,11,01:00,Blight,compLexity,cache,SL i-League S2 Americas Qualif..,8,16,5,10,3,6,Blight,8,21,0.38 
-2016,08,10,03:15,Kaliber,Blight,cache,SL i-League S2 Americas Qualif..,16,6,11,4,5,2,Blight,8,20,0.38 
-2016,08,10,03:15,Blight,Kaliber,cobblestone,SL i-League S2 Americas Qualif..,1,16,1,14,0,2,Blight,10,17,0.73 
-2016,08,08,04:40,Rush,Blight,mirage,ESEA Premier Season 22 North A..,16,13,10,5,6,8,Blight,13,23,0.56 
-2016,08,08,04:40,Blight,Rush,dust2,ESEA Premier Season 22 North A..,15,19,7,8,8,7,Blight,26,24,1.02 
-2016,05,30,00:00,Prospects,Kaliber,mirage,CyberPowerPC Summer 2016 Quali..,13,16,6,9,7,7,Prospects,22,24,0.93 
-2016,05,30,00:00,Prospects,Kaliber,overpass,CyberPowerPC Summer 2016 Quali..,16,19,13,2,2,13,Prospects,18,25,0.71 
-2016,05,09,04:35,Prospects,WithoutaRoof,overpass,MLG Regional Minor North Ameri..,5,16,4,11,1,5,Prospects,12,17,0.77 
-2016,05,09,02:55,TSM,Prospects,mirage,MLG Regional Minor North Ameri..,16,3,12,3,4,0,Prospects,9,18,0.50 
-2016,05,09,02:55,TSM,Prospects,cobblestone,MLG Regional Minor North Ameri..,16,12,9,6,7,6,Prospects,19,24,0.93 
-2016,05,08,22:15,Prospects,Vault,cache,MLG Regional Minor North Ameri..,16,9,7,8,9,1,Prospects,19,17,1.01 
-2016,05,08,22:15,Vault,Prospects,mirage,MLG Regional Minor North Ameri..,16,13,10,5,6,8,Prospects,26,20,1.20 
-2016,05,08,22:15,Prospects,Vault,train,MLG Regional Minor North Ameri..,16,13,11,4,5,9,Prospects,24,15,1.29 
-2016,04,13,02:00,Prospects,TSM,dust2,CEVO Gfinity Professional Seas..,6,16,5,10,1,6,Prospects,10,17,0.67 
-2016,04,13,02:00,TSM,Prospects,mirage,CEVO Gfinity Professional Seas..,16,14,10,5,6,9,Prospects,19,24,0.90 
+2016,08,12,02:45,96,97,14,481,13,16,5,10,8,6,96,23,20,1.14 
+2016,08,12,02:45,97,96,4,481,22,19,6,9,9,6,96,35,36,1.10 
+2016,08,11,01:00,96,116,2,481,2,16,2,13,0,3,96,6,16,0.40 
+2016,08,11,01:00,116,96,4,481,13,16,8,7,5,9,96,24,17,1.31 
+2016,08,11,01:00,96,116,7,481,8,16,5,10,3,6,96,8,21,0.38 
+2016,08,10,03:15,114,96,7,481,16,6,11,4,5,2,96,8,20,0.38 
+2016,08,10,03:15,96,114,14,481,1,16,1,14,0,2,96,10,17,0.73 
+2016,08,08,04:40,115,96,0,474,16,13,10,5,6,8,96,13,23,0.56 
+2016,08,08,04:40,96,115,1,474,15,19,7,8,8,7,96,26,24,1.02 
+2016,05,30,00:00,97,114,0,539,13,16,6,9,7,7,97,22,24,0.93 
+2016,05,30,00:00,97,114,4,539,16,19,13,2,2,13,97,18,25,0.71 
+2016,05,09,04:35,97,446,4,581,5,16,4,11,1,5,97,12,17,0.77 
+2016,05,09,02:55,270,97,0,581,16,3,12,3,4,0,97,9,18,0.50 
+2016,05,09,02:55,270,97,14,581,16,12,9,6,7,6,97,19,24,0.93 
+2016,05,08,22:15,97,436,7,581,16,9,7,8,9,1,97,19,17,1.01 
+2016,05,08,22:15,436,97,0,581,16,13,10,5,6,8,97,26,20,1.20 
+2016,05,08,22:15,97,436,2,581,16,13,11,4,5,9,97,24,15,1.29 
+2016,04,13,02:00,97,270,1,590,6,16,5,10,1,6,97,10,17,0.67 
+2016,04,13,02:00,270,97,0,590,16,14,10,5,6,9,97,19,24,0.90 

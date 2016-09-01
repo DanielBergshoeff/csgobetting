@@ -1,9 +1,0 @@
-2015,11,22,13:30,USSR,Vexed,mirage,Color League by EIZO & QPAD,8,16,6,9,2,7,USSR,14,20,0.82 
-2015,11,22,13:30,Vexed,USSR,cache,Color League by EIZO & QPAD,16,9,12,3,4,6,USSR,21,19,1.25 
-2015,11,22,13:30,Vexed,USSR,overpass,Color League by EIZO & QPAD,16,7,11,4,5,3,USSR,21,16,1.31 
-2015,11,21,20:30,Vexed,USSR,inferno,Color League by EIZO & QPAD,14,16,5,10,9,6,USSR,26,24,1.18 
-2015,11,21,20:30,USSR,Vexed,dust2,Color League by EIZO & QPAD,16,8,10,5,6,3,USSR,13,15,0.86 
-2015,11,21,20:30,Vexed,USSR,overpass,Color League by EIZO & QPAD,25,22,9,6,6,9,USSR,31,33,0.92 
-2015,11,21,10:40,USSR,ALSEN,mirage,Color League by EIZO & QPAD,16,5,11,4,5,1,USSR,19,16,1.17 
-2015,11,21,10:40,USSR,ALSEN,cache,Color League by EIZO & QPAD,16,13,6,9,10,4,USSR,26,22,1.15 
-2015,11,21,10:40,ALSEN,USSR,dust2,Color League by EIZO & QPAD,16,14,6,9,10,5,USSR,19,19,0.96 

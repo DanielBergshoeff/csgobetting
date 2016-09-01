@@ -1,5 +1,5 @@
-2015,02,22,19:00,EternalConflict,eNergy,inferno,Battle for the Throne,6,16,5,10,1,6,Eternal Conflict,11,21,0.51 
-2015,02,22,19:00,EternalConflict,eNergy,cache,Battle for the Throne,4,16,4,11,0,5,Eternal Conflict,13,18,0.71 
-2015,02,19,20:45,EternalConflict,Bravado,cache,Battle for the Throne,21,16,8,7,7,8,Eternal Conflict,27,22,1.05 
-2015,02,19,20:45,Bravado,EternalConflict,inferno,Battle for the Throne,16,12,12,3,4,9,Eternal Conflict,25,18,1.20 
-2015,02,19,20:45,EternalConflict,Bravado,mirage,Battle for the Throne,31,28,13,2,2,13,Eternal Conflict,41,42,0.93 
+2015,02,22,19:00,1143,143,6,956,6,16,5,10,1,6,1143,11,21,0.51 
+2015,02,22,19:00,1143,143,7,956,4,16,4,11,0,5,1143,13,18,0.71 
+2015,02,19,20:45,1143,18,7,956,21,16,8,7,7,8,1143,27,22,1.05 
+2015,02,19,20:45,18,1143,6,956,16,12,12,3,4,9,1143,25,18,1.20 
+2015,02,19,20:45,1143,18,0,956,31,28,13,2,2,13,1143,41,42,0.93 

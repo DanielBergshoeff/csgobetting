@@ -1,7 +1,0 @@
-2015,07,26,21:30,LGB,Titan,dust2,ESL One Cologne 2015 European ..,2,16,2,13,0,3,LGB,9,16,0.57 
-2015,07,26,21:13,HellRaisers,LGB,inferno,ESL One Cologne 2015 European ..,7,16,2,13,5,3,LGB,16,13,1.06 
-2015,07,26,18:00,LGB,k1ck,overpass,ESL One Cologne 2015 European ..,16,9,10,5,6,4,LGB,20,16,1.15 
-2015,07,26,17:00,EpiphanyBolt,LGB,mirage,ESL One Cologne 2015 European ..,11,16,10,5,1,11,LGB,18,20,0.92 
-2015,07,26,13:00,LGB,HellRaisers,overpass,ESL One Cologne 2015 European ..,17,19,13,2,2,13,LGB,22,26,0.90 
-2015,06,13,20:30,LGB,FlipSid3,cache,DreamHack Open Summer 2015,5,16,5,10,0,6,LGB,9,19,0.44 
-2015,06,13,17:15,LGB,fnatic,cache,DreamHack Open Summer 2015,13,16,5,10,8,6,LGB,13,22,0.73 

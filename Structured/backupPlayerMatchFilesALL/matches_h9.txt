@@ -1,2 +1,2 @@
-2016,05,04,22:00,ExoticIsland,ImperioMultimedia,inferno,xfunction Challenge,4,16,1,14,3,2,Exotic Island,10,17,0.54 
-2016,05,03,22:55,Millenium,ExoticIsland,inferno,xfunction Challenge,16,13,13,2,3,11,Exotic Island,18,22,0.84 
+2016,05,04,22:00,127,432,6,544,4,16,1,14,3,2,127,10,17,0.54 
+2016,05,03,22:55,118,127,6,544,16,13,13,2,3,11,127,18,22,0.84 

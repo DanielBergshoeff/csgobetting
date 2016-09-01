@@ -1,5 +1,0 @@
-2016,03,24,19:00,Recursive,Iwku,overpass,Copenhagen Games 2016 BYOC Qua..,11,16,5,10,6,6,Recursive,12,25,0.52 
-2016,03,24,19:00,Iwku,Recursive,inferno,Copenhagen Games 2016 BYOC Qua..,16,5,14,1,2,4,Recursive,16,18,0.95 
-2016,03,24,17:00,Recursive,Quantaya,inferno,Copenhagen Games 2016 BYOC Qua..,16,12,13,2,3,10,Recursive,17,19,0.83 
-2016,03,24,15:30,Bananaboys,Recursive,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Recursive,8,18,0.44 
-2016,03,24,13:00,Recursive,fLYVERNE,dust2,Copenhagen Games 2016 BYOC Qua..,16,0,15,0,1,0,Recursive,14,9,1.23 

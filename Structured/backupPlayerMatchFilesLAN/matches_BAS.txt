@@ -1,4 +1,0 @@
-2016,06,05,13:00,RAGE,SpaceJam,mirage,Adrenaline Open Cyber Cup,8,16,7,8,1,8,Space Jam,26,15,1.53 
-2016,06,05,13:00,RAGE,SpaceJam,dust2,Adrenaline Open Cyber Cup,13,16,7,8,6,8,Space Jam,23,20,1.24 
-2016,04,29,17:30,Vesuvius,BinaryDragonsGold,dust2,StarLadder Minor CIS - Cologne..,4,16,4,11,0,5,Vesuvius,12,17,0.71 
-2016,04,28,14:30,WorstPlayers,Vesuvius,mirage,StarLadder Minor CIS - Cologne..,16,3,14,1,2,2,Vesuvius,7,17,0.45 

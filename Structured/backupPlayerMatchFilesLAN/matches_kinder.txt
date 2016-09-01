@@ -1,5 +1,0 @@
-2016,05,29,11:15,XPC,neXtPlease!,overpass,ESL South East Europe Champion..,16,10,7,8,9,2,neXtPlease!,14,21,0.74 
-2016,05,29,09:25,aimclub,neXtPlease!,cobblestone,ESL South East Europe Champion..,22,20,8,7,7,8,neXtPlease!,33,33,1.00 
-2015,11,21,14:05,FTW.PRO,Galatics,mirage,AlienTech AllStars,16,7,13,2,3,5,Galatics,10,19,0.76 
-2015,11,21,12:30,GameplayDNA,Galatics,inferno,AlienTech AllStars,16,2,13,2,3,0,Galatics,1,17,0.09 
-2015,11,21,11:15,Galatics,AlienTech,inferno,AlienTech AllStars,4,16,3,12,1,4,Galatics,5,18,0.29 

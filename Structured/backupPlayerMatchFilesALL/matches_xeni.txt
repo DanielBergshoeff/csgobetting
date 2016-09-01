@@ -1,28 +1,28 @@
-2016,03,24,19:00,Isak,PlayingDucks,mirage,Copenhagen Games 2016 BYOC Qua..,16,9,11,4,5,5,Playing Ducks,16,14,0.99 
-2016,03,24,19:00,Isak,PlayingDucks,cache,Copenhagen Games 2016 BYOC Qua..,16,11,11,4,5,7,Playing Ducks,22,22,1.05 
-2016,03,24,15:30,PlayingDucks,Aquiver.BLU,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,12,6,9,10,3,Playing Ducks,18,17,0.94 
-2016,03,24,13:00,PlayingDucks,VacuousBaboons,dust2,Copenhagen Games 2016 BYOC Qua..,16,4,14,1,2,3,Playing Ducks,17,9,1.36 
-2016,02,06,19:55,PlayingDucks,PENTA,cache,99Damage League Season 2,6,16,5,10,1,6,Playing Ducks,7,19,0.40 
-2016,02,06,19:55,PENTA,PlayingDucks,dust2,99Damage League Season 2,16,6,9,6,7,0,Playing Ducks,16,17,0.95 
-2016,02,06,14:00,PlayingDucks,EURONICS,inferno,99Damage League Season 2,16,6,13,2,3,4,Playing Ducks,19,9,1.55 
-2016,02,06,14:00,PlayingDucks,EURONICS,dust2,99Damage League Season 2,16,2,13,2,3,0,Playing Ducks,9,8,0.90 
-2016,02,06,14:00,EURONICS,PlayingDucks,cobblestone,99Damage League Season 2,16,8,12,3,4,5,Playing Ducks,14,19,0.78 
-2015,12,20,19:00,PENTA,PlayingDucks,mirage,99Damage League Season 2,16,8,8,7,8,1,Playing Ducks,17,20,0.90 
-2015,12,20,19:00,PENTA,PlayingDucks,cache,99Damage League Season 2,16,6,13,2,3,4,Playing Ducks,13,16,0.93 
-2015,12,16,20:00,AlienTech,PlayingDucks,cache,AlienTech CS:GO European Cup I..,13,16,6,9,7,7,Playing Ducks,27,21,1.20 
-2015,12,14,20:00,RCTIC,PlayingDucks,cache,AlienTech CS:GO European Cup I..,16,7,9,6,7,1,Playing Ducks,10,18,0.64 
-2015,12,08,21:00,KILLERFISH,PlayingDucks,cobblestone,99Damage League Season 2,16,0,15,0,1,0,Playing Ducks,8,16,0.49 
-2015,12,08,21:00,KILLERFISH,PlayingDucks,cache,99Damage League Season 2,16,10,8,7,8,3,Playing Ducks,11,23,0.45 
-2015,12,01,19:00,LondonC,PlayingDucks,cache,99Damage Arena #16,16,13,8,7,8,6,Playing Ducks,18,19,0.94 
-2015,12,01,19:00,LondonC,PlayingDucks,mirage,99Damage Arena #16,16,12,10,5,6,7,Playing Ducks,13,19,0.69 
-2015,11,25,19:00,PlayingDucks,EYESONU,cobblestone,99Damage League Season 2,10,16,3,12,7,4,Playing Ducks,13,18,0.78 
-2015,11,25,19:00,PlayingDucks,EYESONU,mirage,99Damage League Season 2,16,19,5,10,10,5,Playing Ducks,18,21,0.84 
-2015,11,19,22:15,BX3,PlayingDucks,cache,QuickShot Arena #15,16,14,12,3,4,11,Playing Ducks,13,24,0.54 
-2015,11,19,19:30,myXMG,PlayingDucks,cache,QuickShot Arena #15,14,16,11,4,3,12,Playing Ducks,18,17,1.01 
-2015,11,19,18:15,PlayingDucks,BX3,dust2,QuickShot Arena #15,1,16,1,14,0,2,Playing Ducks,10,15,0.62 
-2015,06,03,21:00,k1ck,uX,overpass,CEVO Main Season 7,8,16,8,7,0,9,uX,14,16,0.90 
-2015,04,02,23:25,MnM,Lemondogs,cache,Copenhagen Games 2015,13,16,11,4,2,12,MnM,14,23,0.63 
-2015,04,02,21:40,re:take,MnM,cache,Copenhagen Games 2015,16,19,9,6,6,9,MnM,26,21,1.10 
-2015,04,02,19:00,Menace,MnM,cache,Copenhagen Games 2015,16,2,13,2,3,0,MnM,9,16,0.57 
-2015,04,02,17:00,e9,MnM,nuke,Copenhagen Games 2015,13,16,8,7,5,9,MnM,20,21,1.00 
-2015,04,02,15:30,MnM,no_rhythm,dust2,Copenhagen Games 2015,10,16,7,8,3,8,MnM,26,18,1.31 
+2016,03,24,19:00,540,544,0,623,16,9,11,4,5,5,544,16,14,0.99 
+2016,03,24,19:00,540,544,7,623,16,11,11,4,5,7,544,22,22,1.05 
+2016,03,24,15:30,544,542,14,623,16,12,6,9,10,3,544,18,17,0.94 
+2016,03,24,13:00,544,564,1,623,16,4,14,1,2,3,544,17,9,1.36 
+2016,02,06,19:55,544,196,7,661,6,16,5,10,1,6,544,7,19,0.40 
+2016,02,06,19:55,196,544,1,661,16,6,9,6,7,0,544,16,17,0.95 
+2016,02,06,14:00,544,264,6,661,16,6,13,2,3,4,544,19,9,1.55 
+2016,02,06,14:00,544,264,1,661,16,2,13,2,3,0,544,9,8,0.90 
+2016,02,06,14:00,264,544,14,661,16,8,12,3,4,5,544,14,19,0.78 
+2015,12,20,19:00,196,544,0,661,16,8,8,7,8,1,544,17,20,0.90 
+2015,12,20,19:00,196,544,7,661,16,6,13,2,3,4,544,13,16,0.93 
+2015,12,16,20:00,278,544,7,683,13,16,6,9,7,7,544,27,21,1.20 
+2015,12,14,20:00,360,544,7,683,16,7,9,6,7,1,544,10,18,0.64 
+2015,12,08,21:00,383,544,14,661,16,0,15,0,1,0,544,8,16,0.49 
+2015,12,08,21:00,383,544,7,661,16,10,8,7,8,3,544,11,23,0.45 
+2015,12,01,19:00,776,544,7,720,16,13,8,7,8,6,544,18,19,0.94 
+2015,12,01,19:00,776,544,0,720,16,12,10,5,6,7,544,13,19,0.69 
+2015,11,25,19:00,544,690,14,661,10,16,3,12,7,4,544,13,18,0.78 
+2015,11,25,19:00,544,690,0,661,16,19,5,10,10,5,544,18,21,0.84 
+2015,11,19,22:15,320,544,7,738,16,14,12,3,4,11,544,13,24,0.54 
+2015,11,19,19:30,854,544,7,738,14,16,11,4,3,12,544,18,17,1.01 
+2015,11,19,18:15,544,320,1,738,1,16,1,14,0,2,544,10,15,0.62 
+2015,06,03,21:00,287,839,4,901,8,16,8,7,0,9,839,14,16,0.90 
+2015,04,02,23:25,1122,698,7,948,13,16,11,4,2,12,1122,14,23,0.63 
+2015,04,02,21:40,1127,1122,7,948,16,19,9,6,6,9,1122,26,21,1.10 
+2015,04,02,19:00,1111,1122,7,948,16,2,13,2,3,0,1122,9,16,0.57 
+2015,04,02,17:00,1135,1122,5,948,13,16,8,7,5,9,1122,20,21,1.00 
+2015,04,02,15:30,1122,1123,1,948,10,16,7,8,3,8,1122,26,18,1.31 

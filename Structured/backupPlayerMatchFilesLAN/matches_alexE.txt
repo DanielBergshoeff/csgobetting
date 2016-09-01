@@ -1,4 +1,0 @@
-2016,07,03,19:30,Infused,UnitedEstonia,inferno,ESL UK Premiership Spring 2016..,4,16,3,12,1,4,United Estonia,19,12,1.41 
-2016,07,03,11:15,TheWorkingMen,UnitedEstonia,mirage,ESL UK Premiership Spring 2016..,16,9,13,2,3,7,United Estonia,16,21,1.01 
-2016,07,03,11:15,TheWorkingMen,UnitedEstonia,cache,ESL UK Premiership Spring 2016..,16,13,8,7,8,6,United Estonia,19,25,0.78 
-2016,07,03,11:15,TheWorkingMen,UnitedEstonia,dust2,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,United Estonia,20,20,1.05 

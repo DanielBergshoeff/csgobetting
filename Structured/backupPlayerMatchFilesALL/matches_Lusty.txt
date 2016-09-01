@@ -1,4 +1,4 @@
-2016,03,12,14:00,7GU6,Threats,inferno,DreamHack Masters Malmö 2016 A..,8,16,7,8,1,8,7GU6,13,21,0.65 
-2015,09,18,16:50,MiraculousHawks,Insidious,dust2,MixBOT Pro-League Invite Seaso..,9,16,6,9,3,7,Miraculous Hawks,12,20,0.66 
-2015,09,18,15:30,inchk1ng,MiraculousHawks,dust2,MixBOT Pro-League Invite Seaso..,8,16,6,9,2,7,Miraculous Hawks,19,13,1.25 
-2015,09,11,17:30,AbsoluteTerror,MiraculousHawks,dust2,MixBOT Pro-League Invite Seaso..,16,1,14,1,2,0,Miraculous Hawks,5,16,0.29 
+2016,03,12,14:00,625,491,6,633,8,16,7,8,1,8,625,13,21,0.65 
+2015,09,18,16:50,977,752,1,642,9,16,6,9,3,7,977,12,20,0.66 
+2015,09,18,15:30,483,977,1,642,8,16,6,9,2,7,977,19,13,1.25 
+2015,09,11,17:30,976,977,1,642,16,1,14,1,2,0,977,5,16,0.29 

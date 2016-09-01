@@ -1,4 +1,4 @@
-2016,08,12,16:00,Ukraine,Greece,train,World Championships 2016 Europ..,16,3,12,3,4,0,Greece,6,17,0.35 
-2016,08,12,16:00,Greece,Ukraine,mirage,World Championships 2016 Europ..,2,16,2,13,0,3,Greece,12,17,0.86 
-2015,09,06,15:10,VatosLocos,Liondogs,mirage,eGaming CS:GO Championship 201..,12,16,6,9,6,7,Vatos Locos,21,21,1.00 
-2015,09,06,15:10,VatosLocos,Liondogs,inferno,eGaming CS:GO Championship 201..,14,16,8,7,6,9,Vatos Locos,21,19,1.02 
+2016,08,12,16:00,87,88,2,463,16,3,12,3,4,0,88,6,17,0.35 
+2016,08,12,16:00,88,87,0,463,2,16,2,13,0,3,88,12,17,0.86 
+2015,09,06,15:10,1000,998,0,828,12,16,6,9,6,7,1000,21,21,1.00 
+2015,09,06,15:10,1000,998,6,828,14,16,8,7,6,9,1000,21,19,1.02 

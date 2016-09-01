@@ -1,26 +1,26 @@
-2016,08,15,19:00,Slovenia,Azerbaijan,cache,World Championships 2016 Europ..,16,12,6,9,10,3,Slovenia,35,16,1.89 
-2016,08,15,19:00,Azerbaijan,Slovenia,train,World Championships 2016 Europ..,16,3,12,3,4,0,Slovenia,10,18,0.60 
-2016,08,15,19:00,Slovenia,Azerbaijan,mirage,World Championships 2016 Europ..,16,6,11,4,5,2,Slovenia,23,9,1.59 
-2016,07,22,19:00,Overpowered,Executors,dust2,King of Adria,21,16,10,5,5,10,Overpowered,32,23,1.27 
-2016,07,22,19:00,Overpowered,Executors,cache,King of Adria,12,16,5,10,7,6,Overpowered,28,15,1.61 
-2016,07,22,19:00,Overpowered,Executors,train,King of Adria,16,8,8,7,8,1,Overpowered,23,14,1.38 
-2015,09,08,10:30,E-frag.net,MiA,cache,Gaming Paradise 2015,16,4,12,3,4,1,MiA,10,19,0.57 
-2015,09,07,09:55,NatusVincere,MiA,dust2,Gaming Paradise 2015,16,5,12,3,4,2,MiA,12,18,0.70 
-2015,09,07,09:55,NatusVincere,MiA,mirage,Gaming Paradise 2015,16,9,13,2,3,7,MiA,17,18,0.96 
-2015,08,30,16:30,Slovenia,Norway,cache,World Championships 2015 Europ..,8,16,6,9,2,7,Slovenia,15,18,0.85 
-2015,08,30,16:30,Norway,Slovenia,inferno,World Championships 2015 Europ..,16,3,12,3,4,0,Slovenia,13,17,0.90 
-2015,05,19,18:00,JakeBube,MiA,dust2,Balkan Championship Season 2,16,14,5,10,11,4,MiA,27,20,1.14 
-2015,05,19,18:00,MiA,JakeBube,cache,Balkan Championship Season 2,16,8,11,4,5,4,MiA,22,13,1.36 
-2015,05,19,18:00,MiA,JakeBube,inferno,Balkan Championship Season 2,11,16,7,8,4,8,MiA,20,19,1.03 
-2015,05,18,18:15,MiA,HEADSHOTBG,inferno,Balkan Championship Season 2,9,16,7,8,2,8,MiA,13,21,0.68 
-2015,05,18,18:15,MiA,HEADSHOTBG,mirage,Balkan Championship Season 2,3,16,3,12,0,4,MiA,14,17,0.79 
-2015,04,23,21:45,HEADSHOTBG,MASSACRE-ZONE,cache,ESL South East Europe Champion..,16,5,13,2,3,3,MASSACRE-ZONE,12,20,0.63 
-2015,04,23,21:45,MASSACRE-ZONE,HEADSHOTBG,cobblestone,ESL South East Europe Champion..,4,16,4,11,0,5,MASSACRE-ZONE,7,17,0.47 
-2015,04,23,21:45,Rock,MASSACRE-ZONE,cache,ESL South East Europe Champion..,16,13,6,9,10,4,MASSACRE-ZONE,26,17,1.29 
-2015,04,23,19:55,Rock,MASSACRE-ZONE,dust2,ESL South East Europe Champion..,16,6,10,5,6,1,MASSACRE-ZONE,10,19,0.70 
-2015,04,21,20:00,MASSACRE-ZONE,neXtPlease!,dust2,ESL South East Europe Champion..,12,16,10,5,2,11,MASSACRE-ZONE,19,18,1.09 
-2015,04,21,20:00,MASSACRE-ZONE,neXtPlease!,cache,ESL South East Europe Champion..,7,16,4,11,3,5,MASSACRE-ZONE,11,18,0.63 
-2014,08,27,19:00,Finland,Slovenia,inferno,European Championship 2014 Qua..,16,8,11,4,5,4,Slovenia,17,20,0.85 
-2014,08,27,19:00,Slovenia,Finland,mirage,European Championship 2014 Qua..,13,16,7,8,6,8,Slovenia,24,19,1.25 
-2014,08,19,22:07,Slovenia,FaroeIslands,nuke,European Championship 2014 Qua..,16,9,9,6,7,3,Slovenia,18,12,1.21 
-2014,08,19,22:00,Slovenia,FaroeIslands,mirage,European Championship 2014 Qua..,16,2,15,0,1,2,Slovenia,17,2,1.77 
+2016,08,15,19:00,24,25,7,463,16,12,6,9,10,3,24,35,16,1.89 
+2016,08,15,19:00,25,24,2,463,16,3,12,3,4,0,24,10,18,0.60 
+2016,08,15,19:00,24,25,0,463,16,6,11,4,5,2,24,23,9,1.59 
+2016,07,22,19:00,254,255,1,514,21,16,10,5,5,10,254,32,23,1.27 
+2016,07,22,19:00,254,255,7,514,12,16,5,10,7,6,254,28,15,1.61 
+2016,07,22,19:00,254,255,2,514,16,8,8,7,8,1,254,23,14,1.38 
+2015,09,08,10:30,472,996,7,825,16,4,12,3,4,1,996,10,19,0.57 
+2015,09,07,09:55,215,996,1,825,16,5,12,3,4,2,996,12,18,0.70 
+2015,09,07,09:55,215,996,0,825,16,9,13,2,3,7,996,17,18,0.96 
+2015,08,30,16:30,24,939,7,799,8,16,6,9,2,7,24,15,18,0.85 
+2015,08,30,16:30,939,24,6,799,16,3,12,3,4,0,24,13,17,0.90 
+2015,05,19,18:00,1068,996,1,887,16,14,5,10,11,4,996,27,20,1.14 
+2015,05,19,18:00,996,1068,7,887,16,8,11,4,5,4,996,22,13,1.36 
+2015,05,19,18:00,996,1068,6,887,11,16,7,8,4,8,996,20,19,1.03 
+2015,05,18,18:15,996,159,6,887,9,16,7,8,2,8,996,13,21,0.68 
+2015,05,18,18:15,996,159,0,887,3,16,3,12,0,4,996,14,17,0.79 
+2015,04,23,21:45,159,1095,7,560,16,5,13,2,3,3,1095,12,20,0.63 
+2015,04,23,21:45,1095,159,14,560,4,16,4,11,0,5,1095,7,17,0.47 
+2015,04,23,21:45,1055,1095,7,560,16,13,6,9,10,4,1095,26,17,1.29 
+2015,04,23,19:55,1055,1095,1,560,16,6,10,5,6,1,1095,10,19,0.70 
+2015,04,21,20:00,1095,398,1,560,12,16,10,5,2,11,1095,19,18,1.09 
+2015,04,21,20:00,1095,398,7,560,7,16,4,11,3,5,1095,11,18,0.63 
+2014,08,27,19:00,940,24,6,1035,16,8,11,4,5,4,24,17,20,0.85 
+2014,08,27,19:00,24,940,0,1035,13,16,7,8,6,8,24,24,19,1.25 
+2014,08,19,22:07,24,1216,5,1035,16,9,9,6,7,3,24,18,12,1.21 
+2014,08,19,22:00,24,1216,0,1035,16,2,15,0,1,2,24,17,2,1.77 

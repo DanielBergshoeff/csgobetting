@@ -1,3 +1,0 @@
-2016,07,30,09:55,Veneration,Curiosity,mirage,ESWC 2016 South African Qualif..,12,16,9,6,3,10,Veneration,17,21,0.79 
-2016,07,29,11:30,Veneration,Aperture,mirage,ESWC 2016 South African Qualif..,2,16,1,14,1,2,Veneration,11,17,0.68 
-2016,07,29,11:30,Aperture,Veneration,cobblestone,ESWC 2016 South African Qualif..,16,1,15,0,1,1,Veneration,7,16,0.43 

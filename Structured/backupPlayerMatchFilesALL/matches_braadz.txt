@@ -1,7 +1,7 @@
-2016,03,24,19:00,Flash,SpaceSoldiers,cache,Copenhagen Games 2016 BYOC Qua..,5,16,2,13,3,3,Flash,8,20,0.38 
-2016,03,24,19:00,SpaceSoldiers,Flash,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,7,8,7,8,0,Flash,21,17,1.30 
-2016,03,24,17:00,Flash,DemBoyz,inferno,Copenhagen Games 2016 BYOC Qua..,16,6,12,3,4,3,Flash,21,10,1.59 
-2016,03,24,15:30,Flash,Epsilon,cobblestone,Copenhagen Games 2016 BYOC Qua..,8,16,3,12,5,4,Flash,12,22,0.63 
-2016,03,24,13:00,Flash,DemBoyz,dust2,Copenhagen Games 2016 BYOC Qua..,16,5,10,5,6,0,Flash,22,12,1.64 
-2015,11,20,21:45,KoNSweden,KoNDenmark,inferno,King of Nordic Season 2,16,12,6,9,10,3,KoN Denmark,21,21,1.08 
-2015,11,20,20:30,KoNNorway,KoNDenmark,mirage,King of Nordic Season 2,14,16,9,6,5,10,KoN Denmark,22,17,1.16 
+2016,03,24,19:00,546,29,7,623,5,16,2,13,3,3,546,8,20,0.38 
+2016,03,24,19:00,29,546,14,623,16,7,8,7,8,0,546,21,17,1.30 
+2016,03,24,17:00,546,557,6,623,16,6,12,3,4,3,546,21,10,1.59 
+2016,03,24,15:30,546,52,14,623,8,16,3,12,5,4,546,12,22,0.63 
+2016,03,24,13:00,546,557,1,623,16,5,10,5,6,0,546,22,12,1.64 
+2015,11,20,21:45,82,83,6,673,16,12,6,9,10,3,83,21,21,1.08 
+2015,11,20,20:30,81,83,0,673,14,16,9,6,5,10,83,22,17,1.16 

@@ -1,30 +1,32 @@
-2016,08,15,19:20,DamageControl,FlipSid3,dust2,WESG 2016 South & East Africa,19,15,10,5,5,10,Damage Control,27,20,1.26 
-2016,08,15,19:20,FlipSid3,DamageControl,cache,WESG 2016 South & East Africa,2,16,2,13,0,3,Damage Control,14,10,1.21 
-2016,08,14,21:30,DamageControl,carboN,dust2,WESG 2016 South & East Africa,2,16,2,13,0,3,Damage Control,6,18,0.31 
-2016,08,14,21:30,carboN,DamageControl,cobblestone,WESG 2016 South & East Africa,16,14,8,7,8,7,Damage Control,18,22,0.82 
-2016,08,13,18:00,carboN,DamageControl,inferno,ESEA Open Season 22 South Afri..,16,4,11,4,5,0,Damage Control,10,18,0.56 
-2016,08,13,18:00,carboN,DamageControl,cache,ESEA Open Season 22 South Afri..,17,19,7,8,8,7,Damage Control,29,26,1.13 
-2016,08,13,18:00,DamageControl,carboN,train,ESEA Open Season 22 South Afri..,5,16,5,10,0,6,Damage Control,6,17,0.42 
-2016,08,08,20:00,DamageControl,eNergy,overpass,ESEA Open Season 22 South Afri..,16,10,9,6,7,4,Damage Control,25,17,1.29 
-2016,08,08,20:00,DamageControl,eNergy,dust2,ESEA Open Season 22 South Afri..,4,16,2,13,2,3,Damage Control,11,18,0.66 
-2016,08,08,20:00,DamageControl,eNergy,mirage,ESEA Open Season 22 South Afri..,16,11,7,8,9,3,Damage Control,19,17,1.04 
-2016,07,31,14:45,carboN,DamageControl,cache,ESWC 2016 South African Qualif..,16,9,9,6,7,3,Damage Control,19,23,0.91 
-2016,07,31,14:45,DamageControl,carboN,dust2,ESWC 2016 South African Qualif..,16,14,5,10,11,4,Damage Control,20,16,0.96 
-2016,07,31,14:45,DamageControl,carboN,train,ESWC 2016 South African Qualif..,3,16,3,12,0,4,Damage Control,2,17,0.20 
-2016,07,30,21:35,xTc,DamageControl,cobblestone,ESWC 2016 South African Qualif..,13,16,4,11,9,5,Damage Control,22,20,1.03 
-2016,07,30,21:35,xTc,DamageControl,cache,ESWC 2016 South African Qualif..,3,16,3,12,0,4,Damage Control,28,10,2.08 
-2015,12,12,19:00,PixelHunters,Imagination,cache,BHG CS:GO Tournament,2,16,2,13,0,3,Imagination,22,10,1.87 
-2015,12,12,11:45,Imagination,Ventus,mirage,BHG CS:GO Tournament,16,13,13,2,3,11,Imagination,29,20,1.47 
-2015,12,12,11:45,Imagination,Ventus,cobblestone,BHG CS:GO Tournament,13,16,7,8,6,8,Imagination,21,21,1.07 
-2015,12,12,11:45,Ventus,Imagination,cache,BHG CS:GO Tournament,5,16,3,12,2,4,Imagination,20,11,1.52 
-2015,12,12,09:00,UbS,Imagination,cache,BHG CS:GO Tournament,4,16,2,13,2,3,Imagination,15,15,1.00 
-2015,12,12,09:00,Imagination,UbS,mirage,BHG CS:GO Tournament,16,10,9,6,7,4,Imagination,22,15,1.23 
-2015,02,18,19:30,DamageControl,eNergy,overpass,Battle for the Throne,17,21,9,6,6,9,Damage Control,14,30,0.49 
-2015,02,18,19:30,eNergy,DamageControl,inferno,Battle for the Throne,16,13,5,10,11,3,Damage Control,18,18,0.95 
-2015,02,18,19:30,eNergy,DamageControl,cache,Battle for the Throne,12,16,11,4,1,12,Damage Control,27,19,1.32 
-2014,10,11,20:45,eNergy,DamageControl,mirage,Telkom Gaming CS:GO Championsh..,19,22,10,5,5,10,Damage Control,23,28,0.85 
-2014,10,11,20:45,DamageControl,eNergy,dust2,Telkom Gaming CS:GO Championsh..,16,7,12,3,4,4,Damage Control,21,10,1.68 
-2014,10,11,20:45,eNergy,DamageControl,cache,Telkom Gaming CS:GO Championsh..,16,3,12,3,4,0,Damage Control,10,18,0.60 
-2014,10,11,17:00,In-Finity,DamageControl,mirage,Telkom Gaming CS:GO Championsh..,16,11,8,7,8,4,Damage Control,25,17,1.36 
-2014,10,11,17:00,DamageControl,In-Finity,dust2,Telkom Gaming CS:GO Championsh..,16,5,10,5,6,0,Damage Control,23,8,1.70 
-2014,10,11,17:00,In-Finity,DamageControl,cache,Telkom Gaming CS:GO Championsh..,16,11,10,5,6,6,Damage Control,16,18,0.90 
+2016,08,15,19:20,12,13,1,468,19,15,10,5,5,10,12,27,20,1.26 
+2016,08,15,19:20,13,12,7,468,2,16,2,13,0,3,12,14,10,1.21 
+2016,08,14,21:30,12,19,1,468,2,16,2,13,0,3,12,6,18,0.31 
+2016,08,14,21:30,19,12,14,468,16,14,8,7,8,7,12,18,22,0.82 
+2016,08,13,18:00,19,12,6,475,16,4,11,4,5,0,12,10,18,0.56 
+2016,08,13,18:00,19,12,7,475,17,19,7,8,8,7,12,29,26,1.13 
+2016,08,13,18:00,12,19,2,475,5,16,5,10,0,6,12,6,17,0.42 
+2016,08,08,20:00,12,143,4,475,16,10,9,6,7,4,12,25,17,1.29 
+2016,08,08,20:00,12,143,1,475,4,16,2,13,2,3,12,11,18,0.66 
+2016,08,08,20:00,12,143,0,475,16,11,7,8,9,3,12,19,17,1.04 
+2016,07,31,14:45,19,12,7,500,16,9,9,6,7,3,12,19,23,0.91 
+2016,07,31,14:45,12,19,1,500,16,14,5,10,11,4,12,20,16,0.96 
+2016,07,31,14:45,12,19,2,500,3,16,3,12,0,4,12,2,17,0.20 
+2016,07,30,21:35,131,12,14,500,13,16,4,11,9,5,12,22,20,1.03 
+2016,07,30,21:35,131,12,7,500,3,16,3,12,0,4,12,28,10,2.08 
+2015,12,12,19:00,770,771,7,708,2,16,2,13,0,3,771,22,10,1.87 
+2015,12,12,11:45,771,769,0,708,16,13,13,2,3,11,771,29,20,1.47 
+2015,12,12,11:45,771,769,14,708,13,16,7,8,6,8,771,21,21,1.07 
+2015,12,12,11:45,769,771,7,708,5,16,3,12,2,4,771,20,11,1.52 
+2015,12,12,09:00,772,771,7,708,4,16,2,13,2,3,771,15,15,1.00 
+2015,12,12,09:00,771,772,0,708,16,10,9,6,7,4,771,22,15,1.23 
+2015,02,18,19:30,12,143,4,956,17,21,9,6,6,9,12,14,30,0.49 
+2015,02,18,19:30,143,12,6,956,16,13,5,10,11,3,12,18,18,0.95 
+2015,02,18,19:30,143,12,7,956,12,16,11,4,1,12,12,27,19,1.32 
+2014,10,11,20:45,143,12,0,1010,19,22,10,5,5,10,12,23,28,0.85 
+2014,10,11,20:45,12,143,1,1010,16,7,12,3,4,4,12,21,10,1.68 
+2014,10,11,20:45,143,12,7,1010,16,3,12,3,4,0,12,10,18,0.60 
+2014,10,11,17:00,1040,12,0,1010,16,11,8,7,8,4,12,25,17,1.36 
+2014,10,11,17:00,12,1040,1,1010,16,5,10,5,6,0,12,23,8,1.70 
+2014,10,11,17:00,1040,12,7,1010,16,11,10,5,6,6,12,16,18,0.90 
+2013,10,05,16:30,18,12,11,1119,16,12,6,9,10,3,12,20,23,0.87 
+2013,10,05,16:30,18,12,7,1119,16,14,7,8,9,6,12,25,19,1.15 

@@ -1,83 +1,83 @@
-2016,08,14,11:00,MVPproject,autocracy,overpass,VSL Season 1,13,16,8,7,5,9,MVP project,21,20,0.98 
-2016,08,14,11:00,autocracy,MVPproject,nuke,VSL Season 1,16,11,11,4,5,7,MVP project,16,18,0.85 
-2016,08,13,15:30,VG.CyberZen,MVPproject,mirage,E-Sports Festival CS:GO Tourna..,16,6,11,4,5,2,MVP project,13,20,0.59 
-2016,08,13,15:30,MVPproject,VG.CyberZen,dust2,E-Sports Festival CS:GO Tourna..,7,16,4,11,3,5,MVP project,6,18,0.47 
-2016,08,11,13:00,MVPproject,TamuluS,cobblestone,VSL Season 1,16,11,12,3,4,8,MVP project,25,18,1.32 
-2016,08,11,13:00,TamuluS,MVPproject,train,VSL Season 1,10,16,7,8,3,8,MVP project,18,17,0.99 
-2016,08,07,09:30,AthleticoBH,MVPproject,cobblestone,SL i-League S2 China Finals,11,16,3,12,8,4,MVP project,18,19,0.93 
-2016,08,07,09:30,AthleticoBH,MVPproject,train,SL i-League S2 China Finals,14,16,4,11,10,5,MVP project,15,22,0.65 
-2016,08,07,09:30,MVPproject,AthleticoBH,nuke,SL i-League S2 China Finals,11,16,10,5,1,11,MVP project,18,21,1.04 
-2016,08,06,13:30,VG.CyberZen,MVPproject,cache,SL i-League S2 China Finals,16,2,13,2,3,0,MVP project,6,17,0.36 
-2016,08,06,13:30,VG.CyberZen,MVPproject,train,SL i-League S2 China Finals,16,10,7,8,9,2,MVP project,16,22,0.73 
-2016,08,06,13:30,MVPproject,VG.CyberZen,mirage,SL i-League S2 China Finals,16,9,7,8,9,1,MVP project,16,18,0.90 
-2016,08,05,09:30,BornOfFire,MVPproject,overpass,SL i-League S2 China Finals,7,16,4,11,3,5,MVP project,22,15,1.49 
-2016,08,05,09:30,MVPproject,BornOfFire,mirage,SL i-League S2 China Finals,16,10,9,6,7,4,MVP project,13,20,0.70 
-2016,08,05,09:30,MVPproject,BornOfFire,train,SL i-League S2 China Finals,3,16,3,12,0,4,MVP project,7,18,0.44 
-2016,08,02,13:00,Risky,MVPproject,overpass,E-Sports Festival CS:GO Tourna..,13,16,5,10,8,6,MVP project,19,23,0.86 
-2016,08,02,13:00,MVPproject,Risky,train,E-Sports Festival CS:GO Tourna..,19,22,3,12,12,3,MVP project,37,27,1.33 
-2016,08,02,13:00,MVPproject,Risky,nuke,E-Sports Festival CS:GO Tourna..,16,8,7,8,9,0,MVP project,18,14,1.06 
-2016,07,28,12:00,B.O.O.T,MVPproject,train,MixBOT Pro-League Golden,5,16,4,11,1,5,MVP project,15,7,1.28 
-2016,07,28,12:00,B.O.O.T,MVPproject,overpass,MixBOT Pro-League Golden,7,16,3,12,4,4,MVP project,14,14,1.03 
-2016,07,27,12:00,MVPproject,ZZCY,mirage,MixBOT Pro-League Golden,22,19,5,10,10,5,MVP project,37,30,1.24 
-2016,07,27,12:00,MVPproject,ZZCY,train,MixBOT Pro-League Golden,16,4,12,3,4,1,MVP project,14,7,1.29 
-2016,07,24,11:00,autocracy,MVPproject,cobblestone,VSL Season 1,14,16,6,9,8,7,MVP project,10,25,0.43 
-2016,07,17,11:00,MVPproject,Furious,cache,VSL Season 1,16,9,8,7,8,2,MVP project,15,17,0.83 
-2016,07,10,11:00,MVPproject,m0nster,overpass,VSL Season 1,16,14,5,10,11,4,MVP project,26,20,1.17 
-2016,07,03,11:10,v0rtex5	,MVPproject,cobblestone,VSL Season 1,8,16,7,8,1,8,MVP project,22,12,1.42 
-2016,06,28,12:10,MVPproject,TyLoo,mirage,H-Cup Season 2,14,16,10,5,4,11,MVP project,12,22,0.61 
-2016,06,28,12:10,MVPproject,TyLoo,cache,H-Cup Season 2,13,16,4,11,9,5,MVP project,29,22,1.33 
-2016,06,27,12:30,BornOfFire,MVPproject,cache,H-Cup Season 2,13,16,7,8,6,8,MVP project,22,20,1.05 
-2016,06,27,12:30,BornOfFire,MVPproject,cobblestone,H-Cup Season 2,4,16,1,14,3,2,MVP project,23,11,1.68 
-2016,06,19,10:10,LGD,MVPproject,mirage,H-Cup Season 2,13,16,3,12,10,4,MVP project,26,18,1.34 
-2016,06,19,10:10,MVPproject,LGD,cache,H-Cup Season 2,16,7,11,4,5,3,MVP project,21,13,1.40 
-2016,06,08,12:00,MVPproject,TheMongolz,mirage,MixBOT Pro-League Golden,16,3,14,1,2,2,MVP project,18,6,1.72 
-2016,06,08,12:00,MVPproject,TheMongolz,cobblestone,MixBOT Pro-League Golden,14,16,8,7,6,9,MVP project,27,24,1.22 
-2016,06,08,12:00,MVPproject,TheMongolz,cache,MixBOT Pro-League Golden,16,10,8,7,8,3,MVP project,12,19,0.67 
-2016,05,05,09:30,MVPproject,Risky,mirage,PGL KeSPA Regional Minor Champ..,12,16,8,7,4,9,MVP project,16,21,0.72 
-2016,05,05,04:45,Renegades,MVPproject,cobblestone,PGL KeSPA Regional Minor Champ..,16,7,13,2,3,5,MVP project,7,21,0.43 
-2016,04,25,09:10,BornOfFire,MVPproject,mirage,SL i-League Invitational China..,16,13,10,5,6,8,MVP project,12,19,0.69 
-2016,04,25,09:10,MVPproject,BornOfFire,inferno,SL i-League Invitational China..,8,16,6,9,2,7,MVP project,16,18,0.83 
-2016,04,25,09:10,MVPproject,BornOfFire,cobblestone,SL i-League Invitational China..,16,10,8,7,8,3,MVP project,18,15,1.08 
-2016,04,22,16:15,EDG,MVPproject,cobblestone,SL i-League Invitational China..,6,16,3,12,3,4,MVP project,14,14,0.96 
-2016,04,22,16:15,MVPproject,EDG,mirage,SL i-League Invitational China..,16,8,8,7,8,1,MVP project,20,12,1.44 
-2016,04,22,16:15,EDG,MVPproject,cache,SL i-League Invitational China..,16,10,10,5,6,5,MVP project,13,20,0.63 
-2016,04,03,13:00,LGD,MVPproject,cobblestone,SL i-League Invitational China..,2,16,2,13,0,3,MVP project,20,5,1.81 
-2016,04,03,13:00,LGD,MVPproject,cache,SL i-League Invitational China..,16,13,8,7,8,6,MVP project,18,23,0.85 
-2016,03,30,13:00,MVPproject,VG.CyberZen,inferno,SL i-League Invitational China..,14,16,9,6,5,10,MVP project,14,19,0.79 
-2016,03,30,13:00,MVPproject,VG.CyberZen,mirage,SL i-League Invitational China..,13,16,6,9,7,7,MVP project,26,17,1.27 
-2016,03,13,06:30,MVPproject,MVP.karnal,mirage,DreamHack Masters Malmö 2016 A..,10,16,3,12,7,4,MVP project,12,18,0.73 
-2016,03,13,06:30,MVPproject,MVP.karnal,cobblestone,DreamHack Masters Malmö 2016 A..,16,19,7,8,8,7,MVP project,25,22,1.03 
-2016,03,12,13:30,MVPproject,T5,mirage,DreamHack Masters Malmö 2016 A..,16,10,7,8,9,2,MVP project,21,17,1.16 
-2016,02,25,14:00,MVPproject,T5,cache,D!ngIT Fareast Asia Invitation..,16,4,12,3,4,1,MVP project,6,9,0.73 
-2016,02,25,14:00,MVPproject,T5,inferno,D!ngIT Fareast Asia Invitation..,13,16,10,5,3,11,MVP project,19,20,0.96 
-2016,02,25,14:00,MVPproject,T5,mirage,D!ngIT Fareast Asia Invitation..,16,9,10,5,6,4,MVP project,13,19,0.72 
-2015,12,19,13:00,inchk1ng,MVPproject,cache,D!ngIT CS:GO Asia Invitational..,16,6,11,4,5,2,MVP project,10,20,0.51 
-2015,12,19,13:00,inchk1ng,MVPproject,train,D!ngIT CS:GO Asia Invitational..,19,17,5,10,10,5,MVP project,24,24,0.97 
-2015,12,18,13:00,MVPproject,TheMongolz,inferno,D!ngIT CS:GO Asia Invitational..,15,19,7,8,8,7,MVP project,25,23,1.01 
-2015,12,18,13:00,TheMongolz,MVPproject,cobblestone,D!ngIT CS:GO Asia Invitational..,16,8,10,5,6,3,MVP project,15,20,0.75 
-2015,12,11,15:00,Skyred,MVPproject,inferno,D!ngIT CS:GO Asia Invitational..,11,16,8,7,3,9,MVP project,22,17,1.28 
-2015,12,11,14:00,MVPproject,nxl,cobblestone,D!ngIT CS:GO Asia Invitational..,16,11,12,3,4,8,MVP project,22,17,1.20 
-2015,11,20,13:00,MVP.karnal,MVPproject,dust2,D!ngIT CS:GO Asia Invitational..,16,11,6,9,10,2,MVP project,20,19,0.97 
-2015,11,20,13:00,MVPproject,MVP.karnal,inferno,D!ngIT CS:GO Asia Invitational..,14,16,11,4,3,12,MVP project,20,18,1.06 
-2015,11,14,11:00,TheMongolz,m0nster,mirage,D!ngIT CS:GO Asia Invitational..,16,10,9,6,7,4,m0nster,18,20,0.83 
-2015,11,14,11:00,TheMongolz,m0nster,cache,D!ngIT CS:GO Asia Invitational..,19,16,7,8,8,7,m0nster,27,25,1.03 
-2015,10,31,08:50,m0nster,MiTH,train,D!ngIT CS:GO Asia Invitational..,16,8,10,5,6,3,m0nster,23,17,1.26 
-2015,10,31,05:00,m0nster,Expendables,cache,D!ngIT CS:GO Asia Invitational..,16,5,14,1,2,4,m0nster,26,10,2.01 
-2015,10,16,16:00,m0nster,J2G,dust2,MixBOT Pro-League Invite Seaso..,10,16,4,11,6,5,m0nster,14,21,0.70 
-2015,10,16,14:45,TheMongolz,m0nster,inferno,MixBOT Pro-League Invite Seaso..,16,3,13,2,3,1,m0nster,9,17,0.54 
-2015,10,03,13:30,TyLoo,m0nster,overpass,MixBOT Pro-League Invite Seaso..,16,1,14,1,2,0,m0nster,9,17,0.51 
-2015,10,03,13:30,m0nster,TyLoo,cobblestone,MixBOT Pro-League Invite Seaso..,13,16,9,6,4,10,m0nster,20,19,0.92 
-2015,09,19,17:55,m0nster,AbsoluteTerror,cobblestone,MixBOT Pro-League Invite Seaso..,16,13,6,9,10,4,m0nster,19,18,0.98 
-2015,09,19,16:00,m0nster,MOTV,inferno,MixBOT Pro-League Invite Seaso..,16,13,5,10,11,3,m0nster,18,16,1.04 
-2015,09,11,16:00,m0nster,QeeYou,inferno,MixBOT Pro-League Invite Seaso..,7,16,7,8,0,8,m0nster,17,17,1.01 
-2015,09,06,09:00,m0nster,xqR,cobblestone,DreamHack Open Cluj-Napoca 201..,12,16,4,11,8,5,m0nster,14,22,0.65 
-2015,09,06,09:00,m0nster,xqR,cache,DreamHack Open Cluj-Napoca 201..,11,16,7,8,4,8,m0nster,19,21,0.92 
-2015,08,30,12:00,SouthKorea,Japan,mirage,World Championships 2015 Asian..,6,16,3,12,3,4,South Korea,10,18,0.63 
-2015,08,29,14:30,Singapore,SouthKorea,mirage,World Championships 2015 Asian..,15,15,10,5,5,10,South Korea,14,19,0.77 
-2015,08,29,13:00,SouthKorea,Vietnam,mirage,World Championships 2015 Asian..,7,16,3,12,4,4,South Korea,11,19,0.59 
-2015,07,19,08:00,Renegades,myRevenge,inferno,ESL One Cologne 2015 Asian Qua..,16,2,13,2,3,0,myRevenge,13,17,0.75 
-2015,07,19,08:00,Renegades,myRevenge,cache,ESL One Cologne 2015 Asian Qua..,19,16,5,10,10,5,myRevenge,29,21,1.33 
-2015,07,19,05:00,myRevenge,Skyred,dust2,ESL One Cologne 2015 Asian Qua..,16,14,6,9,10,5,myRevenge,20,21,0.88 
-2015,07,18,10:15,TheMongolz,myRevenge,inferno,ESL One Cologne 2015 Asian Qua..,14,16,10,5,4,11,myRevenge,24,18,1.09 
-2015,07,18,07:35,Skyred,myRevenge,cache,ESL One Cologne 2015 Asian Qua..,16,9,10,5,6,4,myRevenge,16,19,0.89 
-2015,06,05,15:00,myRevenge,Skyred,inferno,FACEIT SEA Launch Cup,11,16,9,6,2,10,myRevenge,11,18,0.63 
+2016,08,14,11:00,65,66,4,479,13,16,8,7,5,9,65,21,20,0.98 
+2016,08,14,11:00,66,65,5,479,16,11,11,4,5,7,65,16,18,0.85 
+2016,08,13,15:30,35,65,0,482,16,6,11,4,5,2,65,13,20,0.59 
+2016,08,13,15:30,65,35,1,482,7,16,4,11,3,5,65,6,18,0.47 
+2016,08,11,13:00,65,108,14,479,16,11,12,3,4,8,65,25,18,1.32 
+2016,08,11,13:00,108,65,2,479,10,16,7,8,3,8,65,18,17,0.99 
+2016,08,07,09:30,5,65,14,491,11,16,3,12,8,4,65,18,19,0.93 
+2016,08,07,09:30,5,65,2,491,14,16,4,11,10,5,65,15,22,0.65 
+2016,08,07,09:30,65,5,5,491,11,16,10,5,1,11,65,18,21,1.04 
+2016,08,06,13:30,35,65,7,491,16,2,13,2,3,0,65,6,17,0.36 
+2016,08,06,13:30,35,65,2,491,16,10,7,8,9,2,65,16,22,0.73 
+2016,08,06,13:30,65,35,0,491,16,9,7,8,9,1,65,16,18,0.90 
+2016,08,05,09:30,179,65,4,491,7,16,4,11,3,5,65,22,15,1.49 
+2016,08,05,09:30,65,179,0,491,16,10,9,6,7,4,65,13,20,0.70 
+2016,08,05,09:30,65,179,2,491,3,16,3,12,0,4,65,7,18,0.44 
+2016,08,02,13:00,193,65,4,482,13,16,5,10,8,6,65,19,23,0.86 
+2016,08,02,13:00,65,193,2,482,19,22,3,12,12,3,65,37,27,1.33 
+2016,08,02,13:00,65,193,5,482,16,8,7,8,9,0,65,18,14,1.06 
+2016,07,28,12:00,172,65,2,504,5,16,4,11,1,5,65,15,7,1.28 
+2016,07,28,12:00,172,65,4,504,7,16,3,12,4,4,65,14,14,1.03 
+2016,07,27,12:00,65,226,0,504,22,19,5,10,10,5,65,37,30,1.24 
+2016,07,27,12:00,65,226,2,504,16,4,12,3,4,1,65,14,7,1.29 
+2016,07,24,11:00,66,65,14,479,14,16,6,9,8,7,65,10,25,0.43 
+2016,07,17,11:00,65,78,7,479,16,9,8,7,8,2,65,15,17,0.83 
+2016,07,10,11:00,65,164,4,479,16,14,5,10,11,4,65,26,20,1.17 
+2016,07,03,11:10,221,65,14,479,8,16,7,8,1,8,65,22,12,1.42 
+2016,06,28,12:10,65,34,0,538,14,16,10,5,4,11,65,12,22,0.61 
+2016,06,28,12:10,65,34,7,538,13,16,4,11,9,5,65,29,22,1.33 
+2016,06,27,12:30,179,65,7,538,13,16,7,8,6,8,65,22,20,1.05 
+2016,06,27,12:30,179,65,14,538,4,16,1,14,3,2,65,23,11,1.68 
+2016,06,19,10:10,180,65,0,538,13,16,3,12,10,4,65,26,18,1.34 
+2016,06,19,10:10,65,180,7,538,16,7,11,4,5,3,65,21,13,1.40 
+2016,06,08,12:00,65,150,0,504,16,3,14,1,2,2,65,18,6,1.72 
+2016,06,08,12:00,65,150,14,504,14,16,8,7,6,9,65,27,24,1.22 
+2016,06,08,12:00,65,150,7,504,16,10,8,7,8,3,65,12,19,0.67 
+2016,05,05,09:30,65,193,0,584,12,16,8,7,4,9,65,16,21,0.72 
+2016,05,05,04:45,286,65,14,584,16,7,13,2,3,5,65,7,21,0.43 
+2016,04,25,09:10,179,65,0,597,16,13,10,5,6,8,65,12,19,0.69 
+2016,04,25,09:10,65,179,6,597,8,16,6,9,2,7,65,16,18,0.83 
+2016,04,25,09:10,65,179,14,597,16,10,8,7,8,3,65,18,15,1.08 
+2016,04,22,16:15,191,65,14,597,6,16,3,12,3,4,65,14,14,0.96 
+2016,04,22,16:15,65,191,0,597,16,8,8,7,8,1,65,20,12,1.44 
+2016,04,22,16:15,191,65,7,597,16,10,10,5,6,5,65,13,20,0.63 
+2016,04,03,13:00,180,65,14,597,2,16,2,13,0,3,65,20,5,1.81 
+2016,04,03,13:00,180,65,7,597,16,13,8,7,8,6,65,18,23,0.85 
+2016,03,30,13:00,65,35,6,597,14,16,9,6,5,10,65,14,19,0.79 
+2016,03,30,13:00,65,35,0,597,13,16,6,9,7,7,65,26,17,1.27 
+2016,03,13,06:30,65,149,0,633,10,16,3,12,7,4,65,12,18,0.73 
+2016,03,13,06:30,65,149,14,633,16,19,7,8,8,7,65,25,22,1.03 
+2016,03,12,13:30,65,166,0,633,16,10,7,8,9,2,65,21,17,1.16 
+2016,02,25,14:00,65,166,7,644,16,4,12,3,4,1,65,6,9,0.73 
+2016,02,25,14:00,65,166,6,644,13,16,10,5,3,11,65,19,20,0.96 
+2016,02,25,14:00,65,166,0,644,16,9,10,5,6,4,65,13,19,0.72 
+2015,12,19,13:00,483,65,7,691,16,6,11,4,5,2,65,10,20,0.51 
+2015,12,19,13:00,483,65,2,691,19,17,5,10,10,5,65,24,24,0.97 
+2015,12,18,13:00,65,150,6,691,15,19,7,8,8,7,65,25,23,1.01 
+2015,12,18,13:00,150,65,14,691,16,8,10,5,6,3,65,15,20,0.75 
+2015,12,11,15:00,751,65,6,691,11,16,8,7,3,9,65,22,17,1.28 
+2015,12,11,14:00,65,256,14,691,16,11,12,3,4,8,65,22,17,1.20 
+2015,11,20,13:00,149,65,1,691,16,11,6,9,10,2,65,20,19,0.97 
+2015,11,20,13:00,65,149,6,691,14,16,11,4,3,12,65,20,18,1.06 
+2015,11,14,11:00,150,164,0,691,16,10,9,6,7,4,164,18,20,0.83 
+2015,11,14,11:00,150,164,7,691,19,16,7,8,8,7,164,27,25,1.03 
+2015,10,31,08:50,164,148,2,691,16,8,10,5,6,3,164,23,17,1.26 
+2015,10,31,05:00,164,368,7,691,16,5,14,1,2,4,164,26,10,2.01 
+2015,10,16,16:00,164,643,1,642,10,16,4,11,6,5,164,14,21,0.70 
+2015,10,16,14:45,150,164,6,642,16,3,13,2,3,1,164,9,17,0.54 
+2015,10,03,13:30,34,164,4,642,16,1,14,1,2,0,164,9,17,0.51 
+2015,10,03,13:30,164,34,14,642,13,16,9,6,4,10,164,20,19,0.92 
+2015,09,19,17:55,164,976,14,642,16,13,6,9,10,4,164,19,18,0.98 
+2015,09,19,16:00,164,367,6,642,16,13,5,10,11,3,164,18,16,1.04 
+2015,09,11,16:00,164,994,6,642,7,16,7,8,0,8,164,17,17,1.01 
+2015,09,06,09:00,164,494,14,766,12,16,4,11,8,5,164,14,22,0.65 
+2015,09,06,09:00,164,494,7,766,11,16,7,8,4,8,164,19,21,0.92 
+2015,08,30,12:00,346,333,0,835,6,16,3,12,3,4,346,10,18,0.63 
+2015,08,29,14:30,265,346,0,835,15,15,10,5,5,10,346,14,19,0.77 
+2015,08,29,13:00,346,298,0,835,7,16,3,12,4,4,346,11,19,0.59 
+2015,07,19,08:00,286,648,6,873,16,2,13,2,3,0,648,13,17,0.75 
+2015,07,19,08:00,286,648,7,873,19,16,5,10,10,5,648,29,21,1.33 
+2015,07,19,05:00,648,751,1,873,16,14,6,9,10,5,648,20,21,0.88 
+2015,07,18,10:15,150,648,6,873,14,16,10,5,4,11,648,24,18,1.09 
+2015,07,18,07:35,751,648,7,873,16,9,10,5,6,4,648,16,19,0.89 
+2015,06,05,15:00,648,751,6,900,11,16,9,6,2,10,648,11,18,0.63 

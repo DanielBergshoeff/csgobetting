@@ -1,6 +1,0 @@
-2016,07,03,20:45,TheWorkingMen,Reason,cache,ESL UK Premiership Spring 2016..,16,13,6,9,10,4,The Working Men,13,18,0.76 
-2016,07,03,20:45,TheWorkingMen,Reason,mirage,ESL UK Premiership Spring 2016..,16,9,9,6,7,3,The Working Men,22,16,1.28 
-2016,07,03,20:45,TheWorkingMen,Reason,cobblestone,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,The Working Men,22,20,1.07 
-2016,07,03,11:15,TheWorkingMen,UnitedEstonia,mirage,ESL UK Premiership Spring 2016..,16,9,13,2,3,7,The Working Men,15,11,1.05 
-2016,07,03,11:15,TheWorkingMen,UnitedEstonia,cache,ESL UK Premiership Spring 2016..,16,13,8,7,8,6,The Working Men,25,18,1.27 
-2016,07,03,11:15,TheWorkingMen,UnitedEstonia,dust2,ESL UK Premiership Spring 2016..,13,16,8,7,5,9,The Working Men,12,22,0.58 

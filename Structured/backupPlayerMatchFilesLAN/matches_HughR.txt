@@ -1,5 +1,0 @@
-2016,03,18,21:35,RedLine,3R2L,mirage,AlienTech CS:GO Invitational I,16,19,14,1,1,14,RedLine,20,28,0.82 
-2016,03,18,16:15,RedLine,AlienTech,cobblestone,AlienTech CS:GO Invitational I,3,16,3,12,0,4,RedLine,11,17,0.66 
-2015,11,20,14:05,uPGaming.hellfive,IHAVEADREAM,cache,AlienTech AllStars,13,16,9,6,4,10,uPGaming.hellfive,15,22,0.69 
-2015,11,20,12:40,Epsilon,uPGaming.hellfive,cache,AlienTech AllStars,16,3,12,3,4,0,uPGaming.hellfive,6,18,0.31 
-2015,11,20,11:30,KeydStars,uPGaming.hellfive,mirage,AlienTech AllStars,16,1,14,1,2,0,uPGaming.hellfive,8,17,0.60 

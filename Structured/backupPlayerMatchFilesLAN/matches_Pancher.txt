@@ -1,6 +1,0 @@
-2016,01,23,14:00,BinaryDragons,eXplosive,mirage,StarLadder Regional Minor Cham..,16,14,7,8,9,6,eXplosive,19,21,0.97 
-2016,01,22,15:45,Gambit,eXplosive,cache,StarLadder Regional Minor Cham..,16,4,11,4,5,0,eXplosive,7,19,0.36 
-2015,11,16,19:45,Enso,eXplosive,mirage,CIS LAN Championship #2,16,11,10,5,6,6,eXplosive,23,20,1.18 
-2015,11,16,19:45,Enso,eXplosive,dust2,CIS LAN Championship #2,22,20,10,5,5,10,eXplosive,27,29,0.96 
-2015,11,16,13:10,YP,eXplosive,dust2,CIS LAN Championship #2,16,13,5,10,11,3,eXplosive,14,20,0.72 
-2015,11,16,13:10,YP,eXplosive,cache,CIS LAN Championship #2,16,10,8,7,8,3,eXplosive,15,22,0.70 

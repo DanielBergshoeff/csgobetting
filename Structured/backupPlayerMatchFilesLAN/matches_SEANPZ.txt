@@ -1,3 +1,0 @@
-2015,10,18,19:15,Eanix,Roca'scompLexity,cache,Fragadelphia 6,5,16,4,11,1,5,Eanix,8,20,0.38 
-2015,10,18,04:00,Eanix,CLGRed,train,Fragadelphia 6,9,16,7,8,2,8,Eanix,15,19,0.81 
-2015,10,18,04:00,CLGRed,Eanix,mirage,Fragadelphia 6,16,14,11,4,5,10,Eanix,20,19,1.05 

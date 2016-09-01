@@ -1,16 +1,16 @@
-2016,08,07,15:35,passions,HEADSHOTBG,mirage,ECS Season 2 EU Open Qualifier..,16,6,10,5,6,1,HEADSHOTBG,7,20,0.34 
-2015,05,25,18:00,Wrecking,neXtPlease!,cache,Balkan Championship Season 2,5,16,4,11,1,5,Wrecking,7,19,0.38 
-2015,05,25,18:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,15,19,9,6,6,9,Wrecking,14,28,0.48 
-2015,05,14,17:00,GPlay,Wrecking,mirage,Balkan Championship Season 2,16,3,12,3,4,0,Wrecking,5,18,0.29 
-2015,05,14,17:00,GPlay,Wrecking,inferno,Balkan Championship Season 2,16,1,14,1,2,0,Wrecking,6,15,0.42 
-2015,05,11,22:00,neXtPlease!,Wrecking,cache,Balkan Championship Season 2,8,16,8,7,0,9,Wrecking,25,17,1.37 
-2015,05,11,22:00,neXtPlease!,Wrecking,mirage,Balkan Championship Season 2,16,8,9,6,7,2,Wrecking,21,20,1.13 
-2015,05,11,22:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,16,8,13,2,3,6,Wrecking,19,16,1.03 
-2015,04,19,21:45,Wrecking,TRICKED,inferno,ESL South East Europe Champion..,9,16,8,7,1,9,Wrecking,12,21,0.60 
-2015,04,19,21:45,Wrecking,TRICKED,mirage,ESL South East Europe Champion..,10,16,6,9,4,7,Wrecking,13,23,0.62 
-2015,04,19,18:00,Wrecking,iNation,mirage,ESL South East Europe Champion..,16,9,8,7,8,2,Wrecking,19,13,1.21 
-2015,04,19,18:00,iNation,Wrecking,inferno,ESL South East Europe Champion..,16,12,7,8,9,4,Wrecking,13,23,0.64 
-2015,04,19,18:00,Wrecking,iNation,cache,ESL South East Europe Champion..,16,1,14,1,2,0,Wrecking,14,8,1.32 
-2015,04,16,18:00,Wrecking,WMTF,cache,ESL South East Europe Champion..,5,16,4,11,1,5,Wrecking,8,18,0.46 
-2015,04,16,18:00,Wrecking,WMTF,mirage,ESL South East Europe Champion..,11,16,10,5,1,11,Wrecking,11,25,0.44 
-2015,04,16,18:00,WMTF,Wrecking,inferno,ESL South East Europe Champion..,14,16,12,3,2,13,Wrecking,8,20,0.51 
+2016,08,07,15:35,153,159,0,477,16,6,10,5,6,1,159,7,20,0.34 
+2015,05,25,18:00,1080,398,7,887,5,16,4,11,1,5,1080,7,19,0.38 
+2015,05,25,18:00,1080,398,6,887,15,19,9,6,6,9,1080,14,28,0.48 
+2015,05,14,17:00,1054,1080,0,887,16,3,12,3,4,0,1080,5,18,0.29 
+2015,05,14,17:00,1054,1080,6,887,16,1,14,1,2,0,1080,6,15,0.42 
+2015,05,11,22:00,398,1080,7,887,8,16,8,7,0,9,1080,25,17,1.37 
+2015,05,11,22:00,398,1080,0,887,16,8,9,6,7,2,1080,21,20,1.13 
+2015,05,11,22:00,1080,398,6,887,16,8,13,2,3,6,1080,19,16,1.03 
+2015,04,19,21:45,1080,1067,6,560,9,16,8,7,1,9,1080,12,21,0.60 
+2015,04,19,21:45,1080,1067,0,560,10,16,6,9,4,7,1080,13,23,0.62 
+2015,04,19,18:00,1080,275,0,560,16,9,8,7,8,2,1080,19,13,1.21 
+2015,04,19,18:00,275,1080,6,560,16,12,7,8,9,4,1080,13,23,0.64 
+2015,04,19,18:00,1080,275,7,560,16,1,14,1,2,0,1080,14,8,1.32 
+2015,04,16,18:00,1080,1100,7,560,5,16,4,11,1,5,1080,8,18,0.46 
+2015,04,16,18:00,1080,1100,0,560,11,16,10,5,1,11,1080,11,25,0.44 
+2015,04,16,18:00,1100,1080,6,560,14,16,12,3,2,13,1080,8,20,0.51 

@@ -1,4 +1,4 @@
-2016,08,11,12:30,Incept,AthleticoBH,cache,ESEA Open Season 22 Oceania,12,16,3,12,9,4,Incept,16,19,0.84 
-2016,08,11,12:30,Incept,AthleticoBH,train,ESEA Open Season 22 Oceania,21,25,11,4,4,11,Incept,27,31,0.84 
-2015,09,01,14:00,Philippines,Nepal,overpass,World Championships 2015 Asian..,16,4,12,3,4,1,Nepal,6,20,0.25 
-2015,09,01,12:00,Nepal,Indonesia,dust2,World Championships 2015 Asian..,4,16,3,12,1,4,Nepal,6,19,0.29 
+2016,08,11,12:30,110,5,7,464,12,16,3,12,9,4,110,16,19,0.84 
+2016,08,11,12:30,110,5,2,464,21,25,11,4,4,11,110,27,31,0.84 
+2015,09,01,14:00,299,345,4,835,16,4,12,3,4,1,345,6,20,0.25 
+2015,09,01,12:00,345,293,1,835,4,16,3,12,1,4,345,6,19,0.29 

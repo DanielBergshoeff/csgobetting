@@ -1,4 +1,0 @@
-2016,07,02,16:45,LDLC,Millenium,cobblestone,ESL National Championship Fran..,16,9,9,6,7,3,Millenium,8,20,0.45 
-2016,07,02,16:45,LDLC,Millenium,cache,ESL National Championship Fran..,16,14,4,11,12,3,Millenium,17,25,0.74 
-2016,07,02,13:50,RedInstinct,Millenium,overpass,ESL National Championship Fran..,14,16,5,10,9,6,Millenium,25,18,1.29 
-2016,07,02,13:50,Millenium,RedInstinct,cache,ESL National Championship Fran..,16,12,11,4,5,8,Millenium,15,21,0.69 

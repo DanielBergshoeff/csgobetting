@@ -1,11 +1,11 @@
-2016,08,03,21:25,Morocco,Algeria,cobblestone,World Championships 2016 Afric..,16,13,6,9,10,4,Algeria,21,21,0.89 
-2016,08,03,20:20,Algeria,Tunisia,mirage,World Championships 2016 Afric..,14,16,8,7,6,9,Algeria,17,19,0.95 
-2016,04,30,20:00,AIMERZZ,fRactals,dust2,Rising Stars Africa Promotiona..,22,19,7,8,8,7,fRactals,31,31,1.03 
-2016,04,30,20:00,fRactals,AIMERZZ,cache,Rising Stars Africa Promotiona..,12,16,2,13,10,3,fRactals,19,20,0.92 
-2016,04,29,19:00,TripGhazi,fRactals,inferno,Rising Stars Africa Promotiona..,15,19,9,6,6,9,fRactals,20,23,0.82 
-2016,04,29,19:00,TripGhazi,fRactals,overpass,Rising Stars Africa Promotiona..,13,16,6,9,7,7,fRactals,18,18,0.93 
-2016,04,27,18:10,drinkpizza!,fRactals,inferno,Rising Stars Africa Promotiona..,12,16,7,8,5,8,fRactals,26,14,1.56 
-2016,04,27,18:10,fRactals,drinkpizza!,cache,Rising Stars Africa Promotiona..,16,6,11,4,5,2,fRactals,17,13,1.11 
-2015,08,12,16:30,Egypt,Algeria,cache,World Championships 2015 Afric..,16,9,6,9,10,0,Algeria,18,17,1.00 
-2015,08,12,14:00,Libya,Algeria,dust2,World Championships 2015 Afric..,15,15,7,8,8,7,Libya,31,20,1.41 
-2015,08,11,14:00,Algeria,Tunisia,inferno,World Championships 2015 Afric..,12,16,5,10,7,6,Algeria,21,19,1.03 
+2016,08,03,21:25,171,190,14,493,16,13,6,9,10,4,190,21,21,0.89 
+2016,08,03,20:20,190,14,0,493,14,16,8,7,6,9,190,17,19,0.95 
+2016,04,30,20:00,460,461,1,592,22,19,7,8,8,7,461,31,31,1.03 
+2016,04,30,20:00,461,460,7,592,12,16,2,13,10,3,461,19,20,0.92 
+2016,04,29,19:00,465,461,6,592,15,19,9,6,6,9,461,20,23,0.82 
+2016,04,29,19:00,465,461,4,592,13,16,6,9,7,7,461,18,18,0.93 
+2016,04,27,18:10,470,461,6,592,12,16,7,8,5,8,461,26,14,1.56 
+2016,04,27,18:10,461,470,7,592,16,6,11,4,5,2,461,17,13,1.11 
+2015,08,12,16:30,183,190,7,855,16,9,6,9,10,0,190,18,17,1.00 
+2015,08,12,14:00,178,190,1,855,15,15,7,8,8,7,178,31,20,1.41 
+2015,08,11,14:00,190,14,6,855,12,16,5,10,7,6,190,21,19,1.03 

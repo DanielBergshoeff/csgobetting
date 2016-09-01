@@ -1,31 +1,31 @@
-2016,08,15,19:10,Tunisia,DREAM.RAR,overpass,WESG 2016 North & West Africa,16,1,14,1,2,0,Tunisia,12,9,1.08 
-2016,08,15,19:10,DREAM.RAR,Tunisia,mirage,WESG 2016 North & West Africa,11,16,6,9,5,7,Tunisia,17,14,1.05 
-2016,08,15,19:10,DREAM.RAR,Tunisia,cache,WESG 2016 North & West Africa,16,10,7,8,9,2,Tunisia,20,21,0.91 
-2016,08,15,00:15,FENNEC,Tunisia,cobblestone,WESG 2016 North & West Africa,16,9,8,7,8,2,Tunisia,16,23,0.74 
-2016,08,15,00:15,Tunisia,FENNEC,dust2,WESG 2016 North & West Africa,14,16,5,10,9,6,Tunisia,12,20,0.64 
-2016,08,06,15:00,Tunisia,Morocco,mirage,World Championships 2016 Afric..,16,14,6,9,10,5,Tunisia,17,19,0.91 
-2016,08,06,15:00,Tunisia,Morocco,dust2,World Championships 2016 Afric..,16,13,10,5,6,8,Tunisia,26,20,1.28 
-2016,08,06,15:00,Tunisia,Morocco,cache,World Championships 2016 Afric..,16,7,8,7,8,0,Tunisia,17,14,1.16 
-2016,08,05,18:00,Tunisia,SouthAfrica,cobblestone,World Championships 2016 Afric..,19,16,9,6,6,9,Tunisia,28,19,1.27 
-2016,08,05,18:00,Tunisia,SouthAfrica,cache,World Championships 2016 Afric..,16,11,10,5,6,6,Tunisia,18,13,1.11 
-2016,08,05,18:00,Tunisia,SouthAfrica,mirage,World Championships 2016 Afric..,17,19,6,9,9,6,Tunisia,28,28,1.02 
-2016,08,03,20:20,Algeria,Tunisia,mirage,World Championships 2016 Afric..,14,16,8,7,6,9,Tunisia,18,21,0.82 
-2016,08,03,19:00,Tunisia,Morocco,dust2,World Championships 2016 Afric..,15,15,6,9,9,6,Tunisia,26,20,1.17 
-2016,04,30,20:00,AIMERZZ,fRactals,dust2,Rising Stars Africa Promotiona..,22,19,7,8,8,7,AIMERZZ,18,29,0.69 
-2016,04,30,20:00,fRactals,AIMERZZ,cache,Rising Stars Africa Promotiona..,12,16,2,13,10,3,AIMERZZ,17,17,0.85 
-2016,04,29,22:10,aTw,AIMERZZ,mirage,Rising Stars Africa Promotiona..,4,16,3,12,1,4,AIMERZZ,21,14,1.62 
-2016,04,29,22:10,aTw,AIMERZZ,cobblestone,Rising Stars Africa Promotiona..,10,16,4,11,6,5,AIMERZZ,22,15,1.30 
-2016,04,28,18:10,SuperstarS,AIMERZZ,cache,Rising Stars Africa Promotiona..,9,16,5,10,4,6,AIMERZZ,24,19,1.39 
-2016,04,28,18:10,SuperstarS,AIMERZZ,mirage,Rising Stars Africa Promotiona..,10,16,9,6,1,10,AIMERZZ,22,19,1.15 
-2015,12,18,23:10,RvN,Hyper4mance,train,AFKG MENA Championship,16,6,11,4,5,2,Hyper4mance,13,20,0.62 
-2015,12,18,23:10,Hyper4mance,RvN,mirage,AFKG MENA Championship,16,13,7,8,9,5,Hyper4mance,26,18,1.32 
-2015,12,18,23:10,RvN,Hyper4mance,dust2,AFKG MENA Championship,21,17,8,7,7,8,Hyper4mance,40,27,1.56 
-2015,10,08,16:30,Russia,Tunisia,overpass,World Championships 2015,16,4,11,4,5,0,Tunisia,7,19,0.39 
-2015,10,08,16:30,Russia,Tunisia,inferno,World Championships 2015,16,3,12,3,4,0,Tunisia,9,17,0.57 
-2015,10,08,13:30,Tunisia,Kyrgyzstan,dust2,World Championships 2015,10,16,3,12,7,4,Tunisia,15,19,0.79 
-2015,10,08,13:30,Tunisia,Kyrgyzstan,mirage,World Championships 2015,14,16,7,8,7,8,Tunisia,19,26,0.81 
-2015,08,13,15:00,Tunisia,SouthAfrica,inferno,World Championships 2015 Afric..,16,1,14,1,2,0,Tunisia,20,9,1.78 
-2015,08,13,13:00,Tunisia,Egypt,cache,World Championships 2015 Afric..,16,10,12,3,4,7,Tunisia,20,18,1.23 
-2015,08,12,15:20,Tunisia,Libya,inferno,World Championships 2015 Afric..,16,6,12,3,4,3,Tunisia,18,16,1.09 
-2015,08,11,15:45,Tunisia,Morocco,cache,World Championships 2015 Afric..,16,3,12,3,4,0,Tunisia,24,9,2.00 
-2015,08,11,14:00,Algeria,Tunisia,inferno,World Championships 2015 Afric..,12,16,5,10,7,6,Tunisia,23,17,1.19 
+2016,08,15,19:10,14,15,4,469,16,1,14,1,2,0,14,12,9,1.08 
+2016,08,15,19:10,15,14,0,469,11,16,6,9,5,7,14,17,14,1.05 
+2016,08,15,19:10,15,14,7,469,16,10,7,8,9,2,14,20,21,0.91 
+2016,08,15,00:15,21,14,14,469,16,9,8,7,8,2,14,16,23,0.74 
+2016,08,15,00:15,14,21,1,469,14,16,5,10,9,6,14,12,20,0.64 
+2016,08,06,15:00,14,171,0,493,16,14,6,9,10,5,14,17,19,0.91 
+2016,08,06,15:00,14,171,1,493,16,13,10,5,6,8,14,26,20,1.28 
+2016,08,06,15:00,14,171,7,493,16,7,8,7,8,0,14,17,14,1.16 
+2016,08,05,18:00,14,175,14,493,19,16,9,6,6,9,14,28,19,1.27 
+2016,08,05,18:00,14,175,7,493,16,11,10,5,6,6,14,18,13,1.11 
+2016,08,05,18:00,14,175,0,493,17,19,6,9,9,6,14,28,28,1.02 
+2016,08,03,20:20,190,14,0,493,14,16,8,7,6,9,14,18,21,0.82 
+2016,08,03,19:00,14,171,1,493,15,15,6,9,9,6,14,26,20,1.17 
+2016,04,30,20:00,460,461,1,592,22,19,7,8,8,7,460,18,29,0.69 
+2016,04,30,20:00,461,460,7,592,12,16,2,13,10,3,460,17,17,0.85 
+2016,04,29,22:10,464,460,0,592,4,16,3,12,1,4,460,21,14,1.62 
+2016,04,29,22:10,464,460,14,592,10,16,4,11,6,5,460,22,15,1.30 
+2016,04,28,18:10,468,460,7,592,9,16,5,10,4,6,460,24,19,1.39 
+2016,04,28,18:10,468,460,0,592,10,16,9,6,1,10,460,22,19,1.15 
+2015,12,18,23:10,729,741,2,690,16,6,11,4,5,2,741,13,20,0.62 
+2015,12,18,23:10,741,729,0,690,16,13,7,8,9,5,741,26,18,1.32 
+2015,12,18,23:10,729,741,1,690,21,17,8,7,7,8,741,40,27,1.56 
+2015,10,08,16:30,936,14,4,786,16,4,11,4,5,0,14,7,19,0.39 
+2015,10,08,16:30,936,14,6,786,16,3,12,3,4,0,14,9,17,0.57 
+2015,10,08,13:30,14,138,1,786,10,16,3,12,7,4,14,15,19,0.79 
+2015,10,08,13:30,14,138,0,786,14,16,7,8,7,8,14,19,26,0.81 
+2015,08,13,15:00,14,175,6,855,16,1,14,1,2,0,14,20,9,1.78 
+2015,08,13,13:00,14,183,7,855,16,10,12,3,4,7,14,20,18,1.23 
+2015,08,12,15:20,14,178,6,855,16,6,12,3,4,3,14,18,16,1.09 
+2015,08,11,15:45,14,171,7,855,16,3,12,3,4,0,14,24,9,2.00 
+2015,08,11,14:00,190,14,6,855,12,16,5,10,7,6,14,23,17,1.19 

@@ -1,4 +1,4 @@
-2015,08,12,17:00,Montenegro,Romania,cache,World Championships 2015 Europ..,13,16,8,7,5,9,Montenegro,13,22,0.61 
-2015,08,12,17:00,Romania,Montenegro,cobblestone,World Championships 2015 Europ..,16,9,8,7,8,2,Montenegro,11,17,0.68 
-2014,08,16,19:00,Romania,Montenegro,inferno,European Championship 2014 Qua..,16,8,9,6,7,2,Montenegro,14,21,0.86 
-2014,08,16,19:00,Romania,Montenegro,mirage,European Championship 2014 Qua..,16,4,11,4,5,0,Montenegro,9,18,0.49 
+2015,08,12,17:00,98,1,7,799,13,16,8,7,5,9,98,13,22,0.61 
+2015,08,12,17:00,1,98,14,799,16,9,8,7,8,2,98,11,17,0.68 
+2014,08,16,19:00,1,98,6,1035,16,8,9,6,7,2,98,14,21,0.86 
+2014,08,16,19:00,1,98,0,1035,16,4,11,4,5,0,98,9,18,0.49 

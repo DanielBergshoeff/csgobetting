@@ -1,7 +1,0 @@
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,dust2,Fragadelphia 8,16,10,10,5,6,5,Bee's Money Crew,10,17,0.63 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,train,Fragadelphia 8,16,14,7,8,9,6,Bee's Money Crew,19,22,0.84 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,cobblestone,Fragadelphia 8,12,16,6,9,6,7,Bee's Money Crew,20,22,0.83 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,inferno,Fragadelphia 8,16,8,10,5,6,3,Bee's Money Crew,24,14,1.56 
-2015,11,17,08:00,NexusStorm,Cloud9,cache,RGN Pro Series Championship,2,16,2,13,0,3,Nexus Storm,10,17,0.64 
-2015,11,17,06:45,compLexity,NexusStorm,dust2,RGN Pro Series Championship,15,15,3,12,12,3,Nexus Storm,24,22,1.18 
-2015,11,17,05:00,Method,NexusStorm,mirage,RGN Pro Series Championship,16,10,9,6,7,4,Nexus Storm,9,19,0.53 

@@ -1,2 +1,0 @@
-2015,06,13,19:00,Exertus,KDDA,cache,DreamHack Open Summer 2015 BYO..,16,5,11,4,5,1,KDDA,9,19,0.46 
-2015,06,13,19:00,KDDA,Exertus,mirage,DreamHack Open Summer 2015 BYO..,14,16,9,6,5,10,KDDA,22,25,0.96 

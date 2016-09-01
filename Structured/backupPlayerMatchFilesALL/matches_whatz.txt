@@ -1,2 +1,2 @@
-2016,05,29,13:00,AlienTech,Eyeshield,cobblestone,AlienTech CS:GO Invitational I..,16,9,9,6,7,3,Eyeshield,13,21,0.68 
-2016,05,29,13:00,AlienTech,Eyeshield,dust2,AlienTech CS:GO Invitational I..,16,11,7,8,9,3,Eyeshield,12,22,0.67 
+2016,05,29,13:00,278,395,14,559,16,9,9,6,7,3,395,13,21,0.68 
+2016,05,29,13:00,278,395,1,559,16,11,7,8,9,3,395,12,22,0.67 

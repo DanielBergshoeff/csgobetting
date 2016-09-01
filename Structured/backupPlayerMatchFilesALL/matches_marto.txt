@@ -1,20 +1,20 @@
-2016,07,27,12:00,Legacy,ASDF,train,CyberGamer Oceania eSports Mas..,2,16,2,13,0,3,Legacy,7,17,0.40 
-2016,07,27,12:00,ASDF,Legacy,cobblestone,CyberGamer Oceania eSports Mas..,16,10,9,6,7,4,Legacy,12,20,0.69 
-2016,07,19,12:00,Legacy,SYF,cache,CyberGamer Oceania eSports Mas..,11,16,7,8,4,8,Legacy,11,22,0.56 
-2016,07,19,12:00,Legacy,SYF,dust2,CyberGamer Oceania eSports Mas..,9,16,5,10,4,6,Legacy,13,16,0.82 
-2016,07,19,12:00,Legacy,SYF,train,CyberGamer Oceania eSports Mas..,16,12,12,3,4,9,Legacy,20,16,1.05 
-2016,07,17,12:00,Legacy,InFamous,cache,CyberGamer Oceania eSports Mas..,8,16,7,8,1,8,Legacy,7,17,0.51 
-2016,07,17,12:00,Legacy,InFamous,train,CyberGamer Oceania eSports Mas..,16,9,11,4,5,5,Legacy,16,15,0.95 
-2016,07,17,12:00,Legacy,InFamous,dust2,CyberGamer Oceania eSports Mas..,13,16,5,10,8,6,Legacy,15,21,0.70 
-2016,07,12,12:00,AVANTGARDE,Legacy,dust2,CyberGamer Oceania eSports Mas..,16,8,12,3,4,5,Legacy,13,19,0.77 
-2016,07,12,12:00,AVANTGARDE,Legacy,overpass,CyberGamer Oceania eSports Mas..,16,5,11,4,5,1,Legacy,10,19,0.53 
-2016,07,12,12:00,Legacy,AVANTGARDE,cache,CyberGamer Oceania eSports Mas..,16,13,5,10,11,3,Legacy,12,20,0.64 
-2016,07,04,12:00,Legacy,Reload,cache,CyberGamer Oceania eSports Mas..,16,10,10,5,6,5,Legacy,19,13,1.20 
-2016,07,04,12:00,Reload,Legacy,train,CyberGamer Oceania eSports Mas..,14,16,6,9,8,7,Legacy,16,18,0.85 
-2015,09,21,13:00,VoxEminor,AthleticoBH,overpass,FACEIT League 2015 Stage 3 OCE..,12,16,9,6,3,10,Vox Eminor,13,21,0.63 
-2015,09,21,13:00,VoxEminor,AthleticoBH,cobblestone,FACEIT League 2015 Stage 3 OCE..,8,16,2,13,6,3,Vox Eminor,14,18,0.74 
-2015,05,27,12:00,Streamline,Subzero,mirage,FACEIT League 2015 Stage 2 Oce..,22,20,10,5,5,10,Subzero,18,32,0.59 
-2015,05,27,12:00,Streamline,Subzero,dust2,FACEIT League 2015 Stage 2 Oce..,16,3,12,3,4,0,Subzero,5,18,0.29 
-2015,04,05,12:00,Streamline,TRIDENT,cache,FACEIT League 2015 Stage 1,12,16,8,7,4,9,TRIDENT,16,15,0.95 
-2015,03,29,12:00,TRIDENT,Chiefs,cache,FACEIT League 2015 Stage 1,10,16,6,9,4,7,TRIDENT,19,18,1.10 
-2015,03,22,12:00,TRIDENT,Immunity,dust2,FACEIT League 2015 Stage 1,11,16,5,10,6,6,TRIDENT,13,20,0.65 
+2016,07,27,12:00,229,4,2,505,2,16,2,13,0,3,229,7,17,0.40 
+2016,07,27,12:00,4,229,14,505,16,10,9,6,7,4,229,12,20,0.69 
+2016,07,19,12:00,229,36,7,505,11,16,7,8,4,8,229,11,22,0.56 
+2016,07,19,12:00,229,36,1,505,9,16,5,10,4,6,229,13,16,0.82 
+2016,07,19,12:00,229,36,2,505,16,12,12,3,4,9,229,20,16,1.05 
+2016,07,17,12:00,229,247,7,505,8,16,7,8,1,8,229,7,17,0.51 
+2016,07,17,12:00,229,247,2,505,16,9,11,4,5,5,229,16,15,0.95 
+2016,07,17,12:00,229,247,1,505,13,16,5,10,8,6,229,15,21,0.70 
+2016,07,12,12:00,64,229,1,505,16,8,12,3,4,5,229,13,19,0.77 
+2016,07,12,12:00,64,229,4,505,16,5,11,4,5,1,229,10,19,0.53 
+2016,07,12,12:00,229,64,7,505,16,13,5,10,11,3,229,12,20,0.64 
+2016,07,04,12:00,229,238,7,505,16,10,10,5,6,5,229,19,13,1.20 
+2016,07,04,12:00,238,229,2,505,14,16,6,9,8,7,229,16,18,0.85 
+2015,09,21,13:00,787,5,4,807,12,16,9,6,3,10,787,13,21,0.63 
+2015,09,21,13:00,787,5,14,807,8,16,2,13,6,3,787,14,18,0.74 
+2015,05,27,12:00,1058,1075,0,912,22,20,10,5,5,10,1075,18,32,0.59 
+2015,05,27,12:00,1058,1075,1,912,16,3,12,3,4,0,1075,5,18,0.29 
+2015,04,05,12:00,1058,799,7,935,12,16,8,7,4,9,799,16,15,0.95 
+2015,03,29,12:00,799,3,7,935,10,16,6,9,4,7,799,19,18,1.10 
+2015,03,22,12:00,799,429,1,935,11,16,5,10,6,6,799,13,20,0.65 

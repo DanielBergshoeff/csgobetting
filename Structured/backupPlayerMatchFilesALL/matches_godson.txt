@@ -1,2 +1,2 @@
-2015,12,18,00:00,VeloX,HiddenPotential,mirage,Game Show Global eSports Cup 2..,16,4,11,4,5,0,Hidden Potential,12,17,0.83 
-2015,12,18,00:00,HiddenPotential,VeloX,cache,Game Show Global eSports Cup 2..,12,16,3,12,9,4,Hidden Potential,14,21,0.70 
+2015,12,18,00:00,747,748,0,657,16,4,11,4,5,0,748,12,17,0.83 
+2015,12,18,00:00,748,747,7,657,12,16,3,12,9,4,748,14,21,0.70 

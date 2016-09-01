@@ -1,2 +1,2 @@
-2016,03,24,15:30,VacuousBaboons,hiddenOP,cobblestone,Copenhagen Games 2016 BYOC Qua..,10,16,9,6,1,10,Vacuous Baboons,18,22,0.95 
-2016,03,24,13:00,PlayingDucks,VacuousBaboons,dust2,Copenhagen Games 2016 BYOC Qua..,16,4,14,1,2,3,Vacuous Baboons,15,17,1.01 
+2016,03,24,15:30,564,553,14,623,10,16,9,6,1,10,564,18,22,0.95 
+2016,03,24,13:00,544,564,1,623,16,4,14,1,2,3,564,15,17,1.01 

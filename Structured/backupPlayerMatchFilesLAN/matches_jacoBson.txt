@@ -1,3 +1,0 @@
-2015,09,05,18:15,Nexus,WinOut.net,overpass,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,WinOut.net,6,17,0.41 
-2015,09,05,17:30,WinOut.net,ReapWhatYouSow,dust2,WinOut $20,000 CS:GO Champions..,16,10,10,5,6,5,WinOut.net,14,14,0.89 
-2015,09,05,16:15,WinOut.net,Nexus,inferno,WinOut $20,000 CS:GO Champions..,13,16,9,6,4,10,WinOut.net,16,21,0.71 

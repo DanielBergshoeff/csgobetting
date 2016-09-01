@@ -1,15 +1,15 @@
-2016,08,05,04:30,RONIN,EchoFox,dust2,ESEA Premier Season 22 North A..,7,16,1,14,6,2,RONIN,15,16,1.02 
-2016,08,05,04:30,RONIN,EchoFox,overpass,ESEA Premier Season 22 North A..,10,16,7,8,3,8,RONIN,17,19,0.88 
-2016,03,16,04:00,Prospects,Selfless,dust2,CEVO Gfinity Professional Seas..,11,16,4,11,7,5,Prospects,24,14,1.52 
-2016,03,16,04:00,Prospects,Selfless,cache,CEVO Gfinity Professional Seas..,11,16,9,6,2,10,Prospects,20,20,0.92 
-2016,02,24,05:15,ex-AstralAuthority,TSM,mirage,CEVO Gfinity Professional Seas..,7,16,6,9,1,7,ex-Astral Authority,19,20,1.02 
-2016,02,24,05:15,TSM,ex-AstralAuthority,overpass,CEVO Gfinity Professional Seas..,16,11,13,2,3,9,ex-Astral Authority,12,21,0.64 
-2016,02,21,20:35,ex-AstralAuthority,Liquid,dust2,DreamHack Masters Malmö 2016 N..,4,16,4,11,0,5,ex-Astral Authority,14,14,1.03 
-2016,02,15,03:10,Noble,ex-AstralAuthority,mirage,CEVO Gfinity Professional Seas..,9,16,6,9,3,7,ex-Astral Authority,12,15,0.75 
-2016,02,15,01:15,ex-AstralAuthority,QuetzaL,inferno,CEVO Gfinity Professional Seas..,16,1,14,1,2,0,ex-Astral Authority,9,8,0.94 
-2015,12,16,01:00,UMass,Incursion,cache,QuickShot Arena NA #2,16,5,11,4,5,1,Incursion,14,17,0.88 
-2015,12,16,01:00,UMass,Incursion,mirage,QuickShot Arena NA #2,16,11,7,8,9,3,Incursion,24,17,1.24 
-2015,12,15,03:30,ACE,Incursion,mirage,QuickShot Arena NA #2,11,16,6,9,5,7,Incursion,13,22,0.57 
-2015,12,15,03:30,ACE,Incursion,inferno,QuickShot Arena NA #2,11,16,6,9,5,7,Incursion,29,14,1.53 
-2015,05,26,02:00,Braindead,SetToDestroyX,mirage,FACEIT League 2015 Stage 2 NA ..,16,8,10,5,6,3,SetToDestroyX,20,22,0.93 
-2015,05,26,02:00,SetToDestroyX,Braindead,inferno,FACEIT League 2015 Stage 2 NA ..,14,16,10,5,4,11,SetToDestroyX,22,22,0.92 
+2016,08,05,04:30,181,38,1,474,7,16,1,14,6,2,181,15,16,1.02 
+2016,08,05,04:30,181,38,4,474,10,16,7,8,3,8,181,17,19,0.88 
+2016,03,16,04:00,97,69,1,590,11,16,4,11,7,5,97,24,14,1.52 
+2016,03,16,04:00,97,69,7,590,11,16,9,6,2,10,97,20,20,0.92 
+2016,02,24,05:15,649,270,0,590,7,16,6,9,1,7,649,19,20,1.02 
+2016,02,24,05:15,270,649,4,590,16,11,13,2,3,9,649,12,21,0.64 
+2016,02,21,20:35,649,303,1,647,4,16,4,11,0,5,649,14,14,1.03 
+2016,02,15,03:10,447,649,0,590,9,16,6,9,3,7,649,12,15,0.75 
+2016,02,15,01:15,649,495,6,590,16,1,14,1,2,0,649,9,8,0.94 
+2015,12,16,01:00,753,754,7,700,16,5,11,4,5,1,754,14,17,0.88 
+2015,12,16,01:00,753,754,0,700,16,11,7,8,9,3,754,24,17,1.24 
+2015,12,15,03:30,334,754,0,700,11,16,6,9,5,7,754,13,22,0.57 
+2015,12,15,03:30,334,754,6,700,11,16,6,9,5,7,754,29,14,1.53 
+2015,05,26,02:00,586,757,0,905,16,8,10,5,6,3,757,20,22,0.93 
+2015,05,26,02:00,757,586,6,905,14,16,10,5,4,11,757,22,22,0.92 

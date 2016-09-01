@@ -1,3 +1,3 @@
-2016,03,24,17:00,Recursive,Quantaya,inferno,Copenhagen Games 2016 BYOC Qua..,16,12,13,2,3,10,Quantaya,13,22,0.67 
-2016,03,24,15:30,Quantaya,fLYVERNE,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Quantaya,21,7,1.89 
-2016,03,24,13:00,Bananaboys,Quantaya,dust2,Copenhagen Games 2016 BYOC Qua..,19,16,7,8,8,7,Quantaya,23,26,0.92 
+2016,03,24,17:00,545,554,6,623,16,12,13,2,3,10,554,13,22,0.67 
+2016,03,24,15:30,554,571,14,623,16,2,13,2,3,0,554,21,7,1.89 
+2016,03,24,13:00,541,554,1,623,19,16,7,8,8,7,554,23,26,0.92 

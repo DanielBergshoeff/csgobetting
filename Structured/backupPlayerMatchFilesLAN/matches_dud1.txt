@@ -1,8 +1,0 @@
-2015,11,22,10:30,ImperialDragons,Vexed,cache,Color League by EIZO & QPAD,10,16,7,8,3,8,Imperial Dragons,16,19,0.82 
-2015,11,22,10:30,Vexed,ImperialDragons,mirage,Color League by EIZO & QPAD,16,8,11,4,5,4,Imperial Dragons,7,19,0.41 
-2015,11,22,10:30,Vexed,ImperialDragons,train,Color League by EIZO & QPAD,8,16,7,8,1,8,Imperial Dragons,19,15,1.14 
-2015,11,21,16:45,ImperialDragons,ALSEN,mirage,Color League by EIZO & QPAD,16,10,9,6,7,4,Imperial Dragons,18,18,0.92 
-2015,11,21,16:45,ImperialDragons,ALSEN,train,Color League by EIZO & QPAD,11,16,5,10,6,6,Imperial Dragons,20,22,0.92 
-2015,11,21,16:45,ALSEN,ImperialDragons,inferno,Color League by EIZO & QPAD,10,16,2,13,8,3,Imperial Dragons,19,17,1.09 
-2015,11,21,14:15,ImperialDragons,Vexed,dust2,Color League by EIZO & QPAD,7,16,6,9,1,7,Imperial Dragons,22,20,1.21 
-2015,11,21,14:15,Vexed,ImperialDragons,mirage,Color League by EIZO & QPAD,19,15,6,9,9,6,Imperial Dragons,20,29,0.80 

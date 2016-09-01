@@ -1,6 +1,0 @@
-2015,04,02,23:30,jQntefabrikkeN,FreeTransfer,cache,Copenhagen Games 2015,16,4,11,4,5,0,Free Transfer,11,18,0.74 
-2015,04,02,20:30,FreeTransfer,TJ'SHELTE,inferno,Copenhagen Games 2015,16,2,13,2,3,0,Free Transfer,20,6,1.89 
-2015,04,02,19:00,FreeTransfer,jQntefabrikkeN,mirage,Copenhagen Games 2015,4,16,1,14,3,2,Free Transfer,8,18,0.47 
-2015,04,02,17:00,FreeTransfer,MIXERINO,nuke,Copenhagen Games 2015,16,2,13,2,3,0,Free Transfer,18,5,1.71 
-2015,04,02,15:30,FreeTransfer,puta,dust2,Copenhagen Games 2015,11,16,7,8,4,8,Free Transfer,25,17,1.33 
-2015,04,02,14:00,MIXERINO,FreeTransfer,inferno,Copenhagen Games 2015,1,16,1,14,0,2,Free Transfer,15,6,1.47 

@@ -1,9 +1,0 @@
-2016,03,24,22:35,Alpha,Bananaboys,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,13,5,10,11,3,Bananaboys,16,20,0.87 
-2016,03,24,22:35,Alpha,Bananaboys,dust2,Copenhagen Games 2016 BYOC Qua..,16,14,6,9,10,5,Bananaboys,15,18,0.82 
-2016,03,24,22:35,Bananaboys,Alpha,overpass,Copenhagen Games 2016 BYOC Qua..,16,12,6,9,10,3,Bananaboys,25,21,1.28 
-2016,03,24,19:00,Bananaboys,naptoR.Factory,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,22,7,1.87 
-2016,03,24,19:00,Bananaboys,naptoR.Factory,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,23,7,2.08 
-2016,03,24,15:30,Bananaboys,Recursive,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,18,7,1.53 
-2016,03,24,13:00,Bananaboys,Quantaya,dust2,Copenhagen Games 2016 BYOC Qua..,19,16,7,8,8,7,Bananaboys,40,23,1.60 
-2014,10,05,16:00,LondonC,partyastronauts,nuke,ESWC 2014 Norway,16,12,11,4,5,8,partyastronauts,18,17,0.94 
-2014,10,05,16:00,LondonC,partyastronauts,mirage,ESWC 2014 Norway,16,11,13,2,3,9,partyastronauts,16,23,0.66 

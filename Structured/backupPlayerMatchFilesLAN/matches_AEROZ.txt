@@ -1,8 +1,0 @@
-2015,12,06,15:00,overGame,x6tence,cobblestone,LVP Season 9 Division de Honor..,12,16,6,9,6,7,overGame,12,19,0.64 
-2015,12,06,15:00,overGame,x6tence,cache,LVP Season 9 Division de Honor..,16,8,8,7,8,1,overGame,23,12,1.57 
-2015,12,06,15:00,x6tence,overGame,mirage,LVP Season 9 Division de Honor..,16,7,14,1,2,6,overGame,13,22,0.53 
-2015,12,05,16:30,Play2Win,overGame,train,LVP Season 9 Division de Honor..,12,16,8,7,4,9,overGame,22,16,1.25 
-2015,12,05,16:30,Play2Win,overGame,overpass,LVP Season 9 Division de Honor..,6,16,3,12,3,4,overGame,19,11,1.31 
-2015,12,05,16:30,Play2Win,overGame,dust2,LVP Season 9 Division de Honor..,16,12,11,4,5,8,overGame,14,23,0.65 
-2015,12,05,12:00,gBots,overGame,cache,LVP Season 9 Division de Honor..,16,10,9,6,7,4,overGame,13,23,0.67 
-2015,12,04,17:30,Play2Win,overGame,cache,LVP Season 9 Division de Honor..,8,16,4,11,4,5,overGame,21,11,1.46 

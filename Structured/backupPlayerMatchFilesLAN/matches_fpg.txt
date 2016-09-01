@@ -1,4 +1,0 @@
-2016,01,08,20:00,INTZ,g3x,dust2,MAX5 Invitational,13,16,7,8,6,8,INTZ,35,20,1.56 
-2016,01,07,21:45,Luminosity,INTZ,cobblestone,MAX5 Invitational,16,8,13,2,3,6,INTZ,20,22,0.96 
-2016,01,07,17:30,INTZ,Santos.DeX,cobblestone,MAX5 Invitational,7,16,5,10,2,6,INTZ,13,19,0.74 
-2016,01,06,19:00,CNB,INTZ,cache,MAX5 Invitational,15,15,8,7,7,8,INTZ,18,22,0.85 

@@ -1,14 +1,14 @@
-2016,08,14,11:00,MVPproject,autocracy,overpass,VSL Season 1,13,16,8,7,5,9,autocracy,23,17,1.30 
-2016,08,14,11:00,autocracy,MVPproject,nuke,VSL Season 1,16,11,11,4,5,7,autocracy,15,14,0.90 
-2016,08,07,11:00,T5,autocracy,overpass,VSL Season 1,8,16,4,11,4,5,autocracy,18,14,1.04 
-2016,08,07,11:00,autocracy,T5,cache,VSL Season 1,16,8,8,7,8,1,autocracy,16,15,0.96 
-2016,07,31,12:00,autocracy,m0nster,cobblestone,VSL Season 1,16,7,9,6,7,1,autocracy,13,13,0.93 
-2016,07,24,11:00,autocracy,MVPproject,cobblestone,VSL Season 1,14,16,6,9,8,7,autocracy,27,23,1.27 
-2016,06,24,14:00,SouthKorea,Jordan,mirage,World Championships 2016 Asian..,12,16,8,7,4,9,South Korea,12,21,0.62 
-2016,06,24,14:00,Jordan,SouthKorea,cache,World Championships 2016 Asian..,16,11,7,8,9,3,South Korea,18,18,0.91 
-2016,06,24,14:00,Jordan,SouthKorea,cobblestone,World Championships 2016 Asian..,4,16,3,12,1,4,South Korea,21,6,1.97 
-2015,12,05,12:00,autocracy,T5,mirage,D!ngIT & NCSC Korea S1 Qualifi..,10,16,8,7,2,9,autocracy,20,18,1.03 
-2015,12,05,12:00,T5,autocracy,inferno,D!ngIT & NCSC Korea S1 Qualifi..,16,12,11,4,5,8,autocracy,19,22,0.89 
-2015,12,05,12:00,T5,autocracy,cobblestone,D!ngIT & NCSC Korea S1 Qualifi..,10,16,7,8,3,8,autocracy,19,17,1.00 
-2015,11,28,14:00,autocracy,Player5,mirage,D!ngIT & NCSC Korea S1 Qualifi..,16,3,12,3,4,0,autocracy,13,8,1.11 
-2015,11,27,12:00,autocracy,WHYSchwyz,overpass,D!ngIT & NCSC Korea S1 Qualifi..,16,0,15,0,1,0,autocracy,18,5,2.01 
+2016,08,14,11:00,65,66,4,479,13,16,8,7,5,9,66,23,17,1.30 
+2016,08,14,11:00,66,65,5,479,16,11,11,4,5,7,66,15,14,0.90 
+2016,08,07,11:00,166,66,4,479,8,16,4,11,4,5,66,18,14,1.04 
+2016,08,07,11:00,66,166,7,479,16,8,8,7,8,1,66,16,15,0.96 
+2016,07,31,12:00,66,164,14,479,16,7,9,6,7,1,66,13,13,0.93 
+2016,07,24,11:00,66,65,14,479,14,16,6,9,8,7,66,27,23,1.27 
+2016,06,24,14:00,346,325,0,517,12,16,8,7,4,9,346,12,21,0.62 
+2016,06,24,14:00,325,346,7,517,16,11,7,8,9,3,346,18,18,0.91 
+2016,06,24,14:00,325,346,14,517,4,16,3,12,1,4,346,21,6,1.97 
+2015,12,05,12:00,66,166,0,716,10,16,8,7,2,9,66,20,18,1.03 
+2015,12,05,12:00,166,66,6,716,16,12,11,4,5,8,66,19,22,0.89 
+2015,12,05,12:00,166,66,14,716,10,16,7,8,3,8,66,19,17,1.00 
+2015,11,28,14:00,66,219,0,716,16,3,12,3,4,0,66,13,8,1.11 
+2015,11,27,12:00,66,837,4,716,16,0,15,0,1,0,66,18,5,2.01 

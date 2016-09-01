@@ -1,2 +1,2 @@
-2015,12,04,21:30,KoNSweden,KoNDenmark,inferno,King of Nordic Season 2,16,12,10,5,6,7,KoN Denmark,21,19,1.05 
-2015,12,04,20:30,KoNDenmark,KoNNorway,dust2,King of Nordic Season 2,16,12,8,7,8,5,KoN Denmark,19,13,1.15 
+2015,12,04,21:30,82,83,6,673,16,12,10,5,6,7,83,21,19,1.05 
+2015,12,04,20:30,83,81,1,673,16,12,8,7,8,5,83,19,13,1.15 

@@ -1,9 +1,0 @@
-2016,03,24,19:00,FAB,Tricked,overpass,Copenhagen Games 2016 BYOC Qua..,16,12,8,7,8,5,Tricked,18,21,0.80 
-2016,03,24,19:00,FAB,Tricked,mirage,Copenhagen Games 2016 BYOC Qua..,16,6,10,5,6,1,Tricked,7,21,0.33 
-2016,03,24,19:00,Tricked,FAB,inferno,Copenhagen Games 2016 BYOC Qua..,16,9,9,6,7,3,Tricked,21,16,1.13 
-2016,03,24,15:30,Heroic,Tricked,cobblestone,Copenhagen Games 2016 BYOC Qua..,4,16,2,13,2,3,Tricked,16,10,1.16 
-2016,03,24,13:00,Tricked,Tog,dust2,Copenhagen Games 2016 BYOC Qua..,16,1,14,1,2,0,Tricked,19,7,1.93 
-2015,12,20,10:45,CSGOBESTPOT.com,Reason,mirage,ESL Nordic Nationals Winter 20..,16,7,12,3,4,4,Reason,9,21,0.57 
-2015,12,20,10:45,Reason,CSGOBESTPOT.com,cache,ESL Nordic Nationals Winter 20..,15,19,8,7,7,8,Reason,27,24,1.09 
-2015,12,19,17:10,Reason,ROCCAT,mirage,ESL Nordic Nationals Winter 20..,9,16,5,10,4,6,Reason,12,20,0.61 
-2015,12,19,13:30,Reason,BX3,mirage,ESL Nordic Nationals Winter 20..,16,12,9,6,7,6,Reason,25,20,1.25 

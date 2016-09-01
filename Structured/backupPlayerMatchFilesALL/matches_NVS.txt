@@ -1,6 +1,6 @@
-2015,10,18,17:25,TheMooninites,SuckBrickKids,cache,Fragadelphia 6,20,22,12,3,3,12,The Mooninites,28,29,0.92 
-2015,10,18,02:00,Roca'scompLexity,TheMooninites,cache,Fragadelphia 6,16,9,9,6,7,3,The Mooninites,14,20,0.70 
-2015,10,18,02:00,TheMooninites,Roca'scompLexity,inferno,Fragadelphia 6,7,16,6,9,1,7,The Mooninites,12,19,0.73 
-2015,09,05,22:15,GamesAcademy,Levitate,dust2,WinOut $20,000 CS:GO Champions..,16,4,11,4,5,0,Levitate,6,17,0.40 
-2015,09,05,20:45,Levitate,EZonTheSoul,inferno,WinOut $20,000 CS:GO Champions..,16,5,12,3,4,2,Levitate,16,11,1.27 
-2015,09,05,19:30,Levitate,GamesAcademy,cobblestone,WinOut $20,000 CS:GO Champions..,4,16,3,12,1,4,Levitate,8,18,0.50 
+2015,10,18,17:25,921,916,7,780,20,22,12,3,3,12,921,28,29,0.92 
+2015,10,18,02:00,915,921,7,780,16,9,9,6,7,3,921,14,20,0.70 
+2015,10,18,02:00,921,915,6,780,7,16,6,9,1,7,921,12,19,0.73 
+2015,09,05,22:15,702,1003,1,827,16,4,11,4,5,0,1003,6,17,0.40 
+2015,09,05,20:45,1003,1004,6,827,16,5,12,3,4,2,1003,16,11,1.27 
+2015,09,05,19:30,1003,702,14,827,4,16,3,12,1,4,1003,8,18,0.50 

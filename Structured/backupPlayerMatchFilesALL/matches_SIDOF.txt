@@ -1,13 +1,13 @@
-2015,06,23,03:30,CLG,affNity,mirage,ESL ESEA Pro League Season 1,16,11,12,3,4,8,affNity,13,18,0.76 
-2015,05,20,04:15,affNity,Nihilum,cobblestone,CEVO Professional Season 7,16,10,8,7,8,3,affNity,1,2,0.62 
-2015,05,14,03:15,Nihilum,affNity,dust2,ESL ESEA Pro League Season 1,16,7,8,7,8,0,affNity,14,17,0.82 
-2015,04,30,04:30,affNity,TempoStorm,cache,CEVO Professional Season 7,16,19,6,9,9,6,affNity,17,24,0.75 
-2015,04,30,04:30,TempoStorm,affNity,cobblestone,CEVO Professional Season 7,16,8,8,7,8,1,affNity,11,18,0.61 
-2015,04,29,04:30,Method,affNity,inferno,CEVO Professional Season 7,16,1,14,1,2,0,affNity,8,17,0.50 
-2015,04,29,04:30,affNity,Method,mirage,CEVO Professional Season 7,16,12,8,7,8,5,affNity,20,17,1.15 
-2014,10,02,03:00,Mobility,savage,inferno,FACEIT League NA Season 2,16,13,7,8,9,5,Mobility,22,20,1.07 
-2014,09,17,04:30,Mobility,LunatiK,inferno,FACEIT League NA Season 2,12,16,4,11,8,5,Mobility,19,19,1.03 
-2014,09,04,04:15,Mobility,iBUYPOWER,inferno,FACEIT League NA Season 2,10,16,9,6,1,10,Mobility,18,18,1.01 
-2014,08,27,02:30,Mobility,Exertus,cache,FACEIT League 2 NA Closed Qual..,16,11,10,5,6,6,Mobility,13,13,0.91 
-2014,08,27,02:30,Mobility,Exertus,mirage,FACEIT League 2 NA Closed Qual..,16,7,11,4,5,3,Mobility,11,14,0.74 
-2014,08,26,03:00,RELiABLE,Mobility,cache,FACEIT League 2 NA Closed Qual..,3,16,3,12,0,4,Mobility,10,11,0.87 
+2015,06,23,03:30,291,1056,0,888,16,11,12,3,4,8,1056,13,18,0.76 
+2015,05,20,04:15,1056,1057,14,883,16,10,8,7,8,3,1056,1,2,0.62 
+2015,05,14,03:15,1057,1056,1,888,16,7,8,7,8,0,1056,14,17,0.82 
+2015,04,30,04:30,1056,424,7,883,16,19,6,9,9,6,1056,17,24,0.75 
+2015,04,30,04:30,424,1056,14,883,16,8,8,7,8,1,1056,11,18,0.61 
+2015,04,29,04:30,496,1056,6,883,16,1,14,1,2,0,1056,8,17,0.50 
+2015,04,29,04:30,1056,496,0,883,16,12,8,7,8,5,1056,20,17,1.15 
+2014,10,02,03:00,1197,1198,6,1012,16,13,7,8,9,5,1197,22,20,1.07 
+2014,09,17,04:30,1197,1027,6,1012,12,16,4,11,8,5,1197,19,19,1.03 
+2014,09,04,04:15,1197,1152,6,1012,10,16,9,6,1,10,1197,18,18,1.01 
+2014,08,27,02:30,1197,1061,7,1038,16,11,10,5,6,6,1197,13,13,0.91 
+2014,08,27,02:30,1197,1061,0,1038,16,7,11,4,5,3,1197,11,14,0.74 
+2014,08,26,03:00,1212,1197,7,1038,3,16,3,12,0,4,1197,10,11,0.87 

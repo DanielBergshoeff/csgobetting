@@ -1,9 +1,9 @@
-2016,02,14,01:30,CLG,PotatoStreamers,cache,IEM Katowice 2016 NA Qualifier,16,5,11,4,5,1,Potato Streamers,12,16,0.87 
-2015,11,25,04:30,Noble,SKDC,inferno,SL i-League StarSeries XIV,8,16,6,9,2,7,Noble,17,19,0.96 
-2015,11,25,04:30,Noble,SKDC,mirage,SL i-League StarSeries XIV,7,16,3,12,4,4,Noble,12,18,0.66 
-2015,11,25,04:30,Noble,SKDC,overpass,SL i-League StarSeries XIV,22,18,7,8,8,7,Noble,25,26,0.92 
-2015,11,13,04:00,Noble,Winterfox,cobblestone,SL i-League StarSeries XIV,9,16,8,7,1,9,Noble,13,17,0.79 
-2015,11,13,04:00,Winterfox,Noble,cache,SL i-League StarSeries XIV,7,16,6,9,1,7,Noble,18,13,1.24 
-2015,11,13,04:00,Winterfox,Noble,dust2,SL i-League StarSeries XIV,16,10,9,6,7,4,Noble,23,19,1.20 
-2015,11,05,04:00,compLexity,Noble,cache,SL i-League StarSeries XIV,19,16,8,7,7,8,Noble,23,30,0.78 
-2015,11,05,04:00,compLexity,Noble,cobblestone,SL i-League StarSeries XIV,16,12,7,8,9,4,Noble,25,22,1.15 
+2016,02,14,01:30,291,687,7,653,16,5,11,4,5,1,687,12,16,0.87 
+2015,11,25,04:30,447,759,6,696,8,16,6,9,2,7,447,17,19,0.96 
+2015,11,25,04:30,447,759,0,696,7,16,3,12,4,4,447,12,18,0.66 
+2015,11,25,04:30,447,759,4,696,22,18,7,8,8,7,447,25,26,0.92 
+2015,11,13,04:00,447,279,14,696,9,16,8,7,1,9,447,13,17,0.79 
+2015,11,13,04:00,279,447,7,696,7,16,6,9,1,7,447,18,13,1.24 
+2015,11,13,04:00,279,447,1,696,16,10,9,6,7,4,447,23,19,1.20 
+2015,11,05,04:00,116,447,7,696,19,16,8,7,7,8,447,23,30,0.78 
+2015,11,05,04:00,116,447,14,696,16,12,7,8,9,4,447,25,22,1.15 

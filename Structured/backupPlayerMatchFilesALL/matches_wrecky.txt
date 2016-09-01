@@ -1,6 +1,6 @@
-2016,05,11,23:00,GrowUp,AlienTech,cache,xfunction Challenge,1,16,1,14,0,2,Grow Up,7,16,0.43 
-2016,05,05,22:15,GrowUp,GameAgents,cache,xfunction Challenge,10,16,3,12,7,4,Grow Up,12,22,0.60 
-2014,04,26,23:30,AlienTech,NorthernGrade,nuke,1Life Fraglider Invitational,17,19,11,4,4,11,AlienTech,28,20,1.24 
-2014,04,26,22:15,Panthers,AlienTech,dust2,1Life Fraglider Invitational,7,16,4,11,3,5,AlienTech,11,11,0.88 
-2014,04,26,20:00,SteelShock,AlienTech,inferno,1Life Fraglider Invitational,14,16,6,9,8,7,AlienTech,16,21,0.75 
-2014,04,26,18:00,AlienTech,NorthernGrade,dust2,1Life Fraglider Invitational,9,16,6,9,3,7,AlienTech,15,17,0.90 
+2016,05,11,23:00,443,278,7,544,1,16,1,14,0,2,443,7,16,0.43 
+2016,05,05,22:15,443,358,7,544,10,16,3,12,7,4,443,12,22,0.60 
+2014,04,26,23:30,278,1262,5,1074,17,19,11,4,4,11,278,28,20,1.24 
+2014,04,26,22:15,1087,278,1,1074,7,16,4,11,3,5,278,11,11,0.88 
+2014,04,26,20:00,1263,278,6,1074,14,16,6,9,8,7,278,16,21,0.75 
+2014,04,26,18:00,278,1262,1,1074,9,16,6,9,3,7,278,15,17,0.90 

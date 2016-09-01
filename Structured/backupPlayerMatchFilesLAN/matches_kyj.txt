@@ -1,4 +1,0 @@
-2016,08,04,13:00,Furious,m0nster,dust2,VSL Season 1,10,16,5,10,5,6,m0nster,24,12,1.34 
-2016,07,31,12:00,autocracy,m0nster,cobblestone,VSL Season 1,16,7,9,6,7,1,m0nster,7,20,0.44 
-2016,07,21,13:00,m0nster,v0rtex5	,train,VSL Season 1,11,16,8,7,3,9,m0nster,17,23,0.78 
-2016,07,10,11:00,MVPproject,m0nster,overpass,VSL Season 1,16,14,5,10,11,4,m0nster,15,22,0.75 

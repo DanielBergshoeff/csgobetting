@@ -1,5 +1,5 @@
-2016,03,24,19:00,Krydsild,Aquiver.BLU,inferno,Copenhagen Games 2016 BYOC Qua..,19,16,11,4,4,11,Aquiver.BLU,30,24,1.19 
-2016,03,24,19:00,Krydsild,Aquiver.BLU,cache,Copenhagen Games 2016 BYOC Qua..,16,7,9,6,7,1,Aquiver.BLU,9,18,0.53 
-2016,03,24,17:00,Aquiver.BLU,hiddenOP,inferno,Copenhagen Games 2016 BYOC Qua..,16,11,7,8,9,3,Aquiver.BLU,10,18,0.67 
-2016,03,24,15:30,PlayingDucks,Aquiver.BLU,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,12,6,9,10,3,Aquiver.BLU,13,20,0.68 
-2016,03,24,13:00,hiddenOP,Aquiver.BLU,dust2,Copenhagen Games 2016 BYOC Qua..,16,19,10,5,5,10,Aquiver.BLU,17,25,0.77 
+2016,03,24,19:00,539,542,6,623,19,16,11,4,4,11,542,30,24,1.19 
+2016,03,24,19:00,539,542,7,623,16,7,9,6,7,1,542,9,18,0.53 
+2016,03,24,17:00,542,553,6,623,16,11,7,8,9,3,542,10,18,0.67 
+2016,03,24,15:30,544,542,14,623,16,12,6,9,10,3,542,13,20,0.68 
+2016,03,24,13:00,553,542,1,623,16,19,10,5,5,10,542,17,25,0.77 

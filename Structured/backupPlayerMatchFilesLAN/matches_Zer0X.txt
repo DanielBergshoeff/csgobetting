@@ -1,3 +1,0 @@
-2016,07,16,09:35,GamePub,faithIN,cache,GamePub 2016,11,16,6,9,5,7,GamePub,23,19,1.17 
-2016,07,16,09:35,GamePub,faithIN,mirage,GamePub 2016,16,1,14,1,2,0,GamePub,18,7,1.64 
-2016,07,16,09:35,GamePub,faithIN,dust2,GamePub 2016,5,16,4,11,1,5,GamePub,11,18,0.69 

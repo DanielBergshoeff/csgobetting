@@ -1,9 +1,0 @@
-2015,04,03,22:30,Reason,schlaegeros,cache,Copenhagen Games 2015,16,2,14,1,2,1,schlaegeros,9,17,0.56 
-2015,04,03,15:30,schlaegeros,Menace,mirage,Copenhagen Games 2015,5,16,5,10,0,6,schlaegeros,9,19,0.49 
-2015,04,03,15:30,Menace,schlaegeros,cache,Copenhagen Games 2015,16,4,13,2,3,2,schlaegeros,5,18,0.32 
-2015,04,03,12:00,dignitas,schlaegeros,cache,Copenhagen Games 2015,16,5,14,1,2,4,schlaegeros,1,19,0.12 
-2015,04,03,12:00,dignitas,schlaegeros,inferno,Copenhagen Games 2015,16,1,14,1,2,0,schlaegeros,7,16,0.46 
-2015,04,02,23:10,Frederiksberg,schlaegeros,mirage,Copenhagen Games 2015,7,16,5,10,2,6,schlaegeros,14,15,0.79 
-2015,04,02,20:30,schlaegeros,Games4u,cache,Copenhagen Games 2015,10,16,7,8,3,8,schlaegeros,6,21,0.35 
-2015,04,02,19:00,Sespåmermaid,schlaegeros,cache,Copenhagen Games 2015,10,16,7,8,3,8,schlaegeros,14,18,0.81 
-2015,04,02,16:00,Frederiksberg,schlaegeros,dust2,Copenhagen Games 2015,12,16,9,6,3,10,schlaegeros,12,19,0.70 

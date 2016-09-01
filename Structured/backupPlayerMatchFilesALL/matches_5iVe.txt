@@ -1,2 +1,2 @@
-2015,10,16,17:20,TheMongolz,TwistoFate,cache,MixBOT Pro-League Invite Seaso..,16,4,11,4,5,0,TwistoFate,3,18,0.24 
-2015,10,16,13:55,J2G,TwistoFate,cache,MixBOT Pro-League Invite Seaso..,12,16,8,7,4,9,TwistoFate,16,17,0.90 
+2015,10,16,17:20,150,889,7,642,16,4,11,4,5,0,889,3,18,0.24 
+2015,10,16,13:55,643,889,7,642,12,16,8,7,4,9,889,16,17,0.90 

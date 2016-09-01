@@ -1,22 +1,22 @@
-2016,08,08,09:30,VG.CyberZen,BorninMongolia,dust2,ESEA Open Season 22 Asia,16,13,5,10,11,3,Born in Mongolia,23,23,1.09 
-2016,08,08,09:30,VG.CyberZen,BorninMongolia,mirage,ESEA Open Season 22 Asia,16,4,11,4,5,0,Born in Mongolia,8,17,0.57 
-2016,08,07,06:45,ViRGiN5,Giveway,mirage,ROG CS:GO Hong Kong Tournament,16,3,13,2,3,1,Giveway,7,16,0.47 
-2016,08,07,06:45,Giveway,ViRGiN5,cache,ROG CS:GO Hong Kong Tournament,12,16,3,12,9,4,Giveway,19,22,0.82 
-2016,05,20,12:30,Signature,TheMongolz,dust2,WCA Season 1 APAC Finals,12,16,5,10,7,6,TheMongolz,14,20,0.71 
-2016,05,20,12:30,Signature,TheMongolz,mirage,WCA Season 1 APAC Finals,7,16,4,11,3,5,TheMongolz,17,11,1.35 
-2016,05,18,07:35,TheMongolz,Immunity,overpass,WCA Season 1 APAC Finals,10,16,9,6,1,10,TheMongolz,17,19,0.92 
-2016,05,18,07:35,Immunity,TheMongolz,cache,WCA Season 1 APAC Finals,16,11,6,9,10,2,TheMongolz,19,20,0.95 
-2016,05,05,12:50,TheMongolz,VG.CyberZen,cache,PGL KeSPA Regional Minor Champ..,13,16,5,10,8,6,TheMongolz,15,21,0.72 
-2016,05,05,12:50,TheMongolz,VG.CyberZen,train,PGL KeSPA Regional Minor Champ..,12,16,8,7,4,9,TheMongolz,19,21,1.02 
-2016,05,05,06:15,Immunity,TheMongolz,overpass,PGL KeSPA Regional Minor Champ..,21,16,8,7,7,8,TheMongolz,20,23,0.84 
-2016,05,05,06:15,Immunity,TheMongolz,cache,PGL KeSPA Regional Minor Champ..,21,18,7,8,8,7,TheMongolz,14,27,0.60 
-2016,05,05,06:15,Immunity,TheMongolz,dust2,PGL KeSPA Regional Minor Champ..,7,16,5,10,2,6,TheMongolz,17,12,1.21 
-2016,05,05,03:30,m0nster,TheMongolz,cache,PGL KeSPA Regional Minor Champ..,5,16,2,13,3,3,TheMongolz,14,11,1.06 
-2016,04,23,13:00,nxl,TheMongolz,cache,Rising Stars SEA Promotional C..,6,16,3,12,3,4,TheMongolz,17,8,1.32 
-2016,04,23,13:00,nxl,TheMongolz,dust2,Rising Stars SEA Promotional C..,10,16,2,13,8,3,TheMongolz,24,12,1.46 
-2016,04,22,14:15,TheMongolz,Signature,mirage,Rising Stars SEA Promotional C..,16,11,6,9,10,2,TheMongolz,12,18,0.71 
-2016,04,22,14:15,Signature,TheMongolz,cache,Rising Stars SEA Promotional C..,10,16,7,8,3,8,TheMongolz,14,17,0.80 
-2016,04,20,14:30,inchk1ng,TheMongolz,cache,Rising Stars SEA Promotional C..,10,16,8,7,2,9,TheMongolz,16,13,1.03 
-2016,04,20,13:10,EDG,TheMongolz,dust2,Rising Stars SEA Promotional C..,14,16,8,7,6,9,TheMongolz,18,17,0.97 
-2016,04,17,16:10,dream[S]cape,TheMongolz,inferno,WCA 2016 APAC Qualifier,3,16,3,12,0,4,TheMongolz,11,8,1.14 
-2016,04,17,16:10,dream[S]cape,TheMongolz,cache,WCA 2016 APAC Qualifier,5,16,5,10,0,6,TheMongolz,14,10,1.09 
+2016,08,08,09:30,35,151,1,478,16,13,5,10,11,3,151,23,23,1.09 
+2016,08,08,09:30,35,151,0,478,16,4,11,4,5,0,151,8,17,0.57 
+2016,08,07,06:45,167,170,0,483,16,3,13,2,3,1,170,7,16,0.47 
+2016,08,07,06:45,170,167,7,483,12,16,3,12,9,4,170,19,22,0.82 
+2016,05,20,12:30,61,150,1,571,12,16,5,10,7,6,150,14,20,0.71 
+2016,05,20,12:30,61,150,0,571,7,16,4,11,3,5,150,17,11,1.35 
+2016,05,18,07:35,150,429,4,571,10,16,9,6,1,10,150,17,19,0.92 
+2016,05,18,07:35,429,150,7,571,16,11,6,9,10,2,150,19,20,0.95 
+2016,05,05,12:50,150,35,7,584,13,16,5,10,8,6,150,15,21,0.72 
+2016,05,05,12:50,150,35,2,584,12,16,8,7,4,9,150,19,21,1.02 
+2016,05,05,06:15,429,150,4,584,21,16,8,7,7,8,150,20,23,0.84 
+2016,05,05,06:15,429,150,7,584,21,18,7,8,8,7,150,14,27,0.60 
+2016,05,05,06:15,429,150,1,584,7,16,5,10,2,6,150,17,12,1.21 
+2016,05,05,03:30,164,150,7,584,5,16,2,13,3,3,150,14,11,1.06 
+2016,04,23,13:00,256,150,7,602,6,16,3,12,3,4,150,17,8,1.32 
+2016,04,23,13:00,256,150,1,602,10,16,2,13,8,3,150,24,12,1.46 
+2016,04,22,14:15,150,61,0,602,16,11,6,9,10,2,150,12,18,0.71 
+2016,04,22,14:15,61,150,7,602,10,16,7,8,3,8,150,14,17,0.80 
+2016,04,20,14:30,483,150,7,602,10,16,8,7,2,9,150,16,13,1.03 
+2016,04,20,13:10,191,150,1,602,14,16,8,7,6,9,150,18,17,0.97 
+2016,04,17,16:10,62,150,6,607,3,16,3,12,0,4,150,11,8,1.14 
+2016,04,17,16:10,62,150,7,607,5,16,5,10,0,6,150,14,10,1.09 

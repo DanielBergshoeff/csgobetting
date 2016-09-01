@@ -1,27 +1,27 @@
-2016,08,07,15:35,passions,HEADSHOTBG,mirage,ECS Season 2 EU Open Qualifier..,16,6,10,5,6,1,HEADSHOTBG,12,18,0.66 
-2016,04,22,21:00,iNation,Bpro,cache,Balkan Championship Season 3,13,16,7,8,6,8,Bpro,17,17,0.93 
-2015,08,27,15:00,Bulgaria,Latvia,cache,World Championships 2015 Europ..,8,16,2,13,6,3,Bulgaria,13,22,0.64 
-2015,08,27,15:00,Latvia,Bulgaria,inferno,World Championships 2015 Europ..,19,17,10,5,5,10,Bulgaria,14,21,0.75 
-2015,06,24,20:00,XPC,HEADSHOTBG,cobblestone,Balkan Championship Season 2,11,16,5,10,6,6,HEADSHOTBG,16,18,0.87 
-2015,06,24,20:00,HEADSHOTBG,XPC,overpass,Balkan Championship Season 2,13,16,10,5,3,11,HEADSHOTBG,11,21,0.64 
-2015,06,24,20:00,XPC,HEADSHOTBG,cache,Balkan Championship Season 2,11,16,8,7,3,9,HEADSHOTBG,17,19,0.85 
-2015,05,25,18:00,Wrecking,neXtPlease!,cache,Balkan Championship Season 2,5,16,4,11,1,5,Wrecking,15,17,0.89 
-2015,05,25,18:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,15,19,9,6,6,9,Wrecking,31,21,1.38 
-2015,05,14,17:00,GPlay,Wrecking,mirage,Balkan Championship Season 2,16,3,12,3,4,0,Wrecking,7,17,0.45 
-2015,05,14,17:00,GPlay,Wrecking,inferno,Balkan Championship Season 2,16,1,14,1,2,0,Wrecking,4,16,0.24 
-2015,05,11,22:00,neXtPlease!,Wrecking,cache,Balkan Championship Season 2,8,16,8,7,0,9,Wrecking,20,12,1.27 
-2015,05,11,22:00,neXtPlease!,Wrecking,mirage,Balkan Championship Season 2,16,8,9,6,7,2,Wrecking,16,19,0.97 
-2015,05,11,22:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,16,8,13,2,3,6,Wrecking,17,16,1.03 
-2015,05,11,18:00,HEADSHOTBG,neXtPlease!,overpass,Balkan Superleague,16,4,11,4,5,0,HEADSHOTBG,18,7,1.60 
-2015,05,04,22:15,GPlay,HEADSHOTBG,overpass,Balkan Superleague,16,5,13,2,3,3,HEADSHOTBG,13,18,0.72 
-2015,05,04,21:10,HEADSHOTBG,RB,inferno,Balkan Superleague,11,16,3,12,8,4,HEADSHOTBG,16,18,0.94 
-2015,05,04,20:20,HEADSHOTBG,GIANT5,inferno,Balkan Superleague,16,5,11,4,5,1,HEADSHOTBG,13,9,1.09 
-2015,04,25,17:10,HEADSHOTBG,KILLERFISH,mirage,Acer Predator Masters powered ..,10,16,10,5,0,11,HEADSHOTBG,21,18,1.04 
-2015,04,19,21:45,Wrecking,TRICKED,inferno,ESL South East Europe Champion..,9,16,8,7,1,9,Wrecking,19,19,1.20 
-2015,04,19,21:45,Wrecking,TRICKED,mirage,ESL South East Europe Champion..,10,16,6,9,4,7,Wrecking,16,21,0.83 
-2015,04,19,18:00,Wrecking,iNation,mirage,ESL South East Europe Champion..,16,9,8,7,8,2,Wrecking,14,15,0.89 
-2015,04,19,18:00,iNation,Wrecking,inferno,ESL South East Europe Champion..,16,12,7,8,9,4,Wrecking,15,19,0.85 
-2015,04,19,18:00,Wrecking,iNation,cache,ESL South East Europe Champion..,16,1,14,1,2,0,Wrecking,21,9,1.83 
-2015,04,16,18:00,Wrecking,WMTF,cache,ESL South East Europe Champion..,5,16,4,11,1,5,Wrecking,20,18,1.33 
-2015,04,16,18:00,Wrecking,WMTF,mirage,ESL South East Europe Champion..,11,16,10,5,1,11,Wrecking,14,21,0.64 
-2015,04,16,18:00,WMTF,Wrecking,inferno,ESL South East Europe Champion..,14,16,12,3,2,13,Wrecking,33,16,1.80 
+2016,08,07,15:35,153,159,0,477,16,6,10,5,6,1,159,12,18,0.66 
+2016,04,22,21:00,275,262,7,556,13,16,7,8,6,8,262,17,17,0.93 
+2015,08,27,15:00,120,103,7,799,8,16,2,13,6,3,120,13,22,0.64 
+2015,08,27,15:00,103,120,6,799,19,17,10,5,5,10,120,14,21,0.75 
+2015,06,24,20:00,379,159,14,887,11,16,5,10,6,6,159,16,18,0.87 
+2015,06,24,20:00,159,379,4,887,13,16,10,5,3,11,159,11,21,0.64 
+2015,06,24,20:00,379,159,7,887,11,16,8,7,3,9,159,17,19,0.85 
+2015,05,25,18:00,1080,398,7,887,5,16,4,11,1,5,1080,15,17,0.89 
+2015,05,25,18:00,1080,398,6,887,15,19,9,6,6,9,1080,31,21,1.38 
+2015,05,14,17:00,1054,1080,0,887,16,3,12,3,4,0,1080,7,17,0.45 
+2015,05,14,17:00,1054,1080,6,887,16,1,14,1,2,0,1080,4,16,0.24 
+2015,05,11,22:00,398,1080,7,887,8,16,8,7,0,9,1080,20,12,1.27 
+2015,05,11,22:00,398,1080,0,887,16,8,9,6,7,2,1080,16,19,0.97 
+2015,05,11,22:00,1080,398,6,887,16,8,13,2,3,6,1080,17,16,1.03 
+2015,05,11,18:00,159,398,4,903,16,4,11,4,5,0,159,18,7,1.60 
+2015,05,04,22:15,1054,159,4,903,16,5,13,2,3,3,159,13,18,0.72 
+2015,05,04,21:10,159,433,6,903,11,16,3,12,8,4,159,16,18,0.94 
+2015,05,04,20:20,159,656,6,903,16,5,11,4,5,1,159,13,9,1.09 
+2015,04,25,17:10,159,383,0,654,10,16,10,5,0,11,159,21,18,1.04 
+2015,04,19,21:45,1080,1067,6,560,9,16,8,7,1,9,1080,19,19,1.20 
+2015,04,19,21:45,1080,1067,0,560,10,16,6,9,4,7,1080,16,21,0.83 
+2015,04,19,18:00,1080,275,0,560,16,9,8,7,8,2,1080,14,15,0.89 
+2015,04,19,18:00,275,1080,6,560,16,12,7,8,9,4,1080,15,19,0.85 
+2015,04,19,18:00,1080,275,7,560,16,1,14,1,2,0,1080,21,9,1.83 
+2015,04,16,18:00,1080,1100,7,560,5,16,4,11,1,5,1080,20,18,1.33 
+2015,04,16,18:00,1080,1100,0,560,11,16,10,5,1,11,1080,14,21,0.64 
+2015,04,16,18:00,1100,1080,6,560,14,16,12,3,2,13,1080,33,16,1.80 

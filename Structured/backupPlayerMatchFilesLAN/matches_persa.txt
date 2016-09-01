@@ -1,8 +1,0 @@
-2016,03,24,19:00,Epsilon,Heroic,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,8,9,6,7,2,Heroic,15,22,0.71 
-2016,03,24,19:00,Epsilon,Heroic,dust2,Copenhagen Games 2016 BYOC Qua..,16,6,12,3,4,3,Heroic,16,21,0.88 
-2016,03,24,17:00,aNimus,Heroic,inferno,Copenhagen Games 2016 BYOC Qua..,11,16,9,6,2,10,Heroic,33,17,1.77 
-2016,03,24,15:30,Heroic,Tricked,cobblestone,Copenhagen Games 2016 BYOC Qua..,4,16,2,13,2,3,Heroic,16,17,0.99 
-2016,03,24,13:00,aNimus,Heroic,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,3,12,2,4,Heroic,28,11,1.92 
-2015,04,02,17:00,DENiED,malefiQ,nuke,Copenhagen Games 2015,11,16,9,6,2,10,DENiED,11,23,0.53 
-2015,04,02,15:30,FONA,DENiED,dust2,Copenhagen Games 2015,22,19,10,5,5,10,DENiED,25,30,0.86 
-2015,04,02,14:00,DENiED,malefiQ,inferno,Copenhagen Games 2015,16,5,11,4,5,1,DENiED,15,14,0.98 

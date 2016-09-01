@@ -1,3 +1,0 @@
-2016,02,20,10:30,G2,x6tence,train,ESL Barcelona CS:GO Invitation..,16,3,12,3,4,0,x6tence,6,19,0.26 
-2016,02,19,21:40,x6tence,Vexed,cobblestone,ESL Barcelona CS:GO Invitation..,2,16,2,13,0,3,x6tence,10,16,0.59 
-2016,02,19,17:45,Astralis,x6tence,mirage,ESL Barcelona CS:GO Invitation..,16,2,13,2,3,0,x6tence,10,16,0.68 

@@ -1,8 +1,8 @@
-2016,05,19,00:30,BigGods,Supernova,mirage,Razer Rising Stars South Ameri..,11,16,11,4,0,12,Supernova,22,16,1.23 
-2016,05,19,00:30,Supernova,BigGods,cobblestone,Razer Rising Stars South Ameri..,12,16,6,9,6,7,Supernova,16,20,0.81 
-2016,05,18,02:00,INTZ,Supernova,cache,Razer Rising Stars South Ameri..,16,14,9,6,7,8,Supernova,18,20,0.93 
-2016,05,18,02:00,INTZ,Supernova,mirage,Razer Rising Stars South Ameri..,16,3,13,2,3,1,Supernova,8,17,0.50 
-2016,05,06,04:15,2Kill,Supernova,train,Liga PRO GamersClub - APR/16,16,7,11,4,5,3,Supernova,19,17,1.10 
-2016,05,06,04:15,2Kill,Supernova,cache,Liga PRO GamersClub - APR/16,16,6,10,5,6,1,Supernova,15,18,0.82 
-2016,03,13,02:15,dreamWorks,rEAK,train,Razer Rising Stars South Ameri..,16,14,11,4,5,10,dreamWorks ,21,18,1.10 
-2016,03,12,21:00,dreamWorks,TShow,cobblestone,Razer Rising Stars South Ameri..,16,3,12,3,4,0,dreamWorks ,22,10,1.96 
+2016,05,19,00:30,94,142,0,548,11,16,11,4,0,12,142,22,16,1.23 
+2016,05,19,00:30,142,94,14,548,12,16,6,9,6,7,142,16,20,0.81 
+2016,05,18,02:00,194,142,7,548,16,14,9,6,7,8,142,18,20,0.93 
+2016,05,18,02:00,194,142,0,548,16,3,13,2,3,1,142,8,17,0.50 
+2016,05,06,04:15,43,142,2,580,16,7,11,4,5,3,142,19,17,1.10 
+2016,05,06,04:15,43,142,7,580,16,6,10,5,6,1,142,15,18,0.82 
+2016,03,13,02:15,617,618,2,548,16,14,11,4,5,10,617,21,18,1.10 
+2016,03,12,21:00,617,621,14,548,16,3,12,3,4,0,617,22,10,1.96 

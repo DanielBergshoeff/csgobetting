@@ -1,9 +1,0 @@
-2016,02,21,15:00,DenDD,Preparation,cache,Nordic Masters Season 2 Finals,14,16,3,12,11,4,DenDD,23,21,1.06 
-2016,02,21,15:00,DenDD,Preparation,mirage,Nordic Masters Season 2 Finals,19,22,8,7,7,8,DenDD,23,29,0.76 
-2016,02,20,14:30,BX3,DenDD,overpass,Nordic Masters Season 2 Finals,7,16,5,10,2,6,DenDD,22,15,1.28 
-2016,02,20,14:30,BX3,DenDD,mirage,Nordic Masters Season 2 Finals,14,16,9,6,5,10,DenDD,24,20,1.11 
-2016,02,20,13:30,Propertyfe,DenDD,mirage,Nordic Masters Season 2 Finals,4,16,4,11,0,5,DenDD,16,8,1.30 
-2016,01,30,20:45,PixelFire,DenDD,train,PGL Regional Minor Championshi..,16,5,13,2,3,3,DenDD,7,19,0.38 
-2016,01,30,20:45,DenDD,PixelFire,mirage,PGL Regional Minor Championshi..,38,41,11,4,4,11,DenDD,50,64,0.80 
-2016,01,30,15:00,Lemondogs,DenDD,mirage,PGL Regional Minor Championshi..,13,16,7,8,6,8,DenDD,15,26,0.64 
-2016,01,30,13:30,PixelFire,DenDD,cobblestone,PGL Regional Minor Championshi..,16,2,13,2,3,0,DenDD,11,18,0.57 

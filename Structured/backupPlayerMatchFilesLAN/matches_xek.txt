@@ -1,6 +1,0 @@
-2016,05,29,13:15,XPC,Bpro,dust2,ESL South East Europe Champion..,19,17,6,9,9,6,Bpro,24,26,1.07 
-2016,05,29,13:15,Bpro,XPC,overpass,ESL South East Europe Champion..,6,16,5,10,1,6,Bpro,13,16,0.77 
-2016,05,29,11:30,Bpro,aimclub,cache,ESL South East Europe Champion..,7,16,4,11,3,5,Bpro,12,19,0.63 
-2016,05,29,09:30,XPC,Bpro,cache,ESL South East Europe Champion..,14,16,7,8,7,8,Bpro,19,17,1.02 
-2016,05,07,13:00,WinFiction,Bpro,cobblestone,Game Ninja 2016,11,16,4,11,7,5,Bpro,24,16,1.38 
-2016,05,07,13:00,Bpro,WinFiction,mirage,Game Ninja 2016,16,14,6,9,10,5,Bpro,22,17,1.20 

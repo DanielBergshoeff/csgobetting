@@ -1,4 +1,0 @@
-2016,07,16,09:35,GamePub,faithIN,cache,GamePub 2016,11,16,6,9,5,7,GamePub,13,23,0.61 
-2016,07,16,09:35,GamePub,faithIN,mirage,GamePub 2016,16,1,14,1,2,0,GamePub,16,6,1.55 
-2016,07,16,09:35,GamePub,faithIN,dust2,GamePub 2016,5,16,4,11,1,5,GamePub,11,17,0.62 
-2015,09,08,10:30,E-frag.net,MiA,cache,Gaming Paradise 2015,16,4,12,3,4,1,MiA,5,19,0.28 

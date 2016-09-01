@@ -1,7 +1,0 @@
-2016,07,31,23:15,CNB,BigGods,train,Acer ESL Brazil Premier League..,4,16,4,11,0,5,BigGods,21,12,1.64 
-2016,07,31,16:30,g3x,BigGods,dust2,Acer ESL Brazil Premier League..,16,11,9,6,7,5,BigGods,15,22,0.68 
-2016,07,31,16:30,g3x,BigGods,train,Acer ESL Brazil Premier League..,16,11,10,5,6,6,BigGods,19,20,0.93 
-2016,01,08,20:00,INTZ,g3x,dust2,MAX5 Invitational,13,16,7,8,6,8,g3x,19,22,0.90 
-2016,01,07,14:30,g3x,CNB,cache,MAX5 Invitational,15,15,6,9,9,6,g3x,31,22,1.47 
-2016,01,06,22:45,Luminosity,g3x,cobblestone,MAX5 Invitational,16,2,13,2,3,0,g3x,12,18,0.81 
-2016,01,06,14:30,g3x,Santos.DeX,mirage,MAX5 Invitational,16,14,11,4,5,10,g3x,30,20,1.34 

@@ -1,8 +1,0 @@
-2016,08,05,09:30,BornOfFire,MVPproject,overpass,SL i-League S2 China Finals,7,16,4,11,3,5,Born Of Fire,20,21,0.95 
-2016,08,05,09:30,MVPproject,BornOfFire,mirage,SL i-League S2 China Finals,16,10,9,6,7,4,Born Of Fire,16,20,0.84 
-2016,08,05,09:30,MVPproject,BornOfFire,train,SL i-League S2 China Finals,3,16,3,12,0,4,Born Of Fire,20,5,1.69 
-2016,08,04,06:20,5POWER,BornOfFire,cache,SL i-League S2 China Finals,11,16,6,9,5,7,Born Of Fire,23,15,1.33 
-2016,08,04,06:20,5POWER,BornOfFire,mirage,SL i-League S2 China Finals,12,16,6,9,6,7,Born Of Fire,14,19,0.76 
-2016,08,04,06:20,5POWER,BornOfFire,cobblestone,SL i-League S2 China Finals,16,3,12,3,4,0,Born Of Fire,11,19,0.58 
-2016,04,23,13:30,AllGamers,eFuture,cache,Pro Gamers League 2016 Spring,16,10,11,4,5,6,eFuture,12,21,0.77 
-2016,04,23,13:30,AllGamers,eFuture,cobblestone,Pro Gamers League 2016 Spring,16,11,10,5,6,6,eFuture,23,22,1.01 

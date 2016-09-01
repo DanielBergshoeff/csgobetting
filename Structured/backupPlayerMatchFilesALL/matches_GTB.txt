@@ -1,4 +1,4 @@
-2016,03,25,04:30,DSS,BootyClappers,train,Razer Rising Stars NA League Q..,11,16,9,6,2,10,DSS,13,21,0.61 
-2015,10,18,16:25,PugsnotDrugs,ReapWhatYouSow,cache,Fragadelphia 6,7,16,4,11,3,5,Pugs not Drugs,10,19,0.56 
-2015,10,18,04:00,PugsnotDrugs,WinOut.net,mirage,Fragadelphia 6,7,16,6,9,1,7,Pugs not Drugs,8,18,0.52 
-2015,10,18,04:00,WinOut.net,PugsnotDrugs,train,Fragadelphia 6,16,10,8,7,8,3,Pugs not Drugs,9,21,0.45 
+2016,03,25,04:30,535,530,2,621,11,16,9,6,2,10,535,13,21,0.61 
+2015,10,18,16:25,922,918,7,780,7,16,4,11,3,5,922,10,19,0.56 
+2015,10,18,04:00,922,917,0,780,7,16,6,9,1,7,922,8,18,0.52 
+2015,10,18,04:00,917,922,2,780,16,10,8,7,8,3,922,9,21,0.45 

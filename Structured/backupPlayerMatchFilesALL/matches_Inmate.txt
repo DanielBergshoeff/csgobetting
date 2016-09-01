@@ -1,2 +1,2 @@
-2015,11,07,16:00,StormStudioStaff,E-frag.netStaff,inferno,Virtus.pro Staff Cup #3,8,16,3,12,5,4,StormStudio Staff,11,20,0.54 
-2015,11,07,16:00,E-frag.netStaff,StormStudioStaff,cache,Virtus.pro Staff Cup #3,16,6,14,1,2,5,StormStudio Staff,12,19,0.65 
+2015,11,07,16:00,883,861,6,750,8,16,3,12,5,4,883,11,20,0.54 
+2015,11,07,16:00,861,883,7,750,16,6,14,1,2,5,883,12,19,0.65 

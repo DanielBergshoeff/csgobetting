@@ -1,4 +1,0 @@
-2015,05,09,13:00,XPC,GPlay,dust2,ESL South East Europe Champion..,7,16,4,11,3,5,XPC,11,17,0.64 
-2015,05,09,13:00,XPC,GPlay,mirage,ESL South East Europe Champion..,4,16,1,14,3,2,XPC,14,18,0.81 
-2015,05,08,10:00,SpaceSoldiers,XPC,cobblestone,ESL South East Europe Champion..,26,20,10,5,5,10,XPC,36,39,0.98 
-2015,05,08,10:00,XPC,SpaceSoldiers,cache,ESL South East Europe Champion..,8,16,8,7,0,9,XPC,19,20,0.94 

@@ -1,7 +1,7 @@
-2015,12,19,22:00,wH-,PlayItCoolAll-Stars,train,Play It Cool CS:GO Community C..,13,16,4,11,9,5,Play It Cool All-Stars,9,22,0.46 
-2015,12,19,20:30,ANT-,PlayItCoolAll-Stars,dust2,Play It Cool CS:GO Community C..,19,17,5,10,10,5,Play It Cool All-Stars,8,23,0.51 
-2015,12,19,18:30,PlayItCoolAll-Stars,Leaf,cache,Play It Cool CS:GO Community C..,22,20,8,7,7,8,Play It Cool All-Stars,19,31,0.65 
-2015,12,19,17:15,Rimi,PlayItCoolAll-Stars,mirage,Play It Cool CS:GO Community C..,11,16,11,4,0,12,Play It Cool All-Stars,8,17,0.55 
-2015,12,19,15:30,Octupus1,PlayItCoolAll-Stars,overpass,Play It Cool CS:GO Community C..,17,19,7,8,8,7,Play It Cool All-Stars,14,27,0.59 
-2015,11,07,13:30,FACEITStaff,SLTVStaff,cache,Virtus.pro Staff Cup #3,4,16,3,12,1,4,FACEIT Staff,5,16,0.40 
-2015,11,07,13:30,SLTVStaff,FACEITStaff,mirage,Virtus.pro Staff Cup #3,16,3,13,2,3,1,FACEIT Staff,7,19,0.34 
+2015,12,19,22:00,727,728,2,689,13,16,4,11,9,5,728,9,22,0.46 
+2015,12,19,20:30,731,728,1,689,19,17,5,10,10,5,728,8,23,0.51 
+2015,12,19,18:30,728,732,7,689,22,20,8,7,7,8,728,19,31,0.65 
+2015,12,19,17:15,735,728,0,689,11,16,11,4,0,12,728,8,17,0.55 
+2015,12,19,15:30,736,728,4,689,17,19,7,8,8,7,728,14,27,0.59 
+2015,11,07,13:30,885,876,7,750,4,16,3,12,1,4,885,5,16,0.40 
+2015,11,07,13:30,876,885,0,750,16,3,13,2,3,1,885,7,19,0.34 

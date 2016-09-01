@@ -1,2 +1,2 @@
-2016,03,24,06:50,Insomnia,Thirdpupil,overpass,Razer Rising Stars NA League Q..,8,16,6,9,2,7,Third pupil,14,14,0.95 
-2016,03,24,03:05,SYG,Thirdpupil,train,Razer Rising Stars NA League Q..,7,16,7,8,0,8,Third pupil,19,12,1.23 
+2016,03,24,06:50,576,577,4,621,8,16,6,9,2,7,577,14,14,0.95 
+2016,03,24,03:05,582,577,2,621,7,16,7,8,0,8,577,19,12,1.23 

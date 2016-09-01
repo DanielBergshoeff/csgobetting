@@ -1,36 +1,36 @@
-2016,05,18,22:25,Millenium,ImperioMultimedia,dust2,xfunction Challenge,16,8,13,2,3,6,Imperio Multimedia,12,19,0.66 
-2016,05,18,22:25,Millenium,ImperioMultimedia,inferno,xfunction Challenge,16,2,13,2,3,0,Imperio Multimedia,8,17,0.45 
-2016,05,04,22:00,ExoticIsland,ImperioMultimedia,inferno,xfunction Challenge,4,16,1,14,3,2,Imperio Multimedia,10,11,0.84 
-2016,05,03,21:10,Alpha,ImperioMultimedia,overpass,xfunction Challenge,19,16,7,8,8,7,Imperio Multimedia,27,25,1.08 
-2016,04,09,14:45,AlienTech,ImperioMultimedia,inferno,AlienTech CS:GO League Finals,16,2,14,1,2,1,Imperio Multimedia,6,18,0.34 
-2016,04,09,14:45,AlienTech,ImperioMultimedia,cobblestone,AlienTech CS:GO League Finals,16,2,13,2,3,0,Imperio Multimedia,6,16,0.43 
-2016,04,08,11:20,k1ck,ImperioMultimedia,cobblestone,AlienTech CS:GO League Finals,16,5,12,3,4,2,Imperio Multimedia,13,19,0.71 
-2016,04,08,11:20,ImperioMultimedia,k1ck,cache,AlienTech CS:GO League Finals,2,16,2,13,0,3,Imperio Multimedia,12,16,0.68 
-2016,03,20,17:00,AlienTech,ImperioMultimedia,cobblestone,AlienTech CS:GO Invitational I,16,14,6,9,10,5,Imperio Multimedia,26,19,1.31 
-2016,03,20,17:00,AlienTech,ImperioMultimedia,cache,AlienTech CS:GO Invitational I,16,12,7,8,9,4,Imperio Multimedia,8,22,0.43 
-2016,03,20,17:00,ImperioMultimedia,AlienTech,inferno,AlienTech CS:GO Invitational I,9,16,6,9,3,7,Imperio Multimedia,19,18,1.05 
-2016,03,20,12:30,FTW.PRO,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,15,19,8,7,7,8,Imperio Multimedia,20,21,0.94 
-2016,03,20,12:30,FTW.PRO,ImperioMultimedia,inferno,AlienTech CS:GO Invitational I,10,16,7,8,3,8,Imperio Multimedia,21,17,1.16 
-2016,03,19,19:45,FTW.EvoPrinfor,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,12,16,8,7,4,9,Imperio Multimedia,27,13,1.51 
-2016,03,19,15:00,EasyMind,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,12,16,7,8,5,8,Imperio Multimedia,21,16,1.14 
-2016,03,19,13:30,ImperioMultimedia,Galatics,inferno,AlienTech CS:GO Invitational I,16,5,10,5,6,0,Imperio Multimedia,20,10,1.53 
-2016,03,16,23:15,gBots,ImperioMultimedia,mirage,AlienTech CS:GO League,16,5,11,4,5,1,Imperio Multimedia,2,20,0.12 
-2016,03,16,23:15,ImperioMultimedia,gBots,cobblestone,AlienTech CS:GO League,3,16,3,12,0,4,Imperio Multimedia,8,17,0.65 
-2016,03,14,22:00,ImperioMultimedia,k1ck,inferno,AlienTech CS:GO League,13,16,10,5,3,11,Imperio Multimedia,26,23,1.28 
-2016,03,14,22:00,k1ck,ImperioMultimedia,cobblestone,AlienTech CS:GO League,11,16,6,9,5,7,Imperio Multimedia,9,18,0.57 
-2016,03,06,23:15,ImperioMultimedia,Publiclir.se,cache,AlienTech CS:GO League,5,16,3,12,2,4,Imperio Multimedia,14,17,0.82 
-2016,03,06,23:15,ImperioMultimedia,Publiclir.se,dust2,AlienTech CS:GO League,4,16,4,11,0,5,Imperio Multimedia,21,17,1.43 
-2016,03,01,23:00,nerdRage,ImperioMultimedia,cache,AlienTech CS:GO League,16,5,12,3,4,2,Imperio Multimedia,14,16,0.97 
-2016,03,01,23:00,nerdRage,ImperioMultimedia,dust2,AlienTech CS:GO League,13,16,5,10,8,6,Imperio Multimedia,24,20,1.12 
-2016,02,25,00:00,AlienTech,ImperioMultimedia,overpass,AlienTech CS:GO League,16,9,9,6,7,3,Imperio Multimedia,16,17,0.89 
-2016,02,25,00:00,AlienTech,ImperioMultimedia,inferno,AlienTech CS:GO League,16,11,8,7,8,4,Imperio Multimedia,19,19,1.04 
-2016,02,21,23:00,k1ck,ImperioMultimedia,inferno,AlienTech CS:GO League,13,16,7,8,6,8,Imperio Multimedia,31,17,1.63 
-2016,02,21,23:00,k1ck,ImperioMultimedia,cache,AlienTech CS:GO League,16,3,12,3,4,0,Imperio Multimedia,6,17,0.38 
-2016,02,19,00:00,ImperioMultimedia,Galatics,inferno,AlienTech CS:GO League,4,16,4,11,0,5,Imperio Multimedia,11,17,0.67 
-2016,02,19,00:00,ImperioMultimedia,Galatics,cache,AlienTech CS:GO League,13,16,6,9,7,7,Imperio Multimedia,15,24,0.63 
-2015,11,20,23:00,FTW.G2A,Equilibrium,inferno,AlienTech AllStars,5,16,3,12,2,4,FTW.G2A,17,16,1.09 
-2015,11,20,22:00,RCTIC,FTW.G2A,dust2,AlienTech AllStars,16,8,10,5,6,3,FTW.G2A,17,18,1.06 
-2015,11,20,20:25,k1ck,FTW.G2A,dust2,AlienTech AllStars,16,8,12,3,4,5,FTW.G2A,13,16,0.80 
-2014,04,26,22:15,Panthers,AlienTech,dust2,1Life Fraglider Invitational,7,16,4,11,3,5,Panthers,15,22,0.76 
-2014,04,26,21:00,Panthers,NorthernGrade,dust2,1Life Fraglider Invitational,5,16,3,12,2,4,Panthers,13,17,0.78 
-2014,04,26,19:00,Panthers,SteelShock,inferno,1Life Fraglider Invitational,16,3,12,3,4,0,Panthers,21,6,1.85 
+2016,05,18,22:25,118,432,1,544,16,8,13,2,3,6,432,12,19,0.66 
+2016,05,18,22:25,118,432,6,544,16,2,13,2,3,0,432,8,17,0.45 
+2016,05,04,22:00,127,432,6,544,4,16,1,14,3,2,432,10,11,0.84 
+2016,05,03,21:10,233,432,4,544,19,16,7,8,8,7,432,27,25,1.08 
+2016,04,09,14:45,278,432,6,612,16,2,14,1,2,1,432,6,18,0.34 
+2016,04,09,14:45,278,432,14,612,16,2,13,2,3,0,432,6,16,0.43 
+2016,04,08,11:20,287,432,14,612,16,5,12,3,4,2,432,13,19,0.71 
+2016,04,08,11:20,432,287,7,612,2,16,2,13,0,3,432,12,16,0.68 
+2016,03,20,17:00,278,432,14,626,16,14,6,9,10,5,432,26,19,1.31 
+2016,03,20,17:00,278,432,7,626,16,12,7,8,9,4,432,8,22,0.43 
+2016,03,20,17:00,432,278,6,626,9,16,6,9,3,7,432,19,18,1.05 
+2016,03,20,12:30,300,432,1,626,15,19,8,7,7,8,432,20,21,0.94 
+2016,03,20,12:30,300,432,6,626,10,16,7,8,3,8,432,21,17,1.16 
+2016,03,19,19:45,592,432,1,626,12,16,8,7,4,9,432,27,13,1.51 
+2016,03,19,15:00,593,432,1,626,12,16,7,8,5,8,432,21,16,1.14 
+2016,03,19,13:30,432,288,6,626,16,5,10,5,6,0,432,20,10,1.53 
+2016,03,16,23:15,281,432,0,630,16,5,11,4,5,1,432,2,20,0.12 
+2016,03,16,23:15,432,281,14,630,3,16,3,12,0,4,432,8,17,0.65 
+2016,03,14,22:00,432,287,6,630,13,16,10,5,3,11,432,26,23,1.28 
+2016,03,14,22:00,287,432,14,630,11,16,6,9,5,7,432,9,18,0.57 
+2016,03,06,23:15,432,517,7,630,5,16,3,12,2,4,432,14,17,0.82 
+2016,03,06,23:15,432,517,1,630,4,16,4,11,0,5,432,21,17,1.43 
+2016,03,01,23:00,458,432,7,630,16,5,12,3,4,2,432,14,16,0.97 
+2016,03,01,23:00,458,432,1,630,13,16,5,10,8,6,432,24,20,1.12 
+2016,02,25,00:00,278,432,4,630,16,9,9,6,7,3,432,16,17,0.89 
+2016,02,25,00:00,278,432,6,630,16,11,8,7,8,4,432,19,19,1.04 
+2016,02,21,23:00,287,432,6,630,13,16,7,8,6,8,432,31,17,1.63 
+2016,02,21,23:00,287,432,7,630,16,3,12,3,4,0,432,6,17,0.38 
+2016,02,19,00:00,432,288,6,630,4,16,4,11,0,5,432,11,17,0.67 
+2016,02,19,00:00,432,288,7,630,13,16,6,9,7,7,432,15,24,0.63 
+2015,11,20,23:00,847,848,6,736,5,16,3,12,2,4,847,17,16,1.09 
+2015,11,20,22:00,360,847,1,736,16,8,10,5,6,3,847,17,18,1.06 
+2015,11,20,20:25,287,847,1,736,16,8,12,3,4,5,847,13,16,0.80 
+2014,04,26,22:15,1087,278,1,1074,7,16,4,11,3,5,1087,15,22,0.76 
+2014,04,26,21:00,1087,1262,1,1074,5,16,3,12,2,4,1087,13,17,0.78 
+2014,04,26,19:00,1087,1263,6,1074,16,3,12,3,4,0,1087,21,6,1.85 

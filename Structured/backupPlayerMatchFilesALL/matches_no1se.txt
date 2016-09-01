@@ -1,5 +1,5 @@
-2015,11,08,18:30,LCStaff,99damage.deStaff,mirage,Virtus.pro Staff Cup #3,16,3,12,3,4,0,99damage.de Staff,8,17,0.47 
-2015,11,08,18:30,LCStaff,99damage.deStaff,cobblestone,Virtus.pro Staff Cup #3,16,13,6,9,10,4,99damage.de Staff,25,20,1.23 
-2015,11,08,18:30,LCStaff,99damage.deStaff,cache,Virtus.pro Staff Cup #3,14,16,6,9,8,7,99damage.de Staff,17,24,0.71 
-2015,11,07,12:00,99damage.deStaff,PGLStaff,inferno,Virtus.pro Staff Cup #3,16,5,10,5,6,0,99damage.de Staff,23,8,1.70 
-2015,11,07,12:00,99damage.deStaff,PGLStaff,cache,Virtus.pro Staff Cup #3,16,2,13,2,3,0,99damage.de Staff,16,11,1.29 
+2015,11,08,18:30,863,874,0,750,16,3,12,3,4,0,874,8,17,0.47 
+2015,11,08,18:30,863,874,14,750,16,13,6,9,10,4,874,25,20,1.23 
+2015,11,08,18:30,863,874,7,750,14,16,6,9,8,7,874,17,24,0.71 
+2015,11,07,12:00,874,886,6,750,16,5,10,5,6,0,874,23,8,1.70 
+2015,11,07,12:00,874,886,7,750,16,2,13,2,3,0,874,16,11,1.29 

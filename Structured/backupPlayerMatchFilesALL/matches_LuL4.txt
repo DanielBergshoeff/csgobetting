@@ -1,47 +1,47 @@
-2016,06,15,22:15,Alpha,AlienTech,dust2,Game On CS:GO June Invitationa..,16,11,10,5,6,6,AlienTech,10,23,0.47 
-2016,06,15,22:15,Alpha,AlienTech,train,Game On CS:GO June Invitationa..,16,6,9,6,7,0,AlienTech,13,19,0.84 
-2016,06,13,19:00,GamersLeague,AlienTech,dust2,Game On CS:GO June Invitationa..,7,16,7,8,0,8,AlienTech,21,12,1.46 
-2016,06,13,19:00,AlienTech,GamersLeague,mirage,Game On CS:GO June Invitationa..,16,11,10,5,6,6,AlienTech,19,17,1.02 
-2016,05,31,21:25,AlienTech,Alpha,mirage,xfunction Challenge,10,16,6,9,4,7,AlienTech,21,17,1.20 
-2016,05,31,21:25,Alpha,AlienTech,cobblestone,xfunction Challenge,16,5,12,3,4,2,AlienTech,18,17,1.15 
-2016,05,29,16:40,AlienTech,AlienTech,mirage,AlienTech CS:GO Invitational I..,5,16,5,10,0,6,AlienTech,13,14,0.90 
-2016,05,29,16:40,AlienTech,AlienTech,cobblestone,AlienTech CS:GO Invitational I..,3,16,3,12,0,4,AlienTech,18,9,1.53 
-2016,05,29,16:40,AlienTech,AlienTech,overpass,AlienTech CS:GO Invitational I..,16,7,10,5,6,2,AlienTech,12,13,0.89 
-2016,05,29,13:00,AlienTech,Eyeshield,cobblestone,AlienTech CS:GO Invitational I..,16,9,9,6,7,3,AlienTech,18,17,1.00 
-2016,05,29,13:00,AlienTech,Eyeshield,dust2,AlienTech CS:GO Invitational I..,16,11,7,8,9,3,AlienTech,24,18,1.23 
-2016,05,24,22:00,AlienTech,Rasta,train,xfunction Challenge,16,2,13,2,3,0,AlienTech,19,10,1.47 
-2016,05,24,22:00,AlienTech,Rasta,mirage,xfunction Challenge,16,5,11,4,5,1,AlienTech,13,11,1.02 
-2016,05,23,19:00,Epsilon,AlienTech,train,xfunction Challenge,16,11,9,6,7,5,AlienTech,21,20,1.08 
-2016,05,06,20:00,AlienTech,RedLine,mirage,xfunction Challenge,16,14,12,3,4,11,AlienTech,21,18,1.10 
-2016,03,12,23:45,DEMONIO,ApokaAcademics,cobblestone,Razer Rising Stars South Ameri..,21,17,6,9,9,6,Apoka Academics,35,26,1.35 
-2016,01,10,15:00,AlienTech,g3x,inferno,MAX5 Invitational,16,7,14,1,2,6,AlienTech,26,17,1.61 
-2016,01,10,15:00,g3x,AlienTech,dust2,MAX5 Invitational,19,16,7,8,8,7,AlienTech,31,25,1.17 
-2016,01,10,15:00,g3x,AlienTech,mirage,MAX5 Invitational,14,16,4,11,10,5,AlienTech,21,23,0.91 
-2016,01,09,19:30,AlienTech,Luminosity,train,MAX5 Invitational,8,16,7,8,1,8,AlienTech,11,17,0.62 
-2016,01,09,19:30,Luminosity,AlienTech,mirage,MAX5 Invitational,16,1,14,1,2,0,AlienTech,3,17,0.15 
-2016,01,08,18:15,NTN,AlienTech,mirage,MAX5 Invitational,3,16,3,12,0,4,AlienTech,11,8,1.08 
-2016,01,07,20:15,KeydStars,AlienTech,cache,MAX5 Invitational,16,8,10,5,6,3,AlienTech,21,21,1.05 
-2016,01,07,00:00,Gathers,AlienTech,cache,MAX5 Invitational,6,16,4,11,2,5,AlienTech,24,11,1.79 
-2016,01,06,16:30,GamesAcademy,AlienTech,cobblestone,MAX5 Invitational,14,16,6,9,8,7,AlienTech,28,23,1.24 
-2015,11,21,16:00,RCTIC,KeydStars,train,AlienTech AllStars,16,5,11,4,5,1,Keyd Stars,8,19,0.40 
-2015,11,21,16:00,KeydStars,RCTIC,overpass,AlienTech AllStars,16,8,10,5,6,3,Keyd Stars,23,11,1.48 
-2015,11,21,16:00,KeydStars,RCTIC,mirage,AlienTech AllStars,13,16,8,7,5,9,Keyd Stars,23,22,1.02 
-2015,11,20,14:10,Epsilon,KeydStars,train,AlienTech AllStars,12,16,4,11,8,5,Keyd Stars,13,22,0.60 
-2015,11,20,12:45,IHAVEADREAM,KeydStars,cobblestone,AlienTech AllStars,9,16,2,13,7,3,Keyd Stars,16,19,0.89 
-2015,11,20,11:30,KeydStars,uPGaming.hellfive,mirage,AlienTech AllStars,16,1,14,1,2,0,Keyd Stars,11,7,1.16 
-2015,11,16,19:30,KeydStars,Virtus.pro,mirage,BenQ All-Star Showmatch #7,14,16,9,6,5,10,Keyd Stars,25,25,1.01 
-2015,11,16,19:30,KeydStars,Virtus.pro,train,BenQ All-Star Showmatch #7,2,16,2,13,0,3,Keyd Stars,5,16,0.32 
-2015,10,25,17:40,AlienTech,KeydStars,mirage,AlienTech CS:GO TiTans I Final..,16,12,11,4,5,8,Keyd Stars,24,19,1.33 
-2015,10,25,17:40,AlienTech,KeydStars,train,AlienTech CS:GO TiTans I Final..,26,28,7,8,8,7,Keyd Stars,40,39,1.01 
-2015,10,25,17:40,AlienTech,KeydStars,inferno,AlienTech CS:GO TiTans I Final..,19,16,5,10,10,5,Keyd Stars,24,25,0.97 
-2015,10,25,12:00,KeydStars,BulletsRage.Pro,mirage,AlienTech CS:GO TiTans I Final..,16,14,8,7,8,7,Keyd Stars,26,19,1.22 
-2015,10,25,12:00,BulletsRage.Pro,KeydStars,overpass,AlienTech CS:GO TiTans I Final..,14,16,5,10,9,6,Keyd Stars,23,21,1.10 
-2015,10,25,12:00,BulletsRage.Pro,KeydStars,inferno,AlienTech CS:GO TiTans I Final..,22,19,12,3,3,12,Keyd Stars,23,31,0.72 
-2015,10,24,20:30,AlienTech,KeydStars,mirage,AlienTech CS:GO TiTans I Final..,25,22,9,6,6,9,Keyd Stars,37,37,1.03 
-2015,10,24,20:30,KeydStars,AlienTech,inferno,AlienTech CS:GO TiTans I Final..,15,19,7,8,8,7,Keyd Stars,22,23,0.94 
-2015,10,24,20:30,AlienTech,KeydStars,train,AlienTech CS:GO TiTans I Final..,12,16,6,9,6,7,Keyd Stars,20,18,1.16 
-2015,10,24,11:30,KeydStars,k1ck,mirage,AlienTech CS:GO TiTans I Final..,16,5,12,3,4,2,Keyd Stars,22,11,1.51 
-2015,10,24,11:30,k1ck,KeydStars,cobblestone,AlienTech CS:GO TiTans I Final..,7,16,3,12,4,4,Keyd Stars,18,11,1.31 
-2015,10,20,23:00,uPGaming.hellfive,KeydStars,dust2,AlienTech CS:GO TiTans I,8,16,7,8,1,8,Keyd Stars,25,10,1.66 
-2015,10,19,22:15,FTW.EvoPrinfor,KeydStars,inferno,AlienTech CS:GO TiTans I,9,16,8,7,1,9,Keyd Stars,26,14,1.51 
-2015,10,14,22:00,KeydStars,uPGaming.hellfive,cache,AlienTech CS:GO TiTans I,11,16,6,9,5,7,Keyd Stars,26,20,1.47 
+2016,06,15,22:15,233,278,1,549,16,11,10,5,6,6,278,10,23,0.47 
+2016,06,15,22:15,233,278,2,549,16,6,9,6,7,0,278,13,19,0.84 
+2016,06,13,19:00,359,278,1,549,7,16,7,8,0,8,278,21,12,1.46 
+2016,06,13,19:00,278,359,0,549,16,11,10,5,6,6,278,19,17,1.02 
+2016,05,31,21:25,278,233,0,544,10,16,6,9,4,7,278,21,17,1.20 
+2016,05,31,21:25,233,278,14,544,16,5,12,3,4,2,278,18,17,1.15 
+2016,05,29,16:40,278,278,0,559,5,16,5,10,0,6,278,13,14,0.90 
+2016,05,29,16:40,278,278,14,559,3,16,3,12,0,4,278,18,9,1.53 
+2016,05,29,16:40,278,278,4,559,16,7,10,5,6,2,278,12,13,0.89 
+2016,05,29,13:00,278,395,14,559,16,9,9,6,7,3,278,18,17,1.00 
+2016,05,29,13:00,278,395,1,559,16,11,7,8,9,3,278,24,18,1.23 
+2016,05,24,22:00,278,417,2,544,16,2,13,2,3,0,278,19,10,1.47 
+2016,05,24,22:00,278,417,0,544,16,5,11,4,5,1,278,13,11,1.02 
+2016,05,23,19:00,52,278,2,544,16,11,9,6,7,5,278,21,20,1.08 
+2016,05,06,20:00,278,434,0,544,16,14,12,3,4,11,278,21,18,1.10 
+2016,03,12,23:45,616,619,14,548,21,17,6,9,9,6,619,35,26,1.35 
+2016,01,10,15:00,278,6,6,677,16,7,14,1,2,6,278,26,17,1.61 
+2016,01,10,15:00,6,278,1,677,19,16,7,8,8,7,278,31,25,1.17 
+2016,01,10,15:00,6,278,0,677,14,16,4,11,10,5,278,21,23,0.91 
+2016,01,09,19:30,278,70,2,677,8,16,7,8,1,8,278,11,17,0.62 
+2016,01,09,19:30,70,278,0,677,16,1,14,1,2,0,278,3,17,0.15 
+2016,01,08,18:15,716,278,0,677,3,16,3,12,0,4,278,11,8,1.08 
+2016,01,07,20:15,404,278,7,677,16,8,10,5,6,3,278,21,21,1.05 
+2016,01,07,00:00,600,278,7,677,6,16,4,11,2,5,278,24,11,1.79 
+2016,01,06,16:30,702,278,14,677,14,16,6,9,8,7,278,28,23,1.24 
+2015,11,21,16:00,360,404,2,736,16,5,11,4,5,1,404,8,19,0.40 
+2015,11,21,16:00,404,360,4,736,16,8,10,5,6,3,404,23,11,1.48 
+2015,11,21,16:00,404,360,0,736,13,16,8,7,5,9,404,23,22,1.02 
+2015,11,20,14:10,52,404,2,736,12,16,4,11,8,5,404,13,22,0.60 
+2015,11,20,12:45,851,404,14,736,9,16,2,13,7,3,404,16,19,0.89 
+2015,11,20,11:30,404,850,0,736,16,1,14,1,2,0,404,11,7,1.16 
+2015,11,16,19:30,404,8,0,747,14,16,9,6,5,10,404,25,25,1.01 
+2015,11,16,19:30,404,8,2,747,2,16,2,13,0,3,404,5,16,0.32 
+2015,10,25,17:40,278,404,0,772,16,12,11,4,5,8,404,24,19,1.33 
+2015,10,25,17:40,278,404,2,772,26,28,7,8,8,7,404,40,39,1.01 
+2015,10,25,17:40,278,404,6,772,19,16,5,10,10,5,404,24,25,0.97 
+2015,10,25,12:00,404,901,0,772,16,14,8,7,8,7,404,26,19,1.22 
+2015,10,25,12:00,901,404,4,772,14,16,5,10,9,6,404,23,21,1.10 
+2015,10,25,12:00,901,404,6,772,22,19,12,3,3,12,404,23,31,0.72 
+2015,10,24,20:30,278,404,0,772,25,22,9,6,6,9,404,37,37,1.03 
+2015,10,24,20:30,404,278,6,772,15,19,7,8,8,7,404,22,23,0.94 
+2015,10,24,20:30,278,404,2,772,12,16,6,9,6,7,404,20,18,1.16 
+2015,10,24,11:30,404,287,0,772,16,5,12,3,4,2,404,22,11,1.51 
+2015,10,24,11:30,287,404,14,772,7,16,3,12,4,4,404,18,11,1.31 
+2015,10,20,23:00,850,404,1,778,8,16,7,8,1,8,404,25,10,1.66 
+2015,10,19,22:15,592,404,6,778,9,16,8,7,1,9,404,26,14,1.51 
+2015,10,14,22:00,404,850,7,778,11,16,6,9,5,7,404,26,20,1.47 

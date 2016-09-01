@@ -1,9 +1,0 @@
-2016,03,26,17:15,Secretfe,Exertusfe,inferno,Copenhagen Games 2016 female,16,9,8,7,8,2,Exertus fe,19,20,0.98 
-2016,03,26,17:15,Exertusfe,Secretfe,train,Copenhagen Games 2016 female,14,16,7,8,7,8,Exertus fe,17,24,0.73 
-2016,03,26,14:30,LGBfe,Exertusfe,cache,Copenhagen Games 2016 female,16,19,9,6,6,9,Exertus fe,29,24,1.15 
-2016,03,26,14:30,Exertusfe,LGBfe,inferno,Copenhagen Games 2016 female,16,7,12,3,4,4,Exertus fe,15,14,0.94 
-2016,03,25,16:30,Exertusfe,LDLCfe,mirage,Copenhagen Games 2016 female,16,11,11,4,5,7,Exertus fe,17,14,1.07 
-2016,03,25,16:30,Exertusfe,LDLCfe,inferno,Copenhagen Games 2016 female,16,10,9,6,7,4,Exertus fe,16,18,0.85 
-2016,03,25,16:30,LDLCfe,Exertusfe,train,Copenhagen Games 2016 female,16,13,8,7,8,6,Exertus fe,21,19,1.01 
-2016,03,25,13:00,Planetkeyfe,Exertusfe,cobblestone,Copenhagen Games 2016 female,8,16,7,8,1,8,Exertus fe,20,15,1.32 
-2016,03,25,13:00,Planetkeyfe,Exertusfe,cache,Copenhagen Games 2016 female,5,16,3,12,2,4,Exertus fe,28,12,2.07 

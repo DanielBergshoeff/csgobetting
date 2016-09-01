@@ -1,23 +1,23 @@
-2016,07,17,14:55,Reasonfe,Heaven,cache,StarLadder Female Stars Champi..,16,8,8,7,8,1,Heaven,13,15,0.90 
-2016,07,17,14:55,Reasonfe,Heaven,cobblestone,StarLadder Female Stars Champi..,16,11,6,9,10,2,Heaven,25,21,1.30 
-2016,07,16,18:45,Heaven,Secretfe,mirage,StarLadder Female Stars Champi..,17,19,7,8,8,7,Heaven,26,25,1.11 
-2016,07,16,18:45,Heaven,Secretfe,train,StarLadder Female Stars Champi..,14,16,8,7,6,9,Heaven,19,20,0.92 
-2016,07,16,18:45,Heaven,Secretfe,cache,StarLadder Female Stars Champi..,16,11,5,10,11,1,Heaven,25,16,1.30 
-2016,07,16,12:15,Reasonfe,Heaven,cache,StarLadder Female Stars Champi..,12,16,7,8,5,8,Heaven,23,15,1.29 
-2016,07,16,12:15,Reasonfe,Heaven,train,StarLadder Female Stars Champi..,14,16,10,5,4,11,Heaven,33,17,1.70 
-2016,03,26,17:15,Secretfe,Exertusfe,inferno,Copenhagen Games 2016 female,16,9,8,7,8,2,Exertus fe,12,18,0.72 
-2016,03,26,17:15,Exertusfe,Secretfe,train,Copenhagen Games 2016 female,14,16,7,8,7,8,Exertus fe,20,24,0.78 
-2016,03,26,14:30,LGBfe,Exertusfe,cache,Copenhagen Games 2016 female,16,19,9,6,6,9,Exertus fe,39,21,1.64 
-2016,03,26,14:30,Exertusfe,LGBfe,inferno,Copenhagen Games 2016 female,16,7,12,3,4,4,Exertus fe,17,13,1.07 
-2016,03,25,16:30,Exertusfe,LDLCfe,mirage,Copenhagen Games 2016 female,16,11,11,4,5,7,Exertus fe,29,15,1.60 
-2016,03,25,16:30,Exertusfe,LDLCfe,inferno,Copenhagen Games 2016 female,16,10,9,6,7,4,Exertus fe,22,14,1.31 
-2016,03,25,16:30,LDLCfe,Exertusfe,train,Copenhagen Games 2016 female,16,13,8,7,8,6,Exertus fe,20,21,0.92 
-2016,03,25,13:00,Planetkeyfe,Exertusfe,cobblestone,Copenhagen Games 2016 female,8,16,7,8,1,8,Exertus fe,19,15,1.16 
-2016,03,25,13:00,Planetkeyfe,Exertusfe,cache,Copenhagen Games 2016 female,5,16,3,12,2,4,Exertus fe,12,13,0.79 
-2016,03,05,22:30,Exertusfe,LDLCfe,dust2,Intel Challenge Katowice 2016,3,16,3,12,0,4,Exertus fe,10,16,0.63 
-2016,03,05,20:30,CLGRed,Exertusfe,overpass,Intel Challenge Katowice 2016,16,5,11,4,5,1,Exertus fe,10,18,0.62 
-2016,03,05,18:40,Exertusfe,LDLCfe,train,Intel Challenge Katowice 2016,16,13,9,6,7,7,Exertus fe,11,17,0.69 
-2014,09,21,21:35,Epsilonfe,OverGaming,mirage,Hitbox Arena Championship 3,13,16,10,5,3,11,Epsilon fe,18,21,0.88 
-2014,09,21,21:35,Epsilonfe,OverGaming,dust2,Hitbox Arena Championship 3,4,16,3,12,1,4,Epsilon fe,6,19,0.32 
-2014,09,18,21:30,LondonC,Epsilonfe,dust2,Hitbox Arena Championship 3,16,2,14,1,2,1,Epsilon fe,7,17,0.37 
-2014,09,18,21:30,Epsilonfe,LondonC,mirage,Hitbox Arena Championship 3,5,16,2,13,3,3,Epsilon fe,7,21,0.33 
+2016,07,17,14:55,271,272,7,519,16,8,8,7,8,1,272,13,15,0.90 
+2016,07,17,14:55,271,272,14,519,16,11,6,9,10,2,272,25,21,1.30 
+2016,07,16,18:45,272,261,0,519,17,19,7,8,8,7,272,26,25,1.11 
+2016,07,16,18:45,272,261,2,519,14,16,8,7,6,9,272,19,20,0.92 
+2016,07,16,18:45,272,261,7,519,16,11,5,10,11,1,272,25,16,1.30 
+2016,07,16,12:15,271,272,7,519,12,16,7,8,5,8,272,23,15,1.29 
+2016,07,16,12:15,271,272,2,519,14,16,10,5,4,11,272,33,17,1.70 
+2016,03,26,17:15,261,511,6,620,16,9,8,7,8,2,511,12,18,0.72 
+2016,03,26,17:15,511,261,2,620,14,16,7,8,7,8,511,20,24,0.78 
+2016,03,26,14:30,513,511,7,620,16,19,9,6,6,9,511,39,21,1.64 
+2016,03,26,14:30,511,513,6,620,16,7,12,3,4,4,511,17,13,1.07 
+2016,03,25,16:30,511,514,0,620,16,11,11,4,5,7,511,29,15,1.60 
+2016,03,25,16:30,511,514,6,620,16,10,9,6,7,4,511,22,14,1.31 
+2016,03,25,16:30,514,511,2,620,16,13,8,7,8,6,511,20,21,0.92 
+2016,03,25,13:00,527,511,14,620,8,16,7,8,1,8,511,19,15,1.16 
+2016,03,25,13:00,527,511,7,620,5,16,3,12,2,4,511,12,13,0.79 
+2016,03,05,22:30,511,514,1,636,3,16,3,12,0,4,511,10,16,0.63 
+2016,03,05,20:30,510,511,4,636,16,5,11,4,5,1,511,10,18,0.62 
+2016,03,05,18:40,511,514,2,636,16,13,9,6,7,7,511,11,17,0.69 
+2014,09,21,21:35,1047,944,0,997,13,16,10,5,3,11,1047,18,21,0.88 
+2014,09,21,21:35,1047,944,1,997,4,16,3,12,1,4,1047,6,19,0.32 
+2014,09,18,21:30,776,1047,1,997,16,2,14,1,2,1,1047,7,17,0.37 
+2014,09,18,21:30,1047,776,0,997,5,16,2,13,3,3,1047,7,21,0.33 

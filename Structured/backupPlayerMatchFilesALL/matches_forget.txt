@@ -1,41 +1,41 @@
-2016,07,22,09:15,FIVE,EP,cache,Pro Gamer League 2016 Summer F..,15,15,7,8,8,7,EP,23,21,1.14 
-2016,07,22,05:45,X,EP,overpass,Pro Gamer League 2016 Summer F..,16,0,15,0,1,0,EP,8,16,0.45 
-2016,07,22,04:00,VG.CyberZen,EP,cache,Pro Gamer League 2016 Summer F..,16,2,13,2,3,0,EP,11,16,0.67 
-2016,04,24,15:30,FIVE,AllGamers,mirage,Pro Gamers League 2016 Spring,16,7,13,2,3,5,AllGamers,14,20,0.77 
-2016,04,24,15:30,FIVE,AllGamers,inferno,Pro Gamers League 2016 Spring,16,8,8,7,8,1,AllGamers,15,22,0.76 
-2016,04,24,15:30,AllGamers,FIVE,cache,Pro Gamers League 2016 Spring,16,11,8,7,8,4,AllGamers,19,18,1.01 
-2016,04,24,11:40,BornOfFire,AllGamers,inferno,Pro Gamers League 2016 Spring,16,5,10,5,6,0,AllGamers,10,18,0.60 
-2016,04,24,11:40,AllGamers,BornOfFire,dust2,Pro Gamers League 2016 Spring,13,16,7,8,6,8,AllGamers,30,21,1.45 
-2016,04,23,13:30,AllGamers,eFuture,cache,Pro Gamers League 2016 Spring,16,10,11,4,5,6,AllGamers,31,13,1.85 
-2016,04,23,13:30,AllGamers,eFuture,cobblestone,Pro Gamers League 2016 Spring,16,11,10,5,6,6,AllGamers,19,18,1.05 
-2016,01,10,09:00,Wings,TyLoo,inferno,Fulcrum Gamers League Finals,17,19,10,5,5,10,Wings,28,26,1.10 
-2016,01,10,09:00,TyLoo,Wings,mirage,Fulcrum Gamers League Finals,16,8,13,2,3,6,Wings,17,19,0.91 
-2016,01,10,06:30,BornOfFire,Wings,mirage,Fulcrum Gamers League Finals,13,16,11,4,2,12,Wings,17,22,0.81 
-2016,01,10,06:30,Wings,BornOfFire,cache,Fulcrum Gamers League Finals,16,2,13,2,3,0,Wings,22,11,1.69 
-2016,01,09,11:00,TheMongolz,Wings,inferno,Fulcrum Gamers League Finals,4,16,4,11,0,5,Wings,23,11,1.65 
-2016,01,09,11:00,Wings,TheMongolz,cache,Fulcrum Gamers League Finals,16,14,4,11,12,3,Wings,23,23,1.06 
-2016,01,09,06:00,BornOfFire,Wings,cobblestone,Fulcrum Gamers League Finals,16,13,12,3,4,10,Wings,24,21,1.10 
-2016,01,09,06:00,BornOfFire,Wings,inferno,Fulcrum Gamers League Finals,5,16,5,10,0,6,Wings,13,14,0.98 
-2016,01,09,06:00,BornOfFire,Wings,cache,Fulcrum Gamers League Finals,16,13,7,8,9,5,Wings,16,25,0.61 
-2015,12,19,13:30,AllGamers,Wings,overpass,SL i-League StarSeries XIV Chi..,12,16,7,8,5,8,AllGamers,24,22,1.16 
-2015,12,19,13:30,Wings,AllGamers,cache,SL i-League StarSeries XIV Chi..,11,16,10,5,1,11,AllGamers,24,19,1.16 
-2015,12,19,13:30,AllGamers,Wings,mirage,SL i-League StarSeries XIV Chi..,2,16,2,13,0,3,AllGamers,13,17,0.87 
-2015,12,19,06:00,GANK,AllGamers,overpass,SL i-League StarSeries XIV Chi..,10,16,6,9,4,7,AllGamers,13,17,0.74 
-2015,12,19,06:00,AllGamers,GANK,mirage,SL i-League StarSeries XIV Chi..,13,16,5,10,8,6,AllGamers,26,23,1.12 
-2015,12,19,06:00,GANK,AllGamers,cache,SL i-League StarSeries XIV Chi..,6,16,3,12,3,4,AllGamers,21,12,1.38 
-2015,12,18,10:30,AllGamers,CyberZen,mirage,SL i-League StarSeries XIV Chi..,6,16,6,9,0,7,AllGamers,17,19,0.91 
-2015,12,18,10:30,CyberZen,AllGamers,inferno,SL i-League StarSeries XIV Chi..,16,14,9,6,7,8,AllGamers,18,24,0.78 
-2015,12,17,08:30,GANK,AllGamers,mirage,SL i-League StarSeries XIV Chi..,10,16,7,8,3,8,AllGamers,16,19,0.89 
-2015,12,17,08:30,AllGamers,GANK,cache,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,AllGamers,21,7,1.89 
-2015,12,12,13:40,AllGamers,TheMongolz,mirage,Fulcrum Gamers League,14,16,9,6,5,10,AllGamers,32,23,1.43 
-2015,12,12,13:40,TheMongolz,AllGamers,inferno,Fulcrum Gamers League,13,16,3,12,10,4,AllGamers,22,21,0.98 
-2015,12,12,12:00,AllGamers,FOF,cache,Fulcrum Gamers League,16,3,13,2,3,1,AllGamers,13,9,1.09 
-2015,12,12,12:00,AllGamers,FOF,inferno,Fulcrum Gamers League,16,4,11,4,5,0,AllGamers,20,8,1.59 
-2014,10,04,04:00,TyLoo,Nface.GM,nuke,ESWC 2014 China LAN Qualifier,12,16,6,9,6,7,TyLoo,23,19,1.07 
-2014,10,04,04:00,TyLoo,Nface.GM,train,ESWC 2014 China LAN Qualifier,8,16,6,9,2,7,TyLoo,13,22,0.59 
-2014,10,04,04:00,Nface.GM,TyLoo,inferno,ESWC 2014 China LAN Qualifier,9,16,7,8,2,8,TyLoo,16,14,1.03 
-2014,10,03,14:00,TyLoo,ZZCY,nuke,ESWC 2014 China LAN Qualifier,16,7,11,4,5,3,TyLoo,15,9,1.12 
-2014,10,03,14:00,TyLoo,ZZCY,mirage,ESWC 2014 China LAN Qualifier,16,6,12,3,4,3,TyLoo,17,14,1.05 
-2014,10,03,09:25,TyLoo,pow,nuke,ESWC 2014 China LAN Qualifier,23,25,7,8,8,7,TyLoo,31,33,0.98 
-2014,10,03,09:25,TyLoo,pow,cache,ESWC 2014 China LAN Qualifier,16,14,11,4,5,10,TyLoo,20,21,0.90 
-2014,10,03,09:25,TyLoo,pow,inferno,ESWC 2014 China LAN Qualifier,7,16,4,11,3,5,TyLoo,11,17,0.69 
+2016,07,22,09:15,185,208,7,512,15,15,7,8,8,7,208,23,21,1.14 
+2016,07,22,05:45,46,208,4,512,16,0,15,0,1,0,208,8,16,0.45 
+2016,07,22,04:00,35,208,7,512,16,2,13,2,3,0,208,11,16,0.67 
+2016,04,24,15:30,185,173,0,601,16,7,13,2,3,5,173,14,20,0.77 
+2016,04,24,15:30,185,173,6,601,16,8,8,7,8,1,173,15,22,0.76 
+2016,04,24,15:30,173,185,7,601,16,11,8,7,8,4,173,19,18,1.01 
+2016,04,24,11:40,179,173,6,601,16,5,10,5,6,0,173,10,18,0.60 
+2016,04,24,11:40,173,179,1,601,13,16,7,8,6,8,173,30,21,1.45 
+2016,04,23,13:30,173,237,7,601,16,10,11,4,5,6,173,31,13,1.85 
+2016,04,23,13:30,173,237,14,601,16,11,10,5,6,6,173,19,18,1.05 
+2016,01,10,09:00,501,34,6,680,17,19,10,5,5,10,501,28,26,1.10 
+2016,01,10,09:00,34,501,0,680,16,8,13,2,3,6,501,17,19,0.91 
+2016,01,10,06:30,179,501,0,680,13,16,11,4,2,12,501,17,22,0.81 
+2016,01,10,06:30,501,179,7,680,16,2,13,2,3,0,501,22,11,1.69 
+2016,01,09,11:00,150,501,6,680,4,16,4,11,0,5,501,23,11,1.65 
+2016,01,09,11:00,501,150,7,680,16,14,4,11,12,3,501,23,23,1.06 
+2016,01,09,06:00,179,501,14,680,16,13,12,3,4,10,501,24,21,1.10 
+2016,01,09,06:00,179,501,6,680,5,16,5,10,0,6,501,13,14,0.98 
+2016,01,09,06:00,179,501,7,680,16,13,7,8,9,5,501,16,25,0.61 
+2015,12,19,13:30,173,501,4,688,12,16,7,8,5,8,173,24,22,1.16 
+2015,12,19,13:30,501,173,7,688,11,16,10,5,1,11,173,24,19,1.16 
+2015,12,19,13:30,173,501,0,688,2,16,2,13,0,3,173,13,17,0.87 
+2015,12,19,06:00,737,173,4,688,10,16,6,9,4,7,173,13,17,0.74 
+2015,12,19,06:00,173,737,0,688,13,16,5,10,8,6,173,26,23,1.12 
+2015,12,19,06:00,737,173,7,688,6,16,3,12,3,4,173,21,12,1.38 
+2015,12,18,10:30,173,697,0,688,6,16,6,9,0,7,173,17,19,0.91 
+2015,12,18,10:30,697,173,6,688,16,14,9,6,7,8,173,18,24,0.78 
+2015,12,17,08:30,737,173,0,688,10,16,7,8,3,8,173,16,19,0.89 
+2015,12,17,08:30,173,737,7,688,16,2,13,2,3,0,173,21,7,1.89 
+2015,12,12,13:40,173,150,0,707,14,16,9,6,5,10,173,32,23,1.43 
+2015,12,12,13:40,150,173,6,707,13,16,3,12,10,4,173,22,21,0.98 
+2015,12,12,12:00,173,767,7,707,16,3,13,2,3,1,173,13,9,1.09 
+2015,12,12,12:00,173,767,6,707,16,4,11,4,5,0,173,20,8,1.59 
+2014,10,04,04:00,34,1196,5,1020,12,16,6,9,6,7,34,23,19,1.07 
+2014,10,04,04:00,34,1196,2,1020,8,16,6,9,2,7,34,13,22,0.59 
+2014,10,04,04:00,1196,34,6,1020,9,16,7,8,2,8,34,16,14,1.03 
+2014,10,03,14:00,34,226,5,1020,16,7,11,4,5,3,34,15,9,1.12 
+2014,10,03,14:00,34,226,0,1020,16,6,12,3,4,3,34,17,14,1.05 
+2014,10,03,09:25,34,795,5,1020,23,25,7,8,8,7,34,31,33,0.98 
+2014,10,03,09:25,34,795,7,1020,16,14,11,4,5,10,34,20,21,0.90 
+2014,10,03,09:25,34,795,6,1020,7,16,4,11,3,5,34,11,17,0.69 

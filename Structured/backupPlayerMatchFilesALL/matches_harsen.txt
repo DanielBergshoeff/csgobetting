@@ -1,22 +1,22 @@
-2016,04,16,17:00,GG1337,XPC,mirage,PGL National Division Season 1..,6,16,6,9,0,7,GG1337,8,19,0.47 
-2016,04,16,17:00,XPC,GG1337,inferno,PGL National Division Season 1..,16,10,10,5,6,5,GG1337,14,22,0.62 
-2015,05,25,18:00,Wrecking,neXtPlease!,cache,Balkan Championship Season 2,5,16,4,11,1,5,neXtPlease!,26,11,2.00 
-2015,05,25,18:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,15,19,9,6,6,9,neXtPlease!,27,27,1.05 
-2015,05,14,21:00,Airwalk,neXtPlease!,mirage,Balkan Championship Season 2,2,16,2,13,0,3,neXtPlease!,23,10,1.91 
-2015,05,14,21:00,neXtPlease!,Airwalk,inferno,Balkan Championship Season 2,16,4,13,2,3,2,neXtPlease!,20,8,1.76 
-2015,05,11,22:00,neXtPlease!,Wrecking,cache,Balkan Championship Season 2,8,16,8,7,0,9,neXtPlease!,15,19,0.93 
-2015,05,11,22:00,neXtPlease!,Wrecking,mirage,Balkan Championship Season 2,16,8,9,6,7,2,neXtPlease!,24,15,1.49 
-2015,05,11,22:00,Wrecking,neXtPlease!,inferno,Balkan Championship Season 2,16,8,13,2,3,6,neXtPlease!,11,21,0.58 
-2015,05,11,19:00,Rock,neXtPlease!,cache,Balkan Superleague,16,6,13,2,3,4,neXtPlease!,12,18,0.71 
-2015,05,11,18:00,HEADSHOTBG,neXtPlease!,overpass,Balkan Superleague,16,4,11,4,5,0,neXtPlease!,7,20,0.35 
-2015,05,08,19:15,TRICKED,neXtPlease!,inferno,Balkan Superleague,16,13,9,6,7,7,neXtPlease!,24,23,1.08 
-2015,05,04,19:00,GIANT5,neXtPlease!,inferno,Balkan Superleague,13,16,5,10,8,6,neXtPlease!,40,20,2.01 
-2015,04,23,22:15,neXtPlease!,Rock,inferno,ESL South East Europe Champion..,13,16,11,4,2,12,neXtPlease!,10,21,0.53 
-2015,04,23,22:15,Rock,neXtPlease!,dust2,ESL South East Europe Champion..,16,11,9,6,7,5,neXtPlease!,12,19,0.63 
-2015,04,22,22:15,neXtPlease!,ENTiTY,cache,Balkan Superleague,16,8,9,6,7,2,neXtPlease!,18,16,1.04 
-2015,04,21,20:00,MASSACRE-ZONE,neXtPlease!,dust2,ESL South East Europe Champion..,12,16,10,5,2,11,neXtPlease!,20,19,1.07 
-2015,04,21,20:00,MASSACRE-ZONE,neXtPlease!,cache,ESL South East Europe Champion..,7,16,4,11,3,5,neXtPlease!,26,12,1.56 
-2015,04,18,21:00,neXtPlease!,HEADSHOTBG,cache,ESL South East Europe Champion..,6,16,3,12,3,4,neXtPlease!,17,19,0.97 
-2015,04,18,21:00,neXtPlease!,HEADSHOTBG,inferno,ESL South East Europe Champion..,11,16,8,7,3,9,neXtPlease!,18,22,0.90 
-2015,04,16,19:00,neXtPlease!,RB,cache,Balkan Superleague,15,15,13,2,2,13,neXtPlease!,23,21,1.08 
-2015,04,15,19:00,GPlay,neXtPlease!,inferno,Balkan Superleague,16,3,12,3,4,0,neXtPlease!,8,18,0.46 
+2016,04,16,17:00,493,379,0,609,6,16,6,9,0,7,493,8,19,0.47 
+2016,04,16,17:00,379,493,6,609,16,10,10,5,6,5,493,14,22,0.62 
+2015,05,25,18:00,1080,398,7,887,5,16,4,11,1,5,398,26,11,2.00 
+2015,05,25,18:00,1080,398,6,887,15,19,9,6,6,9,398,27,27,1.05 
+2015,05,14,21:00,1086,398,0,887,2,16,2,13,0,3,398,23,10,1.91 
+2015,05,14,21:00,398,1086,6,887,16,4,13,2,3,2,398,20,8,1.76 
+2015,05,11,22:00,398,1080,7,887,8,16,8,7,0,9,398,15,19,0.93 
+2015,05,11,22:00,398,1080,0,887,16,8,9,6,7,2,398,24,15,1.49 
+2015,05,11,22:00,1080,398,6,887,16,8,13,2,3,6,398,11,21,0.58 
+2015,05,11,19:00,1055,398,7,903,16,6,13,2,3,4,398,12,18,0.71 
+2015,05,11,18:00,159,398,4,903,16,4,11,4,5,0,398,7,20,0.35 
+2015,05,08,19:15,1067,398,6,903,16,13,9,6,7,7,398,24,23,1.08 
+2015,05,04,19:00,656,398,6,903,13,16,5,10,8,6,398,40,20,2.01 
+2015,04,23,22:15,398,1055,6,560,13,16,11,4,2,12,398,10,21,0.53 
+2015,04,23,22:15,1055,398,1,560,16,11,9,6,7,5,398,12,19,0.63 
+2015,04,22,22:15,398,1093,7,903,16,8,9,6,7,2,398,18,16,1.04 
+2015,04,21,20:00,1095,398,1,560,12,16,10,5,2,11,398,20,19,1.07 
+2015,04,21,20:00,1095,398,7,560,7,16,4,11,3,5,398,26,12,1.56 
+2015,04,18,21:00,398,159,7,560,6,16,3,12,3,4,398,17,19,0.97 
+2015,04,18,21:00,398,159,6,560,11,16,8,7,3,9,398,18,22,0.90 
+2015,04,16,19:00,398,433,7,903,15,15,13,2,2,13,398,23,21,1.08 
+2015,04,15,19:00,1054,398,6,903,16,3,12,3,4,0,398,8,18,0.46 

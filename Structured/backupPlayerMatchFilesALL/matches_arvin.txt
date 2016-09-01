@@ -1,11 +1,11 @@
-2016,07,26,12:00,VG.CyberZen,TheMongolz,cache,MixBOT Pro-League Golden,16,6,12,3,4,3,TheMongolz,9,18,0.57 
-2016,07,26,12:00,VG.CyberZen,TheMongolz,train,MixBOT Pro-League Golden,10,16,9,6,1,10,TheMongolz,14,17,0.80 
-2016,07,26,12:00,VG.CyberZen,TheMongolz,cobblestone,MixBOT Pro-League Golden,16,11,6,9,10,2,TheMongolz,13,22,0.68 
-2016,06,09,12:15,Expendables,Signature,cache,MixBOT Pro-League Golden,10,16,4,11,6,5,Expendables,13,21,0.64 
-2016,06,09,12:15,Expendables,Signature,dust2,MixBOT Pro-League Golden,14,16,7,8,7,8,Expendables,17,24,0.73 
-2016,02,21,17:00,Threats,Expendables,inferno,Born To Win Invitational Leagu..,16,12,13,2,3,10,Expendables,7,21,0.45 
-2016,02,21,14:00,J2G,Expendables,dust2,Born To Win Invitational Leagu..,19,17,2,13,13,2,Expendables,27,24,1.09 
-2015,11,12,14:00,Insidious,Expendables,cache,D!ngIT CS:GO Asia Invitational..,16,8,8,7,8,1,Expendables,13,20,0.73 
-2015,11,12,14:00,Insidious,Expendables,cobblestone,D!ngIT CS:GO Asia Invitational..,16,10,7,8,9,2,Expendables,14,20,0.82 
-2015,11,04,13:00,MVP.karnal,Expendables,dust2,D!ngIT CS:GO Asia Invitational..,16,3,13,2,3,1,Expendables,10,18,0.54 
-2015,10,31,05:00,m0nster,Expendables,cache,D!ngIT CS:GO Asia Invitational..,16,5,14,1,2,4,Expendables,6,20,0.28 
+2016,07,26,12:00,35,150,7,504,16,6,12,3,4,3,150,9,18,0.57 
+2016,07,26,12:00,35,150,2,504,10,16,9,6,1,10,150,14,17,0.80 
+2016,07,26,12:00,35,150,14,504,16,11,6,9,10,2,150,13,22,0.68 
+2016,06,09,12:15,368,61,7,504,10,16,4,11,6,5,368,13,21,0.64 
+2016,06,09,12:15,368,61,1,504,14,16,7,8,7,8,368,17,24,0.73 
+2016,02,21,17:00,491,368,6,641,16,12,13,2,3,10,368,7,21,0.45 
+2016,02,21,14:00,643,368,1,641,19,17,2,13,13,2,368,27,24,1.09 
+2015,11,12,14:00,752,368,7,691,16,8,8,7,8,1,368,13,20,0.73 
+2015,11,12,14:00,752,368,14,691,16,10,7,8,9,2,368,14,20,0.82 
+2015,11,04,13:00,149,368,1,691,16,3,13,2,3,1,368,10,18,0.54 
+2015,10,31,05:00,164,368,7,691,16,5,14,1,2,4,368,6,20,0.28 

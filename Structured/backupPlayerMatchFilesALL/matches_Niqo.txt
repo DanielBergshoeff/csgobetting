@@ -1,5 +1,5 @@
-2015,10,09,15:15,Belgium,Singapore,dust2,World Championships 2015,16,6,9,6,7,0,Singapore,17,19,1.02 
-2015,10,09,11:30,Singapore,Norway,dust2,World Championships 2015,3,16,2,13,1,3,Singapore,8,17,0.56 
-2015,08,30,14:00,Singapore,Japan,mirage,World Championships 2015 Asian..,16,12,12,3,4,9,Singapore,20,17,1.17 
-2015,08,30,13:00,Vietnam,Singapore,inferno,World Championships 2015 Asian..,16,1,14,1,2,0,Singapore,7,17,0.41 
-2015,08,29,14:30,Singapore,SouthKorea,mirage,World Championships 2015 Asian..,15,15,10,5,5,10,Singapore,32,22,1.36 
+2015,10,09,15:15,942,265,1,786,16,6,9,6,7,0,265,17,19,1.02 
+2015,10,09,11:30,265,939,1,786,3,16,2,13,1,3,265,8,17,0.56 
+2015,08,30,14:00,265,333,0,835,16,12,12,3,4,9,265,20,17,1.17 
+2015,08,30,13:00,298,265,6,835,16,1,14,1,2,0,265,7,17,0.41 
+2015,08,29,14:30,265,346,0,835,15,15,10,5,5,10,265,32,22,1.36 

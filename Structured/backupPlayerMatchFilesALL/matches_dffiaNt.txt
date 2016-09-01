@@ -1,15 +1,15 @@
-2015,12,12,19:00,Ventus,Bravado,inferno,BHG CS:GO Tournament,6,16,6,9,0,7,Ventus,13,20,0.62 
-2015,12,12,19:00,Bravado,Ventus,overpass,BHG CS:GO Tournament,16,3,12,3,4,0,Ventus,5,18,0.32 
-2015,12,12,15:00,UbS,Ventus,inferno,BHG CS:GO Tournament,6,16,4,11,2,5,Ventus,32,11,2.12 
-2015,12,12,15:00,Ventus,UbS,mirage,BHG CS:GO Tournament,16,1,15,0,1,1,Ventus,18,8,1.79 
-2015,12,12,11:45,Imagination,Ventus,mirage,BHG CS:GO Tournament,16,13,13,2,3,11,Ventus,16,24,0.72 
-2015,12,12,11:45,Imagination,Ventus,cobblestone,BHG CS:GO Tournament,13,16,7,8,6,8,Ventus,23,20,1.02 
-2015,12,12,11:45,Ventus,Imagination,cache,BHG CS:GO Tournament,5,16,3,12,2,4,Ventus,10,17,0.64 
-2015,08,09,20:00,In-Finity,Altitude,cache,Fight Night: Season I,16,5,11,4,5,1,Altitude,9,18,0.67 
-2015,08,09,20:00,In-Finity,Altitude,overpass,Fight Night: Season I,16,12,7,8,9,4,Altitude,17,18,0.88 
-2014,10,12,09:00,In-Finity,Bravado,nuke,Telkom Gaming CS:GO Championsh..,12,16,9,6,3,10,In-Finity,18,20,0.94 
-2014,10,12,09:00,Bravado,In-Finity,cache,Telkom Gaming CS:GO Championsh..,16,14,12,3,4,11,In-Finity,24,22,1.10 
-2014,10,12,09:00,In-Finity,Bravado,dust2,Telkom Gaming CS:GO Championsh..,8,16,4,11,4,5,In-Finity,15,20,0.80 
-2014,10,11,17:00,In-Finity,DamageControl,mirage,Telkom Gaming CS:GO Championsh..,16,11,8,7,8,4,In-Finity,16,22,0.75 
-2014,10,11,17:00,DamageControl,In-Finity,dust2,Telkom Gaming CS:GO Championsh..,16,5,10,5,6,0,In-Finity,13,20,0.69 
-2014,10,11,17:00,In-Finity,DamageControl,cache,Telkom Gaming CS:GO Championsh..,16,11,10,5,6,6,In-Finity,13,19,0.69 
+2015,12,12,19:00,769,18,6,708,6,16,6,9,0,7,769,13,20,0.62 
+2015,12,12,19:00,18,769,4,708,16,3,12,3,4,0,769,5,18,0.32 
+2015,12,12,15:00,772,769,6,708,6,16,4,11,2,5,769,32,11,2.12 
+2015,12,12,15:00,769,772,0,708,16,1,15,0,1,1,769,18,8,1.79 
+2015,12,12,11:45,771,769,0,708,16,13,13,2,3,11,769,16,24,0.72 
+2015,12,12,11:45,771,769,14,708,13,16,7,8,6,8,769,23,20,1.02 
+2015,12,12,11:45,769,771,7,708,5,16,3,12,2,4,769,10,17,0.64 
+2015,08,09,20:00,1040,1041,7,852,16,5,11,4,5,1,1041,9,18,0.67 
+2015,08,09,20:00,1040,1041,4,852,16,12,7,8,9,4,1041,17,18,0.88 
+2014,10,12,09:00,1040,18,5,1010,12,16,9,6,3,10,1040,18,20,0.94 
+2014,10,12,09:00,18,1040,7,1010,16,14,12,3,4,11,1040,24,22,1.10 
+2014,10,12,09:00,1040,18,1,1010,8,16,4,11,4,5,1040,15,20,0.80 
+2014,10,11,17:00,1040,12,0,1010,16,11,8,7,8,4,1040,16,22,0.75 
+2014,10,11,17:00,12,1040,1,1010,16,5,10,5,6,0,1040,13,20,0.69 
+2014,10,11,17:00,1040,12,7,1010,16,11,10,5,6,6,1040,13,19,0.69 

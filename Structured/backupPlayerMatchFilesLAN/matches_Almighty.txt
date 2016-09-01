@@ -1,2 +1,0 @@
-2016,07,24,12:15,TamuluS,Nomad,nuke,VSL Season 1,16,7,9,6,7,1,Nomad,14,19,0.95 
-2016,07,10,12:30,Nomad,T5,cache,VSL Season 1,2,16,2,13,0,3,Nomad,10,15,0.73 

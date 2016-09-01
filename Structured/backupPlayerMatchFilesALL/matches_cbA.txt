@@ -1,13 +1,13 @@
-2015,11,15,11:00,NoobTubers,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,3,12,3,4,0,E-frag.net Staff,8,17,0.47 
-2015,11,15,11:00,NoobTubers,E-frag.netStaff,cobblestone,Virtus.pro Staff Cup #3,16,12,3,12,13,0,E-frag.net Staff,15,23,0.72 
-2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,dust2,Virtus.pro Staff Cup #3,7,16,3,12,4,4,E-frag.net Staff,23,14,1.48 
-2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,10,9,6,7,4,E-frag.net Staff,19,18,1.02 
-2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,mirage,Virtus.pro Staff Cup #3,12,16,7,8,5,8,E-frag.net Staff,28,19,1.43 
-2015,11,14,13:30,HLTV.orgStaff,E-frag.netStaff,inferno,Virtus.pro Staff Cup #3,16,4,13,2,3,2,E-frag.net Staff,13,17,0.84 
-2015,11,14,13:30,HLTV.orgStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,7,12,3,4,4,E-frag.net Staff,16,19,0.90 
-2015,11,13,16:00,NiPStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,12,16,5,10,7,6,E-frag.net Staff,25,18,1.27 
-2015,11,13,16:00,NiPStaff,E-frag.netStaff,mirage,Virtus.pro Staff Cup #3,11,16,7,8,4,8,E-frag.net Staff,14,19,0.74 
-2015,11,08,16:30,FnaticStaff,E-frag.netStaff,dust2,Virtus.pro Staff Cup #3,4,16,3,12,1,4,E-frag.net Staff,13,6,1.17 
-2015,11,08,16:30,E-frag.netStaff,FnaticStaff,cache,Virtus.pro Staff Cup #3,16,3,12,3,4,0,E-frag.net Staff,19,10,1.47 
-2015,11,07,16:00,StormStudioStaff,E-frag.netStaff,inferno,Virtus.pro Staff Cup #3,8,16,3,12,5,4,E-frag.net Staff,13,13,0.95 
-2015,11,07,16:00,E-frag.netStaff,StormStudioStaff,cache,Virtus.pro Staff Cup #3,16,6,14,1,2,5,E-frag.net Staff,22,11,1.45 
+2015,11,15,11:00,859,861,7,750,16,3,12,3,4,0,861,8,17,0.47 
+2015,11,15,11:00,859,861,14,750,16,12,3,12,13,0,861,15,23,0.72 
+2015,11,14,18:30,862,861,1,750,7,16,3,12,4,4,861,23,14,1.48 
+2015,11,14,18:30,862,861,7,750,16,10,9,6,7,4,861,19,18,1.02 
+2015,11,14,18:30,862,861,0,750,12,16,7,8,5,8,861,28,19,1.43 
+2015,11,14,13:30,858,861,6,750,16,4,13,2,3,2,861,13,17,0.84 
+2015,11,14,13:30,858,861,7,750,16,7,12,3,4,4,861,16,19,0.90 
+2015,11,13,16:00,866,861,7,750,12,16,5,10,7,6,861,25,18,1.27 
+2015,11,13,16:00,866,861,0,750,11,16,7,8,4,8,861,14,19,0.74 
+2015,11,08,16:30,875,861,1,750,4,16,3,12,1,4,861,13,6,1.17 
+2015,11,08,16:30,861,875,7,750,16,3,12,3,4,0,861,19,10,1.47 
+2015,11,07,16:00,883,861,6,750,8,16,3,12,5,4,861,13,13,0.95 
+2015,11,07,16:00,861,883,7,750,16,6,14,1,2,5,861,22,11,1.45 

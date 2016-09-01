@@ -1,10 +1,10 @@
-2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,dust2,Virtus.pro Staff Cup #3,7,16,3,12,4,4,Na`Vi Staff,14,15,0.89 
-2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,10,9,6,7,4,Na`Vi Staff,20,13,1.14 
-2015,11,14,18:30,Na`ViStaff,E-frag.netStaff,mirage,Virtus.pro Staff Cup #3,12,16,7,8,5,8,Na`Vi Staff,17,19,0.89 
-2015,11,14,11:00,GameShowStaff,Na`ViStaff,mirage,Virtus.pro Staff Cup #3,0,16,0,15,0,1,Na`Vi Staff,18,4,1.84 
-2015,11,14,11:00,Na`ViStaff,GameShowStaff,train,Virtus.pro Staff Cup #3,16,1,14,1,2,0,Na`Vi Staff,16,3,1.66 
-2015,11,13,18:30,Na`ViStaff,myXMGStaff,inferno,Virtus.pro Staff Cup #3,7,16,4,11,3,5,Na`Vi Staff,16,16,0.98 
-2015,11,13,18:30,myXMGStaff,Na`ViStaff,cache,Virtus.pro Staff Cup #3,16,3,12,3,4,0,Na`Vi Staff,7,17,0.49 
-2015,11,13,18:30,myXMGStaff,Na`ViStaff,cobblestone,Virtus.pro Staff Cup #3,10,16,4,11,6,5,Na`Vi Staff,15,18,0.84 
-2014,11,15,20:10,Na`ViStaff,GameShowStaff,mirage,Virtus.pro Staff Cup #1,16,12,9,6,7,6,Na`Vi Staff,17,16,1.08 
-2014,11,15,19:15,Na`ViStaff,Hitbox.tvStaff,mirage,Virtus.pro Staff Cup #1,16,3,12,3,4,0,Na`Vi Staff,27,5,2.19 
+2015,11,14,18:30,862,861,1,750,7,16,3,12,4,4,862,14,15,0.89 
+2015,11,14,18:30,862,861,7,750,16,10,9,6,7,4,862,20,13,1.14 
+2015,11,14,18:30,862,861,0,750,12,16,7,8,5,8,862,17,19,0.89 
+2015,11,14,11:00,867,862,0,750,0,16,0,15,0,1,862,18,4,1.84 
+2015,11,14,11:00,862,867,2,750,16,1,14,1,2,0,862,16,3,1.66 
+2015,11,13,18:30,862,857,6,750,7,16,4,11,3,5,862,16,16,0.98 
+2015,11,13,18:30,857,862,7,750,16,3,12,3,4,0,862,7,17,0.49 
+2015,11,13,18:30,857,862,14,750,10,16,4,11,6,5,862,15,18,0.84 
+2014,11,15,20:10,862,867,0,987,16,12,9,6,7,6,862,17,16,1.08 
+2014,11,15,19:15,862,1163,0,987,16,3,12,3,4,0,862,27,5,2.19 

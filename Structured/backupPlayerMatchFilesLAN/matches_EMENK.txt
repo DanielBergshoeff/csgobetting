@@ -1,3 +1,0 @@
-2016,07,15,21:00,beGenius,k1ck,cache,DreamHack Valencia 2016,16,7,12,3,4,4,k1ck,7,19,0.42 
-2016,07,15,21:00,beGenius,k1ck,nuke,DreamHack Valencia 2016,17,19,10,5,5,10,k1ck,22,28,0.80 
-2016,07,15,21:00,k1ck,beGenius,overpass,DreamHack Valencia 2016,8,16,5,10,3,6,k1ck,12,19,0.64 

@@ -1,6 +1,0 @@
-2015,10,10,11:00,Poland,Kyrgyzstan,dust2,World Championships 2015,16,12,13,2,3,10,Kyrgyzstan,19,22,0.91 
-2015,10,10,11:00,Kyrgyzstan,Poland,train,World Championships 2015,7,16,7,8,0,8,Kyrgyzstan,20,15,1.24 
-2015,10,08,18:15,Russia,Kyrgyzstan,mirage,World Championships 2015,16,2,13,2,3,0,Kyrgyzstan,10,16,0.65 
-2015,10,08,18:15,Russia,Kyrgyzstan,cobblestone,World Championships 2015,16,10,12,3,4,7,Kyrgyzstan,13,24,0.53 
-2015,10,08,13:30,Tunisia,Kyrgyzstan,dust2,World Championships 2015,10,16,3,12,7,4,Kyrgyzstan,26,12,1.52 
-2015,10,08,13:30,Tunisia,Kyrgyzstan,mirage,World Championships 2015,14,16,7,8,7,8,Kyrgyzstan,25,20,1.16 

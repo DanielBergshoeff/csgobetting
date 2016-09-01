@@ -1,12 +1,12 @@
-2016,07,27,12:00,Exile5,GUTS,dust2,CyberGamer Oceania eSports Mas..,16,12,10,5,6,7,GUTS,12,19,0.74 
-2016,07,27,12:00,Exile5,GUTS,train,CyberGamer Oceania eSports Mas..,16,12,12,3,4,9,GUTS,12,20,0.69 
-2016,07,18,12:00,GUTS,Skyfire,nuke,CyberGamer Oceania eSports Mas..,6,16,5,10,1,6,GUTS,9,19,0.51 
-2016,07,18,12:00,Skyfire,GUTS,dust2,CyberGamer Oceania eSports Mas..,9,16,6,9,3,7,GUTS,14,16,0.85 
-2016,07,18,12:00,GUTS,Skyfire,cache,CyberGamer Oceania eSports Mas..,8,16,4,11,4,5,GUTS,8,22,0.37 
-2016,07,17,12:00,AthleticoBH,GUTS,cache,CyberGamer Oceania eSports Mas..,16,6,13,2,3,4,GUTS,11,17,0.66 
-2016,07,17,12:00,AthleticoBH,GUTS,dust2,CyberGamer Oceania eSports Mas..,16,4,13,2,3,2,GUTS,6,19,0.32 
-2016,07,11,12:00,Chiefs,GUTS,nuke,CyberGamer Oceania eSports Mas..,17,19,12,3,3,12,GUTS,19,24,0.79 
-2016,07,11,12:00,Chiefs,GUTS,mirage,CyberGamer Oceania eSports Mas..,14,16,7,8,7,8,GUTS,18,19,0.94 
-2016,07,11,12:00,GUTS,Chiefs,cache,CyberGamer Oceania eSports Mas..,12,16,2,13,10,3,GUTS,22,20,1.03 
-2016,07,07,11:30,Parallax,GUTS,overpass,CyberGamer Oceania eSports Mas..,16,11,6,9,10,2,GUTS,16,19,0.87 
-2016,07,07,11:30,GUTS,Parallax,train,CyberGamer Oceania eSports Mas..,9,16,8,7,1,9,GUTS,14,19,0.73 
+2016,07,27,12:00,227,228,1,505,16,12,10,5,6,7,228,12,19,0.74 
+2016,07,27,12:00,227,228,2,505,16,12,12,3,4,9,228,12,20,0.69 
+2016,07,18,12:00,228,2,5,505,6,16,5,10,1,6,228,9,19,0.51 
+2016,07,18,12:00,2,228,1,505,9,16,6,9,3,7,228,14,16,0.85 
+2016,07,18,12:00,228,2,7,505,8,16,4,11,4,5,228,8,22,0.37 
+2016,07,17,12:00,5,228,7,505,16,6,13,2,3,4,228,11,17,0.66 
+2016,07,17,12:00,5,228,1,505,16,4,13,2,3,2,228,6,19,0.32 
+2016,07,11,12:00,3,228,5,505,17,19,12,3,3,12,228,19,24,0.79 
+2016,07,11,12:00,3,228,0,505,14,16,7,8,7,8,228,18,19,0.94 
+2016,07,11,12:00,228,3,7,505,12,16,2,13,10,3,228,22,20,1.03 
+2016,07,07,11:30,222,228,4,505,16,11,6,9,10,2,228,16,19,0.87 
+2016,07,07,11:30,228,222,2,505,9,16,8,7,1,9,228,14,19,0.73 

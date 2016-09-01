@@ -1,14 +1,14 @@
-2015,12,18,08:30,Wings,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,3,12,3,4,0,Goalie,7,17,0.42 
-2015,12,18,08:30,Goalie,Wings,inferno,SL i-League StarSeries XIV Chi..,10,16,9,6,1,10,Goalie,16,21,0.74 
-2015,12,17,10:40,BornOfFire,Goalie,cache,SL i-League StarSeries XIV Chi..,16,7,11,4,5,3,Goalie,12,19,0.68 
-2015,12,17,10:40,BornOfFire,Goalie,mirage,SL i-League StarSeries XIV Chi..,16,19,9,6,6,9,Goalie,31,23,1.25 
-2015,12,17,10:40,Goalie,BornOfFire,inferno,SL i-League StarSeries XIV Chi..,12,16,10,5,2,11,Goalie,31,21,1.44 
-2015,11,30,12:30,EFV,AllGamers,inferno,SL i-League StarSeries XIV,8,16,5,10,3,6,AllGamers,15,17,0.83 
-2015,11,30,12:30,EFV,AllGamers,cache,SL i-League StarSeries XIV,5,16,4,11,1,5,AllGamers,16,11,1.19 
-2015,11,30,12:30,AllGamers,EFV,dust2,SL i-League StarSeries XIV,19,22,9,6,6,9,AllGamers,28,30,1.04 
-2015,11,28,14:00,TyLoo,AllGamers,cache,Fulcrum Gamers League,16,3,14,1,2,2,AllGamers,17,18,1.10 
-2015,11,28,14:00,AllGamers,TyLoo,inferno,Fulcrum Gamers League,6,16,4,11,2,5,AllGamers,15,18,0.88 
-2015,11,28,12:30,verying,AllGamers,cache,SL i-League StarSeries XIV,1,16,1,14,0,2,AllGamers,15,8,1.34 
-2015,11,28,12:30,AllGamers,verying,inferno,SL i-League StarSeries XIV,16,3,12,3,4,0,AllGamers,11,11,0.92 
-2015,11,26,12:30,CyberZen,AllGamers,inferno,SL i-League StarSeries XIV,16,9,8,7,8,2,AllGamers,15,21,0.79 
-2015,11,26,12:30,AllGamers,CyberZen,cache,SL i-League StarSeries XIV,14,16,6,9,8,7,AllGamers,21,22,0.90 
+2015,12,18,08:30,501,744,0,688,16,3,12,3,4,0,744,7,17,0.42 
+2015,12,18,08:30,744,501,6,688,10,16,9,6,1,10,744,16,21,0.74 
+2015,12,17,10:40,179,744,7,688,16,7,11,4,5,3,744,12,19,0.68 
+2015,12,17,10:40,179,744,0,688,16,19,9,6,6,9,744,31,23,1.25 
+2015,12,17,10:40,744,179,6,688,12,16,10,5,2,11,744,31,21,1.44 
+2015,11,30,12:30,824,173,6,696,8,16,5,10,3,6,173,15,17,0.83 
+2015,11,30,12:30,824,173,7,696,5,16,4,11,1,5,173,16,11,1.19 
+2015,11,30,12:30,173,824,1,696,19,22,9,6,6,9,173,28,30,1.04 
+2015,11,28,14:00,34,173,7,707,16,3,14,1,2,2,173,17,18,1.10 
+2015,11,28,14:00,173,34,6,707,6,16,4,11,2,5,173,15,18,0.88 
+2015,11,28,12:30,823,173,7,696,1,16,1,14,0,2,173,15,8,1.34 
+2015,11,28,12:30,173,823,6,696,16,3,12,3,4,0,173,11,11,0.92 
+2015,11,26,12:30,697,173,6,696,16,9,8,7,8,2,173,15,21,0.79 
+2015,11,26,12:30,173,697,7,696,14,16,6,9,8,7,173,21,22,0.90 

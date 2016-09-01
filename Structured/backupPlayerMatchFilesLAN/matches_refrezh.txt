@@ -1,5 +1,0 @@
-2016,02,19,21:00,Preparation,Optimum,cache,Nordic Masters Season 2 Finals,16,11,8,7,8,4,Optimum,20,17,1.11 
-2016,02,19,21:00,Optimum,Preparation,inferno,Nordic Masters Season 2 Finals,9,16,8,7,1,9,Optimum,14,20,0.70 
-2016,02,19,18:15,Optimum,Temporaryorgless,cache,Nordic Masters Season 2 Finals,16,2,13,2,3,0,Optimum,14,7,1.31 
-2016,02,19,18:15,Optimum,Temporaryorgless,mirage,Nordic Masters Season 2 Finals,16,3,13,2,3,1,Optimum,14,8,1.33 
-2016,02,19,12:35,Optimum,Publiclir.se,mirage,Nordic Masters Season 2 Finals,16,19,5,10,10,5,Optimum,27,27,1.05 

@@ -1,10 +1,10 @@
-2015,11,15,19:45,myXMGStaff,HLTV.orgStaff,dust2,Virtus.pro Staff Cup #3,16,14,5,10,11,4,HLTV.org Staff,9,24,0.47 
-2015,11,15,19:45,myXMGStaff,HLTV.orgStaff,mirage,Virtus.pro Staff Cup #3,7,16,5,10,2,6,HLTV.org Staff,19,13,1.25 
-2015,11,15,19:45,myXMGStaff,HLTV.orgStaff,cache,Virtus.pro Staff Cup #3,16,13,5,10,11,3,HLTV.org Staff,15,24,0.63 
-2015,11,15,13:30,HLTV.orgStaff,myXMGStaff,inferno,Virtus.pro Staff Cup #3,16,5,11,4,5,1,HLTV.org Staff,20,11,1.52 
-2015,11,15,13:30,myXMGStaff,HLTV.orgStaff,cache,Virtus.pro Staff Cup #3,32,34,8,7,7,8,HLTV.org Staff,49,53,0.93 
-2015,11,14,13:30,HLTV.orgStaff,E-frag.netStaff,inferno,Virtus.pro Staff Cup #3,16,4,13,2,3,2,HLTV.org Staff,20,12,1.36 
-2015,11,14,13:30,HLTV.orgStaff,E-frag.netStaff,cache,Virtus.pro Staff Cup #3,16,7,12,3,4,4,HLTV.org Staff,17,12,1.23 
-2015,11,13,18:30,LCStaff,HLTV.orgStaff,mirage,Virtus.pro Staff Cup #3,5,16,5,10,0,6,HLTV.org Staff,13,10,1.03 
-2015,11,13,18:30,HLTV.orgStaff,LCStaff,cobblestone,Virtus.pro Staff Cup #3,14,16,7,8,7,8,HLTV.org Staff,16,23,0.67 
-2015,11,13,18:30,HLTV.orgStaff,LCStaff,cache,Virtus.pro Staff Cup #3,16,6,11,4,5,2,HLTV.org Staff,16,11,1.25 
+2015,11,15,19:45,857,858,1,750,16,14,5,10,11,4,858,9,24,0.47 
+2015,11,15,19:45,857,858,0,750,7,16,5,10,2,6,858,19,13,1.25 
+2015,11,15,19:45,857,858,7,750,16,13,5,10,11,3,858,15,24,0.63 
+2015,11,15,13:30,858,857,6,750,16,5,11,4,5,1,858,20,11,1.52 
+2015,11,15,13:30,857,858,7,750,32,34,8,7,7,8,858,49,53,0.93 
+2015,11,14,13:30,858,861,6,750,16,4,13,2,3,2,858,20,12,1.36 
+2015,11,14,13:30,858,861,7,750,16,7,12,3,4,4,858,17,12,1.23 
+2015,11,13,18:30,863,858,0,750,5,16,5,10,0,6,858,13,10,1.03 
+2015,11,13,18:30,858,863,14,750,14,16,7,8,7,8,858,16,23,0.67 
+2015,11,13,18:30,858,863,7,750,16,6,11,4,5,2,858,16,11,1.25 

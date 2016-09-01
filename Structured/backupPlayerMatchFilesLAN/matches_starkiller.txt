@@ -1,6 +1,0 @@
-2016,04,16,17:00,GG1337,XPC,mirage,PGL National Division Season 1..,6,16,6,9,0,7,XPC,18,11,1.30 
-2016,04,16,17:00,XPC,GG1337,inferno,PGL National Division Season 1..,16,10,10,5,6,5,XPC,17,16,0.97 
-2015,05,09,13:00,XPC,GPlay,dust2,ESL South East Europe Champion..,7,16,4,11,3,5,XPC,8,18,0.49 
-2015,05,09,13:00,XPC,GPlay,mirage,ESL South East Europe Champion..,4,16,1,14,3,2,XPC,7,15,0.61 
-2015,05,08,10:00,SpaceSoldiers,XPC,cobblestone,ESL South East Europe Champion..,26,20,10,5,5,10,XPC,37,31,1.12 
-2015,05,08,10:00,XPC,SpaceSoldiers,cache,ESL South East Europe Champion..,8,16,8,7,0,9,XPC,14,15,0.91 

@@ -1,8 +1,0 @@
-2015,04,03,21:30,Epsilonfe,ALTERNATEfe,cobblestone,Copenhagen Games 2015 female,16,8,11,4,5,4,ALTERNATE fe,13,19,0.74 
-2015,04,03,21:30,Epsilonfe,ALTERNATEfe,nuke,Copenhagen Games 2015 female,16,11,12,3,4,8,ALTERNATE fe,21,18,1.07 
-2015,04,03,21:30,Epsilonfe,ALTERNATEfe,cache,Copenhagen Games 2015 female,12,16,6,9,6,7,ALTERNATE fe,33,17,1.72 
-2015,04,03,15:00,ALTERNATEfe,eSportEngine,mirage,Copenhagen Games 2015 female,6,16,4,11,2,5,ALTERNATE fe,8,21,0.34 
-2015,04,03,15:00,ALTERNATEfe,eSportEngine,nuke,Copenhagen Games 2015 female,5,16,5,10,0,6,ALTERNATE fe,7,19,0.38 
-2014,10,30,18:15,3DMAXfe,ALTERNATEfe,overpass,ESWC 2014 Female,16,3,13,2,3,1,ALTERNATE fe,8,17,0.56 
-2014,10,30,17:00,Karma,ALTERNATEfe,cache,ESWC 2014 Female,15,15,13,2,2,13,ALTERNATE fe,25,19,1.23 
-2014,10,30,15:30,ALTERNATEfe,ACESLadies,nuke,ESWC 2014 Female,9,16,8,7,1,9,ALTERNATE fe,22,18,1.22 

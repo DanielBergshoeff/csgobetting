@@ -1,2 +1,2 @@
-2016,04,21,11:00,Immunity,Corvidae,mirage,PGL KeSPA Minor Oceania Qualif..,16,5,14,1,2,4,Corvidae,9,17,0.54 
-2016,04,21,11:00,Corvidae,Immunity,overpass,PGL KeSPA Minor Oceania Qualif..,14,16,6,9,8,7,Corvidae,16,20,0.78 
+2016,04,21,11:00,429,485,0,604,16,5,14,1,2,4,485,9,17,0.54 
+2016,04,21,11:00,485,429,4,604,14,16,6,9,8,7,485,16,20,0.78 

@@ -1,6 +1,6 @@
-2016,02,21,17:00,Threats,Expendables,inferno,Born To Win Invitational Leagu..,16,12,13,2,3,10,Expendables,25,19,1.15 
-2016,02,21,14:00,J2G,Expendables,dust2,Born To Win Invitational Leagu..,19,17,2,13,13,2,Expendables,18,27,0.72 
-2015,11,12,14:00,Insidious,Expendables,cache,D!ngIT CS:GO Asia Invitational..,16,8,8,7,8,1,Expendables,12,22,0.53 
-2015,11,12,14:00,Insidious,Expendables,cobblestone,D!ngIT CS:GO Asia Invitational..,16,10,7,8,9,2,Expendables,22,17,1.15 
-2015,11,04,13:00,MVP.karnal,Expendables,dust2,D!ngIT CS:GO Asia Invitational..,16,3,13,2,3,1,Expendables,8,18,0.52 
-2015,10,31,05:00,m0nster,Expendables,cache,D!ngIT CS:GO Asia Invitational..,16,5,14,1,2,4,Expendables,13,19,0.73 
+2016,02,21,17:00,491,368,6,641,16,12,13,2,3,10,368,25,19,1.15 
+2016,02,21,14:00,643,368,1,641,19,17,2,13,13,2,368,18,27,0.72 
+2015,11,12,14:00,752,368,7,691,16,8,8,7,8,1,368,12,22,0.53 
+2015,11,12,14:00,752,368,14,691,16,10,7,8,9,2,368,22,17,1.15 
+2015,11,04,13:00,149,368,1,691,16,3,13,2,3,1,368,8,18,0.52 
+2015,10,31,05:00,164,368,7,691,16,5,14,1,2,4,368,13,19,0.73 

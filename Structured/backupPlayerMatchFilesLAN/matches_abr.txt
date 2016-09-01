@@ -1,3 +1,0 @@
-2016,03,19,18:45,FTW.EvoPrinfor,EasyMind,cache,AlienTech CS:GO Invitational I,16,3,12,3,4,0,EasyMind,9,18,0.50 
-2016,03,19,16:45,Galatics,EasyMind,inferno,AlienTech CS:GO Invitational I,12,16,8,7,4,9,EasyMind,14,17,0.82 
-2016,03,19,15:00,EasyMind,ImperioMultimedia,dust2,AlienTech CS:GO Invitational I,12,16,7,8,5,8,EasyMind,22,22,1.06 

@@ -1,8 +1,8 @@
-2015,12,05,20:00,NewSkillInfinity,Atlantis,cache,LVP Season 9 Division de Honor..,10,16,5,10,5,6,NewSkill Infinity,18,21,0.87 
-2015,12,05,20:00,NewSkillInfinity,Atlantis,mirage,LVP Season 9 Division de Honor..,16,8,12,3,4,5,NewSkill Infinity,19,18,0.96 
-2015,12,05,20:00,Atlantis,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,6,13,2,3,4,NewSkill Infinity,10,19,0.68 
-2015,12,05,15:15,NewSkillInfinity,x6tence,cobblestone,LVP Season 9 Division de Honor..,6,16,4,11,2,5,NewSkill Infinity,13,20,0.70 
-2015,12,04,19:30,KIYF,NewSkillInfinity,train,LVP Season 9 Division de Honor..,16,19,7,8,8,7,NewSkill Infinity,15,29,0.53 
-2015,11,11,21:10,KIYF,NewSkillInfinity,mirage,LVP Season 9 Division de Honor..,16,5,10,5,6,0,NewSkill Infinity,9,17,0.62 
-2015,11,11,21:10,NewSkillInfinity,KIYF,dust2,LVP Season 9 Division de Honor..,16,12,9,6,7,6,NewSkill Infinity,16,19,0.86 
-2015,11,11,21:10,KIYF,NewSkillInfinity,cobblestone,LVP Season 9 Division de Honor..,16,14,8,7,8,7,NewSkill Infinity,16,23,0.73 
+2015,12,05,20:00,591,800,7,713,10,16,5,10,5,6,591,18,21,0.87 
+2015,12,05,20:00,591,800,0,713,16,8,12,3,4,5,591,19,18,0.96 
+2015,12,05,20:00,800,591,2,713,16,6,13,2,3,4,591,10,19,0.68 
+2015,12,05,15:15,591,676,14,713,6,16,4,11,2,5,591,13,20,0.70 
+2015,12,04,19:30,290,591,2,713,16,19,7,8,8,7,591,15,29,0.53 
+2015,11,11,21:10,290,591,0,713,16,5,10,5,6,0,591,9,17,0.62 
+2015,11,11,21:10,591,290,1,713,16,12,9,6,7,6,591,16,19,0.86 
+2015,11,11,21:10,290,591,14,713,16,14,8,7,8,7,591,16,23,0.73 

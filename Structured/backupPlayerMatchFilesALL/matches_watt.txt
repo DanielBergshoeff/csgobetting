@@ -1,5 +1,5 @@
-2015,09,06,20:00,Liondogs,DelinquentHabits,dust2,eGaming CS:GO Championship 201..,1,16,1,14,0,2,Liondogs,8,17,0.46 
-2015,09,06,20:00,DelinquentHabits,Liondogs,cache,eGaming CS:GO Championship 201..,5,16,5,10,0,6,Liondogs,7,17,0.46 
-2015,09,06,20:00,DelinquentHabits,Liondogs,mirage,eGaming CS:GO Championship 201..,16,2,14,1,2,1,Liondogs,9,17,0.59 
-2015,09,06,15:10,VatosLocos,Liondogs,mirage,eGaming CS:GO Championship 201..,12,16,6,9,6,7,Liondogs,14,18,0.75 
-2015,09,06,15:10,VatosLocos,Liondogs,inferno,eGaming CS:GO Championship 201..,14,16,8,7,6,9,Liondogs,18,20,0.83 
+2015,09,06,20:00,998,999,1,828,1,16,1,14,0,2,998,8,17,0.46 
+2015,09,06,20:00,999,998,7,828,5,16,5,10,0,6,998,7,17,0.46 
+2015,09,06,20:00,999,998,0,828,16,2,14,1,2,1,998,9,17,0.59 
+2015,09,06,15:10,1000,998,0,828,12,16,6,9,6,7,998,14,18,0.75 
+2015,09,06,15:10,1000,998,6,828,14,16,8,7,6,9,998,18,20,0.83 

@@ -1,13 +1,13 @@
-2016,07,12,13:15,Singapore,Philippines,cache,World Championships 2016 Asian..,16,7,10,5,6,2,Philippines,15,20,0.75 
-2016,07,12,11:00,Vietnam,Philippines,mirage,World Championships 2016 Asian..,16,5,11,4,5,1,Philippines,13,16,0.77 
-2016,07,01,14:00,Philippines,Jordan,dust2,World Championships 2016 Asian..,16,7,13,2,3,5,Philippines,19,12,1.26 
-2016,07,01,14:00,Jordan,Philippines,cache,World Championships 2016 Asian..,16,2,14,1,2,1,Philippines,5,17,0.31 
-2016,07,01,14:00,Philippines,Jordan,mirage,World Championships 2016 Asian..,16,3,13,2,3,1,Philippines,15,13,1.07 
-2016,06,09,12:15,Expendables,Signature,cache,MixBOT Pro-League Golden,10,16,4,11,6,5,Expendables,16,21,0.76 
-2016,06,09,12:15,Expendables,Signature,dust2,MixBOT Pro-League Golden,14,16,7,8,7,8,Expendables,11,22,0.56 
-2016,02,21,17:00,Threats,Expendables,inferno,Born To Win Invitational Leagu..,16,12,13,2,3,10,Expendables,12,22,0.78 
-2016,02,21,14:00,J2G,Expendables,dust2,Born To Win Invitational Leagu..,19,17,2,13,13,2,Expendables,23,21,1.05 
-2015,11,12,14:00,Insidious,Expendables,cache,D!ngIT CS:GO Asia Invitational..,16,8,8,7,8,1,Expendables,15,22,0.69 
-2015,11,12,14:00,Insidious,Expendables,cobblestone,D!ngIT CS:GO Asia Invitational..,16,10,7,8,9,2,Expendables,11,22,0.52 
-2015,11,04,13:00,MVP.karnal,Expendables,dust2,D!ngIT CS:GO Asia Invitational..,16,3,13,2,3,1,Expendables,5,16,0.35 
-2015,10,31,05:00,m0nster,Expendables,cache,D!ngIT CS:GO Asia Invitational..,16,5,14,1,2,4,Expendables,6,19,0.34 
+2016,07,12,13:15,265,299,7,517,16,7,10,5,6,2,299,15,20,0.75 
+2016,07,12,11:00,298,299,0,517,16,5,11,4,5,1,299,13,16,0.77 
+2016,07,01,14:00,299,325,1,517,16,7,13,2,3,5,299,19,12,1.26 
+2016,07,01,14:00,325,299,7,517,16,2,14,1,2,1,299,5,17,0.31 
+2016,07,01,14:00,299,325,0,517,16,3,13,2,3,1,299,15,13,1.07 
+2016,06,09,12:15,368,61,7,504,10,16,4,11,6,5,368,16,21,0.76 
+2016,06,09,12:15,368,61,1,504,14,16,7,8,7,8,368,11,22,0.56 
+2016,02,21,17:00,491,368,6,641,16,12,13,2,3,10,368,12,22,0.78 
+2016,02,21,14:00,643,368,1,641,19,17,2,13,13,2,368,23,21,1.05 
+2015,11,12,14:00,752,368,7,691,16,8,8,7,8,1,368,15,22,0.69 
+2015,11,12,14:00,752,368,14,691,16,10,7,8,9,2,368,11,22,0.52 
+2015,11,04,13:00,149,368,1,691,16,3,13,2,3,1,368,5,16,0.35 
+2015,10,31,05:00,164,368,7,691,16,5,14,1,2,4,368,6,19,0.34 

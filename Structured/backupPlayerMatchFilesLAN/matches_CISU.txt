@@ -1,4 +1,0 @@
-2015,12,20,18:00,ROCCAT,Torpedo,cache,ESL Nordic Nationals Winter 20..,9,16,6,9,3,7,ROCCAT,16,18,0.90 
-2015,12,20,18:00,Torpedo,ROCCAT,mirage,ESL Nordic Nationals Winter 20..,16,14,3,12,13,2,ROCCAT,14,21,0.69 
-2015,12,19,17:10,Reason,ROCCAT,mirage,ESL Nordic Nationals Winter 20..,9,16,5,10,4,6,ROCCAT,12,15,0.82 
-2015,12,19,12:15,CSGOBESTPOT.com,ROCCAT,dust2,ESL Nordic Nationals Winter 20..,10,16,4,11,6,5,ROCCAT,19,13,1.17 

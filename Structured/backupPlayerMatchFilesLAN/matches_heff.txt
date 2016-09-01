@@ -1,2 +1,0 @@
-2016,03,24,15:30,eNergy,WDHA,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,7,12,3,4,4,WDHA,10,18,0.79 
-2016,03,24,13:00,Krydsild,WDHA,dust2,Copenhagen Games 2016 BYOC Qua..,16,11,10,5,6,6,WDHA,19,22,0.93 

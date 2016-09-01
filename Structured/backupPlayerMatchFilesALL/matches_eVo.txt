@@ -1,11 +1,11 @@
-2016,06,22,14:00,Bahrain,Taiwan,mirage,World Championships 2016 Asian..,2,16,2,13,0,3,Bahrain,6,17,0.42 
-2016,06,22,14:00,Taiwan,Bahrain,cache,World Championships 2016 Asian..,16,7,12,3,4,4,Bahrain,8,21,0.41 
-2015,04,03,22:30,Reason,schlaegeros,cache,Copenhagen Games 2015,16,2,14,1,2,1,schlaegeros,4,17,0.26 
-2015,04,03,15:30,schlaegeros,Menace,mirage,Copenhagen Games 2015,5,16,5,10,0,6,schlaegeros,3,19,0.20 
-2015,04,03,15:30,Menace,schlaegeros,cache,Copenhagen Games 2015,16,4,13,2,3,2,schlaegeros,4,18,0.25 
-2015,04,03,12:00,dignitas,schlaegeros,cache,Copenhagen Games 2015,16,5,14,1,2,4,schlaegeros,9,21,0.47 
-2015,04,03,12:00,dignitas,schlaegeros,inferno,Copenhagen Games 2015,16,1,14,1,2,0,schlaegeros,0,17,0.00 
-2015,04,02,23:10,Frederiksberg,schlaegeros,mirage,Copenhagen Games 2015,7,16,5,10,2,6,schlaegeros,11,12,0.89 
-2015,04,02,20:30,schlaegeros,Games4u,cache,Copenhagen Games 2015,10,16,7,8,3,8,schlaegeros,16,16,0.89 
-2015,04,02,19:00,Sespåmermaid,schlaegeros,cache,Copenhagen Games 2015,10,16,7,8,3,8,schlaegeros,19,16,1.17 
-2015,04,02,16:00,Frederiksberg,schlaegeros,dust2,Copenhagen Games 2015,12,16,9,6,3,10,schlaegeros,13,18,0.85 
+2016,06,22,14:00,351,332,0,517,2,16,2,13,0,3,351,6,17,0.42 
+2016,06,22,14:00,332,351,7,517,16,7,12,3,4,4,351,8,21,0.41 
+2015,04,03,22:30,314,1113,7,948,16,2,14,1,2,1,1113,4,17,0.26 
+2015,04,03,15:30,1113,1111,0,948,5,16,5,10,0,6,1113,3,19,0.20 
+2015,04,03,15:30,1111,1113,7,948,16,4,13,2,3,2,1113,4,18,0.25 
+2015,04,03,12:00,22,1113,7,948,16,5,14,1,2,4,1113,9,21,0.47 
+2015,04,03,12:00,22,1113,6,948,16,1,14,1,2,0,1113,0,17,0.00 
+2015,04,02,23:10,1124,1113,0,948,7,16,5,10,2,6,1113,11,12,0.89 
+2015,04,02,20:30,1113,674,7,948,10,16,7,8,3,8,1113,16,16,0.89 
+2015,04,02,19:00,1128,1113,7,948,10,16,7,8,3,8,1113,19,16,1.17 
+2015,04,02,16:00,1124,1113,1,948,12,16,9,6,3,10,1113,13,18,0.85 

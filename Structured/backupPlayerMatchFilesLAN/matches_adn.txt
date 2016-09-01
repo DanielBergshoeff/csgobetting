@@ -1,3 +1,0 @@
-2015,09,05,22:15,GamesAcademy,Levitate,dust2,WinOut $20,000 CS:GO Champions..,16,4,11,4,5,0,Levitate,13,18,0.74 
-2015,09,05,20:45,Levitate,EZonTheSoul,inferno,WinOut $20,000 CS:GO Champions..,16,5,12,3,4,2,Levitate,20,6,1.54 
-2015,09,05,19:30,Levitate,GamesAcademy,cobblestone,WinOut $20,000 CS:GO Champions..,4,16,3,12,1,4,Levitate,11,18,0.63 

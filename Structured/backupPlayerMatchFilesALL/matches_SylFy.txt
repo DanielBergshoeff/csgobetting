@@ -1,5 +1,5 @@
-2016,08,12,16:00,4dimensioN,Orange,inferno,ESEA Open Season 22 Asia,11,16,5,10,6,6,4dimensioN,12,20,0.65 
-2016,08,12,16:00,4dimensioN,Orange,cache,ESEA Open Season 22 Asia,16,14,9,6,7,8,4dimensioN,21,20,1.07 
-2016,08,12,16:00,4dimensioN,Orange,train,ESEA Open Season 22 Asia,13,16,8,7,5,9,4dimensioN,22,19,1.04 
-2016,08,08,15:00,MVP.karnal,4dimensioN,dust2,ESEA Open Season 22 Asia,14,16,4,11,10,5,4dimensioN,20,14,1.07 
-2016,08,08,15:00,4dimensioN,MVP.karnal,mirage,ESEA Open Season 22 Asia,16,11,11,4,5,7,4dimensioN,11,18,0.66 
+2016,08,12,16:00,86,60,6,478,11,16,5,10,6,6,86,12,20,0.65 
+2016,08,12,16:00,86,60,7,478,16,14,9,6,7,8,86,21,20,1.07 
+2016,08,12,16:00,86,60,2,478,13,16,8,7,5,9,86,22,19,1.04 
+2016,08,08,15:00,149,86,1,478,14,16,4,11,10,5,86,20,14,1.07 
+2016,08,08,15:00,86,149,0,478,16,11,11,4,5,7,86,11,18,0.66 

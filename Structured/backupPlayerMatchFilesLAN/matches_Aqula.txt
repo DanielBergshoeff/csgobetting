@@ -1,2 +1,0 @@
-2016,07,17,12:00,m0nsterwhite,Nomad,nuke,VSL Season 1,16,5,12,3,4,2,Nomad,10,17,0.61 
-2016,07,03,12:15,Player5,Nomad,cache,VSL Season 1,13,16,8,7,5,9,Nomad,22,20,1.07 

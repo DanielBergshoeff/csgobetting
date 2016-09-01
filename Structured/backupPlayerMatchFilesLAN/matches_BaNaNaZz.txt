@@ -1,8 +1,0 @@
-2016,07,30,16:45,FlipSid3,Aperture,train,ESWC 2016 South African Qualif..,1,16,1,14,0,2,FlipSid3,9,16,0.59 
-2016,07,30,16:45,FlipSid3,Aperture,cache,ESWC 2016 South African Qualif..,7,16,7,8,0,8,FlipSid3,13,19,0.66 
-2015,12,12,19:00,PixelHunters,Imagination,cache,BHG CS:GO Tournament,2,16,2,13,0,3,Imagination,11,11,0.89 
-2015,12,12,11:45,Imagination,Ventus,mirage,BHG CS:GO Tournament,16,13,13,2,3,11,Imagination,16,21,0.81 
-2015,12,12,11:45,Imagination,Ventus,cobblestone,BHG CS:GO Tournament,13,16,7,8,6,8,Imagination,23,21,1.19 
-2015,12,12,11:45,Ventus,Imagination,cache,BHG CS:GO Tournament,5,16,3,12,2,4,Imagination,14,11,1.06 
-2015,12,12,09:00,UbS,Imagination,cache,BHG CS:GO Tournament,4,16,2,13,2,3,Imagination,31,9,2.35 
-2015,12,12,09:00,Imagination,UbS,mirage,BHG CS:GO Tournament,16,10,9,6,7,4,Imagination,18,14,1.13 

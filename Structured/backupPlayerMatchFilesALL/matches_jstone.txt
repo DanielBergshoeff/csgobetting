@@ -1,7 +1,7 @@
-2015,09,05,18:15,Nexus,WinOut.net,overpass,WinOut $20,000 CS:GO Champions..,16,3,14,1,2,2,WinOut.net,11,18,0.59 
-2015,09,05,17:30,WinOut.net,ReapWhatYouSow,dust2,WinOut $20,000 CS:GO Champions..,16,10,10,5,6,5,WinOut.net,18,15,1.12 
-2015,09,05,16:15,WinOut.net,Nexus,inferno,WinOut $20,000 CS:GO Champions..,13,16,9,6,4,10,WinOut.net,19,20,0.94 
-2015,06,24,06:02,WinOut.net,mouseSpaz,cobblestone,RGN Pro Series NA,5,16,2,13,3,3,WinOut.net,10,16,0.65 
-2015,06,04,04:30,WinOut.net,ACE,mirage,RGN Pro Series NA Closed Quali..,14,16,9,6,5,10,WinOut.net,25,22,1.17 
-2015,06,04,04:30,ACE,WinOut.net,overpass,RGN Pro Series NA Closed Quali..,14,16,7,8,7,8,WinOut.net,24,19,1.09 
-2015,06,04,04:30,WinOut.net,ACE,inferno,RGN Pro Series NA Closed Quali..,7,16,5,10,2,6,WinOut.net,13,20,0.63 
+2015,09,05,18:15,796,917,4,827,16,3,14,1,2,2,917,11,18,0.59 
+2015,09,05,17:30,917,918,1,827,16,10,10,5,6,5,917,18,15,1.12 
+2015,09,05,16:15,917,796,6,827,13,16,9,6,4,10,917,19,20,0.94 
+2015,06,24,06:02,917,1023,14,842,5,16,2,13,3,3,917,10,16,0.65 
+2015,06,04,04:30,917,334,0,904,14,16,9,6,5,10,917,25,22,1.17 
+2015,06,04,04:30,334,917,4,904,14,16,7,8,7,8,917,24,19,1.09 
+2015,06,04,04:30,917,334,6,904,7,16,5,10,2,6,917,13,20,0.63 

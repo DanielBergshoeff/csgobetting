@@ -1,12 +1,12 @@
-2015,09,14,22:00,Choke,UnitedEstonia,inferno,ESL UK Premiership Season 2,8,16,8,7,0,9,United Estonia,7,20,0.52 
-2015,09,07,21:00,UnitedEstonia,Infused,overpass,ESL UK Premiership Season 2,10,16,8,7,2,9,United Estonia,16,20,0.90 
-2015,08,31,22:15,UnitedEstonia,fm-eSports,cache,ESL UK Premiership Season 2,16,8,9,6,7,2,United Estonia,10,17,0.63 
-2015,08,25,20:00,CSGOCasino.net,UnitedEstonia,dust2,ESL UK Premiership Season 2,16,2,13,2,3,0,United Estonia,12,17,0.73 
-2015,08,17,20:00,UnitedEstonia,CeX,cache,ESL UK Premiership Season 2,16,12,11,4,5,8,United Estonia,23,21,1.16 
-2015,04,28,22:30,fm-eSports,UnitedEstonia,dust2,ESL UK Premiership Season 1,16,14,8,7,8,7,United Estonia,8,22,0.44 
-2015,04,28,22:30,UnitedEstonia,fm-eSports,inferno,ESL UK Premiership Season 1,12,16,10,5,2,11,United Estonia,12,20,0.63 
-2015,04,28,20:00,UnitedEstonia,GLG,inferno,ESL UK Premiership Season 1,16,14,7,8,9,6,United Estonia,12,22,0.61 
-2015,04,28,20:00,GLG,UnitedEstonia,cache,ESL UK Premiership Season 1,7,16,5,10,2,6,United Estonia,14,16,0.83 
-2015,04,27,20:00,UnitedEstonia,fm-eSports,cobblestone,ESL UK Premiership Season 1,11,16,3,12,8,4,United Estonia,12,21,0.64 
-2015,04,27,20:00,fm-eSports,UnitedEstonia,inferno,ESL UK Premiership Season 1,11,16,8,7,3,9,United Estonia,11,16,0.72 
-2015,04,27,20:00,UnitedEstonia,fm-eSports,nuke,ESL UK Premiership Season 1,5,16,4,11,1,5,United Estonia,7,20,0.37 
+2015,09,14,22:00,908,316,6,803,8,16,8,7,0,9,316,7,20,0.52 
+2015,09,07,21:00,316,315,4,803,10,16,8,7,2,9,316,16,20,0.90 
+2015,08,31,22:15,316,599,7,803,16,8,9,6,7,2,316,10,17,0.63 
+2015,08,25,20:00,997,316,1,803,16,2,13,2,3,0,316,12,17,0.73 
+2015,08,17,20:00,316,701,7,803,16,12,11,4,5,8,316,23,21,1.16 
+2015,04,28,22:30,599,316,1,933,16,14,8,7,8,7,316,8,22,0.44 
+2015,04,28,22:30,316,599,6,933,12,16,10,5,2,11,316,12,20,0.63 
+2015,04,28,20:00,316,963,6,933,16,14,7,8,9,6,316,12,22,0.61 
+2015,04,28,20:00,963,316,7,933,7,16,5,10,2,6,316,14,16,0.83 
+2015,04,27,20:00,316,599,14,933,11,16,3,12,8,4,316,12,21,0.64 
+2015,04,27,20:00,599,316,6,933,11,16,8,7,3,9,316,11,16,0.72 
+2015,04,27,20:00,316,599,5,933,5,16,4,11,1,5,316,7,20,0.37 

@@ -1,3 +1,0 @@
-2015,10,25,16:20,TES,EasyFix,inferno,Milan Games Week 2015 League b..,16,11,11,4,5,7,TES,19,15,1.19 
-2015,10,25,16:20,TES,EasyFix,cache,Milan Games Week 2015 League b..,14,16,7,8,7,8,TES,23,17,1.23 
-2015,10,25,16:20,EasyFix,TES,dust2,Milan Games Week 2015 League b..,14,16,5,10,9,6,TES,16,23,0.73 

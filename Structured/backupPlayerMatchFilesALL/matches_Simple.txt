@@ -1,4 +1,4 @@
-2016,07,26,03:00,Mexico,DominicanRepublic,cache,World Championships 2016 North..,16,4,11,4,5,0,Mexico,15,9,1.31 
-2016,07,26,02:15,USA,Mexico,dust2,World Championships 2016 North..,16,1,14,1,2,0,Mexico,5,16,0.36 
-2016,02,25,04:00,Bee'sMoneyCrew,myRevenge,dust2,Stream.me Gauntlet ,16,10,7,8,9,2,myRevenge,16,21,0.80 
-2016,02,25,04:00,myRevenge,Bee'sMoneyCrew,cache,Stream.me Gauntlet ,9,16,6,9,3,7,myRevenge,13,19,0.70 
+2016,07,26,03:00,230,240,7,506,16,4,11,4,5,0,230,15,9,1.31 
+2016,07,26,02:15,224,230,1,506,16,1,14,1,2,0,230,5,16,0.36 
+2016,02,25,04:00,422,648,1,622,16,10,7,8,9,2,648,16,21,0.80 
+2016,02,25,04:00,648,422,7,622,9,16,6,9,3,7,648,13,19,0.70 

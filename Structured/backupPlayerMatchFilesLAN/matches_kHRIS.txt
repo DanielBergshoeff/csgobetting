@@ -1,6 +1,0 @@
-2016,03,12,17:15,n1ce,GameAgents,inferno,EsportFest 2016,15,19,6,9,9,6,n1ce,21,25,0.83 
-2016,03,12,17:15,n1ce,GameAgents,dust2,EsportFest 2016,16,8,12,3,4,5,n1ce,18,14,1.21 
-2016,03,12,17:15,n1ce,GameAgents,cache,EsportFest 2016,13,16,8,7,5,9,n1ce,23,23,0.99 
-2015,07,26,18:00,LGB,k1ck,overpass,ESL One Cologne 2015 European ..,16,9,10,5,6,4,k1ck,20,20,1.18 
-2015,07,26,15:45,Titan,k1ck,train,ESL One Cologne 2015 European ..,16,8,13,2,3,6,k1ck,18,18,1.02 
-2015,07,26,14:15,ROCCAT,k1ck,cobblestone,ESL One Cologne 2015 European ..,9,16,3,12,6,4,k1ck,17,16,0.92 

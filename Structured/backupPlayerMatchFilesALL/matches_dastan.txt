@@ -1,4 +1,4 @@
-2016,08,14,16:55,LGR,Tengri,train,ECS Season 2 EU Open Qualifier..,16,13,7,8,9,5,Tengri,21,19,1.11 
-2016,08,14,15:15,RedInstinct,Tengri,cache,ECS Season 2 EU Open Qualifier..,10,16,9,6,1,10,Tengri,14,17,0.89 
-2015,09,30,21:10,Sweden,Kazakhstan,inferno,World Championships 2015 Europ..,16,6,9,6,7,0,Kazakhstan,9,19,0.51 
-2015,09,30,21:10,Sweden,Kazakhstan,dust2,World Championships 2015 Europ..,16,4,11,4,5,0,Kazakhstan,8,18,0.44 
+2016,08,14,16:55,41,48,2,477,16,13,7,8,9,5,48,21,19,1.11 
+2016,08,14,15:15,55,48,7,477,10,16,9,6,1,10,48,14,17,0.89 
+2015,09,30,21:10,937,957,6,799,16,6,9,6,7,0,957,9,19,0.51 
+2015,09,30,21:10,937,957,1,799,16,4,11,4,5,0,957,8,18,0.44 

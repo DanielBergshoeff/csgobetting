@@ -1,2 +1,2 @@
-2016,08,09,16:00,Kyrgyzstan,Belarus,cache,World Championships 2016 Europ..,13,16,5,10,8,6,Kyrgyzstan,20,26,0.82 
-2016,08,09,16:00,Belarus,Kyrgyzstan,mirage,World Championships 2016 Europ..,16,3,13,2,3,1,Kyrgyzstan,9,17,0.60 
+2016,08,09,16:00,138,139,7,463,13,16,5,10,8,6,138,20,26,0.82 
+2016,08,09,16:00,139,138,0,463,16,3,13,2,3,1,138,9,17,0.60 

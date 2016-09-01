@@ -1,8 +1,0 @@
-2016,07,16,21:00,AlienTech,beGenius,dust2,DreamHack Valencia 2016,16,11,8,7,8,4,beGenius,15,20,0.78 
-2016,07,16,21:00,AlienTech,beGenius,nuke,DreamHack Valencia 2016,16,10,8,7,8,3,beGenius,21,16,1.17 
-2016,07,16,11:00,Wololos,beGenius,train,DreamHack Valencia 2016,11,16,9,6,2,10,beGenius,27,17,1.67 
-2016,07,16,11:00,Wololos,beGenius,mirage,DreamHack Valencia 2016,16,6,14,1,2,5,beGenius,15,18,0.90 
-2016,07,16,11:00,beGenius,Wololos,cache,DreamHack Valencia 2016,16,14,9,6,7,8,beGenius,26,18,1.24 
-2016,07,15,21:00,beGenius,k1ck,cache,DreamHack Valencia 2016,16,7,12,3,4,4,beGenius,18,13,1.11 
-2016,07,15,21:00,beGenius,k1ck,nuke,DreamHack Valencia 2016,17,19,10,5,5,10,beGenius,30,22,1.29 
-2016,07,15,21:00,k1ck,beGenius,overpass,DreamHack Valencia 2016,8,16,5,10,3,6,beGenius,11,16,0.75 

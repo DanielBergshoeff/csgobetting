@@ -1,27 +1,27 @@
-2016,08,12,22:10,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,14,16,8,7,6,9,KoN Norway,26,19,1.26 
-2016,06,05,12:00,deadweight,PENTA,dust2,DreamHack ZOWIE Open Summer 20..,6,16,6,9,0,7,deadweight,8,18,0.50 
-2016,06,05,12:00,PENTA,deadweight,cache,DreamHack ZOWIE Open Summer 20..,16,12,6,9,10,3,deadweight,16,22,0.78 
-2016,06,05,12:00,PENTA,deadweight,mirage,DreamHack ZOWIE Open Summer 20..,6,16,5,10,1,6,deadweight,16,13,1.10 
-2016,06,04,18:00,deadweight,TBi,mirage,DreamHack ZOWIE Open Summer 20..,16,9,8,7,8,2,deadweight,20,15,1.13 
-2016,06,03,22:10,KoNSweden,KoNNorway,mirage,King of Nordic Season 4,9,16,1,14,8,2,KoN Norway,13,21,0.66 
-2016,05,27,22:10,KoNNorway,KoNSweden,cache,King of Nordic Season 4,16,11,7,8,9,3,KoN Norway,19,17,1.06 
-2016,05,20,22:10,KoNSweden,KoNNorway,overpass,King of Nordic Season 4,5,16,5,10,0,6,KoN Norway,24,11,1.70 
-2016,05,13,22:10,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,6,16,5,10,1,6,KoN Norway,24,13,1.69 
-2016,05,06,22:35,KoNFinland,KoNNorway,mirage,King of Nordic Season 4,12,16,5,10,7,6,KoN Norway,33,19,1.60 
-2016,05,06,21:00,KoNNorway,KoNDenmark,overpass,King of Nordic Season 4,21,19,9,6,6,9,KoN Norway,27,29,1.01 
-2016,05,06,19:25,KoNSweden,KoNNorway,mirage,King of Nordic Season 4,13,16,6,9,7,7,KoN Norway,26,21,1.11 
-2016,04,30,18:25,deadweight,RCTIC,dust2,DreamHack Regional Minor Champ..,4,16,4,11,0,5,deadweight,10,17,0.74 
-2016,04,24,15:00,GODSENT,deadweight,inferno,DreamHack Regional Minor Champ..,19,16,11,4,4,11,deadweight,19,27,0.76 
-2016,04,24,15:00,deadweight,GODSENT,train,DreamHack Regional Minor Champ..,11,16,4,11,7,5,deadweight,26,19,1.43 
-2016,04,24,15:00,deadweight,GODSENT,mirage,DreamHack Regional Minor Champ..,16,14,6,9,10,5,deadweight,21,21,1.02 
-2016,04,23,18:50,deadweight,ENCE,dust2,DreamHack Regional Minor Champ..,8,16,4,11,4,5,deadweight,9,21,0.44 
-2016,04,23,17:20,deadweight,PANTERS,mirage,DreamHack Regional Minor Champ..,16,12,13,2,3,10,deadweight,17,17,0.97 
-2016,03,24,22:35,Alpha,Bananaboys,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,13,5,10,11,3,Bananaboys,26,19,1.23 
-2016,03,24,22:35,Alpha,Bananaboys,dust2,Copenhagen Games 2016 BYOC Qua..,16,14,6,9,10,5,Bananaboys,22,19,1.09 
-2016,03,24,22:35,Bananaboys,Alpha,overpass,Copenhagen Games 2016 BYOC Qua..,16,12,6,9,10,3,Bananaboys,25,20,1.25 
-2016,03,24,19:00,Bananaboys,naptoR.Factory,inferno,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,18,7,1.56 
-2016,03,24,19:00,Bananaboys,naptoR.Factory,dust2,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,16,8,1.55 
-2016,03,24,15:30,Bananaboys,Recursive,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,2,13,2,3,0,Bananaboys,17,12,1.29 
-2016,03,24,13:00,Bananaboys,Quantaya,dust2,Copenhagen Games 2016 BYOC Qua..,19,16,7,8,8,7,Bananaboys,29,23,1.12 
-2015,12,11,20:30,KoNDenmark,KoNNorway,mirage,King of Nordic Season 2,16,8,12,3,4,5,KoN Norway,15,18,0.92 
-2015,12,11,19:15,KoNFinland,KoNNorway,inferno,King of Nordic Season 2,8,16,6,9,2,7,KoN Norway,28,12,1.77 
+2016,08,12,22:10,80,81,0,484,14,16,8,7,6,9,81,26,19,1.26 
+2016,06,05,12:00,382,196,1,546,6,16,6,9,0,7,382,8,18,0.50 
+2016,06,05,12:00,196,382,7,546,16,12,6,9,10,3,382,16,22,0.78 
+2016,06,05,12:00,196,382,0,546,6,16,5,10,1,6,382,16,13,1.10 
+2016,06,04,18:00,382,390,0,546,16,9,8,7,8,2,382,20,15,1.13 
+2016,06,03,22:10,82,81,0,484,9,16,1,14,8,2,81,13,21,0.66 
+2016,05,27,22:10,81,82,7,484,16,11,7,8,9,3,81,19,17,1.06 
+2016,05,20,22:10,82,81,4,484,5,16,5,10,0,6,81,24,11,1.70 
+2016,05,13,22:10,80,81,0,484,6,16,5,10,1,6,81,24,13,1.69 
+2016,05,06,22:35,80,81,0,484,12,16,5,10,7,6,81,33,19,1.60 
+2016,05,06,21:00,81,83,4,484,21,19,9,6,6,9,81,27,29,1.01 
+2016,05,06,19:25,82,81,0,484,13,16,6,9,7,7,81,26,21,1.11 
+2016,04,30,18:25,382,360,1,573,4,16,4,11,0,5,382,10,17,0.74 
+2016,04,24,15:00,9,382,6,573,19,16,11,4,4,11,382,19,27,0.76 
+2016,04,24,15:00,382,9,2,573,11,16,4,11,7,5,382,26,19,1.43 
+2016,04,24,15:00,382,9,0,573,16,14,6,9,10,5,382,21,21,1.02 
+2016,04,23,18:50,382,132,1,573,8,16,4,11,4,5,382,9,21,0.44 
+2016,04,23,17:20,382,453,0,573,16,12,13,2,3,10,382,17,17,0.97 
+2016,03,24,22:35,233,541,14,623,16,13,5,10,11,3,541,26,19,1.23 
+2016,03,24,22:35,233,541,1,623,16,14,6,9,10,5,541,22,19,1.09 
+2016,03,24,22:35,541,233,4,623,16,12,6,9,10,3,541,25,20,1.25 
+2016,03,24,19:00,541,549,6,623,16,2,13,2,3,0,541,18,7,1.56 
+2016,03,24,19:00,541,549,1,623,16,2,13,2,3,0,541,16,8,1.55 
+2016,03,24,15:30,541,545,14,623,16,2,13,2,3,0,541,17,12,1.29 
+2016,03,24,13:00,541,554,1,623,19,16,7,8,8,7,541,29,23,1.12 
+2015,12,11,20:30,83,81,0,673,16,8,12,3,4,5,81,15,18,0.92 
+2015,12,11,19:15,80,81,6,673,8,16,6,9,2,7,81,28,12,1.77 

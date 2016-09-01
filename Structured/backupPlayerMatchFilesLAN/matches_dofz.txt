@@ -1,4 +1,0 @@
-2016,07,02,11:15,Kalashnikov47,GimmeSomeCANDY,cobblestone,King of Nordic's Challenger Cu..,16,9,7,8,9,1,GimmeSomeCANDY,8,18,0.52 
-2016,07,02,11:15,Kalashnikov47,GimmeSomeCANDY,cache,King of Nordic's Challenger Cu..,16,4,13,2,3,2,GimmeSomeCANDY,9,16,0.57 
-2016,07,01,21:40,GimmeSomeCANDY,LGR,cobblestone,King of Nordic's Challenger Cu..,3,16,3,12,0,4,GimmeSomeCANDY,11,18,0.62 
-2016,07,01,21:40,GimmeSomeCANDY,LGR,dust2,King of Nordic's Challenger Cu..,2,16,2,13,0,3,GimmeSomeCANDY,5,16,0.32 

@@ -1,2 +1,2 @@
-2016,05,08,18:00,uNLimited-Potential,Winterfox,cobblestone,MLG Regional Minor North Ameri..,4,16,3,12,1,4,uNLimited-Potential,8,19,0.37 
-2016,05,08,18:00,Winterfox,uNLimited-Potential,train,MLG Regional Minor North Ameri..,16,1,14,1,2,0,uNLimited-Potential,13,17,0.84 
+2016,05,08,18:00,452,279,14,581,4,16,3,12,1,4,452,8,19,0.37 
+2016,05,08,18:00,279,452,2,581,16,1,14,1,2,0,452,13,17,0.84 

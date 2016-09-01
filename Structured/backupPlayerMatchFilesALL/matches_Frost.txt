@@ -1,4 +1,4 @@
-2015,08,13,16:00,Slovenia,Malta,dust2,World Championships 2015 Europ..,16,9,10,5,6,4,Malta,12,19,0.64 
-2015,08,13,16:00,Malta,Slovenia,inferno,World Championships 2015 Europ..,11,16,8,7,3,9,Malta,17,19,0.90 
-2015,07,18,10:15,TheMongolz,myRevenge,inferno,ESL One Cologne 2015 Asian Qua..,14,16,10,5,4,11,TheMongolz,22,20,1.02 
-2015,07,18,05:45,TheMongolz,Immunity,mirage,ESL One Cologne 2015 Asian Qua..,10,16,8,7,2,9,TheMongolz,7,22,0.37 
+2015,08,13,16:00,24,125,1,799,16,9,10,5,6,4,125,12,19,0.64 
+2015,08,13,16:00,125,24,6,799,11,16,8,7,3,9,125,17,19,0.90 
+2015,07,18,10:15,150,648,6,873,14,16,10,5,4,11,150,22,20,1.02 
+2015,07,18,05:45,150,429,0,873,10,16,8,7,2,9,150,7,22,0.37 

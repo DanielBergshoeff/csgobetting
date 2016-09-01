@@ -1,6 +1,6 @@
-2015,10,19,02:00,Tectonic,SuckBrickKids,cache,Fragadelphia 6,16,6,14,1,2,5,Suck Brick Kids,18,18,1.15 
-2015,10,19,00:35,SetToDestroyX,SuckBrickKids,mirage,Fragadelphia 6,13,16,10,5,3,11,Suck Brick Kids,14,20,0.74 
-2015,10,18,20:45,CLGRed,SuckBrickKids,cobblestone,Fragadelphia 6,8,16,6,9,2,7,Suck Brick Kids,21,13,1.35 
-2015,10,18,17:25,TheMooninites,SuckBrickKids,cache,Fragadelphia 6,20,22,12,3,3,12,Suck Brick Kids,30,32,0.94 
-2015,10,18,01:20,SuckBrickKids,Tectonic,cobblestone,Fragadelphia 6,6,16,4,11,2,5,Suck Brick Kids,13,17,0.71 
-2015,10,18,01:20,Tectonic,SuckBrickKids,overpass,Fragadelphia 6,25,21,8,7,7,8,Suck Brick Kids,33,36,0.95 
+2015,10,19,02:00,79,916,7,780,16,6,14,1,2,5,916,18,18,1.15 
+2015,10,19,00:35,757,916,0,780,13,16,10,5,3,11,916,14,20,0.74 
+2015,10,18,20:45,510,916,14,780,8,16,6,9,2,7,916,21,13,1.35 
+2015,10,18,17:25,921,916,7,780,20,22,12,3,3,12,916,30,32,0.94 
+2015,10,18,01:20,916,79,14,780,6,16,4,11,2,5,916,13,17,0.71 
+2015,10,18,01:20,79,916,4,780,25,21,8,7,7,8,916,33,36,0.95 

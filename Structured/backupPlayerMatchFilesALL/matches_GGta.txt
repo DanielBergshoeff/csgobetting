@@ -1,10 +1,10 @@
-2016,04,30,20:00,AIMERZZ,fRactals,dust2,Rising Stars Africa Promotiona..,22,19,7,8,8,7,AIMERZZ,37,29,1.23 
-2016,04,30,20:00,fRactals,AIMERZZ,cache,Rising Stars Africa Promotiona..,12,16,2,13,10,3,AIMERZZ,20,21,0.90 
-2016,04,29,22:10,aTw,AIMERZZ,mirage,Rising Stars Africa Promotiona..,4,16,3,12,1,4,AIMERZZ,20,11,1.58 
-2016,04,29,22:10,aTw,AIMERZZ,cobblestone,Rising Stars Africa Promotiona..,10,16,4,11,6,5,AIMERZZ,25,16,1.38 
-2016,04,28,18:10,SuperstarS,AIMERZZ,cache,Rising Stars Africa Promotiona..,9,16,5,10,4,6,AIMERZZ,19,16,1.11 
-2016,04,28,18:10,SuperstarS,AIMERZZ,mirage,Rising Stars Africa Promotiona..,10,16,9,6,1,10,AIMERZZ,16,16,0.94 
-2015,08,12,16:30,Egypt,Algeria,cache,World Championships 2015 Afric..,16,9,6,9,10,0,Algeria,21,16,1.11 
-2015,08,12,14:00,Libya,Algeria,dust2,World Championships 2015 Afric..,15,15,7,8,8,7,Libya,25,24,1.17 
-2015,08,11,14:00,Algeria,Tunisia,inferno,World Championships 2015 Afric..,12,16,5,10,7,6,Algeria,18,21,0.82 
-2015,08,10,14:00,Morocco,Algeria,dust2,World Championships 2015 Afric..,15,15,7,8,8,7,Algeria,24,23,1.19 
+2016,04,30,20:00,460,461,1,592,22,19,7,8,8,7,460,37,29,1.23 
+2016,04,30,20:00,461,460,7,592,12,16,2,13,10,3,460,20,21,0.90 
+2016,04,29,22:10,464,460,0,592,4,16,3,12,1,4,460,20,11,1.58 
+2016,04,29,22:10,464,460,14,592,10,16,4,11,6,5,460,25,16,1.38 
+2016,04,28,18:10,468,460,7,592,9,16,5,10,4,6,460,19,16,1.11 
+2016,04,28,18:10,468,460,0,592,10,16,9,6,1,10,460,16,16,0.94 
+2015,08,12,16:30,183,190,7,855,16,9,6,9,10,0,190,21,16,1.11 
+2015,08,12,14:00,178,190,1,855,15,15,7,8,8,7,178,25,24,1.17 
+2015,08,11,14:00,190,14,6,855,12,16,5,10,7,6,190,18,21,0.82 
+2015,08,10,14:00,171,190,1,855,15,15,7,8,8,7,190,24,23,1.19 

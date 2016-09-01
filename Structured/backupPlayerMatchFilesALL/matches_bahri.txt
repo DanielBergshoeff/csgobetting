@@ -1,2 +1,2 @@
-2014,08,26,21:30,UnitedKingdom,Malta,mirage,European Championship 2014 Qua..,16,0,15,0,1,0,Malta,5,16,0.30 
-2014,08,26,21:30,Malta,UnitedKingdom,dust2,European Championship 2014 Qua..,2,16,2,13,0,3,Malta,7,16,0.40 
+2014,08,26,21:30,33,125,0,1035,16,0,15,0,1,0,125,5,16,0.30 
+2014,08,26,21:30,125,33,1,1035,2,16,2,13,0,3,125,7,16,0.40 

@@ -1,14 +1,14 @@
-2014,10,05,17:35,fAlsu'steam,naSu'steam,cache,Areena #6 by ROCCAT,14,16,8,7,6,9,fAlsu's team,14,21,0.66 
-2014,10,05,16:45,juho'steam,fAlsu'steam,inferno,Areena #6 by ROCCAT,16,3,13,2,3,1,fAlsu's team,11,17,0.63 
-2014,10,05,14:30,fAlsu'steam,KIPSIk'steam,dust2,Areena #6 by ROCCAT,16,12,12,3,4,9,fAlsu's team,15,20,0.82 
-2014,10,05,13:20,fAlsu'steam,juho'steam,inferno,Areena #6 by ROCCAT,14,16,7,8,7,8,fAlsu's team,13,23,0.65 
-2014,10,05,12:20,fAlsu'steam,naSu'steam,dust2,Areena #6 by ROCCAT,16,13,8,7,8,6,fAlsu's team,26,18,1.26 
-2014,10,05,11:25,osku'steam,fAlsu'steam,dust2,Areena #6 by ROCCAT,11,16,7,8,4,8,fAlsu's team,17,14,0.99 
-2014,10,05,10:25,sAw'steam,fAlsu'steam,dust2,Areena #6 by ROCCAT,16,10,9,6,7,4,fAlsu's team,12,22,0.58 
-2014,10,05,09:35,fAlsu'steam,Twista'steam,dust2,Areena #6 by ROCCAT,16,6,10,5,6,1,fAlsu's team,13,11,0.98 
-2014,06,28,14:45,shaker'steam,duffman'steam,dust2,Areena #4 by SteelSeries,16,10,7,8,9,2,shaker's team,15,16,0.97 
-2014,06,28,13:15,shaker'steam,allu'steam,dust2,Areena #4 by SteelSeries,16,10,10,5,6,5,shaker's team,18,17,1.02 
-2014,06,28,12:00,shaker'steam,suNny'steam,inferno,Areena #4 by SteelSeries,10,16,8,7,2,9,shaker's team,15,18,0.82 
-2014,06,28,11:15,Twista'steam,shaker'steam,train,Areena #4 by SteelSeries,16,2,13,2,3,0,shaker's team,10,18,0.56 
-2014,06,28,10:35,dRiim'steam,shaker'steam,mirage,Areena #4 by SteelSeries,16,8,12,3,4,5,shaker's team,18,19,0.97 
-2014,06,28,09:45,KIPSIk'steam,shaker'steam,inferno,Areena #4 by SteelSeries,16,10,12,3,4,7,shaker's team,21,18,1.16 
+2014,10,05,17:35,1185,1183,7,1015,14,16,8,7,6,9,1185,14,21,0.66 
+2014,10,05,16:45,1181,1185,6,1015,16,3,13,2,3,1,1185,11,17,0.63 
+2014,10,05,14:30,1185,1188,1,1015,16,12,12,3,4,9,1185,15,20,0.82 
+2014,10,05,13:20,1185,1181,6,1015,14,16,7,8,7,8,1185,13,23,0.65 
+2014,10,05,12:20,1185,1183,1,1015,16,13,8,7,8,6,1185,26,18,1.26 
+2014,10,05,11:25,1186,1185,1,1015,11,16,7,8,4,8,1185,17,14,0.99 
+2014,10,05,10:25,1182,1185,1,1015,16,10,9,6,7,4,1185,12,22,0.58 
+2014,10,05,09:35,1185,1187,1,1015,16,6,10,5,6,1,1185,13,11,0.98 
+2014,06,28,14:45,1235,1234,1,1057,16,10,7,8,9,2,1235,15,16,0.97 
+2014,06,28,13:15,1235,1236,1,1057,16,10,10,5,6,5,1235,18,17,1.02 
+2014,06,28,12:00,1235,1233,6,1057,10,16,8,7,2,9,1235,15,18,0.82 
+2014,06,28,11:15,1187,1235,2,1057,16,2,13,2,3,0,1235,10,18,0.56 
+2014,06,28,10:35,1232,1235,0,1057,16,8,12,3,4,5,1235,18,19,0.97 
+2014,06,28,09:45,1188,1235,6,1057,16,10,12,3,4,7,1235,21,18,1.16 

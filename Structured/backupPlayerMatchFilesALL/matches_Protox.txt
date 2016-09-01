@@ -1,2 +1,2 @@
-2016,03,25,06:35,LucendiAzolt,Insolent,overpass,Razer Rising Stars NA League Q..,7,16,6,9,1,7,Insolent,19,12,1.33 
-2016,03,23,02:00,Rhythm,Insolent,train,Razer Rising Stars NA League Q..,21,15,10,5,5,10,Insolent,20,30,0.66 
+2016,03,25,06:35,532,533,4,621,7,16,6,9,1,7,533,19,12,1.33 
+2016,03,23,02:00,590,533,2,621,21,15,10,5,5,10,533,20,30,0.66 

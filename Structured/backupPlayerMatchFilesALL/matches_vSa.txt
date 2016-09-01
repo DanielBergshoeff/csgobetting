@@ -1,14 +1,14 @@
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,dust2,Fragadelphia 8,16,10,10,5,6,5,Bee's Money Crew,23,17,1.20 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,train,Fragadelphia 8,16,14,7,8,9,6,Bee's Money Crew,21,18,1.09 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,cobblestone,Fragadelphia 8,12,16,6,9,6,7,Bee's Money Crew,20,20,1.20 
-2016,05,23,04:30,Bee'sMoneyCrew,EchoMix,inferno,Fragadelphia 8,16,8,10,5,6,3,Bee's Money Crew,18,11,1.29 
-2016,04,14,02:00,Bee'sMoneyCrew,compLexity,mirage,CEVO Gfinity Professional Seas..,10,16,4,11,6,5,Bee's Money Crew,14,20,0.73 
-2016,04,14,02:00,Bee'sMoneyCrew,compLexity,cobblestone,CEVO Gfinity Professional Seas..,16,10,10,5,6,5,Bee's Money Crew,23,19,1.18 
-2016,04,14,02:00,Bee'sMoneyCrew,compLexity,cache,CEVO Gfinity Professional Seas..,7,16,7,8,0,8,Bee's Money Crew,16,19,0.90 
-2016,02,26,02:30,Obey.Alliance,VexX,overpass,Stream.me Gauntlet ,16,7,11,4,5,3,VexX,11,17,0.69 
-2016,02,26,02:30,Obey.Alliance,VexX,cache,Stream.me Gauntlet ,16,11,7,8,9,3,VexX,30,19,1.49 
-2016,02,26,02:30,VexX,Obey.Alliance,train,Stream.me Gauntlet ,16,14,11,4,5,10,VexX,34,17,1.80 
-2015,10,18,22:00,SetToDestroyX,Forbidden,cobblestone,Fragadelphia 6,16,12,11,4,5,8,Forbidden,16,20,0.79 
-2015,10,18,01:30,Dynasty,Forbidden,cobblestone,Fragadelphia 6,16,11,7,8,9,3,Forbidden,15,21,0.71 
-2015,10,18,01:30,Forbidden,Dynasty,train,Fragadelphia 6,6,16,3,12,3,4,Forbidden,6,21,0.32 
-2015,10,18,01:30,Forbidden,Dynasty,mirage,Fragadelphia 6,16,6,12,3,4,3,Forbidden,17,11,1.24 
+2016,05,23,04:30,422,423,1,565,16,10,10,5,6,5,422,23,17,1.20 
+2016,05,23,04:30,422,423,2,565,16,14,7,8,9,6,422,21,18,1.09 
+2016,05,23,04:30,422,423,14,565,12,16,6,9,6,7,422,20,20,1.20 
+2016,05,23,04:30,422,423,6,565,16,8,10,5,6,3,422,18,11,1.29 
+2016,04,14,02:00,422,116,0,590,10,16,4,11,6,5,422,14,20,0.73 
+2016,04,14,02:00,422,116,14,590,16,10,10,5,6,5,422,23,19,1.18 
+2016,04,14,02:00,422,116,7,590,7,16,7,8,0,8,422,16,19,0.90 
+2016,02,26,02:30,499,646,4,622,16,7,11,4,5,3,646,11,17,0.69 
+2016,02,26,02:30,499,646,7,622,16,11,7,8,9,3,646,30,19,1.49 
+2016,02,26,02:30,646,499,2,622,16,14,11,4,5,10,646,34,17,1.80 
+2015,10,18,22:00,757,919,14,780,16,12,11,4,5,8,919,16,20,0.79 
+2015,10,18,01:30,92,919,14,780,16,11,7,8,9,3,919,15,21,0.71 
+2015,10,18,01:30,919,92,2,780,6,16,3,12,3,4,919,6,21,0.32 
+2015,10,18,01:30,919,92,0,780,16,6,12,3,4,3,919,17,11,1.24 

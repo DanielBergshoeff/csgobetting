@@ -1,32 +1,32 @@
-2016,08,07,16:20,Refuse,MMCLUB,cache,ECS Season 2 EU Open Qualifier..,12,16,4,11,8,5,Refuse,25,18,1.24 
-2016,08,07,15:10,Refuse,DarkPassage,cache,ECS Season 2 EU Open Qualifier..,16,12,9,6,7,6,Refuse,16,18,0.91 
-2016,05,29,15:10,Dobry&Gaming,Refuse,train,GeForce CUP at ESPORT NOW 2016,16,14,11,4,5,10,Refuse,22,22,1.02 
-2016,05,29,15:10,Dobry&Gaming,Refuse,cache,GeForce CUP at ESPORT NOW 2016,16,9,7,8,9,1,Refuse,23,17,1.17 
-2016,05,28,19:15,iNETKOXTV,Refuse,inferno,GeForce CUP at ESPORT NOW 2016,8,16,7,8,1,8,Refuse,10,15,0.70 
-2016,05,28,19:15,iNETKOXTV,Refuse,dust2,GeForce CUP at ESPORT NOW 2016,11,16,4,11,7,5,Refuse,25,17,1.40 
-2016,05,28,19:15,iNETKOXTV,Refuse,cache,GeForce CUP at ESPORT NOW 2016,16,6,11,4,5,2,Refuse,9,19,0.48 
-2016,02,21,15:00,Refuse,Cl4nless,cache,Cracow Game Spot 2016,16,1,14,1,2,0,Cl4nless,6,16,0.45 
-2016,02,21,15:00,Refuse,Cl4nless,mirage,Cracow Game Spot 2016,16,14,7,8,9,6,Cl4nless,28,18,1.55 
-2016,02,21,15:00,Refuse,Cl4nless,dust2,Cracow Game Spot 2016,13,16,8,7,5,9,Cl4nless,14,17,0.82 
-2016,01,28,20:15,GameAgents,ImperialDragons,inferno,Uprise Champions Cup Season 4 ..,16,8,7,8,9,0,Imperial Dragons,20,17,1.15 
-2016,01,18,19:15,PENTA,ImperialDragons,train,Operation: Kinguin #2,16,9,11,4,5,5,Imperial Dragons,12,19,0.71 
-2016,01,18,19:15,ImperialDragons,PENTA,mirage,Operation: Kinguin #2,6,16,5,10,1,6,Imperial Dragons,7,20,0.37 
-2015,12,14,20:30,EpiphanyBolt,ImperialDragons,dust2,Game On European Invitational,16,13,6,9,10,4,Imperial Dragons,23,20,1.12 
-2015,12,14,20:30,EpiphanyBolt,ImperialDragons,mirage,Game On European Invitational,16,3,12,3,4,0,Imperial Dragons,9,16,0.62 
-2015,12,14,20:30,ImperialDragons,EpiphanyBolt,inferno,Game On European Invitational,16,14,8,7,8,7,Imperial Dragons,25,18,1.22 
-2015,11,22,10:30,ImperialDragons,Vexed,cache,Color League by EIZO & QPAD,10,16,7,8,3,8,Imperial Dragons,20,17,1.06 
-2015,11,22,10:30,Vexed,ImperialDragons,mirage,Color League by EIZO & QPAD,16,8,11,4,5,4,Imperial Dragons,11,16,0.73 
-2015,11,22,10:30,Vexed,ImperialDragons,train,Color League by EIZO & QPAD,8,16,7,8,1,8,Imperial Dragons,14,13,0.93 
-2015,11,21,16:45,ImperialDragons,ALSEN,mirage,Color League by EIZO & QPAD,16,10,9,6,7,4,Imperial Dragons,21,15,1.15 
-2015,11,21,16:45,ImperialDragons,ALSEN,train,Color League by EIZO & QPAD,11,16,5,10,6,6,Imperial Dragons,17,22,0.78 
-2015,11,21,16:45,ALSEN,ImperialDragons,inferno,Color League by EIZO & QPAD,10,16,2,13,8,3,Imperial Dragons,25,11,1.52 
-2015,11,21,14:15,ImperialDragons,Vexed,dust2,Color League by EIZO & QPAD,7,16,6,9,1,7,Imperial Dragons,10,17,0.65 
-2015,11,21,14:15,Vexed,ImperialDragons,mirage,Color League by EIZO & QPAD,19,15,6,9,9,6,Imperial Dragons,21,21,0.96 
-2015,09,24,21:00,VERYT0X1C,GdanskLions,mirage,ESL Polish Championship Season..,16,10,12,3,4,7,Gdansk Lions,12,20,0.73 
-2015,09,24,21:00,GdanskLions,VERYT0X1C,train,ESL Polish Championship Season..,8,16,4,11,4,5,Gdansk Lions,21,19,1.09 
-2015,09,15,20:00,GdanskLions,CSGL,overpass,ESL Polish Championship Season..,8,16,5,10,3,6,Gdansk Lions,10,20,0.63 
-2015,09,15,20:00,CSGL,GdanskLions,mirage,ESL Polish Championship Season..,16,2,13,2,3,0,Gdansk Lions,13,17,0.97 
-2015,09,14,18:45,GdanskLions,PiTER,mirage,Hitbox Arena Showdown Invitati..,4,16,4,11,0,5,Gdansk Lions,9,18,0.49 
-2015,09,08,20:00,GdanskLions,ESC,overpass,ESL Polish Championship Season..,16,11,10,5,6,6,Gdansk Lions,16,19,0.78 
-2015,09,08,20:00,GdanskLions,ESC,mirage,ESL Polish Championship Season..,9,16,2,13,7,3,Gdansk Lions,14,18,0.79 
-2015,09,08,20:00,GdanskLions,ESC,inferno,ESL Polish Championship Season..,16,13,8,7,8,6,Gdansk Lions,20,19,1.08 
+2016,08,07,16:20,158,155,7,477,12,16,4,11,8,5,158,25,18,1.24 
+2016,08,07,15:10,158,28,7,477,16,12,9,6,7,6,158,16,18,0.91 
+2016,05,29,15:10,380,158,2,561,16,14,11,4,5,10,158,22,22,1.02 
+2016,05,29,15:10,380,158,7,561,16,9,7,8,9,1,158,23,17,1.17 
+2016,05,28,19:15,311,158,6,561,8,16,7,8,1,8,158,10,15,0.70 
+2016,05,28,19:15,311,158,1,561,11,16,4,11,7,5,158,25,17,1.40 
+2016,05,28,19:15,311,158,7,561,16,6,11,4,5,2,158,9,19,0.48 
+2016,02,21,15:00,158,672,7,650,16,1,14,1,2,0,672,6,16,0.45 
+2016,02,21,15:00,158,672,0,650,16,14,7,8,9,6,672,28,18,1.55 
+2016,02,21,15:00,158,672,1,650,13,16,8,7,5,9,672,14,17,0.82 
+2016,01,28,20:15,358,700,6,656,16,8,7,8,9,0,700,20,17,1.15 
+2016,01,18,19:15,196,700,2,605,16,9,11,4,5,5,700,12,19,0.71 
+2016,01,18,19:15,700,196,0,605,6,16,5,10,1,6,700,7,20,0.37 
+2015,12,14,20:30,137,700,1,697,16,13,6,9,10,4,700,23,20,1.12 
+2015,12,14,20:30,137,700,0,697,16,3,12,3,4,0,700,9,16,0.62 
+2015,12,14,20:30,700,137,6,697,16,14,8,7,8,7,700,25,18,1.22 
+2015,11,22,10:30,700,642,7,737,10,16,7,8,3,8,700,20,17,1.06 
+2015,11,22,10:30,642,700,0,737,16,8,11,4,5,4,700,11,16,0.73 
+2015,11,22,10:30,642,700,2,737,8,16,7,8,1,8,700,14,13,0.93 
+2015,11,21,16:45,700,838,0,737,16,10,9,6,7,4,700,21,15,1.15 
+2015,11,21,16:45,700,838,2,737,11,16,5,10,6,6,700,17,22,0.78 
+2015,11,21,16:45,838,700,6,737,10,16,2,13,8,3,700,25,11,1.52 
+2015,11,21,14:15,700,642,1,737,7,16,6,9,1,7,700,10,17,0.65 
+2015,11,21,14:15,642,700,0,737,19,15,6,9,9,6,700,21,21,0.96 
+2015,09,24,21:00,967,968,0,796,16,10,12,3,4,7,968,12,20,0.73 
+2015,09,24,21:00,968,967,2,796,8,16,4,11,4,5,968,21,19,1.09 
+2015,09,15,20:00,968,439,4,796,8,16,5,10,3,6,968,10,20,0.63 
+2015,09,15,20:00,439,968,0,796,16,2,13,2,3,0,968,13,17,0.97 
+2015,09,14,18:45,968,490,0,815,4,16,4,11,0,5,968,9,18,0.49 
+2015,09,08,20:00,968,841,4,796,16,11,10,5,6,6,968,16,19,0.78 
+2015,09,08,20:00,968,841,0,796,9,16,2,13,7,3,968,14,18,0.79 
+2015,09,08,20:00,968,841,6,796,16,13,8,7,8,6,968,20,19,1.08 

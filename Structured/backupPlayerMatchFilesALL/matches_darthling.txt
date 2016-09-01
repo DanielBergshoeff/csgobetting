@@ -1,2 +1,2 @@
-2015,06,28,15:30,ENCORE,SihirdarRehberi,inferno,ESL One Cologne 2015 EU pre-qu..,16,4,11,4,5,0,Sihirdar Rehberi,6,19,0.29 
-2015,06,28,15:30,ENCORE,SihirdarRehberi,cache,ESL One Cologne 2015 EU pre-qu..,16,11,9,6,7,5,Sihirdar Rehberi,13,23,0.59 
+2015,06,28,15:30,1052,1053,6,881,16,4,11,4,5,0,1053,6,19,0.29 
+2015,06,28,15:30,1052,1053,7,881,16,11,9,6,7,5,1053,13,23,0.59 

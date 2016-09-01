@@ -1,5 +1,0 @@
-2016,03,26,14:30,LGBfe,Exertusfe,cache,Copenhagen Games 2016 female,16,19,9,6,6,9,LGB fe,24,26,0.97 
-2016,03,26,14:30,Exertusfe,LGBfe,inferno,Copenhagen Games 2016 female,16,7,12,3,4,4,LGB fe,15,20,0.83 
-2016,03,25,16:30,doyouevenfe,LGBfe,cache,Copenhagen Games 2016 female,7,16,3,12,4,4,LGB fe,18,9,1.33 
-2016,03,25,16:30,doyouevenfe,LGBfe,mirage,Copenhagen Games 2016 female,16,9,11,4,5,5,LGB fe,17,20,0.92 
-2016,03,25,16:30,doyouevenfe,LGBfe,cobblestone,Copenhagen Games 2016 female,5,16,5,10,0,6,LGB fe,16,10,1.29 

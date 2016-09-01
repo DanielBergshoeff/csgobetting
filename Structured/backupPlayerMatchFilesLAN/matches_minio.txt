@@ -1,6 +1,0 @@
-2016,02,27,15:50,Preparation,ALAMIX,inferno,Pantamera CS:GO Challenge 2016,16,3,13,2,3,1,A LA MIX,13,17,0.87 
-2016,02,27,14:15,ALAMIX,Ancient,inferno,Pantamera CS:GO Challenge 2016,6,16,5,10,1,6,A LA MIX,8,20,0.40 
-2016,02,27,13:00,ENCE,ALAMIX,dust2,Pantamera CS:GO Challenge 2016,16,2,13,2,3,0,A LA MIX,7,17,0.47 
-2016,02,19,18:15,Optimum,Temporaryorgless,cache,Nordic Masters Season 2 Finals,16,2,13,2,3,0,Temporary orgless,8,17,0.45 
-2016,02,19,18:15,Optimum,Temporaryorgless,mirage,Nordic Masters Season 2 Finals,16,3,13,2,3,1,Temporary orgless,12,18,0.66 
-2016,02,19,14:45,Preparation,Temporaryorgless,inferno,Nordic Masters Season 2 Finals,16,12,7,8,9,4,Temporary orgless,22,20,1.16 

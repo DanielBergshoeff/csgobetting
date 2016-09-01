@@ -1,3 +1,0 @@
-2016,03,24,17:00,aNimus,Heroic,inferno,Copenhagen Games 2016 BYOC Qua..,11,16,9,6,2,10,aNimus,20,19,1.01 
-2016,03,24,15:30,aNimus,Tog,cobblestone,Copenhagen Games 2016 BYOC Qua..,16,3,12,3,4,0,aNimus,15,7,1.36 
-2016,03,24,13:00,aNimus,Heroic,dust2,Copenhagen Games 2016 BYOC Qua..,5,16,3,12,2,4,aNimus,6,20,0.31 

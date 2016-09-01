@@ -1,2 +1,0 @@
-2016,04,23,11:30,BornOfFire,B.O.O.T,inferno,Pro Gamers League 2016 Spring,16,3,12,3,4,0,B.O.O.T,8,18,0.46 
-2016,04,23,11:30,BornOfFire,B.O.O.T,mirage,Pro Gamers League 2016 Spring,16,10,9,6,7,4,B.O.O.T,16,23,0.72 

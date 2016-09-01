@@ -1,3 +1,0 @@
-2015,09,05,08:20,Swarm,Enemy,cache,WinOut $20,000 CS:GO Champions..,9,16,7,8,2,8,Swarm,20,21,1.03 
-2015,09,05,06:00,Swarm,CLGRed,cobblestone,WinOut $20,000 CS:GO Champions..,16,13,8,7,8,6,Swarm,23,20,1.12 
-2015,09,05,05:30,Enemy,Swarm,inferno,WinOut $20,000 CS:GO Champions..,16,5,14,1,2,4,Swarm,14,18,0.87 

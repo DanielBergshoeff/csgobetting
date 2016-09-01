@@ -1,10 +1,10 @@
-2015,04,23,20:30,DelinquentHabits,XPC,cache,ESL South East Europe Champion..,3,16,2,13,1,3,Delinquent Habits,8,17,0.62 
-2015,04,23,20:30,DelinquentHabits,XPC,inferno,ESL South East Europe Champion..,6,16,4,11,2,5,Delinquent Habits,15,19,0.84 
-2015,04,22,20:30,EZPZ_LS,DelinquentHabits,mirage,ESL South East Europe Champion..,16,9,8,7,8,2,Delinquent Habits,14,19,0.73 
-2015,04,22,20:30,EZPZ_LS,DelinquentHabits,inferno,ESL South East Europe Champion..,16,1,14,1,2,0,Delinquent Habits,10,17,0.63 
-2015,04,16,23:00,H2B,DelinquentHabits,cache,ESL South East Europe Champion..,16,13,9,6,7,7,Delinquent Habits,20,21,0.91 
-2015,04,16,23:00,H2B,DelinquentHabits,mirage,ESL South East Europe Champion..,16,11,6,9,10,2,Delinquent Habits,19,20,0.95 
-2015,04,16,23:00,H2B,DelinquentHabits,inferno,ESL South East Europe Champion..,11,16,8,7,3,9,Delinquent Habits,24,15,1.37 
-2014,08,18,21:00,Macedonia,Greece,dust2,European Championship 2014 Qua..,16,14,5,10,11,4,Greece,19,19,1.00 
-2014,08,18,21:00,Greece,Macedonia,inferno,European Championship 2014 Qua..,16,2,13,2,3,0,Greece,9,6,1.03 
-2014,08,18,21:00,Macedonia,Greece,mirage,European Championship 2014 Qua..,16,6,10,5,6,1,Greece,10,18,0.58 
+2015,04,23,20:30,999,379,7,560,3,16,2,13,1,3,999,8,17,0.62 
+2015,04,23,20:30,999,379,6,560,6,16,4,11,2,5,999,15,19,0.84 
+2015,04,22,20:30,283,999,0,560,16,9,8,7,8,2,999,14,19,0.73 
+2015,04,22,20:30,283,999,6,560,16,1,14,1,2,0,999,10,17,0.63 
+2015,04,16,23:00,1076,999,7,560,16,13,9,6,7,7,999,20,21,0.91 
+2015,04,16,23:00,1076,999,0,560,16,11,6,9,10,2,999,19,20,0.95 
+2015,04,16,23:00,1076,999,6,560,11,16,8,7,3,9,999,24,15,1.37 
+2014,08,18,21:00,0,88,1,1035,16,14,5,10,11,4,88,19,19,1.00 
+2014,08,18,21:00,88,0,6,1035,16,2,13,2,3,0,88,9,6,1.03 
+2014,08,18,21:00,0,88,0,1035,16,6,10,5,6,1,88,10,18,0.58 

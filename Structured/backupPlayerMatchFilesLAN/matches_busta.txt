@@ -1,3 +1,0 @@
-2015,11,27,12:00,Legacy,Liquid,cache,FACEIT League 2015 Stage 3 Fin..,11,16,7,8,4,8,Legacy,14,21,0.66 
-2015,11,27,12:00,Legacy,Liquid,cobblestone,FACEIT League 2015 Stage 3 Fin..,8,16,3,12,5,4,Legacy,17,14,1.08 
-2015,11,26,13:00,Virtus.pro,Legacy,cobblestone,FACEIT League 2015 Stage 3 Fin..,16,12,9,6,7,6,Legacy,14,21,0.66 

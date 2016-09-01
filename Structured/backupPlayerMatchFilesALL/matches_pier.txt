@@ -1,14 +1,14 @@
-2016,05,15,13:45,EasyFix,TES,overpass,HyperX Cup Finals,4,16,3,12,1,4,TES,15,10,1.12 
-2016,05,15,13:45,TES,EasyFix,cache,HyperX Cup Finals,16,14,7,8,9,6,TES,23,21,1.18 
-2015,10,25,13:15,ExAequo,NextGaming,cobblestone,Milan Games Week 2015 League b..,16,10,10,5,6,5,NextGaming,18,20,0.88 
-2015,10,25,13:15,ExAequo,NextGaming,dust2,Milan Games Week 2015 League b..,16,11,7,8,9,3,NextGaming,7,21,0.42 
-2015,10,15,22:00,RIPFonty,SwagSilicone,cache,Milan Games Week 2015 League b..,8,16,6,9,2,7,Swag Silicone,14,15,0.91 
-2015,10,15,22:00,SwagSilicone,RIPFonty,mirage,Milan Games Week 2015 League b..,21,16,9,6,6,9,Swag Silicone,20,20,0.95 
-2015,10,13,20:30,SwagSilicone,EasyFix,dust2,Milan Games Week 2015 League b..,7,16,6,9,1,7,Swag Silicone,20,18,1.11 
-2015,10,13,20:30,EasyFix,SwagSilicone,mirage,Milan Games Week 2015 League b..,9,16,8,7,1,9,Swag Silicone,13,16,0.77 
-2015,10,08,22:00,iDomina,SwagSilicone,dust2,Milan Games Week 2015 League b..,12,16,7,8,5,8,Swag Silicone,26,20,1.17 
-2015,10,08,22:00,SwagSilicone,iDomina,mirage,Milan Games Week 2015 League b..,16,8,11,4,5,4,Swag Silicone,21,12,1.26 
-2015,10,06,20:00,ExAequo,SwagSilicone,cobblestone,Milan Games Week 2015 League b..,16,1,14,1,2,0,Swag Silicone,8,16,0.54 
-2015,10,06,20:00,ExAequo,SwagSilicone,dust2,Milan Games Week 2015 League b..,16,7,12,3,4,4,Swag Silicone,16,20,0.99 
-2015,10,01,22:00,TES,SwagSilicone,mirage,Milan Games Week 2015 League b..,16,10,11,4,5,6,Swag Silicone,22,21,1.09 
-2015,10,01,22:00,SwagSilicone,TES,cobblestone,Milan Games Week 2015 League b..,16,12,9,6,7,6,Swag Silicone,13,20,0.72 
+2016,05,15,13:45,437,438,4,577,4,16,3,12,1,4,438,15,10,1.12 
+2016,05,15,13:45,438,437,7,577,16,14,7,8,9,6,438,23,21,1.18 
+2015,10,25,13:15,596,900,14,773,16,10,10,5,6,5,900,18,20,0.88 
+2015,10,25,13:15,596,900,1,773,16,11,7,8,9,3,900,7,21,0.42 
+2015,10,15,22:00,930,931,7,773,8,16,6,9,2,7,931,14,15,0.91 
+2015,10,15,22:00,931,930,0,773,21,16,9,6,6,9,931,20,20,0.95 
+2015,10,13,20:30,931,437,1,773,7,16,6,9,1,7,931,20,18,1.11 
+2015,10,13,20:30,437,931,0,773,9,16,8,7,1,9,931,13,16,0.77 
+2015,10,08,22:00,929,931,1,773,12,16,7,8,5,8,931,26,20,1.17 
+2015,10,08,22:00,931,929,0,773,16,8,11,4,5,4,931,21,12,1.26 
+2015,10,06,20:00,596,931,14,773,16,1,14,1,2,0,931,8,16,0.54 
+2015,10,06,20:00,596,931,1,773,16,7,12,3,4,4,931,16,20,0.99 
+2015,10,01,22:00,438,931,0,773,16,10,11,4,5,6,931,22,21,1.09 
+2015,10,01,22:00,931,438,14,773,16,12,9,6,7,6,931,13,20,0.72 

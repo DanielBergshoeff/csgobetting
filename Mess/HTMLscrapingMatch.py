@@ -1,8 +1,6 @@
 import sys
 sys.path.append('/usr/local/lib/python2.7/site-packages')
 
-import numpy as np
-from datetime import date
 from lxml import html
 import requests
 
@@ -19,17 +17,13 @@ with open('mapIDs.txt', "r") as text_file:
 # import event IDs
 with open('eventIDs.txt', "r") as text_file:
     eventIDs = text_file.readline().split()
-    
-
 
 while(True):
     print ('Please provide new match URL, or type \'quit\' to stop')
     sys.stdout.flush()
-    linkToMatchPage = str(input())
+    linkToMatchPage = str(raw_input())
     #linkToMatchPage = 'http://www.hltv.org/match/2303362-flipsid3-optic-esl-one-cologne-2016'
     if (linkToMatchPage == 'quit'):
-        print ('You have quit successfully')
-        checkForDouble()
         break
     # download page
     page = requests.get(linkToMatchPage)
@@ -77,8 +71,6 @@ while(True):
         if (newString == 'cobblestone'):
             newString = 'cbble'
         return newString
-    
-    
     
     # this will create a list of the extracted text
     BOtext = tree.xpath('//div[@class="hotmatchbox"]/div/text()')[:1][0].replace("\n","").strip()
@@ -130,19 +122,6 @@ while(True):
     
     print (allVetos)
     print (exportList)
-    
-    def checkForDouble():
-    import_data = np.genfromtxt(vetoFile,delimiter = ',', dtype="a", autostrip=True)
-    import_bestOf = import_data[:,][:,0]
-    import_dates = import_data[:,][:,1:4]
-    import_homeTeamName = import_data[:,][:,4]
-    import_outTeamName = import_data[:,][:,5]
-    import_maps = import_data[:,][:,6]
-    print (import_maps[1])
-    
-    for i in range(0, len(import_bestOf)):
-        if(import)
-    
     
     with open (vetoFile, 'a') as file:
         file.write(

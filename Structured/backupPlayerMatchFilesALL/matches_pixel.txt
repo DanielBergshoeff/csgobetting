@@ -1,5 +1,5 @@
-2016,01,23,15:30,FluffyGangsters,Quest,mirage,StarLadder Regional Minor Cham..,14,16,6,9,8,7,Fluffy Gangsters,20,19,0.97 
-2016,01,22,12:00,FluffyGangsters,Method,overpass,StarLadder Regional Minor Cham..,10,16,6,9,4,7,Fluffy Gangsters,13,21,0.66 
-2015,10,24,22:00,GUS-Gaming,Enso,mirage,Uprise Champions Cup: Europe C..,13,16,4,11,9,5,GUS-Gaming,22,16,1.18 
-2015,10,24,16:00,Arcade,GUS-Gaming,cache,Uprise Champions Cup: Europe C..,16,12,8,7,8,5,GUS-Gaming,12,23,0.52 
-2015,10,24,16:00,GUS-Gaming,Arcade,mirage,Uprise Champions Cup: Europe C..,7,16,6,9,1,7,GUS-Gaming,13,18,0.78 
+2016,01,23,15:30,365,304,0,606,14,16,6,9,8,7,365,20,19,0.97 
+2016,01,22,12:00,365,496,4,606,10,16,6,9,4,7,365,13,21,0.66 
+2015,10,24,22:00,906,259,0,771,13,16,4,11,9,5,906,22,16,1.18 
+2015,10,24,16:00,392,906,7,771,16,12,8,7,8,5,906,12,23,0.52 
+2015,10,24,16:00,906,392,0,771,7,16,6,9,1,7,906,13,18,0.78 

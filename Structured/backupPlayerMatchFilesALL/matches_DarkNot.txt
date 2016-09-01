@@ -1,2 +1,2 @@
-2016,08,13,19:00,CzechRepublic,Cyprus,overpass,World Championships 2016 Europ..,16,1,14,1,2,0,Cyprus,13,17,0.81 
-2016,08,13,19:00,CzechRepublic,Cyprus,cache,World Championships 2016 Europ..,16,2,13,2,3,0,Cyprus,10,16,0.68 
+2016,08,13,19:00,71,72,4,463,16,1,14,1,2,0,72,13,17,0.81 
+2016,08,13,19:00,71,72,7,463,16,2,13,2,3,0,72,10,16,0.68 

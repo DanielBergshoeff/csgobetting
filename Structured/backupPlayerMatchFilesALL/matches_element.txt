@@ -1,36 +1,36 @@
-2016,08,02,13:00,VG.CyberZen,TheMongolz,cobblestone,E-Sports Festival CS:GO Tourna..,16,4,13,2,3,2,TheMongolz,7,17,0.47 
-2016,08,02,13:00,VG.CyberZen,TheMongolz,dust2,E-Sports Festival CS:GO Tourna..,16,12,5,10,11,2,TheMongolz,12,17,0.80 
-2016,08,02,13:00,VG.CyberZen,TheMongolz,cache,E-Sports Festival CS:GO Tourna..,2,16,2,13,0,3,TheMongolz,12,8,1.14 
-2016,07,28,15:00,dream[S]cape,TheMongolz,cache,MixBOT Pro-League Golden,7,16,5,10,2,6,TheMongolz,19,11,1.29 
-2016,07,28,15:00,dream[S]cape,TheMongolz,cobblestone,MixBOT Pro-League Golden,9,16,5,10,4,6,TheMongolz,12,16,0.86 
-2016,07,28,15:00,TheMongolz,dream[S]cape,mirage,MixBOT Pro-League Golden,14,16,6,9,8,7,TheMongolz,22,21,1.01 
-2016,07,26,12:00,VG.CyberZen,TheMongolz,cache,MixBOT Pro-League Golden,16,6,12,3,4,3,TheMongolz,19,17,1.25 
-2016,07,26,12:00,VG.CyberZen,TheMongolz,train,MixBOT Pro-League Golden,10,16,9,6,1,10,TheMongolz,16,17,0.95 
-2016,07,26,12:00,VG.CyberZen,TheMongolz,cobblestone,MixBOT Pro-League Golden,16,11,6,9,10,2,TheMongolz,9,18,0.57 
-2016,07,24,12:00,TheMongolz,m0nster,cobblestone,MixBOT Pro-League Golden,19,17,6,9,9,6,TheMongolz,15,22,0.73 
-2016,07,24,12:00,TheMongolz,m0nster,dust2,MixBOT Pro-League Golden,13,16,8,7,5,9,TheMongolz,17,21,0.85 
-2016,07,24,12:00,TheMongolz,m0nster,mirage,MixBOT Pro-League Golden,16,7,9,6,7,1,TheMongolz,14,14,0.95 
-2016,06,15,12:00,EDG,TheMongolz,dust2,MixBOT Pro-League Golden,10,16,8,7,2,9,TheMongolz,19,16,1.04 
-2016,06,15,12:00,TheMongolz,EDG,cache,MixBOT Pro-League Golden,6,16,4,11,2,5,TheMongolz,4,18,0.30 
-2016,06,15,12:00,EDG,TheMongolz,mirage,MixBOT Pro-League Golden,8,16,7,8,1,8,TheMongolz,14,14,0.92 
-2016,06,08,12:00,MVPproject,TheMongolz,mirage,MixBOT Pro-League Golden,16,3,14,1,2,2,TheMongolz,11,17,0.69 
-2016,06,08,12:00,MVPproject,TheMongolz,cobblestone,MixBOT Pro-League Golden,14,16,8,7,6,9,TheMongolz,29,19,1.42 
-2016,06,08,12:00,MVPproject,TheMongolz,cache,MixBOT Pro-League Golden,16,10,8,7,8,3,TheMongolz,21,18,1.02 
-2016,05,20,12:30,Signature,TheMongolz,dust2,WCA Season 1 APAC Finals,12,16,5,10,7,6,TheMongolz,12,19,0.66 
-2016,05,20,12:30,Signature,TheMongolz,mirage,WCA Season 1 APAC Finals,7,16,4,11,3,5,TheMongolz,16,14,1.05 
-2016,05,18,07:35,TheMongolz,Immunity,overpass,WCA Season 1 APAC Finals,10,16,9,6,1,10,TheMongolz,19,20,1.04 
-2016,05,18,07:35,Immunity,TheMongolz,cache,WCA Season 1 APAC Finals,16,11,6,9,10,2,TheMongolz,11,19,0.73 
-2016,05,05,12:50,TheMongolz,VG.CyberZen,cache,PGL KeSPA Regional Minor Champ..,13,16,5,10,8,6,TheMongolz,16,20,0.85 
-2016,05,05,12:50,TheMongolz,VG.CyberZen,train,PGL KeSPA Regional Minor Champ..,12,16,8,7,4,9,TheMongolz,10,23,0.46 
-2016,05,05,06:15,Immunity,TheMongolz,overpass,PGL KeSPA Regional Minor Champ..,21,16,8,7,7,8,TheMongolz,33,28,1.19 
-2016,05,05,06:15,Immunity,TheMongolz,cache,PGL KeSPA Regional Minor Champ..,21,18,7,8,8,7,TheMongolz,32,27,1.06 
-2016,05,05,06:15,Immunity,TheMongolz,dust2,PGL KeSPA Regional Minor Champ..,7,16,5,10,2,6,TheMongolz,15,14,0.94 
-2016,05,05,03:30,m0nster,TheMongolz,cache,PGL KeSPA Regional Minor Champ..,5,16,2,13,3,3,TheMongolz,15,12,1.06 
-2016,04,23,13:00,nxl,TheMongolz,cache,Rising Stars SEA Promotional C..,6,16,3,12,3,4,TheMongolz,18,13,1.12 
-2016,04,23,13:00,nxl,TheMongolz,dust2,Rising Stars SEA Promotional C..,10,16,2,13,8,3,TheMongolz,16,13,1.06 
-2016,04,22,14:15,TheMongolz,Signature,mirage,Rising Stars SEA Promotional C..,16,11,6,9,10,2,TheMongolz,18,18,0.96 
-2016,04,22,14:15,Signature,TheMongolz,cache,Rising Stars SEA Promotional C..,10,16,7,8,3,8,TheMongolz,19,21,0.92 
-2016,04,20,14:30,inchk1ng,TheMongolz,cache,Rising Stars SEA Promotional C..,10,16,8,7,2,9,TheMongolz,19,18,1.00 
-2016,04,20,13:10,EDG,TheMongolz,dust2,Rising Stars SEA Promotional C..,14,16,8,7,6,9,TheMongolz,24,20,1.11 
-2016,04,17,16:10,dream[S]cape,TheMongolz,inferno,WCA 2016 APAC Qualifier,3,16,3,12,0,4,TheMongolz,11,9,1.10 
-2016,04,17,16:10,dream[S]cape,TheMongolz,cache,WCA 2016 APAC Qualifier,5,16,5,10,0,6,TheMongolz,10,14,0.73 
+2016,08,02,13:00,35,150,14,482,16,4,13,2,3,2,150,7,17,0.47 
+2016,08,02,13:00,35,150,1,482,16,12,5,10,11,2,150,12,17,0.80 
+2016,08,02,13:00,35,150,7,482,2,16,2,13,0,3,150,12,8,1.14 
+2016,07,28,15:00,62,150,7,504,7,16,5,10,2,6,150,19,11,1.29 
+2016,07,28,15:00,62,150,14,504,9,16,5,10,4,6,150,12,16,0.86 
+2016,07,28,15:00,150,62,0,504,14,16,6,9,8,7,150,22,21,1.01 
+2016,07,26,12:00,35,150,7,504,16,6,12,3,4,3,150,19,17,1.25 
+2016,07,26,12:00,35,150,2,504,10,16,9,6,1,10,150,16,17,0.95 
+2016,07,26,12:00,35,150,14,504,16,11,6,9,10,2,150,9,18,0.57 
+2016,07,24,12:00,150,164,14,504,19,17,6,9,9,6,150,15,22,0.73 
+2016,07,24,12:00,150,164,1,504,13,16,8,7,5,9,150,17,21,0.85 
+2016,07,24,12:00,150,164,0,504,16,7,9,6,7,1,150,14,14,0.95 
+2016,06,15,12:00,191,150,1,504,10,16,8,7,2,9,150,19,16,1.04 
+2016,06,15,12:00,150,191,7,504,6,16,4,11,2,5,150,4,18,0.30 
+2016,06,15,12:00,191,150,0,504,8,16,7,8,1,8,150,14,14,0.92 
+2016,06,08,12:00,65,150,0,504,16,3,14,1,2,2,150,11,17,0.69 
+2016,06,08,12:00,65,150,14,504,14,16,8,7,6,9,150,29,19,1.42 
+2016,06,08,12:00,65,150,7,504,16,10,8,7,8,3,150,21,18,1.02 
+2016,05,20,12:30,61,150,1,571,12,16,5,10,7,6,150,12,19,0.66 
+2016,05,20,12:30,61,150,0,571,7,16,4,11,3,5,150,16,14,1.05 
+2016,05,18,07:35,150,429,4,571,10,16,9,6,1,10,150,19,20,1.04 
+2016,05,18,07:35,429,150,7,571,16,11,6,9,10,2,150,11,19,0.73 
+2016,05,05,12:50,150,35,7,584,13,16,5,10,8,6,150,16,20,0.85 
+2016,05,05,12:50,150,35,2,584,12,16,8,7,4,9,150,10,23,0.46 
+2016,05,05,06:15,429,150,4,584,21,16,8,7,7,8,150,33,28,1.19 
+2016,05,05,06:15,429,150,7,584,21,18,7,8,8,7,150,32,27,1.06 
+2016,05,05,06:15,429,150,1,584,7,16,5,10,2,6,150,15,14,0.94 
+2016,05,05,03:30,164,150,7,584,5,16,2,13,3,3,150,15,12,1.06 
+2016,04,23,13:00,256,150,7,602,6,16,3,12,3,4,150,18,13,1.12 
+2016,04,23,13:00,256,150,1,602,10,16,2,13,8,3,150,16,13,1.06 
+2016,04,22,14:15,150,61,0,602,16,11,6,9,10,2,150,18,18,0.96 
+2016,04,22,14:15,61,150,7,602,10,16,7,8,3,8,150,19,21,0.92 
+2016,04,20,14:30,483,150,7,602,10,16,8,7,2,9,150,19,18,1.00 
+2016,04,20,13:10,191,150,1,602,14,16,8,7,6,9,150,24,20,1.11 
+2016,04,17,16:10,62,150,6,607,3,16,3,12,0,4,150,11,9,1.10 
+2016,04,17,16:10,62,150,7,607,5,16,5,10,0,6,150,10,14,0.73 

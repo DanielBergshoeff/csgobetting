@@ -1,2 +1,2 @@
-2016,07,26,12:00,BornOfFire,MasterGrade,dust2,SL i-League S2 China Qualifier,16,3,12,3,4,0,Master Grade,9,19,0.52 
-2016,07,26,12:00,MasterGrade,BornOfFire,cobblestone,SL i-League S2 China Qualifier,7,16,6,9,1,7,Master Grade,18,16,1.10 
+2016,07,26,12:00,179,213,1,501,16,3,12,3,4,0,213,9,19,0.52 
+2016,07,26,12:00,213,179,14,501,7,16,6,9,1,7,213,18,16,1.10 

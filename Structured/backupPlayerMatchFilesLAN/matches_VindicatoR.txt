@@ -1,3 +1,0 @@
-2015,10,18,16:25,PugsnotDrugs,ReapWhatYouSow,cache,Fragadelphia 6,7,16,4,11,3,5,Pugs not Drugs,15,19,0.84 
-2015,10,18,04:00,PugsnotDrugs,WinOut.net,mirage,Fragadelphia 6,7,16,6,9,1,7,Pugs not Drugs,18,17,1.02 
-2015,10,18,04:00,WinOut.net,PugsnotDrugs,train,Fragadelphia 6,16,10,8,7,8,3,Pugs not Drugs,23,19,1.23 

@@ -1,7 +1,7 @@
-2016,08,09,03:30,ForceofNature,LDDM,overpass,ESEA Open Season 22 Brazil,16,10,10,5,6,5,LDDM,15,21,0.88 
-2016,08,09,03:30,ForceofNature,LDDM,dust2,ESEA Open Season 22 Brazil,9,16,4,11,5,5,LDDM,32,17,1.77 
-2016,08,09,03:30,ForceofNature,LDDM,mirage,ESEA Open Season 22 Brazil,16,14,7,8,9,6,LDDM,22,24,1.01 
-2016,03,14,02:10,LDDM,CNB,train,Razer Rising Stars South Ameri..,14,16,10,5,4,11,LDDM,23,24,1.02 
-2016,03,13,23:00,LDDM,TSG,cobblestone,Razer Rising Stars South Ameri..,16,5,11,4,5,1,LDDM,15,11,1.12 
-2015,11,28,11:45,E-frag.net,Ancients,inferno,ESL South East Europe Champion..,16,3,14,1,2,2,Ancients,10,17,0.68 
-2015,11,28,10:00,CSGO.one,Ancients,overpass,ESL South East Europe Champion..,16,3,12,3,4,0,Ancients,8,18,0.43 
+2016,08,09,03:30,93,140,4,465,16,10,10,5,6,5,140,15,21,0.88 
+2016,08,09,03:30,93,140,1,465,9,16,4,11,5,5,140,32,17,1.77 
+2016,08,09,03:30,93,140,0,465,16,14,7,8,9,6,140,22,24,1.01 
+2016,03,14,02:10,140,95,2,548,14,16,10,5,4,11,140,23,24,1.02 
+2016,03,13,23:00,140,601,14,548,16,5,11,4,5,1,140,15,11,1.12 
+2015,11,28,11:45,472,834,6,560,16,3,14,1,2,2,834,10,17,0.68 
+2015,11,28,10:00,714,834,4,560,16,3,12,3,4,0,834,8,18,0.43 

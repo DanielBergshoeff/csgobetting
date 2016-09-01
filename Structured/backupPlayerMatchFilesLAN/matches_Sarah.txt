@@ -1,4 +1,0 @@
-2015,04,03,22:15,iGamerzfe,eSportEngine,inferno,Copenhagen Games 2015 female,14,16,12,3,2,13,iGamerz fe,17,20,0.84 
-2015,04,03,22:15,iGamerzfe,eSportEngine,mirage,Copenhagen Games 2015 female,1,16,1,14,0,2,iGamerz fe,6,15,0.39 
-2015,04,03,12:00,iGamerzfe,Karma,mirage,Copenhagen Games 2015 female,2,16,2,13,0,3,iGamerz fe,11,16,0.70 
-2015,04,03,12:00,Karma,iGamerzfe,dust2,Copenhagen Games 2015 female,16,1,14,1,2,0,iGamerz fe,6,16,0.41 

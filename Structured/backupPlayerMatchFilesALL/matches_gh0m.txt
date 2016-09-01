@@ -1,7 +1,7 @@
-2015,12,11,18:00,Supreme,ELTZ,cobblestone,Game Show Global eSports Cup 2..,7,16,3,12,4,4,Supreme,16,20,0.81 
-2015,12,11,18:00,Supreme,ELTZ,train,Game Show Global eSports Cup 2..,7,16,3,12,4,4,Supreme,16,19,0.92 
-2015,12,11,18:00,Supreme,ELTZ,mirage,Game Show Global eSports Cup 2..,16,11,9,6,7,5,Supreme,17,20,0.84 
-2015,12,10,21:00,HellRaisers,Supreme,inferno,Game Show Global eSports Cup 2..,16,5,10,5,6,0,Supreme,13,18,0.72 
-2015,12,10,21:00,HellRaisers,Supreme,mirage,Game Show Global eSports Cup 2..,16,10,7,8,9,2,Supreme,23,19,1.27 
-2015,12,09,21:00,Enso,Supreme,cobblestone,Game Show Global eSports Cup 2..,17,19,8,7,7,8,Supreme,35,23,1.35 
-2015,12,09,21:00,Supreme,Enso,train,Game Show Global eSports Cup 2..,16,7,9,6,7,1,Supreme,23,15,1.62 
+2015,12,11,18:00,777,705,14,657,7,16,3,12,4,4,777,16,20,0.81 
+2015,12,11,18:00,777,705,2,657,7,16,3,12,4,4,777,16,19,0.92 
+2015,12,11,18:00,777,705,0,657,16,11,9,6,7,5,777,17,20,0.84 
+2015,12,10,21:00,59,777,6,657,16,5,10,5,6,0,777,13,18,0.72 
+2015,12,10,21:00,59,777,0,657,16,10,7,8,9,2,777,23,19,1.27 
+2015,12,09,21:00,259,777,14,657,17,19,8,7,7,8,777,35,23,1.35 
+2015,12,09,21:00,777,259,2,657,16,7,9,6,7,1,777,23,15,1.62 

@@ -1,4 +1,0 @@
-2016,03,25,19:45,LDLCfe,Planetkeyfe,cobblestone,Copenhagen Games 2016 female,16,9,14,1,2,8,Planetkey fe,21,20,1.14 
-2016,03,25,19:45,LDLCfe,Planetkeyfe,dust2,Copenhagen Games 2016 female,16,3,12,3,4,0,Planetkey fe,7,17,0.45 
-2016,03,25,13:00,Planetkeyfe,Exertusfe,cobblestone,Copenhagen Games 2016 female,8,16,7,8,1,8,Planetkey fe,15,18,0.77 
-2016,03,25,13:00,Planetkeyfe,Exertusfe,cache,Copenhagen Games 2016 female,5,16,3,12,2,4,Planetkey fe,3,18,0.24 

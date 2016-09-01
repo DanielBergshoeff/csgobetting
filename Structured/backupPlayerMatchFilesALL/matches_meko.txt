@@ -1,13 +1,13 @@
-2016,06,25,20:00,Tricked,Singularity,dust2,Dust2.dk eOddset Kinguin #1,16,8,11,4,5,4,Singularity,12,17,0.70 
-2016,06,25,20:00,Tricked,Singularity,overpass,Dust2.dk eOddset Kinguin #1,16,9,12,3,4,6,Singularity,7,18,0.49 
-2016,06,25,16:00,EasternVikings,Singularity,train,Dust2.dk eOddset Kinguin #1,7,16,7,8,0,8,Singularity,14,17,0.85 
-2016,06,25,16:00,EasternVikings,Singularity,overpass,Dust2.dk eOddset Kinguin #1,12,16,7,8,5,8,Singularity,18,19,0.97 
-2016,06,25,14:30,Seven11,Singularity,overpass,Dust2.dk eOddset Kinguin #1,11,16,8,7,3,9,Singularity,15,16,0.88 
-2016,06,25,13:15,Singularity,Magistra,overpass,Dust2.dk eOddset Kinguin #1,16,6,13,2,3,4,Singularity,21,13,1.29 
-2016,06,25,12:00,übern00bz,Singularity,dust2,Dust2.dk eOddset Kinguin #1,6,16,2,13,4,3,Singularity,23,9,1.70 
-2016,05,15,20:00,Tricked,Singularity,train,CS:GO Danmark League #1,10,16,6,9,4,7,Singularity,16,15,0.93 
-2016,05,15,20:00,Singularity,Tricked,cobblestone,CS:GO Danmark League #1,16,8,13,2,3,6,Singularity,23,12,1.45 
-2016,05,15,20:00,Singularity,Tricked,mirage,CS:GO Danmark League #1,11,16,7,8,4,8,Singularity,17,18,0.86 
-2015,10,09,21:45,Finland,Sweden,dust2,King of Nordic Season 2,16,5,13,2,3,3,Sweden,4,16,0.35 
-2015,10,09,20:30,Denmark,Sweden,mirage,King of Nordic Season 2,5,16,5,10,0,6,Sweden,24,12,1.58 
-2015,10,09,19:15,Norway,Sweden,inferno,King of Nordic Season 2,6,16,4,11,2,5,Sweden,18,13,1.31 
+2016,06,25,20:00,30,338,1,542,16,8,11,4,5,4,338,12,17,0.70 
+2016,06,25,20:00,30,338,4,542,16,9,12,3,4,6,338,7,18,0.49 
+2016,06,25,16:00,339,338,2,542,7,16,7,8,0,8,338,14,17,0.85 
+2016,06,25,16:00,339,338,4,542,12,16,7,8,5,8,338,18,19,0.97 
+2016,06,25,14:30,342,338,4,542,11,16,8,7,3,9,338,15,16,0.88 
+2016,06,25,13:15,338,117,4,542,16,6,13,2,3,4,338,21,13,1.29 
+2016,06,25,12:00,341,338,1,542,6,16,2,13,4,3,338,23,9,1.70 
+2016,05,15,20:00,30,338,2,575,10,16,6,9,4,7,338,16,15,0.93 
+2016,05,15,20:00,338,30,14,575,16,8,13,2,3,6,338,23,12,1.45 
+2016,05,15,20:00,338,30,0,575,11,16,7,8,4,8,338,17,18,0.86 
+2015,10,09,21:45,940,937,1,673,16,5,13,2,3,3,937,4,16,0.35 
+2015,10,09,20:30,941,937,0,673,5,16,5,10,0,6,937,24,12,1.58 
+2015,10,09,19:15,939,937,6,673,6,16,4,11,2,5,937,18,13,1.31 

@@ -1,2 +1,2 @@
-2014,08,19,22:07,Slovenia,FaroeIslands,nuke,European Championship 2014 Qua..,16,9,9,6,7,3,Faroe Islands,19,21,0.88 
-2014,08,19,22:00,Slovenia,FaroeIslands,mirage,European Championship 2014 Qua..,16,2,15,0,1,2,Faroe Islands,5,16,0.31 
+2014,08,19,22:07,24,1216,5,1035,16,9,9,6,7,3,1216,19,21,0.88 
+2014,08,19,22:00,24,1216,0,1035,16,2,15,0,1,2,1216,5,16,0.31 

@@ -1,14 +1,14 @@
-2016,08,15,19:00,VivaAlgeria,FENNEC,mirage,WESG 2016 North & West Africa,16,7,11,4,5,3,Viva Algeria,24,14,1.44 
-2016,08,15,19:00,VivaAlgeria,FENNEC,cobblestone,WESG 2016 North & West Africa,14,16,10,5,4,11,Viva Algeria,22,23,0.92 
-2016,08,15,19:00,FENNEC,VivaAlgeria,overpass,WESG 2016 North & West Africa,5,16,4,11,1,5,Viva Algeria,13,17,0.92 
-2016,08,14,23:45,VivaAlgeria,DREAM.RAR,cobblestone,WESG 2016 North & West Africa,16,1,14,1,2,0,Viva Algeria,11,6,1.17 
-2016,08,14,23:45,VivaAlgeria,DREAM.RAR,mirage,WESG 2016 North & West Africa,12,16,6,9,6,7,Viva Algeria,17,21,0.88 
-2016,08,14,23:45,VivaAlgeria,DREAM.RAR,cache,WESG 2016 North & West Africa,16,11,8,7,8,4,Viva Algeria,20,21,0.95 
-2015,12,19,21:00,RvN,VivaAlgeria,cobblestone,AFKG MENA Championship,4,16,4,11,0,5,Viva Algeria,16,14,1.12 
-2015,12,19,21:00,VivaAlgeria,RvN,dust2,AFKG MENA Championship,16,12,6,9,10,3,Viva Algeria,19,23,0.84 
-2015,12,19,21:00,VivaAlgeria,RvN,train,AFKG MENA Championship,16,12,9,6,7,6,Viva Algeria,26,19,1.25 
-2015,12,19,17:30,CamelRiders,VivaAlgeria,inferno,AFKG MENA Championship,10,16,9,6,1,10,Viva Algeria,12,16,0.79 
-2015,12,19,17:30,VivaAlgeria,CamelRiders,cobblestone,AFKG MENA Championship,9,16,4,11,5,5,Viva Algeria,20,20,1.11 
-2015,12,19,17:30,CamelRiders,VivaAlgeria,cache,AFKG MENA Championship,9,16,6,9,3,7,Viva Algeria,21,16,1.13 
-2015,12,18,23:10,VivaAlgeria,Octupus1,cobblestone,AFKG MENA Championship,16,10,9,6,7,4,Viva Algeria,14,22,0.66 
-2015,12,18,23:10,Octupus1,VivaAlgeria,cache,AFKG MENA Championship,11,16,10,5,1,11,Viva Algeria,16,20,0.79 
+2016,08,15,19:00,20,21,0,469,16,7,11,4,5,3,20,24,14,1.44 
+2016,08,15,19:00,20,21,14,469,14,16,10,5,4,11,20,22,23,0.92 
+2016,08,15,19:00,21,20,4,469,5,16,4,11,1,5,20,13,17,0.92 
+2016,08,14,23:45,20,15,14,469,16,1,14,1,2,0,20,11,6,1.17 
+2016,08,14,23:45,20,15,0,469,12,16,6,9,6,7,20,17,21,0.88 
+2016,08,14,23:45,20,15,7,469,16,11,8,7,8,4,20,20,21,0.95 
+2015,12,19,21:00,729,20,14,690,4,16,4,11,0,5,20,16,14,1.12 
+2015,12,19,21:00,20,729,1,690,16,12,6,9,10,3,20,19,23,0.84 
+2015,12,19,21:00,20,729,2,690,16,12,9,6,7,6,20,26,19,1.25 
+2015,12,19,17:30,733,20,6,690,10,16,9,6,1,10,20,12,16,0.79 
+2015,12,19,17:30,20,733,14,690,9,16,4,11,5,5,20,20,20,1.11 
+2015,12,19,17:30,733,20,7,690,9,16,6,9,3,7,20,21,16,1.13 
+2015,12,18,23:10,20,736,14,690,16,10,9,6,7,4,20,14,22,0.66 
+2015,12,18,23:10,736,20,7,690,11,16,10,5,1,11,20,16,20,0.79 

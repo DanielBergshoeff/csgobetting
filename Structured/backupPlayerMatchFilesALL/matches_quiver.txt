@@ -1,10 +1,10 @@
-2016,05,10,20:15,DenDD,AlterYourEgo,train,Operation: Kinguin #3,16,1,14,1,2,0,Alter Your Ego,8,17,0.46 
-2016,05,10,20:15,DenDD,AlterYourEgo,cache,Operation: Kinguin #3,16,6,11,4,5,2,Alter Your Ego,10,17,0.67 
-2016,04,12,18:00,E-frag.net,AlterYourEgo,inferno,CEVO Gfinity Professional Seas..,16,3,13,2,3,1,Alter Your Ego,12,16,0.78 
-2016,04,12,18:00,E-frag.net,AlterYourEgo,cobblestone,CEVO Gfinity Professional Seas..,16,8,7,8,9,0,Alter Your Ego,10,16,0.67 
-2016,04,08,19:00,AlterYourEgo,ENCE,cobblestone,Uprise Champions Cup Season 4,6,16,2,13,4,3,Alter Your Ego,15,19,0.73 
-2016,04,08,19:00,AlterYourEgo,ENCE,cache,Uprise Champions Cup Season 4,2,16,2,13,0,3,Alter Your Ego,5,18,0.23 
-2015,04,21,21:00,exceL,PerilousRAGE,dust2,ESL UK Premiership Season 1,16,12,8,7,8,5,PerilousRAGE,17,23,0.73 
-2015,04,21,21:00,exceL,PerilousRAGE,cache,ESL UK Premiership Season 1,16,6,9,6,7,0,PerilousRAGE,12,17,0.67 
-2015,04,20,20:00,MALIK,PerilousRAGE,inferno,ESL UK Premiership Season 1,16,3,12,3,4,0,PerilousRAGE,10,18,0.67 
-2015,04,20,20:00,MALIK,PerilousRAGE,cache,ESL UK Premiership Season 1,16,11,7,8,9,3,PerilousRAGE,15,18,0.78 
+2016,05,10,20:15,147,445,2,499,16,1,14,1,2,0,445,8,17,0.46 
+2016,05,10,20:15,147,445,7,499,16,6,11,4,5,2,445,10,17,0.67 
+2016,04,12,18:00,472,445,6,590,16,3,13,2,3,1,445,12,16,0.78 
+2016,04,12,18:00,472,445,14,590,16,8,7,8,9,0,445,10,16,0.67 
+2016,04,08,19:00,445,132,14,536,6,16,2,13,4,3,445,15,19,0.73 
+2016,04,08,19:00,445,132,7,536,2,16,2,13,0,3,445,5,18,0.23 
+2015,04,21,21:00,268,1099,1,933,16,12,8,7,8,5,1099,17,23,0.73 
+2015,04,21,21:00,268,1099,7,933,16,6,9,6,7,0,1099,12,17,0.67 
+2015,04,20,20:00,1098,1099,6,933,16,3,12,3,4,0,1099,10,18,0.67 
+2015,04,20,20:00,1098,1099,7,933,16,11,7,8,9,3,1099,15,18,0.78 

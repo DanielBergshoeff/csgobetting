@@ -1,23 +1,23 @@
-2016,08,04,21:00,ALTERNATEaTTaX,OsloLions,cache,ESEA Premier Season 22 Europe,16,12,7,8,9,4,Oslo Lions,20,20,1.02 
-2016,08,04,21:00,ALTERNATEaTTaX,OsloLions,nuke,ESEA Premier Season 22 Europe,6,16,3,12,3,4,Oslo Lions,16,15,1.00 
-2016,08,04,21:00,ALTERNATEaTTaX,OsloLions,cobblestone,ESEA Premier Season 22 Europe,16,13,7,8,9,5,Oslo Lions,24,20,1.22 
-2016,05,28,18:00,Arcade,Lions,cache,DreamHack ZOWIE Open Summer 20..,16,13,8,7,8,6,Lions,26,21,1.13 
-2016,05,26,19:15,Tricked,Lions,cobblestone,xfunction Challenge,16,10,10,5,6,5,Lions,14,21,0.70 
-2016,05,26,19:15,Tricked,Lions,inferno,xfunction Challenge,16,9,9,6,7,3,Lions,14,19,0.83 
-2016,05,26,19:15,Lions,Tricked,train,xfunction Challenge,16,9,10,5,6,4,Lions,14,17,0.78 
-2016,05,20,21:40,Lions,AlienTech,train,xfunction Challenge,16,3,14,1,2,2,Lions,15,9,1.18 
-2016,05,20,21:40,AlienTech,Lions,cache,xfunction Challenge,19,16,7,8,8,7,Lions,19,31,0.65 
-2016,05,20,21:40,AlienTech,Lions,cobblestone,xfunction Challenge,16,19,6,9,9,6,Lions,27,23,1.09 
-2016,05,08,11:00,BX3,Lions,overpass,Telenor League Spring 2016,16,14,5,10,11,4,Lions,21,23,0.93 
-2016,05,08,11:00,Lions,BX3,train,Telenor League Spring 2016,14,16,6,9,8,7,Lions,22,25,0.83 
-2016,05,06,21:25,GameAgents,Lions,cache,xfunction Challenge,16,13,9,6,7,7,Lions,24,18,1.26 
-2016,05,05,19:15,Lions,AlienTech,cache,xfunction Challenge,16,8,9,6,7,2,Lions,16,13,1.10 
-2016,04,08,21:30,KoNNorway,KoNFinland,mirage,King of Nordic Season 3,7,16,6,9,1,7,KoN Norway,19,20,0.95 
-2016,04,08,19:15,KoNNorway,KoNDenmark,inferno,King of Nordic Season 3,16,11,7,8,9,3,KoN Norway,11,19,0.71 
-2016,01,28,19:00,fm-eSports,Lions,cache,Uprise Champions Cup Season 4 ..,16,14,9,6,7,8,Lions,26,23,1.15 
-2015,04,02,21:40,no_rhythm,partyastronauts,cache,Copenhagen Games 2015,16,10,11,4,5,6,partyastronauts,19,21,0.95 
-2015,04,02,19:00,myKPV,partyastronauts,inferno,Copenhagen Games 2015,16,4,12,3,4,1,partyastronauts,7,17,0.44 
-2015,04,02,17:00,partyastronauts,eSpuma,nuke,Copenhagen Games 2015,16,1,14,1,2,0,partyastronauts,15,6,1.54 
-2015,04,02,14:00,eSpuma,partyastronauts,inferno,Copenhagen Games 2015,16,7,11,4,5,3,partyastronauts,14,16,0.96 
-2014,10,05,16:00,LondonC,partyastronauts,nuke,ESWC 2014 Norway,16,12,11,4,5,8,partyastronauts,20,22,0.85 
-2014,10,05,16:00,LondonC,partyastronauts,mirage,ESWC 2014 Norway,16,11,13,2,3,9,partyastronauts,13,23,0.63 
+2016,08,04,21:00,49,182,7,490,16,12,7,8,9,4,182,20,20,1.02 
+2016,08,04,21:00,49,182,5,490,6,16,3,12,3,4,182,16,15,1.00 
+2016,08,04,21:00,49,182,14,490,16,13,7,8,9,5,182,24,20,1.22 
+2016,05,28,18:00,392,400,7,546,16,13,8,7,8,6,400,26,21,1.13 
+2016,05,26,19:15,30,400,14,544,16,10,10,5,6,5,400,14,21,0.70 
+2016,05,26,19:15,30,400,6,544,16,9,9,6,7,3,400,14,19,0.83 
+2016,05,26,19:15,400,30,2,544,16,9,10,5,6,4,400,14,17,0.78 
+2016,05,20,21:40,400,278,2,544,16,3,14,1,2,2,400,15,9,1.18 
+2016,05,20,21:40,278,400,7,544,19,16,7,8,8,7,400,19,31,0.65 
+2016,05,20,21:40,278,400,14,544,16,19,6,9,9,6,400,27,23,1.09 
+2016,05,08,11:00,320,400,4,583,16,14,5,10,11,4,400,21,23,0.93 
+2016,05,08,11:00,400,320,2,583,14,16,6,9,8,7,400,22,25,0.83 
+2016,05,06,21:25,358,400,7,544,16,13,9,6,7,7,400,24,18,1.26 
+2016,05,05,19:15,400,278,7,544,16,8,9,6,7,2,400,16,13,1.10 
+2016,04,08,21:30,81,80,0,603,7,16,6,9,1,7,81,19,20,0.95 
+2016,04,08,19:15,81,83,6,603,16,11,7,8,9,3,81,11,19,0.71 
+2016,01,28,19:00,599,400,7,656,16,14,9,6,7,8,400,26,23,1.15 
+2015,04,02,21:40,1123,1126,7,948,16,10,11,4,5,6,1126,19,21,0.95 
+2015,04,02,19:00,995,1126,6,948,16,4,12,3,4,1,1126,7,17,0.44 
+2015,04,02,17:00,1126,1136,5,948,16,1,14,1,2,0,1126,15,6,1.54 
+2015,04,02,14:00,1136,1126,6,948,16,7,11,4,5,3,1126,14,16,0.96 
+2014,10,05,16:00,776,1126,5,1016,16,12,11,4,5,8,1126,20,22,0.85 
+2014,10,05,16:00,776,1126,0,1016,16,11,13,2,3,9,1126,13,23,0.63 

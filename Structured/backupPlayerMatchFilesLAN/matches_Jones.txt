@@ -1,6 +1,0 @@
-2015,09,05,20:45,Levitate,EZonTheSoul,inferno,WinOut $20,000 CS:GO Champions..,16,5,12,3,4,2,EZ on The Soul,5,20,0.29 
-2015,09,05,19:30,Luminosity,EZonTheSoul,dust2,WinOut $20,000 CS:GO Champions..,16,1,14,1,2,0,EZ on The Soul,3,17,0.15 
-2015,09,04,20:00,EZonTheSoul,AnxietyPack,cobblestone,WinOut.net 20k Last Chance Qua..,16,9,8,7,8,2,EZ on The Soul,14,16,0.83 
-2015,09,04,20:00,AnxietyPack,EZonTheSoul,inferno,WinOut.net 20k Last Chance Qua..,20,22,13,2,2,13,EZ on The Soul,32,29,1.07 
-2015,09,04,18:00,ReapWhatYouSow,EZonTheSoul,dust2,WinOut.net 20k Last Chance Qua..,16,6,10,5,6,1,EZ on The Soul,15,19,0.89 
-2015,09,04,18:00,EZonTheSoul,ReapWhatYouSow,cache,WinOut.net 20k Last Chance Qua..,7,16,6,9,1,7,EZ on The Soul,10,16,0.69 

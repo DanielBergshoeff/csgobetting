@@ -1,27 +1,27 @@
-2016,07,26,22:35,PENTA,Alpha,cobblestone,WCA 2016 EU Qualifier,16,2,13,2,3,0,Alpha,7,16,0.42 
-2016,07,26,22:35,PENTA,Alpha,dust2,WCA 2016 EU Qualifier,19,15,7,8,8,7,Alpha,15,24,0.68 
-2016,07,26,17:00,NokSuKao,Alpha,train,WCA 2016 EU Qualifier,7,16,6,9,1,7,Alpha,19,15,1.33 
-2016,07,26,17:00,NokSuKao,Alpha,cobblestone,WCA 2016 EU Qualifier,17,19,8,7,7,8,Alpha,24,25,0.95 
-2016,07,26,17:00,Alpha,NokSuKao,nuke,WCA 2016 EU Qualifier,4,16,3,12,1,4,Alpha,5,18,0.29 
-2016,06,25,16:00,EasternVikings,Singularity,train,Dust2.dk eOddset Kinguin #1,7,16,7,8,0,8,Eastern Vikings,8,18,0.57 
-2016,06,25,16:00,EasternVikings,Singularity,overpass,Dust2.dk eOddset Kinguin #1,12,16,7,8,5,8,Eastern Vikings,15,19,0.85 
-2016,06,25,14:45,EasternVikings,Alpha,cache,Dust2.dk eOddset Kinguin #1,16,13,13,2,3,11,Eastern Vikings,26,18,1.36 
-2016,06,25,13:30,EasternVikings,OnlineRol,train,Dust2.dk eOddset Kinguin #1,16,13,6,9,10,4,Eastern Vikings,25,18,1.25 
-2016,06,25,12:00,EasternVikings,Tricked,dust2,Dust2.dk eOddset Kinguin #1,14,16,8,7,6,9,Eastern Vikings,17,20,0.84 
-2016,06,14,21:30,EasternVikings,Alpha,dust2,Game On CS:GO June Invitationa..,6,16,5,10,1,6,Eastern Vikings,10,19,0.68 
-2016,06,14,21:30,EasternVikings,Alpha,nuke,Game On CS:GO June Invitationa..,10,16,10,5,0,11,Eastern Vikings,10,20,0.53 
-2016,06,14,21:30,Alpha,EasternVikings,cobblestone,Game On CS:GO June Invitationa..,9,16,2,13,7,3,Eastern Vikings,22,16,1.21 
-2016,05,13,19:15,KoNDenmark,KoNSweden,dust2,King of Nordic Season 4,13,16,5,10,8,6,KoN Denmark,25,19,1.38 
-2016,05,06,21:00,KoNNorway,KoNDenmark,overpass,King of Nordic Season 4,21,19,9,6,6,9,KoN Denmark,21,26,0.83 
-2016,04,22,22:00,KoNDenmark,KoNFinland,dust2,King of Nordic Season 3,15,21,5,10,10,5,KoN Denmark,29,25,1.15 
-2016,04,22,20:45,KoNDenmark,KoNNorway,cache,King of Nordic Season 3,16,11,11,4,5,7,KoN Denmark,18,17,1.01 
-2016,04,22,19:15,KoNDenmark,KoNSweden,inferno,King of Nordic Season 3,16,14,12,3,4,11,KoN Denmark,16,20,0.83 
-2016,03,24,17:00,EasternVikings,Isak,inferno,Copenhagen Games 2016 BYOC Qua..,14,16,6,9,8,7,Eastern Vikings,26,19,1.20 
-2016,03,24,15:30,WarMonkeys,EasternVikings,cobblestone,Copenhagen Games 2016 BYOC Qua..,12,16,7,8,5,8,Eastern Vikings,15,22,0.75 
-2016,03,24,13:00,EasternVikings,Fragsters,dust2,Copenhagen Games 2016 BYOC Qua..,13,16,5,10,8,6,Eastern Vikings,19,15,1.04 
-2016,02,12,22:30,KoNDenmark,KoNSweden,dust2,King of Nordic Season 3,16,14,8,7,8,7,KoN Denmark,25,20,1.10 
-2016,02,12,21:30,KoNDenmark,KoNNorway,mirage,King of Nordic Season 3,16,10,12,3,4,7,KoN Denmark,21,15,1.27 
-2016,02,05,22:30,KoNSweden,KoNDenmark,mirage,King of Nordic Season 3,16,14,9,6,7,8,KoN Denmark,23,21,1.06 
-2016,02,05,21:30,KoNNorway,KoNDenmark,inferno,King of Nordic Season 3,11,16,3,12,8,4,KoN Denmark,24,19,1.09 
-2015,12,11,21:30,KoNDenmark,KoNSweden,mirage,King of Nordic Season 2,8,16,5,10,3,6,KoN Denmark,12,17,0.68 
-2015,12,11,20:30,KoNDenmark,KoNNorway,mirage,King of Nordic Season 2,16,8,12,3,4,5,KoN Denmark,26,12,1.60 
+2016,07,26,22:35,196,233,14,508,16,2,13,2,3,0,233,7,16,0.42 
+2016,07,26,22:35,196,233,1,508,19,15,7,8,8,7,233,15,24,0.68 
+2016,07,26,17:00,119,233,2,508,7,16,6,9,1,7,233,19,15,1.33 
+2016,07,26,17:00,119,233,14,508,17,19,8,7,7,8,233,24,25,0.95 
+2016,07,26,17:00,233,119,5,508,4,16,3,12,1,4,233,5,18,0.29 
+2016,06,25,16:00,339,338,2,542,7,16,7,8,0,8,339,8,18,0.57 
+2016,06,25,16:00,339,338,4,542,12,16,7,8,5,8,339,15,19,0.85 
+2016,06,25,14:45,339,233,7,542,16,13,13,2,3,11,339,26,18,1.36 
+2016,06,25,13:30,339,340,2,542,16,13,6,9,10,4,339,25,18,1.25 
+2016,06,25,12:00,339,30,1,542,14,16,8,7,6,9,339,17,20,0.84 
+2016,06,14,21:30,339,233,1,549,6,16,5,10,1,6,339,10,19,0.68 
+2016,06,14,21:30,339,233,5,549,10,16,10,5,0,11,339,10,20,0.53 
+2016,06,14,21:30,233,339,14,549,9,16,2,13,7,3,339,22,16,1.21 
+2016,05,13,19:15,83,82,1,484,13,16,5,10,8,6,83,25,19,1.38 
+2016,05,06,21:00,81,83,4,484,21,19,9,6,6,9,83,21,26,0.83 
+2016,04,22,22:00,83,80,1,603,15,21,5,10,10,5,83,29,25,1.15 
+2016,04,22,20:45,83,81,7,603,16,11,11,4,5,7,83,18,17,1.01 
+2016,04,22,19:15,83,82,6,603,16,14,12,3,4,11,83,16,20,0.83 
+2016,03,24,17:00,339,540,6,623,14,16,6,9,8,7,339,26,19,1.20 
+2016,03,24,15:30,375,339,14,623,12,16,7,8,5,8,339,15,22,0.75 
+2016,03,24,13:00,339,529,1,623,13,16,5,10,8,6,339,19,15,1.04 
+2016,02,12,22:30,83,82,1,603,16,14,8,7,8,7,83,25,20,1.10 
+2016,02,12,21:30,83,81,0,603,16,10,12,3,4,7,83,21,15,1.27 
+2016,02,05,22:30,82,83,0,603,16,14,9,6,7,8,83,23,21,1.06 
+2016,02,05,21:30,81,83,6,603,11,16,3,12,8,4,83,24,19,1.09 
+2015,12,11,21:30,83,82,0,673,8,16,5,10,3,6,83,12,17,0.68 
+2015,12,11,20:30,83,81,0,673,16,8,12,3,4,5,83,26,12,1.60 

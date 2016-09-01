@@ -1,3 +1,0 @@
-2016,03,24,17:15,FAB,Wicked,inferno,Copenhagen Games 2016 BYOC Qua..,16,6,9,6,7,0,Wicked,18,17,1.19 
-2016,03,24,15:30,Ollebolle,Wicked,cobblestone,Copenhagen Games 2016 BYOC Qua..,5,16,4,11,1,5,Wicked,24,13,1.74 
-2016,03,24,13:00,Publiclir.se,Wicked,dust2,Copenhagen Games 2016 BYOC Qua..,16,5,10,5,6,0,Wicked,17,19,1.09 

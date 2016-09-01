@@ -1,6 +1,0 @@
-2014,10,05,16:00,osku'steam,Twista'steam,cache,Areena #6 by ROCCAT,6,16,6,9,0,7,osku's team,20,15,1.26 
-2014,10,05,14:15,osku'steam,naSu'steam,cache,Areena #6 by ROCCAT,9,16,3,12,6,4,osku's team,20,18,1.22 
-2014,10,05,12:20,juho'steam,osku'steam,mirage,Areena #6 by ROCCAT,16,11,8,7,8,4,osku's team,26,21,1.22 
-2014,10,05,11:25,osku'steam,fAlsu'steam,dust2,Areena #6 by ROCCAT,11,16,7,8,4,8,osku's team,15,22,0.71 
-2014,10,05,10:25,osku'steam,KIPSIk'steam,dust2,Areena #6 by ROCCAT,12,16,10,5,2,11,osku's team,16,20,0.77 
-2014,10,05,09:35,sAw'steam,osku'steam,mirage,Areena #6 by ROCCAT,16,6,10,5,6,1,osku's team,11,20,0.60 

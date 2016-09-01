@@ -1,1 +1,1 @@
-2016,03,09,19:15,Nordics,AlienTech,train,Razer Rising Stars European Le..,9,16,6,9,3,7,Nordics,13,20,0.69 
+2016,03,09,19:15,635,278,2,498,9,16,6,9,3,7,635,13,20,0.69 

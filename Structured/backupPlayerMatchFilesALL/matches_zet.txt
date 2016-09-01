@@ -1,16 +1,16 @@
-2014,10,08,21:00,Epsilon,Property,dust2,Fragbite Masters Season 3,15,19,10,5,5,10,Property,20,26,0.83 
-2014,10,08,21:00,Property,Epsilon,cache,Fragbite Masters Season 3,1,16,1,14,0,2,Property,5,15,0.38 
-2014,10,08,20:51,Property,Epsilon,mirage,Fragbite Masters Season 3,16,4,11,4,5,0,Property,16,7,1.46 
-2014,10,08,18:00,fnatic,Property,inferno,Fragbite Masters Season 3,16,5,14,1,2,4,Property,12,19,0.67 
-2014,10,07,19:00,mousesports,Property,cobblestone,Millenium Showmatch #2,16,6,12,3,4,3,Property,7,22,0.32 
-2014,10,07,19:00,mousesports,Property,inferno,Millenium Showmatch #2,16,14,9,6,7,8,Property,14,22,0.68 
-2014,10,07,19:00,Property,mousesports,cache,Millenium Showmatch #2,16,13,9,6,7,7,Property,21,18,1.07 
-2014,10,07,19:00,Property,mousesports,dust2,Millenium Showmatch #2,10,16,8,7,2,9,Property,11,23,0.47 
-2014,09,24,18:00,HellRaisers,Property,mirage,Caseking of the Hill #9,13,16,9,6,4,10,Property,22,22,1.01 
-2014,09,23,22:10,Property,k1ck,dust2,Fragbite Masters Season 3 Qual..,16,8,10,5,6,3,Property,10,16,0.67 
-2014,09,23,22:10,k1ck,Property,inferno,Fragbite Masters Season 3 Qual..,10,16,3,12,7,4,Property,15,13,1.00 
-2014,09,23,20:10,myXMG,Property,dust2,Fragbite Masters Season 3 Qual..,10,16,5,10,5,6,Property,17,18,0.95 
-2014,08,11,22:25,ESG!,fnatic,mirage,SLTV StarSeries X,9,16,7,8,2,8,ESG!,9,19,0.54 
-2014,08,06,20:00,Nostalgie,ESG!,mirage,SLTV StarSeries X,9,16,7,8,2,8,ESG!,18,18,1.02 
-2014,05,24,15:00,GO4Bosnia,GO4Balkan,inferno,GO4Balkan Charity Tournament,14,16,8,7,6,9,GO4Bosnia,6,26,0.33 
-2014,05,24,15:00,GO4Bosnia,GO4Balkan,mirage,GO4Balkan Charity Tournament,12,16,7,8,5,8,GO4Bosnia,14,22,0.68 
+2014,10,08,21:00,52,945,1,996,15,19,10,5,5,10,945,20,26,0.83 
+2014,10,08,21:00,945,52,7,996,1,16,1,14,0,2,945,5,15,0.38 
+2014,10,08,20:51,945,52,0,996,16,4,11,4,5,0,945,16,7,1.46 
+2014,10,08,18:00,210,945,6,996,16,5,14,1,2,4,945,12,19,0.67 
+2014,10,07,19:00,214,945,14,1013,16,6,12,3,4,3,945,7,22,0.32 
+2014,10,07,19:00,214,945,6,1013,16,14,9,6,7,8,945,14,22,0.68 
+2014,10,07,19:00,945,214,7,1013,16,13,9,6,7,7,945,21,18,1.07 
+2014,10,07,19:00,945,214,1,1013,10,16,8,7,2,9,945,11,23,0.47 
+2014,09,24,18:00,59,945,0,1025,13,16,9,6,4,10,945,22,22,1.01 
+2014,09,23,22:10,945,287,1,1023,16,8,10,5,6,3,945,10,16,0.67 
+2014,09,23,22:10,287,945,6,1023,10,16,3,12,7,4,945,15,13,1.00 
+2014,09,23,20:10,854,945,1,1023,10,16,5,10,5,6,945,17,18,0.95 
+2014,08,11,22:25,1219,210,0,1044,9,16,7,8,2,8,1219,9,19,0.54 
+2014,08,06,20:00,722,1219,0,1044,9,16,7,8,2,8,1219,18,18,1.02 
+2014,05,24,15:00,1257,1254,6,1067,14,16,8,7,6,9,1257,6,26,0.33 
+2014,05,24,15:00,1257,1254,0,1067,12,16,7,8,5,8,1257,14,22,0.68 

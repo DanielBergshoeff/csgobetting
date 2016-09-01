@@ -1,3 +1,0 @@
-2016,08,04,06:20,5POWER,BornOfFire,cache,SL i-League S2 China Finals,11,16,6,9,5,7,5POWER,16,22,0.75 
-2016,08,04,06:20,5POWER,BornOfFire,mirage,SL i-League S2 China Finals,12,16,6,9,6,7,5POWER,22,22,1.08 
-2016,08,04,06:20,5POWER,BornOfFire,cobblestone,SL i-League S2 China Finals,16,3,12,3,4,0,5POWER,15,11,1.28 

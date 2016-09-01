@@ -1,4 +1,4 @@
-2015,05,14,21:00,Airwalk,neXtPlease!,mirage,Balkan Championship Season 2,2,16,2,13,0,3,Airwalk,8,18,0.47 
-2015,05,14,21:00,neXtPlease!,Airwalk,inferno,Balkan Championship Season 2,16,4,13,2,3,2,Airwalk,11,16,0.67 
-2015,05,13,18:00,GPlay,Airwalk,cobblestone,Balkan Championship Season 2,16,1,14,1,2,0,Airwalk,6,17,0.29 
-2015,05,13,18:00,GPlay,Airwalk,mirage,Balkan Championship Season 2,16,0,15,0,1,0,Airwalk,7,15,0.45 
+2015,05,14,21:00,1086,398,0,887,2,16,2,13,0,3,1086,8,18,0.47 
+2015,05,14,21:00,398,1086,6,887,16,4,13,2,3,2,1086,11,16,0.67 
+2015,05,13,18:00,1054,1086,14,887,16,1,14,1,2,0,1086,6,17,0.29 
+2015,05,13,18:00,1054,1086,0,887,16,0,15,0,1,0,1086,7,15,0.45 

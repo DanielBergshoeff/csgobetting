@@ -1,14 +1,14 @@
-2016,04,29,19:00,ANOX,BinaryDragonsGold,train,StarLadder Minor CIS - Cologne..,16,2,13,2,3,0,Binary Dragons Gold,5,17,0.31 
-2016,04,29,19:00,BinaryDragonsGold,ANOX,mirage,StarLadder Minor CIS - Cologne..,8,16,5,10,3,6,Binary Dragons Gold,11,19,0.60 
-2016,04,29,17:30,Vesuvius,BinaryDragonsGold,dust2,StarLadder Minor CIS - Cologne..,4,16,4,11,0,5,Binary Dragons Gold,11,13,0.80 
-2016,04,28,13:15,ANOX,BinaryDragonsGold,cache,StarLadder Minor CIS - Cologne..,16,5,11,4,5,1,Binary Dragons Gold,8,19,0.40 
-2016,04,20,17:00,eXplosive,BinaryDragonsGold,dust2,StarLadder Regional Minor Cham..,16,8,7,8,9,0,Binary Dragons Gold,8,17,0.54 
-2016,04,20,17:00,BinaryDragonsGold,eXplosive,cache,StarLadder Regional Minor Cham..,1,16,1,14,0,2,Binary Dragons Gold,8,17,0.39 
-2015,12,06,18:00,NPME,Arcade,mirage,Game Show Global eSports Cup 2..,6,16,4,11,2,5,NPME,12,20,0.64 
-2015,12,06,18:00,NPME,Arcade,inferno,Game Show Global eSports Cup 2..,8,16,6,9,2,7,NPME,15,21,0.72 
-2015,12,05,21:00,NPME,YP,mirage,Game Show Global eSports Cup 2..,9,16,7,8,2,8,NPME,19,19,1.06 
-2015,12,05,21:00,NPME,YP,dust2,Game Show Global eSports Cup 2..,13,16,5,10,8,6,NPME,18,21,0.90 
-2015,05,14,21:30,7sway,USSR,cache,Uprise Champions Cup Season 2,14,16,6,9,8,7,7sway,14,20,0.72 
-2015,05,14,21:30,USSR,7sway,inferno,Uprise Champions Cup Season 2,16,10,9,6,7,4,7sway,8,20,0.47 
-2015,05,08,20:00,PiTER,7sway,mirage,Uprise Champions Cup Season 2,16,10,7,8,9,2,7sway,11,22,0.50 
-2015,05,08,20:00,7sway,PiTER,cache,Uprise Champions Cup Season 2,8,16,5,10,3,6,7sway,18,16,1.04 
+2016,04,29,19:00,56,466,2,589,16,2,13,2,3,0,466,5,17,0.31 
+2016,04,29,19:00,466,56,0,589,8,16,5,10,3,6,466,11,19,0.60 
+2016,04,29,17:30,122,466,1,589,4,16,4,11,0,5,466,11,13,0.80 
+2016,04,28,13:15,56,466,7,589,16,5,11,4,5,1,466,8,19,0.40 
+2016,04,20,17:00,489,466,1,606,16,8,7,8,9,0,466,8,17,0.54 
+2016,04,20,17:00,466,489,7,606,1,16,1,14,0,2,466,8,17,0.39 
+2015,12,06,18:00,794,392,0,657,6,16,4,11,2,5,794,12,20,0.64 
+2015,12,06,18:00,794,392,6,657,8,16,6,9,2,7,794,15,21,0.72 
+2015,12,05,21:00,794,537,0,657,9,16,7,8,2,8,794,19,19,1.06 
+2015,12,05,21:00,794,537,1,657,13,16,5,10,8,6,794,18,21,0.90 
+2015,05,14,21:30,1085,844,7,923,14,16,6,9,8,7,1085,14,20,0.72 
+2015,05,14,21:30,844,1085,6,923,16,10,9,6,7,4,1085,8,20,0.47 
+2015,05,08,20:00,490,1085,0,923,16,10,7,8,9,2,1085,11,22,0.50 
+2015,05,08,20:00,1085,490,7,923,8,16,5,10,3,6,1085,18,16,1.04 

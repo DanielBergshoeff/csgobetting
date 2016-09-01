@@ -1,6 +1,6 @@
-2016,02,20,20:30,Games4u,TzatzikiKlubben,cobblestone,Nordic Masters Season 2 Finals,16,9,10,5,6,4,TzatzikiKlubben,16,20,0.91 
-2016,02,20,20:30,Games4u,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,16,14,6,9,10,5,TzatzikiKlubben,18,20,0.89 
-2016,02,20,20:30,Games4u,TzatzikiKlubben,cache,Nordic Masters Season 2 Finals,12,16,7,8,5,8,TzatzikiKlubben,19,14,1.10 
-2016,02,20,14:30,Raepmashaekel,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,16,5,12,3,4,2,TzatzikiKlubben,9,18,0.47 
-2016,02,20,14:30,TzatzikiKlubben,Raepmashaekel,inferno,Nordic Masters Season 2 Finals,6,16,3,12,3,4,TzatzikiKlubben,8,18,0.45 
-2016,02,20,11:00,Games4u,TzatzikiKlubben,mirage,Nordic Masters Season 2 Finals,14,16,7,8,7,8,TzatzikiKlubben,18,16,0.96 
+2016,02,20,20:30,674,455,14,648,16,9,10,5,6,4,455,16,20,0.91 
+2016,02,20,20:30,674,455,0,648,16,14,6,9,10,5,455,18,20,0.89 
+2016,02,20,20:30,674,455,7,648,12,16,7,8,5,8,455,19,14,1.10 
+2016,02,20,14:30,671,455,0,648,16,5,12,3,4,2,455,9,18,0.47 
+2016,02,20,14:30,455,671,6,648,6,16,3,12,3,4,455,8,18,0.45 
+2016,02,20,11:00,674,455,0,648,14,16,7,8,7,8,455,18,16,0.96 

@@ -1,13 +1,13 @@
-2016,07,19,12:00,Singapore,China,cobblestone,World Championships 2016 Asian..,8,16,3,12,5,4,Singapore,16,20,0.77 
-2016,07,19,12:00,Singapore,China,mirage,World Championships 2016 Asian..,13,16,7,8,6,8,Singapore,22,25,0.89 
-2016,07,19,12:00,China,Singapore,dust2,World Championships 2016 Asian..,16,11,8,7,8,4,Singapore,17,21,0.81 
-2016,07,14,14:45,Singapore,Indonesia,mirage,World Championships 2016 Asian..,16,8,13,2,3,6,Singapore,12,18,0.82 
-2016,07,14,14:45,Singapore,Indonesia,cobblestone,World Championships 2016 Asian..,16,10,10,5,6,5,Singapore,19,18,1.04 
-2016,07,14,14:45,Singapore,Indonesia,dust2,World Championships 2016 Asian..,10,16,2,13,8,3,Singapore,13,20,0.74 
-2016,07,12,14:30,Singapore,Vietnam,mirage,World Championships 2016 Asian..,16,13,6,9,10,4,Singapore,16,21,0.73 
-2016,07,12,14:30,Singapore,Vietnam,cobblestone,World Championships 2016 Asian..,11,16,3,12,8,4,Singapore,15,19,0.79 
-2016,07,12,14:30,Singapore,Vietnam,dust2,World Championships 2016 Asian..,16,12,5,10,11,2,Singapore,17,23,0.72 
-2016,07,12,13:15,Singapore,Philippines,cache,World Championships 2016 Asian..,16,7,10,5,6,2,Singapore,16,17,0.89 
-2016,07,12,10:00,China,Singapore,dust2,World Championships 2016 Asian..,16,13,5,10,11,3,Singapore,26,25,1.14 
-2016,07,02,11:40,Singapore,UAE,mirage,World Championships 2016 Asian..,16,8,8,7,8,1,Singapore,16,15,1.01 
-2016,07,02,11:40,Singapore,UAE,nuke,World Championships 2016 Asian..,16,13,7,8,9,5,Singapore,16,19,0.80 
+2016,07,19,12:00,265,266,14,517,8,16,3,12,5,4,265,16,20,0.77 
+2016,07,19,12:00,265,266,0,517,13,16,7,8,6,8,265,22,25,0.89 
+2016,07,19,12:00,266,265,1,517,16,11,8,7,8,4,265,17,21,0.81 
+2016,07,14,14:45,265,293,0,517,16,8,13,2,3,6,265,12,18,0.82 
+2016,07,14,14:45,265,293,14,517,16,10,10,5,6,5,265,19,18,1.04 
+2016,07,14,14:45,265,293,1,517,10,16,2,13,8,3,265,13,20,0.74 
+2016,07,12,14:30,265,298,0,517,16,13,6,9,10,4,265,16,21,0.73 
+2016,07,12,14:30,265,298,14,517,11,16,3,12,8,4,265,15,19,0.79 
+2016,07,12,14:30,265,298,1,517,16,12,5,10,11,2,265,17,23,0.72 
+2016,07,12,13:15,265,299,7,517,16,7,10,5,6,2,265,16,17,0.89 
+2016,07,12,10:00,266,265,1,517,16,13,5,10,11,3,265,26,25,1.14 
+2016,07,02,11:40,265,322,0,517,16,8,8,7,8,1,265,16,15,1.01 
+2016,07,02,11:40,265,322,5,517,16,13,7,8,9,5,265,16,19,0.80 

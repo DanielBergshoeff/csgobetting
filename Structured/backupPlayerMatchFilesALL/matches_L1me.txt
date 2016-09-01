@@ -1,12 +1,12 @@
-2016,05,08,20:40,Kingdom,DISMAY,dust2,MLG Regional Minor North Ameri..,16,8,9,6,7,2,DISMAY,17,19,0.88 
-2016,05,08,18:00,TSM,DISMAY,cache,MLG Regional Minor North Ameri..,16,10,10,5,6,5,DISMAY,17,20,0.87 
-2016,05,08,18:00,DISMAY,TSM,train,MLG Regional Minor North Ameri..,7,16,4,11,3,5,DISMAY,12,18,0.71 
-2016,03,23,04:20,Braindead,h00liGaNz,train,Razer Rising Stars NA League Q..,16,12,8,7,8,5,Braindead,21,19,1.01 
-2016,02,24,04:00,EvilNation,Obey.Alliance,dust2,Stream.me Gauntlet ,10,16,7,8,3,8,Evil Nation,14,20,0.71 
-2016,02,24,04:00,EvilNation,Obey.Alliance,cache,Stream.me Gauntlet ,13,16,9,6,4,10,Evil Nation,23,20,1.18 
-2015,09,17,01:00,Braindead,Conquest,cache,FACEIT League 2015 Stage 3 NA ..,4,16,4,11,0,5,Braindead,3,18,0.21 
-2015,09,17,01:00,Conquest,Braindead,cobblestone,FACEIT League 2015 Stage 3 NA ..,16,6,13,2,3,4,Braindead,8,21,0.39 
-2015,05,29,02:00,Braindead,Nihilum,inferno,FACEIT League 2015 Stage 2 NA ..,10,16,6,9,4,7,Braindead,23,21,1.25 
-2015,05,29,02:00,Braindead,Nihilum,cache,FACEIT League 2015 Stage 2 NA ..,14,16,8,7,6,9,Braindead,27,22,1.24 
-2015,05,26,02:00,Braindead,SetToDestroyX,mirage,FACEIT League 2015 Stage 2 NA ..,16,8,10,5,6,3,Braindead,18,14,1.38 
-2015,05,26,02:00,SetToDestroyX,Braindead,inferno,FACEIT League 2015 Stage 2 NA ..,14,16,10,5,4,11,Braindead,30,16,1.52 
+2016,05,08,20:40,263,450,1,581,16,8,9,6,7,2,450,17,19,0.88 
+2016,05,08,18:00,270,450,7,581,16,10,10,5,6,5,450,17,20,0.87 
+2016,05,08,18:00,450,270,2,581,7,16,4,11,3,5,450,12,18,0.71 
+2016,03,23,04:20,586,587,2,621,16,12,8,7,8,5,586,21,19,1.01 
+2016,02,24,04:00,650,499,1,622,10,16,7,8,3,8,650,14,20,0.71 
+2016,02,24,04:00,650,499,7,622,13,16,9,6,4,10,650,23,20,1.18 
+2015,09,17,01:00,586,738,7,810,4,16,4,11,0,5,586,3,18,0.21 
+2015,09,17,01:00,738,586,14,810,16,6,13,2,3,4,586,8,21,0.39 
+2015,05,29,02:00,586,1057,6,905,10,16,6,9,4,7,586,23,21,1.25 
+2015,05,29,02:00,586,1057,7,905,14,16,8,7,6,9,586,27,22,1.24 
+2015,05,26,02:00,586,757,0,905,16,8,10,5,6,3,586,18,14,1.38 
+2015,05,26,02:00,757,586,6,905,14,16,10,5,4,11,586,30,16,1.52 

@@ -1,78 +1,79 @@
-2016,08,08,15:00,MVP.karnal,4dimensioN,dust2,ESEA Open Season 22 Asia,14,16,4,11,10,5,MVP.karnal,10,20,0.63 
-2016,08,08,15:00,4dimensioN,MVP.karnal,mirage,ESEA Open Season 22 Asia,16,11,11,4,5,7,MVP.karnal,17,19,0.92 
-2016,07,25,12:00,AC-130,MVP.karnal,cache,MixBOT Pro-League Golden,16,8,8,7,8,1,MVP.karnal,18,20,1.13 
-2016,07,25,12:00,MVP.karnal,AC-130,mirage,MixBOT Pro-League Golden,6,16,2,13,4,3,MVP.karnal,16,19,0.98 
-2016,07,23,12:00,ZZCY,MVP.karnal,mirage,MixBOT Pro-League Golden,8,16,6,9,2,7,MVP.karnal,19,12,1.36 
-2016,07,23,12:00,ZZCY,MVP.karnal,cobblestone,MixBOT Pro-League Golden,9,16,1,14,8,2,MVP.karnal,22,12,1.32 
-2016,06,16,15:20,MiTH,MVP.karnal,cobblestone,MixBOT Pro-League Golden,8,16,7,8,1,8,MVP.karnal,18,11,1.24 
-2016,06,16,15:20,MVP.karnal,MiTH,dust2,MixBOT Pro-League Golden,16,12,6,9,10,3,MVP.karnal,22,18,1.16 
-2016,06,09,15:00,MVP.karnal,MOTV,mirage,MixBOT Pro-League Golden,16,5,13,2,3,3,MVP.karnal,26,8,1.98 
-2016,06,09,15:00,MVP.karnal,MOTV,cache,MixBOT Pro-League Golden,16,4,11,4,5,0,MVP.karnal,13,9,1.08 
-2016,05,19,05:40,Immunity,MVP.karnal,overpass,WCA Season 1 APAC Finals,16,3,13,2,3,1,MVP.karnal,14,17,0.98 
-2016,05,19,05:40,Immunity,MVP.karnal,dust2,WCA Season 1 APAC Finals,16,13,8,7,8,6,MVP.karnal,15,23,0.66 
-2016,05,19,05:40,Immunity,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,10,13,2,3,8,MVP.karnal,18,18,0.92 
-2016,05,19,05:40,MVP.karnal,Immunity,cobblestone,WCA Season 1 APAC Finals,16,9,9,6,7,3,MVP.karnal,12,17,0.75 
-2016,05,18,11:00,MVP.karnal,Signature,dust2,WCA Season 1 APAC Finals,16,10,10,5,6,5,MVP.karnal,20,16,1.18 
-2016,05,18,11:00,Signature,MVP.karnal,mirage,WCA Season 1 APAC Finals,16,11,8,7,8,4,MVP.karnal,15,20,0.74 
-2016,05,18,11:00,MVP.karnal,Signature,cache,WCA Season 1 APAC Finals,19,16,11,4,4,11,MVP.karnal,23,23,0.88 
-2016,04,21,16:10,MVP.karnal,Signature,mirage,Rising Stars SEA Promotional C..,13,16,4,11,9,5,MVP.karnal,18,19,1.02 
-2016,04,21,15:05,LGD,MVP.karnal,cache,Rising Stars SEA Promotional C..,6,16,3,12,3,4,MVP.karnal,20,12,1.24 
-2016,04,21,12:30,MVP.karnal,Signature,inferno,Rising Stars SEA Promotional C..,8,16,6,9,2,7,MVP.karnal,18,16,1.09 
-2016,04,19,13:00,MVP.karnal,Threats,inferno,WCA 2016 APAC Qualifier,16,11,10,5,6,6,MVP.karnal,16,16,0.89 
-2016,04,19,13:00,Threats,MVP.karnal,cobblestone,WCA 2016 APAC Qualifier,16,19,8,7,7,8,MVP.karnal,19,24,0.76 
-2016,03,13,09:45,TyLoo,MVP.karnal,cache,DreamHack Masters Malmö 2016 A..,16,5,13,2,3,3,MVP.karnal,13,17,0.87 
-2016,03,13,09:45,MVP.karnal,TyLoo,overpass,DreamHack Masters Malmö 2016 A..,6,16,2,13,4,3,MVP.karnal,12,19,0.65 
-2016,03,13,06:30,MVPproject,MVP.karnal,mirage,DreamHack Masters Malmö 2016 A..,10,16,3,12,7,4,MVP.karnal,16,14,1.07 
-2016,03,13,06:30,MVPproject,MVP.karnal,cobblestone,DreamHack Masters Malmö 2016 A..,16,19,7,8,8,7,MVP.karnal,20,22,0.91 
-2016,02,28,15:00,MVP.karnal,dream[S]cape,mirage,Born To Win Invitational Leagu..,16,7,12,3,4,4,MVP.karnal,15,14,0.99 
-2016,02,28,15:00,dream[S]cape,MVP.karnal,cache,Born To Win Invitational Leagu..,4,16,4,11,0,5,MVP.karnal,9,10,0.81 
-2016,02,28,15:00,MVP.karnal,dream[S]cape,cobblestone,Born To Win Invitational Leagu..,14,16,10,5,4,11,MVP.karnal,22,19,1.11 
-2016,02,27,16:30,J2G,MVP.karnal,cobblestone,Born To Win Invitational Leagu..,4,16,2,13,2,3,MVP.karnal,10,10,0.88 
-2016,02,27,16:30,J2G,MVP.karnal,mirage,Born To Win Invitational Leagu..,6,16,6,9,0,7,MVP.karnal,18,11,1.36 
-2016,02,26,17:00,dream[S]cape,MVP.karnal,overpass,Born To Win Invitational Leagu..,7,16,5,10,2,6,MVP.karnal,22,14,1.29 
-2016,02,26,17:00,dream[S]cape,MVP.karnal,cache,Born To Win Invitational Leagu..,10,16,6,9,4,7,MVP.karnal,17,16,1.02 
-2016,02,21,15:30,J2G,MVP.karnal,cobblestone,Born To Win Invitational Leagu..,9,16,6,9,3,7,MVP.karnal,19,15,1.22 
-2016,02,21,12:00,Threats,MVP.karnal,cache,Born To Win Invitational Leagu..,7,16,3,12,4,4,MVP.karnal,15,9,1.14 
-2016,01,29,08:30,Risky,MVP.karnal,train,IEM Taipei 2016,16,8,10,5,6,3,MVP.karnal,14,21,0.76 
-2016,01,29,05:45,MVP.karnal,Chiefs,inferno,IEM Taipei 2016,14,16,9,6,5,10,MVP.karnal,19,20,0.98 
-2015,12,14,10:00,PUZZLES,MVP.karnal,dust2,SoStronk KOTH Asia #2,16,2,13,2,3,0,MVP.karnal,11,18,0.57 
-2015,12,14,10:00,PUZZLES,MVP.karnal,mirage,SoStronk KOTH Asia #2,16,8,9,6,7,2,MVP.karnal,15,21,0.70 
-2015,12,10,13:00,CyberZen,MVP.karnal,inferno,SoStronk Challenger Asia #1,16,11,8,7,8,4,MVP.karnal,17,20,0.84 
-2015,12,10,13:00,CyberZen,MVP.karnal,cobblestone,SoStronk Challenger Asia #1,16,4,12,3,4,1,MVP.karnal,15,18,0.88 
-2015,12,05,11:00,MVP.karnal,xqR,inferno,SoStronk Challenger Asia #1,16,5,12,3,4,2,MVP.karnal,15,11,1.18 
-2015,12,05,11:00,MVP.karnal,xqR,cache,SoStronk Challenger Asia #1,18,22,10,5,5,10,MVP.karnal,31,29,1.06 
-2015,12,05,11:00,xqR,MVP.karnal,cobblestone,SoStronk Challenger Asia #1,14,16,7,8,7,8,MVP.karnal,15,20,0.83 
-2015,12,04,13:00,HanoiVortex,MVP.karnal,cobblestone,SoStronk Challenger Asia #1,6,16,3,12,3,4,MVP.karnal,21,9,1.54 
-2015,12,04,13:00,HanoiVortex,MVP.karnal,cache,SoStronk Challenger Asia #1,12,16,6,9,6,7,MVP.karnal,12,17,0.76 
-2015,11,20,13:00,MVP.karnal,MVPproject,dust2,D!ngIT CS:GO Asia Invitational..,16,11,6,9,10,2,MVP.karnal,19,15,1.12 
-2015,11,20,13:00,MVPproject,MVP.karnal,inferno,D!ngIT CS:GO Asia Invitational..,14,16,11,4,3,12,MVP.karnal,21,18,1.26 
-2015,11,16,13:00,TyLoo,MVP.karnal,cache,D!ngIT CS:GO Asia Invitational..,16,6,11,4,5,2,MVP.karnal,12,19,0.73 
-2015,11,16,13:00,TyLoo,MVP.karnal,train,D!ngIT CS:GO Asia Invitational..,16,3,12,3,4,0,MVP.karnal,8,18,0.49 
-2015,11,04,15:55,inchk1ng,MVP.karnal,cobblestone,MixBOT Pro-League Invite Seaso..,6,16,3,12,3,4,MVP.karnal,16,12,1.22 
-2015,11,04,14:30,MiTH,MVP.karnal,dust2,D!ngIT CS:GO Asia Invitational..,6,16,2,13,4,3,MVP.karnal,17,10,1.25 
-2015,11,04,13:00,MVP.karnal,Expendables,dust2,D!ngIT CS:GO Asia Invitational..,16,3,13,2,3,1,MVP.karnal,11,7,1.09 
-2015,11,04,10:00,nxl,MVP.karnal,inferno,SoStronk KOTH Asia #1,16,5,11,4,5,1,MVP.karnal,13,17,0.78 
-2015,11,04,10:00,nxl,MVP.karnal,dust2,SoStronk KOTH Asia #1,16,4,11,4,5,0,MVP.karnal,6,18,0.36 
-2015,10,17,17:15,MVP.karnal,Penguin,dust2,MixBOT Pro-League Invite Seaso..,16,8,9,6,7,2,MVP.karnal,20,12,1.30 
-2015,10,17,16:00,MVP.karnal,TyLoo,overpass,MixBOT Pro-League Invite Seaso..,2,16,2,13,0,3,MVP.karnal,10,16,0.65 
-2015,10,04,16:50,nxl,MVP.karnal,dust2,MixBOT Pro-League Invite Seaso..,19,15,5,10,10,5,MVP.karnal,21,26,0.81 
-2015,10,04,16:50,nxl,MVP.karnal,cache,MixBOT Pro-League Invite Seaso..,16,13,5,10,11,3,MVP.karnal,14,20,0.72 
-2015,09,18,14:45,MiTH,MVP.karnal,cobblestone,MixBOT Pro-League Invite Seaso..,6,16,3,12,3,4,MVP.karnal,21,12,1.51 
-2015,09,11,18:00,TheMongolz,MVP.karnal,dust2,MixBOT Pro-League Invite Seaso..,16,14,8,7,8,7,MVP.karnal,22,20,1.08 
-2015,09,11,15:00,MVP.karnal,VirtualImpact,cache,MixBOT Pro-League Invite Seaso..,16,4,13,2,3,2,MVP.karnal,13,8,1.15 
-2015,09,06,09:00,MVP.karnal,TyLoo,cache,DreamHack Open Cluj-Napoca 201..,12,16,8,7,4,9,MVP.karnal,16,21,0.74 
-2015,09,06,09:00,MVP.karnal,TyLoo,mirage,DreamHack Open Cluj-Napoca 201..,9,16,8,7,1,9,MVP.karnal,17,19,1.00 
-2015,09,06,09:00,TyLoo,MVP.karnal,dust2,DreamHack Open Cluj-Napoca 201..,10,16,3,12,7,4,MVP.karnal,18,17,0.99 
-2015,08,27,14:15,Thailand,Malaysia,mirage,World Championships 2015 Asian..,16,12,8,7,8,5,Malaysia,12,22,0.57 
-2015,08,27,13:00,China,Malaysia,dust2,World Championships 2015 Asian..,16,14,4,11,12,3,Malaysia,20,22,0.89 
-2015,07,19,11:30,Immunity,MVP.karnal,cobblestone,ESL One Cologne 2015 Asian Qua..,16,7,10,5,6,2,MVP.karnal,10,19,0.51 
-2015,07,19,11:30,MVP.karnal,Immunity,mirage,ESL One Cologne 2015 Asian Qua..,13,16,7,8,6,8,MVP.karnal,19,18,0.96 
-2015,07,19,06:45,MVP.karnal,QeeYou,overpass,ESL One Cologne 2015 Asian Qua..,16,5,10,5,6,0,MVP.karnal,15,8,1.24 
-2015,07,18,16:45,MVP.karnal,NeckBreak,inferno,ESL One Cologne 2015 Asian Qua..,16,7,13,2,3,5,MVP.karnal,13,12,0.88 
-2015,07,18,13:30,MVP.karnal,QeeYou,inferno,ESL One Cologne 2015 Asian Qua..,11,16,9,6,2,10,MVP.karnal,12,17,0.76 
-2015,06,29,15:40,MVP.karnal,nxl,inferno,BenQ All-Star Showmatch #5,16,10,8,7,8,3,MVP.karnal,21,12,1.27 
-2015,06,29,15:40,nxl,MVP.karnal,dust2,BenQ All-Star Showmatch #5,10,16,2,13,8,3,MVP.karnal,14,15,0.91 
-2015,06,05,15:00,nxl,MVP.karnal,dust2,FACEIT SEA Launch Cup,16,6,11,4,5,2,MVP.karnal,13,20,0.65 
-2015,06,05,13:00,MVP.karnal,DeToNator,inferno,FACEIT SEA Launch Cup,16,9,11,4,5,5,MVP.karnal,16,12,1.10 
-2015,04,19,14:50,MVP.karnal,TyLoo,inferno,Rising Stars Asia #1,26,28,6,9,9,6,MVP.karnal,54,34,1.43 
-2015,04,17,15:45,Nface,MVP.karnal,cache,Rising Stars Asia #1,14,16,8,7,6,9,MVP.karnal,24,19,1.16 
+2016,08,08,15:00,149,86,1,478,14,16,4,11,10,5,149,10,20,0.63 
+2016,08,08,15:00,86,149,0,478,16,11,11,4,5,7,149,17,19,0.92 
+2016,07,25,12:00,242,149,7,504,16,8,8,7,8,1,149,18,20,1.13 
+2016,07,25,12:00,149,242,0,504,6,16,2,13,4,3,149,16,19,0.98 
+2016,07,23,12:00,226,149,0,504,8,16,6,9,2,7,149,19,12,1.36 
+2016,07,23,12:00,226,149,14,504,9,16,1,14,8,2,149,22,12,1.32 
+2016,06,16,15:20,148,149,14,504,8,16,7,8,1,8,149,18,11,1.24 
+2016,06,16,15:20,149,148,1,504,16,12,6,9,10,3,149,22,18,1.16 
+2016,06,09,15:00,149,367,0,504,16,5,13,2,3,3,149,26,8,1.98 
+2016,06,09,15:00,149,367,7,504,16,4,11,4,5,0,149,13,9,1.08 
+2016,05,19,05:40,429,149,4,571,16,3,13,2,3,1,149,14,17,0.98 
+2016,05,19,05:40,429,149,1,571,16,13,8,7,8,6,149,15,23,0.66 
+2016,05,19,05:40,429,149,0,571,16,10,13,2,3,8,149,18,18,0.92 
+2016,05,19,05:40,149,429,14,571,16,9,9,6,7,3,149,12,17,0.75 
+2016,05,18,11:00,149,61,1,571,16,10,10,5,6,5,149,20,16,1.18 
+2016,05,18,11:00,61,149,0,571,16,11,8,7,8,4,149,15,20,0.74 
+2016,05,18,11:00,149,61,7,571,19,16,11,4,4,11,149,23,23,0.88 
+2016,04,21,16:10,149,61,0,602,13,16,4,11,9,5,149,18,19,1.02 
+2016,04,21,15:05,180,149,7,602,6,16,3,12,3,4,149,20,12,1.24 
+2016,04,21,12:30,149,61,6,602,8,16,6,9,2,7,149,18,16,1.09 
+2016,04,19,13:00,149,491,6,607,16,11,10,5,6,6,149,16,16,0.89 
+2016,04,19,13:00,491,149,14,607,16,19,8,7,7,8,149,19,24,0.76 
+2016,03,13,09:45,34,149,7,633,16,5,13,2,3,3,149,13,17,0.87 
+2016,03,13,09:45,149,34,4,633,6,16,2,13,4,3,149,12,19,0.65 
+2016,03,13,06:30,65,149,0,633,10,16,3,12,7,4,149,16,14,1.07 
+2016,03,13,06:30,65,149,14,633,16,19,7,8,8,7,149,20,22,0.91 
+2016,02,28,15:00,149,62,0,641,16,7,12,3,4,4,149,15,14,0.99 
+2016,02,28,15:00,62,149,7,641,4,16,4,11,0,5,149,9,10,0.81 
+2016,02,28,15:00,149,62,14,641,14,16,10,5,4,11,149,22,19,1.11 
+2016,02,27,16:30,643,149,14,641,4,16,2,13,2,3,149,10,10,0.88 
+2016,02,27,16:30,643,149,0,641,6,16,6,9,0,7,149,18,11,1.36 
+2016,02,26,17:00,62,149,4,641,7,16,5,10,2,6,149,22,14,1.29 
+2016,02,26,17:00,62,149,7,641,10,16,6,9,4,7,149,17,16,1.02 
+2016,02,21,15:30,643,149,14,641,9,16,6,9,3,7,149,19,15,1.22 
+2016,02,21,12:00,491,149,7,641,7,16,3,12,4,4,149,15,9,1.14 
+2016,01,29,08:30,193,149,2,663,16,8,10,5,6,3,149,14,21,0.76 
+2016,01,29,05:45,149,3,6,663,14,16,9,6,5,10,149,19,20,0.98 
+2015,12,14,10:00,762,149,1,702,16,2,13,2,3,0,149,11,18,0.57 
+2015,12,14,10:00,762,149,0,702,16,8,9,6,7,2,149,15,21,0.70 
+2015,12,10,13:00,697,149,6,711,16,11,8,7,8,4,149,17,20,0.84 
+2015,12,10,13:00,697,149,14,711,16,4,12,3,4,1,149,15,18,0.88 
+2015,12,05,11:00,149,494,6,711,16,5,12,3,4,2,149,15,11,1.18 
+2015,12,05,11:00,149,494,7,711,18,22,10,5,5,10,149,31,29,1.06 
+2015,12,05,11:00,494,149,14,711,14,16,7,8,7,8,149,15,20,0.83 
+2015,12,04,13:00,814,149,14,711,6,16,3,12,3,4,149,21,9,1.54 
+2015,12,04,13:00,814,149,7,711,12,16,6,9,6,7,149,12,17,0.76 
+2015,11,20,13:00,149,65,1,691,16,11,6,9,10,2,149,19,15,1.12 
+2015,11,20,13:00,65,149,6,691,14,16,11,4,3,12,149,21,18,1.26 
+2015,11,16,13:00,34,149,7,691,16,6,11,4,5,2,149,12,19,0.73 
+2015,11,16,13:00,34,149,2,691,16,3,12,3,4,0,149,8,18,0.49 
+2015,11,04,15:55,483,149,14,642,6,16,3,12,3,4,149,16,12,1.22 
+2015,11,04,14:30,148,149,1,691,6,16,2,13,4,3,149,17,10,1.25 
+2015,11,04,13:00,149,368,1,691,16,3,13,2,3,1,149,11,7,1.09 
+2015,11,04,10:00,256,149,6,761,16,5,11,4,5,1,149,13,17,0.78 
+2015,11,04,10:00,256,149,1,761,16,4,11,4,5,0,149,6,18,0.36 
+2015,10,17,17:15,149,927,1,642,16,8,9,6,7,2,149,20,12,1.30 
+2015,10,17,16:00,149,34,4,642,2,16,2,13,0,3,149,10,16,0.65 
+2015,10,04,16:50,256,149,1,642,19,15,5,10,10,5,149,21,26,0.81 
+2015,10,04,16:50,256,149,7,642,16,13,5,10,11,3,149,14,20,0.72 
+2015,09,18,14:45,148,149,14,642,6,16,3,12,3,4,149,21,12,1.51 
+2015,09,11,18:00,150,149,1,642,16,14,8,7,8,7,149,22,20,1.08 
+2015,09,11,15:00,149,869,7,642,16,4,13,2,3,2,149,13,8,1.15 
+2015,09,06,09:00,149,34,7,766,12,16,8,7,4,9,149,16,21,0.74 
+2015,09,06,09:00,149,34,0,766,9,16,8,7,1,9,149,17,19,1.00 
+2015,09,06,09:00,34,149,1,766,10,16,3,12,7,4,149,18,17,0.99 
+2015,08,27,14:15,295,321,0,835,16,12,8,7,8,5,321,12,22,0.57 
+2015,08,27,13:00,266,321,1,835,16,14,4,11,12,3,321,20,22,0.89 
+2015,07,19,11:30,429,149,14,873,16,7,10,5,6,2,149,10,19,0.51 
+2015,07,19,11:30,149,429,0,873,13,16,7,8,6,8,149,19,18,0.96 
+2015,07,19,06:45,149,994,4,873,16,5,10,5,6,0,149,15,8,1.24 
+2015,07,18,16:45,149,1046,6,873,16,7,13,2,3,5,149,13,12,0.88 
+2015,07,18,13:30,149,994,6,873,11,16,9,6,2,10,149,12,17,0.76 
+2015,06,29,15:40,149,256,6,879,16,10,8,7,8,3,149,21,12,1.27 
+2015,06,29,15:40,256,149,1,879,10,16,2,13,8,3,149,14,15,0.91 
+2015,06,05,15:00,256,149,1,900,16,6,11,4,5,2,149,13,20,0.65 
+2015,06,05,13:00,149,106,6,900,16,9,11,4,5,5,149,16,12,1.10 
+2015,04,19,14:50,149,34,6,940,26,28,6,9,9,6,149,54,34,1.43 
+2015,04,17,15:45,209,149,7,940,14,16,8,7,6,9,149,24,19,1.16 
+2013,11,23,04:00,302,1330,2,1106,16,6,12,3,4,3,1330,15,17,0.85 

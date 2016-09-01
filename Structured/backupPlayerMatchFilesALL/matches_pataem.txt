@@ -1,10 +1,10 @@
-2015,12,18,06:30,Dictionary,GANK,dust2,SL i-League StarSeries XIV Chi..,4,16,4,11,0,5,Dictionary,15,17,0.86 
-2015,12,18,06:30,GANK,Dictionary,mirage,SL i-League StarSeries XIV Chi..,16,5,10,5,6,0,Dictionary,7,20,0.34 
-2015,12,17,06:45,CyberZen,Dictionary,inferno,SL i-League StarSeries XIV Chi..,16,2,13,2,3,0,Dictionary,8,16,0.59 
-2015,12,17,06:45,CyberZen,Dictionary,cobblestone,SL i-League StarSeries XIV Chi..,16,1,14,1,2,0,Dictionary,7,16,0.46 
-2015,12,05,15:00,Dictionary,7Kings,cache,SL i-League StarSeries XIV,16,6,11,4,5,2,Dictionary,17,11,1.26 
-2015,12,05,15:00,7Kings,Dictionary,mirage,SL i-League StarSeries XIV,10,16,5,10,5,6,Dictionary,14,21,0.61 
-2015,12,03,12:30,TEAM.TDA,Dictionary,inferno,SL i-League StarSeries XIV,10,16,8,7,2,9,Dictionary,21,12,1.29 
-2015,12,03,12:30,Dictionary,TEAM.TDA,mirage,SL i-League StarSeries XIV,16,4,11,4,5,0,Dictionary,19,7,1.56 
-2015,12,01,12:30,Dictionary,PUZZLES,cache,SL i-League StarSeries XIV,4,16,2,13,2,3,Dictionary,11,18,0.63 
-2015,12,01,12:30,PUZZLES,Dictionary,cobblestone,SL i-League StarSeries XIV,16,9,8,7,8,2,Dictionary,11,21,0.54 
+2015,12,18,06:30,745,737,1,688,4,16,4,11,0,5,745,15,17,0.86 
+2015,12,18,06:30,737,745,0,688,16,5,10,5,6,0,745,7,20,0.34 
+2015,12,17,06:45,697,745,6,688,16,2,13,2,3,0,745,8,16,0.59 
+2015,12,17,06:45,697,745,14,688,16,1,14,1,2,0,745,7,16,0.46 
+2015,12,05,15:00,745,808,7,696,16,6,11,4,5,2,745,17,11,1.26 
+2015,12,05,15:00,808,745,0,696,10,16,5,10,5,6,745,14,21,0.61 
+2015,12,03,12:30,816,745,6,696,10,16,8,7,2,9,745,21,12,1.29 
+2015,12,03,12:30,745,816,0,696,16,4,11,4,5,0,745,19,7,1.56 
+2015,12,01,12:30,745,762,7,696,4,16,2,13,2,3,745,11,18,0.63 
+2015,12,01,12:30,762,745,14,696,16,9,8,7,8,2,745,11,21,0.54 

@@ -1,5 +1,5 @@
-2016,05,07,19:00,Dreamcity,TzatzikiKlubben,dust2,BirdieLAN 26,6,16,6,9,0,7,Dreamcity,11,16,0.67 
-2016,05,07,19:00,TzatzikiKlubben,Dreamcity,inferno,BirdieLAN 26,23,26,6,9,9,6,Dreamcity,26,33,0.84 
-2016,05,07,19:00,Dreamcity,TzatzikiKlubben,mirage,BirdieLAN 26,14,16,6,9,8,7,Dreamcity,22,22,1.06 
-2014,06,15,10:00,Publiclir.se,Vengeance&Evil,mirage,ESPORTSM 2013/2014 Finals,16,13,6,9,10,4,Vengeance & Evil,13,24,0.62 
-2014,06,15,10:00,Vengeance&Evil,Publiclir.se,inferno,ESPORTSM 2013/2014 Finals,9,16,6,9,3,7,Vengeance & Evil,16,21,0.76 
+2016,05,07,19:00,454,455,1,586,6,16,6,9,0,7,454,11,16,0.67 
+2016,05,07,19:00,455,454,6,586,23,26,6,9,9,6,454,26,33,0.84 
+2016,05,07,19:00,454,455,0,586,14,16,6,9,8,7,454,22,22,1.06 
+2014,06,15,10:00,517,1238,0,1062,16,13,6,9,10,4,1238,13,24,0.62 
+2014,06,15,10:00,1238,517,6,1062,9,16,6,9,3,7,1238,16,21,0.76 

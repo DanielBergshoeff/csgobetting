@@ -1,15 +1,15 @@
-2016,08,12,04:35,BlackDragons,ProGaming,cache,Liga PRO GamersClub - JUL/16,16,10,11,4,5,6,Black Dragons,17,14,1.08 
-2016,08,12,04:35,BlackDragons,ProGaming,dust2,Liga PRO GamersClub - JUL/16,19,17,5,10,10,5,Black Dragons,30,24,1.21 
-2016,08,12,04:35,ProGaming,BlackDragons,mirage,Liga PRO GamersClub - JUL/16,16,5,12,3,4,2,Black Dragons,7,17,0.49 
-2016,08,11,04:15,RemoBrave,BlackDragons,cobblestone,Liga PRO GamersClub - JUL/16,12,16,5,10,7,6,Black Dragons,14,17,0.74 
-2016,08,11,04:15,RemoBrave,BlackDragons,dust2,Liga PRO GamersClub - JUL/16,6,16,5,10,1,6,Black Dragons,17,14,1.10 
-2016,08,11,04:15,BlackDragons,RemoBrave,mirage,Liga PRO GamersClub - JUL/16,14,16,9,6,5,10,Black Dragons,15,20,0.77 
-2016,08,10,04:20,BlackDragons,IDM,cache,Liga PRO GamersClub - JUL/16,16,8,11,4,5,4,Black Dragons,14,16,0.81 
-2016,08,10,04:20,IDM,BlackDragons,mirage,Liga PRO GamersClub - JUL/16,7,16,2,13,5,3,Black Dragons,17,15,1.03 
-2016,08,10,04:20,BlackDragons,IDM,cobblestone,Liga PRO GamersClub - JUL/16,12,16,7,8,5,8,Black Dragons,20,22,1.00 
-2016,07,14,04:15,BlackDragons,TeamOne,overpass,Liga PRO GamersClub - JUN/16,16,12,6,9,10,3,Black Dragons,20,14,1.17 
-2016,07,14,04:15,TeamOne,BlackDragons,train,Liga PRO GamersClub - JUN/16,16,14,10,5,6,9,Black Dragons,15,23,0.69 
-2016,07,14,04:15,TeamOne,BlackDragons,cache,Liga PRO GamersClub - JUN/16,11,16,6,9,5,7,Black Dragons,19,17,1.04 
-2016,07,13,04:10,Innova,BlackDragons,cache,Liga PRO GamersClub - JUN/16,17,19,7,8,8,7,Black Dragons,16,25,0.67 
-2016,07,13,04:10,Innova,BlackDragons,mirage,Liga PRO GamersClub - JUN/16,9,16,9,6,0,10,Black Dragons,17,16,1.00 
-2016,07,13,04:10,BlackDragons,Innova,train,Liga PRO GamersClub - JUN/16,10,16,6,9,4,7,Black Dragons,18,20,0.95 
+2016,08,12,04:35,90,91,7,485,16,10,11,4,5,6,90,17,14,1.08 
+2016,08,12,04:35,90,91,1,485,19,17,5,10,10,5,90,30,24,1.21 
+2016,08,12,04:35,91,90,0,485,16,5,12,3,4,2,90,7,17,0.49 
+2016,08,11,04:15,77,90,14,485,12,16,5,10,7,6,90,14,17,0.74 
+2016,08,11,04:15,77,90,1,485,6,16,5,10,1,6,90,17,14,1.10 
+2016,08,11,04:15,90,77,0,485,14,16,9,6,5,10,90,15,20,0.77 
+2016,08,10,04:20,90,126,7,485,16,8,11,4,5,4,90,14,16,0.81 
+2016,08,10,04:20,126,90,0,485,7,16,2,13,5,3,90,17,15,1.03 
+2016,08,10,04:20,90,126,14,485,12,16,7,8,5,8,90,20,22,1.00 
+2016,07,14,04:15,90,7,4,522,16,12,6,9,10,3,90,20,14,1.17 
+2016,07,14,04:15,7,90,2,522,16,14,10,5,6,9,90,15,23,0.69 
+2016,07,14,04:15,7,90,7,522,11,16,6,9,5,7,90,19,17,1.04 
+2016,07,13,04:10,113,90,7,522,17,19,7,8,8,7,90,16,25,0.67 
+2016,07,13,04:10,113,90,0,522,9,16,9,6,0,10,90,17,16,1.00 
+2016,07,13,04:10,90,113,2,522,10,16,6,9,4,7,90,18,20,0.95 

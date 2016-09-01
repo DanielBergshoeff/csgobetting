@@ -1,2 +1,2 @@
-2015,12,13,17:30,newNature,Brekan,overpass,Gigabyte Top League Finals,9,16,9,6,0,10,newNature,11,19,0.70 
-2015,12,13,17:30,Brekan,newNature,cache,Gigabyte Top League Finals,16,3,12,3,4,0,newNature,11,18,0.65 
+2015,12,13,17:30,766,764,4,704,9,16,9,6,0,10,766,11,19,0.70 
+2015,12,13,17:30,764,766,7,704,16,3,12,3,4,0,766,11,18,0.65 

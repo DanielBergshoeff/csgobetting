@@ -1,5 +1,0 @@
-2015,09,13,13:45,ARMADA,CSGO-Saloon,cache,Balkan SuperCup #2 LAN Finals,3,16,2,13,1,3,ARMADA,6,19,0.29 
-2015,09,13,13:45,ARMADA,CSGO-Saloon,inferno,Balkan SuperCup #2 LAN Finals,14,16,7,8,7,8,ARMADA,23,22,1.11 
-2015,09,13,13:45,CSGO-Saloon,ARMADA,cobblestone,Balkan SuperCup #2 LAN Finals,12,16,8,7,4,9,ARMADA,23,18,1.16 
-2015,09,13,10:30,FLUGGENKK,ARMADA,cache,Balkan SuperCup #2 LAN Finals,5,16,4,11,1,5,ARMADA,23,12,1.60 
-2015,09,13,10:30,ARMADA,FLUGGENKK,inferno,Balkan SuperCup #2 LAN Finals,16,13,6,9,10,4,ARMADA,23,17,1.24 

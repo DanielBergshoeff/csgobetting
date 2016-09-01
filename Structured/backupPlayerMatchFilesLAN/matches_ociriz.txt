@@ -1,6 +1,0 @@
-2014,08,02,12:30,Menace,Nostalgie,nuke,ASUS ROG Summer 2014,12,16,11,4,1,12,Menace,17,25,0.68 
-2014,08,02,12:30,Menace,Nostalgie,mirage,ASUS ROG Summer 2014,16,9,10,5,6,4,Menace,17,20,0.87 
-2014,08,02,12:30,Menace,Nostalgie,dust2,ASUS ROG Summer 2014,10,16,9,6,1,10,Menace,17,18,0.91 
-2014,07,31,19:35,Menace,TMVG,mirage,ASUS ROG Summer 2014,19,15,9,6,6,9,Menace,31,20,1.37 
-2014,07,31,18:30,Publiclir.se,Menace,mirage,ASUS ROG Summer 2014,16,13,9,6,7,7,Menace,11,21,0.55 
-2014,07,31,16:00,Menace,TMVG,dust2,ASUS ROG Summer 2014,19,16,8,7,7,8,Menace,26,24,1.06 

@@ -1,4 +1,4 @@
-2014,04,26,23:30,AlienTech,NorthernGrade,nuke,1Life Fraglider Invitational,17,19,11,4,4,11,AlienTech,26,24,1.04 
-2014,04,26,22:15,Panthers,AlienTech,dust2,1Life Fraglider Invitational,7,16,4,11,3,5,AlienTech,33,13,2.31 
-2014,04,26,20:00,SteelShock,AlienTech,inferno,1Life Fraglider Invitational,14,16,6,9,8,7,AlienTech,22,21,0.95 
-2014,04,26,18:00,AlienTech,NorthernGrade,dust2,1Life Fraglider Invitational,9,16,6,9,3,7,AlienTech,14,18,0.81 
+2014,04,26,23:30,278,1262,5,1074,17,19,11,4,4,11,278,26,24,1.04 
+2014,04,26,22:15,1087,278,1,1074,7,16,4,11,3,5,278,33,13,2.31 
+2014,04,26,20:00,1263,278,6,1074,14,16,6,9,8,7,278,22,21,0.95 
+2014,04,26,18:00,278,1262,1,1074,9,16,6,9,3,7,278,14,18,0.81 

@@ -1,2 +1,0 @@
-2016,06,12,10:30,ex-noMERCY,AGG,train,X-Kom Clash,8,16,6,9,2,7,ex-noMERCY,9,19,0.51 
-2016,06,12,10:30,ex-noMERCY,AGG,mirage,X-Kom Clash,11,16,9,6,2,10,ex-noMERCY,19,20,1.08 

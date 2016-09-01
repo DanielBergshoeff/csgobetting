@@ -1,5 +1,0 @@
-2015,11,17,20:45,USSR,PiTER,overpass,CIS LAN Championship #2,13,16,9,6,4,10,USSR,22,20,1.11 
-2015,11,17,20:45,PiTER,USSR,mirage,CIS LAN Championship #2,16,10,12,3,4,7,USSR,16,19,0.85 
-2015,11,17,12:45,USSR,VegaSquadron,dust2,CIS LAN Championship #2,7,16,4,11,3,5,USSR,15,19,0.79 
-2015,11,17,12:45,USSR,VegaSquadron,overpass,CIS LAN Championship #2,14,16,5,10,9,6,USSR,22,20,1.02 
-2015,11,17,12:45,VegaSquadron,USSR,mirage,CIS LAN Championship #2,11,16,9,6,2,10,USSR,18,19,0.93 

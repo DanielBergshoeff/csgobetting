@@ -1,30 +1,30 @@
-2016,06,27,01:30,Winterfox,ACE,train,CyberPowerPC Summer 2016 Quali..,16,13,10,5,6,8,ACE,19,21,0.93 
-2016,06,27,01:30,ACE,Winterfox,cache,CyberPowerPC Summer 2016 Quali..,11,16,6,9,5,7,ACE,15,22,0.70 
-2016,06,27,01:30,ACE,Winterfox,overpass,CyberPowerPC Summer 2016 Quali..,16,7,10,5,6,2,ACE,21,15,1.25 
-2016,05,16,02:40,Vault,TempoStorm,cobblestone,ESEA Premier Season 21 North A..,1,16,1,14,0,2,Vault,7,15,0.51 
-2016,05,16,02:40,Vault,TempoStorm,train,ESEA Premier Season 21 North A..,13,16,9,6,4,10,Vault,14,21,0.75 
-2016,05,09,02:00,Vault,Noble,cobblestone,MLG Regional Minor North Ameri..,13,16,7,8,6,8,Vault,21,22,1.10 
-2016,05,08,22:15,Prospects,Vault,cache,MLG Regional Minor North Ameri..,16,9,7,8,9,1,Vault,14,21,0.76 
-2016,05,08,22:15,Vault,Prospects,mirage,MLG Regional Minor North Ameri..,16,13,10,5,6,8,Vault,23,18,1.09 
-2016,05,08,22:15,Prospects,Vault,train,MLG Regional Minor North Ameri..,16,13,11,4,5,9,Vault,14,22,0.66 
-2016,05,08,19:00,MostlyHomeless,Vault,dust2,MLG Regional Minor North Ameri..,8,16,4,11,4,5,Vault,12,18,0.62 
-2016,05,08,19:00,MostlyHomeless,Vault,cobblestone,MLG Regional Minor North Ameri..,14,16,7,8,7,8,Vault,21,18,1.01 
-2016,05,08,19:00,MostlyHomeless,Vault,train,MLG Regional Minor North Ameri..,16,14,12,3,4,11,Vault,21,22,0.98 
-2016,04,19,02:15,Vault,Selfless,inferno,CEVO Gfinity Professional Seas..,4,16,2,13,2,3,Vault,14,19,0.74 
-2016,04,19,02:15,Selfless,Vault,train,CEVO Gfinity Professional Seas..,16,8,11,4,5,4,Vault,12,20,0.70 
-2016,04,12,04:15,Vault,KKona,train,CEVO Gfinity Professional Seas..,16,5,10,5,6,0,Vault,17,12,1.14 
-2016,04,12,04:15,Vault,KKona,cobblestone,CEVO Gfinity Professional Seas..,16,10,9,6,7,4,Vault,22,17,1.23 
-2016,03,22,04:15,NRG,Vault,mirage,CEVO Gfinity Professional Seas..,16,9,9,6,7,3,Vault,16,22,0.77 
-2016,03,22,04:15,NRG,Vault,dust2,CEVO Gfinity Professional Seas..,16,10,9,6,7,4,Vault,10,22,0.47 
-2016,02,22,05:00,Vault,compLexity,overpass,CEVO Gfinity Professional Seas..,10,16,8,7,2,9,Vault,11,19,0.64 
-2016,02,22,05:00,Vault,compLexity,cache,CEVO Gfinity Professional Seas..,7,16,3,12,4,4,Vault,11,17,0.69 
-2016,02,22,05:00,compLexity,Vault,mirage,CEVO Gfinity Professional Seas..,16,19,8,7,7,8,Vault,24,25,0.96 
-2016,02,15,02:00,Bee'sMoneyCrew,Vault,dust2,CEVO Gfinity Professional Seas..,5,16,2,13,3,3,Vault,15,12,1.08 
-2016,02,15,02:00,Bee'sMoneyCrew,Vault,mirage,CEVO Gfinity Professional Seas..,16,12,9,6,7,6,Vault,22,20,1.10 
-2016,02,15,02:00,Bee'sMoneyCrew,Vault,cobblestone,CEVO Gfinity Professional Seas..,11,16,9,6,2,10,Vault,18,16,1.08 
-2015,12,15,06:00,ACE,SetToDestroyX,dust2,QuickShot Arena NA #2,16,14,12,3,4,11,SetToDestroyX,27,22,1.36 
-2015,12,15,01:00,SetToDestroyX,UMass,dust2,QuickShot Arena NA #2,13,16,8,7,5,9,SetToDestroyX,24,18,1.22 
-2015,12,15,01:00,UMass,SetToDestroyX,cobblestone,QuickShot Arena NA #2,16,14,7,8,9,6,SetToDestroyX,23,20,1.11 
-2015,09,21,03:00,Luminosity,Vault,dust2,RGN Freedom Cup,16,3,13,2,3,1,Vault,6,19,0.26 
-2015,09,17,05:00,3sUP,Vault,cobblestone,RGN Freedom Cup,8,16,5,10,3,6,Vault,23,12,1.45 
-2015,09,17,04:00,Vault,ex-eLevate,inferno,RGN Freedom Cup,6,16,4,11,2,5,Vault,19,20,0.95 
+2016,06,27,01:30,279,334,2,539,16,13,10,5,6,8,334,19,21,0.93 
+2016,06,27,01:30,334,279,7,539,11,16,6,9,5,7,334,15,22,0.70 
+2016,06,27,01:30,334,279,4,539,16,7,10,5,6,2,334,21,15,1.25 
+2016,05,16,02:40,436,424,14,574,1,16,1,14,0,2,436,7,15,0.51 
+2016,05,16,02:40,436,424,2,574,13,16,9,6,4,10,436,14,21,0.75 
+2016,05,09,02:00,436,447,14,581,13,16,7,8,6,8,436,21,22,1.10 
+2016,05,08,22:15,97,436,7,581,16,9,7,8,9,1,436,14,21,0.76 
+2016,05,08,22:15,436,97,0,581,16,13,10,5,6,8,436,23,18,1.09 
+2016,05,08,22:15,97,436,2,581,16,13,11,4,5,9,436,14,22,0.66 
+2016,05,08,19:00,449,436,1,581,8,16,4,11,4,5,436,12,18,0.62 
+2016,05,08,19:00,449,436,14,581,14,16,7,8,7,8,436,21,18,1.01 
+2016,05,08,19:00,449,436,2,581,16,14,12,3,4,11,436,21,22,0.98 
+2016,04,19,02:15,436,69,6,590,4,16,2,13,2,3,436,14,19,0.74 
+2016,04,19,02:15,69,436,2,590,16,8,11,4,5,4,436,12,20,0.70 
+2016,04,12,04:15,436,471,2,590,16,5,10,5,6,0,436,17,12,1.14 
+2016,04,12,04:15,436,471,14,590,16,10,9,6,7,4,436,22,17,1.23 
+2016,03,22,04:15,366,436,0,590,16,9,9,6,7,3,436,16,22,0.77 
+2016,03,22,04:15,366,436,1,590,16,10,9,6,7,4,436,10,22,0.47 
+2016,02,22,05:00,436,116,4,590,10,16,8,7,2,9,436,11,19,0.64 
+2016,02,22,05:00,436,116,7,590,7,16,3,12,4,4,436,11,17,0.69 
+2016,02,22,05:00,116,436,0,590,16,19,8,7,7,8,436,24,25,0.96 
+2016,02,15,02:00,422,436,1,590,5,16,2,13,3,3,436,15,12,1.08 
+2016,02,15,02:00,422,436,0,590,16,12,9,6,7,6,436,22,20,1.10 
+2016,02,15,02:00,422,436,14,590,11,16,9,6,2,10,436,18,16,1.08 
+2015,12,15,06:00,334,757,1,700,16,14,12,3,4,11,757,27,22,1.36 
+2015,12,15,01:00,757,753,1,700,13,16,8,7,5,9,757,24,18,1.22 
+2015,12,15,01:00,753,757,14,700,16,14,7,8,9,6,757,23,20,1.11 
+2015,09,21,03:00,70,436,1,725,16,3,13,2,3,1,436,6,19,0.26 
+2015,09,17,05:00,805,436,14,725,8,16,5,10,3,6,436,23,12,1.45 
+2015,09,17,04:00,436,910,6,725,6,16,4,11,2,5,436,19,20,0.95 

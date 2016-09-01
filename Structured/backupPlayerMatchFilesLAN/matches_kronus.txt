@@ -1,6 +1,0 @@
-2016,07,03,13:00,jA'Vi,Phantoms,nuke,AlienTech CS:GO TiTans II Fina..,16,2,14,1,2,1,Phantoms,3,17,0.18 
-2016,07,03,13:00,jA'Vi,Phantoms,cache,AlienTech CS:GO TiTans II Fina..,6,16,5,10,1,6,Phantoms,18,11,1.25 
-2016,07,03,13:00,Phantoms,jA'Vi,dust2,AlienTech CS:GO TiTans II Fina..,10,16,6,9,4,7,Phantoms,28,20,1.36 
-2016,07,03,11:00,Phantoms,LosMariachis,cache,AlienTech CS:GO TiTans II Fina..,16,11,6,9,10,2,Phantoms,20,14,1.25 
-2016,07,02,14:45,AlienTech,Phantoms,cache,AlienTech CS:GO TiTans II Fina..,16,11,7,8,9,3,Phantoms,13,22,0.62 
-2016,07,02,14:45,Phantoms,AlienTech,mirage,AlienTech CS:GO TiTans II Fina..,14,16,11,4,3,12,Phantoms,10,20,0.59 

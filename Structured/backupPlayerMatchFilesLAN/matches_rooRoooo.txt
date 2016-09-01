@@ -1,6 +1,0 @@
-2015,12,06,06:00,CLG,Splyce,cobblestone,Northern Arena 2015,16,8,11,4,5,4,Splyce,14,17,0.80 
-2015,12,06,06:00,CLG,Splyce,dust2,Northern Arena 2015,16,7,11,4,5,3,Splyce,14,20,0.69 
-2015,12,06,06:00,CLG,Splyce,train,Northern Arena 2015,8,16,7,8,1,8,Splyce,20,17,1.13 
-2015,12,06,04:00,Splyce,Method,mirage,Northern Arena 2015,16,14,8,7,8,7,Splyce,22,22,0.97 
-2015,12,06,02:45,compLexity,Splyce,train,Northern Arena 2015,16,12,11,4,5,8,Splyce,22,22,1.10 
-2015,12,06,01:45,Splyce,CLGRed,dust2,Northern Arena 2015,16,5,10,5,6,0,Splyce,21,13,1.39 

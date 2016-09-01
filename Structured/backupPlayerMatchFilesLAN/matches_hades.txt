@@ -1,5 +1,0 @@
-2016,05,20,00:20,Winterfox,WinOut,cobblestone,MLG Regional Minor Championshi..,12,16,7,8,5,8,Winterfox,15,22,0.71 
-2016,05,19,21:30,Selfless,Winterfox,cache,MLG Regional Minor Championshi..,16,4,11,4,5,0,Winterfox,10,17,0.71 
-2015,11,18,02:00,SKDC,CSGL,train,RGN Pro Series Championship,11,16,7,8,4,8,SKDC,14,21,0.79 
-2015,11,17,21:20,Liquid,SKDC,overpass,RGN Pro Series Championship,16,10,10,5,6,5,SKDC,10,22,0.54 
-2015,11,17,19:00,GamesAcademy,SKDC,dust2,RGN Pro Series Championship,16,5,11,4,5,1,SKDC,14,17,0.80 

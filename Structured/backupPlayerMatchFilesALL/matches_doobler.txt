@@ -1,3 +1,3 @@
-2016,08,04,14:00,Preparation,BinaryDragons,overpass,Adrenaline Cyber League,18,21,9,6,6,9,Binary Dragons,36,25,1.39 
-2016,08,04,14:00,Preparation,BinaryDragons,cobblestone,Adrenaline Cyber League,16,9,6,9,10,0,Binary Dragons,17,19,0.97 
-2016,08,04,14:00,BinaryDragons,Preparation,dust2,Adrenaline Cyber League,21,19,6,9,9,6,Binary Dragons,26,29,0.91 
+2016,08,04,14:00,184,187,4,489,18,21,9,6,6,9,187,36,25,1.39 
+2016,08,04,14:00,184,187,14,489,16,9,6,9,10,0,187,17,19,0.97 
+2016,08,04,14:00,187,184,1,489,21,19,6,9,9,6,187,26,29,0.91 

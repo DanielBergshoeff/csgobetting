@@ -1,5 +1,0 @@
-2016,05,29,15:55,aimclub,XPC,cache,ESL South East Europe Champion..,8,16,5,10,3,6,aimclub,21,17,1.11 
-2016,05,29,15:55,XPC,aimclub,cobblestone,ESL South East Europe Champion..,12,16,9,6,3,10,aimclub,20,17,1.12 
-2016,05,29,15:55,XPC,aimclub,mirage,ESL South East Europe Champion..,16,7,11,4,5,3,aimclub,15,17,0.96 
-2016,05,29,11:30,Bpro,aimclub,cache,ESL South East Europe Champion..,7,16,4,11,3,5,aimclub,19,9,1.29 
-2016,05,29,09:25,aimclub,neXtPlease!,cobblestone,ESL South East Europe Champion..,22,20,8,7,7,8,aimclub,23,25,0.87 

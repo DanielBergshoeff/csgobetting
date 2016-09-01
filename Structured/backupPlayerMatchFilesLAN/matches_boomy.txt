@@ -1,6 +1,0 @@
-2015,10,18,20:30,ReapWhatYouSow,Dynasty,dust2,Fragadelphia 6,16,10,10,5,6,5,Dynasty,18,22,0.88 
-2015,10,18,16:25,Enemy,Dynasty,train,Fragadelphia 6,16,10,13,2,3,8,Dynasty,14,18,0.77 
-2015,10,18,16:25,Enemy,Dynasty,cache,Fragadelphia 6,16,2,13,2,3,0,Dynasty,12,16,0.78 
-2015,10,18,01:30,Dynasty,Forbidden,cobblestone,Fragadelphia 6,16,11,7,8,9,3,Dynasty,31,15,1.88 
-2015,10,18,01:30,Forbidden,Dynasty,train,Fragadelphia 6,6,16,3,12,3,4,Dynasty,19,12,1.38 
-2015,10,18,01:30,Forbidden,Dynasty,mirage,Fragadelphia 6,16,6,12,3,4,3,Dynasty,16,16,1.09 

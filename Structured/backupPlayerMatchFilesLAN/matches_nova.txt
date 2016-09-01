@@ -1,3 +1,0 @@
-2015,09,06,04:00,VoxEminor,TRIDENT,dust2,ACL Melbourne 2015,5,16,2,13,3,3,Vox Eminor,15,14,1.03 
-2015,09,06,04:00,VoxEminor,TRIDENT,cache,ACL Melbourne 2015,3,16,3,12,0,4,Vox Eminor,12,14,0.96 
-2015,09,06,04:00,VoxEminor,TRIDENT,cobblestone,ACL Melbourne 2015,16,11,7,8,9,3,Vox Eminor,23,18,1.24 

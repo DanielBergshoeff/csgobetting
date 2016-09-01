@@ -1,4 +1,0 @@
-2015,10,18,22:00,SetToDestroyX,Forbidden,cobblestone,Fragadelphia 6,16,12,11,4,5,8,Forbidden,14,20,0.69 
-2015,10,18,01:30,Dynasty,Forbidden,cobblestone,Fragadelphia 6,16,11,7,8,9,3,Forbidden,21,20,0.99 
-2015,10,18,01:30,Forbidden,Dynasty,train,Fragadelphia 6,6,16,3,12,3,4,Forbidden,12,17,0.80 
-2015,10,18,01:30,Forbidden,Dynasty,mirage,Fragadelphia 6,16,6,12,3,4,3,Forbidden,13,13,0.91 

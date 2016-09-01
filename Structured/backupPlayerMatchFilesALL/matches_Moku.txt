@@ -1,44 +1,44 @@
-2016,04,21,14:00,Immunity,Legacy,mirage,PGL KeSPA Minor Oceania Qualif..,19,17,9,6,6,9,Legacy,24,30,0.87 
-2016,04,21,14:00,Legacy,Immunity,cache,PGL KeSPA Minor Oceania Qualif..,14,16,5,10,9,6,Legacy,34,21,1.66 
-2016,04,21,11:00,Legacy,Chiefs,cache,PGL KeSPA Minor Oceania Qualif..,16,5,13,2,3,3,Legacy,19,9,1.44 
-2016,04,21,11:00,Legacy,Chiefs,mirage,PGL KeSPA Minor Oceania Qualif..,16,14,6,9,10,5,Legacy,20,22,0.93 
-2016,04,21,11:00,Chiefs,Legacy,inferno,PGL KeSPA Minor Oceania Qualif..,16,8,12,3,4,5,Legacy,18,19,0.99 
-2016,03,13,09:15,VG.CyberZen,Legacy,overpass,DreamHack Masters Malmö 2016 A..,16,7,9,6,7,1,Legacy,15,19,0.86 
-2016,03,13,09:15,Legacy,VG.CyberZen,dust2,DreamHack Masters Malmö 2016 A..,17,19,5,10,10,5,Legacy,17,29,0.62 
-2016,03,13,06:25,Legacy,EDG,mirage,DreamHack Masters Malmö 2016 A..,16,13,12,3,4,10,Legacy,23,22,1.10 
-2016,03,13,06:25,EDG,Legacy,dust2,DreamHack Masters Malmö 2016 A..,10,16,6,9,4,7,Legacy,29,16,1.62 
-2015,12,10,12:00,Legacy,Exile5,mirage,Counter Pit League Season 2,22,18,12,3,3,12,Legacy,22,16,1.37 
-2015,12,09,10:00,Chiefs,Legacy,dust2,Counter Pit League Season 2,1,16,1,14,0,2,Legacy,13,11,1.10 
-2015,12,09,10:00,Legacy,Chiefs,mirage,Counter Pit League Season 2,16,12,9,6,7,6,Legacy,18,23,0.85 
-2015,12,07,12:00,VoxEminor,Legacy,mirage,Counter Pit League Season 2,8,16,7,8,1,8,Legacy,16,18,0.95 
-2015,12,07,12:00,VoxEminor,Legacy,cobblestone,Counter Pit League Season 2,8,16,5,10,3,6,Legacy,17,18,0.89 
-2015,12,06,10:00,Legacy,Immunity,cache,Counter Pit League Season 2,6,16,2,13,4,3,Legacy,15,19,0.76 
-2015,12,06,10:00,Legacy,Immunity,inferno,Counter Pit League Season 2,11,16,6,9,5,7,Legacy,17,22,0.78 
-2015,12,05,09:00,Legacy,TRIDENT,mirage,Counter Pit League Season 2,16,4,13,2,3,2,Legacy,24,10,1.85 
-2015,12,05,09:00,TRIDENT,Legacy,cache,Counter Pit League Season 2,10,16,3,12,7,4,Legacy,31,14,1.80 
-2015,11,27,12:00,Legacy,Liquid,cache,FACEIT League 2015 Stage 3 Fin..,11,16,7,8,4,8,Legacy,15,20,0.80 
-2015,11,27,12:00,Legacy,Liquid,cobblestone,FACEIT League 2015 Stage 3 Fin..,8,16,3,12,5,4,Legacy,15,21,0.74 
-2015,11,26,13:00,Virtus.pro,Legacy,cobblestone,FACEIT League 2015 Stage 3 Fin..,16,12,9,6,7,6,Legacy,17,26,0.65 
-2015,11,16,22:00,DeadPixels,Legacy,mirage,Red Dot Closed Qualifier,16,7,9,6,7,1,Legacy,10,23,0.36 
-2015,11,16,19:00,E-frag.net,Legacy,inferno,Red Dot Closed Qualifier,15,5,10,5,5,0,Legacy,8,20,0.44 
-2015,10,18,12:00,AnimalSquad,fSociety,cache,FACEIT League 2015 Stage 3,21,18,6,9,9,6,Animal Squad,26,32,0.85 
-2015,10,17,13:00,AnimalSquad,Chiefs,cache,FACEIT League 2015 Stage 3,11,16,9,6,2,10,Animal Squad,27,22,1.27 
-2015,10,16,11:30,Immunity,AnimalSquad,mirage,FACEIT League 2015 Stage 3,9,16,5,10,4,6,Animal Squad,21,16,1.18 
-2015,10,04,13:40,Exile5,AnimalSquad,mirage,FACEIT League 2015 Stage 3,16,8,9,6,7,2,Animal Squad,18,19,0.99 
-2015,10,03,14:15,AnimalSquad,Renegades,cache,FACEIT League 2015 Stage 3,16,8,10,5,6,3,Animal Squad,14,15,0.89 
-2015,09,22,14:00,AthleticoBH,AnimalSquad,cobblestone,FACEIT League 2015 Stage 3 OCE..,10,16,6,9,4,7,Animal Squad,22,15,1.25 
-2015,09,22,14:00,AnimalSquad,AthleticoBH,inferno,FACEIT League 2015 Stage 3 OCE..,21,15,9,6,6,9,Animal Squad,20,12,1.48 
-2015,09,21,13:00,RiP,AnimalSquad,dust2,FACEIT League 2015 Stage 3 OCE..,7,16,4,11,3,5,Animal Squad,26,15,1.56 
-2015,09,21,13:00,RiP,AnimalSquad,mirage,FACEIT League 2015 Stage 3 OCE..,10,16,4,11,6,5,Animal Squad,18,19,0.93 
-2015,06,21,12:00,AVANTGARDE,Exile5,dust2,FACEIT League 2015 Stage 2,13,16,5,10,8,6,Exile5,20,23,0.82 
-2015,06,20,13:30,Renegades,Exile5,inferno,FACEIT League 2015 Stage 2,16,11,7,8,9,3,Exile5,22,20,1.04 
-2015,05,30,10:00,Steelseries,Exile5,dust2,FACEIT League 2015 Stage 2 Oce..,14,16,10,5,4,11,Steelseries,28,20,1.21 
-2015,05,30,10:00,Exile5,Steelseries,cobblestone,FACEIT League 2015 Stage 2 Oce..,16,6,11,4,5,2,Steelseries,17,17,1.12 
-2015,05,29,12:00,Steelseries,DireWolves,inferno,FACEIT League 2015 Stage 2 Oce..,14,16,8,7,6,9,Steelseries,33,24,1.39 
-2015,05,29,12:00,Steelseries,DireWolves,cache,FACEIT League 2015 Stage 2 Oce..,10,16,9,6,1,10,Steelseries,18,20,0.95 
-2015,05,27,11:00,Steelseries,Skyfire,dust2,FACEIT League 2015 Stage 2 Oce..,16,13,8,7,8,6,Steelseries,15,21,0.82 
-2015,05,27,11:00,Skyfire,Steelseries,overpass,FACEIT League 2015 Stage 2 Oce..,16,12,14,1,2,11,Steelseries,27,21,1.24 
-2015,05,27,11:00,Skyfire,Steelseries,cache,FACEIT League 2015 Stage 2 Oce..,14,16,5,10,9,6,Steelseries,20,21,0.88 
-2015,04,05,13:00,AVANTGARDE,Chiefs,mirage,FACEIT League 2015 Stage 1,12,16,4,11,8,5,Chiefs,23,22,1.09 
-2015,03,29,12:00,TRIDENT,Chiefs,cache,FACEIT League 2015 Stage 1,10,16,6,9,4,7,Chiefs,25,19,1.27 
-2015,03,22,10:00,Chiefs,VoxEminor,mirage,FACEIT League 2015 Stage 1,16,5,12,3,4,2,Chiefs,18,12,1.34 
+2016,04,21,14:00,429,229,0,604,19,17,9,6,6,9,229,24,30,0.87 
+2016,04,21,14:00,229,429,7,604,14,16,5,10,9,6,229,34,21,1.66 
+2016,04,21,11:00,229,3,7,604,16,5,13,2,3,3,229,19,9,1.44 
+2016,04,21,11:00,229,3,0,604,16,14,6,9,10,5,229,20,22,0.93 
+2016,04,21,11:00,3,229,6,604,16,8,12,3,4,5,229,18,19,0.99 
+2016,03,13,09:15,35,229,4,633,16,7,9,6,7,1,229,15,19,0.86 
+2016,03,13,09:15,229,35,1,633,17,19,5,10,10,5,229,17,29,0.62 
+2016,03,13,06:25,229,191,0,633,16,13,12,3,4,10,229,23,22,1.10 
+2016,03,13,06:25,191,229,1,633,10,16,6,9,4,7,229,29,16,1.62 
+2015,12,10,12:00,229,227,0,638,22,18,12,3,3,12,229,22,16,1.37 
+2015,12,09,10:00,3,229,1,638,1,16,1,14,0,2,229,13,11,1.10 
+2015,12,09,10:00,229,3,0,638,16,12,9,6,7,6,229,18,23,0.85 
+2015,12,07,12:00,787,229,0,638,8,16,7,8,1,8,229,16,18,0.95 
+2015,12,07,12:00,787,229,14,638,8,16,5,10,3,6,229,17,18,0.89 
+2015,12,06,10:00,229,429,7,638,6,16,2,13,4,3,229,15,19,0.76 
+2015,12,06,10:00,229,429,6,638,11,16,6,9,5,7,229,17,22,0.78 
+2015,12,05,09:00,229,799,0,638,16,4,13,2,3,2,229,24,10,1.85 
+2015,12,05,09:00,799,229,7,638,10,16,3,12,7,4,229,31,14,1.80 
+2015,11,27,12:00,229,303,7,728,11,16,7,8,4,8,229,15,20,0.80 
+2015,11,27,12:00,229,303,14,728,8,16,3,12,5,4,229,15,21,0.74 
+2015,11,26,13:00,8,229,14,728,16,12,9,6,7,6,229,17,26,0.65 
+2015,11,16,22:00,475,229,0,733,16,7,9,6,7,1,229,10,23,0.36 
+2015,11,16,19:00,472,229,6,733,15,5,10,5,5,0,229,8,20,0.44 
+2015,10,18,12:00,923,924,7,749,21,18,6,9,9,6,923,26,32,0.85 
+2015,10,17,13:00,923,3,7,749,11,16,9,6,2,10,923,27,22,1.27 
+2015,10,16,11:30,429,923,0,749,9,16,5,10,4,6,923,21,16,1.18 
+2015,10,04,13:40,227,923,0,749,16,8,9,6,7,2,923,18,19,0.99 
+2015,10,03,14:15,923,286,7,749,16,8,10,5,6,3,923,14,15,0.89 
+2015,09,22,14:00,5,923,14,807,10,16,6,9,4,7,923,22,15,1.25 
+2015,09,22,14:00,923,5,6,807,21,15,9,6,6,9,923,20,12,1.48 
+2015,09,21,13:00,973,923,1,807,7,16,4,11,3,5,923,26,15,1.56 
+2015,09,21,13:00,973,923,0,807,10,16,4,11,6,5,923,18,19,0.93 
+2015,06,21,12:00,64,227,1,878,13,16,5,10,8,6,227,20,23,0.82 
+2015,06,20,13:30,286,227,6,878,16,11,7,8,9,3,227,22,20,1.04 
+2015,05,30,10:00,1073,227,1,912,14,16,10,5,4,11,1073,28,20,1.21 
+2015,05,30,10:00,227,1073,14,912,16,6,11,4,5,2,1073,17,17,1.12 
+2015,05,29,12:00,1073,1059,6,912,14,16,8,7,6,9,1073,33,24,1.39 
+2015,05,29,12:00,1073,1059,7,912,10,16,9,6,1,10,1073,18,20,0.95 
+2015,05,27,11:00,1073,2,1,912,16,13,8,7,8,6,1073,15,21,0.82 
+2015,05,27,11:00,2,1073,4,912,16,12,14,1,2,11,1073,27,21,1.24 
+2015,05,27,11:00,2,1073,7,912,14,16,5,10,9,6,1073,20,21,0.88 
+2015,04,05,13:00,64,3,0,935,12,16,4,11,8,5,3,23,22,1.09 
+2015,03,29,12:00,799,3,7,935,10,16,6,9,4,7,3,25,19,1.27 
+2015,03,22,10:00,3,787,0,935,16,5,12,3,4,2,3,18,12,1.34 

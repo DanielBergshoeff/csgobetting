@@ -1,9 +1,0 @@
-2016,03,26,11:00,YPLadies,ALSENfe,train,Copenhagen Games 2016 female,16,6,12,3,4,3,ALSEN fe,16,18,0.97 
-2016,03,26,11:00,ALSENfe,YPLadies,mirage,Copenhagen Games 2016 female,16,11,7,8,9,3,ALSEN fe,23,19,1.10 
-2016,03,26,11:00,YPLadies,ALSENfe,cobblestone,Copenhagen Games 2016 female,16,5,10,5,6,0,ALSEN fe,15,18,0.80 
-2016,03,26,00:20,ALSENfe,WyvernLadies,inferno,Copenhagen Games 2016 female,16,11,9,6,7,5,ALSEN fe,20,19,1.03 
-2016,03,26,00:20,WyvernLadies,ALSENfe,mirage,Copenhagen Games 2016 female,17,19,9,6,6,9,ALSEN fe,25,26,0.94 
-2016,03,25,19:50,ALSENfe,Karma,cobblestone,Copenhagen Games 2016 female,5,16,4,11,1,5,ALSEN fe,10,18,0.51 
-2016,03,25,19:50,Karma,ALSENfe,cache,Copenhagen Games 2016 female,16,6,13,2,3,4,ALSEN fe,14,18,0.79 
-2016,03,25,14:00,ALSENfe,nKnownfe,train,Copenhagen Games 2016 female,16,3,12,3,4,0,ALSEN fe,15,10,1.11 
-2016,03,25,14:00,ALSENfe,nKnownfe,cache,Copenhagen Games 2016 female,16,7,11,4,5,3,ALSEN fe,28,15,1.75 

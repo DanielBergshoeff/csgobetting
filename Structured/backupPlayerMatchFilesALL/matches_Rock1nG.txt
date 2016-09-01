@@ -1,32 +1,32 @@
-2016,06,13,16:10,Bpro,ex-CPHWolves,mirage,Razer Rising Stars European Le..,3,16,3,12,0,4,Bpro,7,18,0.41 
-2016,06,13,16:10,Bpro,ex-CPHWolves,train,Razer Rising Stars European Le..,12,16,7,8,5,8,Bpro,17,19,0.87 
-2016,06,07,18:15,Orbit,Bpro,overpass,Razer Rising Stars European Le..,16,6,11,4,5,2,Bpro,15,19,0.84 
-2016,06,07,18:15,Orbit,Bpro,mirage,Razer Rising Stars European Le..,16,10,12,3,4,7,Bpro,17,21,0.97 
-2016,06,05,18:00,Bpro,XPC,overpass,Balkan Championship Season 3,16,7,9,6,7,1,Bpro,18,10,1.27 
-2016,06,05,18:00,XPC,Bpro,cache,Balkan Championship Season 3,14,16,8,7,6,9,Bpro,20,21,0.94 
-2016,06,04,19:10,SpaceSoldiers,Bpro,mirage,DreamHack ZOWIE Open Summer 20..,16,9,13,2,3,7,Bpro,7,20,0.44 
-2016,06,02,22:00,ALTERNATEaTTaX,Bpro,cache,Razer Rising Stars European Le..,16,13,10,5,6,8,Bpro,15,20,0.77 
-2016,06,02,22:00,ALTERNATEaTTaX,Bpro,dust2,Razer Rising Stars European Le..,16,7,13,2,3,5,Bpro,7,18,0.46 
-2016,06,01,19:00,Bpro,aimclub,dust2,Balkan Championship Season 3,16,6,11,4,5,2,Bpro,9,16,0.59 
-2016,06,01,19:00,Bpro,aimclub,cobblestone,Balkan Championship Season 3,8,16,6,9,2,7,Bpro,13,19,0.72 
-2016,06,01,19:00,aimclub,Bpro,mirage,Balkan Championship Season 3,8,16,8,7,0,9,Bpro,24,15,1.43 
-2016,05,29,13:15,XPC,Bpro,dust2,ESL South East Europe Champion..,19,17,6,9,9,6,Bpro,18,30,0.57 
-2016,05,29,13:15,Bpro,XPC,overpass,ESL South East Europe Champion..,6,16,5,10,1,6,Bpro,13,18,0.77 
-2016,05,29,11:30,Bpro,aimclub,cache,ESL South East Europe Champion..,7,16,4,11,3,5,Bpro,12,20,0.74 
-2016,05,29,09:30,XPC,Bpro,cache,ESL South East Europe Champion..,14,16,7,8,7,8,Bpro,19,22,0.88 
-2016,05,23,22:25,Bpro,DenDD,mirage,Razer Rising Stars European Le..,12,16,6,9,6,7,Bpro,14,20,0.75 
-2016,05,23,22:25,Bpro,DenDD,cobblestone,Razer Rising Stars European Le..,7,16,6,9,1,7,Bpro,5,21,0.25 
-2016,05,20,20:00,Bpro,Iwku,cache,Razer Rising Stars European Le..,9,16,7,8,2,8,Bpro,17,21,0.79 
-2016,05,20,20:00,Bpro,Iwku,overpass,Razer Rising Stars European Le..,16,12,5,10,11,2,Bpro,12,21,0.60 
-2016,05,17,22:00,Bpro,SpaceSoldiers,train,Razer Rising Stars European Le..,6,16,6,9,0,7,Bpro,9,21,0.41 
-2016,05,17,22:00,Bpro,SpaceSoldiers,cobblestone,Razer Rising Stars European Le..,3,16,3,12,0,4,Bpro,7,17,0.42 
-2016,05,11,21:00,Bpro,Pixel,cobblestone,Balkan Championship Season 3,16,9,8,7,8,2,Bpro,29,14,1.70 
-2016,05,03,20:00,aimclub,Bpro,overpass,Balkan Championship Season 3,16,5,14,1,2,4,Bpro,13,18,0.77 
-2016,04,27,20:10,Bpro,SuperMassive,cache,Balkan Championship Season 3,19,17,7,8,8,7,Bpro,20,25,0.83 
-2016,04,18,21:00,Bpro,neXtPlease!,cache,Balkan Championship Season 3,16,8,13,2,3,6,Bpro,24,13,1.52 
-2016,04,11,20:00,GameAgents,Bpro,mirage,Balkan Championship Season 3,16,13,9,6,7,7,Bpro,27,22,1.25 
-2016,04,07,19:00,Bpro,Deathtrap,train,Balkan Championship Season 3,16,8,11,4,5,4,Bpro,13,15,0.86 
-2016,04,01,21:00,TogetherAsOne,Bpro,cache,Balkan Championship Season 3,9,16,2,13,7,3,Bpro,17,18,0.94 
-2016,03,25,21:00,CS-GO.rs,Bpro,cache,Balkan Championship Season 3,6,16,3,12,3,4,Bpro,9,13,0.78 
-2016,03,24,21:00,Bpro,XPC,mirage,Balkan Championship Season 3,16,12,8,7,8,5,Bpro,18,19,0.90 
-2016,03,09,22:45,Bpro,AlienTech,overpass,Razer Rising Stars European Le..,16,6,10,5,6,1,Bpro,16,9,1.22 
+2016,06,13,16:10,262,355,0,498,3,16,3,12,0,4,262,7,18,0.41 
+2016,06,13,16:10,262,355,2,498,12,16,7,8,5,8,262,17,19,0.87 
+2016,06,07,18:15,297,262,4,498,16,6,11,4,5,2,262,15,19,0.84 
+2016,06,07,18:15,297,262,0,498,16,10,12,3,4,7,262,17,21,0.97 
+2016,06,05,18:00,262,379,4,556,16,7,9,6,7,1,262,18,10,1.27 
+2016,06,05,18:00,379,262,7,556,14,16,8,7,6,9,262,20,21,0.94 
+2016,06,04,19:10,29,262,0,546,16,9,13,2,3,7,262,7,20,0.44 
+2016,06,02,22:00,49,262,7,498,16,13,10,5,6,8,262,15,20,0.77 
+2016,06,02,22:00,49,262,1,498,16,7,13,2,3,5,262,7,18,0.46 
+2016,06,01,19:00,262,157,1,556,16,6,11,4,5,2,262,9,16,0.59 
+2016,06,01,19:00,262,157,14,556,8,16,6,9,2,7,262,13,19,0.72 
+2016,06,01,19:00,157,262,0,556,8,16,8,7,0,9,262,24,15,1.43 
+2016,05,29,13:15,379,262,1,560,19,17,6,9,9,6,262,18,30,0.57 
+2016,05,29,13:15,262,379,4,560,6,16,5,10,1,6,262,13,18,0.77 
+2016,05,29,11:30,262,157,7,560,7,16,4,11,3,5,262,12,20,0.74 
+2016,05,29,09:30,379,262,7,560,14,16,7,8,7,8,262,19,22,0.88 
+2016,05,23,22:25,262,147,0,498,12,16,6,9,6,7,262,14,20,0.75 
+2016,05,23,22:25,262,147,14,498,7,16,6,9,1,7,262,5,21,0.25 
+2016,05,20,20:00,262,260,7,498,9,16,7,8,2,8,262,17,21,0.79 
+2016,05,20,20:00,262,260,4,498,16,12,5,10,11,2,262,12,21,0.60 
+2016,05,17,22:00,262,29,2,498,6,16,6,9,0,7,262,9,21,0.41 
+2016,05,17,22:00,262,29,14,498,3,16,3,12,0,4,262,7,17,0.42 
+2016,05,11,21:00,262,444,14,556,16,9,8,7,8,2,262,29,14,1.70 
+2016,05,03,20:00,157,262,4,556,16,5,14,1,2,4,262,13,18,0.77 
+2016,04,27,20:10,262,457,7,556,19,17,7,8,8,7,262,20,25,0.83 
+2016,04,18,21:00,262,398,7,556,16,8,13,2,3,6,262,24,13,1.52 
+2016,04,11,20:00,358,262,0,556,16,13,9,6,7,7,262,27,22,1.25 
+2016,04,07,19:00,262,406,2,556,16,8,11,4,5,4,262,13,15,0.86 
+2016,04,01,21:00,505,262,7,556,9,16,2,13,7,3,262,17,18,0.94 
+2016,03,25,21:00,276,262,7,556,6,16,3,12,3,4,262,9,13,0.78 
+2016,03,24,21:00,262,379,0,556,16,12,8,7,8,5,262,18,19,0.90 
+2016,03,09,22:45,262,278,4,498,16,6,10,5,6,1,262,16,9,1.22 

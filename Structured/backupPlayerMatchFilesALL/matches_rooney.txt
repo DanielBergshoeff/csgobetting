@@ -1,2 +1,2 @@
-2016,06,24,11:30,SaudiArabia,Palestine,dust2,World Championships 2016 Asian..,12,16,7,8,5,8,Saudi Arabia,22,15,1.28 
-2016,06,24,11:30,Palestine,SaudiArabia,mirage,World Championships 2016 Asian..,16,6,11,4,5,2,Saudi Arabia,14,19,0.80 
+2016,06,24,11:30,347,329,1,517,12,16,7,8,5,8,347,22,15,1.28 
+2016,06,24,11:30,329,347,0,517,16,6,11,4,5,2,347,14,19,0.80 

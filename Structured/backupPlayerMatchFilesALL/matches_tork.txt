@@ -1,4 +1,4 @@
-2015,12,15,03:30,ACE,Incursion,mirage,QuickShot Arena NA #2,11,16,6,9,5,7,Incursion,13,14,0.88 
-2015,12,15,03:30,ACE,Incursion,inferno,QuickShot Arena NA #2,11,16,6,9,5,7,Incursion,21,14,1.26 
-2015,05,26,02:00,Braindead,SetToDestroyX,mirage,FACEIT League 2015 Stage 2 NA ..,16,8,10,5,6,3,SetToDestroyX,18,18,0.95 
-2015,05,26,02:00,SetToDestroyX,Braindead,inferno,FACEIT League 2015 Stage 2 NA ..,14,16,10,5,4,11,SetToDestroyX,22,22,0.95 
+2015,12,15,03:30,334,754,0,700,11,16,6,9,5,7,754,13,14,0.88 
+2015,12,15,03:30,334,754,6,700,11,16,6,9,5,7,754,21,14,1.26 
+2015,05,26,02:00,586,757,0,905,16,8,10,5,6,3,757,18,18,0.95 
+2015,05,26,02:00,757,586,6,905,14,16,10,5,4,11,757,22,22,0.95 

@@ -1,3 +1,0 @@
-2015,11,18,00:15,Winterfox,Torqued,overpass,RGN Pro Series Championship,16,13,6,9,10,4,Torqued,7,22,0.42 
-2015,11,17,22:30,CLGRed,Torqued,dust2,RGN Pro Series Championship,5,16,3,12,2,4,Torqued,16,11,1.16 
-2015,11,17,21:00,Luminosity,Torqued,mirage,RGN Pro Series Championship,16,7,9,6,7,1,Torqued,7,19,0.42 

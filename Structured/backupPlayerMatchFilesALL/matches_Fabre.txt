@@ -1,7 +1,7 @@
-2016,04,23,21:30,XPC,Deathtrap,cache,Balkan Championship Season 3,16,6,10,5,6,1,Deathtrap,6,21,0.29 
-2016,04,22,22:00,GameAgents,Deathtrap,cobblestone,Balkan Championship Season 3,16,12,11,4,5,8,Deathtrap,19,23,0.88 
-2016,04,11,21:15,Deathtrap,Pixel,dust2,Balkan Championship Season 3,19,16,6,9,9,6,Deathtrap,16,24,0.74 
-2016,04,07,19:00,Bpro,Deathtrap,train,Balkan Championship Season 3,16,8,11,4,5,4,Deathtrap,9,20,0.52 
-2016,04,04,21:00,aimclub,Deathtrap,cache,Balkan Championship Season 3,16,12,6,9,10,3,Deathtrap,10,19,0.62 
-2016,03,27,18:00,Deathtrap,SuperMassive,cache,Balkan Championship Season 3,16,3,12,3,4,0,Deathtrap,14,10,1.25 
-2016,03,22,22:00,RB,Deathtrap,dust2,Balkan Championship Season 3,9,16,8,7,1,9,Deathtrap,15,16,0.96 
+2016,04,23,21:30,379,406,7,556,16,6,10,5,6,1,406,6,21,0.29 
+2016,04,22,22:00,358,406,14,556,16,12,11,4,5,8,406,19,23,0.88 
+2016,04,11,21:15,406,444,1,556,19,16,6,9,9,6,406,16,24,0.74 
+2016,04,07,19:00,262,406,2,556,16,8,11,4,5,4,406,9,20,0.52 
+2016,04,04,21:00,157,406,7,556,16,12,6,9,10,3,406,10,19,0.62 
+2016,03,27,18:00,406,457,7,556,16,3,12,3,4,0,406,14,10,1.25 
+2016,03,22,22:00,433,406,1,556,9,16,8,7,1,9,406,15,16,0.96 

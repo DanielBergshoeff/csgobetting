@@ -1,14 +1,14 @@
-2016,07,16,15:30,ENCE,Preparation,dust2,GG Masters,16,5,10,5,6,0,ENCE,14,9,1.27 
-2016,06,03,20:45,KoNSweden,KoNFinland,mirage,King of Nordic Season 4,16,6,11,4,5,2,KoN Finland,8,18,0.61 
-2016,06,03,19:15,KoNFinland,KoNDenmark,cache,King of Nordic Season 4,16,14,10,5,6,9,KoN Finland,20,19,1.11 
-2016,05,20,20:45,KoNSweden,KoNFinland,mirage,King of Nordic Season 4,16,13,6,9,10,4,KoN Finland,23,22,1.02 
-2016,03,25,23:00,KoNSweden,KoNFinland,inferno,King of Nordic Season 3,16,12,12,3,4,9,KoN Finland,15,20,0.74 
-2016,03,18,22:30,KoNSweden,KoNFinland,dust2,King of Nordic Season 3,4,16,1,14,3,2,KoN Finland,23,13,1.59 
-2016,03,18,21:30,KoNNorway,KoNFinland,mirage,King of Nordic Season 3,12,16,7,8,5,8,KoN Finland,19,18,1.02 
-2016,03,04,22:30,KoNSweden,KoNFinland,dust2,King of Nordic Season 3,16,8,13,2,3,6,KoN Finland,6,17,0.47 
-2016,03,04,21:30,KoNFinland,KoNNorway,dust2,King of Nordic Season 3,16,3,13,2,3,1,KoN Finland,24,7,2.21 
-2016,03,04,20:15,KoNFinland,KoNDenmark,inferno,King of Nordic Season 3,16,6,11,4,5,2,KoN Finland,24,9,1.71 
-2016,01,15,21:30,KoNSweden,KoNFinland,mirage,King of Nordic Season 2,16,14,12,3,4,11,KoN Finland,17,23,0.86 
-2016,01,15,20:15,KoNNorway,KoNFinland,mirage,King of Nordic Season 2,5,16,5,10,0,6,KoN Finland,15,12,1.17 
-2015,08,28,20:30,Denmark,Finland,mirage,King of Nordic Season 1,20,20,7,8,8,7,Finland,29,26,1.04 
-2015,08,28,19:00,Norway,Finland,inferno,King of Nordic Season 1,12,16,5,10,7,6,Finland,20,18,1.12 
+2016,07,16,15:30,132,184,1,503,16,5,10,5,6,0,132,14,9,1.27 
+2016,06,03,20:45,82,80,0,484,16,6,11,4,5,2,80,8,18,0.61 
+2016,06,03,19:15,80,83,7,484,16,14,10,5,6,9,80,20,19,1.11 
+2016,05,20,20:45,82,80,0,484,16,13,6,9,10,4,80,23,22,1.02 
+2016,03,25,23:00,82,80,6,603,16,12,12,3,4,9,80,15,20,0.74 
+2016,03,18,22:30,82,80,1,603,4,16,1,14,3,2,80,23,13,1.59 
+2016,03,18,21:30,81,80,0,603,12,16,7,8,5,8,80,19,18,1.02 
+2016,03,04,22:30,82,80,1,603,16,8,13,2,3,6,80,6,17,0.47 
+2016,03,04,21:30,80,81,1,603,16,3,13,2,3,1,80,24,7,2.21 
+2016,03,04,20:15,80,83,6,603,16,6,11,4,5,2,80,24,9,1.71 
+2016,01,15,21:30,82,80,0,673,16,14,12,3,4,11,80,17,23,0.86 
+2016,01,15,20:15,81,80,0,673,5,16,5,10,0,6,80,15,12,1.17 
+2015,08,28,20:30,941,940,0,830,20,20,7,8,8,7,940,29,26,1.04 
+2015,08,28,19:00,939,940,6,830,12,16,5,10,7,6,940,20,18,1.12 

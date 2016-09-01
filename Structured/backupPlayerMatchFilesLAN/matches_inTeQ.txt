@@ -1,5 +1,0 @@
-2016,03,24,15:30,FOXTROT,seven,cobblestone,Copenhagen Games 2016 BYOC Qua..,1,16,1,14,0,2,FOXTROT,3,16,0.23 
-2016,03,24,13:00,404OrgNotFound,FOXTROT,dust2,Copenhagen Games 2016 BYOC Qua..,16,14,6,9,10,5,FOXTROT,12,18,0.68 
-2015,04,02,17:00,partyastronauts,eSpuma,nuke,Copenhagen Games 2015,16,1,14,1,2,0,eSpuma,2,17,0.10 
-2015,04,02,15:30,eSpuma,Lemondogs,dust2,Copenhagen Games 2015,1,16,1,14,0,2,eSpuma,8,17,0.43 
-2015,04,02,14:00,eSpuma,partyastronauts,inferno,Copenhagen Games 2015,16,7,11,4,5,3,eSpuma,21,12,1.53 

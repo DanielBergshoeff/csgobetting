@@ -1,2 +1,2 @@
-2016,08,14,10:30,GrinnyBankers,Skyfire,mirage,ESL ANZ Championship Season 2 ..,8,16,3,12,5,4,Grinny Bankers,11,18,0.61 
-2016,08,14,10:30,Skyfire,GrinnyBankers,cobblestone,ESL ANZ Championship Season 2 ..,16,2,13,2,3,0,Grinny Bankers,16,18,1.00 
+2016,08,14,10:30,67,2,0,480,8,16,3,12,5,4,67,11,18,0.61 
+2016,08,14,10:30,2,67,14,480,16,2,13,2,3,0,67,16,18,1.00 
